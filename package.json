@@ -6,7 +6,9 @@
   "scripts": {
     "build": "npx tsc",
     "start": "node dist/index.js",
-    "dev": "ts-node-dev app.ts",
+    "dev:Process": "ts-node-dev src/processor.ts",
+    "dev:Serve": "ts-node-dev src/generator.ts",
+    "dev": "ts-node-dev src/processor.ts && ts-node-dev src/generator.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
