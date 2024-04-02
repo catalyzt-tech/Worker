@@ -9,8 +9,9 @@ const run = async () => {
       data = d
     })
 
-    
+  //Return json object from function run to return generate json file and api path
   return data
 }
 
+//export the function run
 export { run }
