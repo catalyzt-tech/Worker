@@ -2,10 +2,11 @@
 const run = async () => {
   let data
 
-  let fetchRes = fetch("https://jsonplaceholder.typicode.com/todos/1");
+  let fetchRes = fetch('https://jsonplaceholder.typicode.com/todos')
   await fetchRes
-    .then(res => res.json())
-    .then(d => {
+    .then((res) => res.json())
+    .then((d) => {
+      console.log(d)
       data = d
     })
 
@@ -13,5 +14,6 @@ const run = async () => {
   return data
 }
 
+run()
 //export the function run
 export { run }
