@@ -12,7 +12,8 @@ pids
 logs
 results
 tmp
-
+raw
+raw/*
 # Build
 public/css/main.css
 
