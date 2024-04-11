@@ -65,8 +65,8 @@ const run = () => {
       max = obj.scaled
     }
   });
-  console.log("Max val ->", max)
-  console.log(uniqueImpactCategories)
+  // console.log("Max val ->", max)
+  // console.log(uniqueImpactCategories)
   return json
 }
 

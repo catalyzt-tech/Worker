@@ -6,7 +6,7 @@ const run = () => {
     'utf-8'
   )
   const json = JSON.parse(data)
-  console.log(json)
+  // console.log(json)
   return json
 }
 

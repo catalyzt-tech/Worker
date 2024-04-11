@@ -43,7 +43,7 @@ const run = async () => {
   }
 
   const result = processProjects()
-  console.log(result)
+  // console.log(result)
 
   return result
 }
