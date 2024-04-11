@@ -24,6 +24,30 @@ const run = () => {
         }).join(' ');
       });
     }
+    if (typeof(obj["New Main-Category"]) === "string") {
+      //@ts-ignore
+      obj["New Main-Category"] = obj["New Main-Category"].split('_').map(word => {
+        return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
+      }).join(' ');
+    }
+    
+  
+    if (obj.ballot === null) {
+      //@ts-ignore
+      obj.ballot = 0
+    }
+    if (obj.median === null) {
+      //@ts-ignore
+      obj.median = -1
+    }
+    if (obj.scaled === null) {
+      //@ts-ignore
+      obj.scaled = -1
+    }
+    if (obj.rank === null) {
+      //@ts-ignore
+      obj.rank = -1
+    }
     
     
     if(typeof(obj.impactMetrics) === "string"){
