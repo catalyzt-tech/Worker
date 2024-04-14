@@ -22,7 +22,7 @@ const run = async () => {
   const imageType = ['png', 'jpg', 'jpeg']
   const processUpload = async () => {
     //0-500, 501
-    for (let index = 0; index < 500; index++) {
+    for (let index = 1500; index < data.length; index++) {
       const address = data[index]['metadataPtr'].slice(60, 102)
       console.log(address)
       console.log(index, data[index]['displayName'])
@@ -110,7 +110,7 @@ const run = async () => {
     await fs.mkdirSync(dir, { recursive: true })
 
     // Write the file
-    const filePath = path.join(dir, 'rpgf3(image1).json')
+    const filePath = path.join(dir, 'rpgf3(image4).json')
     await fs.writeFileSync(filePath, JSON.stringify(newDataset, null, 2))
 
     return newDataset
