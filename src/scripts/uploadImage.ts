@@ -19,6 +19,7 @@ const run = async () => {
     for (const [index, project] of data.entries()) {
       const address = project['metadataPtr'].slice(60, 102)
       console.log(address)
+      console.log(index, project['displayName'])
       //Icon image
       for (const type of imageType) {
         const urlIcon = `https://content.optimism.io/profile/v0/profile-image/10/${address}.${type}`
@@ -47,6 +48,8 @@ const run = async () => {
             }
           )
           break
+        } else {
+          iconPath = ''
         }
       }
       //Banner Image
@@ -78,6 +81,8 @@ const run = async () => {
             }
           )
           break
+        } else {
+          bannerPath = ''
         }
       }
       //Update data
