@@ -1,0 +1,33 @@
+[
+  {
+    "displayName": "sunce86",
+    "projectId": "0x002f7b3734cef070f9c5f245c87f6d18c1279d3c5e15c289f4e1f3690a917e24",
+    "Approval Attestation ID": "0x82426eab338a4383b2ab55d94d41ffd46770a1f5f217f0c3fa81fbb5a0964dc4",
+    "Agora URL": "https://vote.optimism.io/retropgf/3/application/0x82426eab338a4383b2ab55d94d41ffd46770a1f5f217f0c3fa81fbb5a0964dc4",
+    "West URL": "https://round3.optimism.io/projects/0x82426eab338a4383b2ab55d94d41ffd46770a1f5f217f0c3fa81fbb5a0964dc4",
+    "Approved": true,
+    "applicantType": "INDIVIDUAL",
+    "websiteUrl": "https://twitter.com/_sunce86",
+    "bio": "OpenEthereum client developer. Cowswap backend developer.",
+    "contributionDescription": "I was involved in implementing key features for \"Berlin\" and especially \"London\" hard fork for Ethereum mainnet client - OpenEthereum. At that time, OpenEtherem had a share of 15% of all Ethereum mainnet nodes. \nOne of my main contributions was EIP1559 implementation (fee mechanism) for OpenEtherem.\nExcept that, I was part of regular ETH DEV calls and main responsible for testing the client and communicating with other client team developers.\nOther than that, I also contributed to rust-web3 library.\nOther than that, I am one of the main developers of Cowswap backend project (https://github.com/cowprotocol/services), a decentralized exchange aiming to tackle the MEV problem and improve prices for end users by batching ofchain intent trades.",
+    "contributionLinks": "[{\"type\":\"GITHUB_REPO\",\"url\":\"https://github.com/openethereum/openethereum/pull/393\",\"description\":\"EIP1559 implementation for OpenEthereum. Received London POAP for this.\"},{\"type\":\"GITHUB_REPO\",\"url\":\"https://github.com/tomusdrw/rust-web3/pull/558\",\"description\":\"eth_feeHistory RPC endpoint implementation for widely used web3 rust library\"},{\"type\":\"GITHUB_REPO\",\"url\":\"https://github.com/cowprotocol/services/graphs/contributors\",\"description\":\"Cowprotocol developer\"},{\"type\":\"GITHUB_REPO\",\"url\":\"https://github.com/ethereum/go-ethereum/releases/tag/v1.10.6\",\"description\":\"Consensus bug fixed on geth (to show the impact of OpenEthereum contributions)\"}]",
+    "impactCategory": "[\"DEVELOPER_ECOSYSTEM\"]",
+    "impactDescription": "At the time of my contributions to OpenEthereum, this client had ~15% of all ethereum mainnet nodes share, the second biggest share, right after Geth. Unfortenately, the project was shut down after some time, due to lack of funding.\nOpenEthereum London hard fork discovered a critical bug in Geth client on one of the test networks just before the mainnet activation. Obviously, this prevented a serious consensus bug between geth client and the rest of the clients. London hard fork also contained the EIP1559 implementation - change in the fee mechanism for Ethereum.\nI also had contributions to rust web3 library widely used for all rust projects on ethereum and EVM compatible chains and also contributed to Cowswap project which main impact is protecting users from MEV and giving best prices.",
+    "impactMetrics": "[{\"description\":\"OpenEthereum client nodes number\",\"number\":800,\"url\":\"https://web.archive.org/web/20210805124046/https://www.ethernodes.org/\"}]",
+    "fundingSources": "[]",
+    "payoutAddress": "0xFA20426E6eE6072b0cC2049038c9E021d2010EB0",
+    "metadataPtr": "https://content.optimism.io/rpgf3Application/v0/metadata/10/0xFA20426E6eE6072b0cC2049038c9E021d2010EB0.json",
+    "address": "0xFA20426E6eE6072b0cC2049038c9E021d2010EB0",
+    "chainId": 10,
+    "twitterHandle": "null",
+    "githubHandle": "sunce86",
+    "New Main-Category": "OP_Stack",
+    "Sub-category": "Ethereum Development & Maintanance",
+    "ballot": 11,
+    "median": 20000,
+    "scaled": 0,
+    "rank": 562,
+    "iconPath": "http://res.cloudinary.com/dxoowohf8/image/upload/v1713106094/retropgf3/sunce86_icon.jpg",
+    "bannerPath": ""
+  }
+]

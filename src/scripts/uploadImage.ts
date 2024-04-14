@@ -2,6 +2,7 @@ import { v2 as cloudinary } from 'cloudinary'
 import dotenv from 'dotenv'
 import data from '../../static/retroPGF3-dataset/resultData.json'
 import fs from 'fs'
+import path from 'path'
 
 dotenv.config()
 cloudinary.config({
@@ -10,79 +11,87 @@ cloudinary.config({
   api_secret: process.env.API_SECRET,
 })
 
+function cleanName(name: string) {
+  return name.replace(/[^a-zA-Z0-9_ ]/g, '').replace(/ /g, '_')
+}
+
 const run = async () => {
   let newDataset: any[] = []
   let iconPath: string = '',
     bannerPath: string = ''
   const imageType = ['png', 'jpg', 'jpeg']
   const processUpload = async () => {
-    for (const [index, project] of data.entries()) {
-      const address = project['metadataPtr'].slice(60, 102)
+    //0-500, 501
+    for (let index = 0; index < 500; index++) {
+      const address = data[index]['metadataPtr'].slice(60, 102)
       console.log(address)
-      console.log(index, project['displayName'])
+      console.log(index, data[index]['displayName'])
       //Icon image
       for (const type of imageType) {
         const urlIcon = `https://content.optimism.io/profile/v0/profile-image/10/${address}.${type}`
-        const response = await fetch(urlIcon)
-        if (response.status === 200) {
-          // console.log(urlIcon)
-          cloudinary.uploader.upload(
-            urlIcon,
-            {
-              public_id: `retropgf3/${project['displayName']}_icon`,
-              use_filename: true,
-            },
-            // {
-            //   folder: 'retropgf3',
-            //   use_filename: true,
-            //   unique_filename: false,
-            //   overwrite: true,
-            //   invalidate: true,
-            //   resource_type: 'image',
-            // },
-            function (error, result) {
-              console.log(result)
-              if (result) {
-                iconPath = result.url
-              }
+        try {
+          const response = await fetch(urlIcon)
+          if (response.status === 200) {
+            try {
+              await cloudinary.uploader.upload(
+                urlIcon,
+                {
+                  public_id: `retropgf3/${cleanName(
+                    data[index]['displayName']
+                  )}_icon`,
+                  use_filename: true,
+                },
+                function (error, result) {
+                  if (error) throw error
+                  if (result) {
+                    console.log(result)
+                    iconPath = result.url
+                  }
+                }
+              )
+            } catch (error) {
+              console.error('Failed to upload icon:', error)
             }
-          )
-          break
-        } else {
-          iconPath = ''
+            break
+          } else {
+            iconPath = ''
+          }
+        } catch (error) {
+          console.error('Failed to fetch icon:', error)
         }
       }
       //Banner Image
       for (const type of imageType) {
         const urlBanner = `https://content.optimism.io/profile/v0/banner-image/10/${address}.${type}`
-        const response = await fetch(urlBanner)
-        if (response.status === 200) {
-          console.log(urlBanner)
-          cloudinary.uploader.upload(
-            urlBanner,
-            {
-              public_id: `retropgf3/${project['displayName']}_banner`,
-              use_filename: true,
-            },
-            // {
-            //   folder: 'retropgf3',
-            //   use_filename: true,
-            //   unique_filename: false,
-            //   overwrite: true,
-            //   invalidate: true,
-            //   resource_type: 'image',
-            // },
-            function (error, result) {
-              console.log(result)
-              // console.log(error)
-              if (result) {
-                bannerPath = result.url
-              }
+        try {
+          const response = await fetch(urlBanner)
+          if (response.status === 200) {
+            try {
+              await cloudinary.uploader.upload(
+                urlBanner,
+                {
+                  public_id: `retropgf3/${cleanName(
+                    data[index]['displayName']
+                  )}_banner`,
+                  use_filename: true,
+                },
+                function (error, result) {
+                  if (error) throw error
+                  if (result) {
+                    console.log(result)
+                    bannerPath = result.url
+                  }
+                }
+              )
+            } catch (error) {
+              console.error('Failed to upload banner:', error)
             }
-          )
-          break
-        } else {
-          bannerPath = ''
+            break
+          } else {
+            bannerPath = ''
+          }
+        } catch (error) {
+          console.error('Failed to fetch banner:', error)
         }
       }
       //Update data
@@ -92,18 +101,26 @@ const run = async () => {
       //   bannerPath: bannerPath,
       // }
       await newDataset.push({
-        ...project,
+        ...data[index],
         iconPath: iconPath,
         bannerPath: bannerPath,
       })
     }
+    const dir = path.resolve(__dirname, '../../data')
+    await fs.mkdirSync(dir, { recursive: true })
+
+    // Write the file
+    const filePath = path.join(dir, 'rpgf3(image1).json')
+    await fs.writeFileSync(filePath, JSON.stringify(newDataset, null, 2))
+
     return newDataset
   }
   const finalData = await processUpload()
-  fs.writeFileSync(
-    '/data/rpgf3(image).json',
-    JSON.stringify(finalData, null, 2)
-  )
+  // fs.writeFileSync(
+  //   '../../data/rpgf3(image1).json',
+  //   JSON.stringify(finalData, null, 2)
+  // )
+
   return finalData
 }
 
