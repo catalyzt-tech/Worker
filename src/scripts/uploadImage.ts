@@ -12,7 +12,8 @@ cloudinary.config({
 
 const run = async () => {
   let newDataset: any[] = []
-  let iconPath: string, bannerPath: string
+  let iconPath: string = '',
+    bannerPath: string = ''
   const imageType = ['png', 'jpg', 'jpeg']
   const processUpload = async () => {
     for (const [index, project] of data.entries()) {
