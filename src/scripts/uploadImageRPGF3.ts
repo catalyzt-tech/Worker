@@ -21,8 +21,8 @@ const run = async () => {
     bannerPath: string = ''
   const imageType = ['png', 'jpg', 'jpeg']
   const processUpload = async () => {
-    //0-500, 501
-    for (let index = 1500; index < data.length; index++) {
+    //suggestion split loop into smaller chunks like 500 per set to avoid rate limit
+    for (let index = 0; index < data.length; index++) {
       const address = data[index]['metadataPtr'].slice(60, 102)
       console.log(address)
       console.log(index, data[index]['displayName'])
