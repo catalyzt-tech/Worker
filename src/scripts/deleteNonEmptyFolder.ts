@@ -62,4 +62,5 @@ const deleteFolderRecursive = (folderName: string) => {
 }
 
 // Call the deleteFolderRecursive function with the folder name
-deleteFolderRecursive('retropgf3')
+// deleteFolderRecursive('retropgf3')
+deleteFolderRecursive('retropgf2')
