@@ -1,8 +1,37 @@
 import { v2 as cloudinary } from 'cloudinary'
 import dotenv from 'dotenv'
-import data from '../../static/retroPGF3-dataset/resultData.json'
+import rawData from '../../static/retroPGF3-dataset/resultData.json'
 import fs from 'fs'
 import path from 'path'
+interface ResultData {
+  displayName: string
+  projectId: string
+  'Approval Attestation ID': string
+  'Agora URL': string
+  'West URL': string
+  Approved: boolean
+  applicantType: string
+  websiteUrl: string
+  bio: string
+  contributionDescription: string
+  contributionLinks: string
+  impactCategory: string
+  impactDescription: string
+  impactMetrics: string
+  fundingSources: string
+  payoutAddress: string
+  metadataPtr: string
+  address: string
+  chainId: number
+  twitterHandle: string | null
+  githubHandle: string
+  'New Main-Category': string
+  'Sub-category': string
+  ballot: number
+  median: number
+  scaled: number
+  rank: number
+}
 
 dotenv.config()
 cloudinary.config({
@@ -16,6 +45,7 @@ function cleanName(name: string) {
 }
 
 const run = async () => {
+  let data: ResultData[] = rawData as ResultData[]
   let newDataset: any[] = []
   let iconPath: string = '',
     bannerPath: string = ''
