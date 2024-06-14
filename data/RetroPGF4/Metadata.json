@@ -41,16 +41,6 @@
   },
   {
     "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
-    "projectRefUID": "0xd0a106402cbe7ad705fde25331df5d1347871b9613382a7813e0eded4eba3fe1",
-    "farcasterID": 20239,
-    "name": "Definitive",
-    "category": "DeFi",
-    "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "metadataType": 0,
-    "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/QmV1zFYmewwMpd1EHwidLAm2ajBDjKcheuQaE7NKycT64X"
-  },
-  {
-    "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
     "projectRefUID": "0xc22286bb98266bc4508ecfff0a91542f0e970ff03934930aff9be1f34f6079e9",
     "farcasterID": 397524,
     "name": "Women of Web3",
@@ -78,16 +68,6 @@
     "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
     "metadataType": 0,
     "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/QmXHT6JYfxUf1e8nJ66iaCGVqRqjKieQL9PFFN3QWq2V4q"
-  },
-  {
-    "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
-    "projectRefUID": "0x81487a78474ff855ddc2a271ad205270de6a6f4d733150c9db388b859c309cf3",
-    "farcasterID": 748,
-    "name": "Kiwi Labs Batch 1 NFT",
-    "category": "NFT",
-    "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "metadataType": 0,
-    "metadataUrl": "https://op-atlas-test.mypinata.cloud/ipfs/QmVMoTSiYmyY3togLMqS2srDyX5hi96TJaoasK5cHctULz"
   },
   {
     "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
@@ -138,16 +118,6 @@
     "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
     "metadataType": 0,
     "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/QmZqyejJoJnsoKwuipVVrDszpU6LWaoF3wd4natzWtuMfN"
-  },
-  {
-    "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
-    "projectRefUID": "0x69f13f6351489812a9052412e273ba726383744c8c482ac877c6a4e9f3b1d3ad",
-    "farcasterID": 563398,
-    "name": "Kim Exchange",
-    "category": "DeFi",
-    "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "metadataType": 0,
-    "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/QmWmopgBWpjLuuNDBbpBtw1XNEzZ9wxqxWEgNVZCbjwwXM"
   },
   {
     "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
@@ -458,16 +428,6 @@
     "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
     "metadataType": 0,
     "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/QmeKZnPesDvjSUjshQXAy9TXLpMjR1Y2t9mf1Fis5mXjP7"
-  },
-  {
-    "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
-    "projectRefUID": "0x2c472f0b8c91a6659c96786e2e3ee6e989977a2232fb2a7a8979535c4b5c972e",
-    "farcasterID": 306238,
-    "name": "CryptoRank",
-    "category": "DeFi",
-    "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "metadataType": 0,
-    "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/QmWvXydPq3d8tepT2B7A2pNydDxGJ5PB1V66J6P63qhXt4"
   },
   {
     "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
@@ -1361,16 +1321,6 @@
   },
   {
     "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
-    "projectRefUID": "0x07bbe4af3099fbf9f18fb4ac7078ee836c5d0d3cc2c29f192dd366455671e2a5",
-    "farcasterID": 218952,
-    "name": "Guac (Farcaster)",
-    "category": "Social",
-    "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "metadataType": 0,
-    "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/QmUurRGZVBcRfUGTLe1NBvZYQWfTbxpuHcWkyG4tgY6YZc"
-  },
-  {
-    "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
     "projectRefUID": "0xa45ebed9267cf10226c68abc98b1871bdfa611ee51050c161e316be1dbf7e696",
     "farcasterID": 218952,
     "name": "Based Onchain Cubes",
@@ -1663,16 +1613,6 @@
     "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
     "projectRefUID": "0xfb9c6b3dcd75e0d0f4e0b0d4b27a4e1398ec6147eb1af3499eb8b87145bfa709",
     "farcasterID": 574,
-    "name": "Phi",
-    "category": "Social",
-    "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "metadataType": 0,
-    "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/QmTcByDoqUKCWtPNRrZ5Ln16gBHvvZfKj2xujofTkFvgmd"
-  },
-  {
-    "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
-    "projectRefUID": "0xfb9c6b3dcd75e0d0f4e0b0d4b27a4e1398ec6147eb1af3499eb8b87145bfa709",
-    "farcasterID": 16670,
     "name": "Phi",
     "category": "Social",
     "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
@@ -2041,16 +1981,6 @@
   },
   {
     "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
-    "projectRefUID": "0xc305f22c093ce243655f68ea4af98a777839ab2b5949221aee8b4aabdd91cfee",
-    "farcasterID": 3095,
-    "name": "DropFrame",
-    "category": "NFT",
-    "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "metadataType": 0,
-    "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/QmRXbaofN213b7yHLcfrRXK7wDKo3Ab3KLUAxTuV6iUiFL"
-  },
-  {
-    "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
     "projectRefUID": "0x79159d9bd4981ce68651fb4d585fd5827215309e503f46209adb0ec438f71b30",
     "farcasterID": 2007,
     "name": "Slice",
@@ -2143,16 +2073,6 @@
     "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
     "projectRefUID": "0x89216c66f45f82595fddb810c78df46fcee9be72181e9c92b26b0ce31bd6f413",
     "farcasterID": 614307,
-    "name": "Exactly Protocol",
-    "category": "DeFi",
-    "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "metadataType": 0,
-    "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/QmbCqk3fJ2zpurhgnvJYynLbDy2g3iLntXfowyHbyMtWc8"
-  },
-  {
-    "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
-    "projectRefUID": "0x89216c66f45f82595fddb810c78df46fcee9be72181e9c92b26b0ce31bd6f413",
-    "farcasterID": 565336,
     "name": "Exactly Protocol",
     "category": "DeFi",
     "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
@@ -2581,16 +2501,6 @@
   },
   {
     "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
-    "projectRefUID": "0x1a6ff49fed19e164fd6b39f668f391cfc7fc493906e942c74997aacee91be632",
-    "farcasterID": 601598,
-    "name": "Holograph Foundation",
-    "category": "Cross Chain",
-    "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "metadataType": 0,
-    "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/QmRfPs2vaAPphdQMoqtzyByscLvXyvkyhGEbozjryEqfzo"
-  },
-  {
-    "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
     "projectRefUID": "0x70a31809b59034a137b8ba57b092412879e779f0ea527f091776dca521edc7af",
     "farcasterID": 4503,
     "name": "Sound.xyz",
@@ -2628,16 +2538,6 @@
     "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
     "metadataType": 0,
     "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/QmUwPS8dT7Nr29U7wytReGsQAte1FgKrQ7qQcPhRyAppkA"
-  },
-  {
-    "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
-    "projectRefUID": "0x0c327d5f07a0abc24d646de807a9768619a34ba5277b24fc935b1edf57fa6244",
-    "farcasterID": 588006,
-    "name": "dHEDGE",
-    "category": "DeFi",
-    "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "metadataType": 0,
-    "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/QmPjpqHyztyHAXBVbsCqLSASDhgLMFwQGTfTQCFyu4UAyK"
   },
   {
     "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
@@ -2731,16 +2631,6 @@
   },
   {
     "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
-    "projectRefUID": "0x0977b98d0f0def84d01ecdddbc1fb174583277efaa87a93b0b52a0531d1b0c1e",
-    "farcasterID": 629381,
-    "name": "CanineReverie",
-    "category": "NFT",
-    "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "metadataType": 0,
-    "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/QmWP9UFp3dGvD2NHJp2dXYrxt1UyjLvTqTwSyD6Ravdf37"
-  },
-  {
-    "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
     "projectRefUID": "0x771559cc199af81bd2a5d862e0b4c00e2b5209c921fdf98a54ca3879ffab3d03",
     "farcasterID": 629381,
     "name": "KarafuruNavigators",
@@ -2788,16 +2678,6 @@
     "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
     "metadataType": 0,
     "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/QmUT2i73rTTaVn8Dw1iPU4jfr4sjDJR4nhWh4bKy7zqPDs"
-  },
-  {
-    "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
-    "projectRefUID": "0xf9ebb0464e7162627ab3de5fe03a21c879e932233e1453f2139c2126eb93f72e",
-    "farcasterID": 586013,
-    "name": "Air3",
-    "category": "NFT",
-    "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "metadataType": 0,
-    "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/QmdubDGGQwVHtW5NPCG32uhGTdB2J4JbMTVMaKWW8hixka"
   },
   {
     "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
@@ -3168,16 +3048,6 @@
     "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
     "metadataType": 0,
     "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/QmXakkQkiZVbNeVw7eEdypA5YUSwYL3yc2oxYP5jcyhhQz"
-  },
-  {
-    "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
-    "projectRefUID": "0x01d8c3bc48ed5f94c260dcc8698eb61f48b06f70b0596c65fbcb1f369c092be9",
-    "farcasterID": 570299,
-    "name": "Ironclad Finance",
-    "category": "DeFi",
-    "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "metadataType": 0,
-    "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/QmV7T2TS2FerGjF8MaFKGJBrd8JQHKLVaEm6PTcpek7gMk"
   },
   {
     "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
@@ -3648,16 +3518,6 @@
     "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
     "metadataType": 0,
     "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/QmfC6no6xk2WnMjbi6oDdW5gTQF631MHTFFnixbTZWy4s5"
-  },
-  {
-    "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
-    "projectRefUID": "0x8eed3c77bcaeb764cfcf5af96839926331bed3c0c5ad6b941f9a52b3baa31b4c",
-    "farcasterID": 4031,
-    "name": "Draw The Chart",
-    "category": "Social",
-    "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "metadataType": 0,
-    "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/QmNM4vHCe8yAE6ftLY82crk5gyodLvzUj1MLQnGPexR82v"
   },
   {
     "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
@@ -4821,16 +4681,6 @@
   },
   {
     "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
-    "projectRefUID": "0xe54e438de566feefec9e5bf5f3219119b6e94139b87649c3442335566a890c6a",
-    "farcasterID": 639229,
-    "name": "GraffitiETH",
-    "category": "NFT",
-    "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "metadataType": 0,
-    "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/QmXH4qt8bE1okQ4n7ChEBGNLtdePmDd8iT5gMubQWuBd7A"
-  },
-  {
-    "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
     "projectRefUID": "0x709c02fe126a81cde7daf33eb27336ec09240cc7484109be6d6d2d6e3628f74c",
     "farcasterID": 639229,
     "name": "Nocturnal Azure",
@@ -4838,46 +4688,6 @@
     "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
     "metadataType": 0,
     "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/Qmcy91NAL1CBL4pqu4RE9voDPFRT2VYacGorW3xy8bzkk8"
-  },
-  {
-    "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
-    "projectRefUID": "0xcc8f5d29928043a98940eb9d1ebd0d4fe88c16afdfee39c3afd501dacc1f535f",
-    "farcasterID": 639229,
-    "name": "España Elegante",
-    "category": "NFT",
-    "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "metadataType": 0,
-    "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/QmU4Csw4YB9vRkBr8ameiUwaoQCDXFpFTPdAckZgAmjNBP"
-  },
-  {
-    "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
-    "projectRefUID": "0xe54e438de566feefec9e5bf5f3219119b6e94139b87649c3442335566a890c6a",
-    "farcasterID": 639229,
-    "name": "GraffitiETH",
-    "category": "NFT",
-    "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "metadataType": 0,
-    "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/QmXH4qt8bE1okQ4n7ChEBGNLtdePmDd8iT5gMubQWuBd7A"
-  },
-  {
-    "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
-    "projectRefUID": "0xcc8f5d29928043a98940eb9d1ebd0d4fe88c16afdfee39c3afd501dacc1f535f",
-    "farcasterID": 639229,
-    "name": "España Elegante",
-    "category": "NFT",
-    "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "metadataType": 0,
-    "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/QmU4Csw4YB9vRkBr8ameiUwaoQCDXFpFTPdAckZgAmjNBP"
-  },
-  {
-    "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
-    "projectRefUID": "0xe54e438de566feefec9e5bf5f3219119b6e94139b87649c3442335566a890c6a",
-    "farcasterID": 639229,
-    "name": "GraffitiETH",
-    "category": "NFT",
-    "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "metadataType": 0,
-    "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/QmXH4qt8bE1okQ4n7ChEBGNLtdePmDd8iT5gMubQWuBd7A"
   },
   {
     "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
@@ -5301,16 +5111,6 @@
   },
   {
     "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
-    "projectRefUID": "0xd61084147c0e08c9a304348584c6bd0e9974a4073bff55f6b1728730b6ce07f7",
-    "farcasterID": 4370,
-    "name": "Zerion",
-    "category": "DeFi",
-    "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "metadataType": 0,
-    "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/QmcjpGTRkvdTENBEn9cFrEwXCEfJsSnShVj5KPCeuA3Dk4"
-  },
-  {
-    "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
     "projectRefUID": "0x12d482385e2c26d37da1f30c513d66c1fa39e9ed4980a49a51b23caa7b2ce0bc",
     "farcasterID": 263461,
     "name": "Alchemix",
@@ -5498,16 +5298,6 @@
     "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
     "metadataType": 0,
     "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/Qma1eN9zLtZJd2ijQ4sD6MV11exgUomHDfSmtBVfQGACYs"
-  },
-  {
-    "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
-    "projectRefUID": "0x3b1d36d0ca6cdf2a8e43f5e38a4735e6c0ecae1dd99c392fe7df6d02e85965b9",
-    "farcasterID": 16831,
-    "name": "Drawtech",
-    "category": "Social",
-    "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "metadataType": 0,
-    "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/QmUQu4wHuw9wC2eoffNqMcfyYB4yJv9VDS1NxUQWJap7tw"
   },
   {
     "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
@@ -5761,16 +5551,6 @@
   },
   {
     "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
-    "projectRefUID": "0xf3d8d5b1f6e89cef160fc8c9d75ddceb5f35e51753b56732c7ec34a4b4949bcf",
-    "farcasterID": 641302,
-    "name": "Kromatika ",
-    "category": "DeFi",
-    "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "metadataType": 0,
-    "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/QmUWCtyd5XvqRpS2t65usSpFWpS9Dec2Y6VLGmTMzzHvKa"
-  },
-  {
-    "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
     "projectRefUID": "0xb6a587b5b85b1c70847442e3b4a84cecfb55aedd286628a85fbb12770ceb7018",
     "farcasterID": 19697,
     "name": "Travenesia",
@@ -5888,16 +5668,6 @@
     "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
     "metadataType": 0,
     "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/Qmb1HuoMcUvxzZUH4S7oJTzjWQ23KaDpdc1TLA8kubNo9G"
-  },
-  {
-    "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
-    "projectRefUID": "0xdd197ad6aa36b5d3753c1710960b40f1e23e941b6967444afe36860c3f2e288c",
-    "farcasterID": 328679,
-    "name": "RetroList",
-    "category": "Governance",
-    "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "metadataType": 0,
-    "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/QmRgwSetrdbwgnm2epV64YwNM8WNw8Z1rTHbeFKiZycb7S"
   },
   {
     "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
@@ -6241,26 +6011,6 @@
   },
   {
     "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
-    "projectRefUID": "0x00c063fd810b0eb5596b21f4fddf557b3f3f5708d0173c15778b00cbcfc6167d",
-    "farcasterID": 441195,
-    "name": "HypoDrop",
-    "category": "NFT",
-    "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "metadataType": 0,
-    "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/QmUA4tEnxLZjnp5S3PbwY2b4a6bNuH38oB3fNM1SbXnnaP"
-  },
-  {
-    "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
-    "projectRefUID": "0xd71d17fda56d537edf369228a790ca6312f95ec77a8447a1709ac1fd5aaaa5ac",
-    "farcasterID": 441195,
-    "name": "HypoDrop",
-    "category": "NFT",
-    "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "metadataType": 0,
-    "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/QmbsmoUnxvGUoAFRe79TEECoovb3y2wJR2t1tyzVAkytgT"
-  },
-  {
-    "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
     "projectRefUID": "0x3d009f8f7c1e8a3bcbc81ca8ed60d2e86b956dd0fa68c4595f851be37052a2b5",
     "farcasterID": 10856,
     "name": "Guild.xyz",
@@ -6428,16 +6178,6 @@
     "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
     "metadataType": 0,
     "metadataUrl": "https://storage.retrofunding.optimism.io/ipfs/QmZdwzJTwnm5g7otw6HAVtM8trJqbNu1krxsSyjtuwg5nL"
-  },
-  {
-    "attester": "0xE27a079BcE042d7163A47eB35D591D241eA7196b",
-    "projectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "farcasterID": 429828,
-    "name": "test",
-    "category": "CeFi",
-    "parentProjectRefUID": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "metadataType": 0,
-    "metadataUrl": "https://gateway.pinata.cloud/ipfs/QmZe9Pva85Axsb2CLcu38D4i3GzCzF6xtvDTnwDvyCnggb"
   },
   {
     "attester": "0xF6872D315CC2E1AfF6abae5dd814fd54755fE97C",
