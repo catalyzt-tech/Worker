@@ -39,7 +39,7 @@ const getMetadataUrl = async (data: any) => {
   try {
     const fetchMetadata = await fetch(data.metadataUrl)
     const metadata = await fetchMetadata.json()
-    metadata.description = metadata.description.replace(/(\r\n|\n|\r)/gm, ' ')
+    // metadata.description = metadata.description.replace(/(\r\n|\n|\r)/gm, ' ')
     return metadata as Project
   } catch (error) {
     // console.error(error)
