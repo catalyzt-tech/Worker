@@ -31,7 +31,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -65,7 +65,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -130,7 +130,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -192,7 +192,7 @@
     },
     "appealed": "Yes",
     "appeadDecision": "Rejected",
-    "reasom": "See Eligibility criteria of Retro Funding 4. We don't consider `to_addresses` towards our count of unique addresses interacting with a project.",
+    "reason": "See Eligibility criteria of Retro Funding 4. We don't consider `to_addresses` towards our count of unique addresses interacting with a project.",
     "links": null
   },
   {
@@ -245,7 +245,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -340,7 +340,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -409,7 +409,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -443,7 +443,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -518,7 +518,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -570,7 +570,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -629,7 +629,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -713,7 +713,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -761,7 +761,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -860,7 +860,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -904,7 +904,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -944,7 +944,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -1020,7 +1020,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -1055,7 +1055,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -1102,7 +1102,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -1157,7 +1157,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -1224,7 +1224,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -1278,7 +1278,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -1374,7 +1374,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -1427,7 +1427,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -1467,7 +1467,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -1507,7 +1507,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -1562,7 +1562,7 @@
     },
     "appealed": "Yes",
     "appeadDecision": "Rejected",
-    "reasom": "See Eligibility criteria of Retro Funding 4.",
+    "reason": "See Eligibility criteria of Retro Funding 4.",
     "links": null
   },
   {
@@ -1629,7 +1629,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -1684,7 +1684,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -1789,7 +1789,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -2446,7 +2446,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -2492,7 +2492,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -2545,7 +2545,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -2607,7 +2607,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -2649,7 +2649,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -2686,7 +2686,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -2728,7 +2728,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -2770,7 +2770,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -2810,7 +2810,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -2852,7 +2852,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -2903,7 +2903,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -2941,7 +2941,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -2979,7 +2979,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -3050,7 +3050,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -3093,7 +3093,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -3135,7 +3135,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -3177,7 +3177,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -3230,7 +3230,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -3272,7 +3272,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -3355,7 +3355,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -3414,7 +3414,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -3459,7 +3459,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -3501,7 +3501,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -3568,7 +3568,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -3610,7 +3610,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -3652,7 +3652,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -3694,7 +3694,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -3742,7 +3742,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -3812,7 +3812,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -3856,7 +3856,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -3910,7 +3910,7 @@
     },
     "appealed": "Yes",
     "appeadDecision": "Rejected",
-    "reasom": "Unfortunately, we don't treat NFT holders the same as users performing their own interaction.",
+    "reason": "Unfortunately, we don't treat NFT holders the same as users performing their own interaction.",
     "links": null
   },
   {
@@ -3984,7 +3984,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -4056,7 +4056,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -4103,7 +4103,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -4146,7 +4146,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -4263,7 +4263,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -4313,7 +4313,7 @@
     },
     "appealed": "Yes",
     "appeadDecision": "Rejected",
-    "reasom": "Please see attached sheet with all transactions we've considered to be valid during the RF4 period.",
+    "reason": "Please see attached sheet with all transactions we've considered to be valid during the RF4 period.",
     "links": "GiveStation"
   },
   {
@@ -4373,7 +4373,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -4455,7 +4455,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -4533,7 +4533,7 @@
     },
     "appealed": "Yes",
     "appeadDecision": "Rejected",
-    "reasom": "Please see attached sheet with all transactions we've considered to be valid during the RF4 period.",
+    "reason": "Please see attached sheet with all transactions we've considered to be valid during the RF4 period.",
     "links": "EFIHub"
   },
   {
@@ -4589,7 +4589,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -4633,7 +4633,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -4721,7 +4721,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -4764,7 +4764,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -4828,7 +4828,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -5200,7 +5200,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -5481,7 +5481,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -5543,7 +5543,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -5590,7 +5590,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -5634,7 +5634,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -5693,7 +5693,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -5759,7 +5759,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -5799,7 +5799,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -5849,7 +5849,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -5957,7 +5957,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -6083,7 +6083,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -6131,7 +6131,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -6232,7 +6232,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -6312,7 +6312,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -6366,7 +6366,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -6405,7 +6405,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -6477,7 +6477,7 @@
     },
     "appealed": "Yes",
     "appeadDecision": "Approved",
-    "reasom": "Confirmed protocol is interacted with 4337 contract and has transactions before 2024-04-30",
+    "reason": "Confirmed protocol is interacted with 4337 contract and has transactions before 2024-04-30",
     "links": null
   },
   {
@@ -6543,7 +6543,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -6600,7 +6600,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -6696,7 +6696,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -6744,7 +6744,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -6800,7 +6800,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -6848,7 +6848,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -6913,7 +6913,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -7033,7 +7033,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -7079,7 +7079,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -7154,7 +7154,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -7198,7 +7198,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -7260,7 +7260,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -7333,7 +7333,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -7407,7 +7407,7 @@
     },
     "appealed": "Yes",
     "appeadDecision": "Rejected",
-    "reasom": "Unfortunately, we only have limited support for 4337 transactions in this round. To be considered, a project's contracts must interact directly with an EntryPoint contract. Then, we look at the number of SCWs created by the project and add that to their address total. We weren't able to identify any contract interactions of that pattern associated with your project's contracts.",
+    "reason": "Unfortunately, we only have limited support for 4337 transactions in this round. To be considered, a project's contracts must interact directly with an EntryPoint contract. Then, we look at the number of SCWs created by the project and add that to their address total. We weren't able to identify any contract interactions of that pattern associated with your project's contracts.",
     "links": null
   },
   {
@@ -7563,7 +7563,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -7641,7 +7641,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -7722,7 +7722,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -7782,7 +7782,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -7824,7 +7824,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -7880,7 +7880,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -8031,7 +8031,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -8151,7 +8151,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -8216,7 +8216,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -8247,7 +8247,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -8294,7 +8294,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -8342,7 +8342,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -8467,7 +8467,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -8558,7 +8558,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -9487,7 +9487,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -9587,7 +9587,7 @@
     },
     "appealed": "Yes",
     "appeadDecision": "Approved",
-    "reasom": "Confirmed protocol is interacted with 4337 contract and has transactions before 2024-04-30",
+    "reason": "Confirmed protocol is interacted with 4337 contract and has transactions before 2024-04-30",
     "links": null
   },
   {
@@ -9659,7 +9659,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -9738,7 +9738,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -9795,7 +9795,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -9846,7 +9846,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -9926,7 +9926,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -9982,7 +9982,7 @@
     },
     "appealed": "Yes",
     "appeadDecision": "Rejected",
-    "reasom": "See Eligibility criteria of Retro Funding 4.",
+    "reason": "See Eligibility criteria of Retro Funding 4.",
     "links": null
   },
   {
@@ -10027,7 +10027,7 @@
     },
     "appealed": "Yes",
     "appeadDecision": "Rejected",
-    "reasom": "See Eligibility criteria of Retro Funding 4.",
+    "reason": "See Eligibility criteria of Retro Funding 4.",
     "links": null
   },
   {
@@ -10077,7 +10077,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -10146,7 +10146,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -10200,7 +10200,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -10252,7 +10252,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -10294,7 +10294,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -10393,7 +10393,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -10433,7 +10433,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -10549,7 +10549,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -10712,7 +10712,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -10757,7 +10757,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -10799,7 +10799,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -10893,7 +10893,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -10935,7 +10935,7 @@
     },
     "appealed": "Yes",
     "appeadDecision": "Rejected",
-    "reasom": "See Eligibility criteria of Retro Funding 4.",
+    "reason": "See Eligibility criteria of Retro Funding 4.",
     "links": null
   },
   {
@@ -11014,7 +11014,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -11085,7 +11085,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -12185,7 +12185,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -12424,7 +12424,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -12487,7 +12487,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -12603,7 +12603,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -12675,7 +12675,7 @@
     },
     "appealed": "Yes",
     "appeadDecision": "Rejected",
-    "reasom": "Please see attached sheet with all transactions we've considered to be valid during the RF4 period.",
+    "reason": "Please see attached sheet with all transactions we've considered to be valid during the RF4 period.",
     "links": "Webhash"
   },
   {
@@ -12736,7 +12736,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -12774,7 +12774,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -12856,7 +12856,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -13017,7 +13017,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -13069,7 +13069,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -13153,7 +13153,7 @@
     },
     "appealed": "Yes",
     "appeadDecision": "Approved",
-    "reasom": "Unique case: as bridge is an EOA, we don't calculate any metrics related to it. But the applicant is correct in their appeal.",
+    "reason": "Unique case: as bridge is an EOA, we don't calculate any metrics related to it. But the applicant is correct in their appeal.",
     "links": null
   },
   {
@@ -13215,7 +13215,7 @@
     },
     "appealed": "Yes",
     "appeadDecision": "Rejected",
-    "reasom": "See Eligibility criteria of Retro Funding 4. We don't consider `to_addresses` towards our count of unique addresses interacting with a project.",
+    "reason": "See Eligibility criteria of Retro Funding 4. We don't consider `to_addresses` towards our count of unique addresses interacting with a project.",
     "links": null
   },
   {
@@ -13257,7 +13257,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -13333,7 +13333,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -13383,7 +13383,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -13447,7 +13447,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -13487,7 +13487,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -13529,7 +13529,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -13571,7 +13571,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -13626,7 +13626,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -13685,7 +13685,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -13734,7 +13734,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -13781,7 +13781,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -13874,7 +13874,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -13964,7 +13964,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -14036,7 +14036,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -14365,7 +14365,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -14534,7 +14534,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -14586,7 +14586,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -14637,7 +14637,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -14715,7 +14715,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -14759,7 +14759,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -14806,7 +14806,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -14865,7 +14865,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -15288,7 +15288,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -15323,7 +15323,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -15358,7 +15358,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -15491,7 +15491,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -15549,7 +15549,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -15627,7 +15627,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -15722,7 +15722,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -15784,7 +15784,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -15855,7 +15855,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -15939,7 +15939,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -16066,7 +16066,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -16187,7 +16187,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -16244,7 +16244,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -16317,7 +16317,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -16374,7 +16374,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -16502,7 +16502,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -16634,7 +16634,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -16733,7 +16733,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -16779,7 +16779,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -16918,7 +16918,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -16961,7 +16961,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -17006,7 +17006,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -17049,7 +17049,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -17201,7 +17201,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -17246,7 +17246,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -17378,7 +17378,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -17431,7 +17431,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -17483,7 +17483,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -17565,7 +17565,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -17620,7 +17620,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -17682,7 +17682,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -17823,7 +17823,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -17873,7 +17873,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -17946,7 +17946,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -18006,7 +18006,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -18072,7 +18072,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -18117,7 +18117,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -18279,7 +18279,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -18332,7 +18332,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -18384,7 +18384,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -18438,7 +18438,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -18487,7 +18487,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -18534,7 +18534,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -18826,7 +18826,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -18884,7 +18884,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -18978,7 +18978,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -19082,7 +19082,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -19219,7 +19219,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -19286,7 +19286,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -19340,7 +19340,7 @@
     },
     "appealed": "Yes",
     "appeadDecision": "Rejected",
-    "reasom": "See Eligibility criteria of Retro Funding 4.",
+    "reason": "See Eligibility criteria of Retro Funding 4.",
     "links": null
   },
   {
@@ -19404,7 +19404,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -19472,7 +19472,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -19541,7 +19541,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -19730,7 +19730,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -19813,7 +19813,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -19855,7 +19855,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -19903,7 +19903,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -20097,7 +20097,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -20139,7 +20139,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -20181,7 +20181,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -20274,7 +20274,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -20322,7 +20322,7 @@
     },
     "appealed": "Yes",
     "appeadDecision": "Rejected",
-    "reasom": "Unfortunately, we can't implement custom logic to decode traces or parse a project-specific subgraph",
+    "reason": "Unfortunately, we can't implement custom logic to decode traces or parse a project-specific subgraph",
     "links": null
   },
   {
@@ -20382,7 +20382,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -20422,7 +20422,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -20471,7 +20471,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -20521,7 +20521,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -20559,7 +20559,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -20606,7 +20606,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -20690,7 +20690,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -20751,7 +20751,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -20789,7 +20789,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -20914,7 +20914,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -20965,7 +20965,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -21059,7 +21059,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -21111,7 +21111,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -21230,7 +21230,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -21293,7 +21293,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -21417,7 +21417,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -21467,7 +21467,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -21725,7 +21725,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -21759,7 +21759,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -21878,7 +21878,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -21918,7 +21918,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -21992,7 +21992,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -22049,7 +22049,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -22100,7 +22100,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -22151,7 +22151,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -22223,7 +22223,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -22269,7 +22269,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -22315,7 +22315,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -22374,7 +22374,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -22412,7 +22412,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -22484,7 +22484,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -22526,7 +22526,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -22978,7 +22978,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -23051,7 +23051,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -23187,7 +23187,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -23409,7 +23409,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -23465,7 +23465,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -23508,7 +23508,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -23563,7 +23563,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -23612,7 +23612,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -23719,7 +23719,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -23891,7 +23891,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -23939,7 +23939,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -23982,7 +23982,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -24086,7 +24086,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -24146,7 +24146,7 @@
     },
     "appealed": "Yes",
     "appeadDecision": "Rejected",
-    "reasom": "See Eligibility criteria of Retro Funding 4. Only transactions which are initiated by unique addresses are considered. We don't consider `to_addresses` towards our count of unique addresses interacting with a project.",
+    "reason": "See Eligibility criteria of Retro Funding 4. Only transactions which are initiated by unique addresses are considered. We don't consider `to_addresses` towards our count of unique addresses interacting with a project.",
     "links": null
   },
   {
@@ -24179,7 +24179,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -24236,7 +24236,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -24281,7 +24281,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -24326,7 +24326,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -24368,7 +24368,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -24445,7 +24445,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -24585,7 +24585,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -24636,7 +24636,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -24679,7 +24679,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -24722,7 +24722,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -24765,7 +24765,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -24810,7 +24810,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -24869,7 +24869,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -25147,7 +25147,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -25517,7 +25517,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -25560,7 +25560,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -25619,7 +25619,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -25670,7 +25670,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -25724,7 +25724,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -25790,7 +25790,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -25848,7 +25848,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -25907,7 +25907,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -26540,7 +26540,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -26592,7 +26592,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -26946,7 +26946,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -27083,7 +27083,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -27758,7 +27758,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -27823,7 +27823,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -27947,7 +27947,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -28007,7 +28007,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -28058,7 +28058,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -28127,7 +28127,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -28212,7 +28212,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -28250,7 +28250,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -28398,7 +28398,7 @@
     },
     "appealed": "Yes",
     "appeadDecision": "Rejected",
-    "reasom": "There are two challenges here. First, we don't treat NFT airdrop recipients the same as users performing their own interaction. Second, we have limited support for 4337 transactions given there is a variety of possible UserOps. Currently we are only able to credit 4337 interactions that create Smart Contract Wallets for projects. We analyzed the list of contracts you provided, but we were not able to identify SCW account creation events; these all seemed to be specific ERC1155 drops. If there is a contract you control that creates SCWs for users, please share and we will reconsider. Otherwise it is very difficult to decode custom logic and ensure a project is performing legitimate actions on behalf of users vs airdropping indiscriminately. There are multiple cases of this that we've had to mark as ineligible for this specific round.",
+    "reason": "There are two challenges here. First, we don't treat NFT airdrop recipients the same as users performing their own interaction. Second, we have limited support for 4337 transactions given there is a variety of possible UserOps. Currently we are only able to credit 4337 interactions that create Smart Contract Wallets for projects. We analyzed the list of contracts you provided, but we were not able to identify SCW account creation events; these all seemed to be specific ERC1155 drops. If there is a contract you control that creates SCWs for users, please share and we will reconsider. Otherwise it is very difficult to decode custom logic and ensure a project is performing legitimate actions on behalf of users vs airdropping indiscriminately. There are multiple cases of this that we've had to mark as ineligible for this specific round.",
     "links": null
   },
   {
@@ -28445,7 +28445,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -28487,7 +28487,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -28556,7 +28556,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -28634,7 +28634,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -28685,7 +28685,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -28748,7 +28748,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -28854,7 +28854,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -28973,7 +28973,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -29041,7 +29041,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -29088,7 +29088,7 @@
     },
     "appealed": "Yes",
     "appeadDecision": "Rejected",
-    "reasom": "Please see attached sheet with all transactions we've considered to be valid during the RF4 period.",
+    "reason": "Please see attached sheet with all transactions we've considered to be valid during the RF4 period.",
     "links": "Beware of Shadows"
   },
   {
@@ -29150,7 +29150,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -29250,7 +29250,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -29303,7 +29303,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -29350,7 +29350,7 @@
     },
     "appealed": "Yes",
     "appeadDecision": "Rejected",
-    "reasom": "See Eligibility criteria of Retro Funding 4.",
+    "reason": "See Eligibility criteria of Retro Funding 4.",
     "links": null
   },
   {
@@ -29447,7 +29447,7 @@
     },
     "appealed": "Yes",
     "appeadDecision": "Rejected",
-    "reasom": "Unfortunately, we don't treat NFT airdrop recipients the same as users performing their own interaction. It is very difficult to decode custom logic and ensure a project is performing legitimate actions on behalf of users vs airdropping indiscriminately. There are multiple cases of this that we've had to mark as ineligible for this specific round.",
+    "reason": "Unfortunately, we don't treat NFT airdrop recipients the same as users performing their own interaction. It is very difficult to decode custom logic and ensure a project is performing legitimate actions on behalf of users vs airdropping indiscriminately. There are multiple cases of this that we've had to mark as ineligible for this specific round.",
     "links": null
   },
   {
@@ -29583,7 +29583,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -29650,7 +29650,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -29697,7 +29697,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -29739,7 +29739,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -29830,7 +29830,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -29873,7 +29873,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -29916,7 +29916,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -29959,7 +29959,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -30004,7 +30004,7 @@
     },
     "appealed": "Yes",
     "appeadDecision": "Rejected",
-    "reasom": "See Eligibility criteria of Retro Funding 4. We don't consider `to_addresses` towards our count of unique addresses interacting with a project.",
+    "reason": "See Eligibility criteria of Retro Funding 4. We don't consider `to_addresses` towards our count of unique addresses interacting with a project.",
     "links": null
   },
   {
@@ -30050,7 +30050,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -30118,7 +30118,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -30176,7 +30176,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -30231,7 +30231,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -30274,7 +30274,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -30317,7 +30317,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -30360,7 +30360,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -30403,7 +30403,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -30469,7 +30469,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -30529,7 +30529,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -30583,7 +30583,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -30661,7 +30661,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -30712,7 +30712,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -30781,7 +30781,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -30847,7 +30847,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -30896,7 +30896,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -30990,7 +30990,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -31036,7 +31036,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -31430,7 +31430,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -31489,7 +31489,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -31537,7 +31537,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -31577,7 +31577,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -31670,7 +31670,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -31738,7 +31738,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -31820,7 +31820,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -31868,7 +31868,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -31919,7 +31919,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -31966,7 +31966,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -32203,7 +32203,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -32254,7 +32254,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -32305,7 +32305,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -32351,7 +32351,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -32393,7 +32393,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -32434,7 +32434,7 @@
     },
     "appealed": "Yes",
     "appeadDecision": "Rejected",
-    "reasom": "There was a typo in the rejection reason. The cutoff date is 2024-01-01 not 2023-01-01. The RF4 eligibility window does not include 2023.",
+    "reason": "There was a typo in the rejection reason. The cutoff date is 2024-01-01 not 2023-01-01. The RF4 eligibility window does not include 2023.",
     "links": null
   },
   {
@@ -32482,7 +32482,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -32563,7 +32563,7 @@
     },
     "appealed": "Yes",
     "appeadDecision": "Rejected",
-    "reasom": "See Eligibility criteria of Retro Funding 4.",
+    "reason": "See Eligibility criteria of Retro Funding 4.",
     "links": null
   },
   {
@@ -32620,7 +32620,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -32685,7 +32685,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -32752,7 +32752,7 @@
     },
     "appealed": "Yes",
     "appeadDecision": "Rejected",
-    "reasom": "See Eligibility criteria of Retro Funding 4. Contracts deployed through Zora are not considered",
+    "reason": "See Eligibility criteria of Retro Funding 4. Contracts deployed through Zora are not considered",
     "links": null
   },
   {
@@ -32839,7 +32839,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -32984,7 +32984,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -33047,7 +33047,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -33103,7 +33103,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -33163,7 +33163,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -33214,7 +33214,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -33268,7 +33268,7 @@
     },
     "appealed": "Yes",
     "appeadDecision": "Approved",
-    "reasom": "Correct. It appears these deployments from your factory were not picked up.",
+    "reason": "Correct. It appears these deployments from your factory were not picked up.",
     "links": null
   },
   {
@@ -33347,7 +33347,7 @@
     },
     "appealed": "Yes",
     "appeadDecision": "Rejected",
-    "reasom": "These contracts will be added but will not be treated as a standalone project. They will be merged into Reservoir.",
+    "reason": "These contracts will be added but will not be treated as a standalone project. They will be merged into Reservoir.",
     "links": null
   },
   {
@@ -33400,7 +33400,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -33443,7 +33443,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -33745,7 +33745,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -33787,7 +33787,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -33835,7 +33835,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -33873,7 +33873,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -33965,7 +33965,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -34012,7 +34012,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -34101,7 +34101,7 @@
     },
     "appealed": "Yes",
     "appeadDecision": "Rejected",
-    "reasom": "See Eligibility criteria of Retro Funding 4.",
+    "reason": "See Eligibility criteria of Retro Funding 4.",
     "links": null
   },
   {
@@ -34146,7 +34146,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -34288,7 +34288,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -34339,7 +34339,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -34384,7 +34384,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -34424,7 +34424,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -34468,7 +34468,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -34519,7 +34519,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -34719,7 +34719,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -34757,7 +34757,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -34808,7 +34808,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -34882,7 +34882,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -34922,7 +34922,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -34980,7 +34980,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -35049,7 +35049,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -35129,7 +35129,7 @@
     },
     "appealed": "Yes",
     "appeadDecision": "Rejected",
-    "reasom": "See Eligibility criteria of Retro Funding 4.",
+    "reason": "See Eligibility criteria of Retro Funding 4.",
     "links": null
   },
   {
@@ -35180,7 +35180,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -35228,7 +35228,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -35270,7 +35270,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -35419,7 +35419,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -35480,7 +35480,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -35545,7 +35545,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -35588,7 +35588,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -35626,7 +35626,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -35681,7 +35681,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -35749,7 +35749,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -35820,7 +35820,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -35862,7 +35862,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -35930,7 +35930,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -35965,7 +35965,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -36024,7 +36024,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -36103,7 +36103,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -36145,7 +36145,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -36182,7 +36182,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -36250,7 +36250,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -36335,7 +36335,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -36376,7 +36376,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -36421,7 +36421,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -36470,7 +36470,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -36523,7 +36523,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -36574,7 +36574,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -36627,7 +36627,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -36669,7 +36669,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -36720,7 +36720,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -36771,7 +36771,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -36807,7 +36807,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -36858,7 +36858,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -36909,7 +36909,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -37004,7 +37004,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -37053,7 +37053,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -37104,7 +37104,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -37155,7 +37155,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -37200,7 +37200,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -37257,7 +37257,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -37357,7 +37357,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -37422,7 +37422,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -37488,7 +37488,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -37532,7 +37532,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -37574,7 +37574,7 @@
     },
     "appealed": "Yes",
     "appeadDecision": "Rejected",
-    "reasom": "See Eligibility criteria of Retro Funding 4.",
+    "reason": "See Eligibility criteria of Retro Funding 4.",
     "links": null
   },
   {
@@ -37639,7 +37639,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -37693,7 +37693,7 @@
     },
     "appealed": "No",
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -37765,7 +37765,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   },
   {
@@ -37881,7 +37881,7 @@
     },
     "appealed": null,
     "appeadDecision": null,
-    "reasom": null,
+    "reason": null,
     "links": null
   }
 ]

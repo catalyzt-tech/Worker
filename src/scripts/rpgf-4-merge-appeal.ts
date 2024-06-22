@@ -35,7 +35,7 @@ const run = async () => {
           appeadDecision: rpgf4Appeal[j]['Appeal decision']
             ? rpgf4Appeal[j]['Appeal decision']
             : null,
-          reasom: rpgf4Appeal[j].Reason ? rpgf4Appeal[j].Reason : null,
+          reason: rpgf4Appeal[j].Reason ? rpgf4Appeal[j].Reason : null,
           links: rpgf4Appeal[j].Links ? rpgf4Appeal[j].Links : null,
         }
         rpgf4[i] = newData
@@ -47,7 +47,7 @@ const run = async () => {
         ...rpgf4[i],
         appealed: null,
         appeadDecision: null,
-        reasom: null,
+        reason: null,
         links: null,
       }
       rpgf4[i] = newData
