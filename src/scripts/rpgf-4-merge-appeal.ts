@@ -29,10 +29,20 @@ const run = async () => {
       ) {
         flagFound = true
         count++
+        const eligibilityRejectReason: string[] | null =
+          rpgf4Appeal[j]['Eligibiltiy Rejection reason'].split(';')
         const newData: any = {
           ...rpgf4[i],
+          eligibilityRules:
+            eligibilityRejectReason.length == 2
+              ? eligibilityRejectReason[0]
+              : null,
+          eigibilityRejectReason:
+            eligibilityRejectReason.length == 2
+              ? eligibilityRejectReason[1]
+              : eligibilityRejectReason[0],
           appealed: rpgf4Appeal[j].Appealed,
-          appeadDecision: rpgf4Appeal[j]['Appeal decision']
+          appealDecision: rpgf4Appeal[j]['Appeal decision']
             ? rpgf4Appeal[j]['Appeal decision']
             : null,
           reason: rpgf4Appeal[j].Reason ? rpgf4Appeal[j].Reason : null,
@@ -45,8 +55,10 @@ const run = async () => {
     if (!flagFound) {
       const newData: any = {
         ...rpgf4[i],
+        eligibilityRules: null,
+        eligibilityRejectReason: null,
         appealed: null,
-        appeadDecision: null,
+        appealDecision: null,
         reason: null,
         links: null,
       }
