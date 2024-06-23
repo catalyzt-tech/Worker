@@ -1,4 +1,4 @@
-import getGithubStats from '../../data/RetroPGF4/githubstats.json'
+import getGithubRepoStats from '../../data/RetroPGF4/githubRepoStatsOSO.json'
 import getRpgf4 from '../../data/RetroPGF4/rpgf4_merged_appeal.json'
 import fs from 'fs'
 
@@ -6,16 +6,17 @@ const run = async () => {
   await Promise.all(
     getRpgf4.map(async (project) => {
       for (let k = 0; k < project.github.length; k++) {
-        const githubStat = getGithubStats.find(
-          (stat) => stat.artifact_url === project.github[k]
+        const githubStat = getGithubRepoStats.find(
+          (stat) => stat.url.toLowerCase() === project.github[k].toLowerCase()
         )
+
         if (githubStat) {
           const addGithubStats = {
             githubLink: project.github[k],
-            star: githubStat.star_count,
-            watcher: githubStat.watcher_count,
-            fork: githubStat.fork_count,
-            isFork: githubStat.is_fork,
+            star: githubStat.star_count !== '' ? githubStat.star_count : null,
+            // watcher: githubStat.watcher_count,
+            fork: githubStat.fork_count !== '' ? githubStat.fork_count : null,
+            isFork: githubStat.is_fork !== '' ? githubStat.is_fork : null,
           }
           project.github[k] = addGithubStats as any
           console.log('Updated project:', project.name, project.github[k])
@@ -23,7 +24,7 @@ const run = async () => {
           const addGithubStats = {
             githubLink: project.github[k],
             star: null,
-            watcher: null,
+            // watcher: null,
             fork: null,
             isFork: null,
           }
