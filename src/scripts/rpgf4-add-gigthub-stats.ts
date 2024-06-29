@@ -35,7 +35,7 @@ const run = async () => {
 
         if (githubStat) {
           count++
-          const addGithubStats = {
+          const addGithubStat = {
             githubLink: project.github[k],
             star: githubStat.star_count !== '' ? githubStat.star_count : null,
             // watcher: githubStat.watcher_count,
