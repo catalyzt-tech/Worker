@@ -22,6 +22,7 @@ interface GrantsAndFunding {
 }
 
 interface Project {
+  projectId: string
   name: string
   description: string
   projectAvatarUrl: string
@@ -52,11 +53,14 @@ const run = async () => {
     for (let i = 0; i < data.length; i++) {
       console.log(data[i].metadataUrl)
       const metadata: Project = (await getMetadataUrl(data[i])) as Project
-      console.log(i, metadata.name)
-      fetchAllProjectMetadata.push(metadata)
+      console.log(i, metadata.name, data[i].projectRefUID)
+      fetchAllProjectMetadata.push({
+        ...metadata,
+        projectId: data[i].projectRefUID,
+      })
     }
     await fs.writeFileSync(
-      './data/RetroPGF4/rpgf4_pullmetadata_optimism-io.json',
+      './data/RetroPGF4/(1)rpgf4_pullmetadata_optimism-io.json',
       JSON.stringify(fetchAllProjectMetadata, null, 2)
     )
   }
