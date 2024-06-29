@@ -21,9 +21,8 @@ const run = () => {
           applicationRejectReason: rpgf4_application_appeal[j]['Reason']
             ? rpgf4_application_appeal[j]['Reason']
             : null,
-          appealed: rpgf4_application_appeal[j].Appealed
-            ? Boolean(rpgf4_application_appeal[j].Appealed.toLowerCase)
-            : null,
+          appealed:
+            rpgf4_application_appeal[j].Appealed === 'TRUE' ? true : false,
           appealStatement: rpgf4_application_appeal[j]['Appeal Statement']
             ? rpgf4_application_appeal[j]['Appeal Statement']
             : null,
@@ -31,7 +30,14 @@ const run = () => {
             ? rpgf4_application_appeal[j]['Appeal Decision']
             : null,
         }
-        rpgf4[i] = { ...rpgf4[i], applicationReview: newData } as any
+        rpgf4[i] = {
+          ...rpgf4[i],
+          applicationReview: newData,
+          isEligibieFinal:
+            rpgf4_application_appeal[j]['Final Status'] === 'Approved'
+              ? true
+              : false,
+        } as any
       }
     }
   }

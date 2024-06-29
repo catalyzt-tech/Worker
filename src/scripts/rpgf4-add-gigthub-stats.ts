@@ -1,6 +1,6 @@
 // import getGithubRepoStats from '../../data/RetroPGF4/osoResource/githubRepoStatsOSO (old).json'
 import getGithubRepoStats from '../../data/RetroPGF4/osoResource/gitHubStats(officialOP).json'
-import getRpgf4 from '../../data/RetroPGF4/rpgf4_merged_appeal.json'
+import getRpgf4 from '../../data/RetroPGF4/(4)rpgf4_merged_application_review_appeal.json'
 import fs from 'fs'
 
 interface GitHubStats {
@@ -32,10 +32,9 @@ const run = async () => {
         const githubStat = getGithubRepoStats.find(
           (stat) => stat.url.toLowerCase() === project.github[k].toLowerCase()
         )
-
         if (githubStat) {
           count++
-          const addGithubStat = {
+          const addGithubStats = {
             githubLink: project.github[k],
             star: githubStat.star_count !== '' ? githubStat.star_count : null,
             // watcher: githubStat.watcher_count,
@@ -71,7 +70,7 @@ const final = async () => {
   await run()
   console.log('Writing to file...')
   fs.writeFileSync(
-    './data/RetroPGF4/(3)rpgf4_merged_githubstats.json',
+    './data/RetroPGF4/(5)rpgf4_merged_githubstats.json',
     JSON.stringify(getRpgf4, null, 2)
   )
   console.log('File has been written.')
