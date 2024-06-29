@@ -1,6 +1,5 @@
 import fs from 'fs'
 import rawRPGF4_unfilter from '../../data/RetroPGF4/rawMetadata_unfilter.json'
-import { format } from 'path'
 
 interface Attestation {
   attester: string
