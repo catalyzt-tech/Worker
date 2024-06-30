@@ -86,7 +86,7 @@
       "appealStatement": "April Token on OP is the core of our REAP dapp and was bridged from BSC using Axelar ITS. April Token on BSC is over 3 years old and was bridged to Op on Feb. 12th 2024. Bridge Tnx from BSC to OP: https://optimistic.etherscan.io/tx/0x0ef07064130726bb77cb8fd1c3aeb9d67f4869e16011b3629d07a07ada4b5ccd https://bscscan.com/tx/0xd9a6692f6f10989ff64c895aed743419f82b98b32221ceee1fac238adcc87ba8 1. Our repo is 3 years old, we had pushed our details to the Trustwallet asset directory in 2021. https://github.com/trustwallet/assets/compare/master...Apriloracle:assets:master 2. We and the Axelar team had issues verifying our contract using your sig. verification which forced us to use OSS option provided. In link below Axelar clearly explaining issue to OSS team. https://github.com/opensource-observer/oss-directory/pull/352#issuecomment-2152300667 3. Dune Dashboard data: https://dune.com/defimochi/token-god-mode?token_address_t51125=0x18719D2e1e57A1A64708e4550fF3DEF9d1074621&day_n271f2=60",
       "appealDecision": "Rejected"
     },
-    "isEligibieFinal": false
+    "isEligibleFinal": false
   },
   {
     "name": "Kiwi Labs Batch 1 NFT",
@@ -292,7 +292,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "SwapMode",
@@ -401,7 +401,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Kim Exchange",
@@ -484,7 +484,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Loot2",
@@ -532,7 +532,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Light",
@@ -744,7 +744,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Alien Base",
@@ -842,7 +842,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "DackieSwap",
@@ -904,7 +904,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "BaseSwap ",
@@ -1017,7 +1017,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Not Based Punk",
@@ -1075,7 +1075,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": false
+    "isEligibleFinal": false
   },
   {
     "name": "Crypto Composite",
@@ -1129,7 +1129,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Gitcoin",
@@ -1219,7 +1219,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "fringedoge",
@@ -1321,7 +1321,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "MONCAT",
@@ -1523,7 +1523,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Scry Protocol",
@@ -1633,7 +1633,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "sudoswap",
@@ -1700,7 +1700,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "AuralGenius",
@@ -1934,7 +1934,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Ionic Protocol",
@@ -2003,7 +2003,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Nogem",
@@ -2122,7 +2122,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "SwapBased",
@@ -2793,7 +2793,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "CryptoRank",
@@ -2853,7 +2853,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": false
+    "isEligibleFinal": false
   },
   {
     "name": "PRINT3R",
@@ -2920,7 +2920,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Pyth Network",
@@ -2996,7 +2996,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "ahmad",
@@ -3507,7 +3507,7 @@
       "appealStatement": "Hi, I'm writing to clarify a misunderstanding regarding project submissions and propose a solution for Bored Town and BLOBz. Project Focus: Bored Town: This project prioritizes the existing NFT community on Optimism Superchain, empowering creators and users through launch/promotion assistance and $OP rewards (6,000 OP from our own funds) and fostering long-term engagement. BLOBz: This project focuses on attracting new users interested in DeFi. We target users from Ethereum, Manta, Avalanche, and BSC by leveraging Bored Town's reputation and partnerships with Tripster, FWX Finance, Gull Network, Liquid Crypto, Orbiter Finance, etc. (Details at https://x.com/BLOBz4844) Combined Proposal: If one project per round is allowed, we propose merging Bored Town and BLOBz. This would maximize the impact of Optimism's DeFi ecosystem, reaching existing and new users. This streamlined approach efficiently utilizes resources. We welcome clarification or questions. Sincerely, BLOBz Team",
       "appealDecision": "Rejected"
     },
-    "isEligibieFinal": false
+    "isEligibleFinal": false
   },
   {
     "name": "Lady Based Ape Yacht Club",
@@ -3767,7 +3767,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": false
+    "isEligibleFinal": false
   },
   {
     "name": "Basepaint",
@@ -3864,7 +3864,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Hypersub",
@@ -3937,7 +3937,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Ritual Haikus",
@@ -4117,7 +4117,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "1337 Brians Smart Contracts",
@@ -4173,7 +4173,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": false
+    "isEligibleFinal": false
   },
   {
     "name": "Your Brians",
@@ -4229,7 +4229,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "EVM Warfare",
@@ -4339,7 +4339,7 @@
       "appealStatement": "There is a comment on this page that says they are declining my application because I made another application for a different project with the same user account. I submitted two different projects, not a duplicate of the same project. https://app.charmverse.io/op-retrofunding-review-process/page-6734421700238933",
       "appealDecision": "Rejected"
     },
-    "isEligibieFinal": false
+    "isEligibleFinal": false
   },
   {
     "name": "NFTREX WEB3",
@@ -4473,7 +4473,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "GifmeBeer",
@@ -4621,7 +4621,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "ORA Onchain AI Oracle on Optimism",
@@ -4707,7 +4707,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "HardHit",
@@ -4817,7 +4817,7 @@
       "appealStatement": "I launched an app before, but I had a sudden UI update to do after my designer came in with newest app design. I had to make a teaser website for this, but the community thinks I never launched this app. I didn't mean to deceive badgeholders, and I was trying to improve my user experience.",
       "appealDecision": "Rejected"
     },
-    "isEligibieFinal": false
+    "isEligibleFinal": false
   },
   {
     "name": "Sturdy",
@@ -4948,7 +4948,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "GiveStation",
@@ -5166,7 +5166,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "EFIHUB",
@@ -5320,7 +5320,7 @@
       "appealStatement": "Hi, I'm writing to clarify a misunderstanding regarding project submissions and propose a solution for Bored Town and BLOBz. Project Focus: Bored Town: This project prioritizes the existing NFT community on Optimism Superchain, empowering creators and users through launch/promotion assistance and $OP rewards (6,000 OP from our own funds) and fostering long-term engagement. BLOBz: This project focuses on attracting new users interested in DeFi. We target users from Ethereum, Manta, Avalanche, and BSC by leveraging Bored Town's reputation and partnerships with Tripster, FWX Finance, Gull Network, Liquid Crypto, Orbiter Finance, etc. (Details at https://x.com/BLOBz4844) Combined Proposal: If one project per round is allowed, we propose merging Bored Town and BLOBz. This would maximize the impact of Optimism's DeFi ecosystem, reaching existing and new users. This streamlined approach efficiently utilizes resources. We welcome clarification or questions. Sincerely, Bored Town Team",
       "appealDecision": "Approved"
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Sonic Zorb",
@@ -5378,7 +5378,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": false
+    "isEligibleFinal": false
   },
   {
     "name": "RMRK",
@@ -5480,7 +5480,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "ME",
@@ -5607,7 +5607,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Hedgey",
@@ -5993,7 +5993,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Let's Get HAI",
@@ -6288,7 +6288,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Nectar",
@@ -6417,7 +6417,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "JOJO Exchange",
@@ -6612,7 +6612,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Basemigos",
@@ -6836,7 +6836,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Opti.Domains",
@@ -6976,7 +6976,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Borja Moskv",
@@ -7145,7 +7145,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": false
+    "isEligibleFinal": false
   },
   {
     "name": "Speedtracer",
@@ -7239,7 +7239,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "INT",
@@ -7307,7 +7307,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Test Project",
@@ -7438,7 +7438,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "builder.fi",
@@ -7518,7 +7518,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Based Onchain Dinos",
@@ -7589,7 +7589,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Paragraph",
@@ -7699,7 +7699,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Guac (Farcaster)",
@@ -7761,7 +7761,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Tiny Based Frogs",
@@ -7831,7 +7831,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Based Onchain Cubes",
@@ -7893,7 +7893,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Ham",
@@ -7972,7 +7972,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "WOOFi",
@@ -8106,7 +8106,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "CashmereLabs",
@@ -8166,7 +8166,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": false
+    "isEligibleFinal": false
   },
   {
     "name": "Soulcial",
@@ -8373,7 +8373,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Extra Finance",
@@ -8460,7 +8460,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Bebop",
@@ -8710,7 +8710,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Boost",
@@ -8802,7 +8802,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Beefy",
@@ -8897,7 +8897,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "2fai",
@@ -8971,7 +8971,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": false
+    "isEligibleFinal": false
   },
   {
     "name": "doginme memecoin",
@@ -9027,7 +9027,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Mintify",
@@ -9097,7 +9097,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Balancer",
@@ -9262,7 +9262,7 @@
       "appealStatement": "Hi grants team, Balancer was rejected because we did not include the grant named LST and LRT Hub in the application (https://app.charmverse.io/op-grants/page-7483023484917983). The question about previous grants in the application was worded as grants we've \"\"received\"\" as of January 2023. As of when we were writing our application, we'd been \"\"approved\"\" for the LST/LRT grant but hadn't \"\"received\"\" the grant funds (we received the initial tranche around June 5th). Leaving that grant off the application wasn't meant to be deceptive or malicious at all. I just misinterpreted the question given how it was worded (e.g. \"\"received\"\"). We would really appreciate it if this didn't block our ability to participate in the Retro Funding Round 4. We hope Balancer's commitment to OP and the Superchain (OP, Base, Fraxtal (recent deployment), and Mode (recent deployment)) helps give us the benefit of the doubt. I'm (Lipman) happy to chat with whomever from OP that may be necessary. Thank you.",
       "appealDecision": "Approved"
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Party.app + Party Protocol",
@@ -9396,7 +9396,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Omnisea",
@@ -9475,7 +9475,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Brian's super cool defi project",
@@ -9573,7 +9573,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "VRNouns",
@@ -9863,7 +9863,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Gamma",
@@ -10806,7 +10806,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "ZKP2P",
@@ -10920,7 +10920,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "LI.FI",
@@ -11006,7 +11006,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Ponder",
@@ -11099,7 +11099,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": false
+    "isEligibleFinal": false
   },
   {
     "name": "Aragon ",
@@ -11170,7 +11170,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Artgene",
@@ -11235,7 +11235,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": false
+    "isEligibleFinal": false
   },
   {
     "name": "Synonym Finance",
@@ -11329,7 +11329,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Bright Moments",
@@ -11581,7 +11581,7 @@
       "appealStatement": "Our contracts cannot really be verified due to the fact they're deployed via contracts themselves; We are using 1 deployment helper contract (0xdD...2b8e) to deploy all Ambire users’ contracts, so that they can have the same addresses on all chains. We can validate with signMessage from EOA only this deployment helper. The contract creates and deploys our Factory Identity contract (0xBf....5BCA) that is to create and deploy Ambire's smart wallets. Take this deployment transaction: https://bit.ly/3VK99yO. It spawned a total of 3 contracts; ES used to have this bug until recently - signature is correct, the error is \"Contract address doesn't match transaction logs\"; Though we have > 600 active wallets on Optimism with 1000s of interactions, you might be counting them as 0 because almost all are delegatecalls to the base AmbireAccount If you want to check how active our users are, you can check our relayer EOA: 0x942f9CE5D9a33a82F88D233AEb3292E680230348) broadcasting Ambire user's txns.",
       "appealDecision": "Approved"
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Oku Trade",
@@ -11649,7 +11649,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Phi",
@@ -11715,7 +11715,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "EcoSynthesisX",
@@ -11876,7 +11876,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Totemheads",
@@ -12052,7 +12052,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Kredeum NFTs Factory",
@@ -12280,7 +12280,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Sommelier",
@@ -12436,7 +12436,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Base Punk",
@@ -12577,7 +12577,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Blob Farm",
@@ -12662,7 +12662,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "DropFrame",
@@ -13776,7 +13776,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": false
+    "isEligibleFinal": false
   },
   {
     "name": "Slice",
@@ -14029,7 +14029,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Liquidify",
@@ -14106,7 +14106,7 @@
       "appealStatement": "Hi - appreciate you considering my appeal. I will address each of the rejection points directly below 1. Deceiving badge holders - Out of scope: Onchain contracts had their first transaction after April 1st 2024 Response: I believe the cut off is May 1st. Yes, there are some contracts deployed after that cutoff time but, I expect them to be filtered by a script in order to calculate transactions within the time period. To quote directly from the Optimism post: Onchain contract had more than 10 days of activity during Jan 1st - May 1st 2024 2. Spam - this is some kind of a proof-of-concept application without any real traction, not sure why they're applying for rf4 Response: This is fairly hurtful to read, we're now on a version 3 - we had a lot of hype with the v2 which is what made me create the v3. While, it may be incomparable to something like Manifold, I think saying that there is not real traction is unfair. The contracts deployed by the Factory would say otherwise.",
       "appealDecision": "Approved"
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Omni X",
@@ -14236,7 +14236,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "WebHash.com",
@@ -14433,7 +14433,7 @@
       "appealStatement": "Hi Retro team, Thanks for flagging the missing information. https://app.charmverse.io/op-retrofunding-review-process/page-29266752524519224 The EAS explorer was awarded a 50k OP Grant from the Grants Council but has not received any funds as it has a 1-year lock-up (which ends sometime in August). It was unclear if this should be included as no funds have been received. I'm happy to add this in for visibility. Links to contracts (in the application itself): - EAS Contract https://optimistic.etherscan.io/address/0x4200000000000000000000000000000000000021 - EAS Schema Registry https://optimistic.etherscan.io/address/0x4200000000000000000000000000000000000020 Please let me know if there's any other info required!",
       "appealDecision": "Approved"
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Rainbow",
@@ -14529,7 +14529,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Exactly Protocol",
@@ -14704,7 +14704,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Multicall3",
@@ -14770,7 +14770,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "MiniBridge",
@@ -14868,7 +14868,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "LottoPGF",
@@ -15130,7 +15130,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Mellow",
@@ -15411,7 +15411,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "XSwap",
@@ -15484,7 +15484,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "MagicalTux",
@@ -15547,7 +15547,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": false
+    "isEligibleFinal": false
   },
   {
     "name": "MYSTCL ($MYST)",
@@ -15608,7 +15608,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "LogX",
@@ -15715,7 +15715,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "ModeChat.xyz | Onchain Social on Mode",
@@ -15819,7 +15819,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Get Mint",
@@ -15905,7 +15905,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Thales Protocol",
@@ -16248,7 +16248,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Sequence",
@@ -16431,7 +16431,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "DappLearning ZK redpacket",
@@ -16497,7 +16497,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Gitcoin Passport",
@@ -16562,7 +16562,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Morkie",
@@ -16654,7 +16654,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "0x Protocol",
@@ -16712,7 +16712,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Building Blocks",
@@ -16773,7 +16773,7 @@
       "appealStatement": "My github repo is now showing the correct code for the contract information, apologies for the mistake. Also, I'm not sure why my X handle did not save for the application but it is @Jhekub. Thank you. https://github.com/Jhekub/Building-Blocks",
       "appealDecision": "Approved"
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Pheasant Network",
@@ -16846,7 +16846,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "pods.media",
@@ -17283,7 +17283,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "MEME BLOCKS",
@@ -17512,7 +17512,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Yeeter",
@@ -17668,7 +17668,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Layer3",
@@ -17777,7 +17777,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "ODOS",
@@ -17853,7 +17853,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Gloom",
@@ -17938,7 +17938,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "TITLES",
@@ -18036,7 +18036,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Holograph Foundation",
@@ -18177,7 +18177,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Sound.xyz",
@@ -18312,7 +18312,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Receipts",
@@ -18383,7 +18383,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "OptiChads NFT Community",
@@ -18470,7 +18470,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "dHEDGE",
@@ -18541,7 +18541,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Router Protocol",
@@ -18683,7 +18683,7 @@
       "appealStatement": "I believe the reason for rejection is vague, and it's termed as Spam and I'm not clear why it's termed as such.I will share more details about what we accomplished and what our near future plans are , hope to make ourself clear Router Nitro is a cross-chain an intent-based bridge and it has been providing fast and cheap bridging to the OP-based chain and beyond we have been able to provide lots of value to many users and volumes to the chain which can be verified on (https://explorer.routernitro.com/analytics) and We aim to attract more solvers to the bridge and share more technical details on how to run solvers in our bridge we plan to scale and provide more connectivity in optimism",
       "appealDecision": "Approved"
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Pike Finance",
@@ -18829,7 +18829,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": false
+    "isEligibleFinal": false
   },
   {
     "name": "Base on Rarible",
@@ -18942,7 +18942,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Air3",
@@ -19147,7 +19147,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "KarafuruNavigators",
@@ -19462,7 +19462,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "TribalElegance",
@@ -19659,7 +19659,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Playground",
@@ -19784,7 +19784,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Clearpool Finance",
@@ -20009,7 +20009,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Pika Protocol",
@@ -20164,7 +20164,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Gyroscope (FTL Labs)",
@@ -20307,7 +20307,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Dot",
@@ -20672,7 +20672,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Perfect Pool",
@@ -20797,7 +20797,7 @@
       "appealStatement": "Hi there, This project I believe should fall in the scope, as it's built on Base and has had transactions within the window specified. It started as circle.tech but rebranded to time.fun. Same project, same investors and early adopters. Let me know if there's any further reason. Alliance set me up with Jack to talk about it/future grants. Thanks.",
       "appealDecision": "Approved"
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Aave",
@@ -20865,7 +20865,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "higher swap nft",
@@ -20981,7 +20981,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": false
+    "isEligibleFinal": false
   },
   {
     "name": "Hats Protocol",
@@ -21287,7 +21287,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "EthXY",
@@ -21359,7 +21359,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "BSX",
@@ -21467,7 +21467,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Union",
@@ -21585,7 +21585,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Pixotchi",
@@ -21736,7 +21736,7 @@
       "appealStatement": "We would like to confidently request an appeal against this decision. # 1: (App not working) Pixotchi game is a PWA app designed for mobile devices. Upon visiting the dApp, you are instructed to add it as a shortcut to install it. It works the same way as Friend.Tech, Fren Pet, and other similar projects. Our current focus is on mobile devices, but this limitation will be lifted with the V3 release, making the dApp universal. Visit app.pixotchi.tech on a mobile device, add it to the home screen, and use the public invite code to sign up. The game is functioning, with consistent activities. # 2: (1 week old GitHub w no transactions) For security reasons, the dApp itself cannot be open-sourced yet. Therefore, our dev team created a public repo to include these contracts to apply for this retro funding. Most contracts, especially our NFT and token contracts, have many transactions and fall into the eligibility period. We deployed in February. Thanks for reconsidering our application.",
       "appealDecision": "Approved"
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Peach Tycoon",
@@ -21947,7 +21947,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Coordinape",
@@ -22029,7 +22029,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Ironclad Finance",
@@ -22112,7 +22112,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Ethos Reserve",
@@ -22315,7 +22315,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Equalizer",
@@ -22412,7 +22412,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Daily Active Users - DAU",
@@ -22522,7 +22522,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Splits",
@@ -22730,7 +22730,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Memecoindex",
@@ -22834,7 +22834,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": false
+    "isEligibleFinal": false
   },
   {
     "name": "CyberConnect Protocol",
@@ -22941,7 +22941,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Aloe",
@@ -23115,7 +23115,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": false
+    "isEligibleFinal": false
   },
   {
     "name": "Wombat Exchange",
@@ -23178,7 +23178,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Keng Lernitas",
@@ -23242,7 +23242,7 @@
       "appealStatement": "1. Keng Lernitas did not anticipate applying for a grant when it was first conceived. We created a dedicated Github repository/user just before the OP RetroPGF application to make the project look more legitimate and organized, as the older repo was created by a developer, which we now know was a mistake. However, our project and organization have been active for several months. The initial project and organization can be found here: https://github.com/keng-lernitas/website. We invited the @KengLernitas user following your rejection to prove we own both. 2. We have also hosted multiple games on-chain since week #1 which the results are featured here: https://dune.com/nice2win/lernitas2192. The project transitioned to a governance system on the suggestion of Kain Warwick before we knew of the RetroPGF existence. You can find our DAO proposals here: https://proposals.kenglernitas.wtf and our voting platform here: https://vote.kenglernitas.wtf. Our last vote featured 807 unique voters.",
       "appealDecision": "Approved"
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "CreateMyToken",
@@ -23294,7 +23294,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Wish You Were Based",
@@ -23687,7 +23687,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Beam",
@@ -23752,7 +23752,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "UNCX Network",
@@ -23860,7 +23860,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "AirDeployer",
@@ -24051,7 +24051,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Gangster Arena",
@@ -24128,7 +24128,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "TLX",
@@ -24266,7 +24266,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Biconomy",
@@ -24330,7 +24330,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "OmniHub",
@@ -24602,7 +24602,7 @@
       "appealStatement": "The rejection we received was likely due to the recent creation date of our GitHub repository due to comments that we find in your review process. However, it's important to emphasize that this does not violate any rules, as there were no specific guidelines regarding the creation dates of GitHub repositories. Additionally you can check dates when folder contracts in OmniHub's repository was edited (2 months ago). OmniHub was initially developed as a Layer Zero ONFT Bridge and use private BitBucket account for version control tool. As we grow up as dApp, we focused our efforts on developing our core NFT product - Launchpad. Our GitHub repository was created recently because we were dedicated to perfecting the NFT Launchpad. Once we ensured everything was functioning flawlessly, we published the final version of the code. Furthermore, we would like to highlight that the smart contracts we have provided substantiate our longstanding involvement with the Optimism network",
       "appealDecision": "Approved"
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Whatlet",
@@ -24775,7 +24775,7 @@
       "appealStatement": "We have more than 1 million transactions over our platform that use layerzero can not become ou of scope because it supports more than 25 networks already included retro funding networks. Looking forward you review again. Best.",
       "appealDecision": "Rejected"
     },
-    "isEligibieFinal": false
+    "isEligibleFinal": false
   },
   {
     "name": "Solis Protocol",
@@ -24909,7 +24909,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Midas",
@@ -25094,7 +25094,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Fluidkey",
@@ -25284,7 +25284,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "LlamaPay",
@@ -25357,7 +25357,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Niaor",
@@ -25487,7 +25487,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": false
+    "isEligibleFinal": false
   },
   {
     "name": "Yavuz Can İKİOK",
@@ -26001,7 +26001,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Orderly Network",
@@ -26088,7 +26088,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Overnight Finance",
@@ -26238,7 +26238,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Velocimeter/Graphene",
@@ -26474,7 +26474,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "👑 King of the Degens 🎩 - Farcaster Frame Game",
@@ -26544,7 +26544,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "DriftBottleSeeds",
@@ -26717,7 +26717,7 @@
       "appealStatement": "Hi Team, 3 Github Repos are verified on the retrolist.app profile but on the charmverse profile review i was able to find only one https://github.com/sushiswap/v2-core https://github.com/sushiswap/v3-core https://github.com/sushiswap/v3-periphery All Github Repos Verified on https://retrolist.app/project/0x62b158fae899983897f1ee961a3b76d34b9c42ebdf41db4c0bab8f4b6181e89f Published packages : https://www.npmjs.com/package/sushi Our Contract address Verification for Networks Optimism : 0xFbc12984689e5f15626Bad03Ad60160Fe98B303C Base : 0xc35DADB65012eC5796536bD9864eD8773aBc74C4 Please Note both of the above mentioned contracts are verified on the https://retrofunding.optimism.io/projects/0x41b2ae8a2ead458ff7c85549a9a11380353e1ae4b234666312d495326636f77a/contracts but base contract verification does not showcase on the https://retrolist.app/project/0x62b158fae899983897f1ee961a3b76d34b9c42ebdf41db4c0bab8f4b6181e89f",
       "appealDecision": "Approved"
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Harvest Finance",
@@ -26838,7 +26838,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "QiDao - Mai.Finance",
@@ -27024,7 +27024,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "OptiNames | Your ENS identity on Optimism",
@@ -27245,7 +27245,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Botto",
@@ -27421,7 +27421,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": false
+    "isEligibleFinal": false
   },
   {
     "name": "Juniper",
@@ -27662,7 +27662,7 @@
       "appealStatement": "- repo was private initially. this is because when I first made it public during the OP application, I accidentally pushed personal secret keys to the public resulting in a bot scraping those keys and draining $40k of my personal money. So I turned it back to private to determine a more secure way to store this information. Now we've solved for this, and last week (after the review) made it a public repo again. - wrt to the outside of scope comments , let me explain what makes this platform onchain: 1. versus / temp tokens can be launched during livestreams and are an integral part of the experience. 2. you can tip in erc20s 3. clips from livestreams can be minted as NFTs 4. vip badges which give you access to gated chat rooms are onchain 5. all previous shows we've run (most notably \"\"Love on Leverage\"\") have some token mechanic that affects how the show is run, like pumping / dumping a token to kick someone off the show.",
       "appealDecision": "Approved"
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "HaloFi",
@@ -28071,7 +28071,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Coop Records Music",
@@ -28428,7 +28428,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Metronome",
@@ -28812,7 +28812,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Based Bodega",
@@ -28869,7 +28869,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "tanX - The World's Leading Institutional DEX",
@@ -28942,7 +28942,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "OmniArt",
@@ -29007,7 +29007,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": false
+    "isEligibleFinal": false
   },
   {
     "name": "Sablier",
@@ -29075,7 +29075,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "JokeRace",
@@ -29219,7 +29219,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "[OP] Compound Finance",
@@ -29931,7 +29931,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Galxe",
@@ -29997,7 +29997,7 @@
       "appealStatement": "After going through the comments and the application, during the \"\"grant\"\" stage, we forgot to select past grants and only selected \"\"revenue\"\" for funding received. In no way was this meant to be deceiptive, but rather an oversight. We were indeed approved for a grant in the past as mentioned in the comment and have no intention of hiding the fact that we were approved in the past: https://gov.optimism.io/t/growth-experiments-grant-optimism-oat-subsidization-on-galxe-cycle-11/5535 We hope to continue to drive forward and encourage activity on OP and Base, as we actively put out contracts on both chains on a weekly basis. If there are any other concerns, please feel free to comment. We hope that our appeal can be heard and receive this grant to continue to promote and encourage onchain activity for the ecosystem and it's users.",
       "appealDecision": "Rejected"
     },
-    "isEligibieFinal": false
+    "isEligibleFinal": false
   },
   {
     "name": "Seamless Protocol",
@@ -30365,7 +30365,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Zora",
@@ -30516,7 +30516,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Synthetix",
@@ -31205,7 +31205,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Delegate",
@@ -31414,7 +31414,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "MiniMatch",
@@ -31545,7 +31545,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "coNFT — Web3 Utility Hub",
@@ -31719,7 +31719,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Build base and live to me on tiktok ",
@@ -31978,7 +31978,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "PILL",
@@ -32109,7 +32109,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "ZK Email",
@@ -32327,7 +32327,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Crowdmuse",
@@ -32447,7 +32447,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "BMX by Morphex",
@@ -32580,7 +32580,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Infusion",
@@ -32662,7 +32662,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Beware of Shadows",
@@ -32791,7 +32791,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Revert",
@@ -32905,7 +32905,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Streamz",
@@ -33270,7 +33270,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "/ball",
@@ -33549,7 +33549,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Crimson Tide",
@@ -33881,7 +33881,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "The Sound Ecosystem By Malik Naim ",
@@ -34282,7 +34282,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Owlto Finance - Check in",
@@ -34356,7 +34356,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Bodhi",
@@ -34424,7 +34424,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Coinvise",
@@ -34516,7 +34516,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "DropX (by StationX)",
@@ -34656,7 +34656,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Timeswap",
@@ -34736,7 +34736,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": false
+    "isEligibleFinal": false
   },
   {
     "name": "Portals",
@@ -34799,7 +34799,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "OasisX",
@@ -35359,7 +35359,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Across Protocol",
@@ -35432,7 +35432,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Blue on base",
@@ -35540,7 +35540,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Umbra",
@@ -35647,7 +35647,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Calyptus",
@@ -35817,7 +35817,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Onchain Blobs - Randomly generated onchain blobs minted via a Farcaster frame",
@@ -35879,7 +35879,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "FairSharing",
@@ -35997,7 +35997,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Moonwell",
@@ -36248,7 +36248,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Pixel Quest",
@@ -36422,7 +36422,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "JayLelikeZ",
@@ -36579,7 +36579,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "API3 DAO ",
@@ -36737,7 +36737,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Egg Wars: A Game on Base",
@@ -36816,7 +36816,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "SCENES by Sound of Fractures",
@@ -36990,7 +36990,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Preon Finance",
@@ -37149,7 +37149,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Noggles ($NOGS)",
@@ -37226,7 +37226,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Hyperlane",
@@ -37296,7 +37296,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Cygnus Finance",
@@ -37370,7 +37370,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Pixel car",
@@ -37495,7 +37495,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": false
+    "isEligibleFinal": false
   },
   {
     "name": "Relay",
@@ -38004,7 +38004,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Yonk",
@@ -38256,7 +38256,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Travenesia",
@@ -38463,7 +38463,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Arcadia Finance ",
@@ -38619,7 +38619,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Kawaii Boio",
@@ -38781,7 +38781,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "$ENJOY",
@@ -38839,7 +38839,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Wed3 Pioneer",
@@ -39110,7 +39110,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Kleo Network",
@@ -39299,7 +39299,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "zkCodex",
@@ -39417,7 +39417,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Decent.xyz",
@@ -39500,7 +39500,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "OpenCover",
@@ -39651,7 +39651,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Bumpcast.Fun",
@@ -39761,7 +39761,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": false
+    "isEligibleFinal": false
   },
   {
     "name": "Gaston Silberman",
@@ -39991,7 +39991,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "ParaSwap",
@@ -40070,7 +40070,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Web3 Hackers Collective",
@@ -40232,7 +40232,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Bonadocs ",
@@ -40869,7 +40869,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Manifold",
@@ -40968,7 +40968,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "AuditFortress",
@@ -41188,7 +41188,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": false
+    "isEligibleFinal": false
   },
   {
     "name": "1099DA",
@@ -41516,7 +41516,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": false
+    "isEligibleFinal": false
   },
   {
     "name": "Mini Pet",
@@ -42022,7 +42022,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Guild.xyz",
@@ -42136,7 +42136,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "DefiLens",
@@ -42287,7 +42287,7 @@
       "appealStatement": "hey, we submitted the contracts using opensource observer, as we create custodial wallets for the user, which facilate the deployment, we can't have a single contract address, that's why we used opensource observer method as mentioned in the proposal. the contracts are then deployed to the chain of choice of the user, ( base / zora / op / degen and more ) - these are zora drops and thirdweb drops. as we are still in closed beta, that's why whitelisting to the app was required.",
       "appealDecision": "Approved"
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Degenpad",
@@ -42464,7 +42464,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "vfat.io",
@@ -42610,7 +42610,7 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   },
   {
     "name": "Daimo",
@@ -42740,6 +42740,6 @@
       "appealStatement": null,
       "appealDecision": null
     },
-    "isEligibieFinal": true
+    "isEligibleFinal": true
   }
 ]

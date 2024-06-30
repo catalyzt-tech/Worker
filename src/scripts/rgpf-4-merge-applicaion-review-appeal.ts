@@ -33,7 +33,7 @@ const run = () => {
         rpgf4[i] = {
           ...rpgf4[i],
           applicationReview: newData,
-          isEligibieFinal:
+          isEligibleFinal:
             rpgf4_application_appeal[j]['Final Status'] === 'Approved'
               ? true
               : false,
