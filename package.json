@@ -6,10 +6,10 @@
   "scripts": {
     "build": "npx tsc",
     "start": "node dist/index.js",
-    "dev:Process": "ts-node-dev src/processor.ts",
+    "dev:Process-scrape": "ts-node-dev src/scrape-processor.ts",
     "dev:Serve": "ts-node-dev src/generator.ts",
-    "dev": "ts-node-dev src/processor.ts && ts-node-dev src/generator.ts",
-    "process": "ts-node-dev src/processor.ts",
+    "dev": "ts-node-dev src/scrape-processor.ts && ts-node-dev src/generator.ts",
+    "process-scrape": "ts-node-dev src/scrape-processor.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

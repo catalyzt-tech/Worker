@@ -3,7 +3,7 @@ import fs from "fs";
 import path from "path";
 
 const app = express();
-const dataDir = path.resolve(__dirname, "data");
+const dataDir = path.resolve(__dirname, "..", "data");
 
 app.get('/api/:filename', (req, res) => {
     const filePath = path.join(dataDir, `${req.params.filename}.json`);
