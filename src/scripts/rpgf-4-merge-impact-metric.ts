@@ -43,6 +43,7 @@ const run = async () => {
     './data/RetroPGF4/(6)rpgf4_merged_impact_metric.json',
     JSON.stringify(rpgf4, null, 2)
   )
+  console.log('Matched:', count1, 'Not found:', count2)
 }
 
 run()
