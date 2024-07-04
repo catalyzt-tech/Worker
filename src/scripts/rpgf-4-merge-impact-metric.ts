@@ -1,5 +1,5 @@
 import rpgf4 from '../../data/RetroPGF4/(5)rpgf4_merged_githubstats.json'
-import impactMetric from '../../data/RetroPGF4/osoResource/osoImpactMetrics.json'
+import impactMetric from '../../data/RetroPGF4/osoResource/(final)osoImpactMetrics.json'
 import fs from 'fs'
 
 interface ImpactMetricData {
