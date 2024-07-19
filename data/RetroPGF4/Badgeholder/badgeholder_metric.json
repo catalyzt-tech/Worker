@@ -1,0 +1,2726 @@
+[
+  {
+    "Address": "0x55aed0ce035883626e536254dda2f23a5b5d977f",
+    "Metrics in ballot": 16,
+    "Metrics viewed": 8,
+    "Os multiplier": 1.8,
+    "Ballot content": [
+      {
+        "trusted_daily_active_users": 2
+      },
+      {
+        "trusted_monthly_active_users": 1
+      },
+      {
+        "trusted_transaction_count": 3
+      },
+      {
+        "transaction_count": 6
+      },
+      {
+        "log_gas_fees": 30
+      },
+      {
+        "log_trusted_transaction_count": 4
+      },
+      {
+        "gas_fees": 10
+      },
+      {
+        "power_user_addresses": 3
+      },
+      {
+        "trusted_transaction_share": 3
+      },
+      {
+        "trusted_users_onboarded": 12
+      },
+      {
+        "daily_active_addresses": 6
+      },
+      {
+        "monthly_active_addresses": 3
+      },
+      {
+        "recurring_addresses": 6
+      },
+      {
+        "openrank_trusted_users_count": 2
+      },
+      {
+        "trusted_recurring_users": 5
+      },
+      {
+        "log_transaction_count": 4
+      }
+    ]
+  },
+  {
+    "Address": "0x3b60e31cfc48a9074cd5bebb26c9eaa77650a43f",
+    "Metrics in ballot": 7,
+    "Metrics viewed": 16,
+    "Os multiplier": 1,
+    "Ballot content": [
+      {
+        "trusted_users_onboarded": 20
+      },
+      {
+        "trusted_recurring_users": 6
+      },
+      {
+        "openrank_trusted_users_count": 6
+      },
+      {
+        "gas_fees": 50
+      },
+      {
+        "trusted_transaction_share": 6
+      },
+      {
+        "trusted_transaction_count": 6
+      },
+      {
+        "trusted_daily_active_users": 6
+      }
+    ]
+  },
+  {
+    "Address": "0x512fce9b07ce64590849115ee6b32fd40ec0f5f3",
+    "Metrics in ballot": 4,
+    "Metrics viewed": 0,
+    "Os multiplier": 1,
+    "Ballot content": [
+      {
+        "gas_fees": 25.002499750025
+      },
+      {
+        "log_transaction_count": 24.99500049995
+      },
+      {
+        "transaction_count": 25
+      },
+      {
+        "log_gas_fees": 25.002499750025
+      }
+    ]
+  },
+  {
+    "Address": "0xd8da6bf26964af9d7eed9e03e53415d37aa96045",
+    "Metrics in ballot": 3,
+    "Metrics viewed": 0,
+    "Os multiplier": 1,
+    "Ballot content": [
+      {
+        "openrank_trusted_users_count": 33.335
+      },
+      {
+        "trusted_recurring_users": 33.335
+      },
+      {
+        "trusted_users_onboarded": 33.33333333333334
+      }
+    ]
+  },
+  {
+    "Address": "0x616cad18642f45d3fa5fcaad0a2d81764a9cba84",
+    "Metrics in ballot": 4,
+    "Metrics viewed": 16,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "trusted_recurring_users": 40
+      },
+      {
+        "transaction_count": 10
+      },
+      {
+        "trusted_users_onboarded": 10
+      },
+      {
+        "gas_fees": 40
+      }
+    ]
+  },
+  {
+    "Address": "0x1f5d295778796a8b9f29600a585ab73d452acb1c",
+    "Metrics in ballot": 6,
+    "Metrics viewed": 1,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "log_gas_fees": 16
+      },
+      {
+        "trusted_recurring_users": 17
+      },
+      {
+        "transaction_count": 17
+      },
+      {
+        "power_user_addresses": 17
+      },
+      {
+        "log_transaction_count": 17
+      },
+      {
+        "trusted_users_onboarded": 16
+      }
+    ]
+  },
+  {
+    "Address": "0x146cfed833cc926b16b0da9257e8a281c2add9f3",
+    "Metrics in ballot": 3,
+    "Metrics viewed": 3,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "trusted_transaction_count": 33.335
+      },
+      {
+        "openrank_trusted_users_count": 33.33333333333334
+      },
+      {
+        "trusted_recurring_users": 33.335
+      }
+    ]
+  },
+  {
+    "Address": "0x07fda67513ec0897866098a11dc3858089d4a505",
+    "Metrics in ballot": 4,
+    "Metrics viewed": 3,
+    "Os multiplier": 1.5,
+    "Ballot content": [
+      {
+        "log_gas_fees": 50
+      },
+      {
+        "monthly_active_addresses": 20
+      },
+      {
+        "trusted_users_onboarded": 15
+      },
+      {
+        "recurring_addresses": 15
+      }
+    ]
+  },
+  {
+    "Address": "0x69e271483c38ed4902a55c3ea8aab9e7cc8617e5",
+    "Metrics in ballot": 2,
+    "Metrics viewed": 12,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "log_transaction_count": 50
+      },
+      {
+        "log_gas_fees": 50
+      }
+    ]
+  },
+  {
+    "Address": "0x5d36a202687fd6bd0f670545334bf0b4827cc1e2",
+    "Metrics in ballot": 4,
+    "Metrics viewed": 9,
+    "Os multiplier": 2.3,
+    "Ballot content": [
+      {
+        "gas_fees": 56
+      },
+      {
+        "power_user_addresses": 14
+      },
+      {
+        "recurring_addresses": 14
+      },
+      {
+        "trusted_users_onboarded": 16
+      }
+    ]
+  },
+  {
+    "Address": "0x75cac0ceb8a39ddb4942a83ad2aafaf0c2a3e13f",
+    "Metrics in ballot": 5,
+    "Metrics viewed": 0,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "recurring_addresses": 20
+      },
+      {
+        "trusted_recurring_users": 20
+      },
+      {
+        "gas_fees": 20
+      },
+      {
+        "monthly_active_addresses": 20
+      },
+      {
+        "trusted_users_onboarded": 20
+      }
+    ]
+  },
+  {
+    "Address": "0xda60aceb12a1a61d09b008ae4a60c760db32220f",
+    "Metrics in ballot": 3,
+    "Metrics viewed": 0,
+    "Os multiplier": 1,
+    "Ballot content": [
+      {
+        "trusted_daily_active_users": 33.335
+      },
+      {
+        "trusted_users_onboarded": 33.335
+      },
+      {
+        "gas_fees": 33.33333333333334
+      }
+    ]
+  },
+  {
+    "Address": "0x6eda5acaff7f5964e1ecc3fd61c62570c186ca0c",
+    "Metrics in ballot": 5,
+    "Metrics viewed": 16,
+    "Os multiplier": 1,
+    "Ballot content": [
+      {
+        "gas_fees": 75
+      },
+      {
+        "trusted_recurring_users": 9.5
+      },
+      {
+        "trusted_users_onboarded": 9.5
+      },
+      {
+        "power_user_addresses": 3
+      },
+      {
+        "trusted_transaction_count": 3
+      }
+    ]
+  },
+  {
+    "Address": "0xe422d6c46a69e989ba6468ccd0435cb0c5c243e3",
+    "Metrics in ballot": 2,
+    "Metrics viewed": 16,
+    "Os multiplier": 2,
+    "Ballot content": [
+      {
+        "monthly_active_addresses": 10
+      },
+      {
+        "log_gas_fees": 90
+      }
+    ]
+  },
+  {
+    "Address": "0x06f455e2c297a4ae015191fa7a4a11c77c5b1b7c",
+    "Metrics in ballot": 4,
+    "Metrics viewed": 10,
+    "Os multiplier": 2,
+    "Ballot content": [
+      {
+        "trusted_recurring_users": 20
+      },
+      {
+        "trusted_transaction_count": 27
+      },
+      {
+        "power_user_addresses": 25
+      },
+      {
+        "trusted_users_onboarded": 28
+      }
+    ]
+  },
+  {
+    "Address": "0x8c50651d964b1a573ba0cf51980ca51d9e42623c",
+    "Metrics in ballot": 4,
+    "Metrics viewed": 16,
+    "Os multiplier": 2,
+    "Ballot content": [
+      {
+        "trusted_users_onboarded": 20
+      },
+      {
+        "transaction_count": 20
+      },
+      {
+        "trusted_recurring_users": 10
+      },
+      {
+        "gas_fees": 50
+      }
+    ]
+  },
+  {
+    "Address": "0xd31b671f1a398b519222fdaba5ab5464b9f2a3fa",
+    "Metrics in ballot": 5,
+    "Metrics viewed": 14,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "trusted_recurring_users": 30
+      },
+      {
+        "trusted_users_onboarded": 10
+      },
+      {
+        "trusted_monthly_active_users": 35
+      },
+      {
+        "transaction_count": 13.30357142857143
+      },
+      {
+        "trusted_transaction_count": 11.69642857142857
+      }
+    ]
+  },
+  {
+    "Address": "0xdb150346155675dd0c93efd960d5985244a34820",
+    "Metrics in ballot": 4,
+    "Metrics viewed": 10,
+    "Os multiplier": 2,
+    "Ballot content": [
+      {
+        "gas_fees": 25
+      },
+      {
+        "transaction_count": 25
+      },
+      {
+        "trusted_recurring_users": 20
+      },
+      {
+        "trusted_users_onboarded": 30
+      }
+    ]
+  },
+  {
+    "Address": "0xa50d0e425461ccab26ef30104cdd879b90db3843",
+    "Metrics in ballot": 7,
+    "Metrics viewed": 12,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "log_gas_fees": 40
+      },
+      {
+        "daily_active_addresses": 10
+      },
+      {
+        "monthly_active_addresses": 10
+      },
+      {
+        "trusted_monthly_active_users": 10
+      },
+      {
+        "trusted_daily_active_users": 10
+      },
+      {
+        "trusted_recurring_users": 10
+      },
+      {
+        "recurring_addresses": 10
+      }
+    ]
+  },
+  {
+    "Address": "0x8f07bc36ff569312fdc41f3867d80bbd2fe94b76",
+    "Metrics in ballot": 6,
+    "Metrics viewed": 0,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "log_gas_fees": 20
+      },
+      {
+        "trusted_monthly_active_users": 5
+      },
+      {
+        "monthly_active_addresses": 5
+      },
+      {
+        "trusted_users_onboarded": 40
+      },
+      {
+        "openrank_trusted_users_count": 5
+      },
+      {
+        "transaction_count": 25
+      }
+    ]
+  },
+  {
+    "Address": "0xd35e119782059a27fead4edda8b555f393650bc8",
+    "Metrics in ballot": 5,
+    "Metrics viewed": 0,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "trusted_daily_active_users": 15
+      },
+      {
+        "gas_fees": 20
+      },
+      {
+        "trusted_transaction_count": 15
+      },
+      {
+        "trusted_users_onboarded": 30
+      },
+      {
+        "trusted_recurring_users": 20
+      }
+    ]
+  },
+  {
+    "Address": "0x576f1e53afe5e99b2257258c7e3248d3a1822548",
+    "Metrics in ballot": 4,
+    "Metrics viewed": 11,
+    "Os multiplier": 1,
+    "Ballot content": [
+      {
+        "power_user_addresses": 20
+      },
+      {
+        "gas_fees": 40
+      },
+      {
+        "recurring_addresses": 20
+      },
+      {
+        "monthly_active_addresses": 20
+      }
+    ]
+  },
+  {
+    "Address": "0x006a8a496889e9983a5256f34b608ee9569ba319",
+    "Metrics in ballot": 6,
+    "Metrics viewed": 2,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "openrank_trusted_users_count": 2
+      },
+      {
+        "trusted_monthly_active_users": 5
+      },
+      {
+        "monthly_active_addresses": 20
+      },
+      {
+        "trusted_recurring_users": 21.78393305439331
+      },
+      {
+        "log_transaction_count": 21.78393305439331
+      },
+      {
+        "log_gas_fees": 29.43213389121339
+      }
+    ]
+  },
+  {
+    "Address": "0xa2bbe92f4e320185dd42261897464f60c9a05a35",
+    "Metrics in ballot": 9,
+    "Metrics viewed": 0,
+    "Os multiplier": 1,
+    "Ballot content": [
+      {
+        "daily_active_addresses": 10.249017
+      },
+      {
+        "monthly_active_addresses": 11.120139
+      },
+      {
+        "trusted_daily_active_users": 11.120139
+      },
+      {
+        "gas_fees": 11.120139
+      },
+      {
+        "trusted_recurring_users": 10.249017
+      },
+      {
+        "openrank_trusted_users_count": 11.11111111111111
+      },
+      {
+        "trusted_transaction_count": 11.11125
+      },
+      {
+        "recurring_addresses": 10.249017
+      },
+      {
+        "power_user_addresses": 13.671282
+      }
+    ]
+  },
+  {
+    "Address": "0x585639fbf797c1258eba8875c080eb63c833d252",
+    "Metrics in ballot": 2,
+    "Metrics viewed": 0,
+    "Os multiplier": 1,
+    "Ballot content": [
+      {
+        "gas_fees": 90
+      },
+      {
+        "log_gas_fees": 10
+      }
+    ]
+  },
+  {
+    "Address": "0xabf28f8d9adfb2255f4a059e37d3bce9104969db",
+    "Metrics in ballot": 7,
+    "Metrics viewed": 9,
+    "Os multiplier": 2,
+    "Ballot content": [
+      {
+        "log_trusted_transaction_count": 15
+      },
+      {
+        "trusted_monthly_active_users": 15
+      },
+      {
+        "monthly_active_addresses": 12.82352941176471
+      },
+      {
+        "log_gas_fees": 20
+      },
+      {
+        "trusted_transaction_share": 12.54901960784314
+      },
+      {
+        "trusted_users_onboarded": 12.22549019607843
+      },
+      {
+        "trusted_transaction_count": 12.40196078431373
+      }
+    ]
+  },
+  {
+    "Address": "0x308fedfb88f6e85f27b85c8011ccb9b5e15bcbf7",
+    "Metrics in ballot": 2,
+    "Metrics viewed": 16,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "recurring_addresses": 65
+      },
+      {
+        "trusted_users_onboarded": 35
+      }
+    ]
+  },
+  {
+    "Address": "0x5e349eca2dc61abcd9dd99ce94d04136151a09ee",
+    "Metrics in ballot": 9,
+    "Metrics viewed": 16,
+    "Os multiplier": 1.5,
+    "Ballot content": [
+      {
+        "transaction_count": 5
+      },
+      {
+        "monthly_active_addresses": 5
+      },
+      {
+        "gas_fees": 15
+      },
+      {
+        "trusted_transaction_count": 5
+      },
+      {
+        "trusted_users_onboarded": 21.89194029850746
+      },
+      {
+        "openrank_trusted_users_count": 1
+      },
+      {
+        "trusted_recurring_users": 21.55701492537313
+      },
+      {
+        "trusted_monthly_active_users": 24.5510447761194
+      },
+      {
+        "power_user_addresses": 1
+      }
+    ]
+  },
+  {
+    "Address": "0x17640d0d8c93bf710b6ee4208997bb727b5b7bc2",
+    "Metrics in ballot": 5,
+    "Metrics viewed": 16,
+    "Os multiplier": 1.8,
+    "Ballot content": [
+      {
+        "log_trusted_transaction_count": 1
+      },
+      {
+        "log_gas_fees": 48.5
+      },
+      {
+        "recurring_addresses": 1
+      },
+      {
+        "monthly_active_addresses": 1
+      },
+      {
+        "log_transaction_count": 48.5
+      }
+    ]
+  },
+  {
+    "Address": "0xc5cd017ce8efd2fefedf114350657394531477ae",
+    "Metrics in ballot": 5,
+    "Metrics viewed": 1,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "gas_fees": 35
+      },
+      {
+        "recurring_addresses": 18
+      },
+      {
+        "trusted_recurring_users": 12
+      },
+      {
+        "trusted_users_onboarded": 15
+      },
+      {
+        "power_user_addresses": 20
+      }
+    ]
+  },
+  {
+    "Address": "0xdb5781a835b60110298ff7205d8ef9678ff1f800",
+    "Metrics in ballot": 2,
+    "Metrics viewed": 16,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "transaction_count": 50
+      },
+      {
+        "gas_fees": 50
+      }
+    ]
+  },
+  {
+    "Address": "0xa3eac0016f6581ac34768c0d4b99ddcd88071c3c",
+    "Metrics in ballot": 1,
+    "Metrics viewed": 0,
+    "Os multiplier": 1,
+    "Ballot content": [
+      {
+        "trusted_recurring_users": 100
+      }
+    ]
+  },
+  {
+    "Address": "0x66946def4ba6153c500d743b7a5febfc1654d6bd",
+    "Metrics in ballot": 5,
+    "Metrics viewed": 16,
+    "Os multiplier": 2.6,
+    "Ballot content": [
+      {
+        "trusted_users_onboarded": 12
+      },
+      {
+        "trusted_transaction_share": 24
+      },
+      {
+        "log_gas_fees": 26
+      },
+      {
+        "trusted_transaction_count": 18
+      },
+      {
+        "transaction_count": 20
+      }
+    ]
+  },
+  {
+    "Address": "0x9934465ee73beaf148b1b3ff232c8cd86c4c2c63",
+    "Metrics in ballot": 5,
+    "Metrics viewed": 10,
+    "Os multiplier": 1,
+    "Ballot content": [
+      {
+        "gas_fees": 30
+      },
+      {
+        "transaction_count": 12.625
+      },
+      {
+        "trusted_monthly_active_users": 12.375
+      },
+      {
+        "trusted_recurring_users": 25
+      },
+      {
+        "trusted_users_onboarded": 20
+      }
+    ]
+  },
+  {
+    "Address": "0x826976d7c600d45fb8287ca1d7c76fc8eb732030",
+    "Metrics in ballot": 5,
+    "Metrics viewed": 11,
+    "Os multiplier": 2.4,
+    "Ballot content": [
+      {
+        "trusted_users_onboarded": 15
+      },
+      {
+        "log_trusted_transaction_count": 27
+      },
+      {
+        "log_gas_fees": 20.81176470588236
+      },
+      {
+        "trusted_transaction_share": 18
+      },
+      {
+        "monthly_active_addresses": 19.18823529411765
+      }
+    ]
+  },
+  {
+    "Address": "0x61b647d3b5a04eec7e78b1d9cfbf9dea593c7865",
+    "Metrics in ballot": 7,
+    "Metrics viewed": 0,
+    "Os multiplier": 1.5,
+    "Ballot content": [
+      {
+        "trusted_transaction_count": 14.23633736638083
+      },
+      {
+        "trusted_users_onboarded": 14.28571428571429
+      },
+      {
+        "log_gas_fees": 14.25647362856807
+      },
+      {
+        "log_trusted_transaction_count": 14.42763185715964
+      },
+      {
+        "trusted_recurring_users": 14.28667802184894
+      },
+      {
+        "gas_fees": 14.25647362856807
+      },
+      {
+        "trusted_monthly_active_users": 14.24640549747445
+      }
+    ]
+  },
+  {
+    "Address": "0x378c23b326504df4d29c81ba6757f53b2c59f315",
+    "Metrics in ballot": 16,
+    "Metrics viewed": 16,
+    "Os multiplier": 1.5,
+    "Ballot content": [
+      {
+        "trusted_users_onboarded": 1
+      },
+      {
+        "gas_fees": 30
+      },
+      {
+        "trusted_monthly_active_users": 3
+      },
+      {
+        "trusted_daily_active_users": 3
+      },
+      {
+        "log_trusted_transaction_count": 2
+      },
+      {
+        "daily_active_addresses": 8
+      },
+      {
+        "monthly_active_addresses": 7
+      },
+      {
+        "transaction_count": 5
+      },
+      {
+        "log_gas_fees": 20
+      },
+      {
+        "trusted_transaction_count": 3
+      },
+      {
+        "trusted_recurring_users": 2
+      },
+      {
+        "log_transaction_count": 4
+      },
+      {
+        "openrank_trusted_users_count": 3
+      },
+      {
+        "power_user_addresses": 1
+      },
+      {
+        "recurring_addresses": 4
+      },
+      {
+        "trusted_transaction_share": 4
+      }
+    ]
+  },
+  {
+    "Address": "0x4fd6b3204a6ab48978018b25821682f090840333",
+    "Metrics in ballot": 3,
+    "Metrics viewed": 0,
+    "Os multiplier": 1,
+    "Ballot content": [
+      {
+        "log_gas_fees": 20
+      },
+      {
+        "gas_fees": 50
+      },
+      {
+        "monthly_active_addresses": 30
+      }
+    ]
+  },
+  {
+    "Address": "0x434f5325ddcdbbfcce64be2617c72c4aa33ec3e7",
+    "Metrics in ballot": 11,
+    "Metrics viewed": 1,
+    "Os multiplier": 1.5,
+    "Ballot content": [
+      {
+        "trusted_users_onboarded": 5
+      },
+      {
+        "daily_active_addresses": 15
+      },
+      {
+        "trusted_daily_active_users": 10
+      },
+      {
+        "log_gas_fees": 5
+      },
+      {
+        "monthly_active_addresses": 10
+      },
+      {
+        "gas_fees": 10
+      },
+      {
+        "log_transaction_count": 5
+      },
+      {
+        "trusted_monthly_active_users": 15
+      },
+      {
+        "log_trusted_transaction_count": 5
+      },
+      {
+        "trusted_transaction_count": 15
+      },
+      {
+        "trusted_recurring_users": 5
+      }
+    ]
+  },
+  {
+    "Address": "0x490c91f38ec57e3ab00811e0c51a62bfed7e81f4",
+    "Metrics in ballot": 4,
+    "Metrics viewed": 0,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "transaction_count": 25.002499750025
+      },
+      {
+        "trusted_users_onboarded": 25
+      },
+      {
+        "gas_fees": 25.002499750025
+      },
+      {
+        "recurring_addresses": 24.99500049995
+      }
+    ]
+  },
+  {
+    "Address": "0x1e6d9f536a5d1cc04fc13b3133efdb90c8ee5ea1",
+    "Metrics in ballot": 3,
+    "Metrics viewed": 2,
+    "Os multiplier": 2,
+    "Ballot content": [
+      {
+        "gas_fees": 50
+      },
+      {
+        "trusted_users_onboarded": 20
+      },
+      {
+        "log_trusted_transaction_count": 30
+      }
+    ]
+  },
+  {
+    "Address": "0x5555763613a12d8f3e73be831dff8598089d3dca",
+    "Metrics in ballot": 9,
+    "Metrics viewed": 0,
+    "Os multiplier": 2,
+    "Ballot content": [
+      {
+        "trusted_transaction_count": 13
+      },
+      {
+        "trusted_recurring_users": 9.965635738831613
+      },
+      {
+        "trusted_monthly_active_users": 11
+      },
+      {
+        "log_trusted_transaction_count": 15
+      },
+      {
+        "trusted_transaction_share": 10.04418262150221
+      },
+      {
+        "trusted_daily_active_users": 9.945999018163965
+      },
+      {
+        "log_gas_fees": 10
+      },
+      {
+        "power_user_addresses": 10.04418262150221
+      },
+      {
+        "openrank_trusted_users_count": 11
+      }
+    ]
+  },
+  {
+    "Address": "0x57893e666bd15e886d74751b0879361a3383b57a",
+    "Metrics in ballot": 13,
+    "Metrics viewed": 5,
+    "Os multiplier": 2,
+    "Ballot content": [
+      {
+        "trusted_users_onboarded": 10
+      },
+      {
+        "transaction_count": 8
+      },
+      {
+        "trusted_recurring_users": 10
+      },
+      {
+        "openrank_trusted_users_count": 8
+      },
+      {
+        "log_transaction_count": 8
+      },
+      {
+        "log_trusted_transaction_count": 8
+      },
+      {
+        "trusted_transaction_count": 8
+      },
+      {
+        "gas_fees": 5
+      },
+      {
+        "recurring_addresses": 3
+      },
+      {
+        "monthly_active_addresses": 5
+      },
+      {
+        "trusted_monthly_active_users": 12
+      },
+      {
+        "trusted_daily_active_users": 10
+      },
+      {
+        "daily_active_addresses": 5
+      }
+    ]
+  },
+  {
+    "Address": "0xef32eb37f3e8b4bdddf99879b23015f309ed7304",
+    "Metrics in ballot": 3,
+    "Metrics viewed": 16,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "monthly_active_addresses": 30
+      },
+      {
+        "recurring_addresses": 25
+      },
+      {
+        "log_transaction_count": 45
+      }
+    ]
+  },
+  {
+    "Address": "0x45a10f35befa4ab841c77860204b133118b7ccae",
+    "Metrics in ballot": 5,
+    "Metrics viewed": 16,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "trusted_recurring_users": 20
+      },
+      {
+        "gas_fees": 20
+      },
+      {
+        "monthly_active_addresses": 20
+      },
+      {
+        "trusted_monthly_active_users": 20
+      },
+      {
+        "trusted_users_onboarded": 20
+      }
+    ]
+  },
+  {
+    "Address": "0xdcf7be2ff93e1a7671724598b1526f3a33b1ec25",
+    "Metrics in ballot": 5,
+    "Metrics viewed": 2,
+    "Os multiplier": 1,
+    "Ballot content": [
+      {
+        "trusted_users_onboarded": 4
+      },
+      {
+        "log_transaction_count": 6
+      },
+      {
+        "gas_fees": 80
+      },
+      {
+        "log_gas_fees": 8
+      },
+      {
+        "recurring_addresses": 2
+      }
+    ]
+  },
+  {
+    "Address": "0xdcf09a83e9cc4611b2215bfb7116bfaf5e906d3d",
+    "Metrics in ballot": 7,
+    "Metrics viewed": 8,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "log_gas_fees": 14.28571428571429
+      },
+      {
+        "trusted_transaction_count": 14.285
+      },
+      {
+        "log_trusted_transaction_count": 14.285
+      },
+      {
+        "openrank_trusted_users_count": 14.285
+      },
+      {
+        "recurring_addresses": 14.285
+      },
+      {
+        "trusted_recurring_users": 14.285
+      },
+      {
+        "trusted_daily_active_users": 14.285
+      }
+    ]
+  },
+  {
+    "Address": "0xf68d2bfcecd7895bba05a7451dd09a1749026454",
+    "Metrics in ballot": 2,
+    "Metrics viewed": 2,
+    "Os multiplier": 1.2,
+    "Ballot content": [
+      {
+        "trusted_transaction_count": 5
+      },
+      {
+        "gas_fees": 95
+      }
+    ]
+  },
+  {
+    "Address": "0x7fc80fad32ec41fd5cfcc14eee9c31953b6b4a8b",
+    "Metrics in ballot": 4,
+    "Metrics viewed": 10,
+    "Os multiplier": 1.2,
+    "Ballot content": [
+      {
+        "recurring_addresses": 25
+      },
+      {
+        "trusted_transaction_count": 15
+      },
+      {
+        "power_user_addresses": 10
+      },
+      {
+        "log_gas_fees": 50
+      }
+    ]
+  },
+  {
+    "Address": "0x1d3bf13f8f7a83390d03db5e23a950778e1d1309",
+    "Metrics in ballot": 4,
+    "Metrics viewed": 0,
+    "Os multiplier": 2,
+    "Ballot content": [
+      {
+        "recurring_addresses": 25
+      },
+      {
+        "transaction_count": 10
+      },
+      {
+        "gas_fees": 50
+      },
+      {
+        "trusted_users_onboarded": 15
+      }
+    ]
+  },
+  {
+    "Address": "0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e",
+    "Metrics in ballot": 6,
+    "Metrics viewed": 16,
+    "Os multiplier": 1.5,
+    "Ballot content": [
+      {
+        "trusted_transaction_share": 30
+      },
+      {
+        "log_gas_fees": 30
+      },
+      {
+        "trusted_monthly_active_users": 9.515248796147672
+      },
+      {
+        "transaction_count": 9.515248796147672
+      },
+      {
+        "daily_active_addresses": 11.40288924558588
+      },
+      {
+        "trusted_users_onboarded": 9.56661316211878
+      }
+    ]
+  },
+  {
+    "Address": "0xf4b0556b9b6f53e00a1fdd2b0478ce841991d8fa",
+    "Metrics in ballot": 6,
+    "Metrics viewed": 0,
+    "Os multiplier": 1,
+    "Ballot content": [
+      {
+        "trusted_users_onboarded": 16.666
+      },
+      {
+        "gas_fees": 16.66666666666667
+      },
+      {
+        "trusted_transaction_share": 16.666
+      },
+      {
+        "power_user_addresses": 16.666
+      },
+      {
+        "trusted_transaction_count": 16.666
+      },
+      {
+        "trusted_daily_active_users": 16.666
+      }
+    ]
+  },
+  {
+    "Address": "0x53c61cfb8128ad59244e8c1d26109252ace23d14",
+    "Metrics in ballot": 6,
+    "Metrics viewed": 1,
+    "Os multiplier": 1,
+    "Ballot content": [
+      {
+        "power_user_addresses": 5
+      },
+      {
+        "gas_fees": 28
+      },
+      {
+        "recurring_addresses": 5
+      },
+      {
+        "monthly_active_addresses": 14
+      },
+      {
+        "transaction_count": 20
+      },
+      {
+        "trusted_users_onboarded": 28
+      }
+    ]
+  },
+  {
+    "Address": "0xeee718c1e522ecb4b609265db7a83ab48ea0b06f",
+    "Metrics in ballot": 4,
+    "Metrics viewed": 9,
+    "Os multiplier": 2,
+    "Ballot content": [
+      {
+        "gas_fees": 15
+      },
+      {
+        "trusted_monthly_active_users": 40
+      },
+      {
+        "trusted_users_onboarded": 30
+      },
+      {
+        "log_gas_fees": 15
+      }
+    ]
+  },
+  {
+    "Address": "0x288c53a1ba857ead34ad0e79f644087f8174185a",
+    "Metrics in ballot": 3,
+    "Metrics viewed": 16,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "trusted_users_onboarded": 40
+      },
+      {
+        "trusted_recurring_users": 35
+      },
+      {
+        "gas_fees": 25
+      }
+    ]
+  },
+  {
+    "Address": "0x12681667bb220521c222f50ece5eb752046bc144",
+    "Metrics in ballot": 3,
+    "Metrics viewed": 0,
+    "Os multiplier": 2.2,
+    "Ballot content": [
+      {
+        "log_gas_fees": 40
+      },
+      {
+        "trusted_monthly_active_users": 40
+      },
+      {
+        "trusted_users_onboarded": 20
+      }
+    ]
+  },
+  {
+    "Address": "0x0f2ce18919b4eb9838760cfdda65e4c8766e9c19",
+    "Metrics in ballot": 2,
+    "Metrics viewed": 0,
+    "Os multiplier": 1,
+    "Ballot content": [
+      {
+        "log_gas_fees": 30
+      },
+      {
+        "gas_fees": 70
+      }
+    ]
+  },
+  {
+    "Address": "0xdadd7c883288cfe2e257b0a361865e5e9349808b",
+    "Metrics in ballot": 5,
+    "Metrics viewed": 8,
+    "Os multiplier": 2,
+    "Ballot content": [
+      {
+        "trusted_users_onboarded": 25
+      },
+      {
+        "gas_fees": 30
+      },
+      {
+        "trusted_recurring_users": 25
+      },
+      {
+        "trusted_daily_active_users": 5
+      },
+      {
+        "trusted_monthly_active_users": 15
+      }
+    ]
+  },
+  {
+    "Address": "0x53e0b897eae600b2f6855fce4a42482e9229d2c2",
+    "Metrics in ballot": 3,
+    "Metrics viewed": 15,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "trusted_users_onboarded": 50
+      },
+      {
+        "daily_active_addresses": 25
+      },
+      {
+        "gas_fees": 25
+      }
+    ]
+  },
+  {
+    "Address": "0x534631bcf33bdb069fb20a93d2fdb9e4d4dd42cf",
+    "Metrics in ballot": 4,
+    "Metrics viewed": 16,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "log_gas_fees": 30
+      },
+      {
+        "recurring_addresses": 30
+      },
+      {
+        "log_transaction_count": 20
+      },
+      {
+        "power_user_addresses": 20
+      }
+    ]
+  },
+  {
+    "Address": "0x7899d9b1181cbb427b0b1be0684c096c260f7474",
+    "Metrics in ballot": 6,
+    "Metrics viewed": 4,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "monthly_active_addresses": 15
+      },
+      {
+        "openrank_trusted_users_count": 15
+      },
+      {
+        "gas_fees": 15
+      },
+      {
+        "trusted_monthly_active_users": 20
+      },
+      {
+        "trusted_transaction_count": 20
+      },
+      {
+        "trusted_transaction_share": 15
+      }
+    ]
+  },
+  {
+    "Address": "0x842bb1bb84cc8a3d6277b0ff9729d22d55e9c50b",
+    "Metrics in ballot": 9,
+    "Metrics viewed": 0,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "trusted_transaction_count": 15
+      },
+      {
+        "trusted_users_onboarded": 15
+      },
+      {
+        "power_user_addresses": 10
+      },
+      {
+        "trusted_daily_active_users": 6
+      },
+      {
+        "gas_fees": 20
+      },
+      {
+        "monthly_active_addresses": 8
+      },
+      {
+        "daily_active_addresses": 8
+      },
+      {
+        "trusted_monthly_active_users": 8
+      },
+      {
+        "openrank_trusted_users_count": 10
+      }
+    ]
+  },
+  {
+    "Address": "0x839395e20bbb182fa440d08f850e6c7a8f6f0780",
+    "Metrics in ballot": 8,
+    "Metrics viewed": 15,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "log_transaction_count": 13.84
+      },
+      {
+        "openrank_trusted_users_count": 14.05
+      },
+      {
+        "log_gas_fees": 13.96
+      },
+      {
+        "log_trusted_transaction_count": 14.26
+      },
+      {
+        "trusted_transaction_share": 13.89
+      },
+      {
+        "trusted_recurring_users": 10
+      },
+      {
+        "trusted_daily_active_users": 10
+      },
+      {
+        "trusted_monthly_active_users": 10
+      }
+    ]
+  },
+  {
+    "Address": "0x98ab20307fdaba1ce8b16d69d22461c6dbe85459",
+    "Metrics in ballot": 2,
+    "Metrics viewed": 0,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "log_gas_fees": 50
+      },
+      {
+        "gas_fees": 50
+      }
+    ]
+  },
+  {
+    "Address": "0x64fed9e56b548343e7bb47c49ecd7ffa9f1a34fe",
+    "Metrics in ballot": 3,
+    "Metrics viewed": 2,
+    "Os multiplier": 1,
+    "Ballot content": [
+      {
+        "transaction_count": 25
+      },
+      {
+        "gas_fees": 50
+      },
+      {
+        "recurring_addresses": 25
+      }
+    ]
+  },
+  {
+    "Address": "0x28f569cc6c29d804a1720edc16bf1ebab2ea35b4",
+    "Metrics in ballot": 5,
+    "Metrics viewed": 15,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "trusted_users_onboarded": 20.00599940005999
+      },
+      {
+        "trusted_recurring_users": 19.99800019998
+      },
+      {
+        "log_trusted_transaction_count": 19.99800019998
+      },
+      {
+        "trusted_monthly_active_users": 19.99800019998
+      },
+      {
+        "trusted_transaction_share": 20
+      }
+    ]
+  },
+  {
+    "Address": "0x73186b2a81952c2340c4eb2e74e89869e1183df0",
+    "Metrics in ballot": 7,
+    "Metrics viewed": 16,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "daily_active_addresses": 17
+      },
+      {
+        "monthly_active_addresses": 10
+      },
+      {
+        "recurring_addresses": 10
+      },
+      {
+        "log_gas_fees": 14.3925
+      },
+      {
+        "openrank_trusted_users_count": 15.75
+      },
+      {
+        "transaction_count": 14.5875
+      },
+      {
+        "log_transaction_count": 18.27
+      }
+    ]
+  },
+  {
+    "Address": "0x396a34c10b11e33a4bf6f3e6a419a23c54ad34fb",
+    "Metrics in ballot": 5,
+    "Metrics viewed": 15,
+    "Os multiplier": 2,
+    "Ballot content": [
+      {
+        "log_gas_fees": 25
+      },
+      {
+        "log_transaction_count": 25
+      },
+      {
+        "daily_active_addresses": 16.59204871060172
+      },
+      {
+        "monthly_active_addresses": 16.31446991404011
+      },
+      {
+        "recurring_addresses": 17.09348137535817
+      }
+    ]
+  },
+  {
+    "Address": "0x00de4b13153673bcae2616b67bf822500d325fc3",
+    "Metrics in ballot": 4,
+    "Metrics viewed": 0,
+    "Os multiplier": 1.9,
+    "Ballot content": [
+      {
+        "daily_active_addresses": 31
+      },
+      {
+        "openrank_trusted_users_count": 30
+      },
+      {
+        "transaction_count": 19.5
+      },
+      {
+        "trusted_users_onboarded": 19.5
+      }
+    ]
+  },
+  {
+    "Address": "0xb0623c91c65621df716ab8afe5f66656b21a9108",
+    "Metrics in ballot": 6,
+    "Metrics viewed": 0,
+    "Os multiplier": 1.7,
+    "Ballot content": [
+      {
+        "openrank_trusted_users_count": 20
+      },
+      {
+        "trusted_daily_active_users": 10
+      },
+      {
+        "trusted_users_onboarded": 30
+      },
+      {
+        "trusted_recurring_users": 10
+      },
+      {
+        "trusted_monthly_active_users": 10
+      },
+      {
+        "trusted_transaction_count": 20
+      }
+    ]
+  },
+  {
+    "Address": "0x3db5b38ef4b433d9c6a664bd35551be73313189a",
+    "Metrics in ballot": 5,
+    "Metrics viewed": 12,
+    "Os multiplier": 1,
+    "Ballot content": [
+      {
+        "monthly_active_addresses": 15.76451612903226
+      },
+      {
+        "power_user_addresses": 16
+      },
+      {
+        "trusted_users_onboarded": 22
+      },
+      {
+        "gas_fees": 32
+      },
+      {
+        "recurring_addresses": 14.23548387096774
+      }
+    ]
+  },
+  {
+    "Address": "0x00409fc839a2ec2e6d12305423d37cd011279c09",
+    "Metrics in ballot": 7,
+    "Metrics viewed": 16,
+    "Os multiplier": 2,
+    "Ballot content": [
+      {
+        "trusted_transaction_share": 9.943257676902537
+      },
+      {
+        "monthly_active_addresses": 9.993324432576769
+      },
+      {
+        "log_gas_fees": 30
+      },
+      {
+        "trusted_monthly_active_users": 10.06341789052069
+      },
+      {
+        "trusted_users_onboarded": 20
+      },
+      {
+        "transaction_count": 10
+      },
+      {
+        "trusted_recurring_users": 10
+      }
+    ]
+  },
+  {
+    "Address": "0x5a5d9ab7b1bd978f80909503ebb828879daca9c3",
+    "Metrics in ballot": 4,
+    "Metrics viewed": 16,
+    "Os multiplier": 1.5,
+    "Ballot content": [
+      {
+        "monthly_active_addresses": 30
+      },
+      {
+        "openrank_trusted_users_count": 20
+      },
+      {
+        "gas_fees": 30
+      },
+      {
+        "trusted_transaction_share": 20
+      }
+    ]
+  },
+  {
+    "Address": "0xdc0a92c350a52b6583e235a57901b8731af8b249",
+    "Metrics in ballot": 5,
+    "Metrics viewed": 1,
+    "Os multiplier": 2,
+    "Ballot content": [
+      {
+        "log_gas_fees": 38
+      },
+      {
+        "trusted_monthly_active_users": 22
+      },
+      {
+        "trusted_daily_active_users": 10
+      },
+      {
+        "trusted_recurring_users": 20
+      },
+      {
+        "trusted_users_onboarded": 10
+      }
+    ]
+  },
+  {
+    "Address": "0x9c949881084dcbd97237f786710ab8e52a457136",
+    "Metrics in ballot": 8,
+    "Metrics viewed": 10,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "openrank_trusted_users_count": 5
+      },
+      {
+        "trusted_daily_active_users": 15
+      },
+      {
+        "trusted_recurring_users": 15
+      },
+      {
+        "recurring_addresses": 5
+      },
+      {
+        "log_gas_fees": 25
+      },
+      {
+        "trusted_users_onboarded": 25
+      },
+      {
+        "trusted_transaction_count": 5
+      },
+      {
+        "daily_active_addresses": 5
+      }
+    ]
+  },
+  {
+    "Address": "0xbf430a49c4d85aeed3908619d5387a1fbf8e74a9",
+    "Metrics in ballot": 7,
+    "Metrics viewed": 16,
+    "Os multiplier": 2,
+    "Ballot content": [
+      {
+        "trusted_transaction_count": 5
+      },
+      {
+        "gas_fees": 35
+      },
+      {
+        "transaction_count": 10
+      },
+      {
+        "trusted_recurring_users": 20
+      },
+      {
+        "trusted_users_onboarded": 15
+      },
+      {
+        "monthly_active_addresses": 10
+      },
+      {
+        "trusted_monthly_active_users": 5
+      }
+    ]
+  },
+  {
+    "Address": "0xc2e2b715d9e302947ec7e312fd2384b5a1296099",
+    "Metrics in ballot": 5,
+    "Metrics viewed": 1,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "trusted_transaction_share": 25
+      },
+      {
+        "trusted_users_onboarded": 10
+      },
+      {
+        "power_user_addresses": 15
+      },
+      {
+        "log_gas_fees": 25
+      },
+      {
+        "openrank_trusted_users_count": 25
+      }
+    ]
+  },
+  {
+    "Address": "0x665d84fffddd72d24df555e6b065b833478dffca",
+    "Metrics in ballot": 7,
+    "Metrics viewed": 16,
+    "Os multiplier": 1.6,
+    "Ballot content": [
+      {
+        "trusted_transaction_share": 25
+      },
+      {
+        "log_gas_fees": 10
+      },
+      {
+        "log_transaction_count": 15
+      },
+      {
+        "power_user_addresses": 5
+      },
+      {
+        "recurring_addresses": 25
+      },
+      {
+        "trusted_users_onboarded": 10
+      },
+      {
+        "log_trusted_transaction_count": 10
+      }
+    ]
+  },
+  {
+    "Address": "0x14276eb29e90541831cb94c80331484ae6d2a1d8",
+    "Metrics in ballot": 5,
+    "Metrics viewed": 15,
+    "Os multiplier": 2,
+    "Ballot content": [
+      {
+        "gas_fees": 40
+      },
+      {
+        "trusted_monthly_active_users": 17.5
+      },
+      {
+        "trusted_recurring_users": 12.5
+      },
+      {
+        "trusted_users_onboarded": 12.5
+      },
+      {
+        "trusted_daily_active_users": 17.5
+      }
+    ]
+  },
+  {
+    "Address": "0x91031dcfdea024b4d51e775486111d2b2a715871",
+    "Metrics in ballot": 2,
+    "Metrics viewed": 12,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "openrank_trusted_users_count": 75
+      },
+      {
+        "trusted_users_onboarded": 25
+      }
+    ]
+  },
+  {
+    "Address": "0xde2b6860cb3212a6a1f8f8628abfe076723a4b39",
+    "Metrics in ballot": 6,
+    "Metrics viewed": 10,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "log_transaction_count": 22
+      },
+      {
+        "recurring_addresses": 20
+      },
+      {
+        "log_gas_fees": 23
+      },
+      {
+        "daily_active_addresses": 5
+      },
+      {
+        "monthly_active_addresses": 20
+      },
+      {
+        "trusted_users_onboarded": 10
+      }
+    ]
+  },
+  {
+    "Address": "0x15c6ac4cf1b5e49c44332fb0a1043ccab19db80a",
+    "Metrics in ballot": 7,
+    "Metrics viewed": 4,
+    "Os multiplier": 2.5,
+    "Ballot content": [
+      {
+        "trusted_transaction_share": 5
+      },
+      {
+        "monthly_active_addresses": 5
+      },
+      {
+        "trusted_monthly_active_users": 5
+      },
+      {
+        "trusted_users_onboarded": 7.5
+      },
+      {
+        "transaction_count": 18
+      },
+      {
+        "log_transaction_count": 18
+      },
+      {
+        "log_gas_fees": 41.5
+      }
+    ]
+  },
+  {
+    "Address": "0x8eb9e5e5375b72ee7c5cb786ce8564d854c26a86",
+    "Metrics in ballot": 5,
+    "Metrics viewed": 15,
+    "Os multiplier": 1.5,
+    "Ballot content": [
+      {
+        "log_transaction_count": 30
+      },
+      {
+        "monthly_active_addresses": 30
+      },
+      {
+        "recurring_addresses": 20
+      },
+      {
+        "trusted_monthly_active_users": 5
+      },
+      {
+        "trusted_users_onboarded": 15
+      }
+    ]
+  },
+  {
+    "Address": "0x1de2a056508e0d0dd88a88f1f5cdf9cfa510795c",
+    "Metrics in ballot": 6,
+    "Metrics viewed": 16,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "trusted_monthly_active_users": 20
+      },
+      {
+        "trusted_transaction_share": 15
+      },
+      {
+        "gas_fees": 20
+      },
+      {
+        "trusted_users_onboarded": 10
+      },
+      {
+        "log_trusted_transaction_count": 20
+      },
+      {
+        "trusted_recurring_users": 15
+      }
+    ]
+  },
+  {
+    "Address": "0x894aa5f1e45454677a8560dde3b45cb5c427ef92",
+    "Metrics in ballot": 5,
+    "Metrics viewed": 5,
+    "Os multiplier": 1.5,
+    "Ballot content": [
+      {
+        "trusted_recurring_users": 4.841666666666667
+      },
+      {
+        "trusted_users_onboarded": 5.158333333333333
+      },
+      {
+        "transaction_count": 20
+      },
+      {
+        "monthly_active_addresses": 20
+      },
+      {
+        "gas_fees": 50
+      }
+    ]
+  },
+  {
+    "Address": "0xa142ab9eab9264807a41f0e5cbdab877d204e233",
+    "Metrics in ballot": 3,
+    "Metrics viewed": 3,
+    "Os multiplier": 1,
+    "Ballot content": [
+      {
+        "gas_fees": 70
+      },
+      {
+        "monthly_active_addresses": 10
+      },
+      {
+        "transaction_count": 20
+      }
+    ]
+  },
+  {
+    "Address": "0xf503017d7baf7fbc0fff7492b751025c6a78179b",
+    "Metrics in ballot": 16,
+    "Metrics viewed": 0,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "transaction_count": 5.954315863172636
+      },
+      {
+        "monthly_active_addresses": 6.25
+      },
+      {
+        "recurring_addresses": 5.954315863172636
+      },
+      {
+        "power_user_addresses": 6.254375875175037
+      },
+      {
+        "trusted_transaction_share": 5.954315863172636
+      },
+      {
+        "openrank_trusted_users_count": 6.254375875175037
+      },
+      {
+        "trusted_monthly_active_users": 6.244998999799961
+      },
+      {
+        "log_transaction_count": 6.244998999799961
+      },
+      {
+        "trusted_users_onboarded": 7.454615923184639
+      },
+      {
+        "gas_fees": 6.244998999799961
+      },
+      {
+        "daily_active_addresses": 6.254375875175037
+      },
+      {
+        "trusted_recurring_users": 5.954315863172636
+      },
+      {
+        "trusted_transaction_count": 6.244998999799961
+      },
+      {
+        "log_trusted_transaction_count": 6.244998999799961
+      },
+      {
+        "log_gas_fees": 6.244998999799961
+      },
+      {
+        "trusted_daily_active_users": 6.244998999799961
+      }
+    ]
+  },
+  {
+    "Address": "0x849151d7d0bf1f34b70d5cad5149d28cc2308bf1",
+    "Metrics in ballot": 5,
+    "Metrics viewed": 0,
+    "Os multiplier": 1.5,
+    "Ballot content": [
+      {
+        "trusted_daily_active_users": 10
+      },
+      {
+        "trusted_monthly_active_users": 35
+      },
+      {
+        "trusted_users_onboarded": 10
+      },
+      {
+        "trusted_recurring_users": 10
+      },
+      {
+        "gas_fees": 35
+      }
+    ]
+  },
+  {
+    "Address": "0xdd7a79b1b6e8dd444f99d68a7d493a85556944a2",
+    "Metrics in ballot": 3,
+    "Metrics viewed": 7,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "log_gas_fees": 50
+      },
+      {
+        "power_user_addresses": 25
+      },
+      {
+        "monthly_active_addresses": 25
+      }
+    ]
+  },
+  {
+    "Address": "0x801707059a55d748b23b02043c71b7a3d976f071",
+    "Metrics in ballot": 5,
+    "Metrics viewed": 0,
+    "Os multiplier": 1.5,
+    "Ballot content": [
+      {
+        "trusted_monthly_active_users": 25
+      },
+      {
+        "log_transaction_count": 25
+      },
+      {
+        "openrank_trusted_users_count": 10
+      },
+      {
+        "log_gas_fees": 30
+      },
+      {
+        "trusted_users_onboarded": 10
+      }
+    ]
+  },
+  {
+    "Address": "0x75536cf4f01c2bfa528f5c74ddc1232db3af3ee5",
+    "Metrics in ballot": 4,
+    "Metrics viewed": 5,
+    "Os multiplier": 1,
+    "Ballot content": [
+      {
+        "trusted_users_onboarded": 25
+      },
+      {
+        "transaction_count": 25
+      },
+      {
+        "log_gas_fees": 25
+      },
+      {
+        "gas_fees": 25
+      }
+    ]
+  },
+  {
+    "Address": "0x429f9ada43e9f345cbb85ec88681bb70df808892",
+    "Metrics in ballot": 5,
+    "Metrics viewed": 0,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "trusted_users_onboarded": 34
+      },
+      {
+        "trusted_transaction_count": 32
+      },
+      {
+        "trusted_monthly_active_users": 13
+      },
+      {
+        "log_gas_fees": 9.5
+      },
+      {
+        "trusted_transaction_share": 11.5
+      }
+    ]
+  },
+  {
+    "Address": "0x5554672e67ba866b9861701d0e0494ab324ad19a",
+    "Metrics in ballot": 4,
+    "Metrics viewed": 4,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "openrank_trusted_users_count": 15
+      },
+      {
+        "trusted_recurring_users": 25
+      },
+      {
+        "log_gas_fees": 35
+      },
+      {
+        "trusted_monthly_active_users": 25
+      }
+    ]
+  },
+  {
+    "Address": "0x66810420d110919a0e8b550fde3fe24d50ef0e26",
+    "Metrics in ballot": 11,
+    "Metrics viewed": 14,
+    "Os multiplier": 2,
+    "Ballot content": [
+      {
+        "monthly_active_addresses": 6.603040248747623
+      },
+      {
+        "trusted_transaction_share": 6.831058904819484
+      },
+      {
+        "trusted_recurring_users": 6.831058904819484
+      },
+      {
+        "trusted_users_onboarded": 15
+      },
+      {
+        "log_gas_fees": 6.831058904819484
+      },
+      {
+        "trusted_transaction_count": 6.878562791501122
+      },
+      {
+        "trusted_monthly_active_users": 20
+      },
+      {
+        "gas_fees": 10
+      },
+      {
+        "transaction_count": 6.840559682155812
+      },
+      {
+        "recurring_addresses": 6.840559682155812
+      },
+      {
+        "log_trusted_transaction_count": 7.344100880981169
+      }
+    ]
+  },
+  {
+    "Address": "0x92bf20563e747b2f8711549be17a9d7b876c4053",
+    "Metrics in ballot": 5,
+    "Metrics viewed": 0,
+    "Os multiplier": 1,
+    "Ballot content": [
+      {
+        "transaction_count": 25
+      },
+      {
+        "gas_fees": 50
+      },
+      {
+        "daily_active_addresses": 10
+      },
+      {
+        "recurring_addresses": 5
+      },
+      {
+        "monthly_active_addresses": 10
+      }
+    ]
+  },
+  {
+    "Address": "0xaeb99a255c3a243ab3e4f654041e9bf5340cf313",
+    "Metrics in ballot": 9,
+    "Metrics viewed": 14,
+    "Os multiplier": 2.3,
+    "Ballot content": [
+      {
+        "trusted_users_onboarded": 13
+      },
+      {
+        "recurring_addresses": 10
+      },
+      {
+        "trusted_daily_active_users": 10
+      },
+      {
+        "trusted_transaction_share": 12.54166666666666
+      },
+      {
+        "trusted_monthly_active_users": 10
+      },
+      {
+        "trusted_transaction_count": 9
+      },
+      {
+        "transaction_count": 13
+      },
+      {
+        "gas_fees": 10
+      },
+      {
+        "trusted_recurring_users": 12.45833333333333
+      }
+    ]
+  },
+  {
+    "Address": "0x5872ce037211233b9f6f5095c25988021f270c21",
+    "Metrics in ballot": 6,
+    "Metrics viewed": 2,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "trusted_recurring_users": 18
+      },
+      {
+        "trusted_users_onboarded": 18
+      },
+      {
+        "power_user_addresses": 15.98276657947377
+      },
+      {
+        "log_trusted_transaction_count": 15.98276657947377
+      },
+      {
+        "trusted_daily_active_users": 15.98276657947377
+      },
+      {
+        "trusted_monthly_active_users": 16.05170026157871
+      }
+    ]
+  },
+  {
+    "Address": "0xdca1bb1fc782ea3fa76ea4ada42af10c85766b6a",
+    "Metrics in ballot": 5,
+    "Metrics viewed": 16,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "trusted_users_onboarded": 25
+      },
+      {
+        "gas_fees": 25
+      },
+      {
+        "recurring_addresses": 15
+      },
+      {
+        "trusted_recurring_users": 25
+      },
+      {
+        "log_gas_fees": 10
+      }
+    ]
+  },
+  {
+    "Address": "0x1c9a6c17ba87451520cc4aa4ca63db07dc180242",
+    "Metrics in ballot": 4,
+    "Metrics viewed": 7,
+    "Os multiplier": 1,
+    "Ballot content": [
+      {
+        "trusted_users_onboarded": 25.002499750025
+      },
+      {
+        "log_gas_fees": 25.002499750025
+      },
+      {
+        "trusted_monthly_active_users": 24.99500049995
+      },
+      {
+        "power_user_addresses": 25
+      }
+    ]
+  },
+  {
+    "Address": "0x07bf3cda34aa78d92949bbdce31520714ab5b228",
+    "Metrics in ballot": 16,
+    "Metrics viewed": 6,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "trusted_recurring_users": 7
+      },
+      {
+        "power_user_addresses": 6
+      },
+      {
+        "daily_active_addresses": 6
+      },
+      {
+        "trusted_daily_active_users": 7
+      },
+      {
+        "recurring_addresses": 5
+      },
+      {
+        "monthly_active_addresses": 6
+      },
+      {
+        "log_gas_fees": 5
+      },
+      {
+        "transaction_count": 7
+      },
+      {
+        "trusted_monthly_active_users": 7
+      },
+      {
+        "log_transaction_count": 7
+      },
+      {
+        "trusted_transaction_share": 7
+      },
+      {
+        "trusted_transaction_count": 7
+      },
+      {
+        "gas_fees": 5
+      },
+      {
+        "openrank_trusted_users_count": 7
+      },
+      {
+        "log_trusted_transaction_count": 7
+      },
+      {
+        "trusted_users_onboarded": 4
+      }
+    ]
+  },
+  {
+    "Address": "0x94db037207f6fb697dbd33524aadffd108819dc8",
+    "Metrics in ballot": 6,
+    "Metrics viewed": 16,
+    "Os multiplier": 1,
+    "Ballot content": [
+      {
+        "recurring_addresses": 7
+      },
+      {
+        "trusted_users_onboarded": 3
+      },
+      {
+        "gas_fees": 65
+      },
+      {
+        "daily_active_addresses": 5
+      },
+      {
+        "monthly_active_addresses": 5
+      },
+      {
+        "transaction_count": 15
+      }
+    ]
+  },
+  {
+    "Address": "0xbc39fb41fe0229352774930c5aa3bf1635c2665f",
+    "Metrics in ballot": 8,
+    "Metrics viewed": 2,
+    "Os multiplier": 2,
+    "Ballot content": [
+      {
+        "trusted_users_onboarded": 15
+      },
+      {
+        "trusted_transaction_share": 5
+      },
+      {
+        "trusted_monthly_active_users": 14
+      },
+      {
+        "trusted_transaction_count": 14
+      },
+      {
+        "log_gas_fees": 13
+      },
+      {
+        "log_transaction_count": 17
+      },
+      {
+        "trusted_recurring_users": 9
+      },
+      {
+        "recurring_addresses": 13
+      }
+    ]
+  },
+  {
+    "Address": "0x34aa3f359a9d614239015126635ce7732c18fdf3",
+    "Metrics in ballot": 16,
+    "Metrics viewed": 0,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "recurring_addresses": 5.0210970464135
+      },
+      {
+        "trusted_recurring_users": 4.847955768950966
+      },
+      {
+        "trusted_daily_active_users": 4.542412338134729
+      },
+      {
+        "power_user_addresses": 5
+      },
+      {
+        "transaction_count": 5.010912265386293
+      },
+      {
+        "log_transaction_count": 5.072020951549542
+      },
+      {
+        "trusted_monthly_active_users": 5.072020951549542
+      },
+      {
+        "monthly_active_addresses": 4.359086279644987
+      },
+      {
+        "log_trusted_transaction_count": 5.072020951549542
+      },
+      {
+        "trusted_transaction_share": 4.756292739706095
+      },
+      {
+        "log_gas_fees": 5.072020951549542
+      },
+      {
+        "openrank_trusted_users_count": 4.552597119161936
+      },
+      {
+        "trusted_users_onboarded": 25
+      },
+      {
+        "gas_fees": 5.072020951549542
+      },
+      {
+        "daily_active_addresses": 6.467335952277025
+      },
+      {
+        "trusted_transaction_count": 5.082205732576749
+      }
+    ]
+  },
+  {
+    "Address": "0x0331969e189d63fbc31d771bb04ab44227d748d8",
+    "Metrics in ballot": 16,
+    "Metrics viewed": 16,
+    "Os multiplier": 3,
+    "Ballot content": [
+      {
+        "trusted_daily_active_users": 0.9816360601001668
+      },
+      {
+        "daily_active_addresses": 1.061769616026711
+      },
+      {
+        "log_gas_fees": 25
+      },
+      {
+        "gas_fees": 25
+      },
+      {
+        "trusted_users_onboarded": 1
+      },
+      {
+        "recurring_addresses": 1.001669449081803
+      },
+      {
+        "power_user_addresses": 5
+      },
+      {
+        "trusted_transaction_share": 8
+      },
+      {
+        "trusted_recurring_users": 5
+      },
+      {
+        "log_transaction_count": 8
+      },
+      {
+        "transaction_count": 0.9816360601001668
+      },
+      {
+        "trusted_transaction_count": 4
+      },
+      {
+        "log_trusted_transaction_count": 8
+      },
+      {
+        "openrank_trusted_users_count": 5
+      },
+      {
+        "trusted_monthly_active_users": 0.9115191986644408
+      },
+      {
+        "monthly_active_addresses": 1.061769616026711
+      }
+    ]
+  },
+  {
+    "Address": "0xcf79c7eaec5bdc1a9e32d099c5d6bdf67e4cf6e8",
+    "Metrics in ballot": 5,
+    "Metrics viewed": 13,
+    "Os multiplier": 2,
+    "Ballot content": [
+      {
+        "gas_fees": 50
+      },
+      {
+        "log_transaction_count": 10
+      },
+      {
+        "trusted_recurring_users": 20
+      },
+      {
+        "openrank_trusted_users_count": 10
+      },
+      {
+        "trusted_monthly_active_users": 10
+      }
+    ]
+  },
+  {
+    "Address": "0x7f22646e85da79953ac09e9b45ee1b3be3a42abc",
+    "Metrics in ballot": 7,
+    "Metrics viewed": 4,
+    "Os multiplier": 2.5,
+    "Ballot content": [
+      {
+        "openrank_trusted_users_count": 14.285
+      },
+      {
+        "trusted_recurring_users": 14.28571428571429
+      },
+      {
+        "daily_active_addresses": 14.285
+      },
+      {
+        "trusted_monthly_active_users": 14.285
+      },
+      {
+        "trusted_daily_active_users": 14.285
+      },
+      {
+        "trusted_users_onboarded": 14.285
+      },
+      {
+        "monthly_active_addresses": 14.285
+      }
+    ]
+  },
+  {
+    "Address": "0x69dc230b06a15796e3f42baf706e0e55d4d5eaa1",
+    "Metrics in ballot": 5,
+    "Metrics viewed": 16,
+    "Os multiplier": 1.3,
+    "Ballot content": [
+      {
+        "openrank_trusted_users_count": 5
+      },
+      {
+        "trusted_monthly_active_users": 25
+      },
+      {
+        "gas_fees": 35
+      },
+      {
+        "trusted_users_onboarded": 15
+      },
+      {
+        "trusted_recurring_users": 20
+      }
+    ]
+  },
+  {
+    "Address": "0xebb03f5a580ff088bd4269f88a0cfe5eaf00d2b0",
+    "Metrics in ballot": 9,
+    "Metrics viewed": 0,
+    "Os multiplier": 1.7,
+    "Ballot content": [
+      {
+        "log_gas_fees": 20
+      },
+      {
+        "log_transaction_count": 5
+      },
+      {
+        "trusted_recurring_users": 15
+      },
+      {
+        "power_user_addresses": 10
+      },
+      {
+        "recurring_addresses": 10
+      },
+      {
+        "trusted_monthly_active_users": 12.5
+      },
+      {
+        "trusted_transaction_count": 5
+      },
+      {
+        "trusted_transaction_share": 10
+      },
+      {
+        "trusted_daily_active_users": 12.5
+      }
+    ]
+  }
+]
