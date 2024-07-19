@@ -1,0 +1,2642 @@
+[
+  {
+    "id": "4937156d-2dcf-4ded-a701-f1075518428e",
+    "ranking": 1,
+    "address": "0x66946def4ba6153c500d743b7a5febfc1654d6bd",
+    "status": "ACTIVE",
+    "ensAddress": "",
+    "numberOfVote": 10,
+    "recentVote": [1, 2, 3, 4, 5],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "solarcurve.eth",
+    "vetoCount": 1,
+    "notVetoCount": 9,
+    "tttt": [1, 2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 10
+    }
+  },
+  {
+    "id": "cdd0a2fb-98ab-4b7f-8e4c-fbd7f4db1d1a",
+    "ranking": 2,
+    "address": "0xf68d2bfcecd7895bba05a7451dd09a1749026454",
+    "status": "ACTIVE",
+    "ensAddress": "mastermojo.eth",
+    "numberOfVote": 10,
+    "recentVote": [1, 2, 3, 4, 5],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 1,
+    "notVetoCount": 9,
+    "tttt": [1, 2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 10
+    }
+  },
+  {
+    "id": "df3f8d8c-6053-4275-98ac-35dbe7baf794",
+    "ranking": 3,
+    "address": "0xe422d6c46a69e989ba6468ccd0435cb0c5c243e3",
+    "status": "ACTIVE",
+    "ensAddress": "",
+    "numberOfVote": 9,
+    "recentVote": [1, 2, 3, 4, 5],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Project Selection",
+    "referredBy": "0xc728dea8b2972e6e07493be8dc2f0314f7dc3e98",
+    "vetoCount": 0,
+    "notVetoCount": 9,
+    "tttt": [1, 2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 9
+    }
+  },
+  {
+    "id": "80b39a41-8874-43d3-a848-532794983f29",
+    "ranking": 4,
+    "address": "0x7fc80fad32ec41fd5cfcc14eee9c31953b6b4a8b",
+    "status": "ACTIVE",
+    "ensAddress": "brichis.eth",
+    "numberOfVote": 9,
+    "recentVote": [1, 2, 3, 4, 5],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "katiegarcia.eth",
+    "vetoCount": 0,
+    "notVetoCount": 9,
+    "tttt": [1, 2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 9
+    }
+  },
+  {
+    "id": "81a94fb9-6345-4e31-9aa6-d047910e187c",
+    "ranking": 5,
+    "address": "0x3db5b38ef4b433d9c6a664bd35551be73313189a",
+    "status": "ACTIVE",
+    "ensAddress": "criptonita.eth",
+    "numberOfVote": 9,
+    "recentVote": [1, 2, 3, 4, 5],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "cryptochica.eth",
+    "vetoCount": 1,
+    "notVetoCount": 8,
+    "tttt": [1, 2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 9
+    }
+  },
+  {
+    "id": "00ffb1c8-c7bc-4146-83c7-83b790e25815",
+    "ranking": 6,
+    "address": "0x3b60e31cfc48a9074cd5bebb26c9eaa77650a43f",
+    "status": "ACTIVE",
+    "ensAddress": "ccarella.eth",
+    "numberOfVote": 9,
+    "recentVote": [1, 2, 3, 4, 5],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "theethernaut.eth",
+    "vetoCount": 0,
+    "notVetoCount": 9,
+    "tttt": [1, 2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 9
+    }
+  },
+  {
+    "id": "13f6f6dd-5125-47e9-a808-b2d4d8bf1039",
+    "ranking": 7,
+    "address": "0xcf79c7eaec5bdc1a9e32d099c5d6bdf67e4cf6e8",
+    "status": "ACTIVE",
+    "ensAddress": "",
+    "numberOfVote": 9,
+    "recentVote": [1, 2, 3, 4, 5],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Project Selection",
+    "referredBy": "0xc5a756d63c5fe67b438acbe468aa62a52093fdef",
+    "vetoCount": 0,
+    "notVetoCount": 9,
+    "tttt": [1, 2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 9
+    }
+  },
+  {
+    "id": "95ef4638-7aec-48e9-b874-996e0caa7fb2",
+    "ranking": 8,
+    "address": "0x07fda67513ec0897866098a11dc3858089d4a505",
+    "status": "ACTIVE",
+    "ensAddress": "v3naru.eth",
+    "numberOfVote": 9,
+    "recentVote": [1, 2, 3, 4, 5],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Project Selection",
+    "referredBy": "0x9f87c1acaf3afc6a5557c58284d9f8609470b571",
+    "vetoCount": 0,
+    "notVetoCount": 9,
+    "tttt": [1, 2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 9
+    }
+  },
+  {
+    "id": "d41d160a-6501-4752-8b6b-f921c84a5245",
+    "ranking": 9,
+    "address": "0x94db037207f6fb697dbd33524aadffd108819dc8",
+    "status": "ACTIVE",
+    "ensAddress": "joxes.eth",
+    "numberOfVote": 9,
+    "recentVote": [1, 2, 3, 4, 5],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 9,
+    "tttt": [1, 2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 9
+    }
+  },
+  {
+    "id": "dd14c22a-a05b-4b25-801d-fbaab0aaf323",
+    "ranking": 10,
+    "address": "0x0331969e189d63fbc31d771bb04ab44227d748d8",
+    "status": "ACTIVE",
+    "ensAddress": "butterbum.eth",
+    "numberOfVote": 9,
+    "recentVote": [1, 2, 3, 4, 5],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "minimalgravitas.eth",
+    "vetoCount": 1,
+    "notVetoCount": 8,
+    "tttt": [1, 2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 9
+    }
+  },
+  {
+    "id": "05822f4a-7171-44e8-bc21-1402fa4cafe4",
+    "ranking": 11,
+    "address": "0x55aed0ce035883626e536254dda2f23a5b5d977f",
+    "status": "ACTIVE",
+    "ensAddress": "0xulas.eth",
+    "numberOfVote": 9,
+    "recentVote": [1, 2, 3, 4, 5],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "0x53c61cfb8128ad59244e8c1d26109252ace23d14",
+    "vetoCount": 1,
+    "notVetoCount": 8,
+    "tttt": [1, 2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 9
+    }
+  },
+  {
+    "id": "e1ed6fa2-eb1a-4329-83f9-90d037ba58f6",
+    "ranking": 12,
+    "address": "0x9934465ee73beaf148b1b3ff232c8cd86c4c2c63",
+    "status": "ACTIVE",
+    "ensAddress": "alexpoon.eth",
+    "numberOfVote": 9,
+    "recentVote": [1, 2, 3, 4, 5],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "gonna.eth",
+    "vetoCount": 0,
+    "notVetoCount": 9,
+    "tttt": [1, 2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 9
+    }
+  },
+  {
+    "id": "43f51c00-4da2-446d-a4c5-a2db45cb0120",
+    "ranking": 13,
+    "address": "0x288c53a1ba857ead34ad0e79f644087f8174185a",
+    "status": "ACTIVE",
+    "ensAddress": "",
+    "numberOfVote": 9,
+    "recentVote": [1, 2, 3, 4, 5],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Project Selection",
+    "referredBy": "0x13ebd3443fa5575f0eb173e323d8419f7452cfb1",
+    "vetoCount": 1,
+    "notVetoCount": 8,
+    "tttt": [1, 2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 9
+    }
+  },
+  {
+    "id": "e9607d09-aca8-40f2-86ce-0bd98ad75d55",
+    "ranking": 14,
+    "address": "0x5d36a202687fd6bd0f670545334bf0b4827cc1e2",
+    "status": "ACTIVE",
+    "ensAddress": "launamu.eth",
+    "numberOfVote": 9,
+    "recentVote": [1, 2, 3, 4, 5],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Foundation Choice",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 9,
+    "tttt": [1, 2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 9
+    }
+  },
+  {
+    "id": "cd563291-bcde-4551-993d-16de92756d7d",
+    "ranking": 15,
+    "address": "0xef32eb37f3e8b4bdddf99879b23015f309ed7304",
+    "status": "ACTIVE",
+    "ensAddress": "",
+    "numberOfVote": 9,
+    "recentVote": [1, 2, 3, 4, 5],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Project Selection",
+    "referredBy": "yoav.eth",
+    "vetoCount": 0,
+    "notVetoCount": 9,
+    "tttt": [1, 2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 9
+    }
+  },
+  {
+    "id": "cd12411a-6c0a-45ae-bc50-6c3daa4a2095",
+    "ranking": 16,
+    "address": "0xf4b0556b9b6f53e00a1fdd2b0478ce841991d8fa",
+    "status": "ACTIVE",
+    "ensAddress": "olimpio.eth",
+    "numberOfVote": 9,
+    "recentVote": [1, 2, 3, 4, 5],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "hailvitalik.eth",
+    "vetoCount": 1,
+    "notVetoCount": 8,
+    "tttt": [1, 2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 9
+    }
+  },
+  {
+    "id": "04d0dc1c-6d20-433b-84dc-992c0b5da1c6",
+    "ranking": 17,
+    "address": "0x75536cf4f01c2bfa528f5c74ddc1232db3af3ee5",
+    "status": "ACTIVE",
+    "ensAddress": "katiegarcia.eth",
+    "numberOfVote": 8,
+    "recentVote": [1, 2, 3, 4, 5],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 8,
+    "tttt": [1, 2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 8
+    }
+  },
+  {
+    "id": "3ac50143-a53a-4b8b-98d3-dbad98ce3978",
+    "ranking": 18,
+    "address": "0x00409fc839a2ec2e6d12305423d37cd011279c09",
+    "status": "ACTIVE",
+    "ensAddress": "thesleeper.eth",
+    "numberOfVote": 8,
+    "recentVote": [1, 2, 3, 4, 5],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 8,
+    "tttt": [1, 2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 8
+    }
+  },
+  {
+    "id": "6f07834d-e266-4308-9b78-22b125cc8939",
+    "ranking": 19,
+    "address": "0x06f455e2c297a4ae015191fa7a4a11c77c5b1b7c",
+    "status": "ACTIVE",
+    "ensAddress": "",
+    "numberOfVote": 8,
+    "recentVote": [1, 2, 3, 4, 5],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "0xda60aceb12a1a61d09b008ae4a60c760db32220f",
+    "vetoCount": 1,
+    "notVetoCount": 7,
+    "tttt": [1, 2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 8
+    }
+  },
+  {
+    "id": "241d575c-9079-45d3-8dd1-4b370c68d58b",
+    "ranking": 20,
+    "address": "0x9c949881084dcbd97237f786710ab8e52a457136",
+    "status": "ACTIVE",
+    "ensAddress": "amerameen.eth",
+    "numberOfVote": 8,
+    "recentVote": [1, 2, 3, 4, 5],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "philngo.eth",
+    "vetoCount": 1,
+    "notVetoCount": 7,
+    "tttt": [1, 2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 8
+    }
+  },
+  {
+    "id": "3f04ea67-f552-465e-b2a8-fc473d87299b",
+    "ranking": 21,
+    "address": "0x6eda5acaff7f5964e1ecc3fd61c62570c186ca0c",
+    "status": "ACTIVE",
+    "ensAddress": "opmichael.eth",
+    "numberOfVote": 8,
+    "recentVote": [1, 2, 3, 4, 5],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "lindajxie.eth",
+    "vetoCount": 0,
+    "notVetoCount": 8,
+    "tttt": [1, 2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 8
+    }
+  },
+  {
+    "id": "9155514d-fae6-4aa1-b53b-3e6d2bab2171",
+    "ranking": 22,
+    "address": "0x15c6ac4cf1b5e49c44332fb0a1043ccab19db80a",
+    "status": "ACTIVE",
+    "ensAddress": "hq.spengrah.eth",
+    "numberOfVote": 8,
+    "recentVote": [1, 2, 3, 4, 5],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "zakku.eth",
+    "vetoCount": 1,
+    "notVetoCount": 7,
+    "tttt": [1, 2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 8
+    }
+  },
+  {
+    "id": "87f50e66-9e7d-4215-8e6f-5833bc5a0c6c",
+    "ranking": 23,
+    "address": "0x9194efdf03174a804f3552f4f7b7a4bb74badb7f",
+    "status": "ACTIVE",
+    "ensAddress": "kethic.eth",
+    "numberOfVote": 8,
+    "recentVote": [2, 3, 4, 5],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Project Selection",
+    "referredBy": "0x3b3980936707a8299afb5424fa807c1cbac37ccb",
+    "vetoCount": 0,
+    "notVetoCount": 8,
+    "tttt": [2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 8
+    }
+  },
+  {
+    "id": "804701ad-d9e4-4d92-9597-67e82a734630",
+    "ranking": 24,
+    "address": "0x92bf20563e747b2f8711549be17a9d7b876c4053",
+    "status": "ACTIVE",
+    "ensAddress": "",
+    "numberOfVote": 7,
+    "recentVote": [1, 2, 3, 5],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Project Selection",
+    "referredBy": "zachxbt.eth",
+    "vetoCount": 0,
+    "notVetoCount": 7,
+    "tttt": [1, 2, 3, 5],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 7
+    }
+  },
+  {
+    "id": "a3a5eb11-63b1-4997-a25b-60603e4af97c",
+    "ranking": 25,
+    "address": "0x826976d7c600d45fb8287ca1d7c76fc8eb732030",
+    "status": "ACTIVE",
+    "ensAddress": "",
+    "numberOfVote": 7,
+    "recentVote": [1, 2, 3, 4, 5],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Project Selection",
+    "referredBy": "0xdcfe20e6c1d14c26930a28b1f92fb981cda26884",
+    "vetoCount": 1,
+    "notVetoCount": 6,
+    "tttt": [1, 2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 7
+    }
+  },
+  {
+    "id": "7e91b8dc-01f5-4591-bd7a-c5bae4b17c64",
+    "ranking": 26,
+    "address": "0x585639fbf797c1258eba8875c080eb63c833d252",
+    "status": "ACTIVE",
+    "ensAddress": "mattlosquadro.eth",
+    "numberOfVote": 7,
+    "recentVote": [2, 3, 4, 5],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 7,
+    "tttt": [2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 7
+    }
+  },
+  {
+    "id": "76d4cca7-f814-4586-b994-c84e3bbb14a9",
+    "ranking": 27,
+    "address": "0xdcf7be2ff93e1a7671724598b1526f3a33b1ec25",
+    "status": "ACTIVE",
+    "ensAddress": "gonna.eth",
+    "numberOfVote": 7,
+    "recentVote": [1, 2, 3, 4, 5],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 7,
+    "tttt": [1, 2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 7
+    }
+  },
+  {
+    "id": "3bcc66b3-feed-41f3-8322-5ebf15fceb64",
+    "ranking": 28,
+    "address": "0x5a5d9ab7b1bd978f80909503ebb828879daca9c3",
+    "status": "ACTIVE",
+    "ensAddress": "cerv1.eth",
+    "numberOfVote": 7,
+    "recentVote": [1, 2, 3, 4, 5],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Foundation Choice",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 7,
+    "tttt": [1, 2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 7
+    }
+  },
+  {
+    "id": "04fbd279-d919-4f90-960e-763d2b119f4e",
+    "ranking": 29,
+    "address": "0x839395e20bbb182fa440d08f850e6c7a8f6f0780",
+    "status": "ACTIVE",
+    "ensAddress": "griff.eth",
+    "numberOfVote": 7,
+    "recentVote": [1, 2, 3, 4, 5],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 1,
+    "notVetoCount": 6,
+    "tttt": [1, 2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 7
+    }
+  },
+  {
+    "id": "8f65039d-47fb-4280-bdd6-804f5d245779",
+    "ranking": 30,
+    "address": "0x1de2a056508e0d0dd88a88f1f5cdf9cfa510795c",
+    "status": "ACTIVE",
+    "ensAddress": "hailvitalik.eth",
+    "numberOfVote": 6,
+    "recentVote": [1, 2, 3, 4, 5],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 1,
+    "notVetoCount": 5,
+    "tttt": [1, 2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 6
+    }
+  },
+  {
+    "id": "1ab0bf5f-054f-45fd-a7bf-973b26bc3f87",
+    "ranking": 31,
+    "address": "0x53e0b897eae600b2f6855fce4a42482e9229d2c2",
+    "status": "ACTIVE",
+    "ensAddress": "",
+    "numberOfVote": 6,
+    "recentVote": [1, 2],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Project Selection",
+    "referredBy": "jackanorak.eth",
+    "vetoCount": 1,
+    "notVetoCount": 5,
+    "tttt": [1, 2],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 6
+    }
+  },
+  {
+    "id": "cc44b8f1-a65f-4f4a-a52b-7c32b464c013",
+    "ranking": 32,
+    "address": "0x69e271483c38ed4902a55c3ea8aab9e7cc8617e5",
+    "status": "ACTIVE",
+    "ensAddress": "wildmolasses.eth",
+    "numberOfVote": 6,
+    "recentVote": [1, 2, 3, 4, 5],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Project Selection",
+    "referredBy": "trueblocks.eth",
+    "vetoCount": 0,
+    "notVetoCount": 6,
+    "tttt": [1, 2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 6
+    }
+  },
+  {
+    "id": "df34df34-204d-45c5-ba66-f7b7d449c20d",
+    "ranking": 33,
+    "address": "0x73186b2a81952c2340c4eb2e74e89869e1183df0",
+    "status": "ACTIVE",
+    "ensAddress": "amyjung.eth",
+    "numberOfVote": 6,
+    "recentVote": [1, 2, 3, 4, 5],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Foundation Choice",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 6,
+    "tttt": [1, 2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 6
+    }
+  },
+  {
+    "id": "5a106447-0c0b-44d8-9b6d-701659593965",
+    "ranking": 34,
+    "address": "0x4fd6b3204a6ab48978018b25821682f090840333",
+    "status": "ACTIVE",
+    "ensAddress": "cryptochica.eth",
+    "numberOfVote": 6,
+    "recentVote": [1, 2, 3, 4, 5],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 1,
+    "notVetoCount": 5,
+    "tttt": [1, 2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 6
+    }
+  },
+  {
+    "id": "84f1f9ae-9a31-4158-83a3-8e279a391254",
+    "ranking": 35,
+    "address": "0x64fed9e56b548343e7bb47c49ecd7ffa9f1a34fe",
+    "status": "ACTIVE",
+    "ensAddress": "dmars300.eth",
+    "numberOfVote": 6,
+    "recentVote": [1, 2, 3, 4, 5],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "jacob.willemsma.eth",
+    "vetoCount": 1,
+    "notVetoCount": 5,
+    "tttt": [1, 2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "active",
+      "total": 10,
+      "voted": 6
+    }
+  },
+  {
+    "id": "75401725-423c-4a20-9641-540c2b3136e7",
+    "ranking": 36,
+    "address": "0x434f5325ddcdbbfcce64be2617c72c4aa33ec3e7",
+    "status": "INACTIVE",
+    "ensAddress": "summerte.eth",
+    "numberOfVote": 5,
+    "recentVote": [1, 2, 3, 5],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 5,
+    "tttt": [1, 2, 3, 5],
+    "votingTurnout": {
+      "status": "inactive",
+      "total": 10,
+      "voted": 5
+    }
+  },
+  {
+    "id": "c8a4112c-91ed-4f7b-a336-0d9d26ae3588",
+    "ranking": 37,
+    "address": "0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e",
+    "status": "INACTIVE",
+    "ensAddress": "james.eth",
+    "numberOfVote": 5,
+    "recentVote": [1, 2],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "0x14276eb29e90541831cb94c80331484ae6d2a1d8",
+    "vetoCount": 1,
+    "notVetoCount": 4,
+    "tttt": [1, 2],
+    "votingTurnout": {
+      "status": "inactive",
+      "total": 10,
+      "voted": 5
+    }
+  },
+  {
+    "id": "25b30cf7-0790-4347-be81-9c303adf0c24",
+    "ranking": 38,
+    "address": "0x0f2ce18919b4eb9838760cfdda65e4c8766e9c19",
+    "status": "INACTIVE",
+    "ensAddress": "",
+    "numberOfVote": 5,
+    "recentVote": [3, 4, 5],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "mattlosquadro.eth",
+    "vetoCount": 0,
+    "notVetoCount": 5,
+    "tttt": [3, 4, 5],
+    "votingTurnout": {
+      "status": "inactive",
+      "total": 10,
+      "voted": 5
+    }
+  },
+  {
+    "id": "f0c452f5-5c6d-44de-a6e9-85835a5c9549",
+    "ranking": 39,
+    "address": "0xa142ab9eab9264807a41f0e5cbdab877d204e233",
+    "status": "ACTIVE",
+    "ensAddress": "",
+    "numberOfVote": 5,
+    "recentVote": [1, 2, 3, 4, 5],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 5,
+    "tttt": [1, 2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "inactive",
+      "total": 10,
+      "voted": 5
+    }
+  },
+  {
+    "id": "ec2e02e3-fce3-42a4-8fae-4ce934a65eb3",
+    "ranking": 40,
+    "address": "0x429f9ada43e9f345cbb85ec88681bb70df808892",
+    "status": "INACTIVE",
+    "ensAddress": "polynya.eth",
+    "numberOfVote": 5,
+    "recentVote": [1, 2],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 1,
+    "notVetoCount": 4,
+    "tttt": [1, 2],
+    "votingTurnout": {
+      "status": "inactive",
+      "total": 10,
+      "voted": 5
+    }
+  },
+  {
+    "id": "4f5db71a-2f1b-4df1-96bb-071bcd4b2773",
+    "ranking": 41,
+    "address": "0xd35e119782059a27fead4edda8b555f393650bc8",
+    "status": "ACTIVE",
+    "ensAddress": "drptbl.eth",
+    "numberOfVote": 5,
+    "recentVote": [1, 2, 3, 4, 5],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Project Selection",
+    "referredBy": "drptbl.eth",
+    "vetoCount": 0,
+    "notVetoCount": 5,
+    "tttt": [1, 2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "inactive",
+      "total": 10,
+      "voted": 5
+    }
+  },
+  {
+    "id": "3e1551d7-3d5d-4623-a697-cf27e390ba26",
+    "ranking": 42,
+    "address": "0xbc39fb41fe0229352774930c5aa3bf1635c2665f",
+    "status": "ACTIVE",
+    "ensAddress": "",
+    "numberOfVote": 5,
+    "recentVote": [1, 2, 3, 4, 5],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "joxes.eth",
+    "vetoCount": 0,
+    "notVetoCount": 5,
+    "tttt": [1, 2, 3, 4, 5],
+    "votingTurnout": {
+      "status": "inactive",
+      "total": 10,
+      "voted": 5
+    }
+  },
+  {
+    "id": "1887a3ba-3e0d-4dd5-8923-948c5f626a68",
+    "ranking": 43,
+    "address": "0x66da63b03feca7dd44a5bb023bb3645d3252fa32",
+    "status": "INACTIVE",
+    "ensAddress": "keeks.eth",
+    "numberOfVote": 4,
+    "recentVote": [2],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "0xdb150346155675dd0c93efd960d5985244a34820",
+    "vetoCount": 0,
+    "notVetoCount": 4,
+    "tttt": [2],
+    "votingTurnout": {
+      "status": "inactive",
+      "total": 10,
+      "voted": 4
+    }
+  },
+  {
+    "id": "b7b88791-36d2-49db-820b-ac10bf64b098",
+    "ranking": 44,
+    "address": "0xc2e2b715d9e302947ec7e312fd2384b5a1296099",
+    "status": "INACTIVE",
+    "ensAddress": "kbw.eth",
+    "numberOfVote": 4,
+    "recentVote": [1, 2],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Project Selection",
+    "referredBy": "ceresstation.eth",
+    "vetoCount": 1,
+    "notVetoCount": 3,
+    "tttt": [1, 2],
+    "votingTurnout": {
+      "status": "inactive",
+      "total": 10,
+      "voted": 4
+    }
+  },
+  {
+    "id": "e68568e3-28e0-4862-886f-39f7c35a269d",
+    "ranking": 45,
+    "address": "0x07bf3cda34aa78d92949bbdce31520714ab5b228",
+    "status": "INACTIVE",
+    "ensAddress": "",
+    "numberOfVote": 4,
+    "recentVote": [1, 2],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "vectorized.eth",
+    "vetoCount": 0,
+    "notVetoCount": 4,
+    "tttt": [1, 2],
+    "votingTurnout": {
+      "status": "inactive",
+      "total": 10,
+      "voted": 4
+    }
+  },
+  {
+    "id": "6871c8be-d443-4fd2-b2be-6bdf63d3fd62",
+    "ranking": 46,
+    "address": "0x2b888954421b424c5d3d9ce9bb67c9bd47537d12",
+    "status": "INACTIVE",
+    "ensAddress": "lefteris.eth",
+    "numberOfVote": 3,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 3,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "inactive",
+      "total": 10,
+      "voted": 3
+    }
+  },
+  {
+    "id": "fd8d16b0-1959-4eb3-9708-72b826f8d9c7",
+    "ranking": 47,
+    "address": "0x378c23b326504df4d29c81ba6757f53b2c59f315",
+    "status": "INACTIVE",
+    "ensAddress": "",
+    "numberOfVote": 3,
+    "recentVote": [1],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "ceresstation.eth",
+    "vetoCount": 0,
+    "notVetoCount": 3,
+    "tttt": [1],
+    "votingTurnout": {
+      "status": "inactive",
+      "total": 10,
+      "voted": 3
+    }
+  },
+  {
+    "id": "3c1323f1-a5e6-45dc-ac70-e53dcb387641",
+    "ranking": 48,
+    "address": "0x7899d9b1181cbb427b0b1be0684c096c260f7474",
+    "status": "INACTIVE",
+    "ensAddress": "minimalgravitas.eth",
+    "numberOfVote": 2,
+    "recentVote": [1, 2],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 1,
+    "notVetoCount": 1,
+    "tttt": [1, 2],
+    "votingTurnout": {
+      "status": "inactive",
+      "total": 10,
+      "voted": 2
+    }
+  },
+  {
+    "id": "b3dc75ff-0594-4422-abb0-f0ccc2df88fa",
+    "ranking": 49,
+    "address": "0x17640d0d8c93bf710b6ee4208997bb727b5b7bc2",
+    "status": "INACTIVE",
+    "ensAddress": "",
+    "numberOfVote": 2,
+    "recentVote": [1, 2],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Project Selection",
+    "referredBy": "rotki.eth",
+    "vetoCount": 0,
+    "notVetoCount": 2,
+    "tttt": [1, 2],
+    "votingTurnout": {
+      "status": "inactive",
+      "total": 10,
+      "voted": 2
+    }
+  },
+  {
+    "id": "65bab82b-d12f-427c-8155-ea20ef6102b5",
+    "ranking": 50,
+    "address": "0x849151d7d0bf1f34b70d5cad5149d28cc2308bf1",
+    "status": "INACTIVE",
+    "ensAddress": "",
+    "numberOfVote": 2,
+    "recentVote": [1, 2],
+    "joinedAt": "2023-11-16T15:09:13.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 1,
+    "notVetoCount": 1,
+    "tttt": [1, 2],
+    "votingTurnout": {
+      "status": "inactive",
+      "total": 10,
+      "voted": 2
+    }
+  },
+  {
+    "id": "e79e2eb5-1fb6-4648-8fce-6a16e17a665c",
+    "ranking": 51,
+    "address": "0x8c50651d964b1a573ba0cf51980ca51d9e42623c",
+    "status": "INACTIVE",
+    "ensAddress": "",
+    "numberOfVote": 2,
+    "recentVote": [1, 2],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "thesleeper.eth",
+    "vetoCount": 0,
+    "notVetoCount": 2,
+    "tttt": [1, 2],
+    "votingTurnout": {
+      "status": "inactive",
+      "total": 10,
+      "voted": 2
+    }
+  },
+  {
+    "id": "6a49b56e-a7eb-41e2-840e-cd959a41d7c7",
+    "ranking": 52,
+    "address": "0x1d3bf13f8f7a83390d03db5e23a950778e1d1309",
+    "status": "INACTIVE",
+    "ensAddress": "zakku.eth",
+    "numberOfVote": 2,
+    "recentVote": [2],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 2,
+    "tttt": [2],
+    "votingTurnout": {
+      "status": "inactive",
+      "total": 10,
+      "voted": 2
+    }
+  },
+  {
+    "id": "a0b82034-3d65-443d-be69-16364339c08a",
+    "ranking": 53,
+    "address": "0x45a10f35befa4ab841c77860204b133118b7ccae",
+    "status": "INACTIVE",
+    "ensAddress": "theethernaut.eth",
+    "numberOfVote": 2,
+    "recentVote": [1, 2],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 2,
+    "tttt": [1, 2],
+    "votingTurnout": {
+      "status": "inactive",
+      "total": 10,
+      "voted": 2
+    }
+  },
+  {
+    "id": "221b2655-217e-496b-9c83-8fd54fef197b",
+    "ranking": 54,
+    "address": "0x842bb1bb84cc8a3d6277b0ff9729d22d55e9c50b",
+    "status": "INACTIVE",
+    "ensAddress": "",
+    "numberOfVote": 2,
+    "recentVote": [],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "0xf5f7dd81069256ccbbb558fc29729d050636e7a0",
+    "vetoCount": 0,
+    "notVetoCount": 2,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "inactive",
+      "total": 10,
+      "voted": 2
+    }
+  },
+  {
+    "id": "321c661f-b7d5-4e26-8680-9d0d31bdd910",
+    "ranking": 55,
+    "address": "0xdc0a92c350a52b6583e235a57901b8731af8b249",
+    "status": "INACTIVE",
+    "ensAddress": "",
+    "numberOfVote": 2,
+    "recentVote": [1, 2],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "0x7ae8b0d6353f0931eb9fac0a3562fa9e4c6ff933",
+    "vetoCount": 1,
+    "notVetoCount": 1,
+    "tttt": [1, 2],
+    "votingTurnout": {
+      "status": "inactive",
+      "total": 10,
+      "voted": 2
+    }
+  },
+  {
+    "id": "53415bec-38fa-479f-8795-552adc2570fa",
+    "ranking": 56,
+    "address": "0x69dc230b06a15796e3f42baf706e0e55d4d5eaa1",
+    "status": "INACTIVE",
+    "ensAddress": "revmiller.eth",
+    "numberOfVote": 2,
+    "recentVote": [1, 2],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 2,
+    "tttt": [1, 2],
+    "votingTurnout": {
+      "status": "inactive",
+      "total": 10,
+      "voted": 2
+    }
+  },
+  {
+    "id": "e52ff4f8-1f6c-4736-a529-17faf33c8221",
+    "ranking": 57,
+    "address": "0x534631bcf33bdb069fb20a93d2fdb9e4d4dd42cf",
+    "status": "INACTIVE",
+    "ensAddress": "slobo.eth",
+    "numberOfVote": 1,
+    "recentVote": [1],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Project Selection",
+    "referredBy": "ethdotlimo.eth",
+    "vetoCount": 0,
+    "notVetoCount": 1,
+    "tttt": [1],
+    "votingTurnout": {
+      "status": "inactive",
+      "total": 10,
+      "voted": 1
+    }
+  },
+  {
+    "id": "3b5ba1a4-fc9d-4356-b30b-bcdbe41fbe40",
+    "ranking": 58,
+    "address": "0xe53e89d978ff1da716f80baa6e6d8b3fa23f2284",
+    "status": "INACTIVE",
+    "ensAddress": "",
+    "numberOfVote": 1,
+    "recentVote": [],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Foundation Choice",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 1,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "inactive",
+      "total": 10,
+      "voted": 1
+    }
+  },
+  {
+    "id": "379b8039-e902-46b4-90ea-aedba9280a74",
+    "ranking": 59,
+    "address": "0xbf430a49c4d85aeed3908619d5387a1fbf8e74a9",
+    "status": "INACTIVE",
+    "ensAddress": "",
+    "numberOfVote": 1,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 1,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "inactive",
+      "total": 10,
+      "voted": 1
+    }
+  },
+  {
+    "id": "292b129a-3448-40bc-a83b-724135f398e3",
+    "ranking": 60,
+    "address": "0x8f07bc36ff569312fdc41f3867d80bbd2fe94b76",
+    "status": "INACTIVE",
+    "ensAddress": "jacob.willemsma.eth",
+    "numberOfVote": 1,
+    "recentVote": [2],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 1,
+    "tttt": [2],
+    "votingTurnout": {
+      "status": "inactive",
+      "total": 10,
+      "voted": 1
+    }
+  },
+  {
+    "id": "0390031b-3631-4109-9ed9-4299246a694d",
+    "ranking": 61,
+    "address": "0xdadd7c883288cfe2e257b0a361865e5e9349808b",
+    "status": "INACTIVE",
+    "ensAddress": "philngo.eth",
+    "numberOfVote": 1,
+    "recentVote": [2],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 1,
+    "notVetoCount": 0,
+    "tttt": [2],
+    "votingTurnout": {
+      "status": "inactive",
+      "total": 10,
+      "voted": 1
+    }
+  },
+  {
+    "id": "26494089-3154-4d20-9162-0e0fa888416d",
+    "ranking": 62,
+    "address": "0x75cac0ceb8a39ddb4942a83ad2aafaf0c2a3e13f",
+    "status": "INACTIVE",
+    "ensAddress": "vote.alisha.eth",
+    "numberOfVote": 1,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 1,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "inactive",
+      "total": 10,
+      "voted": 1
+    }
+  },
+  {
+    "id": "f858bcbe-de0d-4579-b683-8eadeed913e9",
+    "ranking": 63,
+    "address": "0xeee718c1e522ecb4b609265db7a83ab48ea0b06f",
+    "status": "GHOST",
+    "ensAddress": "dcbuilder.eth",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "0x28f569cc6c29d804a1720edc16bf1ebab2ea35b4",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "411d924f-5651-4a69-946b-5cd1e25037c2",
+    "ranking": 64,
+    "address": "0x98ab20307fdaba1ce8b16d69d22461c6dbe85459",
+    "status": "GHOST",
+    "ensAddress": "0xmillie.eth",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "mastermojo.eth",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "1314f41f-be46-4366-8389-b1cdb08e8254",
+    "ranking": 65,
+    "address": "0x925afeb19355e289ed1346ede709633ca8788b25",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "0x91031dcfdea024b4d51e775486111d2b2a715871",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "c6d1e53b-7a3c-4351-bd01-d649be1b39db",
+    "ranking": 66,
+    "address": "0x885c327cad2aebb969dfaab4c928b73ca17e3887",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "94fb8d0e-b887-41a6-ac99-8c715d598a9e",
+    "ranking": 67,
+    "address": "0x8eb9e5e5375b72ee7c5cb786ce8564d854c26a86",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Foundation Choice Selection",
+    "referredBy": "0xe53e89d978ff1da716f80baa6e6d8b3fa23f2284",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "74f027fc-b6d6-4abf-b166-9bc994ab855b",
+    "ranking": 68,
+    "address": "0x12681667bb220521c222f50ece5eb752046bc144",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "0x1c9a6c17ba87451520cc4aa4ca63db07dc180242",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "eea6eb75-92c1-4a91-ac21-92a62718627a",
+    "ranking": 69,
+    "address": "0x512fce9b07ce64590849115ee6b32fd40ec0f5f3",
+    "status": "GHOST",
+    "ensAddress": "solarcurve.eth",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "c7a3b4bb-6234-4878-abc3-d587fdc5325f",
+    "ranking": 70,
+    "address": "0xb0623c91c65621df716ab8afe5f66656b21a9108",
+    "status": "GHOST",
+    "ensAddress": "johnpalmer.eth",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "9b2b4426-2457-4404-be9e-4185033c37d3",
+    "ranking": 71,
+    "address": "0x801707059a55d748b23b02043c71b7a3d976f071",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Project Selection",
+    "referredBy": "dunscomb.eth",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "d8e629e7-ccfa-400d-a39c-f8294f3fce06",
+    "ranking": 72,
+    "address": "0x7ae8b0d6353f0931eb9fac0a3562fa9e4c6ff933",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "1f5d8978-70e4-4f57-b514-c810921250a9",
+    "ranking": 73,
+    "address": "0xe4c3768f48d4e676ae48c189db726edf8c1d401e",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "c2168433-2937-45df-828b-1c105cc069f8",
+    "ranking": 74,
+    "address": "0x1e6d9f536a5d1cc04fc13b3133efdb90c8ee5ea1",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-12-07T15:18:41.000Z",
+    "joinedWith": "Foundation Choice",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "8b876d79-5a54-4104-a112-b720f2e15057",
+    "ranking": 75,
+    "address": "0xd31b671f1a398b519222fdaba5ab5464b9f2a3fa",
+    "status": "GHOST",
+    "ensAddress": "wmitsuda.eth",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Project Selection",
+    "referredBy": "0x9d20893054afc4a74b856089c44f9a09d1c38db0",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "07ab4fb5-1248-4df6-b186-1ee2e113c2c3",
+    "ranking": 76,
+    "address": "0x894aa5f1e45454677a8560dde3b45cb5c427ef92",
+    "status": "GHOST",
+    "ensAddress": "wombat.eth",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Foundation Choice",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "c899a8ea-d36f-4535-b5b9-983cad528eb1",
+    "ranking": 77,
+    "address": "0x396a34c10b11e33a4bf6f3e6a419a23c54ad34fb",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "yoav.eth",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "d0798c5e-4bd9-4717-9292-4022247a103f",
+    "ranking": 78,
+    "address": "0x5e349eca2dc61abcd9dd99ce94d04136151a09ee",
+    "status": "GHOST",
+    "ensAddress": "lindajxie.eth",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "afa15ed3-29bb-4595-b75a-61464eae3e0f",
+    "ranking": 79,
+    "address": "0xabf28f8d9adfb2255f4a059e37d3bce9104969db",
+    "status": "GHOST",
+    "ensAddress": "meglister.eth",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Foundation Choice Selection",
+    "referredBy": "wombat.eth",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "f4acd4d7-e8b0-4bf0-a9c8-5ba639f5277b",
+    "ranking": 80,
+    "address": "0x146cfed833cc926b16b0da9257e8a281c2add9f3",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Project Selection",
+    "referredBy": "0xbb105e3c6d6406a3f0aab98cd8d0e3a127bd6436",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "6bc648a3-1c83-4a04-a762-726e650a5bf6",
+    "ranking": 81,
+    "address": "0x634c474a393e4498bc2f0c1dee16a50e9e0ebe2b",
+    "status": "GHOST",
+    "ensAddress": "dankrad.eth",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "b2b0e826-8de1-45f2-a1d0-ce8d6ad357d4",
+    "ranking": 82,
+    "address": "0x399e0ae23663f27181ebb4e66ec504b3aab25541",
+    "status": "GHOST",
+    "ensAddress": "superphiz.eth",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "0x3b16821a5dbbff86e4a88ea0621ec6be016cd79a",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "c53fd521-36a4-443a-b8d5-7844bb663992",
+    "ranking": 83,
+    "address": "0x006a8a496889e9983a5256f34b608ee9569ba319",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "0xbf430a49c4d85aeed3908619d5387a1fbf8e74a9",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "f677ba90-8be2-4a42-acaa-1625b99e70ae",
+    "ranking": 84,
+    "address": "0x91031dcfdea024b4d51e775486111d2b2a715871",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "4081a664-eb5d-488b-910d-24d508deb9e3",
+    "ranking": 85,
+    "address": "0x66810420d110919a0e8b550fde3fe24d50ef0e26",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-11-10T15:58:11.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "0x61b647d3b5a04eec7e78b1d9cfbf9dea593c7865",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "6ec76160-88f8-4289-88dc-197cca95321b",
+    "ranking": 86,
+    "address": "0xa3eac0016f6581ac34768c0d4b99ddcd88071c3c",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Foundation Choice",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "c853f5c2-c625-4145-9cad-61969f569c67",
+    "ranking": 87,
+    "address": "0x23936429fc179da0e1300644fb3b489c736d562f",
+    "status": "GHOST",
+    "ensAddress": "yuetloo.eth",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "e0ab325e-5bd3-43d2-8572-b97a51c727a2",
+    "ranking": 88,
+    "address": "0x665d84fffddd72d24df555e6b065b833478dffca",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "0xe4239eb12c1c6e5a84727db0a7b0507311eb5389",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "489fec98-7daf-4d2e-8737-6b3280770228",
+    "ranking": 89,
+    "address": "0x7a48a728d9fd2d5a55c545c4378e5ba909349e90",
+    "status": "GHOST",
+    "ensAddress": "faina.eth",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "0xa142ab9eab9264807a41f0e5cbdab877d204e233",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "e21e85ed-9a85-4c92-906b-6beff59cefec",
+    "ranking": 90,
+    "address": "0xebb03f5a580ff088bd4269f88a0cfe5eaf00d2b0",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Project Selection",
+    "referredBy": "rockman71.eth",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "c54f2b8f-3fc2-4bff-aa61-7a74ce9f86db",
+    "ranking": 91,
+    "address": "0x60ca282757ba67f3adbf21f3ba2ebe4ab3eb01fc",
+    "status": "GHOST",
+    "ensAddress": "adamfuller.eth",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "0dbacdae-0dd6-4ee2-bc06-94fb9a30f531",
+    "ranking": 92,
+    "address": "0x5872ce037211233b9f6f5095c25988021f270c21",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "8940ea9e-cf1d-4410-9979-c015598b1513",
+    "ranking": 93,
+    "address": "0xbc3ed6b537f2980e66f396fe14210a56ba3f72c4",
+    "status": "GHOST",
+    "ensAddress": "wilsoncusack.eth",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Project Selection",
+    "referredBy": "0xd2135cfb216b74109775236e36d4b433f1df507b",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "a8d130c5-291c-47c6-af20-23b1b4525ef1",
+    "ranking": 94,
+    "address": "0x57893e666bd15e886d74751b0879361a3383b57a",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "tracheopteryx.eth",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "8e4ea433-4a89-41f9-82f3-353dd36d59da",
+    "ranking": 95,
+    "address": "0xaeb99a255c3a243ab3e4f654041e9bf5340cf313",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Foundation Choice Selection",
+    "referredBy": "launamu.eth",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "a9352505-29d6-4b9e-b263-b18fd73fa830",
+    "ranking": 96,
+    "address": "0x34aa3f359a9d614239015126635ce7732c18fdf3",
+    "status": "GHOST",
+    "ensAddress": "austingriffith.eth",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "044adb96-3e30-4e07-9e65-164749b70514",
+    "ranking": 97,
+    "address": "0x648aa14e4424e0825a5ce739c8c68610e143fb79",
+    "status": "GHOST",
+    "ensAddress": "sassal.eth",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "polynya.eth",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "ddda56a9-7fbc-457e-9d29-5ce22c80622d",
+    "ranking": 98,
+    "address": "0x5554672e67ba866b9861701d0e0494ab324ad19a",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Project Selection",
+    "referredBy": "0xd9ed89a0f4cfbc1be4b7b1aa744b5bd25aca9979",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "9aa0baab-0e46-4732-86e9-47492ec156a9",
+    "ranking": 99,
+    "address": "0xdb150346155675dd0c93efd960d5985244a34820",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "f694d647-ea76-436b-aca0-09bb7589a36d",
+    "ranking": 100,
+    "address": "0xac3a69dd4a8fecc18b172bfa9643d6b0863819c8",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "3651f5db-6f90-4abc-bb1d-e2d663189423",
+    "ranking": 101,
+    "address": "0x5507dbd48a5a5bace8a6030e878cc4e0af147c33",
+    "status": "GHOST",
+    "ensAddress": "nis.eth",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "f7df00af-1159-41c9-8ad4-24ab59460678",
+    "ranking": 102,
+    "address": "0x53c61cfb8128ad59244e8c1d26109252ace23d14",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "a5101148-3069-4edf-8416-f081a779019c",
+    "ranking": 103,
+    "address": "0xe4239eb12c1c6e5a84727db0a7b0507311eb5389",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "09893b3f-6b2e-4665-ae65-29b41adbf287",
+    "ranking": 104,
+    "address": "0x28f569cc6c29d804a1720edc16bf1ebab2ea35b4",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "5a6a4252-ffef-4899-a3bf-adef69a67a43",
+    "ranking": 105,
+    "address": "0x48a63097e1ac123b1f5a8bbffafa4afa8192fab0",
+    "status": "GHOST",
+    "ensAddress": "ceresstation.eth",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "d0887514-6931-4d61-9849-bff937c0e29e",
+    "ranking": 106,
+    "address": "0x576f1e53afe5e99b2257258c7e3248d3a1822548",
+    "status": "GHOST",
+    "ensAddress": "norswap.eth",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "0xac3a69dd4a8fecc18b172bfa9643d6b0863819c8",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "bebfe813-0fd2-4540-9bc3-22755c1740f8",
+    "ranking": 107,
+    "address": "0x488b2608a66e5d32e5a91eba21a198bd3fd8bcd9",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "fb9e4a4f-6131-46c5-9b5b-9d7aaf5bd0a9",
+    "ranking": 108,
+    "address": "0xf503017d7baf7fbc0fff7492b751025c6a78179b",
+    "status": "GHOST",
+    "ensAddress": "trueblocks.eth",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "f72cd3f8-8712-4b99-bd8e-f629079b4810",
+    "ranking": 109,
+    "address": "0x616cad18642f45d3fa5fcaad0a2d81764a9cba84",
+    "status": "GHOST",
+    "ensAddress": "umarkhan.eth",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Foundation Choice Selection",
+    "referredBy": "cerv1.eth",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "c740d346-9e8c-432d-98aa-50b4c3cfc37d",
+    "ranking": 110,
+    "address": "0xa50d0e425461ccab26ef30104cdd879b90db3843",
+    "status": "GHOST",
+    "ensAddress": "shanvasion.eth",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "04e7c600-79eb-4cf2-a9aa-aa6759b52043",
+    "ranking": 111,
+    "address": "0x1f5d295778796a8b9f29600a585ab73d452acb1c",
+    "status": "GHOST",
+    "ensAddress": "vectorized.eth",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "25468c8c-d152-4487-81e2-fb85cf935726",
+    "ranking": 112,
+    "address": "0xc5cd017ce8efd2fefedf114350657394531477ae",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "2b98d3dc-bbd2-4ba4-a32f-22a4a86ea8e9",
+    "ranking": 113,
+    "address": "0xda60aceb12a1a61d09b008ae4a60c760db32220f",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "e0e15923-9fa7-4ec2-8114-c4b7939489fc",
+    "ranking": 114,
+    "address": "0xd8da6bf26964af9d7eed9e03e53415d37aa96045",
+    "status": "GHOST",
+    "ensAddress": "vitalik.eth",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "a2e35de2-aeda-40b3-bff1-1d67614a59dd",
+    "ranking": 115,
+    "address": "0x308fedfb88f6e85f27b85c8011ccb9b5e15bcbf7",
+    "status": "GHOST",
+    "ensAddress": "makingprogress.eth",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "lefteris.eth",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "244a625a-8993-4fcb-860f-999957d8c4cf",
+    "ranking": 116,
+    "address": "0xdca1bb1fc782ea3fa76ea4ada42af10c85766b6a",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "0xc5cd017ce8efd2fefedf114350657394531477ae",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "b70ba345-c129-4f3b-b1c1-d46863f1d129",
+    "ranking": 117,
+    "address": "0x51448923d8a215a5a8cd872a51f22c2f5c43b444",
+    "status": "GHOST",
+    "ensAddress": "chappy.eth",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "kev.eth",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "d1284ca1-31a0-4193-9d18-0119c4f00e34",
+    "ranking": 118,
+    "address": "0x14276eb29e90541831cb94c80331484ae6d2a1d8",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "0c45dcda-febc-463c-a89c-bfbc295bf569",
+    "ranking": 119,
+    "address": "0x29c4dbc1a81d06c9aa2faed93bb8b4a78f3eabdb",
+    "status": "GHOST",
+    "ensAddress": "tracheopteryx.eth",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "dc1af58d-693f-4984-ba72-705ce99bb1ce",
+    "ranking": 120,
+    "address": "0x1c9a6c17ba87451520cc4aa4ca63db07dc180242",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "7a2ca7cd-1d4d-40ff-bdd4-ae89fc12e4e2",
+    "ranking": 121,
+    "address": "0x7f22646e85da79953ac09e9b45ee1b3be3a42abc",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "revmiller.eth",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "ad2b0496-c5a6-4127-9d14-8642f4f649f6",
+    "ranking": 122,
+    "address": "0xdb5781a835b60110298ff7205d8ef9678ff1f800",
+    "status": "GHOST",
+    "ensAddress": "yoav.eth",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "cdf29cad-1996-4cbf-8104-0c3b910c5b7a",
+    "ranking": 123,
+    "address": "0xa2bbe92f4e320185dd42261897464f60c9a05a35",
+    "status": "GHOST",
+    "ensAddress": "danielhwang.eth",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "5229a0fe-89d5-478b-bbf3-bc77606bd449",
+    "ranking": 124,
+    "address": "0xdd7a79b1b6e8dd444f99d68a7d493a85556944a2",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "b726edf0-91e6-4159-8a3d-097b96b0edfa",
+    "ranking": 125,
+    "address": "0xb8c6da1c1e8a4473f290941278e66bfdbe4fd6c8",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Badgeholder Choice",
+    "referredBy": "0xe4c3768f48d4e676ae48c189db726edf8c1d401e",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "329bbcc9-1809-4d01-a1f5-86100eae6648",
+    "ranking": 126,
+    "address": "0xde2b6860cb3212a6a1f8f8628abfe076723a4b39",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Project Selection",
+    "referredBy": "0x59cc3fc56b8b2988f259ec1e6f3446907130f728",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "829ee61e-ff88-4b24-872a-b01d0fdcb561",
+    "ranking": 127,
+    "address": "0x490c91f38ec57e3ab00811e0c51a62bfed7e81f4",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Project Selection",
+    "referredBy": "wmitsuda.eth",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "1c2819ba-4866-4eb6-9aac-47ba2e82fc5f",
+    "ranking": 128,
+    "address": "0xdcf09a83e9cc4611b2215bfb7116bfaf5e906d3d",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-13T22:25:37.000Z",
+    "joinedWith": "Project Selection",
+    "referredBy": "0xd8ce5ae15e2a9c8528fdce195ad43015782c5079",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "623a9f3b-3426-4f27-93d7-d97ce373f85e",
+    "ranking": 129,
+    "address": "0xa2bf1b0a7e079767b4701b5a1d9d5700eb42d1d1",
+    "status": "GHOST",
+    "ensAddress": "kennethng.eth",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "deb709a6-5f32-4790-a277-94027fc7db1f",
+    "ranking": 130,
+    "address": "0x5555763613a12d8f3e73be831dff8598089d3dca",
+    "status": "GHOST",
+    "ensAddress": "ricmoo.eth",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "5862e404-3870-4148-bbbc-c13f81381f36",
+    "ranking": 131,
+    "address": "0x61b647d3b5a04eec7e78b1d9cfbf9dea593c7865",
+    "status": "GHOST",
+    "ensAddress": "",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-11-10T15:58:11.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  },
+  {
+    "id": "0f33c044-ec28-4d7d-bae4-ec6017b74cec",
+    "ranking": 132,
+    "address": "0x00de4b13153673bcae2616b67bf822500d325fc3",
+    "status": "GHOST",
+    "ensAddress": "kev.eth",
+    "numberOfVote": 0,
+    "recentVote": [],
+    "joinedAt": "2023-10-11T23:01:09.000Z",
+    "joinedWith": "Past Badgeholder",
+    "referredBy": "OP Foundation",
+    "vetoCount": 0,
+    "notVetoCount": 0,
+    "tttt": [],
+    "votingTurnout": {
+      "status": "ghost",
+      "total": 10,
+      "voted": 0
+    }
+  }
+]
