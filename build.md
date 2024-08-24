@@ -1,11 +1,11 @@
-docker buildx build --platform linux/arm64 -t worker:v-1 --load .
+docker buildx build --platform linux/aarch64 -t worker:latest --load .
 
-docker tag worker:v-1 tgrziminiar/worker:v-1
+docker tag worker:latest tgrziminiar/worker:latest
 
-docker push tgrziminiar/worker:v-1
+docker push tgrziminiar/worker:latest
 
 docker run -d \
   -p 3001:3001 \
   --env-file .env \
   --name fukthis \
-  worker:v-1
+  worker:latest
