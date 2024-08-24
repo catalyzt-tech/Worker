@@ -1,0 +1,60 @@
+{
+  "title": "Unclaimed airdrop to be burned?",
+  "content": "Do you agree that team should burn unclaimed 1st airdrop to a deadline voted by\nusers?",
+  "views": 3190,
+  "like_count": 110,
+  "word_count": 1606,
+  "answer": [
+    {
+      "content": "Airdrop recipients have time to claim their airdrop until 1 year after the\nrelease. I can imagine after that deadline expires the tokens will be send back\nto the treasury. I don’t see any chance to discuss a possible burning of\nunclaimed tokens until then",
+      "created_at": "2022-06-03T10:26:42.959Z",
+      "trust_level": 2,
+      "username": "Tjure07",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 21
+    },
+    {
+      "content": "carry it over to the 2nd round of airdrops",
+      "created_at": "2022-06-03T23:43:29.008Z",
+      "trust_level": 1,
+      "username": "Yoda",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 11
+    },
+    {
+      "content": "\n[https://avatars.discourse-cdn.com/v4/letter/d/5daacb/48.png] dregan:\n\n> please it will help the\n\nI don’t think it helps the community - burning only makes token price go up.\nSending tokens to treasury after some time is better plan to increase Optimisms\nwar-chest as opposed to deflation. Why punish wallets that might discover\nOptimism later and claim airdrop - they can still become active community\nmembers just because they weren’t around for $OP mint.",
+      "created_at": "2022-06-04T00:35:43.539Z",
+      "trust_level": 1,
+      "username": "devenmatthews.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 11
+    },
+    {
+      "content": "I think this is a discussion to be had in 12 months time when we’ll know how\nmuch of the airdrop remains unclaimed.",
+      "created_at": "2022-06-06T01:36:51.176Z",
+      "trust_level": 2,
+      "username": "redmarglar",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "i like that proposal burn it please it will help the comunity",
+      "created_at": "2022-06-03T20:54:25.009Z",
+      "trust_level": 1,
+      "username": "dregan",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    }
+  ],
+  "created_at": "2022-06-03T10:17:29.833Z"
+}

@@ -1,0 +1,9 @@
+{
+  "title": "How to Get a Grant Feedback",
+  "content": "If you have any trouble understanding the different funding options available in\nthe Collective, please leave your questions below.",
+  "views": 1391,
+  "like_count": 2,
+  "word_count": 19,
+  "answer": [],
+  "created_at": "2023-06-06T16:44:16.370Z"
+}

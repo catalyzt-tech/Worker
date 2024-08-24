@@ -1,0 +1,30 @@
+{
+  "title": "Dark Forest ARES: Milestone 1 Submission and request for feedback",
+  "content": "GM optimism!\n\nOn behalf of the DFArchon team, I am excited to announcement that we have\nreached Milestone 1 of Dark Forest ARES\n[https://app.charmverse.io/op-grants/dark-forest-ares-2473027417469651] project,\nwhich received an OP grant in Season 5, Cycle 22\n[https://gov.optimism.io/t/cycle-22-final-grants-roundup/8086].\n\nIn this post, we detail what has been delivered and what’s next. We encourage\neveryone, especially those interested in innovative game mechanics, to join our\ncommunity, try out the game, and share your feedback.\n\n\nWHAT IS DARK FOREST ARES & DFARES V0.1 ROUND 3?\n\nDark Forest ARES is a community-run development of Dark Forest. We periodically\nconduct development and game testing activities, experimenting with innovative\ngame mechanics and gathering feedback from real players.\n\n\n\nThe center of the universe in Dark Forest Ares Round 3\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/6/6764ffd850e9ec819a72b2971383e7c04c3d2c4b_2_690x323.jpeg]\nThe center of the universe in Dark Forest Ares Round 31920×901 466 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/6/6764ffd850e9ec819a72b2971383e7c04c3d2c4b.jpeg]\n\n\n\nFrom March to May 2024, we worked on the development of DFAres v0.1 Round 3. In\nMay, we held a six-day DFAres v0.1 Round 3 game event on the Redstone mainnet.\nOver the course of 144 hours, we attracted more than 240 accounts to participate\nin the game, with players submitting over 240,000 transactions.\n\n\nWHAT WE DELIVERED\n\n 1. We introduced the Pink Bomb and Kardashev artifacts and adjusted the\n    functionality of existing artifacts. These changes maintain game balance\n    while allowing for more complex player strategies, thus enhancing game\n    depth. The Pink Bomb releases an explosion that destroys all planets within\n    a pink circle, making it a powerful weapon for attacking enemies. When\n    activated, the Kardashev artifact creates a blue circle within which all\n    planets can instantly transfer their energy to the central planet, making it\n    a powerful tool for resource management.\n\n 2. DarkSea NFT Trading Market Update: We updated the DarkSea trading market for\n    in-game artifacts (NFT721), allowing players to trade artifacts freely.\n\n 3. Bounty Hunter System: We implemented the Bounty Hunter system, enabling\n    players to post assassination bounties on specific planets. Players can\n    attack these planets to earn bounties.\n\n 4. In-Game Resource Trading System: Players can now purchase planets,\n    spaceships, and planet skins, allowing them to acquire the resources they\n    need to better compete in the game rankings.\n\n\nRELEVANT INFORMATION\n\nGame website: https://dfares-round3.netlify.app/\n[https://dfares-round3.netlify.app/]\n\nDFAres v0.1 Round 3 is deployed on Redstone mainnet.\ncontract address: 0xA0e198CBD1B5f8749F57Aa8d60a8660d23B96957\n\nFor more detailed updates, please refer to the player guide:\nhttps://dfares.notion.site/DFAres-Round-3-Guide-3980998d8f65440085c116ba0df0d99a?pvs=25\n[https://www.notion.so/DFAres-Round-3-Guide-3980998d8f65440085c116ba0df0d99a?pvs=21]\n\n\nOPEN SOURCE CODE\n\nCore Game : GitHub - dfarchon/DFARES-v0.1: Dark Forest Community Rounds\n[https://github.com/dfarchon/DFARES-v0.1]\n\nTag: v0.1.3-backup\n\nAlternatively, view the main branch with commit ID\nce15b5b3d21a96568d16a79e44adc16c9942b493\n\nBounty Hunter: GitHub - dfarchon/DF-ARTEMIS: Planet-targeted bounty mercenary\nsystem for Dark Forest. [https://github.com/dfarchon/DF-ARTEMIS]\n\nIn-Game Artifact (NFT) Trading Market: GitHub - dfarchon/darksea-market: The\nDarkSae Market for Dark Forest [https://github.com/dfarchon/darksea-market]\n\n\nWHAT’S NEXT\n\nYou can review all of the upcoming milestones and deliverables on CharmVerse\n[https://app.charmverse.io/op-grants/dark-forest-ares-2473027417469651].\n\nWe’ve already started the development on next Milestone: DFAres v0.1 Round 4 and\nprepare to hold DF Ares v0.1 Round 4 public test in Augest.\n\n\nFEEDBACK AND FEATURE REQUESTS\n\nWe hope to hear your feedback on our development content and design ideas, as\nwell as any features you would like to see introduced in future development.\n\nYou can find the game website and open source code in Relevant Information or\nOen Source Code section.\n\n\nCONTACT INFO\n\nPlease reach out to us by commenting here or using any of the contact\ninformation below. We would love to hear your feedback or help you with any\nissues or ideas related to the explorer.\n\n * GitHub: DFArchon · GitHub [http://github.com/dfarchon]\n * Twitter : x.com [https://x.com/DFArchon]\n * Email: dfarchon[at]gmail[dot]com\n\nStay Optimistic! :love_you_gesture:\n[https://emoji.discourse-cdn.com/twitter/love_you_gesture.png?v=12]",
+  "views": 120,
+  "like_count": 2,
+  "word_count": 652,
+  "answer": [
+    {
+      "content": "Thanks! We have responded on Charmverse. Good job team!",
+      "created_at": "2024-07-09T16:32:08.285Z",
+      "trust_level": 2,
+      "username": "Juanbug_PGov",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "cc Milestones and Metrics Team who can direct you to the appropriate process\n@Juanbug_PGov [/u/juanbug_pgov] @v3naru_Curia [/u/v3naru_curia] @mmurthy\n[/u/mmurthy]",
+      "created_at": "2024-07-09T14:36:18.525Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-07-09T03:32:00.792Z"
+}

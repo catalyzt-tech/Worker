@@ -1,0 +1,60 @@
+{
+  "title": "Token House Update on Investor Delegations",
+  "content": "a16z plans to begin gradually delegating some of their tokens on February 6th.\nThey plan to delegate 1M OP each week, to 20 different wallets over the course\nof 20 weeks. They have selected an initial cohort of 7 delegates to receive 1M\nOP in delegation and will establish an additional 12 delegation wallets to be\nreserved for future delegations. This process will occur gradually, at the rate\nof 1 delegation of 1M OP over the course of 20 weeks. No delegate will receive\n>1M OP in delegation.\n\na16z has chosen to delegate their tokens to select delegates, using this\nframework\n[https://github.com/a16z/crypto-governance/blob/main/delegation/rubric.md],\nrather than solidifying their own voting power. This will not only increase\nrepresentation of other important stakeholder groups (including technical\nuniversities) but it will significantly increase the votable supply, which is a\ntop priority in increasing the robustness of Token House governance.\n\na16z’s delegation is happening alongside other initiatives to further increase\nthe votable supply and represent distinct stakeholders in the Collective. In\naddition to the Protocol Delegation Program, you can expect more information\nabout an upcoming initiative aimed at increasing individual delegation in the\nnear future.\n\nOther investors have the right to vote with or delegate their tokens and may\nchose to do so in the future. The Foundation has asked investors to publicly\nannounce delegations and explain their frameworks for choosing delegates when\nthey do so. While this means investors are likely to control more voting power\nover time, the Token House is specifically designed for plutocratic decision\nmaking and the collectives’ bicameral\n[https://en.wikipedia.org/wiki/Bicameralism] governance system limits the\ninfluence of large token holders.\n\nAs always, we encourage ongoing community discussions about ways to further\nincrease the votable supply and distribute it to a broad range of stakeholders.",
+  "views": 2392,
+  "like_count": 70,
+  "word_count": 520,
+  "answer": [
+    {
+      "content": "This is a reasonable path in order to empower governance in the short term while\nseeking to be represented by the delegates most related to their vision.\nCongrats.",
+      "created_at": "2023-02-02T22:27:05.551Z",
+      "trust_level": 2,
+      "username": "Joxes",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "Wow that is incredibly powerful!!!\nWhat a year it’s going to be on Optimism.",
+      "created_at": "2023-02-01T16:14:55.656Z",
+      "trust_level": 2,
+      "username": "FractalVisions",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "What an interesting way to distribute voting power. Much respect to a16z for\nconsidering this. Quite interested to see how this pans out over time— would\nlove to see other projects consider this direction.\n\nA council of official delegates to ensure votes are being used properly.\n:heart_on_fire: [https://emoji.discourse-cdn.com/twitter/heart_on_fire.png?v=12]\n\nStay optimistic as always :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12] :sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]",
+      "created_at": "2023-02-01T18:06:55.212Z",
+      "trust_level": 2,
+      "username": "0xzenodotus",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "Happy to see them using a framework to decide the delegate. Looking forward\ntowards welcoming collectives from wider spectrum.",
+      "created_at": "2023-02-01T21:57:17.745Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "This is commendation. Well done a16z!",
+      "created_at": "2023-02-03T14:25:48.358Z",
+      "trust_level": 2,
+      "username": "theenlightened",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    }
+  ],
+  "created_at": "2023-02-01T09:15:26.145Z"
+}

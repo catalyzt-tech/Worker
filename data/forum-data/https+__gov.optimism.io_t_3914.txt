@@ -1,0 +1,60 @@
+{
+  "title": "(UPDATED TIME) 8th OP Community Governance Call [November 8th at 10am PT / 1pm ET / 7pm CET]",
+  "content": "Hi Everyone,\n\nEDIT: We moved the time so that it is consistent with previous calls given the\ntime change! Accurate time is reflected in this post and on the governance\ncalendar (here\n[https://calendar.google.com/calendar/embed?src=c_fnmtguh6noo6qgbni2gperid4k%40group.calendar.google.com&ctz=America%2FNew_York]).\n\nWe have our eighth community governance call scheduled for next Tuesday,\nNovember 8th at 10am PT / 1pm ET / 7pm CET.\n\nThe call is open to anyone in the OP Community to join.\n\nComment below for any topics you would like added to the agenda!\n\nWe will have a lot to discuss this week with the end of the voting cycle, end of\nthe season, and start of the reflection period.\n\nZoom meeting link:\nhttps://us02web.zoom.us/j/89763085519?pwd=elFwWUQrZTVJNTYrOFJGMVYxb3ZwQT09\n[https://www.google.com/url?q=https://us02web.zoom.us/j/89763085519?pwd%3DelFwWUQrZTVJNTYrOFJGMVYxb3ZwQT09&sa=D&source=calendar&usd=2&usg=AOvVaw1_-KorFGmX_DWMYtI-kzX5]\n\nCurrent Agenda: November 8, 2022 Optimism Bi Weekly Governance Call - Google\nSlides\n[https://docs.google.com/presentation/d/1nJPeuhHILtL3liyVEhS5nQgkh_2sBgi33y38xQT_Ies/edit?usp=sharing]",
+  "views": 2333,
+  "like_count": 43,
+  "word_count": 434,
+  "answer": [
+    {
+      "content": "\n[https://avatars.discourse-cdn.com/v4/letter/l/6f9a4e/48.png] [GF: Phase 0\nProposal] Layer2DAO\n[https://gov.optimism.io/t/gf-phase-0-proposal-layer2dao/1198/53] Governance\nFund: Phase 0 [/c/proposals/governance-fund-phase-0-proposals/39]\n\n> Thank you to the delegates who have been monitoring active grants, we\n> appreciate you flagging unusual transactions related to L2DAO’s grant. The\n> Foundation has spoken with the L2DAO team and they have shared a spreadsheet\n> where they are tracking the OP tokens they are re-accumulating. Grant\n> recipients are expected to distribute their grants with complete transparency.\n> If there are any distributions or transactions that deviate from what has been\n> specified in a grant proposal, it should be discl…",
+      "created_at": "2022-11-08T14:38:51.777Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 5
+    },
+    {
+      "content": "Hey! Just posted the recording here Recap: Community Call #8 (November 8th)\n[https://gov.optimism.io/t/recap-community-call-8-november-8th/3950]",
+      "created_at": "2022-11-08T22:32:44.478Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "I won’t be able to make this one but I’ll look for the recording. Thank you for\nhosting :heart: [https://emoji.discourse-cdn.com/twitter/heart.png?v=12]",
+      "created_at": "2022-11-05T18:37:39.491Z",
+      "trust_level": 3,
+      "username": "katie",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Topics I would love to see added:\n\n\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/opuser/48/179_2.png]\n[Temp-Check] - Give Incentives to Solve Voters Apathy\n[https://gov.optimism.io/t/temp-check-give-incentives-to-solve-voters-apathy/3926/23]\n🏛 Token House Governance [/c/governance/41]\n\n> Example made things clear, I did misunderstood your last comment. But even in\n> this example, total number of token delegated remains same at 1K even after\n> shuffling which could lead us to same situation we are now, users might use to\n> token for different usage and overall delegated token will slowly come down to\n> 900, 800 and so on…As seen in the chart above, we drop down from 35M to 22M.\n> To me, voter apathy means lack of interest from their side. Either they\n> believe that their vote could not mak…\n\nWhat is the community thinking about delegator/delegate incentives?\n\nHow can we avoid wasting the time of big and known brains? I don’t like seeing\nthem harassed and spammed\n\nCan Optimism Foundation name someone who we as delegates can lean on when we\nhave governance issues?",
+      "created_at": "2022-11-08T17:38:43.865Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 2
+    },
+    {
+      "content": "Hey Everyone!\n\nJust a comment that we updated the meeting slot to be pushed 1 hour later in\norder to be consistent with previous meetings given the time change. The post\nwas edited to accurately reflect this.\n\nSee you tomorrow!",
+      "created_at": "2022-11-07T15:14:00.368Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2022-11-05T17:21:56.455Z"
+}

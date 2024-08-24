@@ -1,0 +1,60 @@
+{
+  "title": "Token House Badgeholder Nominations",
+  "content": "PLEASE REFER TO THE BADGEHOLDER NOMINATIONS ROUNDUP\n[https://gov.optimism.io/t/badgeholder-nomination-roundup/4315] FOR THE FINAL\nLIST OF VALID NOMINATIONS\n\nAs part of the recently announced retroPGF 2\n[https://optimism.mirror.xyz/wqk1Yeyn2OhV9paDzbRXvQ0m0JYDu2npbSkMClwk1rY],\nvoting badges will be distributed to a set of 90 community members. One voting\nbadge will be given to 10 Token House delegates.\n\nEach delegate with greater than >0.5% voting power may nominate 2 Token House\ndelegates to be badgeholders for rPGF 2. All nominees must be individual Token\nHouse delegates that have submitted a delegate commitment\n[https://gov.optimism.io/t/delegate-commitments/235/1] by 12/5/22. Each of the\n10 elected Token House delegates will be able to distribute an additional badge\nto an individual of their choosing.\n\nIf you have >0.5% votable supply and would like to nominate a delegate, please\npost nominations (using the template outlined here\n[https://gov.optimism.io/t/token-house-badgeholder-election-information/4195])\nbelow by December 14th at 7pm GMT.",
+  "views": 7387,
+  "like_count": 90,
+  "word_count": 3904,
+  "answer": [
+    {
+      "content": "Hi folks - we would like to nominate two delegates for this role. After working\nwith both in DeFi Committee A, we are impressed by their sensibility and passion\nfor the OP ecosystem.\n\n * Nominating delegate: Flipside Crypto\n\n * Link to delegate commitment: Delegate Commitments - #69 by fig\n   [https://gov.optimism.io/t/delegate-commitments/235/69]\n\n * Link to verify delegation of >0.5% of the votable supply: Boardroom\n   [https://boardroom.io/voter/0x62a43123FE71f9764f26554b3F5017627996816a] -\n   flipsidecrypto.eth\n\n * Name of delegate you’d like to nominate: lindajxie.eth & katiegarcia.eth\n\n * Link to nominee’s delegate commitment: Linda Xie: Delegate Commitments - #37\n   by linda [https://gov.optimism.io/t/delegate-commitments/235/37]\n   Katie Garcia: Delegate Commitments - #18 by katie\n   [https://gov.optimism.io/t/delegate-commitments/235/18]\n\n * Why do you believe this delegate should receive an rPGF 2 voting badge?\n   @katie [/u/katie] and @linda [/u/linda] share a wide knowledge of the\n   industry and have aligned incentives. We are confident in their ability to\n   recognize and reward impactful public goods as they see them.\n\nBest of luck to these two and any other delegates seeking nomination!\n\nThere is a trove of qualified delegates.",
+      "created_at": "2022-12-08T15:43:37.555Z",
+      "trust_level": 2,
+      "username": "fig",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 8
+    },
+    {
+      "content": " * Nominating delegate: MinimalGravitas\n\n * Link to delegate commitment: Delegate Commitments - #25 by MinimalGravitas\n   [https://gov.optimism.io/t/delegate-commitments/235/25]\n\n * Link to verify delegation of >0.5% of the votable supply: Boardroom\n   [https://boardroom.io/voter/0x7899d9b1181cbB427b0b1BE0684C096C260F7474?isDelegate=true]\n\n--------------------------------------------------------------------------------\n\n * Name of delegate you’d like to nominate: Lefteris\n\n * Link to nominee’s delegate commitment: Delegate Commitments - #9 by\n   lefterisjp [https://gov.optimism.io/t/delegate-commitments/235/9]\n\n * Why do you believe this delegate should receive an rPGF 2 voting badge?\n   @Lefterisjp [/u/lefterisjp] has been both an unerring advocate for open\n   source software, probably the most fundamental and relevant form of public\n   good at this stage; and a constant contributor to governance of the OP Token\n   House. Additionally they have demonstrated a very long term commitment to the\n   wider Ethereum ecosystem, of which Optimism is finding it’s place within. All\n   these factors combine to make Lefteris an example of exactly the type of\n   person I want to see in this roll!\n\n--------------------------------------------------------------------------------\n\n * Name of delegate you’d like to nominate: OPUser\n\n * Link to nominee’s delegate commitment: Delegate Commitments - #26 by OPUser\n   [https://gov.optimism.io/t/delegate-commitments/235/26]\n\n * Why do you believe this delegate should receive an rPGF 2 voting badge?\n   @OPUser [/u/opuser] has shown a dedication to Optimism’s Governance that I’d\n   suggest few have matched, they have been active in almost every discussion\n   since they joined, and recently have led the DeFi Committee C in Season 2.\n   While they are not a well known name in crypto (like my other nominee) and\n   don’t have their own project to promote, their lack of bias or ulterior\n   motives that in my view would make them an excellent candidate to receive a\n   citizenship.",
+      "created_at": "2022-12-09T12:48:08.647Z",
+      "trust_level": 2,
+      "username": "MinimalGravitas",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": " * Nominating delegate:\n   Katie\n\n * Link to delegate commitment:\n   Delegate Commitments - #18 by katie\n   [https://gov.optimism.io/t/delegate-commitments/235/18]\n\n * Link to verify delegation of >0.5% of the votable supply:\n   Optimism | OP Token House - Delegate Voting Weight Tracker 🔴🏛\n   [https://dune.com/optimismfnd/optimism-op-token-house]\n\n * Name of delegate you’d like to nominate:\n   @mastermojo [/u/mastermojo] @Jrocki [/u/Jrocki]\n\n * Link to nominee’s delegate commitment:\n   Delegate Commitments - #65 by mastermojo\n   [https://gov.optimism.io/t/delegate-commitments/235/65]\n   Delegate Commitments - #129 by jrocki.eth\n   [https://gov.optimism.io/t/delegate-commitments/235/129]\n\n * Why do you believe this delegate should receive an rPGF 2 voting badge?\n   Both @mastermojo [/u/mastermojo] and @Jrocki [/u/Jrocki] have been very\n   active and positive contributors to governance and I believe their addition\n   to the RPGF Program would be a huge benefit. They are both highly\n   knowledgeable and served on committees during season 2, proving their\n   dedication to the OP ecosystem.",
+      "created_at": "2022-12-11T23:48:17.552Z",
+      "trust_level": 3,
+      "username": "katie",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": " * Nominating delegate: Solarcurve\n * Link to delegate commitment: Delegate Commitments - #44 by solarcurve\n   [https://gov.optimism.io/t/delegate-commitments/235/44]\n * Link to verify delegation of >0.5% of the votable supply: Optimism | OP Token\n   House - Delegate Voting Weight Tracker 🔴🏛\n   [https://dune.com/optimismfnd/optimism-op-token-house] I’m #31 with 0.65% of\n   votable supply at time of writing\n * Name of delegate you’d like to nominate: Stablenode\n * Link to nominee’s delegate commitment: Delegate Commitments - #59 by\n   Bobbay_StableNode [https://gov.optimism.io/t/delegate-commitments/235/59]\n * Why do you believe this delegate should receive an rPGF 2 voting badge?\n   Stablenode has been a diligent participant in Optimism governance from the\n   start of Season 1. They have engaged with proposers to offer feedback and\n   have consistently reported back on their reasoning for why they voted how\n   they did. Beyond this they have also been an active delegate at Balancer\n   where I’m a contributor. Despite the fact they are not compensated there they\n   still take the time to provide thoughtful feedback and most importantly\n   always vote - and we often have a lot of votes :slight_smile:\n   [https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]\n\nFrom my interactions with Stablenode and Bobby in particular I can say without a\ndoubt Optimism would be in good hands if they are granted a Badge for this\ninitiative.",
+      "created_at": "2022-12-09T12:12:12.918Z",
+      "trust_level": 2,
+      "username": "solarcurve",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": " * Nominating delegate*: Jen Senhaji\n\n * Link to delegate commitment: Delegate Commitments - #20 by JenSenhaji\n   [https://gov.optimism.io/t/delegate-commitments/235/20]\n\n * Link to verify delegation of >0.5% of the votable supply: Optimism | OP Token\n   House - Delegate Voting Weight Tracker 🔴🏛\n   [https://dune.com/optimismfnd/optimism-op-token-house]\n\n * Name of delegate you’d like to nominate: @Bobbay_StableLab\n   [/u/Bobbay_StableLab] representing Stablenode\n\n * Link to nominee’s delegate commitment: Delegate Commitments - #59 by\n   Bobbay_StableNode [https://gov.optimism.io/t/delegate-commitments/235/59]\n\n * Why do you believe this delegate should receive an rPGF 2 voting badge?\n   Stablenode has demonstrated a consistent commitment to high quality\n   governance participation in Optimism and other communities they serve. They\n   offer constructive feedback to proposals and sound reasoning for their voting\n   decisions. They’re also extremely knowledgeable about DeFi and have a deep\n   understanding about the space at large.",
+      "created_at": "2022-12-12T03:24:30.138Z",
+      "trust_level": 2,
+      "username": "JenSenhaji",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    }
+  ],
+  "created_at": "2022-12-06T19:12:34.315Z"
+}

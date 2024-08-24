@@ -1,0 +1,60 @@
+{
+  "title": "Create separate 'Community Sphere' in discord as per area of interest to govern new proposals",
+  "content": "As we all know optimism ecosystem is growing fast and so new proposals are\nflowing in at an unimaginable rate and this is yet to grow in coming weeks as\nmore users will join this ecosystem.\n\nTo tackle this situation and further govern new proposals properly, we should\nnow focus on forming a sphere as per area of interest, and each sphere should be\ngiven a budget per quarter to spend from governance fund…\n\nFor example: To govern NFT ecosystem, we should focus on building ‘NFT Sphere’\nwith 4-5 leads voted by members of DAO, leads are subject to votes every\nquarter…(leads may change as per results of every quarter) And all the other\nparticipating members in an respective sphere should be given a role of\ncontributor.\nSame goes with other area of interest.\n\nThis approach not only help to govern ecosystem properly but also helps to take\ndecision faster and efficiently and will help ecosystem to have some amazing\nproducts/protocol flowing in with time…\n\nThank you\nPiyush",
+  "views": 1615,
+  "like_count": 6,
+  "word_count": 311,
+  "answer": [
+    {
+      "content": "Interesting point…\n\nWhat will happen when the Spheres need to interact with each other? Could they\ncombine proposals that has interests for both of them? And what will happen if\nthey are in a tie in a discussion?\n\nGreat idea @Piyush [/u/piyush]",
+      "created_at": "2022-06-04T13:57:36.808Z",
+      "trust_level": 2,
+      "username": "NicoProducto",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Excellent! you have my support :muscle:\n[https://emoji.discourse-cdn.com/twitter/muscle.png?v=12]",
+      "created_at": "2022-06-04T23:36:08.633Z",
+      "trust_level": 2,
+      "username": "NicoProducto",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "There will be 2-3 members representing every community, if different communities\nwants to communicate they can just reach out to respective members and those\nmembers will be responsible to schedule a planned meet…\n\nAnd if one proposal require multiple expertise: different communities will be\nworking together as you said…",
+      "created_at": "2022-06-04T17:00:41.762Z",
+      "trust_level": 1,
+      "username": "Piyush",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Nice idea and I see it working long term, when were are more decentralized. As\nof now, creating a new funding channel will cause confusion, need more\nmanagement and support from OP Team.",
+      "created_at": "2022-07-05T19:55:09.727Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "Proposals that shares common interests can be posted on general section?\n:thinking: [https://emoji.discourse-cdn.com/twitter/thinking.png?v=12]",
+      "created_at": "2022-06-04T14:58:48.430Z",
+      "trust_level": 1,
+      "username": "voogarix",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-06-04T07:52:39.469Z"
+}

@@ -1,0 +1,33 @@
+title: Projects
+lang: en-US
+description: Learn about the project entity within the Optimism Collective's identity stack.
+
+Projects
+
+Within the Optimism Collective, the project entity represents contributions to the Optimism Collective and can be used to apply for Retroactive Public Goods Funding (Retro Funding).
+
+Project Representation
+
+The project entity is represented onchain by an attestation. The attestation UID serves as the project's unique identifier throughout its lifecycle in the Collective.
+
+Creating a New Project
+
+To create a new project:
+
+Issue an attestation using the project schema.
+Include the Farcaster Id of the project creator as the only metadata in the project schema.
+
+Project Metadata
+
+All other project metadata is stored or referenced in the Project Metadata Attestation.
+
+Updating Metadata
+
+The Project Metadata Attestation is re-issued whenever there's a change in metadata.
+Apps displaying project metadata should refer to the most recent attestation for up-to-date information.
+
+Further Reading
+
+For more information about identity in the Optimism Collective, see the Identity Overview.
+
+All other project metadata is stored or referenced in the Project Metadata Attestation. The Project Metadata Attestation is re-issued anytime there is a change in metadata. Apps displaying project metadata should look to the most recent attestation for the up-to-date metadata.

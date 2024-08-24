@@ -1,0 +1,9 @@
+{
+  "title": "Badgeholders office hours #2",
+  "content": "Hey all. We are back with another badgeholder office hours Wednesday 6th 17:00\nGMT.\n\nThis call will be closed to badgeholders only and you should see the invite in\nyour calendar.\n\nPlease reply to this post if you want us to put something on the agenda.",
+  "views": 481,
+  "like_count": 7,
+  "word_count": 47,
+  "answer": [],
+  "created_at": "2023-12-04T19:43:20.391Z"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "[Mission Request] Accelerating Game Development in the Superchain",
+  "content": "Delegate Mission Request Summary\n\nProvide Indie Studios, Game Development Teams, and Solo Game Developers with\ntools, support, and resources to build, migrate, or deploy video games in the\nSuperchain Network.\n\nIntent 3 Grow application devs on the Superchain\n\nProposing Delegate/Citizen\n\nJoxes / SEED Latam\n\nTotal grant amount\n\n300,000 OP (up to 100k per applicant)\n\nShould this Mission be fulfilled by one or multiple applicants\n\nMultiple applicants\n\nHow will this Mission Request help accomplish the above Intent?\n\nThis proposal targets game development studios to build, migrate, or deploy\ngames on the Superchain by leveraging existing OSS Game Development Frameworks\n(GDFs) to accelerate development and reduce onchain integration friction. This\nmission aims to provide flexible deployment options within the Superchain or\ntheir own L2 or L3, the initiative aims to increase the number of high-quality\ngames and developers in the ecosystem, ultimately positioning the Superchain as\na leading onchain gaming platform.\n\nWhat is required to execute this Mission Request?\n\n * Game development studios and developers with at least one year of experience\n   in game development to build, migrate, or deploy one or multiple video games\n   in the Superchain.\n\n * Use OSS Game Development Frameworks (GDFs)already built in the Superchain to\n   accelerate development and reduce friction in the onchain integration.\n\n * Integrate Account Abstraction to reduce UX friction.\n\n * Deploy the games in the Superchain or their own L2 or L3.\n\nHow should governance participants measure impact upon completion of this\nMission Request?\n\nMilestones\n\n * RFP issuance and studios/game selection.\n\n * Form Superchain Advisory Team.\n\n * Set a development roadmap for studios/teams/solo devs and a calendar for\n   advisory sessions.\n\n * Coordinate launching campaign in the Superchain.\n\nMetrics\n\n * Number of game development studios or teams onboarded to the Superchain\n\n * Number of games playable in the Superchain\n\n * Number of players in the Superchain\n\n * Number of games’ smart contracts deployed in the Superchain\n\n * Gas Fees spent on Superchain games\n\n * Number of L2 and L3 dedicated for single games\n\nImpact\n\n * Push the Superchain as the leading onchain gaming platform.\n\n * Growth of the number of game development studios/teams/solo-devs building in\n   the Superchain.\n\n * Increased adoption of the Optimism technology stack and the Superchain game\n   development frameworks.\n\nHas anyone other than the proposer contributed to this Mission Request?\n\n@habacuc.eth [/u/habacuc.eth] @Joxes [/u/joxes]\n\n\nWHICH METRIC WILL THE SUCCESS OF THIS MISSION REQUEST BE EVALUATED AGAINST?\n\nThe North star metric against which this Mission Request should be evaluated is\nthe total amount of gas fees generated from the grantee’s contracts, because\nthis Mission Request sets out to increase the aggregate demand for blockspace on\nthe Superchain through a larger program. The total gas fees generated from this\nprogram act as a healthy indicator of its combined downstream performance. This\nmetric was suggested by the Foundation and approved by the Grants Council.",
+  "views": 295,
+  "like_count": 7,
+  "word_count": 719,
+  "answer": [
+    {
+      "content": "@seedlatam [/u/seedlatam] @Joxes [/u/joxes] I would like to sponsor this Mission\nRequest if we could reduce the amount of OP to 300K as it reduces the risk of\nthis initial experiment and if this strategy is proven to work we can always use\nthis to justify a larger portion of funding in future seasons. This would still\nenable at least 3 projects to get funding (100k per applicant)\n\nAlso could you remove the “intent 1” from the application and just bold the\n“Intent 3”?\n\n\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/seedlatam/48/5202_2.png]\nseedlatam:\n\n> Intent 1:\n> \n> Intent 3 Grow application devs on the Superchain",
+      "created_at": "2024-07-08T18:43:09.432Z",
+      "trust_level": 2,
+      "username": "Jrocki",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Thanks for the feedback. We’ve adjusted the budget since we agree with your\nsuggestion. The proposal now includes these changes.",
+      "created_at": "2024-07-08T23:05:56.908Z",
+      "trust_level": 2,
+      "username": "seedlatam",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "A North Star Metric has been added at the bottom of this Mission Request in an\neffort to enable the Collective to make data-driven decisions. By using a single\nmetric for each Mission Request, the Collective is better able to evaluate the\nperformance of all the Season 6 missions in a standardized manner, which will be\ncritical when the Collective makes decisions about Intents, budgets, or other\ncritical components of governance.",
+      "created_at": "2024-07-19T20:02:58.607Z",
+      "trust_level": 4,
+      "username": "system",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 0
+    },
+    {
+      "content": "Quick note, even if the mission request talks about The Superchain. All grants\napplying for this mission request must focus on OP Mainnet which is the intent\nthis Mission Request is covering.",
+      "created_at": "2024-07-26T13:46:56.200Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 0
+    },
+    {
+      "content": "As a member of the grants council I will be sponsoring this mission request to\nmove it to token House vote\n\n@seedlatam [/u/seedlatam] can you tag me as the sponsor in the \" Proposing\nDelegate/Citizen\" field?",
+      "created_at": "2024-07-08T23:30:02.467Z",
+      "trust_level": 2,
+      "username": "Jrocki",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-07-08T16:00:37.751Z"
+}

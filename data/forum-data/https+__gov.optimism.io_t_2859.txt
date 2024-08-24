@@ -1,0 +1,60 @@
+{
+  "title": "[DRAFT] [GF: Phase 1 Proposal] Mass Effect",
+  "content": "Project Name: Mass Effect\n\nAuthor Name: Manuel Maccou\n\nNumber of OP tokens requested: 6,500 OP\n\nL2 Recipient Address: 0x4A6737Da9668D09aCE702c3ff5e0dA33a84d28F7\n\nRelevant Usage Metrics: (TVL, transactions, volume, unique addresses, etc.)\nRelevant metrics at our current stage are related to community growth, which we\njust started. So far we have 8 partners representing Web3 protocols, DAOs, and\nuniversities.\n\nOptimism alignment (up to 200 word explanation):\n\nMass Effect is a knowledge transfer protocol that incentivizes 1 on 1\nlearner/expert interactions to educate, build earned credentials, and increase\nthe flow of new information from trusted sources. We are in the community\nbuilding phase, and will be leading free knowledge sessions on various Web3\ntopics. We would like to dedicate a number of these sessions to education around\nOptimism, its technology, and the opportunities it presents. Being awarded these\nfunds will allow us to pay the subject matter experts leading the knowledge\nsessions. Funds will only be used to pay experts who lead sessions related to\nOptimism.\n\nProposal for token distribution (under 1000 words):\n\nHow will the OP tokens be distributed?\n\nEach subject matter expert will be compensated for each session they run. The\namount of OP awarded will be determined based on current prices, the length of\nthe session, and the level of expertise required to teach each topic.\n\nHow will this distribution incentivize usage and liquidity on Optimism?\n\nEducation provides a clear path to mass adoption. By dedicating a number of our\nsessions to sharing knowledge about Optimism, we hope to reduce the knowledge\nbarrier to entry while illuminating the unique problems that Optimism solves. We\nwill onboard many new users to Optimism while giving them the knowledge to\nunderstand why Optimism is so important.\n\nWhy will the incentivized users and liquidity remain after incentives dry up?\nAs long as we can continue to pay our subject matter experts, we can increase\nthe quality of education we give. This will in turn attract more people to our\nsessions, and increase the amount of education we can provide for Optimism.\n\nOver what period of time will the tokens be distributed?\n\nKnowledge sessions start in August and will last as long as there are funds to\ngive.\n\nHow much will your project match in co-incentives?\n\nThe incentives Mass Effect offers are earned credentials. People who have earned\nOP by leading knowledge sessions and receiving positive reviews will be invited\nto the Mass Effect platform at a higher credential level once the platform is\nbuilt. We also invite anyone from the Optimism community or core team to lead\nthese knowledge sessions and be recognized as a key early supporter of Mass\nEffect.\n\nHere is a link to the Mass Effect documentation\n[https://docs.thisismasseffect.com/]",
+  "views": 1642,
+  "like_count": 3,
+  "word_count": 594,
+  "answer": [
+    {
+      "content": "Hey, we have something similar going on in EthernautDAO, with 4000 devs\ncommunity. I would love to get in touch but I haven’t seen any link on your\ndocumentation. How can we reach out to you guys?",
+      "created_at": "2022-07-02T21:05:55.503Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "Hey @Dhannte [/u/dhannte]! My personal Twitter is manuelmaccou. Happy to chat!",
+      "created_at": "2022-07-03T22:59:25.929Z",
+      "trust_level": 0,
+      "username": "ManuelMaccou",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "I think this should come under public goods funding and under gov funding.",
+      "created_at": "2022-07-02T07:23:03.797Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "Public group funding is not live yet, i assume it to be active in few\nweeks/months once other house (Optimism Collective )is active. But this is just\nmy understanding and I am not from OP Team so keep this proposal active as of\nnow and wait for others input too.",
+      "created_at": "2022-07-02T11:22:47.313Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "Ah ok I didn’t realize that was an option thanks. I don’t see that category in\nthe forum drop down. Is there a different process for public goods funding?",
+      "created_at": "2022-07-02T08:34:14.957Z",
+      "trust_level": 0,
+      "username": "ManuelMaccou",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-07-01T22:20:18.599Z"
+}

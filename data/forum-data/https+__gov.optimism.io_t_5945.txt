@@ -1,0 +1,9 @@
+{
+  "title": "A simple tool to lookup delegators of an Optimism delegate",
+  "content": "Hi everyone,\n\nWe’re excited to announce a new feature for Optimism called Delegator tracker!\nWith Delegator tracker, you can easily lookup all the delegators and their token\nbalance for any delegate in Optimism DAO. Unlike most tools that only display\ntotal voting power and count of delegators, Delegator tracker gives you more\ninsight into who those delegators are and how much they have delegated.\n\nTo access the Delegator tracker, simply visit\nhttps://www.karmahq.xyz/dao/optimism/delegators\n[https://www.karmahq.xyz/dao/optimism/delegators]. We hope this new feature will\nbe useful for all Optimism community members, and we welcome your feedback on\nhow we can improve it.\n\n\n\nkarma-linda-optimism-delegators\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/a/a83b487593e1f0913d421cfb2f7304cc6fe6befc_2_690x435.png]\nkarma-linda-optimism-delegators1149×725 57.9 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/a/a83b487593e1f0913d421cfb2f7304cc6fe6befc.png]\n\n",
+  "views": 1151,
+  "like_count": 3,
+  "word_count": 111,
+  "answer": [],
+  "created_at": "2023-05-01T19:24:56.593Z"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "NFTEarth Massive Circulating Supply Dilution Without Governance",
+  "content": "I apologize if this is the incorrect forum for this post, but since much of the\nrecent discussion here seems to be about L2DAO, I figure this is the most\nappropriate location.\n\nI am cross-posting this from the Arbitrum DAO Forum, where Optimism users\nattempted to pass a warning about the behavior of L2DAO and affiliates.\n\nIt has come to my attention that without a governance vote, any discussion, or\neven an announcement, the team elected to bridge 55 million NFTE, over half the\nsupply, over to Ethereum mainnet. Over 20 million NFTE was placed in a Uniswap\npool at an extremely low price. This diluted the circulating supply by over\n100%. Different addresses then bought from the pool, bridged the NFTE to\nOptimism and Arbitrum, and sold into what little liquidity remains. This process\nwas repeated again yesterday, until the liquidity on both L2s was effectively\nreduced to zero. Afterward, the dev-controlled LP was broken, taking the ETH\nused to buy tokens, then reopened without the ETH.\n\nThe team has offered no explanation for these events, and quite frankly I cannot\nthink of any that would be satisfactory. I am now in agreement with this\nproject’s detractors: do not give grants to L2DAO, NFTEarth, or any other\nprojects affiliated with this group. I say this as someone who has invested in\nNFTE.\n\nHere are the two accounts involved in bridging NFTE to mainnet and creating\nuniswap liquidity:\n\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/1/15ffed5190c5c8cad96d0f349439ac7c689c2b50.png]\nEthereum (ETH) Blockchain Explorer\n[https://etherscan.io/token/0x0f9b80fc3c8b9123d0aef43df58ebdbc034a8901?a=0x1559c6a46abf6360df9835cbd9e23f61fe495baf]\n\n\nNFTEARTH (NFTE) TOKEN TRACKER | ETHERSCAN\n[https://etherscan.io/token/0x0f9b80fc3c8b9123d0aef43df58ebdbc034a8901?a=0x1559c6a46abf6360df9835cbd9e23f61fe495baf]\n\nNFTEarth (NFTE) Token Tracker on Etherscan shows the price of the Token $0.00,\ntotal supply 100,000,000, number of holders 73 and updated information of the\ntoken. The token tracker page also shows the analytics and historical data.\n\n\n\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/1/15ffed5190c5c8cad96d0f349439ac7c689c2b50.png]\nEthereum (ETH) Blockchain Explorer\n[https://etherscan.io/token/0x0f9b80fc3c8b9123d0aef43df58ebdbc034a8901?a=0x23bf3551b9d2f84e074142a8b688be5448493fbf]\n\n\nNFTEARTH (NFTE) TOKEN TRACKER | ETHERSCAN\n[https://etherscan.io/token/0x0f9b80fc3c8b9123d0aef43df58ebdbc034a8901?a=0x23bf3551b9d2f84e074142a8b688be5448493fbf]\n\nNFTEarth (NFTE) Token Tracker on Etherscan shows the price of the Token $0.00,\ntotal supply 100,000,000, number of holders 73 and updated information of the\ntoken. The token tracker page also shows the analytics and historical data.\n\n\n",
+  "views": 1977,
+  "like_count": 11,
+  "word_count": 788,
+  "answer": [
+    {
+      "content": "No one discussed, voted on, or consented to a unilateral increase of circulating\nsupply amounting to over double what it was previously. This was done without\nalerting the community, at a price over three times lower than the average price\ntraded on Arbitrum and Optimism’s liquidity pools, with a quantity of NFTE many\ntimes larger than any of the pools on either L2. Ethereum isn’t an L2, either,\nand at no point in recent weeks was it mentioned that the team was considering\nthe creation of such a large liquidity pool on Ethereum mainnet - the most\nrecent discussions pertained to zkSync and Polygon zkEVM. It is also very clear\nwhat the direct consequences of this decision were, as on-chain you can see\nmillions of NFTE being purchased from the pool, bridged, and used to drain\nliquidity on both L2s.",
+      "created_at": "2023-04-07T22:13:09.502Z",
+      "trust_level": 0,
+      "username": "Nepeta",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Hey Weston - So should I understand your statement as a confirmation that the\nNFTEarth Team did indeed dilute the supply on Ethereum as outlined above? Were\nteam wallets also involved in the the subsequent “drain[ing] [of] LPs on both\nL2s”?",
+      "created_at": "2023-04-08T12:36:19.868Z",
+      "trust_level": 2,
+      "username": "alexcutlerdoteth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "It’s concerning to hear about the behavior of L2DAO and affiliates regarding\nNFTE token bridge to Ethereum mainnet. The lack of governance vote, discussion,\nor announcement before bridging over half of the supply is not a good sign.\n\nIt’s essential to remain vigilant and do due diligence before investing in any\nproject in the crypto space.",
+      "created_at": "2023-04-07T22:27:43.766Z",
+      "trust_level": 2,
+      "username": "Mark.eth_De.Fi",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Hey Nepeta, thanks for question. As you may already be aware, the original\npurpose of creating the $NFTE token was that it always remained multichain -\nthis is why it was deployed on Ethereum Mainnet and bridged to multiple networks\n- the goal being to work in tandem with the marketplace, both the token and\nmarketplace being on multiple networks simultaneously, with the aim of the token\nhaving liquidity on several networks. This has all been discussed at length and\nan objective of the project since the last vote on tokenomics was voted for on\nSnapshot on 2/8/2023. Please reference the Snapshot proposal to the community\nfor more specifics: Snapshot\n[https://snapshot.org/#/nftearthl2.eth/proposal/0xd86d03d2e994ec58591967c8ba91f89bc97f03de5fcb3831ff2b7de97d323c68]\n\nAlso please reference the public announcement of the multichain expansion from\nthe team’s Twitter handle about the recent collaboration with Multichain and the\nfurther adoption of additional networks here:\nhttps://twitter.com/NFTEarth_L2/status/1641948466925432832?s=20\n[https://twitter.com/NFTEarth_L2/status/1641948466925432832?s=20]. There have\nbeen well documented obstacles in building liquidity on Optimism, and achieving\nsome higher levels of liquidity on other networks had been a known and clear\ngoal for quite some time. The hope that new liquidity on additional chains would\nbring additional users and awareness to the project. The token is live on\nEthereum Mainnet, Arbitrum, Polygon zkEVM and additionally has been bridged to\nPolygon POS (though no intentions currently exist of attempting to build\nliquidity on Polygon POS). zkSync is still currently in the process of being\nintegrated.",
+      "created_at": "2023-04-07T21:27:59.717Z",
+      "trust_level": 2,
+      "username": "0xWeston",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "It’s worth noting that before the bridging and dumping occurred, the team\npromoted the token price on Twitter via this tweet:\nhttps://twitter.com/NFTEarth_L2/status/1643204478571540481\n[https://twitter.com/NFTEarth_L2/status/1643204478571540481]. (Now down 99%)\nThis raises suspicions of a ‘pump and dump’ scheme. The teams actions speak\nlouder than their words.",
+      "created_at": "2023-04-07T22:18:31.742Z",
+      "trust_level": 2,
+      "username": "jamesbond007",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2023-04-07T19:10:54.050Z"
+}

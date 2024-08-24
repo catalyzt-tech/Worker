@@ -1,0 +1,60 @@
+{
+  "title": "AIRDROP #2 eligibility process suggestions",
+  "content": "Well, actually I would like your opinion for the issue of airdrop #2 I think it\nwould be good to implement BrightID, Atlantis work starting from there to be\neligible since by these means there would be no Bot accounts, nor multi-accounts\nthat would make a more real launch of who is supporting the optimism project",
+  "views": 3163,
+  "like_count": 118,
+  "word_count": 2283,
+  "answer": [
+    {
+      "content": "I am not familiar with BrightID but I don’t like the idea of Digital IDs because\nI rather value my anonymity.\n\nThat’s what I love about Crypto and what made me join it.",
+      "created_at": "2022-12-14T08:07:40.792Z",
+      "trust_level": 2,
+      "username": "S4t0sh1",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 12
+    },
+    {
+      "content": "BrightID is a good start but in current form you need to attend a zoom call,\nshow your face, which could be recorded, just to verify which is not ideal\napproach towards Identity",
+      "created_at": "2022-12-14T16:24:35.332Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "I think Galaxy OATs is a good and simple way to block Sybil-attack.\nBecause when you connect with galaxy it will ask you for Twitter and Discord and\nverify with your wallet.\nBrightID is too difficult to use.",
+      "created_at": "2023-01-10T11:18:22.876Z",
+      "trust_level": 1,
+      "username": "wasFree",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "Gitcoin passport best solution for the Sybil attack",
+      "created_at": "2023-01-17T22:18:22.635Z",
+      "trust_level": 1,
+      "username": "Gurcan",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "I like BrigthID but if this is only for anti-Sybil attacks, we need\nAttestationStation to work for a few months and we will have our participants.\nNo need for a zoom call, keep your anonymity, no mobile install, on chain and op\nnative.",
+      "created_at": "2022-12-19T21:28:07.303Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 4
+    }
+  ],
+  "created_at": "2022-12-14T07:36:48.376Z"
+}

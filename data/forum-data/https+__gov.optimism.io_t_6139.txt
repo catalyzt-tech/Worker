@@ -1,0 +1,60 @@
+{
+  "title": "[Final] Optimism Solidity Survivor Bootcamp",
+  "content": "S4 Intent: 3\n\n\nPROPOSED MISSION: OPTIMISM SOLIDITY SURVIVOR BOOTCAMP\n\n\nPROPOSAL TIER [https://gov.optimism.io/t/collective-trust-tiers/5877/2]: EMBER\n\n\nBASELINE GRANT AMOUNT: 48,484 OP\n\n\n% OF TOTAL AVAILABLE INTENT BUDGET: 04.85%\n\n\nPLEASE CHECK HERE IF ACCESS TO UPFRONT CAPITAL IS A BARRIER TO COMPLETING YOUR\nMISSION AND YOU WOULD LIKE TO BE CONSIDERED FOR A SMALL UPFRONT CASH GRANT:\n[YES]\n\n\nALLIANCE NAME: BCAMP\n\n\nALLIANCE LEAD: LIZARDBRAIN\n\n\nCONTACT INFO: LIZARDBRAIN@BCAMP.DEV\n\n\nL2 RECIPIENT ADDRESS: 0X0E73F03B5B553CD295842CB5F9A04768B6225AAC\n\n\nPLEASE LIST THE MEMBERS OF YOUR ALLIANCE AND LINK TO ANY PREVIOUS WORK:\n\nLizardBrain - Director\n\n * BCAMP [https://bcamp.dev/] - Director\n * yAcademy [https://yacademy.dev/] - Core Team Member\n * Icewater.money [https://icewater.money/] - Operations\n\nSamuel Miranda - Applicant Outreach\n\n * BCAMP [https://bcamp.dev/] - Communications\n\nObakeng Mothibedi - Participant Support\n\n * BCAMP [https://bcamp.dev/] - Operations\n\nJustin Bebis - Partnerships\n\n * Byte Masons [https://www.bytemasons.com/] - Chief Executive\n * Reaper.farm [https://www.reaper.farm/] - Lead Architect\n * Granary.finance [https://granary.finance/markets] - Lead Architect\n * BCAMP [https://bcamp.dev/] - Guest Speaker\n\n\nPLEASE EXPLAIN HOW THIS MISSION WILL HELP ACCOMPLISH THE ABOVE INTENT:\n\nA bootcamp could be one of the most effective ways to share the Optimistic\nVision if the bootcamp experience is shared via live streams, articles, and\nvideos about the participant’s experience. One bootcamp doesn’t scale very well,\nbut real life stories of developers making a transition into Blockchain will\nresonate. It will also allow the participants, who will be experienced\ndevelopers that will contribute to the ecosystem, to internalize the Optimistic\nvision by having them build projects that have been proposed as ecosystem\ncontributions. (Optimism Ecosystem Contributions 🔴✨ · GitHub\n[https://github.com/orgs/ethereum-optimism/projects/31/views/3]). For nerds like\nus, watching developers overcome challenges and build cool stuff, could be as\nengaging as Survivor itself.\n\nhttps://youtu.be/w9AHNbeSr-o [https://youtu.be/w9AHNbeSr-o]\n\nThis experience would be a 6 session virtual program where participants choose a\nproject from the proposed contributions or propose their own project to build on\nOptimism. Each session focuses on one aspect of the development process as\nfollows:\n\n * Session 1: Idea Generation and Proposals\n * Session 2: Architecture and AI\n * Session 3: Production Smart Contract\n * Session 4: Web3 Front-End Development\n * Session 5: Security\n * Session 6: Final Project Judging\n\nFinal project judges and guest speakers each week will be invited from across\nthe Optimism Ecosystem to provide feedback on the projects and connect with the\ndeveloper participants.\n\nWe make the entire experience interesting by rating and giving candid feedback\non projects during every session and eliminating the lowest rated project each\nweek. This candid feedback and elimination anticipation makes for good content.\nWe plan on live streaming sessions 2-6 and doing write-ups to document how the\nparticipants explore and overcome challenges to increase the awareness of people\nbuilding on Optimism. One participant in the first cohort of BCAMP leveraged his\nexperience to land a role as a smart contract developer less than one month\nafter the cohort which increased his salary over 25%, and continues to excel in\nthe role.\n\n\nWHAT MAKES YOUR ALLIANCE WELL-SUITED TO EXECUTE THIS MISSION?\n\nLizardBrain is the director of BCAMP, a new Solidity bootcamp focused on\nexperiential learning, and was one of the original team members that started a\nblockchain security program called yAcademy in 2021. Along with Sam and Obakeng,\nthe team has run multiple successful bootcamps through the entire process of\nfinding and screening candidates, managing the sessions, and helping\nparticipants find developer roles where they can thrive after the bootcamp. We\nhave the developer network, software infrastructure, and processes to smoothly\nrun bootcamps.\n\nJustin Bebis is an experienced blockchain developer and active community member\nin the Optimism Ecosystem. He helps ensure that the curriculum and projects are\nrelevant and up to date with the needs of the industry. He also has connections\nwith blockchain media outlets to facilitate the sharing of stories and content.\n\nWe bring a modern reality approach to education that makes the bootcamp\nexperience much more memorable than traditional learning environments. The\nbootcamp is not just a training program; it’s a transformative learning\nenvironment that stimulates curiosity, fosters a thirst for knowledge, and most\nimportantly, kindles the internal spark of motivation that we call “ignition\n[https://bcamp.substack.com/p/igniting-motivation-to-master-solidity]” in\nparticipants.\n\n\nPLEASE LIST A CRITICAL MILESTONE\n[https://gov.optimism.io/t/token-house-grant-policies/5833]. THE CRITICAL\nMILESTONE SHOULD BE A MEASURE OF WHETHER YOU’VE MADE BEST EFFORTS TO EXECUTE\nWHAT IS OUTLINED IN THIS PROPOSAL OR NOT. IF YOU FAIL TO ACHIEVE YOUR CRITICAL\nMILESTONE, YOUR GRANT MAY BE CLAWED BACK.\n\n 1. Graduate a cohort of 20 developers that build projects on Optimism.\n\n\nHOW SHOULD TOKEN HOUSE DELEGATES MEASURE PROGRESS TOWARDS THIS MISSION: THESE\nSHOULD FOCUS ON PROGRESS TOWARDS COMPLETION. INCLUDING EXPECTED COMPLETION DATES\nFOR EACH IS RECOMMENDED.\n\n * Get at least 50 bootcamp applicants - By July 30th, 2023\n * Review applicants and make acceptance decisions for up to 30 developers -\n   August 1st, 2023\n * Run the 6 session bootcamp - September 18th, 2023\n * Measure the overall engagement of session live streams, participant story\n   write-ups, and how-to articles from the bootcamp - Ongoing\n\n\nHOW SHOULD BADGEHOLDERS MEASURE IMPACT UPON COMPLETION OF THIS MISSION? THESE\nSHOULD BE FOCUSED ON PERFORMANCE AND MAY BE USED BY BADGEHOLDERS TO ASSESS YOUR\nMISSION’S IMPACT IN THE NEXT ROUND OF RETROPGF.\n\n * KPI 1 - Bootcamp graduates\n\n * KPI 2 - Graduates placed in Jobs\n\n * KPI 3 - Total Engagement with bootcamp related articles, videos, and podcasts\n   shared via social media.\n\n\nBREAKDOWN OF MISSION BUDGET REQUEST:\n\n * Bootcamp Participants - 5 MVP participants and 3 winning project teams will\n   each receive awards 1K OP (8K total)\n * Organizers - Will be reimbursed up to 6K OP each (24k total) based on\n   contributions.\n * Content Creation - 18K OP for generating articles, videos, and podcasts about\n   the projects, participants, and experience and will be shared with the\n   broader ecosystem.\n\n\nI CONFIRM THAT MY GRANT WILL BE SUBJECT TO CLAWBACK FOR FAILURE TO EXECUTE ON\nCRITICAL MILESTONES: [YES]\n\n\nI CONFIRM THAT I HAVE READ AND UNDERSTAND THE GRANT POLICIES\n[https://gov.optimism.io/t/token-house-grant-policies/5833]: [YES]\n\n\nI UNDERSTAND THAT I WILL BE REQUIRED TO PROVIDE ADDITIONAL KYC INFORMATION TO\nTHE OPTIMISM FOUNDATION TO RECEIVE THIS GRANT: [YES]:\n\n\nI UNDERSTAND THAT I WILL BE EXPECTED TO FOLLOWING THE PUBLIC GRANT REPORTING\nREQUIREMENTS OUTLINED HERE\n[https://gov.optimism.io/t/suggested-public-reporting-requirements-for-grantees/4176]:\n[YES]:",
+  "views": 1745,
+  "like_count": 12,
+  "word_count": 1560,
+  "answer": [
+    {
+      "content": "I’ve helped a bit with this bootcamp and think it’s one of the more realistic\nlearning experiences developers can get in this space. Would be an amazing way\nto onboard new and interesting projects.\n\nI was also in the first round of yAcademy, which LizardBrain also led, and\nthought it was one of the better experiences I had in a developer fellowship\nprogram.\n\nFull support!",
+      "created_at": "2023-06-23T19:14:31.597Z",
+      "trust_level": 2,
+      "username": "bebis",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "I am an Optimism delegate with sufficient voting power\n[https://vote.optimism.io/delegate/griff.eth], and I believe this proposal is\nready to move to a vote",
+      "created_at": "2023-06-27T15:42:55.034Z",
+      "trust_level": 2,
+      "username": "Griff",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Devs graduating out of this Bootcamp will deploy their dapps on OPTIMISM\nnetwork. Thanks for backing.",
+      "created_at": "2023-06-20T04:06:20.356Z",
+      "trust_level": 0,
+      "username": "nuthan_2x",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "I am one of the Synthetix Ambassadors, and a Optimism Badgeholder. I am an\nOptimism delegate [Delegate Commitments - #65 by mastermojo\n[https://gov.optimism.io/t/delegate-commitments/235/65]] with sufficient voting\npower, and I believe this proposal is ready to move to a vote…",
+      "created_at": "2023-06-26T12:26:36.493Z",
+      "trust_level": 2,
+      "username": "mastermojo",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Great initiative, can help increase awareness and lessen entry to web3\ndevelopment for those interested",
+      "created_at": "2023-06-21T06:36:58.270Z",
+      "trust_level": 1,
+      "username": "blocky",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2023-06-19T22:47:05.807Z"
+}

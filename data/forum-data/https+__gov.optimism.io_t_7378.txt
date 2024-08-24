@@ -1,0 +1,60 @@
+{
+  "title": "Optimism Fractal Weekly Events",
+  "content": "Hey Optimists!\n\nYou’re invited to join Optimism Fractal events on Mondays at 17 UTC :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]:sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]\n\nOptimism Fractal is a community dedicated to fostering collaboration and\nawarding public goods creators on Optimism. Our weekly events provide a perfect\nplace to collaborate with innovators, promote your work, and earn awards for\nhelping the Optimism Collective. At each event we play the Respect Game, a\nprofoundly helpful consensus game that provides a fun way to fairly recognize\npositive impact.\n\nOur next event is happening today and we’d love to see you there. You can join\nour weekly events [https://lu.ma/optimismfractal], watch videos\n[https://optimystics.io/videos] to follow our progress, and explore\nOptimismFractal.com [http://optimismfractal.com/] to learn more. Optimism\nFractal is presented by Optimystics, which you can learn more about in the post\nbelow. Feel free to reach out with any questions or comments below or on the\nOptimism Fractal discord.\n\nLooking forward to seeing you there! :sun_with_face:\n[https://emoji.discourse-cdn.com/twitter/sun_with_face.png?v=12]\n\ntwitter.com [https://twitter.com/optimystics_/status/1746814048740499645]\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/f/fc7a692f98608fe85be4927ae330149236ed38d1.jpeg]\n\nOPTIMYSTICS [https://twitter.com/optimystics_/status/1746814048740499645]\n\n@optimystics_ [https://twitter.com/optimystics_/status/1746814048740499645]\nIt's time to grow Optimism🌱🔴 You’re invited to join @OptimismFractal\n[https://twitter.com/OptimismFractal] today to collaborate with innovators,\npromote your work, and earn awards by playing the Respect Game! Event Page:\nlu.ma/optimismfractal [http://lu.ma/optimismfractal] Videos:\nOptimismFractal.com/media [http://OptimismFractal.com/media] Learn More:\nOptimystics.io [http://Optimystics.io]\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/9/90a35806bf9f9f7a357330ebb1f908f1323eca88_2_690x421.jpeg]\n8:38 AM - 15 Jan 2024\n[https://twitter.com/optimystics_/status/1746814048740499645] 6 5\n\n",
+  "views": 1333,
+  "like_count": 29,
+  "word_count": 3272,
+  "answer": [
+    {
+      "content": "Hey all! :sparkles: [https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]\n\nEveryone is invited to join Optimism Fractal event today. Please find more\ndetails in the shared tweet and find the latest episode below. Let’s grow\nOptimism together :seedling:\n[https://emoji.discourse-cdn.com/twitter/seedling.png?v=12]:red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]\n\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/7/7f0e0014cbdc784802a4c786f3d5f8b739b9a431.jpeg]\nhttps://www.youtube.com/watch?v=2x4xU2J8Jak\n\nWhat’s the best way to evaluate public goods? In our last event of the year, we\nmeet optimists, play a fun consensus game to rank each other’s contributions,\nand brainstorm about Optimism Fractal :dizzy:\n[https://emoji.discourse-cdn.com/twitter/dizzy.png?v=12]",
+      "created_at": "2024-01-22T17:11:15.743Z",
+      "trust_level": 2,
+      "username": "Rosmari",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Hey all!\n\nThe Optimism Fractal Council approved a proposal\n[https://snapshot.org/#/optimismfractal.eth/proposal/0x0cbb832577241edbd6ee09bdedd6c01a37b53de5df61fc510232dca55bdf4f7f]\nto change the meeting time of weekly events to Thursdays at 17 UTC going\nforward. The main reason for this change was to eliminate a scheduling conflict\nwith the Optimism Grants Council Office Hours, so now everyone can easily join\nboth events. This proposal was approved with Optimism Fractal’s consensus\nprocess [https://optimismfractal.com/details#e42fb7c2317c49bb92fc4165c01b20ae]\nand we can use same process if we ever want to make other changes to the time in\nthe future.\n\nThe next Optimism Fractal event will be on this Thursday, March 7th. I just\nupdated the main event page [https://lu.ma/optimismfractal] and planning\nsessions event page to reflect the new time. I hope everyone had an awesome\nweekend and am looking forward to seeing you on Thursday! :smiley:\n[https://emoji.discourse-cdn.com/twitter/smiley.png?v=12] :sunflower:\n[https://emoji.discourse-cdn.com/twitter/sunflower.png?v=12]",
+      "created_at": "2024-03-04T14:33:13.743Z",
+      "trust_level": 2,
+      "username": "DanSingjoy",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Hello friends :sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]\n\nYou’re invited to join the 18th Optimism Fractal event on Thursday at 17 UTC,\nour new weekly meeting time!\n\nAs a reminder, the Optimism Fractal Council changed the time of weekly events,\nabout which you can find more details above. Optimism Fractal is dedicated to\nfostering collaboration and awarding public goods creators on Optimism. We’d\nappreciate your help to spread the word for communities pioneering decentralized\ngovernance on Optimism by sharing this cast\n[https://warpcast.com/rosmari/0x97950b9d].\n\nYou can join the event in the zoom room [https://us06web.zoom.us/j/82510562614],\nRSVP for weekly reminders here [http://lu.ma/optimismfractal], and watch\nexciting event episodes at OptimismFractal.com [https://optimismfractal.com/] to\nexperience the future of collaboration. Learn more about the Optimism Fractal\nconsensus process in our 13th episode below. Enjoy! :sunflower:\n[https://emoji.discourse-cdn.com/twitter/sunflower.png?v=12]\n\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/6/638a6dd1c9f634166b995d8c269f5ae3aa10955f.jpeg]\nhttps://www.youtube.com/watch?v=Y0yTbDDhmj4\n\nWhat is the best way to make collective decisions? After thoughtful social\ngames, we debut an innovative consensus process and enter a new era of\ncommunity-led governance with the first Optimism Fractal Council :man_mage:t4:\n[https://emoji.discourse-cdn.com/twitter/man_mage/4.png?v=12]:ballot_box:\n[https://emoji.discourse-cdn.com/twitter/ballot_box.png?v=12]",
+      "created_at": "2024-03-07T12:14:39.827Z",
+      "trust_level": 2,
+      "username": "Rosmari",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Hi everyone,\n\nLet’s meet up - we’d love to connect with more optimists! Optimism Fractal is a\ncommunity on a mission to grow Optimism :seedling:\n[https://emoji.discourse-cdn.com/twitter/seedling.png?v=12]:red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]\n\nWe cordially invite you to join our 13th Optimism Fractal event today, January\n29th at 17 UTC. You can expect an introductory presentation about Optimism\nFractal, a brief outline on how to play the Respect Game, and an awesome\nexperience playing with other optimists. This innovative consensus game is\ndesigned to award public goods creators, foster collaborations, and create\nprofound benefits for the Optimism Collective!\n\nOptimism Fractal events are helpful for builders, creators, and anyone\ninterested in Optimism. You can join in the zoom room\n[https://us06web.zoom.us/j/82510562614] and RSVP for our upcoming weekly events\nhere [https://lu.ma/optimismfractal]. Feel free to share any questions or\ncomments below or in our Discord [https://discord.gg/dJgrP8ekYC]. These events\nare recorded and shared on social media, so please only join if you are\ncomfortable with this.\n\nLet’s grow Optimism and summon Ether’s Phoenix together. Looking forward to\nseeing you there!\n\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/0/05415dee484103ce4f0fea47edb1e61cc370c0e3.jpeg]\nhttps://www.youtube.com/watch?v=ood7Rzgb2Bw\n\nHow do we award innovators building a protopian future? We play the Respect Game\nwith open source tools to evaluate impact, build relationships, and foster\ncollaborations in Optimism :hammer_and_wrench:\n[https://emoji.discourse-cdn.com/twitter/hammer_and_wrench.png?v=12]\n:heart_on_fire: [https://emoji.discourse-cdn.com/twitter/heart_on_fire.png?v=12]\n\nP.S. You can watch our 10th event here :smiley:\n[https://emoji.discourse-cdn.com/twitter/smiley.png?v=12]:point_up_2:t3:\n[https://emoji.discourse-cdn.com/twitter/point_up_2/3.png?v=12]",
+      "created_at": "2024-01-29T16:34:38.396Z",
+      "trust_level": 2,
+      "username": "Rosmari",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Hey optimists! Open invitation to join Optimism Fractal today at 17 UTC\n:red_circle: [https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]\n:sparkles: [https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]\n\nOptimism Fractal weekly events provide a great way to collaborate with\ninnovators, promote your work, and earn awards by playing the Respect Game. You\ncan RSVP on our event page [https://lu.ma/optimismfractal] and watch our\nprevious videos at OptimismFractal.com [http://OptimismFractal.com] :sunflower:\n[https://emoji.discourse-cdn.com/twitter/sunflower.png?v=12]\n\nFeel free to reach out with any questions or comments. You can find the zoom\nroom here [https://us06web.zoom.us/j/82510562614]. Hope to see you there :star2:\n[https://emoji.discourse-cdn.com/twitter/star2.png?v=12]\n\nMore details in the below tweet:\n\ntwitter.com [https://twitter.com/optimystics_/status/1754535814078345257]\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/f/fc7a692f98608fe85be4927ae330149236ed38d1.jpeg]\n\nOPTIMYSTICS [https://twitter.com/optimystics_/status/1754535814078345257]\n\n@optimystics_ [https://twitter.com/optimystics_/status/1754535814078345257]\nJoin us at the @OptimismFractal [https://twitter.com/OptimismFractal] event\ntoday at 17 UTC for a joyful experience! Dive into the Respect Game where\nparticipants share their work and evaluate each other's contributions to\n@Optimism [https://twitter.com/Optimism] 🌟 RSVP: lu.ma/OptimismFractal\n[http://lu.ma/OptimismFractal] Respect Game: Optimystics.io/RespectGame\n[http://Optimystics.io/RespectGame] 🧵👇🏽\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/4/44af325f03ace1cfcf81834031f0aa37d3a394c4_2_690x421.jpeg]\n4:01 PM - 5 Feb 2024\n[https://twitter.com/optimystics_/status/1754535814078345257] 6 6\n\n",
+      "created_at": "2024-02-05T16:53:38.581Z",
+      "trust_level": 2,
+      "username": "Rosmari",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2024-01-15T16:18:51.197Z"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Next generation NFTs/NFT2.0 - what it should be",
+  "content": "What features are lacking in current generation of NFTs to be real NFT2.0? What\nare the most important products to be built on Optimism ?",
+  "views": 80,
+  "like_count": 1,
+  "word_count": 46,
+  "answer": [
+    {
+      "content": "I think the NFT lacks interoperability. It would be great if NFTs will dynamic\nand could change their look and capabilities",
+      "created_at": "2024-07-18T07:59:27.470Z",
+      "trust_level": 0,
+      "username": "Envelop",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-07-11T15:43:52.926Z"
+}

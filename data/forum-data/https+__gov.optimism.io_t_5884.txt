@@ -1,0 +1,40 @@
+{
+  "title": "Collective Representative Structure Framework",
+  "content": "COLLECTIVE REPRESENTATIVE STRUCTURE FRAMEWORK\n\nSpecial thanks to @alisha.eth [/u/alisha.eth], @GFXlabs [/u/gfxlabs], and\n@kaereste [/u/kaereste] for feedback and suggestions as part of the Feedback\nCommission\n[https://gov.optimism.io/t/introducing-the-collective-feedback-commission/7863.]\n\nThe Collective is made up of several structures (Boards, Councils, and\nCommissions) that are comprised of representatives. These representative\nstructures manage Collective resources or make decisions on behalf of\ntokenholders or Citizens. These structures fulfill roles otherwise filled by the\nFoundation or voters and therefore play a critical role in the decentralization\nof the Collective.\n\nThe Foundation may authorize representative structures aligned with the\nCollective Intents. These structures must be accompanied by a Charter clearly\noutlining the responsibilities of members, the parameters around membership, and\nany associated budget. Any changes to the Charter must follow the same process\nfor change that governs the Operating Manual\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md].\n\nTo facilitate a constrained testing environment, participants in the initial\niteration of a representative structure may be determined via qualifying\ncriteria or appointed by the Foundation, subject to ratification by Governance.\nAfter the structure’s initial term has ended, membership should be recalculated\nor renewed via a standard, open election process occurring on a regular basis as\nreasonably calibrated to the given role.\n\nAll representative structures must have Leads. The Lead is always a\nnon-voting/non-signing member, so they remain focused on procedure and\noperations and may be considered unbiased as they don’t participate in decision\nmaking.\n\nRepresentative structures will be authorized by the Foundation for an initial\npilot period (at least one Season.) After this pilot, structures must be renewed\nby governance. After one Season of successful renewal, proof of concept\nstructures will become persistent structures in the Collective. Persistence is\nimportant as mature structures may require non-trivial support, such as legal\nentities and multi-sig operations, as they mature into more autonomous\nstructures in the Collective.\n\nWhile persistent structures will be assumed to be renewed each Season, delegates\nmay submit Dissolution Proposals if they believe a persistent structure is no\nlonger fulfilling its mandate and should be discontinued. This should be\ndetermined by referencing the retrospectives published by Leads at the end of\neach Season and, increasingly, via data-driven analysis on the structure’s\ncontribution towards the target metrics under each Intent.\n\nThe current list of representative structures in the Collective is detailed\nbelow, by type:\n\nPersistent Structures\n\n * Grants Council\n\nProof of Concept Structures\n\n * Code of Conduct Council\n * Security Council\n * Developer Advisory Board\n * Anticapture Commission\n\n*The Feedback Commission is not listed as it is not expected to continue beyond\nan initial period as it transitions to a contribution path.\n\nAll representatives may be removed from their position for failing to uphold the\nresponsibilities outlined in the relevant Charter or for failing to act with\nhonesty, integrity, and transparency. If there is a vote to remove a\nrepresentative, the Lead, or a simple majority of the remaining membership, may\nappoint a replacement for the remainder of the term.\n\nRepresentatives may choose to step away from their role during the period\nbetween notice of a removal vote and the results of that vote. In the meantime,\nany non-voting Leads may temporarily fill a voting representative’s role. If a\nLead is removed, the same procedure applies, and an existing member elected by a\nsimple majority of council members may temporary replace the Lead during this\nperiod. This temporary replacement may continue voting in their usual capacity\nduring this short interim period.\n\nIf a representative wishes to resign before the end of their term, they must\nappoint a replacement and communicate this change on the forum at least 7 days\nprior to this change taking effect.\n\nUnless otherwise specified in a Charter, in the event any of the above action\ncause membership to fall below a pre-determined threshold, or to half of the\noriginal membership, operations will temporarily cease, or be transferred to the\nFoundation. In this case, the Foundation will facilitate a process with the\ncommunity to assess the best way to proceed.\n\nRepresentatives should only serve in one elected position per Season. There are\nno term limits for representatives, but they may be implemented in the future if\nthe need arises.",
+  "views": 2710,
+  "like_count": 27,
+  "word_count": 1404,
+  "answer": [
+    {
+      "content": "The above Framework has been updated to incorporate Commissions and Boards and\nto update procedures based on practical feedback from Leads and general feedback\nfrom delegates.\n\nImportant updates:\n\n * If there is a vote to remove a representative, the Lead, or a simple majority\n   of the remaining membership, may appoint a replacement for the remainder of\n   the term.\n * Representatives should only serve in one elected position per Season.",
+      "created_at": "2024-05-09T20:38:50.720Z",
+      "trust_level": 4,
+      "username": "system",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 5
+    },
+    {
+      "content": "The Collective Council Framework has been updated to:\n\n * Clarify the Foundation may appoint the initial membership of a Council but\n   continued membership will be subject to election\n * Add the concept of persistent Councils\n * Update Code of Conduct procedures to include the Code of Conduct Council(s)\n * Clarify that Commissions and Advisory Boards do not fall under this Framework",
+      "created_at": "2023-09-28T20:21:05.029Z",
+      "trust_level": 4,
+      "username": "system",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 4
+    },
+    {
+      "content": "The Collective Council Framework has been updated to specify a policy for Lead\nresignation and a procedure in the event membership falls below a threshold.",
+      "created_at": "2024-01-29T21:27:02.573Z",
+      "trust_level": 4,
+      "username": "system",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2023-04-13T20:29:07.964Z"
+}

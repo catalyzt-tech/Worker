@@ -1,0 +1,60 @@
+{
+  "title": "[FINAL] Create and maintain the 'Optimism Vision Reservoir'",
+  "content": "S4 - Intent 3: “Spread Awareness of the Optimistic Vision”\n\nProposed Mission: Create and Maintain the ‘Optimism Vision Reservoir’\n\nIn nature, a reservoir is a place where water is collected and stored to be used\nwhen it’s needed. Drawing a parallel to this concept, the “Optimism Vision\nReservoir” is intended to be a collection point for the diverse interpretations,\nexpressions, and reflections of Optimism’s vision.\n\nThe objective of this mission is to develop and manage a curated Notion-based\ncollection of diverse resources, aimed at deepening understanding and fostering\nengagement with Optimism’s vision and values.\nThis initiative will gather scattered yet valuable content, consolidating it\ninto a robust tool for those wishing to explore and disseminate Optimism’s\nvision.\n\nProposal Tier : Ember\n\nPlease verify that you meet the qualifications for submitting at the above Tier:\nYes\n\nBaseline grant amount: 4K OP\n\n% of total available Intent Budget: 0,4%\n\nPlease check here if access to upfront capital is a barrier to completing your\nMission and you would like to be considered for a small upfront cash grant: No.\n\nAlliance name: Optimism Vision Reservoir\n\nAlliance Lead: Latruite.eth\n\nContact info: latruite@gmx.com [latruite@gmx.com]\n\nL2 recipient address: 0x66D071A20d7942767739BBca130E08e4848D12Bc\n\nPlease list the members of your Alliance and link to any previous work:\n\nLatruite.eth\n\nPlease explain how this Mission will help accomplish the above Intent:\n\nIn regard to Optimism’s vision, we have The Optimistic Vision\n[https://www.optimism.io/vision]. This is our “manifesto” so to speak :innocent:\n[https://emoji.discourse-cdn.com/twitter/innocent.png?v=12]. but beyond these\nfive paragraphs, different members of the Collective have already expressed\nthemselves to detail this vision, to express their interpretation and what this\nmeans deeply or very concretely for them.\nThey did it in interviews, articles, conferences, podcasts, blogs, videos. At\npresent, these different resources are scattered across various platforms.\n\nThe mission of the ‘Optimism Vision Reservoir’ is to gently gather these\ndispersed pearls, forming a hub of resources. This reservoir will be a useful\ntool for better sharing the essence of Optimism’s vision, potentially inspiring\ncontent creators, ambassadors, and community members along the way.\n\nIn practical terms, the mission entails creating a Notion site to consolidate\nand make these resources accessible. This involves\n\n 1. meticulously selecting resources, providing their contextual background,\n    linking to the original document, and preparing summaries and text\n    transcriptions for audio-visual content.\n    Beyond the core of Optimism’s vision (whose resources are currently not\n    vast), the project also seeks to introduce content on broader concepts like\n    ‘Public Goods’, ‘Impact curation’, ‘regenerative finance’,…\n\n 2. From these resources, a lexicon will also be created around the central\n    terms and concepts of the Optimism vision.\n\nThis ‘Reservoir’ is intended to serve not just as a knowledge repository but\nalso, ideally, as a platform that encourages deeper understanding, and content\ncreation centered on Optimism’s values and vision.\n\nThis resource is naturally expected to evolve over the long term (let’s be\nhonest, the resources are not plentiful at this time). It will be particularly\ncrafted to integrate future additions, including the hopefully forthcoming\ncontent produced during Season 4 (Intent 3 missions.)\n\nWhat makes your Alliance well-suited to execute this Mission?\n\nIn my day-to-day work as a health educator, I find enjoyment in analyzing,\nsummarizing, and curating resources and documents, which aligns well with this\nmission’s objectives.\n\nI’ve always had a keen interest in environmental and climate issues. In 2021, I\nbecame fascinated by the regenerative finance movement on Ethereum, largely\ninspired by the work of Kevin Owocki. Through this journey, I discovered\nOptimism and was captivated by its ambitious vision and the values it promotes.\n\nAlthough I’m more on the introverted side, I take great pleasure in writing.\nOver the past few months, I’ve dedicated my time to learn about Optimism and\nabsorb as much content as possible. I’ve collected some resources and content,\nbut have yet to find the good channel to share them - this mission provide that\nopportunity.\n\nWhile I’m new to contributing to the Optimism collective, I’ve designed the\nmission to be realistic, reflecting my current experience level, and I believe\nthe grant amount requested is reasonable to start this project.\n\nPlease list a critical milestone:\n\nCritical Milestone : Mission goal by end September : Completion of the first\ncollection with at least 20 entries (documented, summarized, and accessible\nresources or lexicon concept ).\n\nHow should Token House delegates measure progress towards this Mission\n\nBenchmark Milestone 1 (10th July 2023) The Notion site is designed, live and has\nits first resource presentation online. This includes a contextualized,\nsummarized presentation of a first content resource (with a transcription\navailable if it’s audio-visual content).\n\nBenchmark Milestone 2 (15th August 2023): 7 resource contents are live and\naccessible on the site.\n\nBenchmark Milestone 3 (15th September 2023): 15 entries presented.\n\nHow should badgeholders measure impact upon completion of this Mission?\n\nKPI 1: Number of visits to the Notion site. :\nMinimum (Achieved): 50 visits\nAverage (Good): 150 visits\nExcellent (Top): 400+ visits\n\nKPI 2: Number of pieces of content created by creators who cite, mention, or\nlink to the Optimism Vision Reservoir.\nMinimum (Achieved): 5 pieces of content\nAverage (Good): 15 pieces of content\nExcellent (Top): 25+ pieces of content\n\nKPI 3: Quantity and diversity of resources-entries within the collection\n(Lexicon terms included)\nMinimum (Achieved): 20 entries\nAverage (Good): 30 entries\nExcellent (Top): 40+ entries\n\nBreakdown of Mission budget request: The 4,000 OP grant is primarily meant to\nfairly compensate for the time I’ll be devoting to this project, estimated at\n6-8 hours per week. It will also cover the costs of a Notion subscription.\n\nI confirm that my grant will be subject to clawback for failure to execute on\ncritical milestones: Yes\n\nI confirm that I have read and understand the grant policies: Yes\n\nI understand that I will be required to provide additional KYC information to\nthe Optimism Foundation to receive this grant: Yes\n\nI understand that I will be expected to following the public grant reporting\nrequirements outlined here: Yes:",
+  "views": 2512,
+  "like_count": 74,
+  "word_count": 2912,
+  "answer": [
+    {
+      "content": "Small Weekly Updates :\n\nNotion Website is Live :sparkler:\n[https://emoji.discourse-cdn.com/twitter/sparkler.png?v=12] at\nhttps://optimism-vision-reservoir.com [https://optimism-vision-reservoir.com]\n\nNew Entries This Week:\n\n * Added a dedicated page for the Retro PGF-Podcast by @Michael [/u/michael]\n   (Included notes on EP02 with @Gonna.eth [/u/gonna.eth] ) : is it ok for you,\n   Chiefs ?\n\n * Compiled a collection of six video resources around RPGF (to be continued)\n\n * Summary of Mark Tyneway’s ITW for the Green Thru podcast\n\nSite Improvements:\n\n-Added Forms for readers to suggest new entries\n-Published an ‘About Me’ page\n\nRoadmap for Next Two Weeks:\n\n-Develop the glossary\n-Officially launch the site with Twitter announcement\n-Add a page dedicated to the Delegate Corner podcast by @Sinkas [/u/sinkas]\n& Continue to fill the reservoir with more content\n\nAll feedback is appreciated and welcome!",
+      "created_at": "2023-08-03T14:31:06.464Z",
+      "trust_level": 2,
+      "username": "latruite.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "I like the (grant size/impact) ratio for this one.\n\nI am an Optimism delegate\n[https://gov.optimism.io/t/delegate-commitments-old/235/2] with sufficient\nvoting power and I believe this proposal is ready to move to a vote.",
+      "created_at": "2023-06-23T12:37:27.150Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 4
+    },
+    {
+      "content": "Hi and thank you for your message. It’s really a work in progress, still in the\nearly stages. But I can already give you a link to the beta version (\n:sweat_smile: [https://emoji.discourse-cdn.com/twitter/sweat_smile.png?v=12]) of\nthe Reservoir (please don’t “over” share it for now) : Notion – The all-in-one\nworkspace for your notes, tasks, wikis, and databases.\n[https://valley-apple-0ba.notion.site/Reservoir-6c11dfc8d5834dad81bcaffd8ffad9aa?pvs=4]\n\nYou’ll notice that it’s still quite dry & empty at the moment… but I’m going to\nupload resources more regularly from now on. (The ‘Glossary’ and ‘about me’\nsections still need to be written. I’m going to link this to a proper domain\nname)\n\nOn a side note, keep in mind that I can’t devote all my time to it (about 8\nhours/week as indicated in my mission statement), so it will take a little more\npatience to have a fully filled reservoir.",
+      "created_at": "2023-07-28T13:18:15.619Z",
+      "trust_level": 2,
+      "username": "latruite.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "I love it :heart: [https://emoji.discourse-cdn.com/twitter/heart.png?v=12] I\nreally like the extract and highlighted part with your notes. This will be\nreally helpful, continue working hard!",
+      "created_at": "2023-07-28T15:52:12.093Z",
+      "trust_level": 4,
+      "username": "brichis",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 3
+    },
+    {
+      "content": "I am one of the Synthetix Ambassadors, & a Optimism Badgeholder. I am an\nOptimism delegate [Delegate Commitments - #65 by mastermojo\n[https://gov.optimism.io/t/delegate-commitments/235/65]] with sufficient voting\npower, and I believe this proposal is ready to move to a vote",
+      "created_at": "2023-06-26T12:25:47.392Z",
+      "trust_level": 2,
+      "username": "mastermojo",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    }
+  ],
+  "created_at": "2023-06-14T06:50:07.823Z"
+}

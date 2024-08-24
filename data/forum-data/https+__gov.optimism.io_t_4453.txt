@@ -1,0 +1,40 @@
+{
+  "title": "Optimism en Español - 2022 Recap",
+  "content": "Hello there!\n\nMy name is Nico Espindola [https://twitter.com/nicoproducto] (A.K.A. Nico\nProducto) and I’m one of the founding members of Optimism en Español. In this\npost I will make a recap about the first year of existence of the project and to\ntell you about the most important actions we did during 2022\n\nA little bit of history\n\nOptimism en Español was created from DeFi LATAM, one of the biggest communities\nin Latin America. With the announcement of the airdrop and how the governance\nwas going to function we decided we wanted to participate. But we wanted to do\nsomething different… We started by creating a Twitter account to help users with\nthe airdrop claiming and the delegation process.\n\nAs the months went by and the governance started to roll out, we noticed there\nwas more than just help users claim the OP token. We realized that there was a\nlot of information about Optimism that we could translate or content we could\ncreate to onboard people to the first L2 to have a Governance.\n\nSince then we assembled a team of 6 people at first, and later grew to a team of\nmore than 10 people focused on different parts of the Optimism Ecosystem like\nTokenomics, NFTs, Community, Product and many more. The feedback from the people\nwas good, very good, so we went for more. Like I told you before, we wanted to\ndo something different, so with the knowledge of the crypto ecosystem by members\nof the team we planned the next steps… this are some of the most important\ninitiatives we did last year:\n\n * Hosted seven governance calls through DeFi LATAM Discord to talk about the\n   proposals in each of the Voting Cycles. In each call we delivered POAPs for\n   the assistants who in a passionate way talk, discuss and offer their\n   opinions.\n\n * Translated 35 articles from topics like the Optimism Collective, Bedrock, OP\n   Stack, the OPerating Manual and many more.\n\n * Participated in Labitconf in Argentina to talk about our participation in the\n   Optimism Governance. There were more than 70 people listening to us.\n\n * Participated in a meetup organized by Defi LATAM for The Merge. We talked\n   about Optimism and how the Governance works. There were more than 100 people\n   listening and we had some interesting questions from the crowd!\n\n * Participated in four Twitter Spaces organized by L2 en Español, another big\n   community from LATAM, to talk about the OP Stack, the security and the\n   Optimism Ecosystem.\n\n * Accompanied by some members of OP Labs, we hosted a panel in Devcon to talk\n   about how the Optimistic Rollups behind Optimism works. There were more than\n   50 people listening. It’s on Youtube if you want to see it! Introducción a\n   Optimism [https://youtu.be/0Nf8SKikDWA]\n\nFinal words and what lies ahead\n\nLatin America is a growing garden for crypto. That’s why we are convinced of the\nOptimism vision [https://www.optimism.io/vision] and how it can help and\ntransform people’s lives in this part of the planet.\n\nOptimism en Español will continue during 2023 with the same purpose: to help\npeople onboard into Optimism, the Governance and the Ecosystem. We are just\ngetting started :sunglasses:\n[https://emoji.discourse-cdn.com/twitter/sunglasses.png?v=12]\n\nAnd, as always, we are Optimistic :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]:sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]\n\nThanks to @AxlVaz [/u/AxlVaz] @Netrim [/u/netrim] @Joxes [/u/Joxes] @eriksuazo\n[/u/eriksuazo] @CryptoChica [/u/cryptochica] @et_2244 [/u/et_2244]\n@CryptoBlondynka [/u/cryptoblondynka] and the other team members!:heart:\n[https://emoji.discourse-cdn.com/twitter/heart.png?v=12]\n\nPD: You can follow us in Twitter [https://twitter.com/OptimismESP]!",
+  "views": 1962,
+  "like_count": 30,
+  "word_count": 605,
+  "answer": [
+    {
+      "content": "Felicidades chicos por el estupendo trabajo que están haciendo.",
+      "created_at": "2023-01-09T09:38:45.951Z",
+      "trust_level": 1,
+      "username": "rampiro",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "Hi @NicoProducto [/u/NicoProducto] , You are one of the unsung hero of this\ncollective. Hope to see more of you in year '23.",
+      "created_at": "2023-01-17T00:39:56.331Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "love optimism :heart_eyes:\n[https://emoji.discourse-cdn.com/twitter/heart_eyes.png?v=12] :heart_eyes:\n[https://emoji.discourse-cdn.com/twitter/heart_eyes.png?v=12] :heart_eyes:\n[https://emoji.discourse-cdn.com/twitter/heart_eyes.png?v=12]everything is fine",
+      "created_at": "2023-01-14T19:07:13.954Z",
+      "trust_level": 0,
+      "username": "yooshi23124",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2023-01-06T04:05:44.794Z"
+}

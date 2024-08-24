@@ -1,0 +1,20 @@
+{
+  "title": "Second Airdrop Announcement",
+  "content": "Hello fellow crypto enthusiasts, I am excited to write my first post here!!\n\nI am thrilled to be a part of the Optimism Crypto community and I am excited to\nshare my thoughts on the recent announcement of a second airdrop.\n\nAs a current holder of the token, I believe that this second airdrop is a\nfantastic idea. Not only will it provide more opportunities for new users to get\ninvolved with the project, but it will also reward current holders for their\ncontinued support. This shows a strong commitment from the team to not only\ngrowing the community but also rewarding the early adopters.\nI am looking forward to seeing the positive impact that this second airdrop will\nhave on the project and I am excited to see where Optimism Crypto will go in the\nfuture. Let’s continue to support the team and grow this amazing community\ntogether! :shushing_face:\n[https://emoji.discourse-cdn.com/twitter/shushing_face.png?v=12]:shushing_face:\n[https://emoji.discourse-cdn.com/twitter/shushing_face.png?v=12]:shushing_face:\n[https://emoji.discourse-cdn.com/twitter/shushing_face.png?v=12]",
+  "views": 1754,
+  "like_count": 11,
+  "word_count": 215,
+  "answer": [
+    {
+      "content": "Optimism going for another round of quests would be a good idea to increase\nnetwork usage and users. Not everyone who’s contributing to the network is\ngenuine with a lot of sybils going on lately. Maybe contribution such as running\na bedrock node, searching for bounty audits by devs should be considered as a\nsmall part for the upcoming airdrop to increase dev contribution.",
+      "created_at": "2023-01-29T06:45:24.669Z",
+      "trust_level": 1,
+      "username": "LightningShiva",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2023-01-27T16:27:25.950Z"
+}

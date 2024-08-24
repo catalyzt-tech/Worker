@@ -1,0 +1,50 @@
+{
+  "title": "Organizing the forum",
+  "content": "As this forum gets bigger and more populated we need to start filtering\nsubmissions. I propose a few tags and categories:\n\nFor Airdrop and Feedback tags:\n\n * Earndrop or Benefitdrop Ideas (“Airdrop” word was edited)\n * Governance feedback\n * OP token usage\n * Forum coordination\n\nNew Category: Rules not Followed\nThis category is to avoid the removal of any post but to give a direct response\nto proposals not following the rules. This will certainly redirect efforts to\nether proposals and avoid misconducts like Cobie’s proposal promoting violence\n(even if it is as a parody).\n\nNew Category: Public Goods\nThis category will be one of my personal favorites where projects oriented to\npublic goods can display ideas and promote the use of op tokens. Get feedback\nfrom the community and thrive as our most active category if this is where we\nare heading.\n\nI know there’s a lot more filtering to do if someone comes up with a good idea\nI’ll edit this post to include it and tag the author.",
+  "views": 1683,
+  "like_count": 15,
+  "word_count": 299,
+  "answer": [
+    {
+      "content": "I agree with you, especially with the Forum coordination tag, we need to be more\norganized!",
+      "created_at": "2022-06-02T16:11:42.625Z",
+      "trust_level": 2,
+      "username": "NicoProducto",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "agree lets forget about airdrop and change it",
+      "created_at": "2022-08-16T13:04:40.894Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 2
+    },
+    {
+      "content": "Dhannte, I’m not adding to the conversation and I hate to fight city hall but I\nsimply hate the concept of Airdrop. By implication, to most, it implies - free\ntokens. Maybe that’s not bad when as we try to grow usage, but I think the name\nmust change. If anyone agrees with me could we start a discussion to explore the\nideas of others? To me, earndrop or benefitdrop or drops-with-benefits or …\n\nIf there is enough interest, someone will come up with a better name and\nprocess. Thanks, John\n\nBTW, I agree with the idea.",
+      "created_at": "2022-08-06T00:28:04.731Z",
+      "trust_level": 1,
+      "username": "ALLIn",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Yes, that’s very good idea.",
+      "created_at": "2022-06-09T03:43:39.186Z",
+      "trust_level": 1,
+      "username": "JaayApi",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-06-02T14:50:13.222Z"
+}

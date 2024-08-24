@@ -1,0 +1,20 @@
+{
+  "title": "Special Voting Cycle #12b Roundup",
+  "content": "SPECIAL VOTING CYCLE #12B ROUNDUP\n\nSpecial Voting Cycle #12b begins on Thursday (May 18th) at 19:00 GMT and runs\nuntil Wednesday (May 31st) at 19:00 GMT.\n\nFor a non-grant proposal to proceed to a vote, four delegates, each with >0.25%\nof the current votable token supply, must give explicit approval on the\ndiscussion thread. Delegates may not approve their own proposals. Proposals that\nmay only be initiated by the Foundation do not require delegate approvals and\nwill automatically move to a vote.\n\nA snapshot of delegate voting weights will be taken at the start of the voting\nwindow. Voting will take place via the Optimism Governance Portal\n[https://vote.optimism.io/].\n\nThe following proposals are eligible for voting in Special Voting Cycle #12b:\n\n * Council Reviewer Elections (listed in order of self-nomination)\n\n * Builders\n   \n   * Gonna.eth\n     [https://gov.optimism.io/t/grants-council-reviewer-nominations-season-4/5978/6]\n   * Jack Anorak\n     [https://gov.optimism.io/t/grants-council-reviewer-nominations-season-4/5978/10]\n   * Krzysztof Urbański (kaereste or krst)\n     [https://gov.optimism.io/t/delegate-commitments/235/147]\n   * Oxytocin\n     [https://gov.optimism.io/t/grants-council-reviewer-nominations-season-4/5978/12]\n\n * Growth Experiments\n   \n   * Katie Garcia\n     [https://gov.optimism.io/t/grants-council-reviewer-nominations-season-4/5978/2]\n   * Sugma.eth\n     [https://gov.optimism.io/t/grants-council-reviewer-nominations-season-4/5978/3]\n   * Matt L\n     [https://gov.optimism.io/t/grants-council-reviewer-nominations-season-4/5978/4]\n   * GFX\n     [https://gov.optimism.io/t/grants-council-reviewer-nominations-season-4/5978/5]\n   * StableLab\n     [https://gov.optimism.io/t/grants-council-reviewer-nominations-season-4/5978/7]\n   * Michael Vander Meiden\n     [https://gov.optimism.io/t/grants-council-reviewer-nominations-season-4/5978/8]\n   * DAOStewards\n     [https://gov.optimism.io/t/grants-council-reviewer-nominations-season-4/5978/9]\n\n * Treasury Appropriations\n   [https://gov.optimism.io/t/treasury-appropriation-proposal-foundation-year-2-budget-draft/5979]\n   (Foundation Budget Approval)\n * Inflation Adjustment\n   [https://gov.optimism.io/t/draft-inflation-adjustment-proposal-to-0/5936]",
+  "views": 1525,
+  "like_count": 7,
+  "word_count": 397,
+  "answer": [
+    {
+      "content": "Posting the Inflation Adjustment Proposal as it now has 4 or more delegates with\nsufficient voting power explicitly approving it.\n\n[Final] Inflation Adjustment Proposal (to 0%) - :page_with_curl:\n[https://emoji.discourse-cdn.com/twitter/page_with_curl.png?v=12]Other Proposals\n- Optimism Collective\n[https://gov.optimism.io/t/final-inflation-adjustment-proposal-to-0/5936/]",
+      "created_at": "2023-05-16T12:26:38.871Z",
+      "trust_level": 2,
+      "username": "polynya",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    }
+  ],
+  "created_at": "2023-05-15T19:14:25.292Z"
+}

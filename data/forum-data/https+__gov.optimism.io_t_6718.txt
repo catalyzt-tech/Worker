@@ -1,0 +1,60 @@
+{
+  "title": "Optimism PBS proof of concept",
+  "content": "We are presenting an engineering solution (a GitHub PR with all the necessary\nchanges [https://github.com/NethermindEth/optimism/pull/5]), a proof-of-concept\nfor an MEV-Boost enabled Optimism PBS model.\n\n\n\nBedrockPBS\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/c/ca87718109528964be18c7e207f869a3a4ece0d0_2_690x239.png]\nBedrockPBS1693×588 84.9 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/c/ca87718109528964be18c7e207f869a3a4ece0d0.png]\n\n",
+  "views": 3032,
+  "like_count": 28,
+  "word_count": 792,
+  "answer": [
+    {
+      "content": "Ethereum uses trusted relays and payload blinding mechanisms which are designed\nto prevent Proposers from stealing MEV. Since in Optimism the centralized\nsequencer is trusted by the network, no payload blinding mechanism is needed,\nreducing the latency resulting from the two stage approach (→ send header, ←\nsign header, → reveal payload).\n\n\nPBS AFTER SEQUENCER DECENTRALIZATION\n\nWe suggest / assume a Proof of Governance\n[https://dba.mirror.xyz/UTPfxWe65dYrUu_RJX-5VkAJypFRyw3AZh6m0dRXYZk] selection\nof sequencers on the Optimism chain. Since each sequencer is selected and\nmonitored by governance, we treat each of the sequencers as trusted in the\ncontext of PBS. Similarly to the case with a single centralized sequencer we\nsuggest no use of relays leading to builders connecting directly to the\nsequencers.\n\n\n\nBedrockDecentralizedPBS\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/1/1bf2c019a889f080ac241838f2c98f1a6ca82b2a_2_690x323.png]\nBedrockDecentralizedPBS1372×644 105 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/1/1bf2c019a889f080ac241838f2c98f1a6ca82b2a.png]\n\n\n\nWe suggest an idea of a sequencing policy / a sequencing mandate agreed on\nbetween the sequencer and the governing body. The policy may define censorship\nresistance mechanisms, L1 / L2 ordering rules, builders whitelists, etc.",
+      "created_at": "2023-08-29T04:00:16.067Z",
+      "trust_level": 0,
+      "username": "tkstanczak",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "We introduce some new names for the components:\n\n * BlockMarketAPI (instead of MEV-Boost)\n * Governed Sequencer (in place of Centralized Sequencer)\n * Relay Module (relay when running on the same infra as the sequencer)\n\nOpRelayModuleOne\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/1/109edb1ebc23a7f48b6adba4b681b923ddbe2516.png]",
+      "created_at": "2023-08-29T04:00:50.070Z",
+      "trust_level": 0,
+      "username": "tkstanczak",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "We treat relay as a module / component that is open to builders but running on\nthe sequencer infrastructure (it makes sense when sequencers are permissioned\nparties with more responsibilities and more powerful infrastructure than in\nEthereum case) - each sequencer maintains its own relay module:\n\n\n\nOpRelayModuleMany\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/9/9fdeefb7013dbba667da091a058ec43b49d40457_2_690x263.png]\nOpRelayModuleMany1075×411 32.1 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/9/9fdeefb7013dbba667da091a058ec43b49d40457.png]\n\n\n\nSince permissionless builders can send invalid blocks or make invalid claims\nabout blocks profitability, the relay module needs to support a few correctness\nand DDoS protection mechanisms:\n\n * in case blocks are to be accepted from builders optimistically (without\n   verification by the sequencer) - bonding similar to the one used in\n   optimistic relays\n   [https://github.com/michaelneuder/optimistic-relay-documentation/blob/main/towards-epbs.md],\n   described in more details here\n   (link_limit://github.com/michaelneuder/optimistic-relay-documentation/blob/main/proposal.md).\n * in case when blocks are verified by the relay module - DDoS protection in the\n   form of reputation queues - more information can be find here → Running Relay\n   at Scale\n   [https://www.notion.so/Running-MEV-Boost-Relay-at-scale-4040ccd5186c425d9a860cbb29bbfe09?pvs=21]",
+      "created_at": "2023-08-29T04:02:26.473Z",
+      "trust_level": 0,
+      "username": "tkstanczak",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Similarly to the OP stack chains, on the Superchain level we also assume\ndecentralization of sequencers (or shared sequencers) via Proof of Governance\n[https://dba.mirror.xyz/UTPfxWe65dYrUu_RJX-5VkAJypFRyw3AZh6m0dRXYZk] leading to\na multilayer decentralized-by-governance set of sequencers with a separation of\nblock building and block proposal.\n\n\n\nBedrockPbsMultilevel\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/a/a17e040714cd233158dfa76fd9b935d3f1c96478_2_690x498.png]\nBedrockPbsMultilevel1542×1115 185 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/a/a17e040714cd233158dfa76fd9b935d3f1c96478.png]\n\n\n\n\nTEAM\n\nFor any questions related to the PBS on L2s R&D please reach out to the team:\n\nflashbots:\n\n * product management: Tomasz K. Stańczak\n * design review: Hasu, metachris\n * project management: Kailin Rutherford\n\nNethermind:\n\n * engineering: Jorge Mederos, Paweł Nowosielski\n * interns: Jake Kim, Jinsuk Park\n * architecture review: Swapnil Raj,\n * project management: Cameron Loo\n\nOptimism:\n\n * tech guidance and review: Mark Tyneway",
+      "created_at": "2023-08-29T04:03:27.587Z",
+      "trust_level": 0,
+      "username": "tkstanczak",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "SHARED SEQUENCERS SUPPORT\n\nWe allow for some of the builders (or all of the builders) to be replaced by\nshared sequencers.\n\n\n\nOpPbsWithSharedSequencer\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/5/56267b2daf513752af4f3dfaa41e366f164acdd7_2_570x500.png]\nOpPbsWithSharedSequencer839×735 36.8 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/5/56267b2daf513752af4f3dfaa41e366f164acdd7.png]\n\n",
+      "created_at": "2023-08-29T04:02:56.962Z",
+      "trust_level": 0,
+      "username": "tkstanczak",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    }
+  ],
+  "created_at": "2023-08-29T03:59:40.020Z"
+}

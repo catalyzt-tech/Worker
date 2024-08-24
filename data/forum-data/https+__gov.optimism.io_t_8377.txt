@@ -1,0 +1,9 @@
+{
+  "title": "What is the Name of the Network with Chain ID: 10?",
+  "content": "There is some confusion within the community regarding the name of the network\nwith Chain ID: 10. Currently, the following four names are being used:\n\n 1. Optimism\n 2. OP Mainnet\n 3. OP-Mainnet\n 4. OP\n\n\nOPTIMISM\n\nThis name was used before last year’s name change. Currently, it refers to the\nSuperchain ecosystem.\n\n\nOP MAINNET\n\nThis name started being used after last year’s name change. For example, it is\nused in this blog\n[https://optimism.mirror.xyz/9ZMwZjst9SQpzIgEd4gN42UDjATyK3ZRClPFx9oMPp8].\n\n\nOP-MAINNET\n\nThis name is used in the Superchain registry\n[https://github.com/ethereum-optimism/superchain-registry]. The Superchain\nregistry is used as an off-chain source of truth and is considered the most\nreliable source, but I have never seen the name OP-Mainnet being used in\npractice.\n\n\nOP\n\nThis is an abbreviated name due to the general nature of the word “Mainnet”.\nThere is a file named op.yaml\n[https://github.com/ethereum-optimism/superchain-registry/blob/main/superchain/configs/mainnet/op.yaml]\nin the Superchain registry. In practice, Debank has adopted this name.\n\n--------------------------------------------------------------------------------\n\nAs you can see, there is inconsistency in the name of the network with Chain ID:\n10, which is causing confusion. Could you please share your opinion on this\nmatter?",
+  "views": 149,
+  "like_count": 0,
+  "word_count": 205,
+  "answer": [],
+  "created_at": "2024-06-25T06:51:41.014Z"
+}

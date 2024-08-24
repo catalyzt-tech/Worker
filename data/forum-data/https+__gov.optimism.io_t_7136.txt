@@ -1,0 +1,60 @@
+{
+  "title": "RetroPGF 3: Reported application errors",
+  "content": "This thread is to collect all applications that have accidental errors in them.\nApplications themselves can not be edited post the application deadline.\n\n\nTYPECHAIN\n[https://round3.optimism.io/projects/0xa41c1671630bb1c1474b3ec7fecf4fc13f3bb292d29620a83878dfcd66ed4006]\n\nPast grants and funding\nApplication: RetroPGF 2 - 4,490,000.00 OP\nActual: RetroPGF 2 - 44,938.67 OP\n\n\nSNAPSHOT\n[https://round3.optimism.io/projects/0xfadf25227cc176c7ede5ca6453f663bf57947c42664768e00de9f71c1a907c41]\n\nPast grants and funding\nApplication: RetroPGF 2 - 145.6 OP\nActual: RetroPGF 2 - 145,698.50 OP\n\n\nETHERS.JS\n[https://round3.optimism.io/projects/0x32ee121e0dbcef2fe2b7a8e668f9a53ddc6d43e16c423fe8b4595b0120ac08d8]\n\nImpact metrics\nApplication: Downloads - 111,000\nActual: Downloads - 111,000,000\n\n\nSMALL BRAIN GAMES\n[https://round3.optimism.io/projects/0x9a3872d9d2a22b3d9e0cd88a7169fbc897a3aea36159e62253be38c06cf97bb2]\n\nPast grants and funding\nApplication: RetroPGF 2 - 282,670 OP\nActual: RetroPGF 2 - 28,260.70 OP",
+  "views": 1942,
+  "like_count": 46,
+  "word_count": 1074,
+  "answer": [
+    {
+      "content": "Hi,\n\nSomething went wrong while adding the Impact Metrics for LandTorn - Lorak:\n\nLink to Submission: LandTorn-Agora\n[https://vote.optimism.io/retropgf/3/application/0x89fb018dfa7d20cc5d1e0f7153cd123972fce65842e0df352dbff2913682193c]\n\nEdits:\n\nImpact Metrics:\n\nMetrics displayed:\n\nSpoil Transactions: 35\nSettlers Minted: 81\nDungeons Transactions: 420\n\nCorrect Metrics (Until the submission deadline)\n\nSpoil Transactions: 34,626 (34.6k)\nSettlers Minted: 80,967 (80.9k)\nDungeons Transactions: 416,746 (416.7k)\n\nThanks :upside_down_face:\n[https://emoji.discourse-cdn.com/twitter/upside_down_face.png?v=12]",
+      "created_at": "2023-11-29T13:06:52.077Z",
+      "trust_level": 1,
+      "username": "Yako",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Small Brain Games\n\nPast grants and funding\nApplication: RetroPGF 2 - 282,670 OP\nActual: RetroPGF 2 - 28,260.70 OP",
+      "created_at": "2023-11-23T08:53:17.977Z",
+      "trust_level": 2,
+      "username": "joanbp",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Thanks Jonas for this thread. I’m very disappointed to have made a kid flaw.\n\nThe title of my Application is The Opimist and should have been The Optimist.\n\nApologies for this human error :pray:\n[https://emoji.discourse-cdn.com/twitter/pray.png?v=12]",
+      "created_at": "2023-11-23T09:59:23.650Z",
+      "trust_level": 2,
+      "username": "Subli_Defi",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Thanks for the thread.\n\nLink to submission: Optimism Agora\n[https://vote.optimism.io/retropgf/3/application/0x319c241769c8f63909963052be4e3cec10249bf7782f57aa005c71481b177545]\n\nEdits:\n\nI should’ve added a link to our github: TheOpenXproject (The Open X Project) ·\nGitHub [https://github.com/TheOpenXProject/]\n\nWhile signing up, I didn’t realize the picture I chose for my profile would\nappear on the submission. I’d like to change that to this image if possible:\nhttps://app.openxswap.exchange/assets/oswap_logo_icon.cdc95c52.png\n[https://app.openxswap.exchange/assets/oswap_logo_icon.cdc95c52.png]\n\nThanks for your help.",
+      "created_at": "2023-11-27T06:44:57.033Z",
+      "trust_level": 1,
+      "username": "Smerdyakov",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Hello,\n\nI’ve accidentally named my project as my personal profile\n\nLink to submission: Optimism Agora\n[https://vote.optimism.io/retropgf/3/application/0xa2f3c16259f6eec775914f44a084ab251d93bfd7d109956b5a0b220edd1acd9a]\nName should be “Ethernal” and ideally the profile picture should be:\nicon-400px\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/8/8958220685b2a77df0d00a865df3953618ae859d.png]",
+      "created_at": "2023-11-27T12:14:49.432Z",
+      "trust_level": 0,
+      "username": "antoinedc",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    }
+  ],
+  "created_at": "2023-11-22T12:56:44.637Z"
+}

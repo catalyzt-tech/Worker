@@ -1,0 +1,60 @@
+{
+  "title": "[DRAFT] [GF: Phase 1 Proposal] Frax",
+  "content": "Project Name: Frax Finance (Frax Finance App [https://app.frax.finance/])\n\nAuthor Name: Metalface (Frax community member)\n\nNumber of OP tokens requested: 1,000,000\n\nL2 Recipient Address: 0x0dF840dCbf1229262A4125C1fc559bd338eC9491 (Frax Optimism\nMSig)\n\nRelevant Usage Metrics: Frax has ~$1.6b TVL and is currently scaling up on\nOptimism with $6.2m Optimism TVL currently deployed. The FRAX/USDC Uniswap pool\nis currently the largest on OP Uniswap by TVL and did approximately $200k of\ndaily volume the past week. In the coming weeks, Frax will scale up to $25m of\nprotocol controlled value on Optimism as described below.\n\nOptimism alignment\n\nWe believe that Optimism will play a critical role in the long term success of\nEthereum. Frax is committed to helping Optimism realize this vision. In the near\nterm, Frax can assist by increasing liquidity and utility on Optimism. Frax has\nalready deployed $6.2m of stablecoin liquidity into the Optimism Frax-USDC\nUniswap pool. Frax is in the process of deploying the Curve Frax-Basepool, which\nwill allow for the creation and incentivization of metapools. The current TVL of\nCurve on Optimism is $11m. Frax will likely double the TVL once the basepool is\nlive.\n\nFrax is also launching Fraxswap and Fraxlend on Optimism. Fraxswap is a native\nDEX that allows users to directly tap into protocol owned liquidity and offers\nTWAMM orders. TWAMM orders allow for order execution over time, which would be\nvery helpful for users wanting to average in or out of a Stable/OP pair.\nFraxlend will offer lending markets on volatile assets, including OP. For a\ngauge based incentive approach, Optimism gauges will be proposed via Frax\nGovernance so that FXS rewards will incentivize Optimism liquidity. Finally,\nFrax is supplying $15m of stablecoin liquidity to the Hop protocol, which will\nincrease liquidity for Optimism users, including fast exits from Optimism to\nmainnet (not only for FRAX but other stables supported by Hop).\n\n\nPROPOSAL FOR TOKEN DISTRIBUTION\n\nHow will the OP tokens be distributed?\n\nFrax will bring significant stablecoin liquidity to Optimism but needs help\nbuilding volatile asset liquidity (it is more difficult for Frax as a protocol\nto be exposed to volatile asset price fluctuations). OP will primarily be\ndistributed via Frax’s gauge system, including incentivizing lending markets on\nFraxlend, etc.\n\nHow will this distribution incentivize usage and liquidity on Optimism?\n\nAll OP received will be directly used to incentivize liquidity and usage of\nOptimism. Similar to Balancer, Frax has found that gauge incentives are\ncurrently the most cost-effective means of incentivizing liquidity. If the\neffectiveness of gauge incentives decreases over time, Frax may use traditional\nliquidity mining if that presents the highest liquidity ROI for the OP received.\n\nWhy will the incentivized users and liquidity remain after incentives dry up?\n\nFrax protocol owned liquidity is long term liquidity that will remain on\nOptimism well after the incentives finish. Total Frax PCV is currently $1.35B\nwith only $6.2m currently deployed on Optimism (~0.4%). Frax PCV on Optimism\nwill increase to $25m in the coming weeks and will likely continue to grow with\nOptimism. All of this liquidity will be available for use on Optimism. By\ncatalyzing adoption on Optimism, Frax will be incentivized to increase long term\nPCV on Optimism. OP incentives will kick start volatile asset pairs and lending.\nFrax incentivizes users to lock liquidity for up to a year and will have the\nsame incentive structure for liquidity on Optimism. Gauges (veFXS and veCRV) on\nOptimism will likely outlast any OP incentives and create a long term liquidity\nflywheel on Optimism.\n\nOver what period of time will the tokens be distributed?\n\nFrax will seek to sustainably incentivize growth on Optimism. The exact period\nof distribution will depend on the sequence of product launches, the price of OP\nand the specific liquidity needs of each pool (it is preferable to target a\nsufficient but not excessive amount of liquidity over time versus maxing out\nshort term liquidity that exceeds any practical use).\n\nHow much will your project match in co-incentives?\n\nFrax will deploy $25m of stable protocol controlled liquidity on to Optimism and\nkeep all revenue generated from this liquidity on Optimism. This is equivalent\nto a significant incentive (if you assume that stables might require a 10% APR\non Optimism, this is roughly equivalent to a $2.5m incentive in the first year),\nwith the advantage of being nearly permanent and likely to grow over time as\nOptimism scales. We will also advance veFXS gauges for Optimism pools, which\nwill direct FXS incentives towards liquidity and lending on Optimism.\n\n--------------------------------------------------------------------------------\n\nFrax Docs: https://docs.frax.finance/ [https://docs.frax.finance/]",
+  "views": 2170,
+  "like_count": 8,
+  "word_count": 1494,
+  "answer": [
+    {
+      "content": "Thank you for this proposal.\n\nCould you provide more information on distribution plan.\n\n> depend on the sequence of product launches\n\nwhich product ?\n\n> the price of OP and the specific liquidity needs of each pool\n\nHow do you expect OP price to impact distribution\n\nAlso, any specific Gauge you are planning to target ?\nDistribution will be weekly/monthly ?\n\nAs as user, what would i need to do to get the incentives ?\n\nAlso, please include your application link and related documents if possible.",
+      "created_at": "2022-07-26T07:34:52.549Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Thank you @OPUser [/u/opuser] for the feedback / questions!\n\nDistribution / Product\nThe overall distribution plan is to reward users who provide volatile asset\nliquidity on Fraxswap and Fraxlend. Regarding the sequence of products, there\nare essentially three that are forthcoming on Optimism: Fraxswap, Frax-USDC\nbasepool on Curve and Fraxlend. Fraxswap is imminent (a matter of days), the\nCurve launch should be soon but it also depends on Curve. Fraxlend will likely\nbe the last of the products to go live (the OP market on Fraxlend for example).\n\nOP Price Impact\nI could see the price of OP impacting the speed of the distribution because the\nyield on liquidity is a function of the OP price. If it is preferred, we could\npropose a very concrete timeline for the distribution of rewards. We will\ndefinitely have all of them distribution within 12 months. Having dealt with\nvarious liquidity incentives in the past, the situation we want to avoid is one\nwhere there are excessive short term incentives for mercenary capital. It\nbasically delivers a vanity win (“wow, look at that huge TVL”) but the liquidity\nbeyond a certain point may not be useful. For example, if we are working to\nestablish pairs that we believe to be strategically important for Optimism\n(increasing OP liquidity and lending options for example), there isn’t a ton of\nmarginal utility beyond a certain pool size (once you can execute a large\ntransaction with minimal slippage). It seems more efficient to target the OP\nincentives over time but am very open to feedback if you have a different\nperspective.\n\nIncentive Distrubtion\nWe’re envisioning that approximately 70% of the incentives would go towards\nvolatile asset liquidity pools on Fraxswap (with the potential for pools on\nCurve and Uniswap) and 30% would go towards Fraxlend. We will emphasize\nestablishing liquidity for OP on both. By distribution, do you mean the earning\nof the rewards or the setting of the rewards? I expect that the rewards will be\nearned / claimable in real time while the pool incentives would probably be set\nmonthly.\n\nAs a user, you would get the incentives by providing volatile asset liquidity\n(even if it is via a gauge, ultimately the gauge rewards liquidity) and use of\nFraxlend.\n\nI’ve added some Frax related links to the original proposal and below (because\nof the forum link limit)- please let me know if there is anything else you’d\nlike to see and I’ll get it up. I hope this addressed some of your questions,\nplease let me know if I can clarify or provide more info on anything.\n\nCommunity Built Stats Page: https://stats.frax.academy/\n[https://stats.frax.academy/]\nCommunity Aggregator: FRAX Community [https://community.frax.finance/info/news]",
+      "created_at": "2022-07-27T01:53:13.829Z",
+      "trust_level": 0,
+      "username": "metalface",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Hey @Bobbay_StableLab [/u/Bobbay_StableLab] - thank you for the questions. I\nwent into detail in my above response but the split % would be 70% to volatile\nassets liquidity and 30% to Fraxlend.\n\nRe the gauges, I should have been more precise - I’ve updated the proposal to\nbetter reflect this. The Frax gauges need Fraxswap to be live on Optimism before\nthey can be proposed via Frax governance. Fraxswap should be live in the very\nnear term. I will then link to specific gauge proposals. Anecdotally there\nappears to be widespread support for adding gauges on Optimism. Please let me\nknow if you have any other questions or feedback.",
+      "created_at": "2022-07-27T02:16:14.035Z",
+      "trust_level": 0,
+      "username": "metalface",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Just checking in to see if you would like this proposal to be evaluated in\nVoting Cycle #6 according to the updated grant proposal template\n[https://gov.optimism.io/t/grant-proposal-template/3233/15]?",
+      "created_at": "2022-09-13T21:41:11.064Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 0
+    },
+    {
+      "content": "\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/metalface/48/1455_2.png]\nmetalface:\n\n> OP will primarily be distributed via Frax’s gauge system, including\n> incentivizing lending markets on Fraxlend, etc.\n\nDo you have a % split in mind for this distribution?\n\n> Frax governance is adding Optimism gauges\n\nhas this been confirmed by governance too? if so, can you link it.",
+      "created_at": "2022-07-26T11:00:03.337Z",
+      "trust_level": 2,
+      "username": "Bobbay_StableLab",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-07-25T23:07:38.363Z"
+}

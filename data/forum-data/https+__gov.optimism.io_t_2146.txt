@@ -1,0 +1,9 @@
+{
+  "title": "Railgun Zero Knowledge Proofs",
+  "content": "How about getting Railgun on Optimism?\n\nI’m sure there’s lots of use cases for private transactions on Optimism.",
+  "views": 1755,
+  "like_count": 0,
+  "word_count": 20,
+  "answer": [],
+  "created_at": "2022-05-31T23:11:22.623Z"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Saludiego201.eth - Delegate Communication Thread",
+  "content": "With this post, there will be a record and record of each of the votes, plus\ntheir justification, with me, with you as a community, and with the people who\nchose to delegate their OPs to me.\n\nName: Diego Ortiz Mayorca\n\nAddress or ENS: Saludiego201.eth\n\nDiscord username: Saludiego201#9643\n\nVerification (Tally profile or tweet): Tally | Saludiego201.eth\n[https://www.tally.xyz/profile/saludiego201.eth]\n\nI have read and understood the Delegate Commitment Process: Yes, sir.\n:saluting_face: [https://emoji.discourse-cdn.com/twitter/saluting_face.png?v=12]\n\nI understand that becoming a delegate is a significant commitment: Yes, sir.\n:saluting_face: [https://emoji.discourse-cdn.com/twitter/saluting_face.png?v=12]\n\nMy reasons for wanting to be a delegate: In my family there is a saying that\ngoes “If you have an idea that can contribute, say it, and if not learn how to\ncontribute” for a while I followed closely and with interest the governance of\noptimism, I delegated some assets to some acquaintances and I feel that it is\ntime to contribute myself.\n\nMy view on the Optimistic Vision: The pillars of a DAO should always be the\ndiversity of opinions and speed in decision making, I feel that optimism and its\ncollective are making great strides in demonstrating that in such a diverse\nworld we can connect with a common mission, for a dream or an idea.\n\nExperienced or not, the optimism collective allows many users to access the\nlargest exchange of information and value in real time, while rewarding and\nbenefiting the creation of use cases, with constant feedback, that’s what I find\nfascinating.\n\nMy view on the first three articles of the Working Constitution: They describe\nthe fundamental foundations of a model of digital democracy that seeks to drive\nthe growth and development of a decentralized ecosystem. I find exciting the\nidea that we can create a digital reality in which citizens have control and\nauthority.\n\nThe fact that this is being approached as a “working constitution” and that the\nimportance of experimentation and evolution over time is being recognized\ndemonstrates a humility and sensitivity to the changing dynamics of these\nenvironments. In addition, it is encouraging to see a balancing of short- and\nlong-term incentives.\n\nWhile there may be some voices that disagree with a foundation behind Optimism,\nit is necessary in its initial steps to develop the necessary incentives to\nslowly decentralize.\n\nOptimism offers an inspiring and ambitious vision for a future in which digital\ndemocracy and a decentralized economy play a crucial role in the lives of\nindividuals and communities.\n\nMy Web3 interests: API3DAO, MakerDAO, Gnosis and PoH.",
+  "views": 1511,
+  "like_count": 2,
+  "word_count": 511,
+  "answer": [
+    {
+      "content": "Delegate Suspension: Fractal Visions\n[https://www.tally.xyz/gov/eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10/proposal/27878184270712708211495755831534918916136653803154031118511283847257927730426]\n: Vote YES, The rules of the community and the delegation process is a\nresponsibility that is acquired and must be respected at all times, that is why\nI agree to suspend your participation in this process.\n\nUpgrade Proposal: Bedrock\n[https://www.tally.xyz/gov/eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10/proposal/114732572201709734114347859370226754519763657304898989580338326275038680037913]\n: Vote YES, It’s a small step for Optimism but a big step for Ethereum\nscalability, my vote is YES, because the development and commitment given by the\nteam will add value to the rollup ecosystem.",
+      "created_at": "2023-03-30T23:31:00.542Z",
+      "trust_level": 2,
+      "username": "Saludiego201",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2023-03-13T04:23:35.010Z"
+}

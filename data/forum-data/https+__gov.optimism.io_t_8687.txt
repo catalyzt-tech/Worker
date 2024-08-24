@@ -1,0 +1,60 @@
+{
+  "title": "Cycle 25 Grants final roundup",
+  "content": "Welcome to our first of six reports on the Grants Council’s activities at the\nend of each cycle. In this report, we reflect on the challenges faced during\nCycle 25.\n\nWe acknowledge that the fast-paced review process and some export issues with\nCharmverse limited our ability to provide comprehensive feedback. We are\naddressing this issue with the Charmverse team and have decided to push all\nnon-approved applications to the next cycle to allow them to incorporate the\nfeedback. Badly formatted comments here until further notice.\n[https://docs.google.com/spreadsheets/d/1JpJK5AyOqqd2_LT8CmnX5yDKGd1UM6ebV3Af-PGdU3s/edit?usp=sharing]\n\nFor the next cycle, submission is always open, with a deadline at the end of the\nfirst week (intake) on Tuesday. Applications submitted after this deadline will\nbe considered for the following cycle.\n\nWe received 50 applications and managed to review 100% of them at each\nmilestone. However, due to time constraints, only three reviewers had full\ncontext for final decision-making. To resolve this, we will divide the review\nprocess into two groups of six Grants Council members each.\n\nThe Developer Advisory Board provided valuable feedback during the final review,\nbut we understand that incorporating it in just 24 hours was insufficient. Going\nforward, we will provide preliminary review lists earlier to allow applicants\nand reviewers more time to consider DAB feedback.\n\nWe want to thank the DAB for their prompt and precise input. At this point, no\napplications have been declined unless mission requests are fulfilled.\nApplications not approved will be carried over to the next cycle for additional\nreview by three more Grants Council members.\n\nTo Superchain grant applicants: We appreciate your interest in our program and\napologize for any inconvenience caused by the postponement of decision-making to\nthe next cycle. This allows us more time to thoroughly evaluate applications. We\nencourage you to refine your proposals and address areas of improvement\nidentified by reviewers.\n\nIn detail, scores are here Grants Council public database\n[https://docs.google.com/spreadsheets/d/1AcVf-8SjZchG11krE64YCrz8KWZ5f6CW_mWJUk5z6YE/edit?usp=sharing]\n\nApplication Scores (Avg) Resolution INTENT 1 Cross Chain Voting Aragon <> RISC\nZero - Joint partnership on crosschain voting 57.66 Moved to next Cycle (26)\nCross chain voting with Snapshot and Herodotus 55 Moved to next Cycle (26) OP\nStack Cross Chain Voting 37.66 Moved to next Cycle (26) Grants Claiming Tools\nHedgey application 40.33 Moved to next Cycle (26) Attestation-Based Grants\nPayouts Claiming 40 Moved to next Cycle (26) Analysis of Grant Programs bleu’s\nAnalysis of Grant Programs 35.33 Moved to next Cycle (26) Voting Analysis\nGovernance Audit and Dashboard by Blockful 29 Approved Analyzing DAO Failures -\nVoting Analysis 27 Approved Farcaster Social Graph Farcaster Social Graph 43.33\nApproved CastRank: PageRank for Farcaster 28.66 Moved to next Cycle (26) Develop\nnon-technical solutions for increasing both voter and token participation in the\nDAO Optimism GovQuests 40.33 Approved Super Contributor Cohort 37.66 Approved\nLighthouse 27 Moved to next Cycle (26) Decentralized alternative for contract\nattestation placeholder No Application Create and Distribute Videos about\nOptimism Collective Governance OP Roundup 35.66 Moved to next Cycle (26)\nIntegration of Optimism Gov and RPGF into University Courses Integration of\nOptimism Gov and RPGF into University Courses 33.33 Moved to next Cycle (26)\nINTENT 3A Optimism Dominance in Yield-Bearing Assets 1 OETH on OP (1 of 3) 51.66\nMoved to next Cycle (26) Optimism Dominance in Yield-Bearing Assets 2 OETH on OP\n(2 of 3) 54.33 Moved to next Cycle (26) Optimism Dominance in Yield-Bearing\nAssets 3 Extra Finance S6 Mission Application - Moved to next Cycle (26)\nOptimism Dominance in Yield-Bearing Assets 4 GFX Labs 40.33 Moved to next Cycle\n(26) Developer Tools Optimizing Token Launches: Open-Source Crowdsale Factory\n29.66 Moved to next Cycle (26) GhostTags - Open Source tagging, streaming and\nfiltering transactions infrastructure 38.66 Moved to next Cycle (26) Expansion\nof Soldeer 51.33 Approved Research capital migration to the Superchain Op\nsuperchain as Trillion Network stablecoins operational chain 29.66 Vetoed by DAB\nMicrogrants for Experimental Projects Soulcial 36.33 Moved to next Cycle (26)\nFractal Visions 38.66 Moved to next Cycle (26) ForkinWisdom 32.66 Moved to next\nCycle (26) FairSharing - Contribution On-Chain, Reputation building,\nDecentralize coordination 40 Moved to next Cycle (26) FrameHack #2 54.66\nApproved Optimism as base for LRTs Renzo Optimism Season 6 Mission Request -\nOptimism as base for LRTs 47 Approved Expanding restaking on Optimism 54\nApproved Ether.fi [http://Ether.fi] OP Mainnet LRT Grant 48.33 Approved\nExperimental Derivative Markets TLX - Leveraged Tokens Protocol 55.33 Moved to\nnext Cycle (26) ERC 4337 Data & Attribution Standards for the Superchain\nERC-4337 Data & Attribution Standards for the Superchain - Candide 42 Declined\n4337 Data & Standards Group 51.33 Approved Sequencer commitment games Sequencer\nCommitment Games Research 38.33 Approved Develop Onchain Social Games that\nattract Builders to Optimism - v2 WannaBet Weekly Tournaments 34.33 Approved\nOpen-source transaction simulator Tevm Transaction Simulator 43.33 Conditionally\nApproved Open-source Transaction Debugger and Simulator 47 Conditionally\nApproved Support on-chain games close to launch No Application Optimism as\nVenture Studio Super Studios-Optimism as a Venture Studio 48 Moved to next Cycle\n(26) Gaming Infra in the Superchain No Application Marquee Governance Hackaton\nSuperHack Bangkok - Marquee Governance Hackathon 39.33 Moved to next Cycle (26)\nAccelerating Game Development in the Superchain No Application Create\nEducational Programs that Empower Developers on Optimism - Modified with Lower\nBudget Blockchain Innovation Hub: Optimism chapter 35.66 Moved to next Cycle\n(26) INTENT 3B Superchain Grants (chains only) Fraxtal Application - Moved to\nnext Cycle (26) Lisk - Intent 3B Grant Application - Moved to next Cycle (26)\nMode - Moved to next Cycle (26)",
+  "views": 344,
+  "like_count": 21,
+  "word_count": 1218,
+  "answer": [
+    {
+      "content": "Forum communication thread to show your progress. Comment in the application\nwith a tag to Pgov to report milestone completion.",
+      "created_at": "2024-08-09T17:40:10.094Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 4
+    },
+    {
+      "content": " 1. Update and leave a comment in your application about the changes you made.\n 2. Yes reviewers are conducting preliminary scoring this week and will do final\n    scoring next week. 3 different reviewers will be scoring your application.\n\nCycle 26 final roundup will be published on the 29th Thursday.",
+      "created_at": "2024-08-14T15:19:31.327Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 2
+    },
+    {
+      "content": "Me and the rest of Blockful [https://blockful.io/] team appreciate the trust of\nOP community in our work once more.\n\nWe will get to work right away.\n\nIs it preferable for us to keep our updates to the community limited to the\nmilestones field on charmverse, or is it better to have an “updates thread” on\nthe forum? And if the thread is better, what would be the best area?",
+      "created_at": "2024-08-09T17:15:12.176Z",
+      "trust_level": 2,
+      "username": "Zeugh",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Yes, we are 15k OP short for the Mission request budget and we will request both\nprojects to lower 7.5K of their requests so we can approve both. I was about to\ncomment on the applications.",
+      "created_at": "2024-08-09T17:03:23.665Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "Wow, super excited to see the results!\n\nMy application “Open-source Transaction Debugger and Simulator” states\n“Conditionally Approved”. Can you share more information about this status,\nspecifically what is the condition for getting a final approval?",
+      "created_at": "2024-08-09T14:54:23.488Z",
+      "trust_level": 2,
+      "username": "romanm",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-08-09T14:17:06.765Z"
+}

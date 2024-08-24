@@ -1,0 +1,9 @@
+{
+  "title": "*date change* Token House Call will be [Tuesday, August 6th @ 11:00PT / 14:00 ET / 18:00 GMT / 19:00 CET]",
+  "content": "Hey Optimists!\n\nWe have a :sparkles: [https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]\nSpecial Editionnn :sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12] token house coming\nup next Tuesday with the one and only @ben-chain [/u/ben-chain] for an overview\n& AMA on Blockspace Charters!\n\nReview the current info on Blockspace Charters\n[https://gov.optimism.io/t/season-6-introducing-blockspace-charters-superchain-first-governance/8133]\nahead of time and come with your questions ready!\n\nThis is a huge governance step forward and a necessary one as we move into a\ntruly interop Superchain.\n\nGoogle meet link:\nhttps://meet.google.com/vme-ovto-jcn [https://meet.google.com/vme-ovto-jcn]\n\nSee you there!\nMichael\n\n\n\nJointhcc17\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/a/a8ec763d4dc24aa4c522bd5f295a511320ae9072.jpeg]\nJointhcc17960×540 52.9 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/a/a8ec763d4dc24aa4c522bd5f295a511320ae9072.jpeg]\n\n",
+  "views": 46,
+  "like_count": 1,
+  "word_count": 99,
+  "answer": [],
+  "created_at": "2024-07-24T02:55:20.159Z"
+}

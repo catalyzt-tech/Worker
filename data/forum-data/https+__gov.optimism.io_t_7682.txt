@@ -1,0 +1,30 @@
+{
+  "title": "What is the Incentive to build on Optimism with the current grant system in place?",
+  "content": "Hi everyone,\n\nFirst off I’d just like to say that I’m a fan of the project as a whole and\nplease do not read this in a negative tone. DAOs and governance in general is a\ntricky beast, and I am very impressed with how the system works thus far.\nUnfortunately it just doesn’t seem like this system of grants will suit a\nproject like Tidus Wallet (the project I am a part of), and many projects for\nthat matter going into the future.\n\nWe all know what grants are supposed to be for, and the main three I am aware of\nunder Optimism besides specific mission applications are: Builder’s Grant,\nGrowth Experiments, and retroPGF.\n\nI’m just extremely perplexed by the whole process. We were under the impression\nthat a builder’s grant is a grant to ‘build’.\n\nWe(Tidus) say we’ll build XYZ(for Optimism), Grant is paid out once we do X then\nY, then Z. The grant is used to build and only rewarded when something is built.\nOptimism grants are time-locked for an entire year. (perhaps I’m missing some\ndetails)\n\nBUT, if OP goes to .75 cents in a year we just built something for a year and\nour grant is now 1/4 of the size when we started, but my build obligation is the\nsame. I don’t think anyone would mind if it was in small increments, but we are\noffering a larger upgrade.\n\nOkay. Well maybe apply for a different type of grant right? Well, we can’t apply\nfor a ‘growth experiment’ grant because you can’t apply grant money to\noperations, only distribution to users. (found this out on first application\nattempt)\n\nFinally there is retroPGF, where you build something, or support something on\nOP, but hope to get granted some money as retro, not going to go into who\ndeserves what etc… and all the politics of that, but that’s probably the only\ngrant a project like ours could reasonably hope for.\n\nReally appreciate Optimism’s commitment to governance, and the crypto space in\ngeneral, but I hope you guys can see how bad a decision this would be for a\nproject like us on the other end of this process. I regret to have had to pull\nour grant application(really wanted to work on the OP stack). We can’t risk\ngetting nothing a year after building. We’re just a bootstrapped wallet that has\nfought to build through the last cycle and we will have to look elsewhere for\nintegration. Thanks again for all your help.\n\n-Bob",
+  "views": 517,
+  "like_count": 6,
+  "word_count": 770,
+  "answer": [
+    {
+      "content": "Thank you for tagging me @0xR [/u/0xr]!\n\nGM @Bob [/u/bob]! You can find more information about the Grant Policies here\n[https://gov.optimism.io/t/collective-grant-policies/5833]. In the last season,\nprojects were able to delegate their tokens and utilize the governance power\nassociated with their OP. However, I believe this is valuable feedback for\nSeason 5, so please feel free to contribute any comments regarding aspects you\nwould like to see changed for the next season here\n[https://gov.optimism.io/t/season-5-feedback-thread/7549]. Have a great weekend!\n:sparkles: [https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]",
+      "created_at": "2024-02-23T20:04:33.386Z",
+      "trust_level": 4,
+      "username": "brichis",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 2
+    },
+    {
+      "content": "Greetings Bob,\n\nShort intro\n\nI am a web3 governance/DAO researcher and participant. I can relate as many\nothers have indicated on various social platforms there is a poor user\nexperience towards how Optimism’s Collective governance, grants, and investment\narms/branches/circles operate. Therefore, I am currently doing a series of\nco-writing to simplify Optimism’s current governance system and its future\niterations.\n\nFrom what I currently understand through my research Optimism Collective /\nFoundation is using various funds(treasuries) to distribute its capital (OP\ntokens) to people and organizations that are value-aligned.\n\nOn the Lock-up period\n\nYes, Optimism Foundation is using vesting periods (Token lockups) to regulate\nthe overall market price and to try to promote long-term commitment. As with\nmany other capital freeze-ups, there are market risks such as price fluctuations\nthat affect future monetary values. However, I did read that there might be an\nOptimism Foundation fund that is dedicated to larger projects and might not be\nmandatory to lock up 100% of the token amounts. This fund is the Partner fund\n[https://gov.optimism.io/t/partner-fund-overview/5268].\n\nSee the application form here: New Project Grant Request\n[https://form.typeform.com/to/IK2MMwN8?typeform-source=optimismpbc.typeform.com]\n\nDisclaimer: As I am still mapping the optimistic governance culture, realms, and\nrules. I will tag @brichis [/u/brichis] As I believe Brichis might have a better\nanswer for your specific case.\n\nBless 0xR",
+      "created_at": "2024-02-18T19:44:39.900Z",
+      "trust_level": 2,
+      "username": "0xR",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2024-02-18T01:19:33.873Z"
+}

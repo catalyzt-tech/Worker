@@ -1,0 +1,156 @@
+title: Estimating Transaction Costs on OP Mainnet
+lang: en-US
+description: Learn how to use the Optimism SDK to estimate the cost of a transaction on OP Mainnet.
+
+import { Callout, Steps } from 'nextra/components'
+import { WipCallout } from '@/components/WipCallout'
+
+In this tutorial, you'll learn how to use the Optimism SDK to estimate the cost of a transaction on OP Mainnet.
+You'll learn how to estimate the execution gas fee and the L1 data fee independently.
+You'll also learn how to estimate the total cost of the transaction all at once.
+
+Dependencies
+
+node
+pnpm
+
+Create a Demo Project
+
+You're going to use the Optimism SDK for this tutorial.
+Since the Optimism SDK is a Node.js library, you'll need to create a Node.js project to use it.
+
+{Make a Project Folder}
+
+mkdir op-sample-project
+cd op-sample-project
+
+{Initialize the Project}
+
+pnpm init
+
+{Install the Optimism SDK}
+
+pnpm add @eth-optimism/sdk
+
+{Install ethers.js}
+
+pnpm add ethers@^5
+
+Get ETH on OP Sepolia
+
+This tutorial explains how estimate transaction costs on OP Sepolia.
+You will need to get some ETH on OP Sepolia in order to run the code in this tutorial.
+
+Add a Private Key to Your Environment
+
+You need a private key in order to sign transactions.
+Set your private key as an environment variable with the export command.
+Make sure this private key corresponds to an address that has ETH on OP Sepolia.
+
+export TUTORIAL_PRIVATE_KEY=0x...
+
+Start the Node REPL
+
+You're going to use the Node REPL to interact with the Optimism SDK.
+To start the Node REPL run the following command in your terminal:
+
+node
+
+This will bring up a Node REPL prompt that allows you to run javascript code.
+
+Import Dependencies
+
+You need to import some dependencies into your Node REPL session.
+
+{Import the Optimism SDK}
+
+
+
+{Import ethers.js}
+
+
+
+Set Session Variables
+
+You'll need a few variables throughout this tutorial.
+Let's set those up now.
+
+{Load your private key}
+
+
+
+{Create the RPC provider}
+
+Here you're creating a standard Ethers RPC provider and wrapping it as an L2Provider, a class provided by the Optimism SDK.
+This will add a few extra functions to the provider object that you'll use later in this tutorial.
+
+
+
+{Create the wallet instance}
+
+
+
+Estimate Transaction Costs
+
+You're now going to use the Optimism SDK to estimate the cost of a transaction on OP Mainnet.
+Here you'll estimate the cost of a simple transaction that sends a small amount of ETH from your address to the address 0x1000000000000000000000000000000000000000.
+
+{Create the unsigned transaction}
+
+Ethers makes it easy to create unsigned transactions so you can estimate the cost of a transaction before you a user to sign it.
+Here you'll create an unsigned transaction that sends a small amount of ETH from your address to the address 0x1000000000000000000000000000000000000000.
+You can also create unsigned transactions that interact with contracts using Contract.populateTransaction.
+
+
+
+{Estimate the execution gas fee}
+
+You can estimate the execution gas fee the same way you'd estimate the gas fee for any transaction on Ethereum.
+Simply multiply the gas limit by the effective gas price.
+
+
+
+{Estimate the L1 data fee}
+
+You can estimate the L1 data fee with the estimateL1GasCost function.
+Under the hood, this function is estimating the amount of Ethereum gas required to publish this transaction on Ethereum and multiplying it by the current Ethereum gas price (as tracked by the L2).
+This function returns the current cost estimate in wei.
+
+
+
+{Estimate the total cost}
+
+Once you've individually estimated the execution gas fee and the L1 data fee, you can sum these two values together to get the total cost of the transaction.
+
+
+
+{Send the transaction}
+
+Now that you've estimated the total cost of the transaction, go ahead and send it to the network.
+This will make it possible to see the actual cost of the transaction to compare to your estimate.
+
+
+
+{Check the actual execution gas fee}
+
+Once you get back the transaction receipt, check the actual execution gas fee.
+
+
+
+{Check the actual L1 data fee}
+
+You can also check the actual L1 data fee.
+
+
+
+{Check the actual total cost}
+
+Sum these two together to get the actual total cost of the transaction.
+
+
+
+{Check the difference}
+
+Finally, check the difference between the estimated total cost and the actual total cost.
+This will give you a sense of how accurate your estimate was.
+Estimates will never be entirely accurate, but they should be close!

@@ -1,0 +1,9 @@
+{
+  "title": "About the Governance Fund Phase 1 Category",
+  "content": "Submit and discuss proposals for Phase 1 of the Governance Fund. This category\nwill be opened for submissions after Airdrop #1 has begun (Q2 2022).\n\nFor more details on Governance Fund Phase 1, please read our overview here\n[https://community.optimism.io/docs/governance/gov-fund].\n\nFor instructions on how to create a proposal, see here\n[https://gov.optimism.io/t/governance-fund-phase-1-how-to-create-a-proposal/216].",
+  "views": 744,
+  "like_count": 3,
+  "word_count": 71,
+  "answer": [],
+  "created_at": "2022-05-03T17:59:23.711Z"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Season 5 Grants Council Operating Budget",
+  "content": "Grants Council Operating Budget Proposal for Season 5\n\nProposed Council Lead: Lund Ventures (Dane Lund)\n\nProposed Council Operating Budget: 440k OP\n\nContact Info: danelund.eth (forum)\n\nPlease link to any previous work or qualifications to be Council Lead:\n\n * Link to community contributions\n   – Season 3 Grants Launch\n   [https://gov.optimism.io/t/grants-council-season-3-launch/4833]– Season 4\n   Grants Launch\n   [https://gov.optimism.io/t/season-4-grants-council-kickoff/6082]\n * Grants Council Lead Seasons 3 + 4\n * Dane is a core contributor at Alliance (alliance.xyz) and a fellow of the\n   Decentralization Research Center\n\nCouncil Charter:\n\n· Link to original Charter: Season 3 Charter\n[https://gov.optimism.io/t/special-voting-cycle-9a-grants-council/4198]\n\n· Link to Last Season’s Charter: Season 4 Charter\n[https://gov.optimism.io/t/draft-grants-council-season-4-charter/5924]\n\n· Link to proposed Season 5 Charter\n[https://gov.optimism.io/t/draft-proposed-grants-council-charter-season-5/6942]\n- Please note all Council Charters will now be maintained on github as pages\nunder the Operating Manual\n[https://github.com/ethereum-optimism/OPerating-manual/tree/main]\n\nPlease note that the Charter of the Council will need to be expanded to account\nfor the following changes in Scope:\n\n§ The Grants Council will now process all Delegate Mission Applications, under\nall Intents (not just Intent #2)\n\n§ The Grants Council will no longer operate its own Request For Grant program,\nbut rather will be able to propose Delegate Mission Requests, subject to Token\nHouse approval in Voting Cycle #18\n\n§ Mission Applications will continue to be classified as growth experiments or\nbuilders grants, or a combination of the two. The Grants Council should continue\nto evaluate these grants based on defined goals and public rubrics for each\ngrant type, as well as their ability to achieve the corresponding Intent\n\n§ All Mission Applications should be processed according to Trust Tiers\n\nBreakdown of Council Operating Budget:\n\nThe proposed Council Operating Budget is increased relative to Season 4 for a\nnumber of reasons. First, the number of reviewers has increased by five in order\nto accommodate much larger than anticipated interest (in the prior Season) in\nthe Optimism Grants Program. The reviewers span three Sub-Committees rather than\ntwo in Seasons 3 + 4. Second, the Grants Council was dedicated to one intent in\nSeason 4, but will review proposals from all intents for Season 5. Third, the\nSeason 4 budget was put together with ten weeks of grant processing in mind (in\nreference to Season 3, which was two cycles), relative to 12 weeks of grant\nprocessing in Season 5.\n\n3 Sub-Committees and Ops = 400k OP\n\n * Builders: 5 Reviewers @ 30k OP (+ 5k OP from S4)\n * Experiments: 5 Reviewers @ 30k OP (+5k OP from S4)\n * Milestones and Metrics: 3 Reviewers @ 25k OP (new in S4)\n * Ops Manager: Additional 10k OP (+5k from S4)*\n * Milestones and Metrics Manager: Additional 10k OP (new in S4)\n * Communications Manager: Additional 5k OP (same as S4)\n\n*Should he be re-elected as a reviewer, the intention would be to reappoint\n@Gonna.eth [/u/gonna.eth] to this position.\n\nCouncil-related requests for grants = 40k OP\n\n * 40k OP will be set aside for grants specifically designed to enhance Council\n   operations (e.g., knowledge management platform, front-end, developer\n   contributions, etc).\n\nLead = 0 OP\n\n * This position will be rewarded only through retroPGF if it is rewarded for\n   Season 5.\n\nThis budget does not include: any amounts granted by the Foundation for ongoing\nmilestone review and council maintenance prior to Season 5 launch or any amounts\ngranted to Council-members for prior seasons for RetroPGF.\n\nHow should Token House delegates ensure the Council is executing on its Charter?\n\n· Benchmark Milestone 1\n\n * Review > 95% of Mission Requests\n\n· Benchmark Milestone 2\n\n * Maintain finalist rate < 30%\n\n· Benchmark Milestone 3\n\n * Process > 300 proposals\n\nBenchmark Milestone 4\n\n * Publish rubrics for each Sub-Committee, modified as applicable for each\n   intent, prior to the review of proposals for Cycles 19-22\n\nHow should badgeholders measure the Council’s impact?\n\n· KPI 1\n\n * NPS score from finalists > 7/10\n\n· KPI 2\n\n * Creation of Milestone Hub for long-term milestone tracking\n\n· KPI 3\n\n * Office Hours and AMA attendance by > 75 unique proposers",
+  "views": 2195,
+  "like_count": 66,
+  "word_count": 1897,
+  "answer": [
+    {
+      "content": "I am an Optimism delegate with sufficient voting power\n[https://vote.optimism.io/delegate/joxes.eth], and I believe this proposal is\nready to move to a vote.",
+      "created_at": "2023-10-11T13:42:18.387Z",
+      "trust_level": 2,
+      "username": "Joxes",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "Great question. The idea is to create division of labor to allow one\nsub-committee to focus on milestone approval and assessment. The sub-committee\nwould not be in charge of choosing finalists, but would be required to sign off\non milestones. The sub-committee would also focus on building the milestone\ntracking interface. The sub-committee would also create a way to track reviewer\nparticipation and help to fill in for intake if needed. Ideally, the milestone\nsub-committee would pick up the work of articulating the process and selecting\nthe projects eligible for the audit and RPC programs from S4 RFGs 3 and 5. More\nfrom the Charter below. It would be great if some excellent community members\nwould consider proposing to fill these positions.\n\nMilestones and Metrics Sub-Committee:\n\n * Goals: assessing historical grant finalist progress on milestones, confirming\n   final milestones for Season 5 grants, and maintaining relevant council and\n   reviewer metrics\n * Non-goal: not meant to be punitive for the sake of being punitive\n * The sub-committee will create a Milestone Hub in coordination with the\n   operations manager in order to provide a clear location for proposers to\n   report milestones and for the community to review milestone progress\n * The sub-committee will create and track minimum standards for reviewer\n   performance in the Builders and Experiments Sub-Committees\n * The sub-committee will track reviewer-level KPIs for Season 5, which shall\n   include (but not be limited to):\n\n 1. Reviewer comment frequency on substantive rubric components\n 2. Reviewer comments on failed intake proposals\n 3. Reviewer attendance of sub-committee meetings\n 4. Reviewer voting on sub-committee and full council polls\n\n * The sub-committee will review the application of review rubrics for each of\n   the other two sub-committees and offer recommendations on how rubrics can be\n   more finely tailored to their purposes\n * Reviewers on this sub-committee may be assigned to sufficiency reviews (e.g.,\n   intake) if the Lead determines additional capacity is needed\n * The sub-committee may define, adopt, or amend procedures for the\n   administration of prior grants, such as RFGs 3 and 5 from Season 4\n * Responsible for monitoring trust tiers\n * Reviewers: 3\n * Consensus: 2/3 vote unless otherwise stated.\n * This sub-committee will be capable of amending milestone assessment\n   procedures by majority vote. Changes can be vetoed by a simple majority of\n   the full Council within five days of the proposal to change the procedures.\n * The sub-committee will consider any change-of-use or change of milestone\n   proposals from prior finalists and make recommendations to the full Council.\n   A simple majority of the full Council reviewers (7/13) shall be required to\n   approve a change-of-use or change of milestone proposal.\n * The Sub-Committee will have the authority to determine how many votes are\n   needed to accept or reject milestone completion reports through its internal\n   operating procedures.",
+      "created_at": "2023-10-23T15:18:49.404Z",
+      "trust_level": 2,
+      "username": "danelund.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "The additional role for milestones is a good step forward and should boost\noverall efficiency for all reviewers.\n\nAs an Optimism delegate with voting power above the required threshold I believe\nthis proposal is ready for vote. Delegate Commitments - #71 by MoneyManDoug\n[https://gov.optimism.io/t/delegate-commitments/235/71]",
+      "created_at": "2023-10-11T00:15:16.068Z",
+      "trust_level": 2,
+      "username": "MoneyManDoug",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "This is a needed expansion, one that allows a good deal of specialization and\nmore inclusion.\n\nAs an Optimism delegate with voting power above the required threshold I believe\nthis proposal is ready for vote. Optimism Agora\n[https://vote.optimism.io/delegate/jackanorak.eth]",
+      "created_at": "2023-10-11T13:30:35.272Z",
+      "trust_level": 2,
+      "username": "jackanorak",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Love what Dane has achieved here so far and excited to see it continue. I am an\nOptimism delegate with sufficient voting power, and I believe this proposal is\nready to move to a vote.",
+      "created_at": "2023-10-11T13:57:01.790Z",
+      "trust_level": 2,
+      "username": "ceresstation",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    }
+  ],
+  "created_at": "2023-10-10T23:09:43.087Z"
+}

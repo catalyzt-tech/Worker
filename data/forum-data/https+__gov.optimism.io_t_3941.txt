@@ -1,0 +1,9 @@
+{
+  "title": "Suggestion: Do a second airdrop now!",
+  "content": "Here is a little suggestion from my side. After following the carnage in today’s\nmarket with the potential FTX meltdown and all the negativity that comes with\nit, it might be a great counter move to do a second airdrop now (in the very\nnear future). OP has built some really nice momentum the last couple of\nweeks/months, with some great development and rapidly expanding its\ncommunity/user base. To keep this going it would be a really smart move to\nreward the community with a little “gift”, especially at times like this.\n\nI am fully aware of the fact that I have no clue what is going on behind the\nscenes and know nothing about any plans of future airdrops. Thus this is only a\nsuggestion from my side.\n\nPeace out. And don’t keep your coins on exchanges. Always remember - Not your\nkeys, not your coins.",
+  "views": 1532,
+  "like_count": 0,
+  "word_count": 150,
+  "answer": [],
+  "created_at": "2022-11-08T19:15:49.718Z"
+}

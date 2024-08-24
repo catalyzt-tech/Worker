@@ -1,0 +1,50 @@
+{
+  "title": "[Mission Request] Voting Analysis",
+  "content": "Delegate Mission Request Summary\n\nConduct research and analysis on governance attacks, voting mechanisms,\nnon-plutocratic governance systems, and bicameral governance systems to enhance\nthe decentralization and security of the Collective’s governance process.\n\nS6 Intent 1: Progress Towards Decentralization\n\nProposing Delegate/Citizen: Gonna.eth\n\nTotal grant amount: 50.000 OP\n\nShould this Mission be fulfilled by one or multiple applicants\n\nMultiple applicants\n\nHow will this Mission Request help accomplish the above Intent?\n\nThis mission request will help accomplish the Progress Towards Decentralization\nintent by conducting research and analysis on governance attacks, voting\nmechanisms, non-plutocratic governance systems, and bicameral governance\nsystems. This research will help the Collective identify and mitigate potential\nrisks, explore effective voting mechanisms, and analyze non-plutocratic\ngovernance systems and bicameral governance systems, ultimately leading to a\nmore secure, decentralized, and transparent governance process.\n\nWhat is required to execute this Mission Request?\n\n 1. Define the scope and objectives of the research and analysis.\n 2. Catalogue and analyze all governance attacks to date, including their\n    impact, prevalence, and mitigation strategies.\n 3. Explore the tradeoffs between public and private voting mechanisms,\n    including their effectiveness, security, and user experience.\n 4. Identify attack vectors in non-plutocratic governance systems and develop\n    effective prevention methods.\n 5. Analyze the history of bicameral governance systems and their failures, and\n    suggest alternative governance structures.\n 6. Develop a report summarizing the findings and recommendations.\n\nHow should governance participants measure impact upon completion of this\nMission Request?\n\nGovernance participants can measure the impact of this mission request by\ntracking the following metrics:\n\n 1. Number of governance risks and vulnerabilities identified and mitigated.\n 2. Adoption of best practices and effective prevention methods.\n 3. Improvement in the security and decentralization of the governance process.\n\nMilestones\n\n 1. Scope and objectives defined\n 2. Catalogue and analysis of governance attacks completed\n 3. Tradeoffs between public and private voting mechanisms explored\n 4. Analysis of non-plutocratic governance systems and attack vectors completed\n 5. Analysis of bicameral governance systems and alternative structures\n    completed\n 6. Report summarizing findings and recommendations completed\n\nMetrics\n\n 1. Number of governance risks and vulnerabilities identified and mitigated.\n 2. Adoption of best practices and effective prevention methods.\n 3. Improvement in the security and decentralization of the governance process.\n\nImpact\n\nThis mission request will have a positive impact on the Collective’s\ndecentralization and security by conducting comprehensive research and analysis\non governance attacks, voting mechanisms, non-plutocratic governance systems,\nand bicameral governance systems. This will lead to a more secure,\ndecentralized, and transparent governance process that benefits the entire\nCollective.\n\nHas anyone other than the proposer contributed to this Mission Request?\nnone\n\n\nWHICH METRIC WILL THE SUCCESS OF THIS MISSION REQUEST BE EVALUATED AGAINST?\n\nThe North star metric against which this Mission Request should be evaluated is\n# of addresses voting for the first time, as it indicates how the downstream\neffect of this research as well as the practical implementation of the resulting\nfindings contribute to an increase in active voting participation. This metric\nwas suggested by the Foundation and approved by the Grants Council.",
+  "views": 391,
+  "like_count": 8,
+  "word_count": 759,
+  "answer": [
+    {
+      "content": "It can be hard to scope research reports and assess their value. One approach\ncould be to be more specific in the ask, or to have teams propose really\nspecific research outcomes in their applications. You might also consider\nsourcing open research questions from the Collective Feedback Commission,\nDelegates, govNERDs, and Citizens.\n\nHere is an example of a Foundation Mission Request that is currently in progress\nrelated to a similar topic: Optimism Ecosystem Contributions 🔴✨ · GitHub\n[https://github.com/orgs/ethereum-optimism/projects/31/views/1?pane=issue&itemId=61734705]\nIt’s probably useful context to avoid duplicate work, but might also inspire\nsome ideas about how this type of research could be scoped.\n\nDisclaimer: I work for the Optimism Foundation but comments are my own",
+      "created_at": "2024-07-10T11:57:45.962Z",
+      "trust_level": 4,
+      "username": "optimistic_emily",
+      "admin": true,
+      "moderator": false,
+      "staff": true,
+      "like_count": 3
+    },
+    {
+      "content": "Great point how much do you suggest? Budgeting for research is always hard for\nme.",
+      "created_at": "2024-07-06T12:58:24.809Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 0
+    },
+    {
+      "content": "A North Star Metric has been added at the bottom of this Mission Request in an\neffort to enable the Collective to make data-driven decisions. By using a single\nmetric for each Mission Request, the Collective is better able to evaluate the\nperformance of all the Season 6 missions in a standardized manner, which will be\ncritical when the Collective makes decisions about Intents, budgets, or other\ncritical components of governance.",
+      "created_at": "2024-07-22T19:11:48.834Z",
+      "trust_level": 4,
+      "username": "system",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 0
+    },
+    {
+      "content": "Really like the idea but I’m curious how you landed on 50k OP?\n\nTo me it feels like research reports are generally hard to scope in a way to\nmake such large grants worthwhile.\n\nWithout knowing the reason behind it I’d suggest a lot less.",
+      "created_at": "2024-07-05T16:53:42.113Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-07-05T15:02:45.376Z"
+}

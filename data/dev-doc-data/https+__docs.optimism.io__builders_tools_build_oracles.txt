@@ -1,0 +1,143 @@
+title: Oracles
+lang: en-US
+description: Learn about different oracles and how you can use them to access offchain data onchain as well as random number generation.
+
+import { Callout } from 'nextra/components'
+
+Oracles
+
+This reference guide lists different Oracles you can use when building on Optimism. Oracles provide offchain data onchain. This allows code running on a blockchain to access a wide variety of information.
+For example, a stablecoin that accepts ETH as collateral needs to know the ETH/USD exchange rate:
+
+How many stablecoins can we give a user for a given amount of ETH?
+Do we need to liquidate any deposits because they are under collateralized?
+
+Security and Decentralization
+
+Different oracles have different security assumptions and different levels of decentralization.
+Usually they are either run by the organization that produces the information, or have a mechanism to reward entities that provide accurate information and penalize those that provide incorrect information.
+
+Types of Oracles
+
+There are two types of oracles:
+
+Push oracles are updated continuously and always have up to date information available onchain.
+
+
+Pull oracles are only updated when information is requested by a contract.
+Pull oracles are themselves divided into two types:
+
+Double-transaction oracles, which require two transactions.
+The first transaction is the request for information, which usually causes the oracle to emit an event that triggers some offchain mechanism to provide the answer (through its own transaction).
+The second transaction actually reads onchain the result from the oracle and uses it.
+Single-transaction oracles, which only require one transaction. The way this works is that the transaction that requests the information includes a callback (address and the call data to provide it).
+When the oracle is updated (which also happens through a transaction, but one that is not sent by the user), the oracle uses the callback to inform a contract of the result.
+
+Random Number Generation (RGN)
+
+Random number generation in blockchain applications ensures that smart contracts can access unbiased random values. This is essential for certain use cases like generative NFTs, gaming, commit & reveal schemes and more. Various approaches include using a trusted third party, blockhash-based methods, Verifiable Random Functions (VRF), quantum random numbers to name a few. Each method has trade-offs between simplicity, security, and trust assumptions, allowing developers to select the most suitable option for their use case.
+
+List of Oracles
+
+Gas Oracle
+
+OP Mainnet provides a Gas Price Oracle that provides information about gas prices and related parameters.
+It can also calculate the total cost of a transaction for you before you send it.
+
+This contract is a predeploy at address 0x420000000000000000000000000000000000000F:
+
+On OP Mainnet
+On OP Sepolia
+
+This is a push Oracle.
+OP Mainnet (and the testnets) updates the gas price parameters onchain whenever those parameters change.
+The L1 gas price, which can be volatile, is only pushed once every 5 minutes, and each time can change only by up to 20%.
+
+API3
+
+The API3 Market provides access to 200+ price feeds on Optimism Mainnet and Testnet. The price feeds operate as a native push oracle and can be activated instantly via the Market UI.
+
+The price feeds are delivered by an aggregate of first-party oracles using signed data and support OEV recapture.
+
+Unlike traditional data feeds, reading API3 price feeds enables dApps to auction off the right to update the price feeds to searcher bots which facilitates more efficient liquidation processes for users and LPs of DeFi money markets. The OEV recaptured is returned to the dApp.
+
+API3's QRNG provides dApps with truly random numbers based on quantum mechanics at no charge. More details here
+
+Chainlink
+
+Chainlink is the industry-standard decentralized computing platform powering the verifiable web.
+Chainlink powers verifiable applications and high-integrity markets for banking, DeFi, global trade, gaming, and other major sectors.
+
+Chainlink provides a number of price feeds.
+Those feeds are available on the production network @ Op Mainnet.
+
+Data Feeds: Chainlink Data Feeds provide a secure, reliable, and decentralized source of off-chain data to power unique smart contract use cases for DeFi and beyond.
+Automation: Chainlink Automation is an ultra-reliable and performant smart contract automation solution enabling developers to quickly scale their operations in a verifiable, decentralized, and cost-efficient manner, to build next-generation apps.
+CCIP: Chainlink CCIP provides a secure interoperability protocol for powering token transfers and sending arbitrary messages cross-chain.
+
+This is a push Oracle. See the Using Data Feeds guide to learn how to use the Chainlink feeds.
+
+Chainlink VRF provides cryptographically secure randomness for blockchain-based applications. More details here
+
+Chronicle
+
+The first Oracle on Ethereum, Chronicle's decentralized Oracle network was originally built within MakerDAO for the development of DAI and is now available to builders on OP Mainnet and the Superchain.
+
+Data Feeds: Builders can choose from 65+ data feeds, including crypto assets, yield rates, and RWAs. Chronicle's data is sourced via custom-built data models, only utilizing Tier 1 Primary Sources, such as the markets where tokens are actively traded, including Coinbase, Binance, Uniswap, and Curve.
+Transparency & Integrity: Chronicle's Oracle network is fully transparent and verifiable. Via The Chronicle, the data supply chain for any Oracle can be viewed in real-time and historically, including data sources and the identity of all Validators/Signers. Users can cryptographically challenge the integrity of every Oracle update using the 'verify' feature. Data is independently sourced by a community of Validators, including Gitcoin, Etherscan, Infura, DeFi Saver, and MakerDAO.
+Gas Efficiency: Pioneering the Schnorr-based Oracle architecture, Chronicle's Oracles use 60-80% less gas per update than other Oracle providers. This lowest cost per update allows Push Oracle updates to be made more regularly, ensuring more accurate and granular data reporting.
+
+Every Oracle implementation is customized to fit your needs. Implement one of our existing data models or contact Chronicle to develop custom Oracle data feeds via Discord or Email. Developers can dive deeper into Chronicle Protocol's architecture and unique design choices via the docs.
+
+Gelato
+
+Gelato VRF enables smart contracts on Optimism to access verifiable randomness. Gelato VRF offers real randomness for blockchain applications by leveraging Drand, a trusted decentralized source for random numbers.
+
+Gelato VRF (Verifiable Random Function) provides trustable randomness on EVM-compatible blockchains. Here's a brief overview:
+
+Contract Deployment: Use GelatoVRFConsumerBase.sol as an interface for requesting random numbers.
+Requesting Randomness: Emit the RequestedRandomness event to signal the need for a random number.
+Processing: Gelato VRF fetches the random number from Drand.
+Delivery: The fulfillRandomness function delivers the random number to the requesting contract.
+
+Ready to integrate? Head over to the Gelato VRF Quick Start Guide.
+
+Pyth Network
+
+The Pyth Network is a financial oracle network which delivers over 400 low-latency, high-fidelity price feeds across cryptocurrencies, FX pairs, equities, ETFs, and commodities.
+
+Pyth's price data is sourced from over 95 first-party sources including exchanges, market makers, and financial services providers.
+Pyth Price Feeds offer both the real-time spot price of the asset as well as an accompanying confidence interval band around that price
+The Pyth TradingView integration allows users to view and display Pyth prices on their own website and UI.
+
+You can explore the full catalog of Pyth Price Feed IDs for OP Mainnet and Sepolia (EVM Stable).
+
+Pyth Entropy allows developers to quickly and easily generate secure random numbers on the blockchain. More details here
+
+RedStone
+
+RedStone offers flexible Data Feeds for Lending Markets, Perpetuals, Options, Stablecoins, Yield Aggregators and other types of novel DeFi protocols. The infrastructure is well battle-tested and secures hundreds of millions of USD across mainnet.
+
+Builders can choose how they want to consume the data among 3 dedicated models:
+
+RedStone Core (pull oracle) - less than 10s update time, broad spectrum of feeds, best for most use cases. All Core Price Feeds are available on OP Mainnet & OP Sepolia.
+RedStone Classic (push oracle) - for protocols designed for the traditional oracle interface, customizable heartbeat and deviation threshold.
+RedStone X - specifically for Perps and Options, highest update frequency and front-running protection.
+
+Interested in integration? Get in contact with the RedStone team!
+
+Inclusion Criteria
+
+Developer teams who want to feature products/tools on this page must meet the following criteria:
+
+ongoing partnership with Optimism whether formal agreement, RPGF, RFP, collaborated on specific initiatives, etc.;
+established user base and OP ecosystem engagement such as governance participation, homegrown TG or Discord participation, etc.; and
+actively maintained developer tool that aligns with OP's commitment to a magical developer experience (e.g., easy-to-use, easy-to-integrate, great DevX, highly-rated by community, etc.)
+
+For teams that are supporting but still establishing a user base, we encourage you to share your tool on the community oracles page.
+You can also promote your tool in the developer forum and signup to share your tool at the next demo day.
+
+Next Steps
+
+Please visit the community oracles page for a listing of third-party Oracles used by the Optimism developer community.
+Looking for other developer tools? See developer tools overview to explore more options!

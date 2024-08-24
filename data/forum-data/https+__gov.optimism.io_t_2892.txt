@@ -1,0 +1,60 @@
+{
+  "title": "[DRAFT] [GF: Phase 1] Rook Protocol",
+  "content": "Project Name: Rook Protocol\n\nAuthor Name: @DaddyMatty [/u/daddymatty]\n\nI understand that I will be required to provide additional KYC information to\nthe Optimism Foundation to receive this grant: Yes\n\nL2 recipient address: 0x9a67F1940164d0318612b497E8e6038f902a00a4\n\nGrant category: DeFi/InfrastructureIs this proposal applicable to a specific\ncommittee? Yes,\n\n\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/gonna.eth/48/3379_2.png]\n[DRAFT][SO2 Committee Proposal: DeFi: Group C]\n[https://gov.optimism.io/t/draft-so2-committee-proposal-defi-group-c/3320]\nMetagovernance [/c/governance/metagovernance/53]\n\n> Committee Proposal Committee Category: DeFi Committee Our focus is on making\n> the proposal process straightforward for DeFi projects by providing a clear\n> framework and support along the way. Our approach of engaging with proposers,\n> performing solid due diligence & sharing qualified assessments, should help\n> proposers make stronger proposals, facilitate decision-making for other\n> delegates and strengthen the Op ecosystem. We consider all kinds of DeFi\n> applications and liquidity mining schemes to…\n\nProject description:\n\nAt least $1.3 billion in MEV has been extracted from users and applications as a\nresult of misaligned incentives that have turned blockchains, the “ultimate\ncoordination technology,” into hostile “dark forests”.\n\nIntervention from groups such as Flashbots have prevented this massive outflow\nof MEV from destabilizing blockchain security. But there has been no equivalent\neffort to give users, builders, and applications the ability to harness or\nretain the MEV they create, the value that is rightfully theirs.\n\nAt Rook we believe that for blockchains to thrive, this must change. Everyone –\nnot just the most sophisticated actors – should have access to this capability.\nBlockchains let us own our assets, own our data. Why shouldn’t they let us own\nour order flow?\n\nSo we created the world’s first decentralized payment for order flow protocol.\nRook has been building in the MEV space since 2020 and we are excited to share\nour latest iteration with the industry.\n\nIt lets users, builders, and applications unlock, for the first time, the MEV\nthat belongs to them. It’s a quantum leap for DeFi and for traditional PFOF as\nwell.\n\nIt’s free to use, accessible to anyone, trustless and decentralized, and\nmaximizes the value returned to users and clients. This is PFOF as a public\ngood, and we want to share it with users and builders on Optimism.\n\nProject links:\n\n * Website: https://www.rook.fi/ [https://www.rook.fi/]\n * Twitter: https://twitter.com/Rook [https://twitter.com/Rook]\n * Discord/Discourse/Community: http://discord.gg/rook [https://t.co/Wu537jwzXc]\n\nAdditional team member info: https://www.rook.fi/about\n[https://www.rook.fi/about]\n\nRelevant usage metrics\n\nDune Dashboard - https://dune.com/0x_stubbs/Rook-Ecosystem\n[https://dune.com/0x_stubbs/Rook-Ecosystem]\n\nRook Trade App Metrics (Keepers = MEV Searchers)\n\n\n\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/0/009347ca7770b8aabd3c38228c22605d28c7660e_2_602x83.png]\n1042×144 9.37 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/0/009347ca7770b8aabd3c38228c22605d28c7660e.png]\n\n\n\nIs/will this project be open sourced? In Future\n\nOptimism native?: No\n\nEcosystem Value Proposition:\n\nWhat is the problem statement this proposal hopes to solve for the Optimism\necosystem?\n\nMEV is created at the user and application layer but this value is siphoned away\nto the consensus layer. It is extractive and can be harmful to everyday users on\nOptimism. Rook wants to democratize this value and return it to the users who\ncreate it. Rook hopes that by integrating with Optimism native protocols we will\nbe able to give users more confidence in the execution of their transactions.\n\nHow does your proposal offer a value proposition solving the above problem?\n\nRook has developed infrastructure that brings together users, protocols, and MEV\nsearchers. Protocols that integrate with Rook allow for our network of searchers\nto identify and capture MEV. The value captured by searchers is then\nredistributed back to the users.\n\nEmpirical evidence from transaction data shows large volume traders (whales and\ninstitutions) who transact smaller (a few million) sample trades to test Rook’s\nexecution against competing protocols quickly realize Rook’s competitive\nadvantage. Demonstrated in this example of a $110M trade\n[https://twitter.com/Rook/status/1525208845240283141].\n\nWhy will this solution be a source of growth for the Optimism ecosystem?\n\nUsers interacting with protocols integrated with Rook will get paid for their\norder flow. More money for users, more activity for Optimism.\n\nHas your project previously applied for an OP grant? No.\n\nNumber of OP tokens requested: 400,000\n\nDid the project apply for or receive OP tokens through the Foundation Partner\nFund?: No\n\nHow much will your project match in co-incentives?\n\nContingent upon a successful governance vote Rook will commit $500,000 for\nco-investment into our integration partners on Optimism. For example if Rook\nwere to integrate with Velodrome these funds would be used to increase liquidity\non their dex. Rook believes in coordination, and we always look for ways to\nincentivize strategic partnerships - and not just partnerships for profit - but\nprojects and partners aligned to improving the public goods of the Ethereum\nblockchain.\n\nProposal for token distribution:\n\nHow will the OP tokens be distributed?\n\n100% of the OP tokens will be reserved for incentivizing the products of the\nprotocols Rook integrates with on Optimism. Rook thrives when integrated\nprotocols thrive, which is why we will be working with our partners on Optimism\nand incentivizing their products.\n\nOver what period of time will the tokens be distributed for each initiative?\n\nIntegration times will vary given each integration is unique to the application.\nWhile we would prefer to under-promise and over-deliver, we feel it’s prudent to\navoid setting a hard deadline for the claim period of Optimism tokens to ensure\nthe highest priority remains steadfast on the quality of integration over the\nspeed of integration…\n\nWhy will incentivized users and liquidity on Optimism remain after incentives\ndry up?\n\nAbove and beyond protection from predatory MEV exploitation, Rook-enabled\nprotocols on Optimism will be able to offer users the unique incentive of the\nMEV generated from their own orders! Transacting outside of Rook’s Coordination\nLayer exposes users to MEV searchers that will extract capital at the user’s\nexpense. Optimism users interacting with protocols integrated with Rook will\nhave their transactions privately broadcasted to our allowlisted keepers. These\nkeepers will search for the MEV of your transaction and rebate 80% of the\nextractable value back to users on Optimism. This returned MEV can be used in\nmany ways and we expect protocols to get inventive. Users will be incentivized\nto remain on Optimism because:\n\n 1. The features, functionality and revenue earned through integrating with Rook\n    cannot be found elsewhere outside of Rook integration with Optimism.\n\n 2. Rook returns capital to protocols, applications and users that would\n    otherwise be siphoned away, creating new revenue streams at no added cost or\n    risk to users. Owning your order flow (and being paid for it) from\n    non-inflationary token rebates is unheard of today - and once users get paid\n    for transacting - it becomes the “new-normal”; as evidenced by our high user\n    retention rate.",
+  "views": 3395,
+  "like_count": 23,
+  "word_count": 1683,
+  "answer": [
+    {
+      "content": "I’ve been getting to know the Rook team for the last several weeks and have been\nreally impressed by their strategic thinking and general protocol operations. I\nsupport this proposal!",
+      "created_at": "2022-07-06T18:50:47.138Z",
+      "trust_level": 0,
+      "username": "schorgie30",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "I am an Optimism delegate [Delegate Commitments - Delegate Commitments - #25 by\nMinimalGravitas [https://gov.optimism.io/t/delegate-commitments/235/25]] with\nsufficient voting power, and I believe this proposal is ready to move to a vote.\n\nEDIT: Sorry, this might be a bit late, have been away camping so lost track of\nthe date!",
+      "created_at": "2022-10-28T08:00:49.642Z",
+      "trust_level": 2,
+      "username": "MinimalGravitas",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "i’ll summarize what i said in the discord:\n\nI think this needs another week to marinate. there’s little if any detail on the\nask itself – what you would do, how it is intended to grow Optimism, how you\nmeasure success. Reflect a bit and paint more of a picture – delegates should be\nable to guide you as well.\n\nCertainly there’s an opportunity for Rook to add value here – just need to think\nthrough how best to deploy resources to amplify impact.",
+      "created_at": "2022-10-04T16:41:54.254Z",
+      "trust_level": 2,
+      "username": "jackanorak",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "hello @DaddyMatty [/u/daddymatty] and thank you for the well written proposal.\nRook is an important piece of infrastructure on Ethereum and I am glad you are\ninterested in integrating on Optimism. The only two feedback I have for you are\nthe following:\n\n 1. Token Distribution\n\n\n[https://avatars.discourse-cdn.com/v4/letter/d/ebca7d/48.png] DaddyMatty:\n\n> 100% of the OP tokens will be reserved for incentivizing the products of the\n> protocols Rook integrates with on Optimism.\n\nClarify how the tokens will be distributed. Are the reserved as grants for\nbuilders to integrated Rook? How much are you allocating per project? What’s the\ndistribution timeline and how many projects are you aiming to onboard? Further\nclarification will help you get feedback if the amount you are asking is\nreasonable or need to be changed.\n\n 2. Deploy on Optimism\n\nPrivate broadcast of trade transactions are important and I don’t see anyone\noffering this service yet on Optimism. I would encourage you to integrate and\ndeploy Rook on Optimism already. Your proposal is much more likely to pass if\nyou show that you are committed.\n\nOverall, your proposal is well written, and I don’t see a reason it wouldn’t\npass if you incorporate this feedback.",
+      "created_at": "2022-10-25T09:36:01.233Z",
+      "trust_level": 2,
+      "username": "marc",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "10/10 would do this, from either side of the fence this is a good deal.",
+      "created_at": "2022-09-06T16:00:18.667Z",
+      "trust_level": 0,
+      "username": "AboveAverageJoe",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2022-07-06T12:39:20.931Z"
+}

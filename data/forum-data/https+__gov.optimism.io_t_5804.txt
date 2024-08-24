@@ -1,0 +1,20 @@
+{
+  "title": "Who are the most active and involved delegators",
+  "content": "Hi,\n\nI have some OP tokens for long term and would like to delegate them to most\nactive and involved delegators. I believe in the great potential of OP\nblockchain.",
+  "views": 1356,
+  "like_count": 5,
+  "word_count": 100,
+  "answer": [
+    {
+      "content": "Hey! I’ve been here since the beginig. I’m the first delegate on the “delegates\ncommitment”, participated on every vote, I’ve been member of the first committe\nand also part of the builders committe actibe until yesterday. I’m now catching\nup with the forum (lasts weeks I had time for proposals only). I’ll be happy to\nrepresent your intrests. You can delegate at Gonna.eth.\n\nCheers!",
+      "created_at": "2023-04-10T02:45:39.616Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 4
+    }
+  ],
+  "created_at": "2023-04-01T09:30:37.995Z"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Voting Roundup Cycle 10",
+  "content": "FOR NON-GRANT PROPOSALS ONLY. ALL GRANT PROPOSALS WILL BE PROCESSED BY THE\nGRANTS COUNCIL ACCORDING TO THE PROCESS OUTLINED HERE\n[https://gov.optimism.io/t/grants-council-internal-operating-procedures/4832]\n\nCycle 10 began on Thursday (January 26th) at 19:00 GMT and runs until Wednesday\n(March 1st) at 19:00 GMT.\n\nFor a non-grant proposal to proceed to Week 4, four delegates, each with >0.5%\nof the current votable token supply, must give explicit approval on the\ndiscussion thread. Delegates may not approve their own proposals. After a\nnon-grant proposal has received four delegate approvals, the proposal author\nshould update the proposal title from [Draft] to [Final] and add a link to their\nproposal in the Voting Cycle Roundup thread by the last day of Week 3 at 19:00\nGMT (12:00p PST).\n\nA snapshot of delegate voting weights will be taken at the start of the vote\nwindow. Voting will take place via the Optimism Governance Portal during Week 4\nof the Cycle.\n\nFor a detailed breakdown of the governance and voting process, please see the\nupdated Operating Manual\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md].",
+  "views": 4226,
+  "like_count": 4,
+  "word_count": 233,
+  "answer": [
+    {
+      "content": "Bedrock Protocol Upgrade\n[https://gov.optimism.io/t/draft-upgrade-proposal-bedrock/5014/67]",
+      "created_at": "2023-02-15T23:59:40.094Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 0
+    },
+    {
+      "content": "The Bedrock Proposal will not proceed to a vote in Cycle #10 but may resubmit\nfor consideration in future Cycles.",
+      "created_at": "2023-02-16T22:47:07.378Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2023-01-31T07:55:24.516Z"
+}

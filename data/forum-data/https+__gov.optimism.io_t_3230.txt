@@ -1,0 +1,9 @@
+{
+  "title": "\"Happy Hour\" usage mining",
+  "content": "At the moment we have a lot of incentives for parking liquidity inside optimism,\nthis seems to be doing wonders for the health of the Optimism ecosystem. It\nseems likely we will become the largest L2 in terms of TVL within the coming\nweeks.\n\nHowever liquidity mining only tackles 1 side of ecosystem (liquidity), I propose\ntackling the other side (usage! because isn’t that what makes L2s so great!).\n\nIntroducing “Happy Hour”, for 1 hour per day, user TX fees are reimbursed with\nOP tokens. Theres two different approaches im thinking of.\n\n * OP tx reimbursement covers part of the cost but not all of it maybe 90% of\n   the fee and claiming that OP can happen relatively quickly.\n\n * OP tx reimbursement covers all + a little extra, making doing transactions\n   profitable. To avoid endless spam, we could add a wait period between the tx\n   and claiming the OP (maybe a week). Additionally we could only apply the\n   reimbursement to txs that are going to a list of community approved dapps.\n   Then the network isn’t just filled with junk txs like sending ETH to\n   yourself.\n\nLimiting the program to an hour per day ensures that if we underestimate the\neffects of the usage mining, its limited to an hour and gives the team and\ngovernance time to react.",
+  "views": 1617,
+  "like_count": 2,
+  "word_count": 218,
+  "answer": [],
+  "created_at": "2022-08-05T10:03:10.672Z"
+}

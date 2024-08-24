@@ -1,0 +1,9 @@
+{
+  "title": "Where it’s better to sell/buy $OP",
+  "content": "Hey everybody!\nJust a thought.\nWhat do you think if it matters where to buy/sell $OP?\nI mean better for the rates\n(the higher rate for $OP the better).\n\nLet’s assume that EVERYONE will do the same and it’ll be like a rule or like a\nflash mob…\n\nAll this about liquidity, Optimism blockchain activity, other blockchain\nactivities, $OP visibility and popularisation etc…\n\n * Buy and sell on Optimism blockchain (f.e. on some Optimism DEX)\n * Buy on Optimism sell outside (f.e. on some CEX or other blockchain)\n * Buy outside sell on Optimism\n * Buy and sell outside\n * Absolutely doesn’t matter\n * Your variant(put it in comments)\n\n0 voters",
+  "views": 355,
+  "like_count": 0,
+  "word_count": 122,
+  "answer": [],
+  "created_at": "2024-05-06T16:29:46.602Z"
+}

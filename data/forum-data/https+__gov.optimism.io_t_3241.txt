@@ -1,0 +1,20 @@
+{
+  "title": "L2 Security - OP Leadership and Governance",
+  "content": "I am trying my best to stay “Optomistic” but my needle has moved from\n“concerned” to “worried.”\n\nOpportunity: I don’t see alarms going off in the OP and L2 communities\nconcerning the number and severity of hacks that collectively have destroyed (by\nsome estimates) over 1 Billion of liquidy. I know of no quantitative data to map\nthe exponential Crypto growth against the number and value of hacks; however, I\nknow the numbers are growing and the Headlines will increasingly be a subject in\nmainstream media and to their advantage all corners of politics.\n\n*** OP Action:** It’s time that OP show L2 leadership by addressing security\nissues in apps that call OP home. I fear in retrospect, to do nothing will\nrepresent failure. To our credit, the industry has survived with bailouts\nsourced from within; however, the frequency and magnitude represent a problem\nnot to be ignored. Most importantly I believe ignoring the issue would be a\nviolation of key parts of the proposed OP Constitution.\n\n * Allocate treasury assets to fund public goods, incentivize participants in\n   the Optimism ecosystem, or otherwise further its (and the Collective’s)\n   purpose;\n\n * Take other actions that are conducive to its stewardship role.\n\n * The primary function of the Collective is to minimize the discrepancy between\n   collective impact and individual profit.\n\nConclusion: Hacks have exploited every component of the broad Crypto Echosystem\nincluding OP (Wintermute, Quixotic). Long-term, headlines will shift public\nopinion and unchecked jeopardize retail and institutional confidence. The OP\nCollective must lead an effort to recognize, publicize, and develop measures to\nminimize further industry damage in the OP Echosystem and beyond.",
+  "views": 1615,
+  "like_count": 1,
+  "word_count": 490,
+  "answer": [
+    {
+      "content": "Personally, I feel like we sometimes forget that Ethereum provides rewards (ETH)\nand penalties (Slash) to penalize or remove systemic threats. L2’s, in their own\nway, need the same (better) methods to mimic the rules governing those who earn\nthe privilege of being part of the OP Echosystem.\n\nWhat might the OP Collective do? Many in this community are far more capable\nthan this writer to devise best practices; however, here are a few discussion\npoints to provoke thought in a collaborative forum:\n\n * How can and how should the Collective reward those who benefit from\n   meeting/exceeding OP requirements\n * What do we have that might be tooled as a “slash?”\n * Proof of Reserves - zero-knowledge proofs\n * Self Regulation - if we don’t “they” will, but “theirs” will be quite\n   different than ours\n * Audits - Structure, requirements, verification, rewards, penalties\n\nThese represent perhaps the obvious ways we can tighten up the system. Even if\nwe can’t help those who have lost their fortune by way of scams, legit errors,\ngreed, and ignorance we can improve the financial and emotional experience of\nusers who admire and respect the OP Collective leadership.\n\nAll of the issues discussed here are great, but governance implies more. Without\nrules and consequences (good and bad) the OP Collective will have missed an\nopportunity while inviting failure.",
+      "created_at": "2022-08-06T19:36:57.063Z",
+      "trust_level": 1,
+      "username": "ALLIn",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-08-06T16:52:57.203Z"
+}

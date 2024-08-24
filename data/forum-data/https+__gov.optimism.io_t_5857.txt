@@ -1,0 +1,9 @@
+{
+  "title": "Add sETH to Challenge period (Withdraw to Mainnet)",
+  "content": "Today, Optimism bridge is taking almost all ETH derivates to be withdraw on\nMainnet with the challenge period.\n\nHere’s the current list available : ETH, wstETH, rETH, cbETH, frxETH, rfwstETH.\n\nThe Bridge already accept sETH from Mainnet to Optimism but there’s currently no\nway to bridge sETH to Mainnet for the return, also there’s none third party\nBridge (even Synthetix Bridge).\nsETH is increasingly used and could be added to the list.\n\nBridge token list : Ethereum token lists\n[https://tokenlists.org/token-list?url=https://static.optimism.io/optimism.tokenlist.json]\nsETH (Mainnet contract) : 0x5e74C9036fb86BD7eCdcb084a0673EFc32eA31cb\nsETH (Optimism contract) : 0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49",
+  "views": 3380,
+  "like_count": 3,
+  "word_count": 98,
+  "answer": [],
+  "created_at": "2023-04-11T14:21:31.998Z"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Airdrop Ethereum Validators (Beacon Chain Contract Depositors)",
+  "content": "Addresses that deposited to Beacon Chain Contract ( ETH validators ) should be\nincluded in further distributions\n\nI think this deserves its own thread so I created one as I think it will get\nburied under the airdrop #1 feedback\n\npurpose of this thread is to gauge interest and discuss before a governance\nproposal can be made.\nnot to criticize airdrop #1, instead look forward and support rewarding beacon\nchain depositors in subsequent community distributions\n\nWhy Beacon Chain depositors\nThese actors have proven\n• 𝐥𝐨𝐧𝐠 𝐭𝐞𝐫𝐦 𝐚𝐥𝐢𝐠𝐧𝐦𝐞𝐧𝐭 𝐰𝐢𝐭𝐡 𝐄𝐭𝐡𝐞𝐫𝐞𝐮𝐦,\n𝐞𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐥𝐲 𝐩𝐫𝐞-𝐦𝐞𝐫𝐠𝐞\n• 𝐚𝐩𝐭𝐢𝐭𝐮𝐝𝐞 𝐭𝐨 𝐫𝐮𝐧 𝐧𝐨𝐝𝐞𝐬 /𝐬𝐞𝐫𝐯𝐢𝐜𝐞 𝐭𝐡𝐞 𝐧𝐞𝐭𝐰𝐨𝐫𝐤\n• 𝐑𝐞𝐚𝐥 𝐫𝐞𝐬𝐨𝐮𝐫𝐜𝐞𝐬 𝐬𝐩𝐞𝐧𝐭 𝐭𝐨 𝐬𝐞𝐜𝐮𝐫𝐞 𝐭𝐡𝐞\n𝐧𝐞𝐭𝐰𝐨𝐫𝐤, 𝐭𝐡𝐢𝐬 𝐜𝐚𝐧𝐧𝐨𝐭 𝐛𝐞 𝐒𝐲𝐛𝐢𝐥 𝐚𝐭𝐭𝐚𝐜𝐤𝐞𝐝\nIf OP plays a role in decentralisation of the sequencer then this makes even\nmore sense, existing validators are most likely to run nodes for optimism. every\nvalidator I’ve spoken too, has expressed interest to run nodes on L2.\n\nEvery airdrop eligibility criteria I have seen in this space can be gamed, but\naddresses in this set must have committed a non-trivial amount of capital until\nthe merge, must be confident in the Ethereum communities’ ability to execute its\nroadmap and be positioned for long term success. must provide physical\ninfrastructure or pay for it to keep the validator active on the Network, this\nmust be persistent which incurs electricity costs, hardware costs, internet\nprovider costs and time/effort for maintenance.\n\ntwitter.com [https://twitter.com/GLCstaked/status/1519382570244390912]\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/a/a8111e1515422b5878338c50c770918b96169cfa.jpeg]\n\nGLCSTAKED [https://twitter.com/GLCstaked/status/1519382570244390912]\n\n@GLCstaked [https://twitter.com/GLCstaked/status/1519382570244390912]\n1) @optimismPBC [https://twitter.com/optimismPBC] Launched a Token, many of us\npredicted and prepared for this @BanklessHQ [https://twitter.com/BanklessHQ]\nnewsletter.banklesshq.com/p/how-to-get-r…\n[https://newsletter.banklesshq.com/p/how-to-get-ready-for-l2-tokens?s=r] Others\nare coming 𝐳𝐤𝐒𝐲𝐧𝐜, 𝐀𝐫𝐛𝐢𝐭𝐫𝐮𝐦, 𝐒𝐭𝐚𝐫𝐤𝐍𝐞𝐭 (@zksync @arbitrum\n[https://twitter.com/arbitrum] @StarkWareLtd [https://twitter.com/StarkWareLtd])\nwhat can you do now to prepare for an ‘airdrop’?\n6:26 PM - 27 Apr 2022 [https://twitter.com/GLCstaked/status/1519382570244390912]\n7 2\n\n\ntwitter.com [https://twitter.com/0xboodle/status/1519547061036670979]\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/3/35d143b15a337d76d1399e796c898d9fd9359e3a.jpeg]\n\nBOODLE.ETH 🐼 [https://twitter.com/0xboodle/status/1519547061036670979]\n\n@0xboodle [https://twitter.com/0xboodle/status/1519547061036670979]\n#ETH2 [https://twitter.com/search?q=%23ETH2] Beacon Chain validators are the\n*perfect* #airdrop [https://twitter.com/search?q=%23airdrop] recipients for #L2\n[https://twitter.com/search?q=%23L2] tokens, especially for a protocol that is\nlooking to decentralize its sequencer or run a node @optimismPBC\n[https://twitter.com/optimismPBC]@arbitrum [https://twitter.com/arbitrum]@zksync\n[https://twitter.com/zksync]@StarkWareLtd [https://twitter.com/StarkWareLtd] Am\nI biased in this thinking? yes, but it is true nonetheless👇\n5:20 AM - 28 Apr 2022 [https://twitter.com/0xboodle/status/1519547061036670979]\n13 2\n\n\n[https://europe1.discourse-cdn.com/bc41dd/original/1X/a70ab5d077374748901898cfcd9c7a09b8a303a9.png]\nreddit\n[https://www.reddit.com/r/ethfinance/comments/udbwlm/beacon_chain_validators_should_be_included_in_l2/]\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/5/5ef0322d26506f2e32851b5dd61c2d8fc47383e4.jpeg]\n\n\nR/ETHFINANCE - BEACON CHAIN VALIDATORS SHOULD BE INCLUDED IN L2 AIRDROPS\n[https://www.reddit.com/r/ethfinance/comments/udbwlm/beacon_chain_validators_should_be_included_in_l2/]\n\n150 votes and 71 comments so far on Reddit\n\n\n",
+  "views": 4888,
+  "like_count": 250,
+  "word_count": 5187,
+  "answer": [
+    {
+      "content": "Yes! Thank you for posting this.\nThe only thing that I would add are a few items to ward off the obvious\ncriticisms.\n\n1 - I think that testnet validators should be included here as best is possible.\nWe don’t want the aesthetic that airdrops are only going to folks who already\nhave at least 32 ETH.\n2 - Exchanges (e.g. Coinbase, Kraken, Binance) and semi-centralized\nstake-as-a-service providers (e.g. Lido Finance) should be removed from\nconsideration here. I think that it would be easy to filter depositing addresses\n(e.g. see pools.invis.cloud for a list of staking pools)",
+      "created_at": "2022-04-28T21:24:27.062Z",
+      "trust_level": 1,
+      "username": "boodle",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 19
+    },
+    {
+      "content": "Wow, that’s actually a really good idea. However I do agree with Boodle that it\nmight be problematic if the staking services also get these airdrops. Would nice\nto exclude or limit them somehow.\n\nMaybe airdropping a fixed amount to anyone running 1 or more validators is an\noption? That way it doesn’t matter if you run 1 or 1000 validators on your node.",
+      "created_at": "2022-04-28T21:35:02.585Z",
+      "trust_level": 1,
+      "username": "kevster.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 15
+    },
+    {
+      "content": "Good points\n\nDetermining solo stakers : I agree that exchanges and LIDO should be excluded\nfrom distribution for the sake of decentralisation (these addresses are known\nand easy to implement)\nIf controversial to completely exclude LIDO then there should be a decay of\nheavy penalty, at the end of the day they have provided a useful service to the\nnetwork.\nIn my opinion this should target solo stakers only, those providing and\nmaintaining the resources backing the deposit\n\n@smartcontracts [/u/smartcontracts] brought up an interesting concept of\nrewarding minority clients, I’m not sure how to match clients to address, if\npossible, maybe a bonus for using a non-majority client?\n\nHigh barrier to entry : Majority of Ethereum validators are early supporters of\nthe ecosystem who have benefited from capital appreciation for that early\nsupport and risk.\n\nRocketpool does reduce the barrier to almost half to join the beacon chain and\nvalidate. But maybe we should consider Gnosis chain validators, an Ethereum\naligned sidechain with the same codebase and much lower staking requirement to\nsolo validate 1GNO.",
+      "created_at": "2022-04-29T14:40:02.504Z",
+      "trust_level": 1,
+      "username": "GLCstaked",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 12
+    },
+    {
+      "content": "100% agree. I can’t think of a class of users that is more aligned with the\nfuture of the Ethereum ecosystem than validators, as they locked their assets\nnot knowing for how long.",
+      "created_at": "2022-05-02T02:13:57.125Z",
+      "trust_level": 1,
+      "username": "fornax",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 10
+    },
+    {
+      "content": "100%, this is one of my main arguments for my position, I go into this on\nEthereum Layer 2 Tokens — GLCstaked\n[https://mirror.xyz/0xf3bF9DDbA413825E5DdF92D15b09C2AbD8d190dd/XqRH1cf2_lzXr1VvfxUgy67EoaMrTQIFNrNCxvBOYpE]\n\nI’m part of a few groups that focus on node operation, the type of market\nparticipant here are developers, network engineers, more technical people who\ndon’t care much for trading.\nMost are running ETH & Gnosis Chain, everyone is interested in running L2 nodes.",
+      "created_at": "2022-04-30T12:21:43.236Z",
+      "trust_level": 1,
+      "username": "GLCstaked",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 9
+    }
+  ],
+  "created_at": "2022-04-28T14:40:18.786Z"
+}

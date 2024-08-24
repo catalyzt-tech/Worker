@@ -1,0 +1,60 @@
+{
+  "title": "How to Vote on Mission Requests",
+  "content": "APPROVAL RANKING EXAMPLE\n\nMission Requests will be approval ranked based on the number of yes votes. Each\nMission proposal must receive a minimum number of yes votes, equal to 51% of\nquorum. Any Mission Request that does not receive > required number of yes votes\nwill not qualify for a budget allocation. The top ranked Mission Requests, above\nthe minimum number of yes votes, will be accepted until the Intent Budget runs\nout. Intent Budgets will be calculated based on the maximum “baseline grant\namount.” If a Mission Request would push the Intent Budget over the approved\namount, it will not be included. Any Intent Budgets left over will be returned\nto the Governance Fund.\n\nExample\n\nImagine the following scenario:\n\n * Votable supply = 20M OP\n * Quorum = 6M OP (30% votable supply)\n * Minimum yes vote requirement = 3.1M OP (51% of quorum)\n * Total budget for Intent #10 = 200k OP\n\n–\n\n * Mission Request 1: Ask for 50k OP, 5M OP votes (all are Yes votes)\n * Mission Request 2: Ask for 50k OP, 2M OP votes (all are Yes votes)\n * Mission Request 3: Ask for 50k OP, 3.1M OP votes (all are Yes votes)\n * Mission Request 4: Ask for 75k OP, 3.1M OP votes (all are Yes votes)\n * Mission Request 5: Ask for 35k OP, 3.1M OP votes (all are Yes votes)\n\nOutcome: Mission Request 1, 3, and 4 would get funded, as they were all above\nquorum and within the 200k budget. Mission Request 2 did not meet the quorum\nrequirement. Mission Request 5 met quorum but was over the budget allocated to\nthis Intent (including Mission Request 5 would have pushed the total to 210k OP\nrather than the approved 200k OP).\n\nHow to Vote: This vote utilizes approval ranking. You may place a vote to\napprove any number of Missions Requests you would like to approve with your full\nvoting power. That means, in the above example, if I am a delegate with 1M OP\nvoting power, I could cast votes as follows:\n\n * Mission Request 1: 1M OP (approve)\n * Mission Request 2: Abstain (don’t approve)\n * Mission Request 3: 1M OP (approve)\n * Mission Request 4: Abstain (don’t approve)\n * Mission Request 5: 1M OP (approve)\n\nAs a voter, you should vote yes on all Mission Requests you think deserve\nfunding, and you should abstain from voting on Mission Requests you do not think\ndeserve funding. You can view some guidelines on factors to consider here\n[https://gov.optimism.io/t/mission-request-evaluations/7553].\n\nImportant note about Voting Cycle 24: The default option for Intent 3B is\nAbstain, you’ll need to check Request 1 to vote FOR the Mission Request",
+  "views": 2241,
+  "like_count": 23,
+  "word_count": 1308,
+  "answer": [
+    {
+      "content": "WHAT TO CONSIDER WHEN RANKING MISSION PROPOSALS\n\n * Missions should be specific initiatives that can be completed start-to-finish\n   by the end of Season 4. They should not be for ongoing services or proposals\n   that cannnot be marked done\n * Missions should help achieve the Intent they are proposed under. You should\n   approve the Missions you believe will be most effective at acheiving the\n   Intent. If a Mission is out of scope for a particular Intent, you should not\n   approve that Mission.\n * Mission Proposals should not rely on the Optimism Foundation or OP Labs for\n   implementation. Mission Proposals should be able to be executed autonomously\n   by the Alliance, although the Foundation or Labs may choose to provide\n   additional support.\n * You should consider the number of Missions any given Alliance member has\n   committed to execute. While there is no limit to the number of Alliances\n   someone can be a part of, there is a natural limit to the amount any given\n   member can contribute.\n * You should consider whether the budget is adequate to support the milestones\n   laid out in the proposal. Impact above and beyond what’s required to execute\n   the proposal may be rewarded by RetroPGF in the future.\n\nUltimately, the decision is up to Token House delegates! Use your best judgment\nwhen evaluating Mission proposals to ensure they are value-aligned and work\ntowards our Collective Intents\n[https://gov.optimism.io/t/collective-intents/5874/2], are proposed by legimate\nAlliances, and are scoped appropriately to be effectively evaluated in the next\nround of RetroPGF\n[https://optimism.mirror.xyz/oVnEz7LrfeOTC7H6xCXb5dMZ8Rc4dSkD2KfgG5W9cCw]\n:red_circle: [https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]\n:sparkles: [https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]",
+      "created_at": "2023-06-22T20:53:13.819Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 5
+    },
+    {
+      "content": "Hey Collective, we are still a bit confused. Where do we go to cast our vote?\nWhere can we see a list of proposals that we can actually vote on? AB is a\ndelegate of a significant amount of OP…but we’re not sure how to vote yet.",
+      "created_at": "2023-09-21T13:01:02.688Z",
+      "trust_level": 2,
+      "username": "AdvantageBlockchain",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "I think the way the approval-ranking system is currently designed leads to\nunder-allocation of the budget.\n\nI left my feedback: Season 5 Feedback Thread - #6 by MaximeServais\n[https://gov.optimism.io/t/season-5-feedback-thread/7549/6]\n\nImagine we have a budget of 1 million OP. The top-ranked proposal asks for\n100,000 OP and gets funded. The next highest-ranked proposal requests 1,000,000\nOP, which exceeds our remaining budget of 100,000 OP, so it’s not funded. Under\nthe current system, we stop here, leaving 900,000 OP unallocated.\n\nHowever, if we had a system that allowed us to fund lower-ranked proposals that\nfit into the remaining budget, we could potentially fund other valuable projects\nwithin that unused 900,000 OP.",
+      "created_at": "2024-02-15T13:48:50.444Z",
+      "trust_level": 2,
+      "username": "MaximeServais",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Voting occurs at vote.optimism.io [http://vote.optimism.io]\nPlease see the Operating Manual\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md] and\nGovernance Calendar\n[https://calendar.google.com/calendar/u/0/r?cid=Y19mbm10Z3VoNm5vbzZxZ2JuaTJncGVyaWQ0a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t]\nfor more info.",
+      "created_at": "2023-09-21T13:28:34.433Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "Edited post to reflect delegates will be voting on Mission Requests, rather than\nMission Proposals. None of the mechanics of how voting has worked have changed.\nAlso added a link to the Mission Request Evaluation\n[https://gov.optimism.io/t/mission-request-evaluations/7553] post.",
+      "created_at": "2024-02-07T18:27:59.236Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2023-06-21T19:58:51.607Z"
+}

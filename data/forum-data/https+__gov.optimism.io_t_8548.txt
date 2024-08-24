@@ -1,0 +1,20 @@
+{
+  "title": "[MISSION REQUEST] Open-source transaction simulator",
+  "content": "TITLE: OPEN-SOURCE TRANSACTION SIMULATOR\n\nDelegate Mission Request Summary:\n\nThis mission is intended to provide a key, critical piece of tooling -\nsimulating transactions before they go onchain. Tenderly provides a great\nservice in this respect, but it would be great to see an open-source version of\nthis that can be freely used and built on. This is a simple but essential\ncomponent of the developer toolkit, and funding its building knocks out one of\nthe higher-friction, higher-cost elements of developing for new and even veteran\ndevelopers.\n\n\nS6 INTENT\n\nIntent 3: Grow application devs on the Superchain\n[https://gov.optimism.io/t/season-6-intents-ratification/8104]\n\n\nPROPOSING DELEGATE\n\njackanorak\n\n\nGRANT AMOUNT\n\n50k OP allocated but expect competitive bids\n\nShould this Mission be fulfilled by one or multiple applicants:\n\nMultiple\n\n\nHOW WILL THIS DELEGATE MISSION REQUEST HELP ACCOMPLISH THE ABOVE INTENT?\n\nThe thesis here is to lower frictions to launching new projects among developers\nnew to the onchain experience. Debugging isn’t a flashy component of the\nwork—but it is an essential one. And it seems like a clearly valuable,\nfundamental thing to have for the EVM some ways for developers to simulate\ntransactions without the overhead of using testnets or paid providers.\n\nEasier time developing → more developers. It’s that simple.\n\n\nWHAT IS REQUIRED TO EXECUTE THIS MISSION REQUEST?\n\nOpen-source tool that allows developers to simulate the results of transactions\nwithout having to post them on mainnet. This core functionality may be delivered\nin any number of ways, so what is desired here is a potential scope of work to\nbe provided by applicants.\n\nHow should governance participants measure impact upon completion of this\nMission?\n\nMilestones:\n\n * Project scope and resource allocation, timelines set\n * Completion of user interviews\n * MVP\n * Final build\n\nMetrics:\n\n * Github stars and forks\n * Contributions\n\nImpact:\n\n * Superchain protocol testimonials\n * Grantees and RPGF recipients indicating use of this tool\n\n\nHAS ANYONE OTHER THAN THE PROPOSER CONTRIBUTED TO THIS MISSION REQUEST?\n\nNo\n\n\nWHICH METRIC WILL THE SUCCESS OF THIS MISSION REQUEST BE EVALUATED AGAINST?\n\nThe North star metric against which this Mission Request should be evaluated is\n# of testnet transactions emitting event logs. This metric indicates the tool’s\nactive usage and reliability in a testing environment and reflects developer\nengagement. This metric was suggested by the Foundation and approved by the\nGrants Council.",
+  "views": 254,
+  "like_count": 3,
+  "word_count": 460,
+  "answer": [
+    {
+      "content": "A North Star Metric has been added at the bottom of this Mission Request in an\neffort to enable the Collective to make data-driven decisions. By using a single\nmetric for each Mission Request, the Collective is better able to evaluate the\nperformance of all the Season 6 missions in a standardized manner, which will be\ncritical when the Collective makes decisions about Intents, budgets, or other\ncritical components of governance.",
+      "created_at": "2024-07-19T19:57:30.301Z",
+      "trust_level": 4,
+      "username": "system",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-07-08T18:01:30.052Z"
+}

@@ -1,0 +1,9 @@
+{
+  "title": "About the Alliances category",
+  "content": "An Alliance is a group of people (new or pre-existing) that will work together\nto complete a Mission. An Alliance can be a pre-established organization or a\ngroup of contributors that comes together specifically to complete a Mission\n[https://gov.optimism.io/t/token-house-missions/5881/2].",
+  "views": 517,
+  "like_count": 0,
+  "word_count": 50,
+  "answer": [],
+  "created_at": "2023-04-13T19:41:00.887Z"
+}

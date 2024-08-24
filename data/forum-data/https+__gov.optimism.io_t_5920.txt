@@ -1,0 +1,60 @@
+{
+  "title": "[FINAL] Superchain Governance Deep Dive",
+  "content": "S4 Intent: Intent 1: Progress Towards Technical Decentralization\n\nProposed Mission: Deeply investigate the technical design space around\ndecentralized Superchain governance and produce a white paper that serves as a\nresearch-based foundation for implementation.\n\nProposal Tier: Ember\n\nBaseline grant amount: 20,000 OP\n\n*In addition to the 20,000 OP, we are requesting ideas and feedback from\ntechnical experts within the Optimism Foundation, OP Labs, and the Optimism\nCollective along the way.\n\n% of total available Intent Budget: 2%\n\nPlease check here if access to upfront capital is a barrier to completing your\nMission and you would like to be considered for a small upfront cash grant: No\n\nAlliance name: Tally\n\nAlliance Lead: Frisson\n\nContact info: Website: Tally.xyz, Twitter: https://twitter.com/0xfrisson\n[https://twitter.com/0xfrisson], Discord: Frisson#0409, Email:\nfrisson@tally.xyz, Telegram: Contact @zeroxfrisson [https://t.me/zeroxfrisson]\n\nL2 recipient address: oeth:0xec1C77AC05915F099C7c56900D63823Fa4308800\n\nPlease list the members of your Alliance and link to any previous work:\n\n * Dennison Bertram [https://twitter.com/DennisonBertram] (Founder and CEO of\n   Tally [https://tally.xyz/], Contributor to Rollcall\n   [https://github.com/withtally/rollcall], Builder of Tally Zero\n   [https://github.com/withtally/tally-zero], Founder of Dope Wars\n   [https://dopewars.gg/], Builder of Safeguard\n   [https://github.com/withtally/safeguard] & much more\n   [https://github.com/crazyrabbitLTC])\n * Rafael Solari [https://twitter.com/rafaelsolari] (Founder and CTO of Tally\n   [https://tally.xyz/], Committee Member of Uniswap Deployments Accountability\n   Committee [https://www.tally.xyz/gov/uniswap/proposal/37])\n * Frisson (VP of Marketing at Tally [https://tally.xyz/], Founder of Content\n   Guild [https://contentguild.xyz/], Founder of DAO NYC\n   [https://www.dao-nyc.xyz/])\n\nPlease explain how this Mission will help accomplish the above Intent: The\nSuperchain is a network of chains that will share decentralized governance. To\nmake this a reality, the Optimism Collective needs to extend across the\nSuperchain. Our Mission is to evaluate possible technical implementations of the\nOptimism Collective across the Superchain, analyze the strengths and weaknesses\nof each implementation, highlight blockers, and make recommendations. This\nSuperchain Governance Deep Dive will help accomplish Intent #1 Progress Towards\nTechnical Decentralization by establishing a research-based foundation for the\nimplementation of Superchain governance.\n\nWhat makes your Alliance well-suited to execute this Mission? Our team has deep\ntechnical expertise in the area of crosschain governance specifically and the\narea of onchain governance in general. We built Rollcall\n[https://github.com/withtally/rollcall], a protocol for crosschain voting from\nOptimism to L1 DAOs. We are working closely on a technical level with the\nUniswap DAO as part of the Uniswap Deployments Accountability Committee as they\nmanage their multichain governance deployment. Tally is the most popular front\nend of Governor, which is the onchain smart contract primitive that the Optimism\nCollective uses for governance. Tally supports Token House Governance\n[https://www.tally.xyz/gov/optimism]. We are also closely involved in the\ndevelopment of the technical roadmap of Governor.\n\nHow should Token House delegates measure progress towards this Mission?\n\nPlease list the critical milestone(s) that should be tracked to determine if you\nshould receive your grant in one year: Critical milestone(s) demonstrates the\nproposal has been executed (a clawback is possible for failure to execute on\ncritical milestones)\n\nCritical Milestone: All deliverables completed by September 20th, including:\n\n * Summary and technical evaluation of at least 3 promising technical\n   implementations of Superchain decentralized governance.\n * Explanation of process, including summary of all contributions from the\n   Optimism Collective and links to source.\n * Recommendation on most promising technical implementation of Superchain\n   decentralized governance including key requirements and key risks.\n\nBenchmark milestones\n\nBenchmark milestone 1: Research plan and deliverable requirements established &\nshared with the Optimism Collective by July 15th, 2023.\n\nBenchmark milestone 2: Open call for contributions completed, with opportunities\nto contribute from all interested parties in the Optimism Collective by August\n1st, 2023.\n\nBenchmark milestone 3: Midway checkpoint report: Progress against research plan\nand deliverable requirements shared with the Optimism Collective by August 15th,\n2023.\n\nHow should badgeholders measure impact upon completion of this Mission?\n\nKPI 1: A group of pre-selected experts from OP Labs, the Optimism Foundation,\nand the Optimism Collective sign off on deliverables as being:\n\n * A thorough representation of possible implementations.\n * Actionable, in that the recommendations help the Optimism Collective move\n   forward to the next phase of Superchain decentralized governance development.\n\nBreakdown of Mission budget request:\n\n * Summary and technical evaluation of at least 3 promising technical\n   implementations of Superchain decentralized governance: 10,000 OP\n * Explanation of process, including summary of all contributions from the\n   Optimism Collective and links to source: 5,000 OP\n * Recommendation on most promising technical implementation of Superchain\n   decentralized governance including key requirements and key risks: 5,000 OP\n\nI confirm that my grant will be subject to clawback for failure to execute on\ncritical milestones: Yes\n\nI confirm that I have read and understand the grant policies: Yes\n\nI understand that I will be required to provide additional KYC information to\nthe Optimism Foundation to receive this grant: Yes\n\nI understand that I will be expected to following the public grant reporting\nrequirements outlined here: Yes",
+  "views": 5559,
+  "like_count": 66,
+  "word_count": 8499,
+  "answer": [
+    {
+      "content": "Feels like this is squarely in RPGF territory + Seed/Partner Fund by Optimism\nFoundation to get started. Nevertheless, Intent #1 is a bit sparse, and it feels\ngood to seed independent research like this via governance. My general intuition\nis that a majority of OP stack chains will want to organise their own\ngovernance, but some may not, or some may look for joint/collaborative\ngovernance. So certainly, an area worth exploring.\n\nI am an Optimism delegate with sufficient voting power\n[https://vote.optimism.io/delegate/polynya.eth], and I believe this proposal is\nready to move to a vote.",
+      "created_at": "2023-06-25T03:20:29.883Z",
+      "trust_level": 2,
+      "username": "polynya",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "This is a great mission, thank you for sharing! Robust analysis of the technical\nimplementation is going to be an absolute necessity for Superchain Governance.\nPresenting the different choices and tradeoffs of possible technical solutions\nwill help the Optimism Collective come to the best possible conclusions.",
+      "created_at": "2023-04-26T17:55:49.372Z",
+      "trust_level": 2,
+      "username": "ksett",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "I edited this proposal to decrease the budget back to the original 20k OP based\non feedback from delegates and the Foundation that this work is a better fit to\nstart with a lower budget, with the possibility of participation in Retro PGF 3\ndepending upon impact.",
+      "created_at": "2023-06-26T13:57:06.610Z",
+      "trust_level": 1,
+      "username": "Frisson",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Hi @Frisson [/u/frisson]! Wanted to make sure you were aware of the Optimism\nSeason 4 Pitching Sessions to help find the 4 delegate approvals you’ll need by\nthis Wednesday at 19:00 GMT for your proposal to move to a vote.\n\nThese sessions are happening in Discord on Monday, 26.06 2pm ET / 6pm GMT / 8pm\nCET and Tuesday, 27.06 11am ET / 3pm GMT / 5pm CET.\n\nYou can sign-up here\n[https://docs.google.com/spreadsheets/d/1DH_rVTT1Uk33DTYQW5vnr_Phe_H-S3NglN_5PBWRI0g/edit#gid=0]!",
+      "created_at": "2023-06-26T08:02:36.477Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "I believe the grant is a bit high, in the future I’ll give my approval if less\nis requested with a vision to apply for RPGF if the research is successful.\n\nI am an Optimism delegate\n[https://gov.optimism.io/t/delegate-commitments-old/235/2] with sufficient\nvoting power and I believe this proposal is ready to move to a vote.",
+      "created_at": "2023-06-26T12:00:59.590Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2023-04-24T22:54:57.111Z"
+}

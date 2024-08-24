@@ -1,0 +1,20 @@
+{
+  "title": "A task for NFT developers",
+  "content": "We are used to seeing constantly changing price tags for goods in stores. But we\ncan imagine a store where it is not the prices that change, but the amount of\nmoney in the wallet.\nIt is interesting to study a certain city as an economic model, where prices for\nany product or real estate do not change, but the number of coins of people and\nbusinesses changes.\n\nPrices for goods can be assigned and depend on the number of goods and mutual\nproportions, different living conditions. In this system, buyers can buy exactly\nas many goods as there is money for it.\nSuch an NFT-based system could become a model for an alternative type of\neconomic distribution.",
+  "views": 1643,
+  "like_count": 2,
+  "word_count": 135,
+  "answer": [
+    {
+      "content": "If the price does not change it is no longer a Non Fungible Token by definition…",
+      "created_at": "2023-01-21T16:25:07.243Z",
+      "trust_level": 2,
+      "username": "FractalVisions",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-12-21T08:24:13.547Z"
+}

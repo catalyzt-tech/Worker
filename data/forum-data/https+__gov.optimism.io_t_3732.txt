@@ -1,0 +1,60 @@
+{
+  "title": "7th OP Community Governance Call [October 25th @ 10am PT / 1pm ET / 7pm CET]",
+  "content": "Hello everyone,\n\nWe have our seventh community governance call scheduled for next Tuesday,\nOctober 25th at 10am PT / 1pm ET / 7pm CET. I’ll be stepping in to host this\ntime around.\n\nThe call is open to anyone in the OP Community to join. Please add topics to the\nagenda by replying below or messaging me here in Discourse. I’ll post the\nagenda/slides as we get closer to the call.\n\nLooking forward to it!\n\nDuncan\n\nMeeting Details:\nOP Community Governance Call\nTuesday, October 25 · 1:00 – 2:00pm (ET)\nGoogle Meet joining info\nVideo call link: https://meet.google.com/qgj-eqht-xki\n[https://meet.google.com/qgj-eqht-xki]",
+  "views": 2516,
+  "like_count": 58,
+  "word_count": 844,
+  "answer": [
+    {
+      "content": "We’ve heard a lot of requests for analysis on grant distributions to date, so\nwe’d love to share a short presentation on some analysis the team has done on\nthis topic if there is time :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]",
+      "created_at": "2022-10-19T19:42:52.608Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 8
+    },
+    {
+      "content": "And here’s a link to the draft\n[https://docs.google.com/presentation/d/1DKjiF4BIOSJR85fKfHCs1Q69teOp1UCsly-RW0Y0h2g/edit?usp=sharing]\nof the slide deck. If you have anything to add or change, please let me know.\n\n@lavande [/u/lavande] – see where I slotted in the analysis. Does that work? We\ncan also begin the meeting with it so we can be sure to have time to discuss.",
+      "created_at": "2022-10-24T11:30:34.069Z",
+      "trust_level": 1,
+      "username": "duncand",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Hi everyone – just bumping this as a reminder that the call is today. If there\nare any suggested changes or additions to the agenda, tag me here.\n\nHope to see you all later!",
+      "created_at": "2022-10-25T11:57:04.538Z",
+      "trust_level": 1,
+      "username": "duncand",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "RECAP of the call (also recorded\n[https://drive.google.com/file/d/1xJbicknAAN43jMQK4caN9ju3aJwHvbm7/view?usp=sharing]).\n\n 1. Governance Fund Dissection. There was a sobering and yet very clarifying\n    presentation by @haonan [/u/haonan] and @MSilb7 [/u/msilb7] analyzing some\n    key data. It’s worth watching repeatedly. Here are some phrases that stood\n    out:\n\n * “Overall performance is mixed”\n * “Some of the results may be unpleasant to look at”\n * “Distribution has been slow”\n * “Broadly ineffective”\n * “We can do much much better”\n\nTakeaways to consider during the upcoming Reflection Period: Make the gov fund\nmore nimble, accountable, and clearly scoped.\n\n 2. Snapshot voting issues persist for some delegates. The Foundation is doing\n    an analysis to figure out a “durable solution for the long run.”\n\n 3. OP from grants cannot be sold to fund development or R&D. This violates the\n    “no sale” guidance from the Foundation.\n\n 4. Delegates voting against Governance Committee recommendations: The original\n    intention was to establish a kind of social contract between committees and\n    delegates such that delegates would be comfortable deferring decision-making\n    to the committees. If delegates (whether or not on a Governance Committee)\n    dissent from a committee recommendation, they are expected to provide an\n    explanation. If a dissenting delegate is on a Governance Committee, that\n    explanation is expected to be more robust than otherwise.\n\n 5. “Nothing is perfect right now,” but there are “many iterations” ahead of us\n    and “we really need to make sure we are treating each other with respect and\n    empathy through the process,” @bobby [/u/bobby] said in an eloquent moment\n    of encouragement at the end of the call.\n\n@Michael [/u/michael] will be hosting the next call on November 8. Anyone can\nsign up to host – use this form\n[https://docs.google.com/spreadsheets/d/1-r1X2gNtP4UqbnJ9ELlHf0lVHeXdXUy5_JMAxP9lERs/edit#gid=0].",
+      "created_at": "2022-10-30T18:00:05.785Z",
+      "trust_level": 1,
+      "username": "duncand",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Thank you for hosting Duncan!!",
+      "created_at": "2022-10-19T15:59:11.001Z",
+      "trust_level": 3,
+      "username": "katie",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    }
+  ],
+  "created_at": "2022-10-19T15:18:06.439Z"
+}

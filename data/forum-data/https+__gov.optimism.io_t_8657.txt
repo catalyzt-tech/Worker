@@ -1,0 +1,60 @@
+{
+  "title": "Progress Report: Optimism Gov and RPGF into University Courses",
+  "content": "Basic Info\nSeason 5 Intent: 4 Optimism Gov and RPGF into University Courses\n\nMission Objectives:\nImplementation of OP educational modules distributed over two academic semesters\nwith the goal of expanding to a minimum of two universities.\n\n\nPROGRESS REPORT\n\nAs of July 31, 2024, a complete blockchain module has been implemented at\nUniversidad Continental. The content includes Optimism Gov and RPGF.\n\n 1. Introduction to Blockchain\n 2. Introduction to DeFi\n 3. NFT 101: Beyond Art\n 4. Optimism Governance and RetroPGF (Optimism Delegate\n    [https://vote.optimism.io/delegates/cosmicki.eth] as a Guest Lecturer)\n 5. Optimism and the Superchain Ecosystem\n 6. Digital Security in Web3\n 7. Pricing Web3 and Business Models in Blockchain\n    \n    3\n    [https://europe1.discourse-cdn.com/bc41dd/optimized/2X/c/c645d3c53ce546acfa24e27a2c7c77703e6d581e_2_517x326.png]\n    31024×647 233 KB\n    [https://europe1.discourse-cdn.com/bc41dd/original/2X/c/c645d3c53ce546acfa24e27a2c7c77703e6d581e.png]\n\nAdditionally, this is not a module in itself, but we took the opportunity to\nincorporate topics on blockchain, Optimism Gov, and public goods in the student\ncongress.\nRegional Congress of Economics Students Lima - Universidad Nacional Agraria La\nMolina\n\n * Let’s Talk About Decentralized Economy\n * Public Goods on Blockchain: A Modern Approach\n * Blockchain for Economics Students\n\nRegional Congress of Economics Students Huancayo 2024\n\n * Tokens, Digital Currencies, and Public Goods on Blockchain\n\n\nATTESTATIONS AND IMPACT METRICS\n\nFor easier tracking of topics, dates, and student participation, the OP mission\nhas its own schema in EAS:\n\n * Schema for attestation\n   [https://optimism.easscan.org/schema/view/0xff72347f43860ca949fd1d9e8ae0f1338f02102c3f7fc48b5924fabc3ec31d33]\n   delivery to students\n * Schema for general information\n   [https://optimism.easscan.org/schema/view/0x2f46d5564681974f559461c323e8f974506fdbeeb8cd18de1021e188a392f37c]\n   about topics and university:\n   \n   5\n   [https://europe1.discourse-cdn.com/bc41dd/optimized/2X/3/3e7d4d7974b534f5c176395c9b6018a90e792e6c_2_416x375.png]\n   5568×511 115 KB\n   [https://europe1.discourse-cdn.com/bc41dd/original/2X/3/3e7d4d7974b534f5c176395c9b6018a90e792e6c.png]\n\nAttestations from Students\nGreater detail in received attestations\n[https://optimism.easscan.org/address/0x8f7d6300d2B978f9AFAD3a38CC154C0f10dF5962]\n\n\n\n7\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/9/9e91e3a26a2b272b15fe1cd24bcc36ac2405a809_2_666x500.png]\n71024×768 340 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/9/9e91e3a26a2b272b15fe1cd24bcc36ac2405a809.png]\n\n\n\nDashboard Dune\nFor greater transparency, a dashboard has been developed on Dune where you can\nsee the attendees and rewards delivered per session. Dashboard Link\n[https://dune.com/0xblid/op-mision-universities]\n\n\n6\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/2/21393ff3fe40e954773f8962f5e2becd0a5489ea_2_690x440.png]\n61024×654 135 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/2/21393ff3fe40e954773f8962f5e2becd0a5489ea.png]\n\n\n\nOutreach and onboarding of other educators\n\nFor the development of the program, the incorporation and support of the\nAcademic Director of Universidad Continental - Lima branch and a full-time\nprofessor have been crucial.\n\n\n4\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/d/d0e14142e6f240cc8c968feec840c81c11f72f43_2_517x295.png]\n4928×531 277 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/d/d0e14142e6f240cc8c968feec840c81c11f72f43.png]\n\n\n\n\nNEXT STEPS\n\nFor the next semester, the module will be repeated at Universidad Continental.\nAdditionally, the module will be incorporated into another university with a\nsimilar content structure and will continue participating in regional student\ncongresses.",
+  "views": 59,
+  "like_count": 15,
+  "word_count": 667,
+  "answer": [
+    {
+      "content": "Please note that this is my personal opinion and does not necessarily reflect\nthe views of GovNerds or any other structure where I’m serving.\n\nI love the Dune dashboard! It would be great to have, at the end, an attestation\nfrom them to you providing feedback about the program and analyzing levels of\nsatisfaction. Keep going!",
+      "created_at": "2024-07-31T19:18:24.007Z",
+      "trust_level": 4,
+      "username": "brichis",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 4
+    },
+    {
+      "content": "GM! Please note that this is my personal opinion and does not necessarily\nreflect the views of GovNerds or any other structure where I’m serving.\n\nI know @LauNaMu [/u/launamu] and @lanzdingz [/u/lanzdingz] are working on a\ncouple of awesome projects related to attestations. Keep an eye on their next\nsteps! :eyes: [https://emoji.discourse-cdn.com/twitter/eyes.png?v=12]",
+      "created_at": "2024-08-02T21:27:58.487Z",
+      "trust_level": 4,
+      "username": "brichis",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 3
+    },
+    {
+      "content": "Brichis, thank you for your comment.\n\nRegarding the attestations from students, we are already doing this, both\nhalfway through the module and at the end of it. However, since we use the same\naddress to issue and receive the attestations, the latter end up getting lost in\nthe explorer’s history on EAS.\n\nTo facilitate their visualization and reading, I have just added them to the\nDune dashboard.\n\n\nimage\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/4/4555a49bb697c5ad1fe0c3543087f84d3904a0c6_2_690x237.png]\nimage1617×556 54.5 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/4/4555a49bb697c5ad1fe0c3543087f84d3904a0c6.png]\n\n",
+      "created_at": "2024-08-03T20:24:25.608Z",
+      "trust_level": 1,
+      "username": "blid",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/blid/48/6680_2.png]\nblid:\n\n> received attestations\n\nim interested in implementing this as well, if you have any more in formation on\nhow to achieve it please share it here :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12] @brichis\n[/u/brichis]",
+      "created_at": "2024-08-01T23:54:16.394Z",
+      "trust_level": 2,
+      "username": "inbestprogram.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "thanks! i invite you to check and support this awesome innitiatives in Costa\nRica :smiley: [https://emoji.discourse-cdn.com/twitter/smiley.png?v=12]\n:red_circle: [https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]\n\n\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/inbestprogram.eth/48/7198_2.png]\nFrom COSTA RICA to the SUPERCHAIN\n[https://gov.optimism.io/t/from-costa-rica-to-the-superchain/8663]\nAccountability 🗂️ [/c/accountability/62]\n\n> 8 new fantastic MVPs to the Superchain! We are thrilled to announce that the\n> first university-level blockchain module in Costa Rica has been successfully\n> completed. I want to personally congratulate every single one of the 25\n> graduates! more info on this mission request\n> [https://gov.optimism.io/t/optimism-university-module-in-costa-rica/8338] S5\n> As a final requirement for graduation, students must present their final\n> projects in the form of a video pitch. Each team will record a short video in\n> English, demonstrating their project and showcasing their development a…",
+      "created_at": "2024-08-02T21:46:38.198Z",
+      "trust_level": 2,
+      "username": "inbestprogram.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2024-07-31T19:08:00.802Z"
+}

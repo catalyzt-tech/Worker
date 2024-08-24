@@ -1,0 +1,30 @@
+{
+  "title": "Optimism Expansion Defi",
+  "content": "Describe the solution you’d like:\nI propose implementing an Intrusion Detection System (IDS) within the Optimism\nBlockchain ecosystem. This IDS would actively monitor and analyze network\nactivities, identifying and alerting the community to potential security threats\nor anomalies. A system designed to enhance the overall security posture of the\nOptimism Collective.\n\nDescribe alternatives you’ve considered:\nI’ve considered alternative approaches, such as relying solely on external\nthird-party security tools. However, having an in-house Intrusion Detection\nSystem tailored to the specific needs and nuances of the Optimism Blockchain\nwould provide a more customized and integrated security solution. Otherwise I’d\nsuggest integrating tools and building out a testing framework. A portion of\nfunding to analyze wallet attacks. Then utilize the information for the\ncollective. To focus on tools and resources needed to optimize.\n\nAdditional context:\nGiven the complexity and evolving nature of blockchain security, having an\ninternal IDS offers the advantage of real-time threat detection and response. It\naligns with the Optimism Collective’s commitment to security and community\nwell-being. Integrating this system would contribute to a safer and more\nresilient blockchain environment for all participants. Blockchain is always\nevolving, but if this goes with a project I would like to help, or contribute.",
+  "views": 336,
+  "like_count": 6,
+  "word_count": 502,
+  "answer": [
+    {
+      "content": "Thank you for sharing the great proposal.\nCan we get more info about IDS so that we can be more informed on this?",
+      "created_at": "2024-01-24T01:11:33.899Z",
+      "trust_level": 2,
+      "username": "DAODude_DAOASIA",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Yes I will edit this reply over this weekend and improve the vision, for a\npossibility on an Intrusion Detection System, for Blockchain.\n\nOne example: Verifying contracts have been through the audit checker. This\nensures that the ethereum blockchain has checked off that it’s a validated\ncontract, which I believe that should be a step one. To make sure people\nunderstand they can trust signing a contract. Either way it’s ethical and how\nCybersecurity should start. Any contract can check this on Etherscan (Ethereum\nVerified Contracts | Etherscan [https://etherscan.io/contractsVerified])\nlegitimacy on Etherscan. Trust comes from making people not afraid of what they\nare signing. With an IDS system, or Intrusion Blockchain System an application\nthat simplifies certain checks that audit a smart contract. Have seen a lot of\nWeb2 applications with Web3. Cybersecurity still has to check the basics.\n\nSide Note Feature:\n\nOn a side note I’m shocked that there has not been a freeze, toggle off feature\nfor a browser application to be online, or have access to a Web3 wallet such as\nMetaMask being on a Google, FireFox, Edge and Brave browser. The browsers\nability to have access to internet is why a lot of people get hacked through\nphishing scams. If people knew there was another line of defense we can onboard\nmore people and that goes back to trust. More people that trust a system the\nmore people stay and tell others. Optimizing an application even an IDS system,\nor IBDS (Intrusion Blockchain Detection System) with this feature. Imagine\nOptimizing a feature that could apply this security? Working with Cisco\nNetworking gave a few ideas.",
+      "created_at": "2024-01-24T02:23:09.320Z",
+      "trust_level": 2,
+      "username": "philliprossii",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2024-01-22T07:34:26.323Z"
+}

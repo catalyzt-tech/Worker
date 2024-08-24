@@ -1,0 +1,60 @@
+{
+  "title": "Security Council Nomination: alisha.eth",
+  "content": "Please indicate if you are running to be the Council Lead or a Council Member:\nCouncil Lead\n\nDoes this nomination represent an individual or organization:\nIndividual\n\nCandidate country of residence (or, if an entity, incorporation and principle\nplace of business):\nUnited Arab Emirates\n\nHave you previously served on Optimism’s Security Council:\nYes, I was initially appointed as a Security Council Member, which was ratified\nin this vote\n[https://vote.optimism.io/proposals/85591583404433237270543189567126336043697987369929953414380041066767718361144]\n(November 2023). Prior to kickoff, I took on the role of Security Council Lead,\nand have been in that role since.\n\nHave you previously served on any other Council or Board in the Collective:\nNo\n\nAre you a representative of OP Labs:\nNo\n\nAre you a representative of another OP Chain:\nNo\n\nIf you are a delegate, please provide the link to your delegate profile:\nNA\n\nIf you are a member of the Citizens’ House, please link to your most recent\nattestation here:\nBadgeholder Attestation\n[https://optimism.easscan.org/attestation/view/0xfe00ec58474654e249fbe4d3dc1df85e1956cf4559fdb34b9093ddb997013c3b]\n\nPlease outline your contributions, and their impact, to the Optimism ecosystem\nto date:\nAs Security Council Lead, I have coordinated the Security Council since December\n2023. I am a badgeholder in the Citizen’s House and have voted on retro-funding\nrounds 2, 3 and 4.\n\nPlease demonstrate any non-Optimism experience you believe is relevant to this\nrole:\nI am an experienced governance and ecosystem coordinator and a qualified lawyer.\nPreviously, I lead governance at ENS. I am working on an open source hardware\nwallet (Firefly) with a quest to eliminate blind signing and as such I am\nespecially conscious of wallet security and the approval process for signing\nSecurity Council transactions.\n\nPlease elaborate on your technical background, including your github handle\n(this will be used to calculate your github expertise score and will be added to\nyour nomination before it goes to a vote by the Foundation):\n\nI am not a developer, but incase it is useful, my github handle is futurealisha\n[https://github.com/futurealisha].\n\nPlease elaborate on your experience with relevant member (or Lead) requirements:\nSince December 2023, I have coordinated all Security Council rehearsals, along\nwith all signing ceremonies that have been executed by the Security Council. I\npride myself on being alarmingly responsive with internal Security Council\ncommunications. I have built and maintained opsc.vercel.app\n[https://opsc.vercel.app/] which is a site that shares information on the\nOptimism Security Council, including status updates on signing ceremonies, and\nrecordings of monthly calls, which I host.\n\nPlease describe your philosophy on what makes a good Security Council member:\nA good Security Council member is an independent thinker who pays attention to\ndetails and doesn’t operate on assumptions. For the operational success of the\nSecurity Council, an good Security Council member is also responsive and a clear\ncommunicator who isn’t afraid to speak up. A less technical qualification is an\nacute awareness of the position of responsibility and trust that a SC member\noperates with, and acting with integrity in all situations.\n\nPlease disclose any anticipated conflicts of interest:\nI contract with an entity that provides services to various foundation companies\nand DAOs in the Ethereum ecosystem. In matters related to Optimism, I am\nconfident in my ability to always act in the best interests of Optimism\ngovernance.\n\nPlease verify that you understand you may be removed from this role via the\nRepresentative Removal proposal type in the Operating Manual\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md]:\nYes\n\nPlease verify that you understand that election is subject to successful\ncompletion of a Foundation screen which may include KYC/AML, sanctions\nscreening, and a requirement to sign a standard contract:\nYes\n\nPlease verify that you are able to commit ~5 active hours / month to fulfill the\nMember Responsibilities. Please note that there is an “on-call” aspect to this\nrole that is not fully encompassed in the active hours estimate:\nYes",
+  "views": 64,
+  "like_count": 6,
+  "word_count": 910,
+  "answer": [
+    {
+      "content": "I am an Optimism delegate [https://vote.optimism.io/delegates/brichis.eth] with\nsufficient voting power and I believe this proposal is ready to move to a vote.",
+      "created_at": "2024-08-12T16:44:54.874Z",
+      "trust_level": 4,
+      "username": "brichis",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "The SEED Latam delegation, as we communicated here\n[https://gov.optimism.io/t/seed-latam-delegate-communication-thread/2950/46],\nwith @Joxes [https://gov.optimism.io/u/joxes] being an Optimism delegate\n[https://vote.optimism.io/delegates/0x94db037207f6fb697dbd33524aadffd108819dc8]\nwith sufficient voting power we believe this proposal is ready to move towards a\nvote.",
+      "created_at": "2024-08-13T11:59:41.003Z",
+      "trust_level": 2,
+      "username": "seedlatam",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "I am an Optimism delegate [https://vote.optimism.io/delegates/anthiaslabs.eth]\nwith sufficient voting power and I believe this proposal is ready to move to a\nvote.",
+      "created_at": "2024-08-12T16:02:20.952Z",
+      "trust_level": 2,
+      "username": "AnthiasLabs",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "I am (once again lol) an Optimism delegate\n[https://vote.optimism.io/delegates/ceresstation.eth]with enough voting power\nand I believe this proposal is ready to move to a vote.",
+      "created_at": "2024-08-13T04:53:12.137Z",
+      "trust_level": 2,
+      "username": "ceresstation",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "I am an Optimism delegate [https://vote.optimism.io/delegates/jrocki.eth] with\nsufficient voting power and I believe this proposal is ready to move to a vote.",
+      "created_at": "2024-08-13T14:07:34.045Z",
+      "trust_level": 2,
+      "username": "Jrocki",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-08-12T15:58:22.894Z"
+}

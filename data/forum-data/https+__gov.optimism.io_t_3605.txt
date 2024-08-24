@@ -1,0 +1,50 @@
+{
+  "title": "[Introduction] Grindery DAO – Zapier for Web3",
+  "content": "Introduction\n\nAs much as Zapier for web3 is a good pitch and title for this post, the more\naccurate way to describe Grindery is that we are building embedded native\nintegrations that allows users to work many different web2 and web3 tools across\ndifferent chains, protocols, and DAOs.\n\nGrindery is the “middleware for web3”. It’s a decentralized system that can\ninteract with smart contracts as well as web2 APIs. In short, unified, seamless\non-, off- and cross-chain integrations.\n\nPurpose\n\nWe are interested in getting more grants specifically from chains and this is\none reason why we are here – but this is not an official proposal. We are simply\nhere to say hello and introduce ourselves! We thought an introduction post would\nbe a great way to extend the reach we have with different chains including,\nOptimism.\n\nThe project has been around since 2018 with a current team of 12. We have\nreceived grants from BinanceLabs Season 4, and additional funding from Near,\nAlgorand, Flow, and Harmony.\n\nIn the coming days we will post a few more details on our progress in the space\nand how our tools are helping users!\n\nCore Team\n\nTim Delhaes: CEO/Product\nTim is a serial entrepreneur who has built, sold, and crashed multiple start-ups\nin South America and Silicon Valley. Over the last eight years, Tim has also led\nthe journey of the agency group called Inboundlabs from a three-person team to a\nleading HubSpot partner with over 500 customers.\n\nDavid Semakula: Lead Developer\nDavid Semakula is an experienced full-stack developer working with Grindery on\nall things web3 and integrations.\n\nChristian Geissendoerfer: BizDev/Partners\n\nChristian is experienced in business development and venture building across\nEurope and Asia. He is the founder and CEO of YOOSE, the leading expert in\nlocation-based marketing solutions in Asia-Pacific and Europe.\n\nJoe Hu: Full Stack Dev\n\nJoe has been a professional full-stack developer for more than 10 years. He\nstarted working with Tim and Christian at InboundLabs from the beginning of its\noperations. Joe has massive experience on building sites and custom integrations\non HubSpot. He loves solving problems and working on code.\n\nOutro\n\nPlease check out our website: grindery.io [http://grindery.io] and connect with\nme on Telegram: @ Avi Kabani. We appreciate you all taking the time to read our\nintro and look forward to connecting!",
+  "views": 1589,
+  "like_count": 7,
+  "word_count": 576,
+  "answer": [
+    {
+      "content": "Might be a good idea to post this in gov-general channel on Optimism discord.",
+      "created_at": "2022-10-18T12:38:19.808Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Hello again Optimism! Connecting again to see how we can work together. A few\nintegration use cases we have as the Zapier for web3 app thus far:\n\n 1. Payout system - on a triggering event, execute payout to appropriate\n    wallets.\n 2. Ping [https://blog.grindery.io/a-ping-means-deposit-received] - When your\n    wallet receives a payment, you get a notification.\n 3. Take transactions that happen on the blockchain and post relevant data into\n    a spreadsheet.\n 4. When a proposal is submitted, send out a tweet (or other message platform).\n 5. Your own idea for connecting Web3 events with Web2 APIs that would work for\n    your chain!\n\nWe would love to get some face time and jump on a call or a telegram group!",
+      "created_at": "2022-10-08T13:50:50.432Z",
+      "trust_level": 0,
+      "username": "AviKabani",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Following up to see if we can jump on a call or Telegram group with my team! Any\nresponse would be appreciated!",
+      "created_at": "2022-10-14T00:40:34.414Z",
+      "trust_level": 0,
+      "username": "AviKabani",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "You got it, I will join and post a smaller intro that would fit more\nappropriately in Discord. I appreciate your response @OPUser [/u/opuser]\n:slight_smile: [https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]",
+      "created_at": "2022-10-18T20:26:21.965Z",
+      "trust_level": 0,
+      "username": "AviKabani",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2022-10-01T17:16:15.524Z"
+}

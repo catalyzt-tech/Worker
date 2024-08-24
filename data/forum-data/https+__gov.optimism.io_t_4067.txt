@@ -1,0 +1,60 @@
+{
+  "title": "9th OP Community Governance Call [November 22th at 10am PT / 1pm ET / 7pm CET]",
+  "content": "Hello Optimists!\n\nAs the reflection period is in full swing, we will be having our 9th community\ncall this Tuesday, November 22nd at 10am PT / 1pm ET / 7pm CET.\n\nZoom Link:\nhttps://us02web.zoom.us/j/81673866299?pwd=eE43eGp2TjVrSmc1Q3NjUW42UENlUT09\n[https://us02web.zoom.us/j/81673866299?pwd=eE43eGp2TjVrSmc1Q3NjUW42UENlUT09]\n\nThe call is open for anyone in the OP community to join.\n\nDiscussion will likely focus around proposed improvements for Season 3 (Guide to\nSeason 3: Course Correcting\n[https://gov.optimism.io/t/guide-to-season-3-course-correcting/3942]).\n\nThis will include topics such as:\n\n * Delegate Code of Conduct\n * Governance Fund Charter\n * Grants Council Proposal\n * Protocol Delegation Program\n\nIf you’d like anything added to the agenda, post it in this thread. Looking\nforward to seeing you all there!\n\n- Michael :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12] :sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]",
+  "views": 2005,
+  "like_count": 14,
+  "word_count": 299,
+  "answer": [
+    {
+      "content": "We will live streaming with Kelvin about Bedrock and OP Stack at the same time,\nI won’t be able to assist but I’ll wait for the recording!",
+      "created_at": "2022-11-22T13:31:34.685Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "This is following the governance calendar (here\n[https://calendar.google.com/calendar/embed?src=c_fnmtguh6noo6qgbni2gperid4k%40group.calendar.google.com&ctz=America%2FNew_York]).\n\nLast week we moved the meeting one hour later but now the rest of the calendar\nevents are at the earlier time.\n\nI’m ok with whatever works best for everyone but I don’t have access to change\nthe calendar. Paging @lavande [/u/lavande], is there a preferred time? And if we\nare keeping the later time, can we change all the meetings on the calendar?",
+      "created_at": "2022-11-21T21:51:12.803Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Time on the calendar and this post has all been updated to one hour later.\nThanks for calling this out @katie [/u/katie]!",
+      "created_at": "2022-11-21T22:43:13.502Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Hey Everyone - The community call is starting in 15 minutes! Bumping this post\nso that it’s easy to find.\n\nZoom link:\nhttps://us02web.zoom.us/j/81673866299?pwd=eE43eGp2TjVrSmc1Q3NjUW42UENlUT09\n[https://us02web.zoom.us/j/81673866299?pwd=eE43eGp2TjVrSmc1Q3NjUW42UENlUT09]",
+      "created_at": "2022-11-22T17:45:58.991Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Thanks for sharing, Michael! Looking forward!",
+      "created_at": "2022-11-22T11:52:06.903Z",
+      "trust_level": 2,
+      "username": "revmiller",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2022-11-20T21:47:20.409Z"
+}

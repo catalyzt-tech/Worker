@@ -1,0 +1,20 @@
+{
+  "title": "About the Optimism Collective",
+  "content": "Welcome to the Optimism Collective governance forum!\n\nThe forum is where governance participants discuss critical topics relating to\nthe Collective.\n\n\nWHAT IS THE OPTIMISM COLLECTIVE?\n\nThe Optimism Collective is a new model of digital democratic governance. It is a\nband of communities, companies, and citizens united by the axiom of\nimpact=profit — the principle that positive impact to the Collective should be\nrewarded to the individual.\n\nEmpowering values. Robust infrastructure. An economy where everyone thrives.\n\nThe foundation for a more equitable digital economy is an interconnected network\nof blockchains built on a modular, open-source codebase.\n\n\nHOW IS THIS GOING TO BE GOVERNED?\n\nThe Optimism Collective and the Superchain take an experimental and agile\napproach to governance, relentlessly iterating towards a system which stands the\ntest of time.\n\nThe Collective’s model of digital democratic governance consists of two houses:\nthe Token House and the Citizens’ House. These two houses form a bicameral\ngovernance system, with the two-house design is intended to help the Collective\nmake better decisions, avoid common pitfalls in token-based governance systems,\nand have checks and balances.\n\nWhat is described here is an initial experiment. The specifics of this system\nwill evolve as the Collective grows.\n\nimage\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/7/7bd2462db8a209ee3f4368a4b1c15f6cb56f9f15.png]\n\n\nWHAT IS THE TOKEN HOUSE?\n\nGovernance of the Optimism Collective began with the launch of the OP token and\nthe Token House.\n\nAs Token House members, OP holders are responsible for submitting, deliberating,\nand voting on various types of governance proposals.\n\nIn carrying out these functions, OP holders may either vote directly, or\ndelegate their OP voting power to someone else.\n\nLearn how to delegate your OP tokens\n[https://community.optimism.io/docs/governance/howto-delegate/]. You can\ndelegate to yourself, or anyone else!\n\nThe Token House votes on the proposal types outlined in the Operating Manual\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md#valid-proposal-types].\nYou can join the discussion by visiting the Delegates category\n[https://gov.optimism.io/c/delegates/41].\n\nYou can learn more in the Token House Onboarding Hub\n[https://plaid-cement-e44.notion.site/Token-House-Governance-Hub-decae75a0fa248e38f969abe8edef565?pvs=4].\n\n\nWHAT IS THE CITIZENS’ HOUSE?\n\nThe Citizens’ House is a large-scale experiment in a reputation-based governance\nsystem (one member = one vote), and is primarily responsible for Retroactive\nPublic Goods Funding (Retro Funding) [https://app.optimism.io/retropgf].\n\nJoin the discussion by following the Retro Funding\n[https://gov.optimism.io/c/retrofunding/46] category and the Citizens\n[https://gov.optimism.io/c/citizens/79] category.\n\n\nBUT WHAT DO THEY REALLY DO?\n\nYou can find a more detailed breakdown of responsibilities in this diagram.\n\n\n\nGov responsibilites (1)\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/5/51b19f0e723e9aee299bbcec84102528c5f4922c_2_690x333.jpeg]\nGov responsibilites (1)1920×927 54.3 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/5/51b19f0e723e9aee299bbcec84102528c5f4922c.jpeg]\n\n",
+  "views": 1681,
+  "like_count": 12,
+  "word_count": 473,
+  "answer": [
+    {
+      "content": "This is a visual detailed information. Thanks for sharing for a noob like me.\nOptimism Collective is an initiative with purpose and vision. Love it",
+      "created_at": "2024-05-11T10:16:01.962Z",
+      "trust_level": 0,
+      "username": "pikkaeuroman",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2023-06-16T10:08:09.292Z"
+}

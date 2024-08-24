@@ -1,0 +1,40 @@
+{
+  "title": "About the Monitoring category",
+  "content": "This category is for posts that increase transparency and accountability.\n\nSpecifically transparency and accountability around the usage of Governance Fund\ngrants or other topics relevant to members of the Collective.\n\nPlease keep the information provided here factual. All claims should be\nsupported by verifiable evidence (on-chain, whenever possible) and data.\n\nAll discourse must follow the Rules of Engagement\n[https://gov.optimism.io/t/rules-of-engagement-2-0/5728].",
+  "views": 721,
+  "like_count": 11,
+  "word_count": 157,
+  "answer": [
+    {
+      "content": "Thanks for these efforts. I think it is worth stressing the metrics are quite\nstrong and while deeper ones are welcome I think the team should not feel we\nthink they are slacking or anything! Taking your time and avoiding burnout would\nbe no issue.",
+      "created_at": "2023-03-21T14:46:39.069Z",
+      "trust_level": 2,
+      "username": "polarpunklabs",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Incredible!!!\nI’m very excited to see the growth here in 2023 for all these existing projects\nand all the new protocols that join Optimism in the future.",
+      "created_at": "2023-03-21T15:35:08.678Z",
+      "trust_level": 2,
+      "username": "FractalVisions",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "I think monitoring is the most important category. glad to contribute to the\ndiscussion",
+      "created_at": "2023-03-23T01:47:52.976Z",
+      "trust_level": 2,
+      "username": "Dicaso",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2023-03-21T15:47:20.777Z"
+}

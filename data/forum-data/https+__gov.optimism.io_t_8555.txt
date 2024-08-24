@@ -1,0 +1,40 @@
+{
+  "title": "[Mission Request] decentralized alternative for contract attestation",
+  "content": "Delegate Mission Request Summary: This is to get a decentralized alternative to\ncontract attestation. Being able to deploy anywhere on OP Stack and have your\ncontract attested would be a good example of interop promoting decentralization.\n\nS6 [Intent 22](Season 6: Intents Ratification\n[https://gov.optimism.io/t/season-6-intents-ratification/8104]): Intent 1 -\nProgress toward decentralization\n\nProposing Delegate/Citizen: Jackanorak\n\nTotal grant amount: 40k\n\nShould this Mission be fulfilled by one or multiple applicants:\nOne\n\nHow will this Mission Request help accomplish the above Intent?\nThe use-case is straightforward: if we intend to do retro funding and some\ngovernance across chains, thus increasing the utility of OP across them, we need\nthis tooling to exist to make stuff easier. There is also enormous surface area\nfor impact of this kind of attestation work more broadly across applications.\n\nWhat is required to execute this Mission Request?\nPlan for fully decentralized, open-source, cross-superchain ability to do\ncontract attestation.\n\nHow should governance participants measure impact upon completion of this\nMission?\n\nMilestones:\n\n * Spec definition, approved by grant council\n * MVP\n\nMetrics:\n\n * Number of attestations\n * Number of chains using these\n\nImpact:\n\n * Whether retro funding uses these attestations\n * Attestations occurring across chains\n * Number of contracts using attestations\n\nHas anyone other than the proposer contributed to this Mission Request?\nNo\n\n\nWHICH METRIC WILL THE SUCCESS OF THIS MISSION REQUEST BE EVALUATED AGAINST?\n\nThe North star metric against which this Mission Request should be evaluated is\ntotal amount of OP delegated from new addresses using the grantee’s protocol, as\nit helps assess the aggregated effect that this initiative has on the total\nvotable supply. This metric was suggested by the Foundation and approved by the\nGrants Council.",
+  "views": 269,
+  "like_count": 1,
+  "word_count": 402,
+  "answer": [
+    {
+      "content": "A North Star Metric has been added at the bottom of this Mission Request in an\neffort to enable the Collective to make data-driven decisions. By using a single\nmetric for each Mission Request, the Collective is better able to evaluate the\nperformance of all the Season 6 missions in a standardized manner, which will be\ncritical when the Collective makes decisions about Intents, budgets, or other\ncritical components of governance.",
+      "created_at": "2024-07-22T19:23:03.826Z",
+      "trust_level": 4,
+      "username": "system",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "hey @jackanorak [/u/jackanorak] . May I know what is the expected difference\nwith EAS? thank you",
+      "created_at": "2024-07-22T17:22:21.978Z",
+      "trust_level": 0,
+      "username": "gwp2p",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "Hello @jackanorak [/u/jackanorak] . Is it possible to provide a little more\ninformation what is the goal of this mission request? What is meant by “contract\nattestation”? And what exactly is the current status quo and it problems?",
+      "created_at": "2024-08-15T10:21:26.325Z",
+      "trust_level": 0,
+      "username": "vid",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-07-08T18:56:19.809Z"
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Derbygold.eth- DELEGATE COMMUNICATION THREAD",
+  "content": "[Delegate Suspension:\n(https://www.tally.xyz/gov/eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10/proposal/27878184270712708211495755831534918916136653803154031118511283847257927730426\n[https://www.tally.xyz/gov/eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10/proposal/27878184270712708211495755831534918916136653803154031118511283847257927730426])\n: Vote YES, The rules of the community and the delegation process is a\nresponsibility that is acquired and must be respected at all times, that is why\nI agree to suspend your participation in this process.\n\nUpgrade Proposal: Bedrock\n[https://www.tally.xyz/gov/eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10/proposal/114732572201709734114347859370226754519763657304898989580338326275038680037913]\n: Vote YES, It’s a small step for Optimism but a big step for Ethereum\nscalability, my vote is YES, because the development and commitment given by the\nteam will add value to the rollup ecosystem.",
+  "views": 470,
+  "like_count": 1,
+  "word_count": 97,
+  "answer": [],
+  "created_at": "2023-10-30T12:47:36.219Z"
+}

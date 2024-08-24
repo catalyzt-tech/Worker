@@ -1,0 +1,60 @@
+{
+  "title": "[GF: Phase 0 Proposal] Hop Protocol",
+  "content": "Project Name: Hop Protocol\n\nAuthor Name: Chris\n\nDefillama TVL (at snapshot): $12,288,329\n\nTransactions/day (at snapshot) : 693\n\nTier: 2\n\nOptimism native: No\n\nRevisions to metrics used: N/A\n\nNumber of OP tokens to claim: 1,000,000\n\nL2 Recipient Address: 0xC988107688b750dee6237B85A3ca49ba0a65DaB0\n[https://optimistic.etherscan.io/address/0xC988107688b750dee6237B85A3ca49ba0a65DaB0]\n\n\nPROPOSAL FOR TOKEN DISTRIBUTION (UNDER 1000 WORDS):\n\nHop will use the allocated $OP to reduce the net cost for users onboarding to\nOptimism using Hop Protocol.\n\n\nHOW WILL THE OP TOKENS BE DISTRIBUTED?\n\nEvery user that onboards to Optimism using Hop Protocol will have 80% of their\ntotal onboarding fees refunded in $OP. This will significantly reduce the net\ncost for users to send funds to Optimism and give them a stake in the Optimism\nnetwork. The $OP rewards will cover 80% of users’ total onboarding fees,\nincluding gas fees, AMM LP fees, and bonder fees but will not include the AMM\nrate.\n\n\nHOW WILL THIS DISTRIBUTION INCENTIVIZE USAGE AND LIQUIDITY ON OPTIMISM?\n\nLowering the net cost for users to onboard to Optimism by 80% will make it much\ncheaper for new users to get funds onto the network to give it a try. Also,\nusers who regularly bridge funds will earn a meaningful amount of $OP rewards,\nsimilarly to a loyalty points program making it more likely to become their goto\nL2.\n\n\nWHY WILL THE INCENTIVIZED USERS AND LIQUIDITY REMAIN AFTER INCENTIVES DRY UP?\n\nThe incentives will help cover fees to onboard to Optimism. Once there, users\nwill leave their funds where they can enjoy cheap transaction fees, a\nbuttery-smooth user experience, and a rich ecosystem of innovative Web3\napplications.\n\n\nOVER WHAT PERIOD OF TIME WILL THE TOKENS BE DISTRIBUTED?\n\nThis will depend on the market price of $OP and the gas markets on Hop’s various\nsupported networks, as well as the prices of their native tokens.\n\n\nHOW MUCH WILL YOUR PROJECT MATCH IN CO-INCENTIVES?\n\nThe Hop team cannot speak for the upcoming Hop DAO, but it is likely that the\nHop community will set up liquidity mining for each of the Hop AMMs on Optimism\nusing HOP incentives. This will improve the transfer rates, especially for users\ntransacting with larger amounts.\n\n\nEXECUTION\n\nAll rewards calculations will be done off-chain using the $OP price at the time\nof the bridge transaction. Each month, a Merkle drop with all $OP rewards will\nbe deployed on Optimism. All rewards that are not claimed from the previous\nmonth will roll over to the new Merkle Drop contract where they will be\nclaimable along with any additional rewards the user has accrued.\n\nOnly direct interactions with the Hop Contracts should be considered for $OP\nrewards. Interactions that go through wrapper contracts, such as those deployed\nby bridge aggregators, add a ~20% gas premium vs using Hop directly, which works\nagainst the goals of this proposal.",
+  "views": 9005,
+  "like_count": 199,
+  "word_count": 3461,
+  "answer": [
+    {
+      "content": "自古得道多助失道寡助，您失去了社区的人心，开启了区块链的倒退模式。我将保留我的op投票权 对你投出反对票",
+      "created_at": "2022-05-25T02:57:27.766Z",
+      "trust_level": 0,
+      "username": "fdsdgdsg",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 16
+    },
+    {
+      "content": "This is a brilliant proposal and will go a long way in onboarding users on to\nOptimism. Couple of observations:\n\n * The refund is wasted on larger transfers (i.e. >$10,000), does the data\n   suggest this is rare enough for it to not matter?\n * A month is too long given how volatile crypto is, esp a new token like $OP,\n   any way to shorten this period?\n * It feels like there should be a cap according to anomalous gas fees on\n   Ethereum specifically - e.g. we don’t want to refund massive amounts of $OP\n   if someone bridged in the middle of an ape drop at 6,000 gwei. Better\n   incentivize them to wait.",
+      "created_at": "2022-05-25T07:20:49.456Z",
+      "trust_level": 2,
+      "username": "polynya",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 15
+    },
+    {
+      "content": "Thank you! And this is great feedback.\n\n>  * The refund is wasted on larger transfers (i.e. >$10,000), does the data\n>    suggest this is rare enough for it to not matter?\n\nWhen thinking through this, the idea was to cater the subsidy more towards\nsmaller transfers where fees are the primary cost vs liquidity mining which\nwould benefit larger transfers where slippage is the primary cost but still\nstrike a nice balance. It could further be slanted toward smaller transfers by\njust partially refunding gas fees and not LP and bonder fees. A nice middle\nground could also be found by capping rewards like you mentioned.\n\n>  * A month is too long given how volatile crypto is, esp a new token like $OP,\n>    any way to shorten this period?\n\nIt should be possible to sufficiently automate this process so it can be run on\na weekly cadence. This is a good point.\n\n>  * It feels like there should be a cap according to anomalous gas fees on\n>    Ethereum specifically - e.g. we don’t want to refund massive amounts of $OP\n>    if someone bridged in the middle of an ape drop at 6,000 gwei. Better\n>    incentivize them to wait.\n\nCompletely agree that there should be a cap. Maybe a quadratic reward that\ndecreases as total fees increase would solve this as well as dampen the refund\nfor larger transfers (e.g., A transfer with $20 of fees gets an 80% refund and a\ntransfer with $300 of fees gets a 50% refund.) And then there would be an\nimplicit max refund that get’s approached asymptotically.",
+      "created_at": "2022-05-25T16:59:59.166Z",
+      "trust_level": 1,
+      "username": "cwhinfrey",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 8
+    },
+    {
+      "content": "How is this not a way to corner the market as a bridge? I understand the benefit\nto optimism and the users but likewise this seems to go against the philosophy\nof decentralization. Why is Hop the primary bridge to receive this funding and\nnot other bridges to optimism like the other ones on optimism bridge page? It\nmight be better to use this plan for all the bridges that connect to optimism\nand not just one.",
+      "created_at": "2022-05-25T13:32:24.724Z",
+      "trust_level": 2,
+      "username": "Maessedai",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "砸人饭碗如杀人父母，对于这种没有道德性的项目方人人得而诛之",
+      "created_at": "2022-05-26T04:51:15.592Z",
+      "trust_level": 0,
+      "username": "yiwugou",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    }
+  ],
+  "created_at": "2022-05-24T18:37:42.433Z"
+}

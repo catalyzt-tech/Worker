@@ -1,0 +1,206 @@
+title: Bridging ETH with the Optimism SDK
+lang: en-US
+description: Learn how to use the Optimism SDK to transfer ETH between Layer 1 (Ethereum or Sepolia) and Layer 2 (OP Mainnet or OP Sepolia).
+
+import { Callout, Steps } from 'nextra/components'
+import { WipCallout } from '@/components/WipCallout'
+
+Bridging ETH to OP Mainnet With the Optimism SDK
+
+This tutorial explains how you can use the Optimism SDK to bridge ETH from L1 (Ethereum or Sepolia) to L2 (OP Mainnet or OP Sepolia).
+The Optimism SDK is an easy way to add bridging functionality to your JavaScript-based application.
+It also provides some safety rails to prevent common mistakes that could cause ETH or ERC-20 tokens to be made inaccessible.
+
+Behind the scenes, the Optimism SDK uses the Standard Bridge contracts to transfer ETH and ERC-20 tokens.
+Make sure to check out the Standard Bridge guide if you want to learn more about how the bridge works under the hood.
+
+Supported Networks
+
+The Optimism SDK supports any of the Superchain networks.
+Some Superchain networks are already included in the SDK by default.
+If you want to use a network that isn't included by default you can simply instantiate the SDK with the appropriate contract addresses.
+
+Dependencies
+
+node
+pnpm
+
+Create a Demo Project
+
+You're going to use the Optimism SDK for this tutorial.
+Since the Optimism SDK is a Node.js library, you'll need to create a Node.js project to use it.
+
+mkdir op-sample-project
+cd op-sample-project
+
+{Initialize the Project}
+
+pnpm init
+
+{Install the Optimism SDK}
+
+pnpm add @eth-optimism/sdk
+
+{Install ethers.js}
+
+pnpm add ethers@^5
+
+Get ETH on Sepolia
+
+This tutorial explains how to bridge ETH from Sepolia to OP Sepolia.
+You will need to get some ETH on Sepolia to follow along.
+
+Add a Private Key to Your Environment
+
+You need a private key in order to sign transactions.
+Set your private key as an environment variable with the export command.
+Make sure this private key corresponds to an address that has ETH on Sepolia.
+
+export TUTORIAL_PRIVATE_KEY=0x...
+
+Start the Node REPL
+
+You're going to use the Node REPL to interact with the Optimism SDK.
+To start the Node REPL run the following command in your terminal:
+
+node
+
+This will bring up a Node REPL prompt that allows you to run javascript code.
+
+Import Dependencies
+
+You need to import some dependencies into your Node REPL session.
+
+{Import the Optimism SDK}
+
+
+
+{Import ethers.js}
+
+
+
+Set Session Variables
+
+You'll need a few variables throughout this tutorial.
+Let's set those up now.
+
+{Load your private key}
+
+
+
+{Create the RPC providers and wallets}
+
+
+
+Get ETH
+
+You're going to need some ETH on L1 that you can bridge to L2.
+You can get some Sepolia ETH from this faucet.
+
+Deposit ETH
+
+Now that you have some ETH on L1 you can deposit that ETH into the L1StandardBridge contract.
+You'll then receive the same number of ETH on L2 in return.
+
+{Check your wallet balance on L1}
+
+See how much ETH you have on L1 so you can confirm that the deposit worked later on.
+
+
+
+{Create a CrossChainMessenger instance}
+
+The Optimism SDK exports a CrossChainMessenger class that makes it easy to interact with the L1StandardBridge contract.
+
+Create an instance of the CrossChainMessenger class:
+
+
+
+{Deposit your ETH}
+
+Now you can deposit your ETH into the Standard Bridge contract.
+You'll deposit a small amount of ETH just to demonstrate the process.
+
+
+
+{Wait for the deposit to be relayed}
+
+You can use the waitForMessageStatus function to wait for the deposit to be relayed to L2.
+
+
+
+{Check your wallet balance on L1}
+
+You should now have less ETH on L1.
+
+
+
+{Check your wallet balance on L2}
+
+You should now have more ETH on L2.
+
+
+
+Withdraw ETH
+
+You just bridged some ETH from L1 to L2.
+Nice!
+Now you're going to repeat the process in reverse to bridge some ETH from L2 to L1.
+
+{Start your withdrawal on L2}
+
+The first step to withdrawing ETH from L2 to L1 is to start the withdrawal on L2.
+
+
+
+{Check your wallet balance on L2}
+
+You should now have less ETH on L2, but your wallet balance on L1 will not have changed yet.
+
+
+
+{Wait until the withdrawal is ready to prove}
+
+The second step to withdrawing ETH from L2 to L1 is to prove to the bridge on L1 that the withdrawal happened on L2.
+You first need to wait until the withdrawal is ready to prove.
+
+
+
+{Prove the withdrawal on L1}
+
+Once the withdrawal is ready to be proven, you'll send an L1 transaction to prove that the withdrawal happened on L2.
+
+
+
+{Wait until the withdrawal is ready for relay}
+
+The final step to withdrawing ETH from L2 to L1 is to relay the withdrawal on L1.
+This can only happen after the fault proof period has elapsed.
+On OP Mainnet, this takes 7 days.
+
+
+
+{Relay the withdrawal on L1}
+
+Once the withdrawal is ready to be relayed you can finally complete the withdrawal process.
+
+
+
+{Wait until the withdrawal is relayed}
+
+Now you simply wait until the message is relayed.
+
+
+
+{Check your wallet balance on L1}
+
+You should now have more ETH on L1.
+
+
+
+Next Steps
+
+Congrats!
+You've just deposited and withdrawn ETH using the Optimism SDK.
+You should now be able to write applications that use the Optimism SDK to transfer ETH between L1 and L2.
+Although this tutorial used Sepolia and OP Sepolia, the same process works for Ethereum and OP Mainnet.

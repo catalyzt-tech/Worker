@@ -1,0 +1,60 @@
+{
+  "title": "Token Sale – September 2023",
+  "content": "An update to the community:\n\nOptimism has entered into a private token sale of approximately 116M OP tokens,\nsplit among seven purchasers, for treasury management purposes. The tokens are\nsubject to a two-year lockup. During the lock-up, the purchasers will be able to\ndelegate the tokens to unaffiliated third parties for participation in\ngovernance.\n\nThe tokens come from the Unallocated portion of the OP Token treasury, and are\npart of the Foundation’s original working budget of 30% of the initial OP token\nsupply.\n\nStarting today, there will be several transactions to send the OP. These are all\nplanned transactions and we’re sharing a heads up to keep the community\ninformed.",
+  "views": 8567,
+  "like_count": 91,
+  "word_count": 2843,
+  "answer": [
+    {
+      "content": "I think Foundation has full autonomy over working budget, so no comment on token\nsale. Only writing this comment to express my gratitude for keeping the\ncommunity involved, even with internal transaction. No surprise other DAO are\nlooking at us, learning from us and building around us.",
+      "created_at": "2023-09-20T21:10:50.875Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 10
+    },
+    {
+      "content": "Just a few questions to understand the conditions and other information that\ncould be relevant if these can be available:\n\n\n[https://europe1.discourse-cdn.com/bc41dd/original/1X/391d6e71a279a9f881f75bfa7df5cdf3cf905b3f.png]\nsystem:\n\n> split among seven purchasers\n\nWho are purchasing in this token sale? Very appreciated if we can know the\nnames.\n\n\n[https://europe1.discourse-cdn.com/bc41dd/original/1X/391d6e71a279a9f881f75bfa7df5cdf3cf905b3f.png]\nsystem:\n\n> The tokens are subject to a two-year lockup\n\nIs the unlocking -immediate and total- after two years or progressive once this\nperiod ends (example, linear unlocking)?\n\n\n[https://europe1.discourse-cdn.com/bc41dd/original/1X/391d6e71a279a9f881f75bfa7df5cdf3cf905b3f.png]\nsystem:\n\n> the purchasers will be able to delegate the tokens to unaffiliated third\n> parties for participation in governance.\n\nIs there more about (if any) previously agreed commitments on how they will be\ninvolved in governance? because currently 69M OP [https://vote.optimism.io/]\ntokens are delegated and 113M OP sold is a massive shock to consider.\n\nThanks.",
+      "created_at": "2023-09-20T23:33:51.522Z",
+      "trust_level": 2,
+      "username": "Joxes",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 10
+    },
+    {
+      "content": "\n[https://avatars.discourse-cdn.com/v4/letter/s/46a35a/48.png] Solofunk:\n\n> regarding the 17% allocated to Sugar Xaddies […] It would be helpful to know\n> how much of this allocation remains\n\nInformation about the unlock schedule for the Sugar Xaddies token allocation is\navailable in the OP Token Unlock Public Tracker\n[https://docs.google.com/spreadsheets/d/1qVMhLmmch3s6XSbiBe8hgD4ntMkPIOhc1WrhsYsQc7M/edit#gid=1283480580].\nThis sheet is updated on (roughly) the last day of each month.\n\n\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/joxes/48/5814_2.png]\nJoxes:\n\n> Is the unlocking -immediate and total- after two years or progressive once\n> this period ends (example, linear unlocking)?\n\nThe unlock is immediate and total after two years.\n\n\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/joxes/48/5814_2.png]\nJoxes:\n\n> Is there more about (if any) previously agreed commitments on how they will be\n> involved in governance? because currently 69M OP [https://vote.optimism.io/]\n> tokens are delegated and 113M OP sold is a massive shock to consider.\n\nThe current circulating supply of OP is over 800m tokens. The Collective will\ncontinue to support initiatives to increase the delegated supply of OP as a\nshare of the total circulating supply.\n\n\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/gonna.eth/48/3379_2.png]\nGonna.eth:\n\n> Do you plan more private token sales in the future?\n\nThere are currently no plans for more private token sales in the future.\n\n> Can we know who are the seven purchasers?\n> Do you plan to publish the price deal you made?\n> Was there any discount to the current spot price or TWAP?\n> Who are purchasing in this token sale? Very appreciated if we can know the\n> names.\n\nThis was a private sale. The terms and purchasers are not being disclosed.",
+      "created_at": "2023-09-21T18:31:48.319Z",
+      "trust_level": 4,
+      "username": "bobby",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 6
+    },
+    {
+      "content": "Hey there! Appreciate the notice on the $OP movements, it will def. help avoid\nweird speculations. With that being said, I do have a couple of Qs:\n\n * What was the thought process on not putting any vesting on these tokens?\n   Seems like something utterly out of the ordinary even if they are “not buying\n   shares” :wink: [https://emoji.discourse-cdn.com/twitter/wink.png?v=12]\n * I’m not versed on legal stuff, so would appreciate the insight: How does this\n   not represent a liability on the Foundation’s side? “Private sale” sounds\n   awfully close to selling shares, specially if this is not executed from a\n   Snapshot vote.\n * How does this affect the decentralization threshold in which Optimism network\n   works? It will not affect the sequencer, since its run by the team, but…\n   Having unknown entities with considerable voting power, probably sold at a\n   discount, does seem to change a bit current Optimism landscape.\n\nI’m trying my best not to attack what is happening, since I understand this\nprobably an amazing opportunity to secure the future of Optimism’s development,\nmarketing, etc. but I do find it conflicts a bit with the decentralization\nnarrative.\n\nAppreciate your guys transparency.",
+      "created_at": "2023-09-21T19:08:21.223Z",
+      "trust_level": 2,
+      "username": "0xged",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "Thank you for keeping us in the loop.\n\n 1. Do you plan more private token sales in the future?\n 2. Can we know who are the seven purchasers?\n 3. Do you plan to publish the price deal you made?\n 4. Do they have any delegation limit of 116M? sounds overkill given that 69M\n    are delegated so far.",
+      "created_at": "2023-09-21T14:29:13.995Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 4
+    }
+  ],
+  "created_at": "2023-09-20T18:00:06.201Z"
+}

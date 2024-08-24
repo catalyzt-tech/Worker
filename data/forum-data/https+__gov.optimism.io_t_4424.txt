@@ -1,0 +1,60 @@
+{
+  "title": "Why optimism don't wish us happy new year 🎉",
+  "content": "Optimism has been the most used Layer2 network compared to Abritrum and zksync\nin both tvl and active users on each chain optimism network reached it new Ath\non December 2022 which that was huge :flushed:\n[https://emoji.discourse-cdn.com/twitter/flushed.png?v=12] the Optimism\necosystem never stop building strong everyday its times i wish the teams happy\nnew year :tada: [https://emoji.discourse-cdn.com/twitter/tada.png?v=12] and more\nexciting features of optimism ecosystem we love to stay safe and always be\noptimistic :sparkles: :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]_\n:red_circle::sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]\nAm getting to everyone both developers and users",
+  "views": 1888,
+  "like_count": 39,
+  "word_count": 305,
+  "answer": [
+    {
+      "content": "Happy new year! Here’s wishing you all an amazing year ahead.",
+      "created_at": "2023-01-04T13:19:13.891Z",
+      "trust_level": 2,
+      "username": "0x000",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Happy New Year fam :sparkling_heart:\n[https://emoji.discourse-cdn.com/twitter/sparkling_heart.png?v=12]",
+      "created_at": "2023-01-03T13:44:37.068Z",
+      "trust_level": 1,
+      "username": "crmind",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": ":love_you_gesture:\n[https://emoji.discourse-cdn.com/twitter/love_you_gesture.png?v=12]jesus let’s\ngo! for the pump sake!",
+      "created_at": "2023-01-03T13:55:06.154Z",
+      "trust_level": 2,
+      "username": "chicco",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "happy new year, we hope for the best on the ecosystem and wish that all project\non the platform are watched and follow due process, i trust that we will do well\nin the new year cheers.",
+      "created_at": "2023-01-04T13:03:21.526Z",
+      "trust_level": 2,
+      "username": "pheyyex",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "I think you are right.",
+      "created_at": "2023-01-08T15:52:11.076Z",
+      "trust_level": 0,
+      "username": "imriebesleyk",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2023-01-02T05:18:48.346Z"
+}

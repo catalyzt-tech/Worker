@@ -1,0 +1,60 @@
+{
+  "title": "[Review] [GF: Phase 1] L2 Planet & Optimism TR",
+  "content": "Project Name: L2 Planet & Optimism TR\n\nAuthor Name: @arabianhorses [/u/arabianhorses], @0xemre [/u/0xemre],\n@layer2planet [/u/layer2planet]\n\nI understand that I will be required to provide additional KYC information to\nthe Optimism Foundation to receive this grant: Yes, We understood.\n\nL2 Recipient Address: l2planet.eth\n\nWhich Voting Cycle are you applying for : Voting cycle #6\n\nGrant category: Governance Funding\n\nIs this proposal applicable to a specific committee? Might be Tooling Committee\n\nProject description:\n\nL2 Planet is a community project run by volunteers, researchers, developers,\ndesigners, and more. The main goal is to accelerate Layer-2 adaptation and\neducate the community about it. We are running a biweekly L2 newsletter\n[https://layer2planet.substack.com/] in both English and Turkish. We have 895\ne-mail subscribers on Substack and 608 followers on Twitter(EN)\n[https://twitter.com/layer2planet], 3481 followers on Twitter(TR)\n[https://twitter.com/layer2planettr]. Also, we are building an L2 Hub\n[https://l2planet.pages.dev/] to track L2 projects across all networks. We want\nto increase our speed on Optimism and introduce more Optimism native projects to\nour audiences. Since most of our team members are from Turkey, some of our\ncontent is in Turkish but we don’t see this situation as a disadvantage. Turkey\nhas a lot of young crypto enthusiasts and some of them, unfortunately, don’t\nknow English. We have recorded a video\n[https://www.youtube.com/watch?v=PkzRgth-Wzo] that explains how to run a node on\nOptimism and currently running OptimismTR [https://twitter.com/OptimismTR]\naccount on Twitter, we have also published an article\n[https://medium.com/@optimismTR/i%CC%87ki-rakip-l2de-birden-%C3%A7al%C4%B1%C5%9Fan-i%CC%87kiz-platformlar-3acf4c9818f6]\nabout Quix, started a video series for telling Turkish people ‘How to jump into\nOptimism Summer’, Sharing weekly holders status for $OP, these are what have we\ndone until today. If this proposal pass we are going to increase our work’s\nquality by using the grant.\n\nMost of the people in the web3 space are here to make some quick profits. We are\nall human and seeking profit is just natural, but there is much more thing\nbehind money. Layer2planet believes that we (as web3 lovers) can build a\ndifferent perspective for the future. We must teach people how things work in\nweb2 and web3, people even don’t know what decentralization means. They have no\nidea to what extent ‘big data’ can control humanity and what harm it can do.\nThey do not understand why we need decentralization. Most people who are aware\nof this do not know exactly how Ethereum and the projects under its wings\nachieve this decentralization. With this vision, On the one hand, we are trying\nto tell people how to use web3 applications, and on the other hand, we are\ntrying to explain why we should use them.\n\nProject links:\n\n * L2 Hub [https://l2planet.xyz]\n\n * Substack [https://layer2planet.substack.com/]\n\n * Discord [https://discord.com/invite/trSb3WqzFJ]\n\n * Youtube [https://www.youtube.com/c/l2planet]\n\n * Twitter EN [https://twitter.com/layer2planet]\n\n * Twitter TR [https://twitter.com/layer2planettr]\n\n * l2planet.lens [https://lenster.xyz/u/l2planet.lens]\n\n * OptimismTR [https://twitter.com/OptimismTR]\n\nAdditional team member info: 0xInvy [https://twitter.com/0xInvy], Hitasyurek.eth\n[https://twitter.com/hitasyurek]\n\nCompetitors or similar projects: Messari, Layer 3, GCR, Finematics\n\nOptimism native?: This question might be irrelevant for us because we are not an\nOn-Chain project, and are focused on generally Layer2s however we are\nconsidering building a dapp, of course, we are going to work on Optimism when\nthis happens.\n\nEcosystem Value Proposition:\n\nThe technical basement of Optimism can be too complex for ordinary users. We are\nplanning to make it more understandable for everyone. When we achieve this goal\nmore people are going to start understanding how Optimistic Rollups keep funds\nsafe and how Optimism is different from other ORs, with this process more people\nwill bring their funds into the ecosystem. It is the best way of natural growth.\n\nHas your project previously applied for an OP grant?: No\n\nNumber of OP tokens requested: 30,000\n\nDid the project apply for or receive OP tokens through the Foundation Partner\nFund?: No\n\nProposal for token distribution:\n\nWe are going to use all OP tokens to stimulate our contributors to Optimism\nprojects. Optimism TR account, L2 Planet accounts, and team members’ accounts\nwill be combined for the marketing activities of all the works mentioned below.\n\nPhase 1 - Project Reviews: We will prepare detailed research reports in Turkish\nand English for Optimism projects each week(10 weeks total). Turkish reports\nwill be published on Optimism TR and English on L2 Planet. 5000 amount of OP\ntokens will be used in this phase. After each report, 500 OP tokens will be\nunlocked and shared among the work contributors. All tokens in these phases will\nbe unlocked total of 10 weeks.\n\nPhase 2 - Optimism Newsletter(Turkish): We will publish the weekly Turkish\nOptimistic Newsletter to convey Optimism’s latest developments and news. 20000\namount of OP tokens will be used in this phase. After each issue, 384 OP tokens\nwill be unlocked and shared among the work contributors. All tokens in these\nphases will be unlocked total of 52 weeks.\n\nPhase 3 - Organizing Events: We will organize AMA and educational events with\nOptimism projects to introduce projects to the community. 4000 OP tokens will be\nused in this phase. Details of token distribution for this phase are unclear.\nSome of the released tokens can be used to organize events or for event\ncontributors.\n\nPhase 4 - Creating an NFT Collection: This collection will have different\ncharacters and the theme of the design will reflect the Love of the layer2planet\nfor Optimism. It will be free mint but going to have %10 royalties and the\nroyalty address is going to be ‘retropgf.eth’. We are going to use 1000 OP to\nhire a qualified designer.\n\nWe will not base the OP’s dollar equivalent. OPs will remain as OPs during this\nprocess.\n\nHas your project previously received an OP token grant? If yes, what’s the\nstatus of these tokens?\n\nNope, but we have taken grants in GR13 and GR14. Check out the L2 Planet Gitcoin\npage [https://gitcoin.co/grants/4450/layer2-planet]. We have created a\ncontribution-reward model\n[https://layer2planet.notion.site/Katk-d-l-Modeli-3d9c89bfacbc4e5cb2531b2e3e8746a8]\nfor incentive contributors. Grant tokens are distributed\n[https://docs.google.com/spreadsheets/d/17vok0LOXuFz_tfShwVLcoHE0bF0iZ-7rC1NMD-4bsLg/edit?usp=sharing]\naccording to this model. L2 Planet treasury\n[https://etherscan.io/address/0x2d9d84f4d8a4254ea23fe18825193cbd1b21b749] holds\nand manages remaining tokens.\n\nPlease provide any additional information that will facilitate accountability:\nWe are already working for Optimism Ecosystem so our previous works can be\nconsidered as proof that we will keep our promises.",
+  "views": 2326,
+  "like_count": 23,
+  "word_count": 1557,
+  "answer": [
+    {
+      "content": "Thank you for the proposal.\n\nI have been though all the links you have shared here and after reading the\ncontent, I am thinking this is more suited towards RPGF. Guideline from\nfoundation is not clear on RPGF but here is my reasoning.\n\n 1. This a community driven project focused on teaching and knowledge sharing in\n    regional language.\n 2. You are already a git grant receiver which is focus on public good funding.\n 3. You can show past impact of your project from e-mail subscribers and\n    community engagement. (impact = profit)\n 4. Fund distribution can be verified on-chain, which is a huge plus.\n\nWould love to see this proposal in RPGF.",
+      "created_at": "2022-07-18T15:14:07.804Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "It’s much different from the other proposals since this is more education-based,\na key resource. However, I agree with @OPUser [/u/opuser] as this might be\nsuited more for RPGF. With a small grants committee, it would be easy to support\na project like this retroactively since we can see the impact you have had.\n\nUnderstandably, it is also a privilege to be paid retroactively, so I would like\nto hear further thoughts from the community.",
+      "created_at": "2022-07-24T12:19:15.312Z",
+      "trust_level": 2,
+      "username": "Bobbay_StableLab",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "thanks for the feedback, let’s keep this proposal here and see what delegates\nthink.\nas we mentioned in the proposal we will keep going in anyway but if we can take\nthis allocation things will increase another level",
+      "created_at": "2022-07-18T15:41:14.521Z",
+      "trust_level": 2,
+      "username": "arabianhorses",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "I support this proposal because I follow Optimism TR and there is a lot of\nuseful content published by this team. L2 Planet and OptimismTR run by\nvolunteers. I think public goods are necessary and should be incentivized. So\nthe volunteers will be fully motivated when they incentived and they can keep\ngoing create the useful content for people. Also, kindly note that the Turkish\ncrypto community are too crowded and have so many active people in Turkiye.\nThere is can be win/win relationship between Optimism and Optimism TR.",
+      "created_at": "2022-07-18T11:45:11.798Z",
+      "trust_level": 0,
+      "username": "ngincrypt",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "pinging, want to gauge whether there’s still interest here - if not, maybe set\nthis to [draft]",
+      "created_at": "2022-09-29T02:13:28.192Z",
+      "trust_level": 2,
+      "username": "jackanorak",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2022-07-17T20:07:26.734Z"
+}

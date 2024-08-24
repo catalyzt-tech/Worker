@@ -1,0 +1,9 @@
+{
+  "title": "Introducing Alphaday - A Customizable Dashboard for Optimism Community",
+  "content": "Hello Optimism Community!\n\nTDLR; Alphaday is a free-to-use comprehensive platform designed to simplify\ncrypto management across devices for users of all experience levels. It offers\nfeatures like portfolio tracking, real-time market updates, personalized news &\ninsights, and customizable UI to enhance your investment strategy.\n\nStay informed and ahead of the curve with Alphaday, your gateway to the latest\nin cryptocurrencies.\n\n\n\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/1/1f1b84f99c9ec1f4846f1ae14f023d25b656d53e_2_624x351.jpeg]\n1600×900 355 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/1/1f1b84f99c9ec1f4846f1ae14f023d25b656d53e.jpeg]\n\n\n\n—\n\nQuickly acquiring knowledge and staying up to date in the crypto space requires\nfollowing numerous sources which can both be time-consuming and inefficient.\nOften, we find ourselves with multiple tabs open in the browser, switching back\nand forth trying to not miss out on any crucial information. This was the spark\nthat birthed the idea behind Alphaday.\n\nAlphaday is a platform that has widgets built on it which allows you to access\nvarious blog sources, web3 related news, forum posts, video releases and more,\nall from a single dashboard. We also constantly release new dashboards &\nwidgets.\n\nAlphaday is super customizable, you can change the layout of your dashboard to\nyour liking- and of course, it’s all free!\n\nBring the clarity and convenience you need in the chaotic world of crypto with\nAlphaday.\n\nExperience it yourself, here: https://app.alphaday.com/b/optimism/\n[https://app.alphaday.com/b/optimism/]\n\nWe look forward to your feedback!",
+  "views": 555,
+  "like_count": 0,
+  "word_count": 216,
+  "answer": [],
+  "created_at": "2024-03-28T16:08:44.353Z"
+}

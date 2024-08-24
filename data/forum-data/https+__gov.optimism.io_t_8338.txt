@@ -1,0 +1,60 @@
+{
+  "title": "OPTIMISM University Module in Costa Rica",
+  "content": "The First Optimism University module has arrived to Costa Rica in CENFOTEC\nUniversity [https://x.com/UCenfotec], a leader in technological education.\"\n\nWe are pleased to announce the creation of a specially designed university\nprogram at CENFOTEC University to explore and delve into the technologies of\nOptimism, Blockchain, and Web3. This intensive 7-week module will provide\nparticipants with the tools and knowledge necessary to understand the workings\nof these revolutionary technologies and their transformative potential in\nvarious sectors of society.\n\nSCOLARSHIP APPLICATION FORM [https://linktw.in/riQaBn]\n\nIn addition to acquiring valuable knowledge and becoming an expert in\nBlockchain, Web3, and Optimism, you will receive economic incentives in the form\nof OP tokens, donated by the Optimism Grants Council to promote education and\nadoption of the technology\n\nThis course aims to equip students with comprehensive knowledge of blockchain\ntechnology, enabling them to embark on the Web3 journey. Students will learn\nabout Ethereum, its properties, various mechanisms, layers, scaling with\nOptimism, and its current state.\n\nStudents will learn:\n\n * Basic concepts of Blockchain and Web3\n\n * What is Ethereum and Roll Ups\n\n * Data availability & ETH Upgrades\n\n * Optimism: potential and governance in Blockchain\n\n * Creation of applications and smart contracts\n\n * Unique opportunities: development, incentives, and jobs in Web3\n\nBecome an expert in the Superchain\n\nMODULE STRUCTURE\n\n * Module 1: Introduction to blockchain tech\n\n\n\n1\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/4/42e47201c9d81c8206b16aa7bcc66325041ea36a_2_500x500.png]\n11080×1080 77.4 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/4/42e47201c9d81c8206b16aa7bcc66325041ea36a.png]\n\n\n\n * Module 2: Optimism & Layer 2s\n\n\n\n2\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/d/d43d2ef6d7d7b4504b43a408c5885704cb297d25_2_500x500.png]\n21080×1080 83.5 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/d/d43d2ef6d7d7b4504b43a408c5885704cb297d25.png]\n\n\n\n * Module 3: Intro a Solidity\n\n\n\n3\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/5/5a093bae8123ba17eaadec016cec20059c4bdefe_2_500x500.png]\n31080×1080 63.4 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/5/5a093bae8123ba17eaadec016cec20059c4bdefe.png]\n\n\n\n * Module 4: Advanced Solidity\n\n\n\n4\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/7/7969cf64d9204a707402fb80fbfe2b8efaf74290_2_500x500.png]\n41080×1080 79.8 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/7/7969cf64d9204a707402fb80fbfe2b8efaf74290.png]\n\n\n\n * Finalization: Presentation of Final Projects and Graduation\n\n\n\n5\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/8/851cd496ce92fcee4d5c1340a6fe7fe359c6a43e_2_500x500.png]\n51080×1080 55.5 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/8/851cd496ce92fcee4d5c1340a6fe7fe359c6a43e.png]\n\n\n\nThe course starts on June 25, 2024, and will be held on Tuesdays and Thursdays\nat the following time: 07:00 pm - 09:00 pm\n\nProgram Rules:\n\n * Attendance is mandatory\n * You need to bring your Laptop\n * Quizzes and exams must be submitted on time.\n * Weekly reports on the forum are required.\n\nThere will be a call with the students on Monday 24 before the first session to\naddress any questions that may arise.\n\nWe, as a community in Costa Rica, have assembled this Special Ops team to\nprovide students with the best experience from various experts in their fields.\nDifferent members of the team will be invited as special guests to present\nreal-life scenarios and practical examples to the students.\n\n * Andy Guzman [https://x.com/AndyGuzmanEth]\n * Daniel Bejarano [https://x.com/0xBeja]\n * Alfredo Bonilla [https://x.com/brolag]\n * Robert Ramirez [https://x.com/robertramdev]\n * Alberto Galan [https://x.com/InBestProgram]\n\nAll the material discussed in the classrooms will be published here and made\navailable for students and for others to use as well!\n\nThe final winners of the scholarship will be announced here on Saturday, June\n22!\n\nPlease keep in mind that this is the first iteration of this module, and we can\nonly accept 25 students. If you do not win a scholarship this time, the doors\nare still open for you. You are more than welcome to join our community, review\nall the material, and be a part of the process. We wish we could accept\neveryone, but we aim to continue offering these university modules in the\nfuture.\n\nThat’s why your feedback is crucial to the success of this initiative.\n\nFor more information and registration:\n\n * Info and registration for Scholarship Competition: OPTIMISM MODULE\n   [https://linktw.in/riQaBn]\n * Telegram Group: Telegram: Join Group Chat [https://t.me/+Z8hAmZQI3QkzOGQx]\n * X: x.com [https://x.com/EthereumCR/status/1801654424311333053]\n\nWe look forward to seeing you on this exciting journey into the future of\ntechnology with Optimism at CENFOTEC!",
+  "views": 1560,
+  "like_count": 234,
+  "word_count": 5963,
+  "answer": [
+    {
+      "content": "Very excited to be part of this! Thanks @inbestprogram.eth\n[/u/inbestprogram.eth] for the opportunity!",
+      "created_at": "2024-06-20T22:58:05.161Z",
+      "trust_level": 1,
+      "username": "brolag",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": "Hello fab here, very happy that this kind of opportunities are happening in\nCosta Rica! I already applied to the program and if I get selected would be very\nhappy to be part of it to expand my knowledge and understanding in Optimistic\nRollups and their use cases!\n\nThanks to all the people that are making this possible.",
+      "created_at": "2024-06-20T23:22:28.907Z",
+      "trust_level": 1,
+      "username": "fab",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "Very excited to see courses tackling the fundamentals of such an important area\neven more in LATAM! I applied to the program, and would love to be part of it to\nunderstand the basics even more and learn anything that I can from the amazing\nteam that @inbestprogram.eth [/u/inbestprogram.eth] gathered for the module.\n\nAppreciate all the support from CENFOTEC, Optimism Grants Council, InBest and\neverybody involved to make this possible!",
+      "created_at": "2024-06-21T04:17:30.043Z",
+      "trust_level": 1,
+      "username": "bitfalt",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "I really feel that programs like these will definitily bring more visibility and\nknowledge spread of how the internet is evolving and how many problems can be\nsolved thru democratizing access to information and resources.\nThanks so much for this innitiative and looking forward to being taken into\nconsideration to be part of it.",
+      "created_at": "2024-06-24T03:40:52.724Z",
+      "trust_level": 0,
+      "username": "n3la88",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "Hello everyone,\n\nMy name is Emmanuel Aguero from Alajuela, Costa Rica. I graduated in Systems\nEngineering from the National University (UNA) and currently work as a Backend\nDeveloper.\n\nI am excited to apply for the OPTIMISM University Module in Costa Rica. This\nprogram is a great opportunity for growth, and I look forward to learning and\ncollaborating with everyone.",
+      "created_at": "2024-06-24T01:39:50.080Z",
+      "trust_level": 1,
+      "username": "EmmanuelAR",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    }
+  ],
+  "created_at": "2024-06-20T19:44:22.294Z"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "[GF: Phase 0 Proposal] Aelin Protocol",
+  "content": "Project Name: Aelin Protocol\n\nAuthor Name: cb0x, Ser Link, Alex the Lizard\n\nDefillama TVL (at snapshot): $14.5M\n\nTransactions/day (at snapshot): Variable depending on deal activity\n\nTier: 3\n\nOptimism native: Yes\n\nRevisions to metrics used: n/a\n\nNumber of OP tokens to claim: 900,000\n\nL2 Recipient Address: 0x5B8F3fb479571Eca6A06240b21926Db586Cdf10f\n\nProposal for token distribution (under 1000 words):\n\nHow will the OP tokens be distributed?\n\n * 40% to LP stakers (AELIN/ETH), distributed weekly over a 6 month period\n * 60% to a pool incentive program. Each new pool created on Optimism over\n   $100,000 will be eligible for OP rewards if not disavowed by the Aelin\n   council (see AELIP-21 [https://aelips.aelin.xyz/aelips/aelip-21/]). An amount\n   equivalent to 3% of the total value of the pool will be distributed at\n   pro-rata to investors who accepted the deal.\n\nHow will this distribution incentivize usage and liquidity on Optimism?\n\nIncentivising LPs with OP tokens on top of the current AELIN incentives will\nsignificantly increase the number of stakers on Aelin Protocol, which will lead\nto an increase in volume on other protocols such as Uniswap and Arrakis.\n\nThe pool incentive program will provide a 3% rebate of all accepted deals on the\nAelin protocol. This amount will be sufficient to fully cover the Aelin protocol\nfee of 2% as well as an additional 1% which may offset the sponsor fee (if\napplicable) or simply provide an additional incentive to invest in the deal to\nobtain additional OP tokens. Aelin expects several deals will be conducted on\nthe protocol over the next several months which will require investors to\nmigrate capital to Optimism to participate in a meaningful way as the deals may\nbe oversubscribed and require additional capital to attain their desired\nallocation in the deal.\n\nThis incentive gives investors increased motivation to participate at a\nsignificantly reduced cost.\n\nWhy will the incentivised users and liquidity remain after incentives dry up?\n\nUsers who have already bridged to Optimism tend to stay and remain active, the\nkey is to provide sufficient motivation for new users to bridge in the first\nplace.\n\nIncentivising both liquidity providers and investors on Aelin will likely drive\nsignificant liquidity to be deposited onto Optimism. We expect a very high\nretention of this liquidity as new users discover the range of protocols that\nare already deployed to Optimism. Additionally, many of the deals conducted on\nAelin include vesting terms which require the capital to stay on Optimism.\n\nOver what period of time will the tokens be distributed?\n\nThe staking rewards program will be distributing 360,000 OP tokens over a 6\nmonth period. The pool incentive program doesn’t have a time limit; however, is\nexpected to support tens of millions in deal volume depending on the value of\nthe OP token when the deal is accepted.\n\nHow much will your project match in co-incentives?\n\nIn the next few weeks, Aelin will be renewing its staking rewards program for 12\nmonths, aiming to incentivise liquidity providers (AELIN/ETH). Incentivised\npools on Optimism will receive 73 AELIN per month for a total of 876 AELIN\naltogether.\n\nAelin also has a pool incentive program running that will provide 2-3% AELIN\nrewards for the investors and sponsors participating in a pool.",
+  "views": 2692,
+  "like_count": 3,
+  "word_count": 755,
+  "answer": [
+    {
+      "content": "What i like about this proposal is that the incentive will force users to figure\nout what Aelin is - something that their website does not help very much with.\nWhen users understand, they will appreciate the concept and realize that L2 has\ncapabilities unavailable elsewhere. I also like the 6 month timeframe so it is\nnot just a flash in a pan.\n\nWhat needs improvement is that the focus on distribution only to ETH/Aelin LPs\nand not also the Aelin stakers. I’d argue that Aelin stakers drive liquidity\nonto the chain and will continue to. Yes, it locks it up whereas LPing makes the\nliquidity available, but … is that the rationale, that the staking pool will not\ndrive liquidity? Maybe the LP activity won’t be enduring whereas the stakers\nwill come to Aelin / L2, realize the capabilities and stay. The mercenaries will\ncome and go no matter what, but the staking icentives would tend to bind the\nusers into the community more.",
+      "created_at": "2022-05-27T06:31:10.275Z",
+      "trust_level": 2,
+      "username": "Justin",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "TBH Aelin I’m checking out your site, and with those juicy 149% APR LP rewards I\nmight have to come on over before the Optimism rewards even kick in :heart_eyes:\n[https://emoji.discourse-cdn.com/twitter/heart_eyes.png?v=12]",
+      "created_at": "2022-05-29T02:50:35.607Z",
+      "trust_level": 2,
+      "username": "kryos.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-05-26T02:11:09.102Z"
+}

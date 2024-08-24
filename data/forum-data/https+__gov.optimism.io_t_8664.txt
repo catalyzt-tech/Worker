@@ -1,0 +1,40 @@
+{
+  "title": "Superhack, the largest Superchain Hackathon Begins Tomorrow!",
+  "content": "Hey all!\n\nWanted to share with the governance forum as well (in case any devs are\nwatching!) that Superhack [https://ethglobal.com/superhack] kicks off tomorrow.\n\nWe’ll be hosting nearly 1,000 developers with support from dozens of Superchain\nEco members for two weeks to create the future of what’s possible on the\nSuperchain.\n\nHere’s the hackathon TLDR:\n:people_hugging:\n[https://emoji.discourse-cdn.com/twitter/people_hugging.png?v=12] Hundreds of\nlikeminded builders\n:moneybag: [https://emoji.discourse-cdn.com/twitter/moneybag.png?v=12] Over\n$200,000 in prizes and access to future Retro Funding opportunities\n:ring_buoy: [https://emoji.discourse-cdn.com/twitter/ring_buoy.png?v=12] Support\nto build from the Superchain ecosystem\n:handshake: [https://emoji.discourse-cdn.com/twitter/handshake.png?v=12] Join by\nthe teams behind Base, Optimism, Worldcoin, Alchemy, EAS, Farcaster, and many\nmore\n\nIf you’re a developer and this is exciting to you, I recommend strongly that you\napply [https://ethglobal.com/superhack]! We’ll be leaving applications open over\nthe weekend.\n\nFor everyone else, we’ll be livestreaming all important talks and ceremonies for\nyou to follow along with!\n\nHope to see you at Superhack!",
+  "views": 57,
+  "like_count": 7,
+  "word_count": 202,
+  "answer": [
+    {
+      "content": "Sharing sharing… Thanks!! :star_struck:\n[https://emoji.discourse-cdn.com/twitter/star_struck.png?v=12]",
+      "created_at": "2024-08-02T19:20:08.115Z",
+      "trust_level": 3,
+      "username": "Liliop.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Sadly yes, should have posted here sooner to give people more of a heads up!",
+      "created_at": "2024-08-06T17:56:28.713Z",
+      "trust_level": 2,
+      "username": "jacob",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "gm @jacob [/u/jacob], just came across this now as we ran our script for\nproviding weekly AI summaries of all topics on the forum. Is it too late to\napply for the hackathon?",
+      "created_at": "2024-08-05T16:43:57.643Z",
+      "trust_level": 2,
+      "username": "daospace",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-08-02T01:23:19.959Z"
+}

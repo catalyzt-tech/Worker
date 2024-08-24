@@ -1,0 +1,60 @@
+{
+  "title": "Second Governance Call August 16th",
+  "content": "Hi everyone, we have our second governance call scheduled for next Tuesday,\nAugust 16th (one week from today) at 10am PT/1pm ET, 7pm CET. The meeting\ndetails and agenda are below. The call is open to anyone in the OP Community to\njoin. Please reach out to me if you would like to be added to the agenda.\nLooking forward to another great call!\n\nAgenda\n\n * Previous voting cycle\n * Current governance cycle\n * Upcoming governance cycle\n * Open Discussion - Foundation Proposal Feedback\n   * Governance Committees\n   * Proposal Template V2\n * Open Discussion - General\n\ndocs.google.com\n[https://docs.google.com/presentation/d/1GpqF1-vhMboC1eV5HApz0WGRJWOoR74doCDiiiOELts/edit?usp=sharing]\nhttps://docs.google.com/presentation/d/1GpqF1-vhMboC1eV5HApz0WGRJWOoR74doCDiiiOELts/edit?usp=sharing\n\n\n2022/8/16 OPTIMISM BI WEEKLY GOVERNANCE CALL\n[https://docs.google.com/presentation/d/1GpqF1-vhMboC1eV5HApz0WGRJWOoR74doCDiiiOELts/edit?usp=sharing]\n\nOptimism Bi Weekly Governance Call August 16, 2022\n\n\n\n\nMeeting Info\n\nPlease download and import the following iCalendar (.ics) files to your calendar\nsystem.\nWeekly:\nhttps://zoom.us/meeting/tJIpdO2pqT8uGdVO-kmr8EsbBoSCx0YU-aqf/ics?icsToken=98tyKuCuqjguG9ORtBqGRowABojCLOvwtilbjadrs1LuDjILRxD0FO1xEaovKe2d\n[https://zoom.us/meeting/tJIpdO2pqT8uGdVO-kmr8EsbBoSCx0YU-aqf/ics?icsToken=98tyKuCuqjguG9ORtBqGRowABojCLOvwtilbjadrs1LuDjILRxD0FO1xEaovKe2d]\n\nJoin Zoom Meeting\n\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/d/dba9443ca69a3a6a4a894e9d90e38fb9c501fc8c.png]\nZoom Video [https://zoom.us/j/96434174431?pwd=MG5qU2NXVTZUUnp6blQvNU9SQ1diZz09]\n\n\nJOIN OUR CLOUD HD VIDEO MEETING\n[https://zoom.us/j/96434174431?pwd=MG5qU2NXVTZUUnp6blQvNU9SQ1diZz09]\n\nZoom is the leader in modern enterprise video communications, with an easy,\nreliable cloud platform for video and audio conferencing, chat, and webinars\nacross mobile, desktop, and room systems. Zoom Rooms is the original\nsoftware-based conference...\n\n\n\n\nMeeting ID: 964 3417 4431\nPasscode: 368400",
+  "views": 2218,
+  "like_count": 28,
+  "word_count": 506,
+  "answer": [
+    {
+      "content": "Thank you to everyone that attended and participated in the second governance\ncall! Topics discussed are listed below, as well as a link to the recording. If\nanyone else is interested in facilitating, please reach out!\n\n * No sale rule for updated proposal template V2 - Ben will respond on Forum\n * Governance Committee proposal template created by the Foundation - proposals\n   need to be submitted by August 18th for feedback\n * Governance Committee compensation - fixed rate vs per proposal, $10,000 per\n   committee for the season with possibility of additional $40,000 dependent on\n   performance\n * Governance Committee areas of expertise - up to the Community to decide,\n   topics suggested are suggestion only\n * Governance Committee template for recommendations - importance, impact,\n   growth, amount of tokens requested\n * Vote redelegation - inactive delegates redelegating to active delegates,\n   currently not an option\n * Governance Committees reviewing each proposal - will be included in updated\n   proposal template V2, potential for multiple committees in the future that\n   are randomly assigned\n * Growth Committee\n   Conflict of Interest Committee - element of accountability, track what grant\n   recipients are up to\n * Voter turnout - currently takes 11 delegates to create a quorum, 12% of OP\n   supply is currently delegated, potential for delegation limits and\n   redelegation in the future\n * Reflection period - positive feedback overall\n * Governance experience - helpful to have more information on YouTube,\n   documentation in one place, currently updating proposal process\n * Delegate discussion channel - adding another qualifier other than 0.5% voting\n   power such as voter and feedback participation\n\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/6/6b0e4a480ffd856c1f6f7775bedf868f56d4bff6.png]\nZoom Video Communications\n[https://zoom.us/rec/share/JDPvFD2H-CtaNh1IrfhGFdMG6nm5lkWFw09eVFMPONEvqt69mfjbAkbh1l59B9Hq.W7OpPjaxe25Db80G?startTime=1660669440000]\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/1/152ac1f8685c763b617b17526cc683a1ab353c25.png]\n\n\nVIDEO CONFERENCING, WEB CONFERENCING, WEBINARS, SCREEN SHARING\n[https://zoom.us/rec/share/JDPvFD2H-CtaNh1IrfhGFdMG6nm5lkWFw09eVFMPONEvqt69mfjbAkbh1l59B9Hq.W7OpPjaxe25Db80G?startTime=1660669440000]\n\nZoom is the leader in modern enterprise video communications, with an easy,\nreliable cloud platform for video and audio conferencing, chat, and webinars\nacross mobile, desktop, and room systems. Zoom Rooms is the original\nsoftware-based conference...\n\n\n\n\nPasscode: d+D6cDa*",
+      "created_at": "2022-08-16T19:33:22.043Z",
+      "trust_level": 3,
+      "username": "katie",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Appreciate the efforts in taking lead on it, looking forward to it.",
+      "created_at": "2022-08-10T04:19:44.928Z",
+      "trust_level": 2,
+      "username": "Bobbay_StableLab",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Great, looking forward to it. Thanks for setting it all up again!",
+      "created_at": "2022-08-09T20:45:54.744Z",
+      "trust_level": 2,
+      "username": "MinimalGravitas",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Looking forward to the call !",
+      "created_at": "2022-08-15T02:37:24.014Z",
+      "trust_level": 2,
+      "username": "Trudahamzik",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Replying to bump this. 1 hour.\n\nHopefully will make it again this time, but like last time I’m overlapping with\nanother meeting so might have to have a different headphone in each ear… If I\ndisconnect or miss anything I hope you don’t interpret it as rudeness!\n\nMy scheduling clash should be resolved by our 3rd meeting :crossed_fingers:\n[https://emoji.discourse-cdn.com/twitter/crossed_fingers.png?v=12] .",
+      "created_at": "2022-08-16T15:59:45.935Z",
+      "trust_level": 2,
+      "username": "MinimalGravitas",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2022-08-09T16:31:32.953Z"
+}

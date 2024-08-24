@@ -1,0 +1,9 @@
+{
+  "title": "Optimism Fractal Second Meeting",
+  "content": "Hey all, we’re stoked to invite you to the second Optimism Fractal meeting!\n:sunflower: [https://emoji.discourse-cdn.com/twitter/sunflower.png?v=12]\n\nOptimism Fractal is a new community dedicated to fostering collaboration and\nawarding public good creators on Optimism. In our first meeting we gave an\nintroductory presentation about Optimism Fractal, helped to grow Optimism by\nplaying the Respect Game, and successfully tested the new OP Fractal tools!\n:raised_hands:t4:\n[https://emoji.discourse-cdn.com/twitter/raised_hands/4.png?v=12]\n\nThe next Optimism Fractal meeting will be on Monday, Oct 30th at 17 UTC and\neveryone interested in Optimism is welcome to join. This meeting provides a\ngreat place where you can network with amazing creators and earn Respect by\nsharing what you’ve done to help the Optimism Collective :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]\n\nWe encourage you to RSVP on the event page [http://lu.ma/optimismfractal] and\nwatch the first episode [https://optimismfractal.com/1]. Feel free to reach out\nwith any questions or comments. Hope to see you there! :sun_with_face:\n[https://emoji.discourse-cdn.com/twitter/sun_with_face.png?v=12]\n\n\n\noptimism fractal 30th oct\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/d/dbd35f631769f339963db3986c2e18470e8310d4_2_690x407.jpeg]\noptimism fractal 30th oct1456×860 172 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/d/dbd35f631769f339963db3986c2e18470e8310d4.jpeg]\n\n",
+  "views": 429,
+  "like_count": 3,
+  "word_count": 155,
+  "answer": [],
+  "created_at": "2023-10-28T03:00:39.200Z"
+}

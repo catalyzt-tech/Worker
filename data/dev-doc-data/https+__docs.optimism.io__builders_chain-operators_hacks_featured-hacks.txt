@@ -1,0 +1,60 @@
+title: Featured Hacks
+lang: en-US
+description: Learn about some of the customizations stack developers have made for an OP Stack chain.
+
+import { Callout } from 'nextra/components'
+
+Featured Hacks
+
+  OP Stack Hacks are not for the faint of heart. You will not be able to receive significant developer support for OP Stack Hacks — be prepared to get your hands dirty and to work without support.
+
+
+Overview
+
+Featured Hacks is a compilation of some of the cool stuff people are building on top of the OP Stack!
+
+OPCraft
+
+Author
+
+Lattice
+
+Description
+
+OPCraft was an OP Stack chain that ran a modified EVM as the backend for a fully onchain 3D voxel game built with MUD.
+
+OP Stack Configuration
+
+Data Availability: Ethereum DA (Goerli)
+Sequencer: Single Sequencer
+Derivation: Standard Rollup
+Execution: Modified Rollup EVM
+
+Links
+
+Announcing OPCraft: an Autonomous World built on the OP Stack
+OPCraft Explorer
+OPCraft on GitHub
+MUD
+
+Ticking Optimism
+
+Author
+
+@therealbytes
+
+Description
+
+Ticking Optimism is a proof-of-concept implementation of an OP Stack chain that calls a tick function every block. By using the OP Stack, Ticking Optimism avoids the need for off-chain infrastructure to execute a function on a regular basis. Ticking Conway is a system that uses Ticking Optimism to build Conway's Game of Life onchain.
+
+OP Stack Configuration
+
+Data Availability: Ethereum DA (any)
+Sequencer: Single Sequencer
+Derivation: Standard Rollup with custom tick function
+Execution: Rollup EVM
+
+Links
+
+Ticking Optimism on GitHub
+Ticking Conway on GitHub

@@ -1,0 +1,30 @@
+{
+  "title": "Grants for Building RetroPGF tools",
+  "content": "Hello Optimists!\n\nI’m very excited about the RetroPGF experiment that Optimism has been running,\nand I’m a frequent lurker in the forums and retrospectives on each round.\n\nMy interest is more than curiosity, I’ve been thinking about and working on\nretroactive funding mechanisms for ~8 years now, and I’m reaching the place\nwhere I’m ready to start putting ideas into practice.\n\nIf it’s possible, I’d love to implement these ideas and learn with you!\n\nThe mechanism set itself is more than I can fit here. But, broadly you can think\nof it as a twitter-like discussion feed, which uses mathematic ideas from the\nfield of artificial intelligence to enable collective intelligence. One of the\ncool properties of the system is that it rewards Badge Holders for surfacing\nsurprising information, which makes for smarter and more sustainable review\nprocess.\n\nI know I’m new here, so if you’d like to learn more about me, here’s a recent\nGreenpill podcast [https://youtu.be/Jz2dguDfJ08] talking about mechanisms for\nfunding public goods (specifically, whether Hyperstructures are a viable\napproach) it seems some people liked that, or you could read this recent piece\non the promise of retrofunding (Why I Want You to Steal from Me)\n[https://coda.io/@connor/steal].\n\nIt would be easy for me to get to work if there is some sort of funding for\nbuilding RetroPGF and governance tools for Optimism. I’ve seen the Optimism\nGrants Council, but I’d first want to:\nA) Present myself before the community and gauge interest (hello)\nB) Understand whether and where this fits in the funding interests of the\necosystem. E.g. could this be an Experiments grant?\n\nGrateful for your feedback and direction!",
+  "views": 963,
+  "like_count": 7,
+  "word_count": 836,
+  "answer": [
+    {
+      "content": "The more minds thinking about retroactive funding, building tooling and running\nexperiments the better! :sun_with_face:\n[https://emoji.discourse-cdn.com/twitter/sun_with_face.png?v=12]\n\nThere are a couple of ways you could go about getting a grant to contribute to\nRetroPGF as a mechanism.\n\n 1. Receive RetroPGF for it - contributing to RetroPGF itself is in the scope of\n    what is rewarded in round 3, and likely will be for future rounds. You can\n    find the scope of RetroPGF 3 here\n    [https://optimism.mirror.xyz/oVnEz7LrfeOTC7H6xCXb5dMZ8Rc4dSkD2KfgG5W9cCw]\n 2. Fulfil an RFP - The Foundation is putting up RFP’s to build different parts\n    of the RetroPGF toolkit, like the RFP for building the Voting UI that just\n    closed\n    [https://github.com/ethereum-optimism/ecosystem-contributions/issues/104].\n 3. Mission Proposals - Building RetroPGF tooling or running experiments could\n    fit under the governance accessibility intent. This process just closed for\n    Season 4, but there’ll likely be something similar in the next season. You\n    can find out more about missions here\n    [https://gov.optimism.io/t/token-house-missions/5881].\n\nIn the future, we might introduce a framework for running RetroPGF experiments\nand receiving grants for it. Interested to hear more about your experiment!",
+      "created_at": "2023-08-08T10:47:15.767Z",
+      "trust_level": 4,
+      "username": "Jonas",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 4
+    },
+    {
+      "content": "@Jonas [/u/jonas] thanks so much for the response!\n\nRE these opportunities:\n\n> Receive RetroPGF for it\n\nGreat to know that’s an option. I suppose this is measured on impact, which\nmeans a research stage project might not receive much in the way of\nretrofunding?\n\n> Fulfil an RFP\n\nCool to know. I’m hopeful we’ll get to move away from voting as a mechanism due\nnot only to Arrow’s Theorem but just more generally since it’s a bad UX for dao\nmembers and so tends to atrophy towards plutocracy. So this probably doesn’t\napply to me personally but hopefully someone else finds it useful.\n\n> Mission Proposals\n> Yeah! Probably exactly fits under Collective Governance\n> \n> \n> image\n> [https://europe1.discourse-cdn.com/bc41dd/optimized/2X/8/88fb77c14d3eb6e8d719352e75111dd9416fcd6a_2_690x297.png]\n> image1548×668 83.6 KB\n> [https://europe1.discourse-cdn.com/bc41dd/original/2X/8/88fb77c14d3eb6e8d719352e75111dd9416fcd6a.png]\n\nDoes that entail adding an Issue to the Github?\n\\https://github.com/ethereum-optimism/ecosystem-contributions/labels/Tag%3A%20Governance\n\n\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/jonas/48/2865_2.png]\nJonas:\n\n> Interested to hear more about your experiment!\n\nSure! Here’s what I’m most excited about:\n\n 1. no voting on props (neither voting nor props!)\n 2. no time windowed funding rounds, it can happen any time\n 3. no need for special badgeholders, anyone can impact evaluate\n\nThis might seem like it throws out everything that we’re used to in governance.\nNot only does it get rid of these things, but it also adds other nice\nproperties:\n\n 1. it’s sybil proof\n 2. built in limits on plutocracy\n 3. automatic initiative review — some initiatives don’t even have to be checked\n    to be funded\n 4. initiatives can be partially approved by only part of the community\n 5. communities can easily and collaboratively extend initiatives\n 6. you can query exactly what you can improve to get support from other\n    community members\n 7. all of this takes place in a twitter like feed (which makes it fun and\n    lightweight)\n\nWe’re just now starting the building phase, with an emphasis on making something\nreal that we can learn from. I have an intro video about some of the underlying\nmath [https://youtu.be/cvDH14Jlp9A] if that’s interesting. Whitepaper to come\n[https://coda.io/form/Whitepaper-Notify_dQMSrPRK14Y?Source=optimismwhitepaper].",
+      "created_at": "2023-08-10T22:32:16.082Z",
+      "trust_level": 1,
+      "username": "connor",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2023-08-07T16:57:01.326Z"
+}

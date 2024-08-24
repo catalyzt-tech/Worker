@@ -1,0 +1,60 @@
+{
+  "title": "Clarification on OP Token Supply",
+  "content": "Over the past few weeks, there have been several community questions about the\nupdated Token Supply spreadsheet shared in the “Token Distribution Details”\nsection of the Optimism documentation\n[https://community.optimism.io/docs/governance/allocations/#token-distribution-details].\n\nNone of the Optimism tokenomics or total OP token allocations have changed. As\nalways, 19% of the total initial token supply is allocated to Airdrops, along\nwith 20% to retroPGF, 25% to Ecosystem Funding (Gov Fund, Partner Fund, Seed\nFund, and Unallocated), 17% to investors in OP Labs, and 19% to core\ncontributors. This is described in the pie chart at the top of the OP\nAllocations documentation here\n[https://community.optimism.io/docs/governance/allocations/#]. Any changes to\nthese allocations require approval from Collective governance.\n\nThe “Available Supply” line graph shown in the Token Distribution Details\n[https://community.optimism.io/docs/governance/allocations/#token-distribution-details]\nsection at the bottom of the Allocations page in our documentation has always\nbeen an example, for illustration only, and not exact. The recently published OP\nToken Unlock spreadsheet is also an illustration, and it shows a more detailed\nview of how tokens might be distributed. These graphs are approximate because\nthe details and decisions around these token distributions are up to Token House\ngovernance, Citizens’ House governance, or the Foundation to determine their\nexact timing.\n\nWe apologize for any confusion or alarm this new spreadsheet may have caused. As\nalways, any changes to the overall token allocations must be approved by\nCollective governance.",
+  "views": 5132,
+  "like_count": 33,
+  "word_count": 545,
+  "answer": [
+    {
+      "content": "No one reply. Amazing.\nToken Supply in the Graph shows Users airdrops release in 2 years.\nBut, in spreadsheet ‘illustration’ shows totally different story that in next\nfour years, only 3.5% will release.\nThe token for community users is slower and less.\nBut there is no discuss in Citizens’ House.\n\nI don’t think this ‘illustration’ change is by mistake.\nSo, please tell us what do you think.\nIt’s really a big thing about the community.",
+      "created_at": "2023-03-14T02:20:16.178Z",
+      "trust_level": 1,
+      "username": "wasFree",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "Stay Optimistic!!!",
+      "created_at": "2023-03-17T07:23:25.595Z",
+      "trust_level": 2,
+      "username": "Sony",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "YES，please tell us what do you think.\nIt’s really a big thing about the community.",
+      "created_at": "2023-03-17T14:47:22.329Z",
+      "trust_level": 0,
+      "username": "Ahern0x",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "OP L2 faucets with increasing rewards with level-ups and XPS would be a good\nidea. Stay Optimistic!",
+      "created_at": "2023-03-21T12:23:53.741Z",
+      "trust_level": 2,
+      "username": "Luckymonkey",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Hello, Question about the OP token…since OP has built the Superchain\narchitecture… do entities say Coinbase with Base have to stake OP tokens as\nvalidators for their network?",
+      "created_at": "2023-03-22T17:01:12.146Z",
+      "trust_level": 2,
+      "username": "Bennyj504",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2023-03-13T21:41:28.163Z"
+}

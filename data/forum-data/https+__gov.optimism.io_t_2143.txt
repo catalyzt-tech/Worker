@@ -1,0 +1,60 @@
+{
+  "title": "Users who sold the initial OP airdrop should become ineligible for all future airdrops",
+  "content": "Have seen enough wallets collect the OP airdrop, swap it straight to Uniswap.\n\nThese accounts are not playing a constructive role in Optimism governance.\nInstead of contributing to governance, they are maximising for profit. Nothing\nwrong with that, as per the airdrop criteria the coins are theirs and they are\nfree to do as they wish. However, from Optimism governance’s perspective, such\naccounts are counter-productive for our stated goals.\n\nHence, this proposal is to discuss excluding such accounts in all the future\ndistribution of Optimism’s airdrop. Also, we can make a public list of accounts\nthat engage in this behaviour, so that other projects and DAOs can also choose\nto borrow from our work - I believe many projects will be interested in\nrewarding those who actually contribute to governance, rather than those who\njust see ownership given into a protocol as a short term liquidity bonus.\n\nAfter identifying sybil accounts, the next progressive step is to identify zero\ncontribution accounts which do not engage with the governance, and hence should\nnot be eligible for any governance weight.\n\nLets look at some of the top tier/ multiplier eligible wallets accounts that\nhave dumped OP and gained $40k.\n\nAddress 0x1092361f4eafdc6e4555ee761e87ef9c67b9e42f | Optimism\n[https://optimistic.etherscan.io/address/0x1092361f4eafdc6e4555ee761e87ef9c67b9e42f]\n- Swapped entire airdrop 32,421 OP for 45,894 USDC. Then sent it out of Optimism\nvia HOP. Purely mercenary, net loss to Optimism.\n\nAddress 0x34cd8a21e92b0abd558ff02d6cc7a9e12daf0ff1 | Optimism\n[https://optimistic.etherscan.io/address/0x34cd8a21e92b0abd558ff02d6cc7a9e12daf0ff1]\n- Swapped entire 32,421 OP airdrop for ETH and USDC.\n\nAddress 0x5f350bf5fee8e254d6077f8661e9c7b83a30364e | Optimism\n[https://optimistic.etherscan.io/address/0x5f350bf5fee8e254d6077f8661e9c7b83a30364e]\n- Swapped entire 32,421 OP airdrop for 38,000 USDC.\n\nAddress 0xcffe08bdf20918007f8ab268c32f8756494fc8d8 | Optimism\n[https://optimistic.etherscan.io/address/0xcffe08bdf20918007f8ab268c32f8756494fc8d8]\n- Entire 32,000 OP airdrop dumped for 48,000 USDC.\n\nIndeed, quite a few good actors have delegated, have added LP etc.\n\nHowever these above addresses are just 4 wallets from hundreds of similar\nwalelts who have dumped almost the entire airdrop. Many more such wallets can be\neasily identified from the Dune analytics page: Optimism's OP Airdrop 🔴🎁\n[https://dune.com/hildobby/op-airdrop]\n\nWhy should Optimism Collective continue rewarding these kind of mercenary actors\nwho will dump their tokens on first sight? Why should any future airdrops reward\nthese addresses?\n\nOf course, it is their coins so they are free to do what they want, but at the\nsame time it defeats the purpose of Optimism Collective and dilutes governance\nif negative sum participants keep getting rewarded airdrops that they are going\nto dump the very next transaction after claiming it.",
+  "views": 36250,
+  "like_count": 1302,
+  "word_count": 33950,
+  "answer": [
+    {
+      "content": "I can’t say I agree. If we ban future airdrops to those that sell, we will have\npeople who hold to get the next airdrop. Eventually, they will dump when there\nare no longer any airdrops.\n\nAlso, we don’t always know why people sell, they may need liquidity.\n\nBanning people from all airdrops for selling once may be a bit extreme. It will\nalso concentrate the distribution of the next airdrop which is not ideal as\nwell.\n\nThe way I look at it is if they sell, then it’s an opportunity for those that\nwant to be a part of the collective to buy.\n\nInstead of focusing on banning people that sold, focus on those that held or\nbought OP. Come up with a structured proposal for holders.\n\nLastly, this post should of started in the ideas section. This is not a\nproposal. It lacks structure and concrete guidelines. Before creating a proposal\nsubmit it to the ideas section to flush out the idea.",
+      "created_at": "2022-05-31T23:52:07.926Z",
+      "trust_level": 2,
+      "username": "Vikram",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 89
+    },
+    {
+      "content": "Well, I totally DID sell at $3, but rebought at $1. It is crypto, and these\ntokens are meant to do more than sit in a wallet. Just because someone sells\ndoes not mean they do not have plans to rebuy. When there is an opportunity to\nmake several thousand it is silly not to take it.\n\nAll that said though, the difference with me is I bought OP tokens after prices\ngot better. These type of things need to be taken into consideration. It would\nbe just silly not to make obvious money in Defi.\n\nI mean, if we follow the line of thought from original poster, there would be no\nmarket for OP tokens. Also, where do you draw the line? Does the guy who sold\nhalf of his OP tokens get excluded? The guy that sold all high and bought low?\nSome people are very poor, and really didn’t have a choice but to sell.\n\nI do like the sentiment, but it is overly harsh and possibly a more moderate\nviewpoint would be better for the community as a whole.\n\nAlso, what about the people who didn’t get airdropped but bought a bunch of OP\ntokens?\n\nMaybe in the future just look to reward OP token holders, thats probably going\nto be the most considerate for all. ALSO remember, optimism users pay fees on\nevery transaction whether they own OP or not. Everyone is a paying customer.\n\nJust think things threw, as when you are mad you might not be considering all of\nthe possibilities.\n\nOh and I should mention that it was my next transaction after delegating\ngovernance, then I rebought a couple hours later. I am not sure why I should be\nany less entitled than anyone else seeing as I hold my OP tokens but had\nprofited off them. Just saying it makes no sense.",
+      "created_at": "2022-06-01T00:54:49.627Z",
+      "trust_level": 2,
+      "username": "kryos.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 46
+    },
+    {
+      "content": "Totally agreed with you :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]",
+      "created_at": "2022-05-31T22:55:55.882Z",
+      "trust_level": 1,
+      "username": "theblacksea.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 42
+    },
+    {
+      "content": "Agree and I would like to see $Velo [https://docs.velodrome.finance/] is going\nto exclude those address from their upcoming airdrop.\n\nThey are doing airdrop to OP recitative users and working closely with OP Team.\n\nWhy not start with $Velo",
+      "created_at": "2022-05-31T22:59:08.368Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 31
+    },
+    {
+      "content": "I agree but partially. Personally I sold some OP to compensate the fees that\nspent during ~ 1 year, put some money into my pocket (I don’t work because of\nhealth issues and government doesn’t care about it, and the discrimination is\nskyrocketing) and kept the rest for governance proposals. It doesn’t mean I’m\nthe dumper or anything else. Before Optimism I already got airdrops from another\nprojects ( and there are few that I even didn’t know about them). Each time when\nI get some airdrop swapping max 50%, keeping the rest (most of them are already\nhard dumped ) for governance and actively participating on the voting.",
+      "created_at": "2022-06-01T00:10:50.997Z",
+      "trust_level": 1,
+      "username": "voogarix",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 27
+    }
+  ],
+  "created_at": "2022-05-31T22:35:36.239Z"
+}

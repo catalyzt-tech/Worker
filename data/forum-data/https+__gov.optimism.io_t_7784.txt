@@ -1,0 +1,60 @@
+{
+  "title": "Increasing Asia’s presence in Optimism Governance, Grants and RetroPGF through outreach and guidance",
+  "content": "Latin American representation within the Optimism ecosystem surpasses that of\nbuilders from other regions like Africa and Asia. My recent trips to Taiwan,\nJapan and Korea allowed me to connect with lots of talented builders lacking\nfamiliarity with Optimism Governance, Grants and RetroPGF.\n\nThis is a great opportunity to diversify participation from a region brimming\nwith talented devs, a history of being early to technological advancements and\ncommunities with lots of onchain presence in other ecosystems. By introducing\nregional leaders to Optimism, I hope they can can build on the superchain and\nhelp bring their communities to the Collective.\n\nThis thread will serve as a landing pad for new participants to introduce\nthemselves and their projects as they increase their participation in the\nCollective.",
+  "views": 1174,
+  "like_count": 52,
+  "word_count": 2391,
+  "answer": [
+    {
+      "content": "Hi @Carlosjmelgar [/u/carlosjmelgar] and everyone,\n\nWe are Tané, the Top 28 delegate as of today (reference\n[https://dune.com/optimismfnd/optimism-op-token-house]), aiming to represent the\nvoice from Japan and Asia and make meaningful impact on the Optimism Collective\ngovernance and overall DAO governance world.\n\nPlease see our detailed introduction and delegate statement from\nhttps://vote.optimism.io/delegates/tanegov.eth\n[https://vote.optimism.io/delegates/tanegov.eth], but here is our intro:\n\n> Tané is formed with a group of crypto-native product builders, based in Tokyo,\n> Dubai and New York. We are backed by SoftBank, and Japanese tech giants like\n> DeNA, GREE, MIXI, closely work with the big Japanese enterprises and have\n> great relationship with Japanese crypto communities.\n> \n> Our investment arm has invested in and supported various innovating projects\n> that contribute to the decentralized society enabled by the new blockchain\n> technology. Our network operation entity started directly contributing to the\n> ecosystem by being validators for the core infrastructures and protocols that\n> make Web3 move forward and contributors to the DAOs that manage them.\n\nWe would love to support each other and increase the presence from Asia regions\nand introduce more diversity to the governance, which we believe lead to better\nand material impact on the Optimism ecosystem.\n\nPlease reach out to us anytime if you need any support or collaboration for your\nproject. Thank you!",
+      "created_at": "2024-03-13T18:30:26.115Z",
+      "trust_level": 2,
+      "username": "Tane",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "Hi everyone, this is Nicole from APAC DAO. We are one of the largest\nAsia-centric builders community with over 2,000 members and have been active in\noffering public goods services in education, event, business matching and\ncommunity building for developers through our sister community called ABC\nStation with over 13,000 developers. Really thrilled to see how we can bring in\nmore diversity and presence from Asia!",
+      "created_at": "2024-03-11T14:08:53.950Z",
+      "trust_level": 0,
+      "username": "APACDAO",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "Hi all! Thank you for inviting me, @Carlosjmelgar [/u/carlosjmelgar] ! It’s\npleasure to involve with Optimism Asia.\n\nI’m Shinya. I basically works as a researcher in public goods space in term of\ncrypto as a Coordination Lead at Fracton Ventures\n[https://research.fracton.ventures/article/fracton-ventures-research-building-the-positive-sum-world].\nMy focusing research areas are public goods funding, decision making process,\nand DAO governance. Furthermore, I co-founded GreenPill Japan which is a Japan\nchapter of GreenPill community inspired by Gitcoin, and I’m contributing to\nlocal communities for public goods. I work on educating and having experiences\nin public goods space of crypto side. Recently, as a collective, I creates\nartworks and he tries to provide culture sustainably, and then I won a prize in\nWe Love The Art, which is a contest hosted by Optimism.\n\nX(Twitter): https://twitter.com/MorleySheen [https://twitter.com/MorleySheen]",
+      "created_at": "2024-03-13T17:10:17.412Z",
+      "trust_level": 1,
+      "username": "Shinya_Mori",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Hi everyone, this is Astro from Blocktrend [https://www.blocktrend.today/].\nBlocktrend is a subscription-based, independent media focusing on Web3 topics.\nCurrently, we produce over 600 pieces of original content and more than 200\ninterview podcast on Web3 for educational purposes.\n\nBased in Taiwan, we have 16,000 subscribers who are interested in reading\ncontent in Chinese. We produce the most in-depth content about RPGF in Chinese\nand are honored to have been grantees in both RPGF2 and RPGF3.\n\nWe regard our subscribers as Blocktrend’s early supporters, which is why we\nallocate all the OP received from RPGF to them. Our goal is to create a\nsupportive cycle where subscribers back Blocktrend, Blocktrend produces valuable\nOP content, and the OP collective rewards subscribers with OP tokens. This\napproach aims to make all OP-related content public and ensures the media’s\nfunctionality.\n\nBy implementing this strategy, we provide our subscribers with hands-on\nexperience and encourage their participation in OP governance. Please visit our\nwebsite: https://www.blocktrend.today/ [https://www.blocktrend.today/]\n\nWe use Facebook in Taiwan more than Twitter: 區塊勢 - 說人話的區塊鏈圖文\n[https://www.facebook.com/BlockTrend.today]",
+      "created_at": "2024-03-11T16:40:10.197Z",
+      "trust_level": 2,
+      "username": "astro",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Welcome to the collective, stoked to see you participate and grow here. Let’s\nget the crew together and run it back at the Devcon hackathon.",
+      "created_at": "2024-03-12T09:27:41.585Z",
+      "trust_level": 2,
+      "username": "Carlosjmelgar",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    }
+  ],
+  "created_at": "2024-03-11T12:55:12.811Z"
+}

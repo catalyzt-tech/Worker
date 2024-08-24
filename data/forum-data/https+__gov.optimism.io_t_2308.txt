@@ -1,0 +1,9 @@
+{
+  "title": "Sale of OP tokens",
+  "content": "I propose Optimism sells 10% of it’s tokens to various crypto firms using a\nx-percent discount from the TWAP. As we all know, the bear market is upon us and\nhow long it may last remains to be seen. It is therefore vital the ecosystem\nretains a large warchest as to be able to invest heavily during goblintown\nperiods and come back stronger than ever.\n\nOptimism banzai!\n\nSomeone ask Su if he wants some $OP",
+  "views": 1709,
+  "like_count": 0,
+  "word_count": 77,
+  "answer": [],
+  "created_at": "2022-06-01T16:56:14.364Z"
+}

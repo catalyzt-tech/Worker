@@ -1,0 +1,60 @@
+{
+  "title": "Introducing Optimism Co-Granting",
+  "content": "INTRODUCING OPTIMISM CO-GRANTING\n\nBased on feedback from builders and delegates, the Optimism Collective is\npiloting a new co-granting mechanism in Season 4!\n\n\nTOKEN HOUSE GRANTS\n\nThe Token House launched last May and to date delegates have been allocating\ngrants out of the Governance Fund. In total, the Token House has processed 155\ngrants and funded 48 grants. You can see a list of all these grants here\n[https://docs.google.com/spreadsheets/d/1Ul8iMTsOFUKUmqz6MK0zpgt8Ki8tFtoWKGlwXj-Op34/edit#gid=590972026].\n\n * Phase 0 grants were programmatically distributed, according to quantifiable\n   criteria\n * Season 1 & 2 grants were approved by all Token House delegates\n * In Season 3, the grants program was managed by an elected Grants Council\n   [https://www.notion.so/090bb648d1854136b9630c608da7a8bc]. You can see Council\n   Grants in Cycle 10\n   [https://gov.optimism.io/t/cycle-10-final-grants-roundup/5418] and Cycle 11\n   [https://gov.optimism.io/t/cycle-11-final-grants-roundup/5842]\n\nGrants will continue to be made by the Grants Council in Season 4.\n\n\nLIMITED BY ACCESS TO UPFRONT CAPITAL\n\nAll builders grants made by the Token House are granted in the form of OP that\nis locked for a period of one year. This creates long-term incentive alignment\nbetween the grant recipient and the Collective, and helps reinforce OP’s\nfunction as a governance token.\n\nHowever, this situation creates barriers for teams that need immediate access to\ncapital. If you’re trying to make payroll, pay for infrastructure costs, or are\ndependent on grants to extend your team’s runway, a grant of locked OP is\ninsufficient. Some of the most promising grants (novel use cases) need access to\nupfront capital the most. In Season 3, we identified several promising builders\nin this category that were prevented from applying for Token House grants as a\nresult.\n\n\nCO-MATCH THE COLLECTIVE!\n\nSyndicate.io [http://Syndicate.io] is building a custom grant-matching contract\nso that you can support the work being done in the Token House and build an\non-chain record of your contribution. Matching contracts allow co-granters to\ncontribute USDC to a single contract to pro-rata “match” builders grants made by\nthe Grants Council. Here’s how it works:\n\n 1. Enter the amount you’d like to co-grant and submit your contribution. Your\n    co-grant proceeds will flow directly to the matching contract. In Season 4,\n    matching contract distributions will be executed according to the decisions\n    of the Grants Council (if renewed.)\n 2. As the Grants Council makes grants, your co-grant will be similarly\n    distributed until the matching contract runs out or until Season 4 ends on\n    September 20th (tentative.)\n 3. You’ll receive a co-grantor NFT and an Optimism Attestation to signify your\n    support of the Collective as a Token House co-granter.\n\n\nWHY SHOULD I MATCH? UPFRONT CAPITAL AS A PUBLIC GOOD\n\nThe Token House plays a critical role in bootstrapping a profitable market for\npublic goods. Token House grants provide certain, upfront funding while a\nreliable market for RetroPGF further develops in the Citizens’ House. Together,\nthe two houses of the Collective create a powerful flywheel, funding public\ngoods that make Optimism blockspace more valuable, leading to more revenue for\npublic goods, and so on.Co-granting is a unique opportunity to provide the\nupfront capital required to kickstart this flywheel.\n\nGiven the importance of this contribution to the development of the Collective,\nyou will receive both a co-grantor NFT and Optimism Attestation, enabling your\non-chain reputation to reflect your impact.\n\n\nFAQ\n\n * Can I withdraw or edit the amount of my funds after they’ve been deposited?\n   * Not in Season 4.\n * What if the Grants Council is not renewed?\n   * Matching contracts will not go live before the vote to renew the Council\n     has occurred.\n * What if there is funding left in the matching contract at the end of Season\n   4?\n   * If any funding remains in the matching contract at the end of Season 4, it\n     will be sent back to the Governance Fund to fund grants made in future\n     Seasons. You can think of your co-grant as a donation to the Governance\n     Fund.\n * Can I contribute an asset other than USDC?\n   * Not in Season 4, but this capability may be added in the future.\n * Should I expect a return on the capital contributed?\n   * These are grants, not for-profit investments, so you should not expect a\n     return on your grant.\n * How is the co-matching distributed to grant recipients?\n   * Co-grants will be distributed among approved builders grants in which\n     applicants checked a box on the application form indicating the need for\n     upfront USDC. Co-grants will be matched among these grants on a “pro-rata”\n     basis based on the overall budget to be distributed as builders grants for\n     Season 4 (3M OP.)",
+  "views": 3934,
+  "like_count": 42,
+  "word_count": 1557,
+  "answer": [
+    {
+      "content": "Great and creative idea to get projects some of their up-front funding. It will\nbe interesting to see the community participation in this.\n\nI will for sure be contributing once the contract goes live.",
+      "created_at": "2023-04-24T17:23:56.043Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "Great solution to resolve the limitations of the no-sell rule!\n\nOne unique culture that I can see coming from this is grantees and RetroPGF\nrecipients contributing to the co-granting once their bootstrapped projects\nbecome succesful and profitable.\n\nIn terms of the actual matching amount, do we have any more information for now\non how the ratio between OP and USDC matching will be decided? Will it be a 1:1\nUSD value? I tried to look at the Syndicate main page but they seem to offer\ncustomised solutions.\n\nIt could be interesting to incorporate some form of quadratic funding, or\nanother way to give the co-granting to the most Socially Positive projects",
+      "created_at": "2023-04-19T20:37:45.985Z",
+      "trust_level": 2,
+      "username": "Oxytocin",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "Greetings OP community. We would like to propose using 0xSplits\n[https://0xsplits.xyz/] as an off-the-shelf, alternate implementation for\nCo-Granting. A mutable split controlled by the Optimism Foundation can provide\nthe desired functionality with ETH & any ERC20 out-of-the-box (~similar to how\nProtocol Guild [https://protocol-guild.readthedocs.io/en/latest/index.html]\nworks on mainnet). The contracts are open source, audited, & have been on\nmainnet since Feb ‘22 & OP since Sept ‘22. Since launch, they have securely\nhandled tens of millions in volume. We recognize our contracts won’t reward\ncontributors with NFTs; even so, their donation record will still be forever\nenshrined onchain & verifiable.\n\nWe understand this proposal has been live for some time now and aren’t keen to\nderail the work in-process. However, in the interest of starting simple &\nexperimenting with existing, in-use ecosystem tools, we wanted to offer an\nalternative next-step.",
+      "created_at": "2023-05-03T18:07:05.802Z",
+      "trust_level": 2,
+      "username": "wminshew",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Updated to include:\n\n\n[https://europe1.discourse-cdn.com/bc41dd/original/1X/391d6e71a279a9f881f75bfa7df5cdf3cf905b3f.png]\nsystem:\n\n> How is the co-matching distributed to grant recipients?\n> \n>  * Co-grants will be distributed among approved builders grants in which\n>    applicants checked a box on the application form indicating the need for\n>    upfront USDC. Co-grants will be matched among these grants on a “pro-rata”\n>    basis based on the overall budget to be distributed as builders grants for\n>    Season 4 (3M OP.)\n\nand to clarify that the Grants Council was renewed for Season 4",
+      "created_at": "2023-05-30T21:07:22.540Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 2
+    },
+    {
+      "content": "Sounds like a good idea; I’m happy to contribute a small co-grant to help some\nfledgling projects and support Optimism …and get that NFT and Attestation\n:smiley: [https://emoji.discourse-cdn.com/twitter/smiley.png?v=12] I hope lots\nof us can chip in a little.\n\nI look forward to seeing if the Grants Council is renewed, and thus seeing\nSyndicate.io [http://Syndicate.io] on Optimism with the custom grant-matching\ncontract.",
+      "created_at": "2023-04-19T16:05:19.091Z",
+      "trust_level": 2,
+      "username": "Axel_T",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2023-04-13T18:30:53.540Z"
+}

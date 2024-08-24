@@ -1,0 +1,160 @@
+title: Triggering OP Mainnet Transactions from Ethereum
+lang: en-US
+description: Learn how to force transaction inclusion without the OP Mainnet Sequencer.
+
+import { Callout, Steps } from 'nextra/components'
+import { WipCallout } from '@/components/WipCallout'
+
+OP Mainnet currently uses a single-Sequencer block production model.
+This means that there is only one Sequencer active on the network at any given time.
+Single-Sequencer models are simpler than their highly decentralized counterparts but they are also more vulnerable to potential downtime.
+
+Sequencer downtime must not be able to prevent users from transacting on the network.
+As a result, OP Mainnet includes a mechanism for "forcing" transactions to be included in the blockchain.
+This mechanism involves triggering a transaction on OP Mainnet by sending a transaction on Ethereum.
+
+In this tutorial you'll learn how to trigger a transaction on OP Mainnet from Ethereum.
+You'll use the OP Sepolia testnet, but the same logic will apply to OP Mainnet.
+
+Dependencies
+
+node
+pnpm
+
+Create a Demo Project
+
+You're going to use the @eth-optimism/contracts-ts package for this tutorial.
+Since the @eth-optimism/contracts-ts package is a Node.js library, you'll need to create a Node.js project to use it.
+
+{Make a Project Folder}
+
+mkdir op-sample-project
+cd op-sample-project
+
+{Initialize the Project}
+
+pnpm init
+
+{Install the Contracts Package}
+
+pnpm add @eth-optimism/contracts-ts
+
+{Install the Utils Package}
+
+pnpm add @eth-optimism/core-utils
+
+{Install ethers.js}
+
+pnpm add ethers@^5
+
+Get ETH on Sepolia and OP Sepolia
+
+This tutorial explains how to bridge tokens from Sepolia to OP Sepolia.
+You will need to get some ETH on both of these testnets.
+
+Add a Private Key to Your Environment
+
+You need a private key in order to sign transactions.
+Set your private key as an environment variable with the export command.
+Make sure this private key corresponds to an address that has ETH on both Sepolia and OP Sepolia.
+
+export TUTORIAL_PRIVATE_KEY=0x...
+
+Start the Node REPL
+
+You're going to use the Node REPL to interact with the Optimism SDK.
+To start the Node REPL run the following command in your terminal:
+
+node
+
+This will bring up a Node REPL prompt that allows you to run javascript code.
+
+Import Dependencies
+
+You need to import some dependencies into your Node REPL session.
+
+{Import the Contracts Package}
+
+
+
+{Import the Utils Package}
+
+
+
+{Import ethers.js}
+
+
+
+Set Session Variables
+
+You'll need a few variables throughout this tutorial.
+Let's set those up now.
+
+{Load your private key}
+
+
+
+{Create the RPC providers and wallets}
+
+
+
+Check Your Initial Balance
+
+You'll be sending a small amount of ETH as part of this tutorial.
+Quickly check your balance on OP Sepolia so that you know how much you had at the start of the tutorial.
+
+
+
+Trigger the Transaction
+
+Now you'll use the OptimismPortal contract to trigger a transaction on OP Sepolia by sending a transaction on Sepolia.
+
+{Create the OptimismPortal object}
+
+
+
+{Estimate the required gas}
+
+When sending transactions via the OptimismPortal contract it's important to always include a gas buffer.
+This is because the OptimismPortal charges a variable amount of gas depending on the current demand for L2 transactions triggered via L1.
+If you do not include a gas buffer, your transactions may fail.
+
+
+
+{Send the transaction}
+
+Now you'll send the transaction.
+Note that you are including a buffer of 20% on top of the gas estimate.
+
+
+
+{Wait for the L1 transaction}
+
+First you'll need to wait for the L1 transaction to be mined.
+
+
+
+{Wait for the L2 transaction}
+
+Now you'll need to wait for the corresponding L2 transaction to be included in a block.
+This transaction is automatically created as a result of your L1 transaction.
+Here you'll determine the hash of the L2 transaction using the @eth-optimism/core-utils library and then wait for that transaction to be included in the L2 blockchain.
+
+
+
+Check Your Updated Balance
+
+You should have a little less ETH on OP Sepolia now.
+Check your balance to confirm.
+
+
+
+Make sure that the difference is equal to the amount you were expecting to send.
+
+
+
+Next Steps
+
+You've successfully triggered a transaction on OP Sepolia by sending a transaction on Sepolia.
+Although this tutorial demonstrated the simple example of sending a basic ETH transfer from your L2 address via the OptimismPortal contract, you can use this same technique to trigger any transaction you want.
+You can trigger smart contracts, send ERC-20 tokens, and more.

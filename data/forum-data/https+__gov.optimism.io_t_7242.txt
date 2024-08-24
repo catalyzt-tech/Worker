@@ -1,0 +1,9 @@
+{
+  "title": "Public Goods Grants Management - Invitation for feedback & update on RetroPGF 3 application",
+  "content": "In order to ensure the accuracy of our RetroPGF 3 application, we discussed with\nour clients and have agreed to waive any income from all grants management work\ndone during Season 4.\n\nThe goal of our project is to make it easier for teams to navigate the web3\necosystem so they have more time to build, and for grant givers to have more\nquality applicants applying to their programs.\n\nWe strive to continually improve our service and welcome any feedback in this\npost.\n\nAlso, if you want to dig deeper into this program for any reason feel free to DM\nthe new lead of this program, Pedro, on telegram! Telegram: Contact\n@pedroparrachia [https://t.me/pedroparrachia]",
+  "views": 523,
+  "like_count": 4,
+  "word_count": 113,
+  "answer": [],
+  "created_at": "2023-12-13T17:25:15.843Z"
+}

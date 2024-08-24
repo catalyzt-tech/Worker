@@ -1,0 +1,40 @@
+{
+  "title": "Add Ability to Cancel Withdrawal Request after Submitting in the Official Optimism Bridge",
+  "content": "PROPOSAL\n\nCurrently, once a transaction is confirmed to withdraw through the Optimism\nbridge, completion of the withdrawal takes 7 days. During these 7 days, a\nwithdrawal request cannot be canceled. This proposal is to add a method of\ncanceling a withdrawal request into the protocol.\n\n\nMOTIVATION\n\nThe help center referencing withdrawal cancelation implies that the development\nteam at what has become the Optimism Foundation was considering adding\nwithdrawal cancelation functionality. Link to archive of this page, originally\nposted start of December 2021\n[https://help.optimism.io/hc/en-us/articles/4411904409627-Can-I-cancel-a-withdrawal-after-it-has-been-submitted-].\n\nThe main motivation is improving UX. Once a user chooses to bridge with the\nofficial bridge, they are locked into that decision, even as the information\nthat led to that decision changes. If a user bridges on the official bridge,\nthen discovers they didn’t need to, the experience of having funds locked for a\nweek is very frustrating. This frustration isn’t just emotional, but financial,\nas tokens are constantly changing in price, and may result in financial loss in\ncertain cases.",
+  "views": 1740,
+  "like_count": 8,
+  "word_count": 302,
+  "answer": [
+    {
+      "content": "Great proposal! Would love to have this kind of feature in the optimism\necosystem!",
+      "created_at": "2022-12-30T07:53:36.191Z",
+      "trust_level": 2,
+      "username": "Luckymonkey",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "True. And as much I support this, I simply urge the protocol to ensure\nconfirmation clicks are displayed twice … something like “are you sure you want\nto proceed?”\nI want to believe everyone is aware about the withdrawal lock period and with it\nannounced, comes the option to choose whether to go on with it or not. If need\nbe, think it twice. I really hope Optimism can also permit the request to cancel\nshould there be change of mind, but pending the time, they can start with\nallowing two confirmations.\n\nPeace :heart: [https://emoji.discourse-cdn.com/twitter/heart.png?v=12] :v:\n[https://emoji.discourse-cdn.com/twitter/v.png?v=12]",
+      "created_at": "2022-06-24T12:20:15.186Z",
+      "trust_level": 1,
+      "username": "Princecrypto.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "To agree. A week is too long find another alternative",
+      "created_at": "2022-12-30T15:41:30.223Z",
+      "trust_level": 2,
+      "username": "hait",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-06-23T10:01:22.056Z"
+}

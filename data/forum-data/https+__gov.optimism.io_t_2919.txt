@@ -1,0 +1,60 @@
+{
+  "title": "Can Delegates Become too Powerful?",
+  "content": "I think so. The Phase 1 proposals were essentially decided by the 10 largest\ndelegates.\n\nThose 10 delegates may “represent” a large number of token holders but those 10\npeople are ~0.2% of the 5,000+ people that reviewed proposals and voted. I\nspeculate that the majority of people that delegated their tokens went through\nthe formality of choosing a delegate as quickly as possible to claim their\ntokens and that a significant majority of delegators will not be monitoring\ntheir delegates’ voting record. Many of these delegations are effectively a\nlifetime delegation, chosen on a whim, in order to claim an airdrop.\n\nHere’s a few ideas for how we can mitigate the concentration of power that has\nbeen given in perpetuity:\n\n-Cap delegates at a maximum number of delegated votes or a percent of total\ndelegated votes.\n-Allow the delegation to expire after a period, say 6 months, to remove from a\ndelegates votes the delegators that are oblivious to governance. If the\ndelegators are paying attention, they can re-delegate.\n-Create term limits for delegators\n\nWhat does everyone else think after this first batch of Phase 1 votes? Do you\nthink this is a problem? If so, what ideas do you have for how else could we\nsolve this?",
+  "views": 2026,
+  "like_count": 11,
+  "word_count": 752,
+  "answer": [
+    {
+      "content": "It’s definitely worth having conversations about.",
+      "created_at": "2022-07-07T19:43:58.328Z",
+      "trust_level": 2,
+      "username": "0xzenodotus",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "That is a serious mind boggling thought and I have been thinking about this from\nfrom few days too and let me extend your comment with this, there are few\ndelegates here on OP gov who are delegate on other DAOs too, when I look at this\nfrom an outsider perspective, this all seems like a DAO but controlled by very\nfew people and I am not just talking about OP gov, I am talking in general and I\ndont know how to feel about this.\n\nWhen you are a public figure in a DAO, from psychology side, I would assume they\ncan be biased towards a proposal/idea because of their connection to other DAOs\nwhere they are delegate too because they might be afraid that going against the\nsaid proposal/idea might impact their public image and/or their connection with\nother DAOs.\n\nThis is not directly connected towards what you said, but in long run, I do see\nthis as a problem.",
+      "created_at": "2022-07-07T21:12:58.705Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "I’m not suggesting that anyone’s votes are biased at all or that anyone is doing\nanything wrong. I presume there are good intentions all around. What I’m\nsuggesting is that only 10 delegates are essentially driving the votes and I am\nquestioning whether that is sufficiently democratic. I think that’s too much\npower to be concentrated in so few hands.",
+      "created_at": "2022-07-07T19:26:46.491Z",
+      "trust_level": 2,
+      "username": "Justin",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Yeah, i would agree with that. However if the structural risk exists, even if\neveryone now is solid, at some point in the future this could be a problem so\nmight as well put a guardrail up against that now while we are building.",
+      "created_at": "2022-07-07T20:45:28.350Z",
+      "trust_level": 2,
+      "username": "Justin",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "I agree, I have already re-delegate to myself at the moment at voting for each\nproposal. Even if it required more time I think smaller entities voting will\nreduce biases and centralization!",
+      "created_at": "2022-07-09T07:51:58.898Z",
+      "trust_level": 2,
+      "username": "chicco",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2022-07-07T07:51:18.739Z"
+}

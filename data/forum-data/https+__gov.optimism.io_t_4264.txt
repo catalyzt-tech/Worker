@@ -1,0 +1,50 @@
+{
+  "title": "Evaluation of grant processes",
+  "content": "How would it be if information was provided for the previously distributed\ngrants (1 and 2)?\nGrants were distributed to these projects. The process is still ongoing. Let\nthem compare the old and new situation. What was the situation before the grant?\nWhat happened after the grant? How many new users have come? How much has the\nvolume increased? So did these grants really stimulate the optimism ecosystem?\nOr there was no change. Let’s find where the problem is.",
+  "views": 1764,
+  "like_count": 4,
+  "word_count": 203,
+  "answer": [
+    {
+      "content": "Agree with you, we should have KPIs and metrics to see how much impact, users,\nrevenue or whatever metrics useful to Optimism they reach with the grants\n\nIt’s a great time to do this, we are on early stage of governance and OP\ntechnical development (Bedrock is coming)",
+      "created_at": "2022-12-10T14:14:09.145Z",
+      "trust_level": 2,
+      "username": "NicoProducto",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Agree that this would be very interesting to see. However, it’s probably\nimportant to keep in mind that changes in the metrics might be due to a number\nof reasons – it would be hard to prove or disprove any direct causations.",
+      "created_at": "2022-12-11T13:15:30.487Z",
+      "trust_level": 1,
+      "username": "blackfaun",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Delegate @Joxes [/u/joxes] explains this in his conclusions of Season 2\n\n\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/joxes/48/5814_2.png]\nSEED Latam - Delegate Communication Thread\n[https://gov.optimism.io/t/defi-latam-delegate-communication-thread/2950/12]\nDelegate Updates [/c/governance/delegate-updates/45]\n\n> Season 2 has come to an end! and with this we write here our thoughts of\n> community and participants for the DeFi LATAM delegation for this governance.\n> Introduction First of all we want to clarify that this doesn’t represent\n> isolated individual thoughts, but also a compilation of thoughts from members\n> interested in the Optimism governance from our DeFi LATAM\n> [https://twitter.com/DeFi_LATAM] community delegation, as is described in our\n> commitment as delegates\n> [https://gov.optimism.io/t/delegate-commitments/235/27]. Very important say\n> that this includes the thoughts of our work team…",
+      "created_at": "2022-12-10T14:16:12.780Z",
+      "trust_level": 2,
+      "username": "NicoProducto",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "At least we compare before and after grant.",
+      "created_at": "2022-12-11T13:45:30.461Z",
+      "trust_level": 2,
+      "username": "teaser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-12-08T14:56:44.433Z"
+}

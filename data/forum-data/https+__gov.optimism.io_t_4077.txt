@@ -1,0 +1,60 @@
+{
+  "title": "Official bridge or a third-party bridge?",
+  "content": "I would like to know whether you usually choose the official bridge or a\nthird-party bridge to withdraw your funds.\nAs can be seen, the former supports any token but takes 7 days to process, while\nthe latter saves time but limit to some tokens. Can you guys please help me with\na review of what you are using?",
+  "views": 2060,
+  "like_count": 4,
+  "word_count": 214,
+  "answer": [
+    {
+      "content": "I’m using the fast one. A week is too risky in the crypto world.",
+      "created_at": "2022-11-27T00:21:43.145Z",
+      "trust_level": 2,
+      "username": "hait",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "I use Hope [https://app.hop.exchange/] for mainnet, polygon, optimism and\narbitrum. and Synapse [https://synapseprotocol.com/] for OP/BNB bridge.\n\nI never used the 7 days bridge.",
+      "created_at": "2022-11-30T08:32:23.734Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 0
+    },
+    {
+      "content": "I usually use the orbit bridge. Or, if it is possible on the exchange, transfer\nit using Binance Exchange because the fee is cheap and fast.",
+      "created_at": "2022-11-28T18:07:11.252Z",
+      "trust_level": 2,
+      "username": "hait",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "May I ask which one you are using? Any review of it?",
+      "created_at": "2022-11-28T03:04:47.770Z",
+      "trust_level": 1,
+      "username": "maisie",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "I agreed, a week is too risky in the crypto world.",
+      "created_at": "2023-01-08T13:12:14.944Z",
+      "trust_level": 1,
+      "username": "Baki",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-11-25T07:41:41.219Z"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Retro Funding 4: Eligibility criteria enforcement",
+  "content": "This post is to inform applicants who have not met the eligibility criteria of\nthe round.\n\nFor projects to be eligibile for Retroactive Public Goods Funding (Retro Funding\n4), they must meet the following criteria:\n\n * Deployed their onchain contracts on one or multiple of the following OP\n   chains: OP Mainnet, Base, Zora, Mode, Fraxtal and Metal, and meet the\n   following criteria:\n   * Onchain contracts have interactions from 420 unique addresses during Jan\n     1st - May 1st 2024\n   * Onchain contracts had their first transaction before April 1st 2024\n   * Onchain contract had more than 10 days of activity during Jan 1st - May 1st\n     2024\n * Verified their onchain contracts in the Retro Funding sign up process\n * Made their contract code available in a public Github repo, for which\n   ownership has been verified in the Retro Funding sign up process\n * Confirmed that they will comply with Optimism Foundation KYC requirements and\n   are not residing in a sanctioned country\n * Submitted a Retro Funding application before June 6th, 2024 and comply with\n   application rules\n\nWithin the this table\n[https://docs.google.com/spreadsheets/d/1H_gJJlOujJMZjDpagaGkrQQ7nlOln3Am5PxfjId0rtE/edit?usp=sharing]\nyou find ProjectIDs, names and reason for not meeting eligibility\n\nIf projects believe their exclusion to be an error in the data, they can hand in\nan appeal by Tuesday, 18th of June 19:00 UTC. To hand in an appeal please submit\nthis form [https://deform.optimism.io/eligibiltiyappeal]\n(https://deform.optimism.io/eligibiltiyappeal\n[https://deform.optimism.io/eligibiltiyappeal])\nIf you have any questions, please ask them in the #retrofunding-discussion\nchannel in Discord.\n\nAll applicants, which have provided an email, have been informed via email of\nthis.\n50 of the rejected applicants have not provided an email address in their\napplications, those will not receive an email.",
+  "views": 1001,
+  "like_count": 13,
+  "word_count": 317,
+  "answer": [
+    {
+      "content": "Appeals have been reviewed and projects who have handed in an appeal contacted.\nYou can find the status of appeals in the table\n[https://docs.google.com/spreadsheets/d/1H_gJJlOujJMZjDpagaGkrQQ7nlOln3Am5PxfjId0rtE/edit?usp=sharing]",
+      "created_at": "2024-06-20T14:27:20.131Z",
+      "trust_level": 4,
+      "username": "Jonas",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2024-06-14T12:08:34.971Z"
+}

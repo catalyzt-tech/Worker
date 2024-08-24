@@ -1,0 +1,60 @@
+{
+  "title": "12th OP Community Governance Call is [January 10th at 10am PT / 1pm ET / 7pm CET]",
+  "content": "Happy new year, Optimists!\n\nWe will be having a community call this Tuesday, January 3rd at 10am PT / 1pm ET\n/ 7pm CET\n\nYou can attend via the Zoom link below.\n\nZoom meeting link:\nhttps://us02web.zoom.us/j/81095506593?pwd=Q0llV0l6UjZ1M1RzNEkvUElIOSt3Zz09\n[https://www.google.com/url?q=https://us02web.zoom.us/j/81095506593?pwd%3DQ0llV0l6UjZ1M1RzNEkvUElIOSt3Zz09&sa=D&source=calendar&usd=2&usg=AOvVaw2lZUs5D48LqGP9_S3f7Q6V]\n\nIf you’d like anything added to the agenda, post it in this thread. Looking\nforward to seeing you all there!\n\nMichael :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12] :sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]",
+  "views": 1935,
+  "like_count": 29,
+  "word_count": 245,
+  "answer": [
+    {
+      "content": "Hey everyone, call is postponed one week due to the holidays!\n\nSee you then.",
+      "created_at": "2023-01-03T17:16:15.165Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "We have our governance community call tomorrow!\n\nFeel free to add anything you’d like to be discussed by commenting on this post.\nSee you then :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]",
+      "created_at": "2023-01-09T19:37:21.195Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "@Michael [/u/michael] thank you for hosting! Look forward to watching the\nrecording later!\n\nBlocked off time on my calendar so I can host next weeks call and you can get a\nwell deserved rest sir",
+      "created_at": "2023-01-10T19:13:12.151Z",
+      "trust_level": 2,
+      "username": "Jrocki",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "If you’d like to follow along on the slides, here they are :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12] January 10, 2023\nOptimism Bi Weekly Governance Call - Google Slides\n[https://docs.google.com/presentation/d/1DnppKt9nDA1wf4yZIQK3AsxhXGklYQPkr9MxgfczVdg/edit?usp=sharing]",
+      "created_at": "2023-01-10T17:56:11.129Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Отлично, ждём с нетерпением, как всегда :+1:\n[https://emoji.discourse-cdn.com/twitter/+1.png?v=12]",
+      "created_at": "2023-01-02T17:15:22.451Z",
+      "trust_level": 2,
+      "username": "kaizen555",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2023-01-02T15:58:17.507Z"
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Partner Fund Overview",
+  "content": "Growing the Optimism Ecosystem with the Partner Fund\n\nThe Partner Fund’s mission is to grow Optimism’s ecosystem for the benefit of\nthe entire Collective. In a vast majority of cases, the targeted projects are\nalready successful in crypto and looking at deploying and/or scaling on\nOptimism.\n\nThe partners that apply for a grant are reviewed by the Foundation. Partner Fund\ngrants are negotiated on a one-by-one basis and support the overarching goal to\nbuild a thriving ecosystem for developers. Areas of work include Defi, NFTs,\nDAOs as well as large scale usage growth for the ecosystem.\n\nGrants are structured in one of two ways:\n\n * User incentives: Grants are directly distributed to users of the project on\n   the Optimism ecosystem (e.g., liquidity mining, rewards…)\n * Project Grant: These grants have a 1 year token lockup, after which point\n   they may used to support operational costs.\n\nThe Foundation receives a large number of applications and is only able to\nsupport a select few that align with its objectives.\n\nTo apply:\n\n * Fill out this form\n   [https://forms.monday.com/forms/89675838770f70674de78da3e20b8155?r=use1] if\n   you applied to the Governance Fund and were not reviewed or accepted\n * Send an email to partnerships@optimism.io [partnerships@optimism.io] in the\n   case of a new inquiry (did not apply through the Governance Fund)",
+  "views": 8228,
+  "like_count": 20,
+  "word_count": 223,
+  "answer": [],
+  "created_at": "2023-02-13T23:26:27.724Z"
+}

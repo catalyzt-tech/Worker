@@ -1,0 +1,60 @@
+{
+  "title": "[DRAFT] [GF: Phase 1 Proposal] NukeVaults",
+  "content": "Project name: NUKE VAULTS\n\nAuthor name and contact info:\n\n * Discord: Gunnar | NukeVaults#4117\n * Twitter: @nukevaults\n\nI understand that I will be required to provide additional KYC information to\nthe Optimism Foundation to receive this grant: Yes\n\nL2 recipient address: 0xa8055f65E899024bB8734884fC47Dce2E0c28Eee (Gnosis SAFE)\n\nGrant category: DeFi / Phase 1\n\nIs this proposal applicable to a specific committee? Yes, DeFi\n\nProject description (please explain how your project works):\n\nNuke Vaults is an Optimism Yield Aggregator, focused on Stablecoins, incubated\nvia AELIN Protocol with contracts 100% compatible with EIP4626.\n\nCurrently Nuke Vaults has strategies created for the following stablecoin only\npools: Curve, Velodrome & Stargate which a yielding 5%-15%\n\nWe have also just launched our first approach to revenue sharing, those with\n$NUKE can stake it to get 100% of the fees charged by the protocol in $sUSD.\n\nFrom a Security perspective NukeVaults uses OZ Defender, configured for any\ngovernance/admin function on contracts with a 3/5 Multisig + 2 day Timelock\n\n\n\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/d/d3d0fa715c1da35e607034e968ab0feb79250515_2_602x411.jpeg]\n1600×1093 190 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/d/d3d0fa715c1da35e607034e968ab0feb79250515.jpeg]\n\n\n\nProject links:\n\n * Website: app.nukevaults.com [http://app.nukevaults.com]\n * Twitter: @nukevaults\n * Discord: Nuke Vaults [https://discord.gg/xuAP7kym5a]\n * Docs: https://nukevaults.gitbook.io/ [https://nukevaults.gitbook.io/]\n\nRelevant usage metrics:\n\nTVL: ±$40k and building :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]\n\nUsers: ±10\n\nCompetitors, peers, or similar projects (please link): beefy.finance or\nyearn.finance\n\nIs/will this project be open sourced? YES\n\nOptimism native?: YES\n\nDate of deployment/expected deployment on Optimism: 11 Aug 2022\n\nEcosystem Value Proposition:\n\nNuke Vaults was created with the mission to become a simple, secure and easy to\nuse dapp to get Yield on Stablecoins. We believe Layer 2s, and especially\nOptimism will become the place of choice for most users in the near future, and\nStablecoins will represent the biggest stake in the Cryptocurrency Market Cap.\nThis is what we think about Nuke Vaults market fit.\n\nBy incentivizing users to use NukeVaults you are also incentivizing users to use\nthe underlying protocols, like Curve and Velodrome.\n\nWe are going to focus on building and offering secure yields for Stablecoins,\nusing secure protocols in the likes of Curve or Velodrome.\n\nThis together with our Revenue Sharing model, built on the Optimism ecosystem as\nwell, will create a long lasting bond between the protocol and its token\nholders, together with an everlasting revenue stream for Users\n\nFinally we expect our UX will provide a high user friendliness which will lower\nthe threshold for new users. Hoping to attract not only current DeFi users, but\nopening the door for new ones.\n\nThe fact that this project was incubated via AELIN (OP native), our Operations,\nspecifically our Staking/RevShare contracts, but also salaries and incentives\nare all in OP, and using sUSD should bring enough confidence we believe in the\nOP Ecosystem and want to integrate with lots of those partners building on OP\n\nHas your project previously applied for an OP grant? NO\n\nNumber of OP tokens requested: 250.000 OP\n\nDid the project apply for or receive OP tokens through the Foundation Partner\nFund?: NO\n\nHow much will your project match in co-incentives? NUKE Token is currently only\navailable via AELIN Raises and not available in any DEX, in a future proposal we\nwould like to do a co-incentives match with a NUKE/OP LP, but putting a price on\nour token is not our priority right now\n\nProposal for token distribution:\n\nNuke Vaults is at a stage where all we are missing is incentives to attract\nusage, we want to keep building, collaborating with neighbor projects and\ninnovating!\n\nUSER Incentives - 150.000 OP (60%)\n\nWe would use this part of the allocation to incentivise users to park their\nstables with us. By incentivizing users to use NukeVaults you are also\nincentivizing users to use the underlying protocols, like Curve and Velodrome.\n\nWe would spin up a MasterChef or StakingRewards contract where Users can deposit\ntheir vault tokens, and apart from the juicy yields from velo or Curve, we’ll\nadd the OP rewards provided in this proposal. The increase in APY will not only\nattract users to NukeVaults, but as well to the OP ecosystem.\n\nGiven our estimates this initial Incentive, could ramp NukeVaults to a TVL of\n±$1M, after this milestone is proven we would see to submit a new proposal with\na new and different incentive program to take us to the next milestone $10M TVL\n\nTREASURY - 100.000 OP (40%)\n\nThe remaining tokens would be deposited into our Treasury to ramp up engineering\nand business efforts, we are 4 people (mostly part time) that are currently\nreceiving $600-$1300 $sUSD per month (given our currently small treasury based\non the amazing initial AELIN Raise, this was the salary range we all agreed that\nwould allow us to survive for 2 years), we would like to increase the time\ndedicated to the project by adding some OP tokens to our monthly payslip, and\nalso get some contractors and community people do so some work such as improving\nour docs and marketing.\n\nWe are looking to add new sources of strategies for Stablecoins as new protocols\njoin the ecosystem (Lyra2, Homora, Angle, etc) as well as starting to invest\nengineering efforts by creating Stable Leveraged Vaults and moving into other\nstablecoin assets like EUR. Memes are also needed :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]\n\nThe Treasury would not dump these tokens, payments would be done directly in OP\nwherever possible\n\nHow will this distribution incentivize usage and liquidity on Optimism?\n\nEveryone is looking for Yield, and even more when you’re talking about\nStablecoins, we think Optimism can gain lots of TVL if their stablecoin APYs are\nattractive compared to other chains. By incentivizing users to use NukeVaults\nyou are not just attracting more liquidity into the Optimism network, you are\nalso incentivizing users to use the underlying protocols, like Curve and\nVelodrome.\n\nWhy will incentivized users and liquidity on Optimism remain after incentives\ndry up?\n\nUsers will stay with NUKE Vaults as they see the simplicity of parking their\nstables and getting a yield, but the real innovation is our RevShare model,\nwhich creates a direct link between token holders and the protocol fees. We\ntruly believe NukeVaults can become a self-sustaining protocol very easily,\ncreating a great story for the OP Ecosystem.\n\nOver what period of time will the tokens be distributed?\n\n3 to 6 months of rewards. Depending on how fast the TVL increases over time. The\nfaster the TVL the more rewards will be distributed to keep the APYs competitive\n\nAbout us\n\nThe team is anon, however they have worked and participated in other protocols\nfor example:\n\n * Trinty is a full stack developer & security auditor who performed contractor\n   work for multiple projects during DeFi summer\n\n * Linus is also a full stack dev, and is a current Core Contributor to AELIN\n\n * Calavera has been in crypto & defi since the early days, he’s a SNX OG, been\n   in the SNX Council, AELIN Council and previously part of Bankless VC DAO (aka\n   Fight Club), MakerDAO delegate, EthStaker among other DAOs where he\n   frequently participates\n\n * Gunnar is the latest addition to the team,UX-expert, long time crypto\n   enthousiast and responsible for communications\n\nAll feedback is welcome! Thanks for reading.",
+  "views": 1945,
+  "like_count": 13,
+  "word_count": 1523,
+  "answer": [
+    {
+      "content": "\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/gunnar_nukevaults/48/1786_2.png]\nGunnar_NukeVaults:\n\n> Is this proposal applicable to a specific committee? No\n\nThis would be yes → DeFi.\n\nI share a similar sentiment with @OPUser [/u/opuser] . Token request is way too\nhigh for the current metrics.\n\n100k used for ops cost is quite a lot and doesn’t necessarily help bring\nliquidity to Optimism. If so, please breakdown the costs and how long it will\nlast.\n\nYearn [https://gov.optimism.io/t/draft-gf-phase-1-proposal-yearn/3509] has also\njust posted their own grant application, so i’d consider that as they are your\ncompetitor too.",
+      "created_at": "2022-09-23T06:06:42.135Z",
+      "trust_level": 2,
+      "username": "Bobbay_StableLab",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Hi @Gunnar_NukeVaults [/u/gunnar_nukevaults] , Thank you for your proposal.\n\nProject is still in early days, number of users and tvl is quite low, number of\ntoken request is 10time the current TVL.\n\nDistribution plan also need some work. Duration has a buffer of 3 month, try to\nreduce it, do some math and show the distribution plan on daily/weekly basis.\n\nIf possible build the distribution around KPIs.\n\nwe are still waiting for some clearance on dev funding from foundation so i dont\nhave any specific comment on that but would recommend to breakdown the use of\ntreasury.",
+      "created_at": "2022-09-21T20:11:51.555Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Hi @AxlVaz [/u/AxlVaz]\n\nTo answer your questions:\n\n * We currently don’t have a Dune dashboard, but we will start looking into\n   that!\n\n * We don’t have a real DAO or Council at this point. The Tresuary is managed by\n   3/5 Multisig onwed by the Team & its Advisors.\n\nHope that answers your questions. :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12] let me know if\nyou have any other questions!",
+      "created_at": "2022-09-27T20:00:24.659Z",
+      "trust_level": 1,
+      "username": "Gunnar_NukeVaults",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Hi, I have some questions for you:\n\n-Do you have a link to Dune to check the metrics?\n\n * Is the treasury managed by the DAO? or only by the team?",
+      "created_at": "2022-09-25T23:28:51.276Z",
+      "trust_level": 2,
+      "username": "AxlVaz",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Thanks for the feedback, much appreciated. @OPUser [/u/opuser] !\nWill proces and update!",
+      "created_at": "2022-09-21T20:21:00.103Z",
+      "trust_level": 1,
+      "username": "Gunnar_NukeVaults",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2022-09-15T19:50:05.261Z"
+}

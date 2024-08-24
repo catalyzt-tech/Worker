@@ -1,0 +1,60 @@
+{
+  "title": "Delegate Suspension: Fractal Visions",
+  "content": "PROPOSAL TITLE: DELEGATE SUSPENSION: FRACTAL VISIONS\n\n\nPROPOSAL TYPE: DELEGATE SUSPENSION\n\n\nEXECUTIVE SUMMARY\n\nA community member has filed a report, substantiated by documentation, against\nFractal Visions\n\nDiscord name: Fractal Visions#7535\nDelegation address: 0xC4FC57Dedd2463314A3fD2DBadB86B4404C257e5\nDelegate Commitment\n[https://vote.optimism.io/delegate/0xC4FC57Dedd2463314A3fD2DBadB86B4404C257e5]\n\nReported violation: Intentional doxxing\nEnforcement type: Suspension\n\nAs outlined in the delegate code of conduct\n[https://gov.optimism.io/t/delegate-code-of-conduct/3943], suspensions are\nappropriate when there has been ”Repeated violation of community standards,\nincluding sustained inappropriate behavior, or severe violation, including\ndiscrimination, harassment, intentional doxxing, dishonesty, or undisclosed\nself-dealing.”\n\n\nMOTIVATION\n\nThe below is adapted from the community member’s report. It has been anonymized\nand edited slightly for understandability. This report is unrelated to L2DAO or\nthe receipt of any grant funding.\n\nFractal Visions, and some other affiliated community members, misunderstood what\nproject I was working on and then linked my identity to opnames (opnames.org\n[http://opnames.org/]). In the project support channel of Optimism Official\nDiscord, I tried to explain my project is different. In order to prove it, I\npresented our past honors including BNB/Dorahacks hackathon winners, Polygon\ngrants, etc. and I shared my Linkedin and Twitter account with Optimism\nFoundation team members in a group chat with Fractal Visions where I was\nreporting the issue.\n\nWhen Fractal Visions read my info, he doxed me using my photo and claiming that\nI am a scammer from opnames team. He posted my information, along with my photo,\nin Optimism Official Discord, misled other op ambassadors and community members\nto believe that I am the founder of opnames and made them falsely believe I am a\nscammer. He also said some negative things about myself, some related to age\ndiscrimination and racial discrimination, and an affiliate of Fractal’s shared\nmy personal photo on Twitter.\n\nI got sick after his doxing attacks and disrespectful wording for 2 weeks, and\njust recovered recently. Because of his attacks, many people don’t trust myself\nand my project, and wrongly believe I am from opnames.org [http://opnames.org/]\nproject. Fractal Vision removed his messages in the discord channel to avoid\ninvestigations, however, I have documented screenshots.\n\n\nSPECIFICATIONS\n\nThe reporter included 6 files documenting the doxxing as well as screenshots of\nconversations substantiating the above claims. We have not reproduced them here\nto protect the reporter’s identity.\n\n\nACTION PLAN\n\nIf a vote for suspension is approved by the Token House, the delegate will be\nsuspended from Discord and Discourse and any sort of interaction within the\ncommunity for a period of three months. A “Yes” vote indicates that you believe\na severe violation of the code of conduct has occurred and the delegate should\nbe suspended.\n\nIf a vote for suspension is not approved by the Token House, the delegate will\nremain active in the community without interruption.\n\n\nCONCLUSION\n\nAccording to the procedures outlined in the delegate code of conduct\n[https://gov.optimism.io/t/delegate-code-of-conduct/3943], the reported\nviolation is a severe violation, which is enforced via a delegate suspension\nproposal. These proposals may only be submitted by the Foundation and therefore\nwill automatically move to a vote. The Foundation’s role in code of conduct\nenforcement is purely administrative and since a report was filed with\nsupporting evidence a Token House vote on the matter must occur in Cycle 11, as\noutlined in the most recent version of the operating manual\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md].",
+  "views": 6079,
+  "like_count": 114,
+  "word_count": 6456,
+  "answer": [
+    {
+      "content": "Ooof this is a tough one.\n\nI don’t think that doxxing is okay. In fact this should never be done. But if\nit’s all publically verifiable information it’s not really doxxing. On the other\nhand it can be seen as harassment…?\n\nIn any case since the foundation has not shared the evidence with us we can’t\nreally vote on this. I don’t think it’s fair to vote on suspending someone\nwithout having a chance to study the evidence.\n\nTo that end I will abstain from this vote.",
+      "created_at": "2023-04-03T12:40:57.721Z",
+      "trust_level": 2,
+      "username": "lefterisjp",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 13
+    },
+    {
+      "content": "This suspension is not related to a grant recipient",
+      "created_at": "2023-03-21T22:11:09.328Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 4
+    },
+    {
+      "content": "The foundation contacts reporters (who must provide contact information but do\nnot need to reveal their identity publicly) and claims must be substantiated\nwith evidence. There were 6 files uploaded documenting all claims filed. They\nwere not included in the suspension proposal to protect the identity of the\nreporter.",
+      "created_at": "2023-03-22T00:29:30.752Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 4
+    },
+    {
+      "content": "I think it makes sense to defer a suspension pending results into grant misuse.",
+      "created_at": "2023-03-21T22:04:01.726Z",
+      "trust_level": 2,
+      "username": "polarpunklabs",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "All of the information that I shared was publicly available on Twitter,\nincluding the picture of the person and their name…\n\nAlso I want to make it clear that the account appeared as a fake or alternate\naccount.\nWhich joined twitter in 2014 and has only made 63 tweets since…\n\nYou can probably understand why I was and still am uncertain about that\naccount’s authenticity.\n\nI do not see any regular posts or anything indicating anything other than it\nbeing an alt account.\n\nSo the question was whether the account was real or just a cover up.\n\nMany of the accounts I encounter on a daily basis are spam or fake accounts.",
+      "created_at": "2023-03-22T01:12:45.100Z",
+      "trust_level": 2,
+      "username": "FractalVisions",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    }
+  ],
+  "created_at": "2023-03-21T20:25:21.306Z"
+}

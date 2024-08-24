@@ -1,0 +1,9 @@
+{
+  "title": "17th OP Community Governance Call is [March 14th at 10am PT / 1pm ET / 6pm CET]",
+  "content": "Hello Optimismts!\n\nWe will be having our 17th community governance call this Tuesday, March 14th,\nat 10am PT / 1pm ET / 6pm CET.\n\nNote that due to daylight savings in the U.S., the CET time is now one hour\nearlier. The source of truth for the meeting is always the gov calendar.\n\nZoom link is here:\nhttps://us02web.zoom.us/j/84087544843?pwd=cVpweHpEa2drYVRDZ1U0UklYSnR1QT09\n[https://www.google.com/url?q=https://us02web.zoom.us/j/84087544843?pwd%3DcVpweHpEa2drYVRDZ1U0UklYSnR1QT09&sa=D&source=calendar&usd=2&usg=AOvVaw22TnqMjK_BYeCshiVu5GCw]\n\nAs always, everybody is welcome. If you’d like any agenda topics discussed, feel\nfree to add them to this thread. The current slides/agenda can be found here\n[https://docs.google.com/presentation/d/1ch-P2qqRPBE-I8RADohppRXN1-rbF5EqFOSywugE3-I/edit?usp=sharing].\n\nSee you there!\nMichael",
+  "views": 1687,
+  "like_count": 5,
+  "word_count": 133,
+  "answer": [],
+  "created_at": "2023-03-13T03:48:10.343Z"
+}

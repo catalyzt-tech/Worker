@@ -1,0 +1,9 @@
+{
+  "title": "OPML: OPtimistic Machine Learning on Blockchain",
+  "content": "We just launched a new startup focused on OPML. OPML stands for OPtimistic\nMachine Learning on Blockchain. Basically, OPML enables off-chain AI model\ninference using optimistic approach with an on chain interactive dispute engine\nimplementing EVM-equivalent fault proofs.\n\nGithub link :point_down:\n[https://emoji.discourse-cdn.com/twitter/point_down.png?v=12]\n\n[https://github.githubassets.com/favicons/favicon.svg] GitHub\n[https://github.com/OPML-Labs/opml]\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/6/61e02dc57bb7917bafca872f9ae0955b5bff6ae6_2_690x345.png]\n\n\nGITHUB - OPML-LABS/OPML: OPML: OPTIMISTIC MACHINE LEARNING ON BLOCKCHAIN\n[https://github.com/OPML-Labs/opml]\n\nOPML: OPtimistic Machine Learning on Blockchain. Contribute to OPML-Labs/opml\ndevelopment by creating an account on GitHub.\n\n\n\n\nHopefully more people will join us in this discussion",
+  "views": 957,
+  "like_count": 0,
+  "word_count": 58,
+  "answer": [],
+  "created_at": "2023-07-22T02:32:02.153Z"
+}

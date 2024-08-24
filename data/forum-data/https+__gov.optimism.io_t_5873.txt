@@ -1,0 +1,60 @@
+{
+  "title": "Season 4 Alliance Guide",
+  "content": "SEASON 4 ALLIANCE GUIDE\n\nAn Alliance is a group of people (new or pre-existing) that will work together\nto complete a Mission. An Alliance can be a pre-established organization or a\ngroup of contributors that comes together specifically to complete a Mission\n[https://gov.optimism.io/t/token-house-missions/5881/2].\n\n\nWHAT DOES AN ALLIANCE NEED?\n\nThere are a few key features that all Alliances need to have:\n\n * A leader. The Trust Tier\n   [https://gov.optimism.io/t/collective-trust-tiers/5877] of the leader is the\n   Trust Tier of the whole Alliance. See more about Trust Tiers here. The leader\n   will also be the main communication point for governance to ask questions and\n   get updates, and should be available for such.\n\n * A Mission. The Mission can be a Foundation Mission (RFP) that the Alliance is\n   applying for or a Mission the Alliance is proposing (Proposed Mission.)\n\n * Defensible value. A good Alliance has a clear reason why they are the best\n   suited to execute its Mission. Is it your skill combination? Unique\n   contextual understanding? Relevant experience?\n   \n   * If applying for a Foundation Mission (RFP), an Alliance should also be able\n     to defend why their skillset/context/experience/positioning is the best\n     suited to complete the Mission.\n   \n   * If proposing a Mission, an Alliance should also be able to defend its\n     Proposed Mission’s potential impact on the Collective.\n\n\nWHAT DOES A GOOD ALLIANCE HAVE?\n\nA good Alliance has the following:\n\n * Reward distribution plan: A clear idea or plan for distributing the Mission\n   funding to the Alliance members.\n\n * Conflict resolution plan: An internal conflict resolution process. The DAO\n   will not handle internal Alliance disputes unless they directly relate to\n   defrauding the DAO.\n   \n   * Here are some helpful questions to have thought about:\n     \n     * What do we do if someone has worked significantly less than everyone\n       else?\n     * What if someone gets sick and cannot contribute at no fault of their own?\n     * What do we do if someone wants to leave the Alliance?\n     * Are you following the leader strictly (dictatorship) or allowing everyone\n       to have an equal say? (democracy). Both are valid options!\n\n * Communication: Have a dedicated space for communication (like Discord, Slack,\n   Telegram, etc.). If creating an Alliance from scratch, check for timezone\n   compatibility or sufficient overlap.",
+  "views": 3818,
+  "like_count": 47,
+  "word_count": 1027,
+  "answer": [
+    {
+      "content": "I love the concept of Alliances and the idea of people coming together to tackle\na specific mission that aligns with the season’s intents. On top of the\naforementioned aspects that a good Alliance has, I’d add that they would need to\nhave:\n\n 1. Defined roles for each member of the Alliance.\n 2. Clear distribution of responsibility for the different tasks required to\n    complete the mission in accordance with the skillsets outlined in the\n    defensible value.\n\nThat way, the Token House will have more information and context with which to\nrank the proposals.\n\nAlso, it’d be wise to have a place where contributors interested in\nparticipating could form Alliances. That could be a Discord channel specifically\nfor discussion around Alliances, or a Discourse post under which people can\nsignal their intention to contribute to a specific mission, and leaders who want\nto form Alliances can find suitable teammates by going through the responses.",
+      "created_at": "2023-05-27T15:03:22.016Z",
+      "trust_level": 2,
+      "username": "Sinkas",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "Great to see the engagement on this post!\n\nWe’re hosting an Alliance Forming and Mission Proposal workshop tomorrow (May\n30th at 18:15 GMT) to facilitate some of the suggestions mentioned above. You\ncan find details in Discord Events or on our Public Governance Calender. We’ll\nalso create an Alliance channel in Discord following this workshop.\n\nThe intention is for all members of an Alliance to be active participants in the\npursuit of the Mission. The intent is not to have someone associate themselves\nwith a Mission in order to vouch for its credibility. Delegates can vouch for\nMission proposals by providing 1 of the 4 delegate approvals required to move to\na vote.",
+      "created_at": "2023-05-29T21:15:53.630Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 4
+    },
+    {
+      "content": "what a great subject!! Would like to be a member of an alliance.",
+      "created_at": "2023-04-14T14:55:28.974Z",
+      "trust_level": 2,
+      "username": "cryptoAYA",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "\n[https://europe1.discourse-cdn.com/bc41dd/original/1X/391d6e71a279a9f881f75bfa7df5cdf3cf905b3f.png]\nsystem:\n\n> See more about Trust Tiers here\n\nMissing link and there is an excellent article on related topic by Vitalik,\nhttps://vitalik.ca/general/2020/09/11/coordination.html\n[https://vitalik.ca/general/2020/09/11/coordination.html]\n\nEdit- I assume, missing link is here Collective Trust Tiers\n[https://gov.optimism.io/t/collective-trust-tiers/5877]",
+      "created_at": "2023-04-14T23:05:45.806Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "fwiw I don’t think it’s necessary for all individuals in Alliances to\nparticipate in the fulfillment of the objectives. I think it’s equally valuable\nto have trusted people vouching for certain projects and essentially putting\ntheir reputation on the line (as a direct beneficiary or as simply a concerned\ncitizen) without doing the actual building\n\nbut making clear who’s responsible for what is probably a good idea, yeah",
+      "created_at": "2023-05-28T01:54:57.479Z",
+      "trust_level": 2,
+      "username": "jackanorak",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    }
+  ],
+  "created_at": "2023-04-13T19:13:12.366Z"
+}

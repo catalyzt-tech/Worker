@@ -1,0 +1,30 @@
+{
+  "title": "Security Council Communication Thread",
+  "content": "WELCOME TO THE SECURITY COUNCIL COMMUNICATION THREAD!\n\nThe goal of the Security Council is to turn admin keys for OP Mainnet, and\neventually, all OP Chains in the Superchain, over to a public, decentralized set\nof individual actors accountable to Optimism Governance.\n\nThis thread will keep Optimism Governance updated on the activities of the\nSecurity Council.\n\n\nMEMBERS\n\n * Kris Kaczor (Phoenix Labs)\n * Layne Haber (Connext)\n * Jon Charbonneau (DBA)\n * Alejandro Santander (Independent, former Synthetix)\n * Mariano Conti (Independent, former MakerDAO)\n * Martin Tellechea (The Graph Foundation)\n * Yoseph Ayele (Borderless Africa)\n * OP Labs PBC\n * Yoav Weiss (Ethereum Foundation)\n * Test in Prod\n * Coinbase Technologies, Inc. (Base)\n * Elena Nadolinkski (Ironfish)\n * L2Beat\n   –\n * Alisha.eth [Security Council Lead]\n\n\nINTERNAL OPERATING PROCEDURES\n[https://gov.optimism.io/t/security-council-internal-operating-procedures-phase-0/7340/5]\n\nThe Internal Operating Procedures for the Security Council can be viewed HERE\n[https://gov.optimism.io/t/security-council-internal-operating-procedures-phase-0/7340/5].\n\n\nSECURITY COUNCIL SITE [https://opsc.vercel.app/]\n\nActivities of the Security Council, such as protocol upgrades and monthly calls,\ncan be viewed on opsc.vercel.app [https://opsc.vercel.app/]. This site was\ncreated for the benefit of Security Council members and is shared here for\ntransparency.\n\n\n\nopsc-site\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/0/013f5e1ab1f9c3e665f22ad65d765eebdfd9abf6_2_517x342.png]\nopsc-site2442×1620 316 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/0/013f5e1ab1f9c3e665f22ad65d765eebdfd9abf6.png]\n\n",
+  "views": 711,
+  "like_count": 3,
+  "word_count": 506,
+  "answer": [
+    {
+      "content": "Extremely interested in the blockchain Dapp tools. Very curious on the projects\nthat Security Counsel has included, or what is being worked on. As a person that\nhas a degree in Networking with Cisco Devices and Cybersecurity and education in\nsecurity, for blockchain I believe there has to be a way to go further in the\nnear future with offline transactions and ensuring security; especially there\nare ways to delegate nodes towards helping Optimism with more utility that\nprotects people be able to have more protection in a future that could run\ntesting first and innovate a huge problem in the Defi ecosystem. One people\nlosing funds. What if they sent a transaction to the wrong network and there was\napp that provided an image file or code to react as a catching contract. Nothing\nis perfect, but in time and collaboration more efficient offline transactions\nwill be a future of crypto and trust needed to provide services that can change\noffline technology in several ways . The tokens used were part of a smart\ncontract specialized as a security token made; a security feature that could\ntake away the scammers ability to utilize real OP tokens, because the smart\ncontract takes the official OP tokens and holds them in a multi sig wallet.\nGiving a person the ability to get there funds back through means of either an\nextra layer of protection, but through means of a voted on security. Then the\nsecurity tokens either burn up if in the wrong address, or are\ntransferred/unlocked as spendable Optimism tokens.",
+      "created_at": "2024-02-28T17:40:51.891Z",
+      "trust_level": 2,
+      "username": "philliprossii",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "Hello @alisha.eth [/u/alisha.eth] and Security Council, we believe point #3 of\nour latest communication thread might be of interest to you! Code of Conduct\nCouncil Communication Thread - #21 by CoCCouncil\n[https://gov.optimism.io/t/code-of-conduct-council-communication-thread/7453/21]",
+      "created_at": "2024-03-11T18:10:54.062Z",
+      "trust_level": 2,
+      "username": "CoCCouncil",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-02-27T12:33:46.825Z"
+}

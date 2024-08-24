@@ -1,0 +1,20 @@
+{
+  "title": "[Mission Request] Support on-chain games close to launch",
+  "content": "Mission Request: Support on-chain games close to launch\n\nMission Request Summary:\nProvide targeted funding for on-chain games to maximize the chances of a\nsuccessful game launch. These funds could consist of incentives that make it\neasier for users to onboard such as gas rebates or free gameplay as well as\neducational content (game demos, how to get started).\n\nBy supporting the launch of certain on-chain games this will increase the\nchances of a successful launch thereby encouraging other developers to enter the\necosystem to build on top of successful gaming trends.\n\nS6 Intent 3a [https://gov.optimism.io/t/season-6-intents-ratification/8104]:\nGrow application developers on the Superchain\n\nProposer: Jrocki [https://vote.optimism.io/delegates/jrocki.eth]\n\nTotal grant amount: 70,000 OP (10,000 OP max per project).\nFor clarity, additional Retro Funding is never guaranteed and applicants should\nnot submit applications on the assumption that they will receive more than the\nupfront grant.\n\nShould this Mission be fulfilled by one or multiple applicants: Multiple\n\nHow will this Mission Request help accomplish the above Intent?\nBy supporting the launch of certain on-chain games this will increase the\nchances of a successful launch thereby encouraging other developers to enter the\necosystem to build on top of successful gaming trends.\n\nWhat is required to execute this Mission Request?\n\n * Must have an on-chain game in development\n * Detailed description of the game, in game mechanisms and how users will\n   on-board\n * Detailed plan for how funds will be used and distributed\n * Budget Allocation: Up to 10,000 OP per project with a total of 70,000 OP\n   available\n\nHow should governance participants measure impact upon completion of this\nMission?\n\n * Milestones:\n   * Game is live for users to play (within 6 months of grant approval)\n   * All grant funds are allocated to users / service providers (within 12\n     months of grant approval)\n * Metrics:\n   * Number of addresses that have interacted with contract (total users\n     onboarded)\n   * Monthly Active Addresses (how sticky is the game)\n   * DAA/MAA ratio (but really how sticky is the game)\n * Impact:\n   * Total gas fees generated\n\nHas anyone other than the proposer contributed to this Mission Request? No\n\n\nWHICH METRIC WILL THE SUCCESS OF THIS MISSION REQUEST BE EVALUATED AGAINST?\n\nThe North star metric against which this Mission Request should be evaluated is\nthe total amount of gas fees generated from the grantee’s contracts, because\nthis Mission Request sets out to increase the aggregate demand for blockspace on\nthe Superchain through a larger program. The total gas fees generated from this\nprogram act as a healthy indicator of its combined downstream performance. This\nmetric was suggested by the Foundation and approved by the Grants Council.",
+  "views": 205,
+  "like_count": 7,
+  "word_count": 519,
+  "answer": [
+    {
+      "content": "A North Star Metric has been added at the bottom of this Mission Request in an\neffort to enable the Collective to make data-driven decisions. By using a single\nmetric for each Mission Request, the Collective is better able to evaluate the\nperformance of all the Season 6 missions in a standardized manner, which will be\ncritical when the Collective makes decisions about Intents, budgets, or other\ncritical components of governance.",
+      "created_at": "2024-07-19T19:58:42.671Z",
+      "trust_level": 4,
+      "username": "system",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2024-07-08T15:09:44.416Z"
+}

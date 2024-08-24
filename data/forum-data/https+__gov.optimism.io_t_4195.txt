@@ -1,0 +1,60 @@
+{
+  "title": "Token House Badgeholder Election Information",
+  "content": "PLEASE REFER TO THE BADGEHOLDER NOMINATIONS ROUNDUP\n[https://gov.optimism.io/t/badgeholder-nomination-roundup/4315] FOR THE FINAL\nLIST OF VALID NOMINATIONS\n\nAs part of the recently announced retroPGF 2\n[https://optimism.mirror.xyz/wqk1Yeyn2OhV9paDzbRXvQ0m0JYDu2npbSkMClwk1rY],\nvoting badges will be distributed to a set of 90 community members. One voting\nbadge will be given to 10 Token House delegates. The post below outlines what\nthis means for Token House delegates.\n\nFrom December 8th - December 14th:\n\n * Each delegate with greater than >0.5% voting power may nominate 2 Token House\n   delegates to be badgeholders for rPGF 2. Each of the 10 elected Token House\n   delegates will be able to distribute an additional badge to an individual of\n   their choosing\n * If you have >0.5% votable supply and would like to nominate a delegate,\n   please complete the template below and post to this forum thread\n   [https://gov.optimism.io/t/token-house-badgeholder-nominations/4196] by\n   December 14th at 7pm GMT\n * There is no voting power requirement for nominees, but nominees must have\n   posted a delegate commitment [https://gov.optimism.io/t/delegate-commitments]\n   by 12/5/2022. Delegates may not nominate themselves\n * Please note that holding a voting badge for one round does not guarantee\n   voting rights in subsequent rounds; Citizenship criteria are subject to\n   change going forward\n * If an elected Token House delegate is or becomes ineligible to receive a\n   badge (ie. if they will receive a badge based on other criteria or become a\n   member of the Optimism team), the elected badgeholder will select a\n   replacement to receive their badge instead.\n\nFrom December 15th - December 21st:\n\n * The Token House will vote to select 10 badgeholders from the full list of\n   nominees. This vote will occur via approval voting\n   [https://docs.snapshot.org/proposals/voting-types] on Snapshot. Voting is set\n   up such that you can place a vote for any number of nominees. The 10 nominees\n   with the most votes will receive voting badges for rPGF2. This is approval\n   voting, not ranked choice, meaning each selected choice will receive equal\n   voting power.\n\nFrom January 3rd - Jan 17th:\n\n * Anyone can nominate a project or person for funding in rPGF 2, following the\n   process outlined here\n   [https://optimism.mirror.xyz/wqk1Yeyn2OhV9paDzbRXvQ0m0JYDu2npbSkMClwk1rY]\n\nFrom January 31st - February 10th:\n\n * Token House delegate badgeholders will vote on which projects receive rPGF in\n   round 2\n\n\nTOKEN HOUSE BADGEHOLDER NOMINATION TEMPLATE\n\n * Nominating delegate:\n * Link to delegate commitment:\n * Link to verify delegation of >0.5% of the votable supply:\n * Name of delegate you’d like to nominate:\n * Link to nominee’s delegate commitment:\n * Why do you believe this delegate should receive an rPGF 2 voting badge?",
+  "views": 3697,
+  "like_count": 98,
+  "word_count": 1056,
+  "answer": [
+    {
+      "content": "How exciting, it’s great to see the Citizen House starting to come together! I\nthink that it was this unique feature of Optimism’s governance that made it seem\nso interesting to so many of us!\n\nAs a quick question, if the people who were involved in RPGF1 automatically get\nmembership, could we get a list of who is in that category? I’ve got a couple of\nideas for who to nominate, but don’t want to ‘waste’ my votes if they’re in\nalready!",
+      "created_at": "2022-12-07T07:55:56.528Z",
+      "trust_level": 2,
+      "username": "MinimalGravitas",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 13
+    },
+    {
+      "content": "List of rPGF1 badgeholder is linked in Review of Optimism retro funding round 1\n[https://vitalik.ca/general/2021/11/16/retro1.html]: Optimism RPGF 1 Results -\nGoogle Sheets\n[https://docs.google.com/spreadsheets/d/1g4ilAByMNQsmlBC8cskQip7Ojd_qK6IhozJCyoVfU9k/edit#gid=0]",
+      "created_at": "2022-12-07T22:56:24.308Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 9
+    },
+    {
+      "content": "I was initially choosing to Abstain as I’m nominated. Even though I’d never vote\nfor myself, I can still reshuffle the order somewhat to benefit me. However,\nI’ll be voting for who I feel are the most engaged community members who are\nbeing undervalued.",
+      "created_at": "2022-12-18T04:20:05.507Z",
+      "trust_level": 2,
+      "username": "polynya",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 9
+    },
+    {
+      "content": "I wasn’t entirely sure how to proceed here so I voted for my top 10 nominees.\nThis was difficult because every single nominee really is a stellar candidate,\nso limiting it to 10 was tough. On the other hand, having so many excellent\ncandidates is a great problem to have and I’m so grateful to be surrounded by\nsome of the best minds in the space :blush:\n[https://emoji.discourse-cdn.com/twitter/blush.png?v=12].",
+      "created_at": "2022-12-16T06:05:28.080Z",
+      "trust_level": 3,
+      "username": "katie",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 8
+    },
+    {
+      "content": "Okay so this was a tough one. Since there is so many awesome candidates, and I\nmyself am also a candidate :sweat_smile:\n[https://emoji.discourse-cdn.com/twitter/sweat_smile.png?v=12]\n\nI opted to not vote for myself (though some of my delegators told me otherwise).\n\nI kept it simple and voted for the people I nominated. I intended to also\nnominate Joxes and as such I also voted for him.\n\nSo I voted for @jackanorak [/u/jackanorak], @krzkaczor [/u/krzkaczor] and @Joxes\n[/u/Joxes]",
+      "created_at": "2022-12-18T01:02:15.899Z",
+      "trust_level": 2,
+      "username": "lefterisjp",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    }
+  ],
+  "created_at": "2022-12-06T19:10:18.440Z"
+}

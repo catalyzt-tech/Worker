@@ -1,0 +1,30 @@
+{
+  "title": "Optimism Network Large Scale Adoption",
+  "content": "From the 31st of May till June 1st Optimism had around 11,000 to at its peak\n14,000 transactions per hour. Currently the network has an hourly tx traffic of\naround 2,000.\n\nThis is a significant decrease of network use. Optimism greatest strength is\nthat it uses Ethereum for transaction fees. The Optimism Network could\nincentivize node operators, governance participants, and token holders with\nthese Ethereum fees for contributing to the network.\n\nThere could also be a treasury developed to accumulate funds in a war chest in\norder to progress Optimism adoption by Ethereum developers.\n\nThe distribution of tx fees will incentivize the use of Optimism by providing\npeople that upkeep the system or interact with the system rewards for their\ncontributions.\n\nThe airdrop demonstrated that more people used the network when there was an\nincentive to do so. The future airdrops are good but if Optimism has a\nconsistent incentive structure in place then the hourly transaction rate will\nclock in at a higher rate.\n\n\nScreenshot (595)\n[https://europe1.discourse-cdn.com/bc41dd/optimized/1X/efab9372b4ccc1e95f6303e8898bc8b179fee576_2_690x332.png]\nScreenshot (595)1901×917 115 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/1X/efab9372b4ccc1e95f6303e8898bc8b179fee576.png]\n\n",
+  "views": 1723,
+  "like_count": 9,
+  "word_count": 284,
+  "answer": [
+    {
+      "content": "Without a doubt, the airdrop was a success, in my particular case I received 271\ntokens and right now I have much more than that. What is holding me back is not\nbeing able to use my OP to pay commissions, but I have already seen that I can\nbuy nft, stake with OP.\n\nThe next step would be to encourage users to stay with OP.",
+      "created_at": "2022-06-05T22:39:24.078Z",
+      "trust_level": 1,
+      "username": "Sereno",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "It would be nice if a small percentage of the eth fees that users pay to\ntransact would go to OP stakers or something. It add values to the token and\nallows some of that revenue to go towards research and development of optimism",
+      "created_at": "2022-06-06T17:00:31.151Z",
+      "trust_level": 1,
+      "username": "mgomes",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2022-06-05T01:29:48.282Z"
+}

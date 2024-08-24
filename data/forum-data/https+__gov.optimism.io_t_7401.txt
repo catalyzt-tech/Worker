@@ -1,0 +1,20 @@
+{
+  "title": "Citizens' House Onboarding Call Summary",
+  "content": "The Citizens’ House Onboarding Call took place on 16th January 2023 at 17:00\nUTC. A call recording will be uploaded by @lavande [/u/lavande]\n\nImportant Dates\n\n * 24th January: Deadline for Citizens’ House to participate in a test vote on\n   Snapshot [https://snapshot.org/#/citizenshouse.eth]\n * January 25th - January 31st: Veto Period for Delta Protocol Upgrade\n   [https://gov.optimism.io/t/ready-to-vote-upgrade-proposal-3-delta-network-upgrade/7310]\n   (Snapshot [https://snapshot.org/#/citizenshouse.eth])\n\nQuick Links\n\n * Citizens’ House Spanshot [https://snapshot.org/#/citizenshouse.eth]\n * Governance Calendar\n   [https://calendar.google.com/calendar/embed?src=c_fnmtguh6noo6qgbni2gperid4k%40group.calendar.google.com&ctz=Europe%2FBerlin]\n * Citizens’ House Governance Hub\n   [https://plaid-cement-e44.notion.site/Citizens-House-Governance-Hub-5328e29f3adc4b6db22eda5036543885?p=8a57fffc184141588e838737fa461e00&pm=c]\n * Citizens’ House Governance 101 Presentation\n   [https://drive.google.com/file/d/1PuVpNqpeGf0BBIkLNBvbTuPdA6NNMPve/view]\n * Optimism Governance 101 Presentation\n   [https://drive.google.com/file/d/1fPOEElNTQWFbCkdC1airWj-E73fqx5qY/view]\n\nCall Summary\n\n * Citizens are advised to browse the Citizens’ House Governance Hub.\n * Citizens’ House Governance Hub lists deadlines and to-do actions.\n * Citizens’ House governance is kicking off! A test vote will go live on\n   Snapshot next week.\n * The Token House bootstraps the RetroPGF market via grants and governance\n   funds.\n * Governance funds will eventually diminish. The long-term goal is for RetroPGF\n   (via sequencer revenue) to support the ecosystem.\n * Each Voting Cycle involves a two-week Review Period, a one-week Voting\n   Period, and an additional one-week Veto Period if there is a protocol\n   upgrade.\n * The Veto Period is structured as a no-vote. The Veto threshold requires 30%\n   of Citizens to cast a no-vote. Votes are public.\n * Citizens’ are advised to get familiar with the Delta Protocol Upgrade before\n   the Veto Period starts on January 25th.\n * A joint-house call (Citizens’ House x Token House) is expected in February.\n\nOptimism Collective Two-House System:\n\n * Token House (1 OP = 1 Vote)\n   \n   * Oversees protocol upgrades\n   * Drives ecosystem growth\n   * Vote on vote.optimism.io [https://vote.optimism.io]\n   * List of delegates: https://dune.com/optimismfnd/optimism-op-token-house\n     [https://dune.com/optimismfnd/optimism-op-token-house]\n\n * Citizens’ House (1 Member = 1 Vote)\n   \n   * Allocate public goods funding\n   * Participate in Citizens’ House governance\n   * Prioritizing long-term growth and sustainability\n   * Vote on Snapshot [https://snapshot.org/#/citizenshouse.eth]\n   * List of citizens: Optimism Agora [https://vote.optimism.io/?tab=citizens]\n\nQ&A\nQ: What’s the role of the Security Council vs the Citizens’ House for protocol\nupgrades?\nA: Citizens can Veto protocol upgrades. The Security Council will enact approved\nupgrades and can intervene in emergencies.\n\nQ: Should inactive badgeholders be considered Citizens for the Veto threshold?\nA: Right now they are, but this threshold is subject to change. Awaiting input\nfrom @Jonas [/u/jonas]",
+  "views": 595,
+  "like_count": 11,
+  "word_count": 468,
+  "answer": [
+    {
+      "content": "great summary! thanks for the recap, i wasnt able to attend, im currently diving\non the delta network upgrade, by reducing the inactive cost we reduce the risk\nof launching a rollup!",
+      "created_at": "2024-01-17T07:39:23.365Z",
+      "trust_level": 2,
+      "username": "inbestprogram.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2024-01-16T18:32:55.800Z"
+}

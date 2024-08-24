@@ -1,0 +1,60 @@
+{
+  "title": "Let's act on real campaign of Optimism Summer",
+  "content": "After the 1st airdrop, Op community seems to be very quiet.\nCan we run a Op summer campaign to bring all the important OP players onboard\nhave a similar event like Arb Odyssey?\nI have no doubt that Op will stand out comparing to other layer2 campaign, with\nmuch reasonable gas, faster tx speed, and enhanced security feature.\nA True Op Summer, LFG!",
+  "views": 1683,
+  "like_count": 8,
+  "word_count": 568,
+  "answer": [
+    {
+      "content": "I think we are already doing it with Phase 0/1 proposal, almost all the approved\nprojects are giving some kind of incentives to on-board new users.",
+      "created_at": "2022-06-30T22:19:43.402Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Yeah! The channel #gov-voting-cylce-2 is very active nowadays\n\nYou should check it out @Ruby [/u/ruby] remember that this governance is\nexperimental and we are all building it together with each phase/step",
+      "created_at": "2022-06-30T22:29:25.744Z",
+      "trust_level": 2,
+      "username": "NicoProducto",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Give people a real reason to care is the best marketing possible. Don’t force\nit, but if we’re not capitalizing on actual reasons to care – I’m all for it.\n\nAre there cool opportunities for regular users that we could spin a more\ncompelling story around to create an event? Are there existing incentives we\ncould lump together instead of bleeding more OP to draw in ephemeral users?\n\nCreate real value. Don’t make noise just to make noise. I favor bringing in new\nbuilders and new ideas to bringing in new users. People will start showing up\nwhen there’s something worth showing up for",
+      "created_at": "2022-07-01T17:13:03.460Z",
+      "trust_level": 1,
+      "username": "StevenSchrembeck",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Fair counter-point. In that case we should create a campaign targeted at good\ngovernance members, not regular users. That’s a different audience!\n\nAny move away from printing tokens and spraying them at people is worth\nconsidering. Campaigns should at least be targeted for high value users and\nactivities. I’m just questioning the efficiency of the “Give away free stuff and\nhope people stay” strategy\n\nEach round of that strategy is less and less effective due to dilution.\nPrecision campaigns are probably way cheaper, but equally or more effective",
+      "created_at": "2022-07-11T17:50:21.928Z",
+      "trust_level": 1,
+      "username": "StevenSchrembeck",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "I think the best way to campaign for Optimism is by building great products on\ntop of the protocol. Products that people will love using and will give them a\ngreat user experience.\n\nAs a founder of a project, we will do our part and all we hope for is from this\ncommunity is support.",
+      "created_at": "2022-07-12T02:00:51.915Z",
+      "trust_level": 1,
+      "username": "H_sama",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2022-06-29T02:59:45.265Z"
+}

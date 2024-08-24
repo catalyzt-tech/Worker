@@ -1,0 +1,60 @@
+{
+  "title": "[DRAFT][GF: Phase 1 Proposal] Hashflow",
+  "content": "Project Name: Hashflow\n\nAuthor Name: Victor Ionescu (@gxmxni [/u/gxmxni])\n\nNumber of OP tokens requested: 1,000,000 OP\n\nL2 Recipient Address: 0xE8bc44AE4bA6EDDB88C8c087fD9b479Dff729850\n\nRelevant Usage Metrics:\n\nTVL: ~$750,000 on Optimism (~ $21M across all networks)\nTrading Volume: About $200K / day on Optimism, anywhere from $10M-$150M a day\nacross all networks (depending on market conditions)\nNumber of Trades: 100 / day on Optimism, 3,000 / day across all networks\nMonthly Trading Volume across all networks: 1B\n\nOptimism alignment (up to 200 word explanation):\n\nHashflow is a DeFi-native protocol that enables bridgeless cross-chain swaps\nwith guaranteed execution and MEV protection. Users can swap a variety of tokens\non other EVM chains for Optimism tokens (ETH, USDC, USDT). This makes Hashflow a\ngreat way to “bridge” tokens of any kind into Optimism – think swapping BNB on\nBNB Chain for ETH on Optimism. Moreover, Hashflow offers the same MEV\nprotection, 0 slippage trading experience intra-chain – users can swap their\ntokens within Optimism using Hashflow.\n\nHashflow launched on Optimism a month ago, and debuted its Bridgeless\nCross-Chain Swaps with Day 1 support for Optimism.\n\nMoreover, Hashflow is a great trading experience for intra-chain transactions as\nwell (that is how Hashflow started). To sum up:\n\n * we want to build a great bridging experience into Optimism\n * we want to build a great trading experience for users that are already on\n   Optimism\n\nFor both cases, liquidity and fees are key, which is the main motivation behind\nthis proposal.\n\nProposal for token distribution (under 1000 words):\n\nHow will the OP tokens be distributed?\n\nWe propose that:\n\n * 300,000 of the received tokens will be distributed as rebates to the users\n   who bridged INTO Optimism from other chains, until they run out\n * 700,000 of the received tokens will be distributed over the course of 12\n   months, in equal monthly batches, to users who deposit TVL into Optimism\n   pools\n\nBridging rebates - 300,000 OP (30%)\n\nHashflow uses LayerZero infrastructure to create a bridgeless cross-chain swap\nexperience. This means that the users have to pay Oracle and Relayer fees when\nthey execute the trades, on top of gas on both the source and destination chain.\n\nWe propose that $OP tokens will be used as rebates, so that these fees are\neffectively reduced to 0, and users do not face cost roadblocks when trading\ntheir funds into Optimism.\n\nTVL on Optimism 700,000 OP (70%)\n\nHashflow runs public pools that exhibit no Impermanent Loss. These pools contain\nfunds provided by Hashflow users, and managed by Professional Market Makers\n(e.g. GSR, Wintermute, LedgerPrime).\n\nHashflow is already incentivizing Optimism pools with $HFT tokens, but adding\n$OP token incentives would allow us to create more liquidity and have higher\nquote availability for trades within the Optimism network (e.g. ETH - USDC).\n\nIt will also help us provide enough liquidity for the users looking to bridge\ninto Optimism.\n\nHow will this distribution incentivize usage and liquidity on Optimism?\n\nThe $OP tokens are used to:\n\n * make it easier to bring funds to Optimism\n * boost liquidity (TVL) in pools in order to create a good MEV-free trading\n   experience\n\nWhy will the incentivized users and liquidity remain after incentives dry up?\n\nHashflow Pools offer Impermanent Loss-free yields in the supplied tokens (single\nsided liquidity). We expect that the users will keep enjoying the yields which,\nas the OP network grows, will become more and more competitive. Essentially, the\nfirst year of incentives will be used to bootstrap the ecosystem to a point\nwhere it’s self sustainable.\n\nOver what period of time will the tokens be distributed?\n\n * Rebates: as long as the funds last\n * TVL incentives: 1 year\n\nHow much will your project match in co-incentives?\n\nHashflow will match $HFT 1-1 commensurate to the amount of $OP received. This\nwill come on top of the already existent $HFT incentives.",
+  "views": 2892,
+  "like_count": 58,
+  "word_count": 3218,
+  "answer": [
+    {
+      "content": "\n[https://avatars.discourse-cdn.com/v4/letter/g/eb9ed0/48.png] gxmxni:\n\n> assuming cross-chain fees of $20\n\nwhich bridge is charging you this much? official bridge will cost you $5, unless\ngas is insanely high.\n\nSome points on the proposal:-\n\n 1. 30% allocation is good.\n 2. With 70% I dont agree, this will only bring artificial tvl to your platform\n    looking to farm the token.\n 3. Good to see that you are matching 1:1with your project token.\n\n> make it easier to bring funds to Optimism\n\nwhat does this mean exactly ?\n\n70% of 1M token asked is going to LP reward which will not work long term, is\nthe current format, unfortunately, i would vote against this proposal.",
+      "created_at": "2022-06-19T16:13:41.566Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "I don’t see any concrete reason for the 1,000,000 OP or any actual reason of\nusage. There is no clear use of funds or reason why any of what will be done\nwould even drive value.",
+      "created_at": "2022-06-19T11:04:53.332Z",
+      "trust_level": 1,
+      "username": "Cryptoz",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "\n[https://avatars.discourse-cdn.com/v4/letter/g/eb9ed0/48.png] gxmxni:\n\n> Optimism TVL right now is very low compared to other chains.\n\nIf you know this then you might also know that others chains does not even have\na token and still they manage to build that TVL, which gives me a felling that\neither they are better chain or have better DApps.\n\nAirdrop and reward should be treated as welcome gift to the users already\ninterested to come to chain or to motivate them to come not to hold them,\nholding the users is chain and/DApps job.\n\nOne thing I do like is that you are matching 1:1 and 300K might seems reasonable\namount of OP but its does not make it clear why a user would stay longer.\n\nOn the gas rebate, i need to check, how many project proposal can submit for the\nsame. HOP is giving complete rebate on gas, so as a user i can use hop and\nbridge my token to OP chain and now I am free to use any Dapps.\n\nAt the time of writing:-\nhashflow will cost $28 to bridge from main chain to OP\nOfficial bridge $2.4\nHop is cost you $0\n\nSo giving rebate on your platform is not worth it when other cheaper option is\navailable on chain.\n\nAs of now, I am still uncertain but may be other users and delegates can provide\ntheir feedback and bring their input.",
+      "created_at": "2022-06-21T14:37:25.726Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "I agree with some of your points and disagree with others but I dont see we are\nnot making any progress in right direction.\nOne thing I would to correct is Hop fee, I was referring to rebate that they\nwill give for birding hence the actual fee with 0, for other two, lets agree to\ndisagree as only way to prove this is to do one swap on each which is not worth\nit.\n\nAnyway, I am still here and will be checking the proposal time-to-time but in\ncurrent form I cant support it.",
+      "created_at": "2022-06-21T15:27:16.014Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "LFG :fire: [https://emoji.discourse-cdn.com/twitter/fire.png?v=12] OPTIMISM &\nHASHFLOW",
+      "created_at": "2022-06-05T02:48:45.476Z",
+      "trust_level": 1,
+      "username": "parsasbr",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2022-06-04T20:10:48.882Z"
+}

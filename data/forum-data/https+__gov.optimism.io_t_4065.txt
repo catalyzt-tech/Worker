@@ -1,0 +1,50 @@
+{
+  "title": "Available in multiple languages",
+  "content": "Currently, all texts in the op are in English. You must use English to make\nsuggestions or to talk to people. Of course, even if you don’t know English, you\ncan use translation to carry out some activities. However, it will not be\npossible to use it as openly and actively as using the language of each country.\n\nSo, first of all, I want you to identify users and create various language\nchannels in turn. Being able to discuss and converse in their own language will\nincrease the amount of time people are active in this community. There will also\nbe many more productive activities.\n\nSecond, we need translations of the posted articles. Not all texts need to be\ntranslated. The most important governance, and what users need to know about OP,\nplease provide it in multiple languages. If so, users’ understanding will\nincrease and affection towards the OP will increase.",
+  "views": 1585,
+  "like_count": 14,
+  "word_count": 272,
+  "answer": [
+    {
+      "content": "Hi,\nThanks for this post, this is an important issue for a decentralized and fair\nadoption: the language barrier.\nIn Discord, we have different language channels, and there are contributors who\ntranslate documentation, but this is not enough from my point of view.\n\nThe point is to promote active participation from anyone no matter their level\nof English. I don’t know how to do that, but automatic translators and\nvolunteers can help. I would start with a babel channel.",
+      "created_at": "2022-11-30T13:23:53.790Z",
+      "trust_level": 2,
+      "username": "TheDoctor",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "An option to translate the governance information would be nice. I support this\nidea.",
+      "created_at": "2022-12-01T02:45:51.778Z",
+      "trust_level": 2,
+      "username": "TanBinh",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "That’s a good idea. It’ll be easier to communicate.",
+      "created_at": "2023-01-19T12:09:46.587Z",
+      "trust_level": 1,
+      "username": "ijahyuk",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "wait, can we make sub-language Category in the forum, maybe for translated\ngovernance information",
+      "created_at": "2023-01-22T05:45:39.380Z",
+      "trust_level": 2,
+      "username": "0x666",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2022-11-20T14:33:30.804Z"
+}

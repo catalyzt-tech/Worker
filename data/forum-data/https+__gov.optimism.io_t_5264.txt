@@ -1,0 +1,60 @@
+{
+  "title": "15th OP Community Governance Call is [February 14th at 10am PT / 1pm ET / 7pm CET]",
+  "content": "Hey everyone!\n\nThis weeks community call is coming up Tuesday, February 14th.\n\nFeel free to add anything to the agenda that you’d like to be discussed in this\nthread. Full agenda coming soon.\n\nZoom Link:\nhttps://us02web.zoom.us/j/83240273460?pwd=aGlVU2M4Ti9DRXNBSExsdG1LUlkxUT09\n[https://www.google.com/url?q=https://us02web.zoom.us/j/83240273460?pwd%3DaGlVU2M4Ti9DRXNBSExsdG1LUlkxUT09&sa=D&source=calendar&usd=2&usg=AOvVaw12V_FWFqgXrkm8pSH3TegL]\n\nSee you there!\nMichael :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]:sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]",
+  "views": 1742,
+  "like_count": 23,
+  "word_count": 166,
+  "answer": [
+    {
+      "content": "I think it would be nice to proceed with the Twitter space or Discord as well.\nZoom is difficult to access.",
+      "created_at": "2023-02-14T05:48:55.692Z",
+      "trust_level": 2,
+      "username": "hait",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "let me check with my gf if she has any plans on Feb 14th in the eve :wink:\n[https://emoji.discourse-cdn.com/twitter/wink.png?v=12] See you next time!",
+      "created_at": "2023-02-13T21:18:57.931Z",
+      "trust_level": 1,
+      "username": "0xtassilo.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Noted, I can bring this up on the call.",
+      "created_at": "2023-02-14T17:14:04.450Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "A Twitter space would be better for participation. Zoom is not as accessible as\nTwitter.",
+      "created_at": "2023-02-14T06:51:31.860Z",
+      "trust_level": 2,
+      "username": "0x000",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Here is the agenda to follow along: February 14, 2023 Optimism Bi Weekly\nGovernance Call - Google Slides\n[https://docs.google.com/presentation/d/1W6rJcuWIsvIxLMoff4eCjdEu_aothxAaRGkdE0Kn7Q4/edit?usp=sharing]",
+      "created_at": "2023-02-14T17:58:53.692Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2023-02-13T15:53:09.811Z"
+}

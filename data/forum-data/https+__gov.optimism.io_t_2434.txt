@@ -1,0 +1,20 @@
+{
+  "title": "Can we make a proposal to ask ApeCoin to move to Optimism Network",
+  "content": "They are saying they will not move to alt L1 or “sidechain” not secured by\nETH…OP is secured by ETH…What do you think about such proposal?",
+  "views": 1543,
+  "like_count": 1,
+  "word_count": 60,
+  "answer": [
+    {
+      "content": "We don’t need a proposal to ask them to move over. Anyone can do that.\n\nAs far as incentives go, they should apply through the same procedure as any\nother project.",
+      "created_at": "2022-06-03T22:55:14.528Z",
+      "trust_level": 1,
+      "username": "Codeknight",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2022-06-03T20:57:46.498Z"
+}

@@ -1,0 +1,50 @@
+{
+  "title": "[DRAFT] [GF: Phase 1 Proposal] Light Client Proxy bridge for Optimism",
+  "content": "Project Name:\nDeveloping Light Client Proxy bridge for Optimism\n\nAuthor Name:\nDaiki Ishikawa @Datachain\n(https://www.datachain.jp/ [https://www.datachain.jp/])\n\nNumber of OP tokens requested:\n\nTo be determined\n\nL2 Recipient Address:\n\nTo be determined\n\nOptimism alignment (up to 200 word explanation):\n\nWe’ ve been addressing interoperability issues and partnering with ICF, Harmony\netc to build bridges based on Cross-Authentication.\n(Datachain · GitHub [https://github.com/datachainlab/])\n\nAnd today, we are developing LCP Bridge which is the most secure ever,\ngas-efficient and high extensibility using TEE(e.g. SGX)\n\nKey features are Ultra Gas-efficient, Relay(On-chain verification) and\nExtensible & IBC Support.\n\nLCP could enable Optimism users to exit their funds into Ethereum securely\nwithout a challenge period using LCP.\n\nPlease check this proposal https://docsend.com/view/ygmgy2fc8feu82ae\n[https://docsend.com/view/ygmgy2fc8feu82ae]\n\nWe believe that LCP can make this multichain world more secure and more\nconvenient.\n\nGrant Requirements\n\nWe would like you to consider the following partnership possibility.\n\n 1. Efforts to make transactions through LCP maximized.\n\n * Seamless user flow to LCP bridge\n   1. links from the bridge page, user support page etc\n\n 2. Co-building a transfer bridge Interface\n 3. Co-building bridge applications besides just token transfer",
+  "views": 1880,
+  "like_count": 5,
+  "word_count": 371,
+  "answer": [
+    {
+      "content": "Hello @daiki [/u/daiki] can you please go into more details in your proposal?\n\n 1. The template is missing some sections.\n 2. Don’t expect us to read a pitch deck. Please put it all in the forum.\n 3. Explain in a few words what it is you want to fund with this grant and why\n    it is of use to Optimism\n 4. Have a budget plan for it with details on all expenses\n 5. Using (4) come up with an amount of $OP tokens to request.",
+      "created_at": "2022-07-10T16:24:02.595Z",
+      "trust_level": 2,
+      "username": "lefterisjp",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Just checking in to see if you would like this proposal to be evaluated in\nVoting Cycle #6 according to the updated grant proposal template\n[https://gov.optimism.io/t/grant-proposal-template/3233/15]?",
+      "created_at": "2022-09-13T21:39:17.137Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "Highlights:\n\n * This proposal lacks more description.\n * Be clearer about the funds requested and how they will be used.\n * Provide more information about the project.\n * Provide more information on the value added to Optimism.",
+      "created_at": "2022-07-12T14:50:14.430Z",
+      "trust_level": 2,
+      "username": "AxlVaz",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Thanks for your feedback. I will fill up more details. allow us to take some\ntime. thank you.",
+      "created_at": "2022-07-12T23:53:34.003Z",
+      "trust_level": 1,
+      "username": "daiki",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2022-07-10T09:33:48.614Z"
+}

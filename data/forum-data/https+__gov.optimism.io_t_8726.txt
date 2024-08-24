@@ -1,0 +1,60 @@
+{
+  "title": "Security Council Nomination - Uniswap Foundation",
+  "content": "SECURITY COUNCIL MEMBER SELF-NOMINATION TEMPLATE\n\nPlease keep your answers as concise as possible while conveying all relevant\ninformation.\n\nAll nominations will require 8 Top 100 delegate approvals.\n\nPlease indicate if you are running to be the Council Lead or a Council Member:\nCouncil Member\n\nDoes this nomination represent an individual or organization: Organization ****\n\nCandidate country of residence (or, if an entity, incorporation and principle\nplace of business): USA\n\nHave you previously served on Optimism’s Security Council: No\n\nHave you previously served on any other Council or Board in the Collective: No\n\nAre you a representative of OP Labs: No\n\nAre you a representative of another OP Chain: No\n\nIf you are a delegate, please provide the link to your delegate profile: N/A\n\nIf you are a member of the Citizens’ House, please link to your most recent\nattestation here: No\n\nPlease outline your contributions, and their impact, to the Optimism ecosystem\nto date:\n\n * Uniswap was one of the first ever DeFi apps deployed to Optimism, more than 3\n   years ago in July 202. Before that, Unipig\n   [https://blog.uniswap.org/uniswap-optimism-alpha] was one of the earliest\n   proof of concepts in Ethereum application scaling.\n * Uniswap is one of the most used applications across all Superchain L2s (here\n   [https://dune.com/oplabspbc/op-stack-chains-l1-activity]) as well as the most\n   popular DEX on Optimism with 60%+ market share (here).\n * In addition to the scale and positive impact of Uniswap stemming from our\n   deployment on multiple Superchain L2s, the Uniswap Foundation (”UF”), along\n   with many Uniswap community members, have made additional positive\n   contributions to the community, including:\n\n 1. With the OP Grant to Uniswap early 2023, the UF alongside Uniswap community\n    members were able to successfully deploy 3 Liquidity Mining campaigns for\n    relatively sticky liquidity on major OP pools working with delegates from\n    both the Optimism and Uniswap governance communities.\n 2. The work done by Uniswap community members, Uniswap Labs, and Across on\n    ERC-7683\n    [https://ethereum-magicians.org/t/erc-7683-cross-chain-intents-standard/19619]\n    focuses on establishing standards for crosschain intent fulfillment, which\n    greatly reduces the interop friction for any dapp users needing users to\n    bridge assets or fill transactions across chains.\n 3. The UF recently co-sponsored a proposal with Whetstone Research to introduce\n    new fee tiers on Base in order to provide more competitive pricing to\n    swappers (here\n    [https://gov.uniswap.org/t/rfc-proposal-to-active-2-3-4-bps-fee-tiers-on-base/24346]).\n    If successful, the insights gathered will be informative and we may expand\n    these fee tiers to other Superchain L2s.\n\nPlease demonstrate any non-Optimism experience you believe is relevant to this\nrole:\n\nOur team has helped to grow the Uniswap governance community over the past two\nyears, building strong working relationships with a large number of delegates\nfrom a wide range of organizations, recently hosting 40 delegates at a\ngovernance-specific workshop called Govswap the day before EthCC in Brussels.\nWorking with these members of the community, we have seen the UF’s participation\nas a major stakeholder in Uniswap governance proposals (delegating votes to post\na proposal or posting it ourselves) drop from ~60% in 2023 to ~25% so far in\n2024. We have an acute appreciation for the human and technical intricacies of\nvarious governance processes, and will act as good stewards in this role’s\n“oracle” responsibilities.\n\nElsewhere, we have recently taken a more active role in developing and auditing\nsmart contracts for use by the Uniswap ecosystem, including Uniswap v4, where a\nteam member is a leading contributor to the periphery repo\n[https://github.com/Uniswap/v4-periphery/graphs/contributors] and is intimately\ninvolved in the audit process, and Unistaker, where we managed mechanism design,\ncontract development, and the security audit process.\n\nPlease elaborate on your technical background, including your github handle\n(this will be used to calculate your github expertise score and will be added to\nyour nomination before it goes to a vote by the Foundation):\n\nChirag Narang [https://github.com/narangchirag] was most recently VP of Product\nat Dapper Labs, where he was responsible for Flow’s strategic direction and\nexecution across core protocol, smart contract language, and developer\nexperience, managing a team of 50 Engineers and 6 PMs.\n\nErin Koen [https://github.com/erin-koen] spent two years (2020-2022) as a\nfull-stack engineer at Avantgarde Finance, working on the Enzyme asset\nmanagement app and its supporting infrastructure. He subsequently helped to\nstart Avantgarde’s asset management business, managing the development of custom\nsmart contracts to enable jurisdictionally compliant flows of funds into onchain\ninvestment vehicles.\n\nThe UF’s Github can be found here [https://github.com/uniswapfoundation].\n\nPlease elaborate on your experience with relevant member (or Lead) requirements:\n\nAs described here\n[https://gov.optimism.io/t/season-6-security-council-elections-cohort-a/8587#member-responsibilities-2],\nthe primary requirements of a member of the Optimism Security Council are to be\navailable and communicate well under pressure, thoughtfully execute protocol\nupgrades and other proposals approved by Optimism Governance, and the manage\nprivate keys securely.\n\nThe UF is well-suited to satisfy these requirements. We regularly coordinate\nbetween members of not only the Uniswap Protocol ecosystem but also across other\nDeFi and chain ecosystems. We have also helped to manage the execution and\nimplementation of technical projects including smart contract and app\ndevelopment, security audits, and governance votes. We maintain close working\nrelationships with stakeholders of all stripes and pride ourselves on being\nthorough and responsive.\n\nFurther, we have managed the creation and execution of numerous onchain votes\nfor the Uniswap Protocol since our founding two years ago and stay informed\nregarding those votes in which we are not principal participants. This\nexperience can easily translate into prompt, safe execution of Optimism\nGovernance-approved actions.\n\nFinally, our team manages onchain accounts to administer our UNI treasury as\nwell as a portion of our grants budget. The signers on those accounts have\ndeveloped and maintained protocols for transaction hygiene as well as key\nmanagement.\n\nPlease describe your philosophy on what makes a good Security Council member:\n\nComing from the Uniswap ecosystem, we understand that security is paramount to\nthe longterm success of protocols. Often times security only becomes a focus\nafter a crisis, but we believe that best practices for proactive security is how\nwe maintain operational excellence as Council members. This is manifested in\nUniswap through consistent audits and reviews to help establish frameworks for\nbest understanding risks as we did with the Crosschain Bridge Assessment report\n[https://www.notion.so/Bridge-Assessment-Report-0c8477afadce425abac9c0bd175ca382?pvs=21].\n\nWhile we can do everything to protect against security risks, unfortunately we\nmust also plan for worst case scenarios. This involves war rooming at any hour,\nconstant and transparent communications, as well as the technical competency to\nparticipate in recovery. Although we have been fortunate as a protocol, it comes\nwith hard work behind the scenes and working with trusted partners across the\necosystem. Our philosophy here is to maintain this level of operational and\ntechnical excellence, while continuing to uphold the highest standards of\ncommunication and integrity.\n\nPlease disclose any anticipated conflicts of interest:\nn/a\n\nPlease verify that you understand you may be removed from this role via the\nRepresentative Removal proposal type in the Operating Manual: Confirmed\n\nPlease verify that you understand that election is subject to successful\ncompletion of a Foundation screen which may include KYC/AML, sanctions\nscreening, and a requirement to sign a standard contract: Yes.\n\nPlease verify that you are able to commit ~5 active hours / month to fulfill the\nMember Responsibilities. Please note that there is an “on-call” aspect to this\nrole that is not fully encompassed in the active hours estimate: Yes",
+  "views": 83,
+  "like_count": 12,
+  "word_count": 1546,
+  "answer": [
+    {
+      "content": "I am an Optimism delegate\n[https://vote.optimism.io/delegates/sovereignsignal.eth] with sufficient voting\npower and I believe this candidate is ready to move to an election.",
+      "created_at": "2024-08-14T19:22:18.219Z",
+      "trust_level": 2,
+      "username": "Sov",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "I’m an Optimism delegate\n[https://gov.optimism.io/t/pgov-delegate-communication-thread/6059]with\nsufficient voting power and I believe this proposal is ready to move to a vote.",
+      "created_at": "2024-08-15T15:37:51.854Z",
+      "trust_level": 3,
+      "username": "PGov",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "The SEED Latam delegation, as we have communicated here\n[https://gov.optimism.io/t/seed-latam-delegate-communication-thread/2950/46],\nwith @Joxes [https://gov.optimism.io/u/joxes] being an Optimism delegate\n[https://vote.optimism.io/delegates/0x94db037207f6fb697dbd33524aadffd108819dc8]\nwith sufficient voting power we believe this proposal is ready to move towards a\nvote.",
+      "created_at": "2024-08-15T13:35:46.988Z",
+      "trust_level": 2,
+      "username": "seedlatam",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "We are an Optimism delegate [https://vote.optimism.io/delegates/tanegov.eth]\nwith sufficient voting power and believe this candidate is ready to move to an\nelection",
+      "created_at": "2024-08-15T23:09:38.531Z",
+      "trust_level": 2,
+      "username": "Tane",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "I am an Optimism delegate [https://vote.optimism.io/delegates/anthiaslabs.eth]\nwith sufficient voting power and I believe this proposal is ready to move to a\nvote.",
+      "created_at": "2024-08-16T13:05:52.276Z",
+      "trust_level": 2,
+      "username": "AnthiasLabs",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2024-08-14T18:52:56.830Z"
+}

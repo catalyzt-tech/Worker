@@ -1,0 +1,9 @@
+{
+  "title": "About the Retro  Funding 🔴 category",
+  "content": "Retroactive Public Goods Funding rounds information can be found here.",
+  "views": 1447,
+  "like_count": 17,
+  "word_count": 16,
+  "answer": [],
+  "created_at": "2023-01-19T12:20:30.896Z"
+}

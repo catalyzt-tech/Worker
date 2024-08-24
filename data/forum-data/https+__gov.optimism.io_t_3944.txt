@@ -1,0 +1,50 @@
+{
+  "title": "Governance Fund Charter",
+  "content": "GOVERNANCE FUND CHARTER\n\nThe Token House launched in May and has been busy allocating grants from the\nGovernance Fund, which is responsible for 5.4% of the total initial OP token\nsupply. Throughout Season 1 and 2, the Collective has called for more clarity on\nthe purpose of the Governance Fund. This Charter provides guidelines on the\npurpose and scope of the Governance Fund, as a means of guiding Season 3. These\nguidelines are subject to change in subsequent Seasons.\n\n\nPURPOSE:\n\nThe purpose of the Governance Fund is:\n\n * to incentivize sustainable growth of value-aligned projects and communities\n   in the Optimism ecosystem\n * to bootstrap the retroactive public goods funding flywheel\n   [https://community.optimism.io/docs/governance/allocations/#ecosystem-fund]\n   while the Citizens’ House develops\n * to strengthen Token House governance and broadly distribute voting power to\n   value aligned ecosystem participants\n\n\nGRANTS\n\nGrants can help the Governance Fund fulfill its purpose by providing OP to\nincentivize future work. To date, the primary activity of the Governance Fund\nhas been distributing grants.\n\nHowever, the entirety of the Governance Fund should not be reserved for grants.\nFor Season 3, the Foundation is proposing an elected Grants Council\n[https://gov.optimism.io/t/draft-moving-to-a-grants-council/3945] with a budget\nof 5M OP. If the Grants Council is approved, and continues in future Seasons,\nSeasonal budgets will be determined by the Token House. If the Token House\ncontinues to approve ~5M OP per Season for grants, sustained over the course of\n4 years, ~30% of the Governance Fund would go towards grants.\n\nAll Governance Fund grants should come with an expectation of future\ngrowth-related contributions to the Optimism ecosystem (”work”). The Governance\nFund may make grants to support either private or public goods, so long as there\nis also an expectation of future work. There is a distinct OP allocation,\nseparate of the Governance Fund, dedicated to retroactively funding public\ngoods, without future expectations.\n\nGrant Objectives:\n\nGrow population of values-aligned builders: The Governance Fund should support\ndevelopers launching novel applications that will draw new users to Optimism. If\na Grants Council is approved, a Council sub-committee will support this\nobjective in Season 3.\n\n * Examples of grants aligned with this objective are: builder grants to support\n   future work on new projects, sponsor hackathons and bootcamps, support the\n   creation of technical content, and/or support developer DAOs.\n\nSupport small scale initiatives to grow unique users on Optimism: The Governance\nFund may also support protocols by incentivizing small scale user growth\ninitiatives. If a Grants Council is approved, a Council sub-committee will\nsupport this objective in Season 3. Larger scale partnerships with protocols\nthat have already found product-market fit are better suited to the Partner Fund\n[https://gov.optimism.io/t/op-governance-update-1-june-9-2022/2620].\n\n * Examples of grants aligned with this objective are: growth experiment grants\n   to support small-scale liquidity mining experiments, provide incentives\n   targeting future usage, and/or to support user education.\n\n\nOTHER INITIATIVES\n\nThe Governance Fund may be used to fund a variety of initiatives aimed at\nstrengthening the Optimism community and broadly distributing governance power.\nSeason 3 will continue to focus primarily on grants. As the Token House\ndevelops, future Seasons may introduce new proposal types specific to other\ninitiatives. In Special Voting Cycle #9a, the Token House will vote on a\nproposal to enable a portion of OP from this category to be delegated to\nvalue-aligned protocols via the Protocol Delegation Program\n[https://gov.optimism.io/t/draft-protocol-delegation-program/3946], but this\ndoes not constitute spend.",
+  "views": 3602,
+  "like_count": 61,
+  "word_count": 952,
+  "answer": [
+    {
+      "content": "\n[https://europe1.discourse-cdn.com/bc41dd/original/1X/391d6e71a279a9f881f75bfa7df5cdf3cf905b3f.png]\nsystem:\n\n> The Governance Fund may make grants to support either private or public goods,\n> so long as there is also an expectation of future work.\n\nI really don’t like seeing the private goods suggestion here.\n\n--------------------------------------------------------------------------------\n\nWhat’s more I think those guidelines start being a little confusing. Is the\ngovernance of the Optimism ecosystem us the delegates or does the foundation\ndecide about what we should be doing and we simply rubber stamp the decisions?",
+      "created_at": "2022-11-09T11:51:05.107Z",
+      "trust_level": 2,
+      "username": "lefterisjp",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 13
+    },
+    {
+      "content": "This is an improvement. While I’m not entirely comfortable with the centralized\ndecision making of Partner Fund, I acknowledge it’s a better fit for large scale\npartnerships.\n\nI’d like to see a more defined, objective qualification criteria for regular Gov\nFund, so there’s no ambiguity about what qualifies for Gov Fund and what for\nPartner Fund. At this stage, I’d also like to see further criteria like “must be\nopen sourced”, “must be live on Optimism for X months” etc. There are too many\nproposals being submitted which just aren’t ready for a grant IMO.",
+      "created_at": "2022-11-09T04:52:32.890Z",
+      "trust_level": 2,
+      "username": "polynya",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 10
+    },
+    {
+      "content": "\n[https://europe1.discourse-cdn.com/bc41dd/original/1X/391d6e71a279a9f881f75bfa7df5cdf3cf905b3f.png]\nsystem:\n\n> support either private or public goods\n\nSimilar to clear guideline on self-delegation, this was also needed. We had a\ndebate on many occasion on whether to support private or close source initiative\nor not. Ideally, each piece of code should be fork-able and open sourced but if\na close source protocol is adding value to the chain and helping ecosystem grow,\nwe should support that too.\n\n> work on new projects\n\none request would be extend what constitute new ? Are we talking about a new\ninnovative application or something that is already present on other chain and\nwe are just on-boarding it to our chain, other option would be to leave it to\nthe council to decide but adding some clarity would help.",
+      "created_at": "2022-11-08T22:09:26.908Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 8
+    },
+    {
+      "content": "Hey all, I am trying to understand the Governance fund structure. Does the\nOptimism DAO have a way to revoke the subcommittee after launching it? Is there\nany relation between these two entities? I mean from a technical perspective.",
+      "created_at": "2023-08-15T19:08:24.236Z",
+      "trust_level": 0,
+      "username": "Ohad-Chelo",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2022-11-08T19:58:59.589Z"
+}

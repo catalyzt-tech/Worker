@@ -1,0 +1,9 @@
+{
+  "title": "Daily Active Users on-chain",
+  "content": "We studied Optimism’s user base and it is on fire🔥\n\nPYOR is a blockchain analytics firm and we work with protocols by giving\nhigh-fidelity insights. We have our own data product which we use to perform\nanalysis and deliver insights to institutions like Ribbit Capital, M31 Capital\nand Compound.\n\nThe daily active users have increased by a staggering 140.5% since the year\nstarted!\n\nOptimism’s User Growth:\n:date: [https://emoji.discourse-cdn.com/twitter/date.png?v=12]January 2024: 12%\n:date: [https://emoji.discourse-cdn.com/twitter/date.png?v=12]February 2024:\n-20%\n:date: [https://emoji.discourse-cdn.com/twitter/date.png?v=12]March 2024: 60%\n:date: [https://emoji.discourse-cdn.com/twitter/date.png?v=12]April 2024: 48%\n\nFor more insights on it you can find it here\n[https://x.com/pyorxyz/status/1792587913764413621]\n\n\n\nOptimism_users_May\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/e/ec667f6678faf786c51c2ece4d75bacf8e9f4388_2_690x387.jpeg]\nOptimism_users_May900×506 52.6 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/e/ec667f6678faf786c51c2ece4d75bacf8e9f4388.jpeg]\n\n",
+  "views": 131,
+  "like_count": 2,
+  "word_count": 103,
+  "answer": [],
+  "created_at": "2024-05-22T08:31:01.405Z"
+}

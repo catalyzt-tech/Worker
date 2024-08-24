@@ -1,0 +1,9 @@
+{
+  "title": "A note on Lido assets lost to Optimism bridge",
+  "content": "Hello, Optimism community! I’m Gregory from the Lido DAO, and I want to address\nan incident that took place a few weeks ago at the Lido DAO’s reWARDS Committee\n(aka Liquidity Observation Lab). The full post-mortem is available on the Lido\ngovernance forum\n[https://research.lido.fi/t/post-mortem-loss-of-12-wsteth-in-rewards-committee-ops/5274].\n\nThe Lido reWARDS Committee has recently identified an operational error that\ntook place a few weeks ago, leading to a loss of 12 wstETH from the reWARDS\nbudget allocated for liquidity incentives on Optimism. In a transaction\ninitiated by the reWARDS Committee, 12 wstETH were mistakenly sent to the\nstandard Optimism Gateway address instead of the custom wstETH bridge developed\nby the Lido contributors. Both the sending and the receiving multisigs on\nEthereum mainnet and on Optimism respectively belong to the Lido DAO and are\nlisted on our official documentation\n[https://docs.lido.fi/deployed-contracts/#liquidity-observation-lab-formerly-known-as-rewards-committee-multisigs].\nWe have investigated the incident and determined that it was a human error on\nour end.\n\nWhile we acknowledge that there’s no immediate way to recover these funds, we\nwant to emphasize our commitment to transparency and accountability. This note\nis being posted primarily for visibility in case of potential future bridge\nupgrades or assets rescue operations on the Optimism side.\n\nWe welcome your feedback, questions, and suggestions as we work together to\nensure the security and success of both Lido and Optimism in the future.",
+  "views": 539,
+  "like_count": 7,
+  "word_count": 254,
+  "answer": [],
+  "created_at": "2023-09-01T09:29:31.274Z"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Fractal Visions - Delegate Communication Thread",
+  "content": "We are posting here as a final post for the time being on the OP Governance\nforums.\nThis time will serve us over the spring in order to reflect on this past year of\nwork on optimism network.\nOur plan is to continuing working towards our dreams of educating other creators\nabout blockchain scaling technology and public goods.\nStay Optimistic!",
+  "views": 2104,
+  "like_count": 15,
+  "word_count": 3192,
+  "answer": [
+    {
+      "content": "your view on optimism is at an all-time low and yet you’re launching an NFT\nmarketplace here?",
+      "created_at": "2023-07-05T16:51:48.740Z",
+      "trust_level": 2,
+      "username": "jackanorak",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "fantastic. Looking forward to it.",
+      "created_at": "2023-03-28T00:38:16.562Z",
+      "trust_level": 2,
+      "username": "cryptoAYA",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "It’s been 3 months since our last post here.\n\nThere has been a lot of time to reflect on what happened this spring on Optimism\nnetwork.\n\nWe are back to let you all know that our optimism outlook is at an all time low.\n\nAs much as we would like to stay optimistic it has become clear that there are\nsome people who are out to get us even though our vision & mission is to support\npublic goods.\n\nMembers who are part of the optimism foundation coordinated together in order to\nremove us from the governance.\n\nOur reputation was hurt by many members of the Optimism community.\n\nThe amount of disappointment outweighs any hope that this ecosystem is the best\nchoice for other creators or developers.\n\nEspecially with the bad actors who have found asylum in the governance grant\nsystem & tainted the ethos of what OP was originally intended for.\n\nIt is a shame that it has become this way. Our project has good intentions to\nhelp establish a sustainable future for builders.\n\nWe are preparing to launch :rocket:\n[https://emoji.discourse-cdn.com/twitter/rocket.png?v=12] our NFT Marketplace on\nOptimism this summer.\n\nThis platform will be focused on supporting creators & developers who are making\nan impact in web3.\nImpact over profit is the main ethos behind this new market we have been\nbuilding.\n\nOur development team has now grown to 6 people with the addition of our most\nrecent front end developer who is helping to finish the final stages prior to\ndeployment.\nWe intend to weed out bad actors or scammers and bring authentic creators into\nthe ecosystem.\n\nAlthough our platform will be mainly focused on Optimism network & retroactively\nrewarding the creators who join us we will encourage everyone to explore every\nfacet of blockchain technology. There is no limit to creativity & we want our\nmost innovative impact makers to thrive no matter what environment they are in.\n\nMost of all we want the creators to feel safe. This is the number one reason why\nmany people are hesitant to join the blockchain community. I hope\n:crossed_fingers:\n[https://emoji.discourse-cdn.com/twitter/crossed_fingers.png?v=12] we are able\nto break the stigma surrounding this space allowing for much needed change &\ngrowth of the network.\n\n\n\nimage\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/7/7bc076f5e66b70b88091ae5017eaffb744d82534_2_324x499.jpeg]\nimage1125×1732 264 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/7/7bc076f5e66b70b88091ae5017eaffb744d82534.jpeg]\n\n",
+      "created_at": "2023-07-05T15:24:34.150Z",
+      "trust_level": 2,
+      "username": "FractalVisions",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "It has been about a month since our last entry.\n\nOver the course of the month we worked together with our core team members to\ncoordinate the development of our Front End coding for the Fractal Visions NFT\nmarketplace.\n\nPutting in place the final elements prior to our first beta testing of the\nproduct. This has been a long term project and something that must be done right\nin order to provide security for creators & collectors while trading on\nOptimism.\n\nThis past month we also started our own educational podcast titled “Fractal Pod”\nto record spaces hosted by the founders of Fractal Visions. These valuable\nconversations give people outside of our ecosystem the ability to better\nunderstand our mission & vision to help spread awareness about blockchain\ntechnology on Optimism network.\n\n\nimage\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/0/0f092a4883bd5f937505db1bace3c34f98d6d9a7_2_690x460.jpeg]\nimage4000×2667 1.48 MB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/0/0f092a4883bd5f937505db1bace3c34f98d6d9a7.jpeg]\n\nimage\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/d/d6ad024cae2b76595e99692f8ddd11078760bc22_2_690x470.jpeg]\nimage1007×686 89.3 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/d/d6ad024cae2b76595e99692f8ddd11078760bc22.jpeg]\n\n\n\nOur intention is to strengthen the relationship between the creators on other\nblockchains with the Optimism network. We will continue to speak to individuals\nwho are looking for new opportunities to contribute towards the ecosystem they\nare a part of.\n\nAdvocating for public goods on a daily basis is now one :point_up:\n[https://emoji.discourse-cdn.com/twitter/point_up.png?v=12] of our main focuses.\nWithout a constant reminder to everyone in the realm of mainstream social media\nthese opportunities for fellow creators will simply be missed.\n\nWe have created a dedicated channel in the ecosystem section of the OP discord\nto help record & share our constant efforts in spreading the word of Optimism…!\n\nSpreading the word of Optimism\n[https://discord.com/channels/667044843901681675/1137379940011098213]\n\nOur current medium article also gives everyone a solid understanding about what\nwe are building on Optimism. Please :pray:\n[https://emoji.discourse-cdn.com/twitter/pray.png?v=12] give it a read and let\nus know your thoughts.\n\nFractal Visions NFT Marketplace Update\n[https://fractalvisions.medium.com/fractal-visions-nft-marketplace-update-fcee04fd36c1]\n\n\nimage\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/b/b1c84b92e76d6e7c634127d30837bc6922a818e6_2_500x500.jpeg]\nimage1024×1024 84.1 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/b/b1c84b92e76d6e7c634127d30837bc6922a818e6.jpeg]\n\n\n\nStay tuned for more information about our upcoming launch this year…!\n\nWe have applied for a builders grant on Optimism in cycle 14 and look forward to\nadding more value to the network for other impact makers in the web3 space.\nIt is so important to onboard authentic creators to the space who want to help\neach other throughout the future.\n\nHave a great day and stay Optimistic…! :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]",
+      "created_at": "2023-08-06T14:01:52.325Z",
+      "trust_level": 2,
+      "username": "FractalVisions",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "We are getting ready to launch :rocket:\n[https://emoji.discourse-cdn.com/twitter/rocket.png?v=12] our MVP for our new\nplatform. Optimism & Gitcoin has inspired us to integrate a few public goods\nfunding features as well.\n\nFVPGF.eth\n\n\nFRACTAL VISIONS PUBLIC GOODS FUND\n\nCreating a formula to determine the impact of retroactive work on profit can be\na complex task because it depends on various factors specific to the project and\nthe nature of the retroactive work. However, you can develop a basic formula\nthat considers some common elements. Here’s a simple formula you can use as a\nstarting point:\n\nProof of Impact = (Retroactive Work Benefits - Retroactive Work Costs) / Project\nDuration\n\nWhere:\n\n * Retroactive Work Benefits: The financial benefits gained from the retroactive\n   work. This could include increased sales, cost savings, improved efficiency,\n   or any other measurable financial gain directly attributable to the\n   retroactive work.\n\n * Retroactive Work Costs: The expenses associated with carrying out the\n   retroactive work, including labor, materials, equipment, and any other direct\n   costs.\n\n * Project Duration: The time it takes to complete the retroactive work and\n   start realizing the benefits. This could be measured in days, weeks, months,\n   or years, depending on the project’s scale.\n\nKeep in mind that this formula provides a simplified view of the impact over\nprofit , and in practice, you may need to consider more factors and\ncomplexities. For a more accurate analysis, you might want to incorporate other\nvariables such as the time value of money (discounting future cash flows), risk\nfactors, and additional costs and benefits that emerge over time.\n\nAdditionally, the specific metrics used to quantify benefits and costs will vary\nfrom project to project. You’ll need to define these metrics based on the goals\nand objectives of your retroactive work.\n\nAlways remember that financial analysis is a critical aspect of project\nmanagement, and consulting with financial experts or analysts may be necessary\nfor more complex projects to ensure accurate calculations and decision-making.\n\nMission Statement\n\nOur main goal is to help onboard both old & new users into the public goods\necosystem. The way that we accomplish this mission is by reiterating the ethos\nof public goods with our own implementation of a Retroactive Public Goods\nFunding mechanism into the design of our MVP & utilizing Quadratic Funding tools\nknown as the Grant Stack Manager provided by Gitcoin.\n\n\n\nPGF / QF\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/0/0d0600f128c0dae33a6aa961a5da1be2c86eeb4d_2_690x388.jpeg]\nPGF / QF2728×1536 662 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/0/0d0600f128c0dae33a6aa961a5da1be2c86eeb4d.jpeg]\n\n\n\nFractal Visions Public Goods Fund\n\nThere is a 2% marketplace fee which is the main mechanism that helps fund the\nretroactive rewards for creators and developers.\n\n0.5% or 1/4th of the 2% marketplace fees are directed to the FVPGF.eth - Fractal\nVisions Public Goods Funding [https://app.ens.domains/fvpgf.eth] address which\nis a standard EVM address capable of receiving donations across many networks\nthat are interoperable together.\n\nThese funds are distributed periodically throughout the future to the most\nactive projects that contribute towards the overall growth & education of each\nindividual network.\n\nMarketplace fees that are generated & distributed through the FVPGF give value\nto the users and builders which in turn creates the demand for new creators to\njoin Fractal Visions impact initiative launchpad. Improving & iterating on top\nof each effort as we expand to other networks over the course of the future.\n\n\n\nFVPGF\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/6/650c10daa93bd7551cf3f87789ea6fb72e122b82_2_690x388.jpeg]\nFVPGF2728×1536 777 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/6/650c10daa93bd7551cf3f87789ea6fb72e122b82.jpeg]\n\n\n\nVisit grants.fractalvisions.io\n[https://gov.fractalvisions.io/fvpgf-eth-5597011890969092] for more information.\n:information_source:\n[https://emoji.discourse-cdn.com/twitter/information_source.png?v=12]",
+      "created_at": "2023-11-09T16:48:20.108Z",
+      "trust_level": 2,
+      "username": "FractalVisions",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2023-03-27T21:50:45.314Z"
+}

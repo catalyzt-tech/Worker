@@ -1,0 +1,9 @@
+{
+  "title": "Special Voting Cycle #16c Roundup",
+  "content": "Special Voting Cycle #16c begins on Thursday (Nov 23rd) at 19:00 GMT and runs\nuntil Wednesday (Dec 16h) at 19:00 GMT.\n\nFor a non-grant proposal to proceed to a vote, four of the top 100 delegates, of\nthe current votable token supply, must give explicit approval on the discussion\nthread. Delegates may not approve their own proposals. Proposals that may only\nbe initiated by the Foundation do not require delegate approvals and will\nautomatically move to a vote.\n\nA snapshot of delegate voting weights will be taken at the start of the voting\nwindow. Voting will take place via the Optimism Governance Portal\n[https://vote.optimism.io/].\n\nThe following proposals are eligible for voting in Special Voting Cycle #16c:\n\n * Security Council Vote #2: Member Ratification\n   [https://gov.optimism.io/t/security-council-vote-2-initial-member-ratification/7118]\n * Upgrade #2: Canyon Upgrade\n   [https://gov.optimism.io/t/draft-upgrade-proposal-2-canyon-network-upgrade/7088]",
+  "views": 506,
+  "like_count": 2,
+  "word_count": 158,
+  "answer": [],
+  "created_at": "2023-11-21T18:41:01.363Z"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Season 1 Grant Proposal Template [OLD]",
+  "content": "Incentive Proposal Template\n\n> Project Name:\n> \n> Author Name:\n> \n> Number of OP tokens requested:\n> \n> L2 Recipient Address:\n> \n> Relevant Usage Metrics: (TVL, transactions, volume, unique addresses, etc.)\n> \n> Optimism alignment (up to 200 word explanation):\n> \n> Proposal for token distribution (under 1000 words):\n> \n>  * How will the OP tokens be distributed?\n>  * How will this distribution incentivize usage and liquidity on Optimism?\n>  * Why will the incentivized users and liquidity remain after incentives dry\n>    up?\n>  * Over what period of time will the tokens be distributed?\n>  * Has your project previously received an OP token grant? If yes, what’s the\n>    status of these tokens?\n>  * How much will your project match in co-incentives?",
+  "views": 1780,
+  "like_count": 0,
+  "word_count": 130,
+  "answer": [
+    {
+      "content": "Saving here just for the record. Please use the new grant proposal template\n[https://gov.optimism.io/t/grant-proposal-template/3233/15] for Season 2.",
+      "created_at": "2022-09-13T13:08:26.246Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-09-13T13:07:29.715Z"
+}

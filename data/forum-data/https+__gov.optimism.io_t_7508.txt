@@ -1,0 +1,9 @@
+{
+  "title": "Why People Use Tether on Tron // Respond to Liam's Work",
+  "content": "Because local Cexes don’t support USDT on L2 and Tron is the cheapest among\noptions.\n\nLet’s find some of biggest local Cexes in crypto friendly country like Turkiye\nand Argentina and incentive them for support Tether on OP. We will see if people\nstill use Tron or not.\n\nLet’s discuss pros and cons about incentives local Cexes for Tether",
+  "views": 287,
+  "like_count": 1,
+  "word_count": 62,
+  "answer": [],
+  "created_at": "2024-01-22T20:29:08.712Z"
+}

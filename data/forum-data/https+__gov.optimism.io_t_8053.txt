@@ -1,0 +1,9 @@
+{
+  "title": "Voting Cycle Roundup #22",
+  "content": "Cycle 22 began on Thursday (April 18th) at 19:00 GMT and runs until Wednesday\n(May 8th) at 19:00 GMT.\n\nFor this cycle, there are no votes related to protocol upgrades, and the Code of\nConduct Council did not make any enforcement decisions. Consequently, there\nwon’t be any proposals requiring delegate votes.",
+  "views": 419,
+  "like_count": 2,
+  "word_count": 54,
+  "answer": [],
+  "created_at": "2024-05-01T18:25:26.917Z"
+}

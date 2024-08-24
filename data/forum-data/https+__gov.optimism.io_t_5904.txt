@@ -1,0 +1,9 @@
+{
+  "title": "Update on Aave's OP Allocation from OP Stimpack phase 0",
+  "content": "Hello Optimism community! Aave Grants DAO (AGD) has posted an update to the Aave\ngovernance forum to gain community support as to how the OP we received as part\nof OP Stimpack phase 0 [https://gov.optimism.io/t/gf-phase-0-proposal-aave/1712]\nshould be allocated.\n\nPlease see the full post here: [TEMP CHECK] Allocation of 300k OP Received by\nAave Grants DAO - Governance - Aave\n[https://governance.aave.com/t/temp-check-allocation-of-300k-op-received-by-aave-grants-dao/12820?u=0xbilll]\n\nWe are proposing allocating up to 100,000 OP as part of the current AGD proposal\nand keeping the remaining 200,000 OP in the AGD multisig for future seasons of\nAGD. We are thankful to have received the funds and want to exercise diligence\nin allocating them. We believe that at current market prices, the original\namount received can support several quarters of AGD and ensure long-term support\nfor teams building in the Optimism Aave ecosystem.\n\nApologies if this is posted in the wrong category - I was unable to add a\ncomment to the original thread as it is locked. Happy to re-post elsewhere if\nthere is a better fit.",
+  "views": 1307,
+  "like_count": 2,
+  "word_count": 188,
+  "answer": [],
+  "created_at": "2023-04-19T23:49:49.367Z"
+}

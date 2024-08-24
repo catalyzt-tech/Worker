@@ -1,0 +1,20 @@
+{
+  "title": "Intent Budget Proposal Template",
+  "content": "INTENT BUDGET PROPOSAL TEMPLATE\n\nGrants Council Lead:\nSeason: Season 5\n\nIntent #1: Progress Towards Technical Decentralization\nProposed Budget: XM OP (+/- Season 4 Budget)\nPlease provide reasoning:\n\nIntent #2: Grow the Superchain\nProposed Budget: XM OP (+/- Season 4 Budget)\nPlease provide reasoning:\n\nIntent #3: Improve the Consumer Experience\nProposed Budget: XM OP (+/- Season 4 Budget)\nPlease provide reasoning:\n\nIntent #4: Improve Governance Accessibility\nProposed Budget: XM OP (+/- Season 4 Budget)\nPlease provide reasoning:\n\nTotal Budget to be Managed by Grants Council:",
+  "views": 482,
+  "like_count": 2,
+  "word_count": 88,
+  "answer": [
+    {
+      "content": "Thank you for the template. It is helpful!",
+      "created_at": "2023-11-21T07:27:00.284Z",
+      "trust_level": 1,
+      "username": "shun_DAOAsia",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2023-10-18T15:37:05.009Z"
+}

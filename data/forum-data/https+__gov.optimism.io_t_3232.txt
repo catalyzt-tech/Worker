@@ -1,0 +1,50 @@
+{
+  "title": "Governance Update #3",
+  "content": "GOVERNANCE UPDATE #3: TIME TO REFLECT\n\nWow–it feels like the past two months have absolutely flown by! This governance\nupdate includes a brief recap of Season 1, and a collection of documents which\nthe Optimism Foundation has prepared for Season 2. If you want to shape how\nSeason 2 of OP governance works, now’s your chance – please come contribute to\nthe discussions!\n\n\nSEASON 1 VOTING RECAP\n\nWith the conclusion of Voting Cycle #4, Season 1 of Token House governance has\nofficially wrapped! For the past eight weeks, Token House delegates have been\nreviewing and voting on Governance Fund grant proposals from projects spanning\nthe Optimism ecosystem.\n\nIn the first four voting cycles, the Token House approved 41 project grants and\nrejected 18 proposals. 42.6mm OP has been approved for Governance Fund grants\nand 30.6 mm OP has been distributed to projects already. You can track grant\ndistributions here\n[https://docs.google.com/spreadsheets/d/1eaHOlWB34ij1KGsXdaNyTQg4tt1Pu2JurJsElBb6a8k/edit#gid=0].\nFor a summary of these cycles, see the Cycle #1\n[https://gov.optimism.io/t/voting-cycle-1-roundup/2619], Cycle #2\n[https://gov.optimism.io/t/voting-cycle-2-roundup/2754], or Cycle #3\n[https://gov.optimism.io/t/voting-cycle-3-roundup/2923/11], and Cycle #4\n[https://gov.optimism.io/t/voting-cycle-4-roundup/3055] roundup threads.\n\nWe will briefly pause Voting Cycles to allow for a Reflection Period as we\nprepare for Season 2 of governance. Delegates will have a three-week period to\nreflect on Season 1 and provide feedback on our proposed changes for Season 2.\nProposal authors should expect a new structure and updated process for Voting\nCycle #6 (the next grant voting cycle), so please stay tuned for more\ninformation on a new and improved governance process! Proposers are welcome to\ndraft grant proposals during the Reflection Period and Voting Cycle #5, but\nthose proposals won’t be voted on until Voting Cycle #6.\n\n\nWHAT TO EXPECT\n\n * The Reflection Period will last from August 4th - August 24th, during which\n   time there will be no active votes\n * During the Reflection Period, we are welcoming community feedback on the v0.2\n   Operating Manual and other governance proposals aimed at improving Season 2\n   (linked below)\n * A Special Voting Cycle #5 will begin after the Reflection Period and will run\n   for 13 days, from Aug 25 at 7p GMT until Sept 7 at 7p GMT. This voting cycle\n   will only include process improvements and will not include grant proposals\n * Season 2 will begin on September 8 with Voting Cycle #6, which will resume\n   all proposals. The governance process will follow the v0.2 Operating Manual\n   and any new processes approved in Special Voting Cycle #5.\n\n\nTIME TO REFLECT\n\nEight weeks ago, the Optimism Collective launched with a minimal governance\nframework and an intention to iterate\n[https://optimism.mirror.xyz/r888e4B5iiNQi-3_mO26ixgv-plQ099XWgqEOv9iWKA]. In\nour last Governance update, we highlighted key feedback\n[https://gov.optimism.io/t/governance-update-2/3056] from delegates and\ncommunity members regarding improvements that could be made for Season 2.\n\nBelow are a series of proposed updates that take this feedback into account.\nWhile changes to the Operating Manual don’t require a formal vote, feedback\nduring the Reflection Period from delegates and the broader community is a\ncrucial input towards making the next season the best it can be. Any proposals\nthat fall outside the scope of the Operating Manual will be put up for Token\nHouse vote, as indicated below.\n\nHere are the documents we’re asking for community feedback on as we gear up for\nSeason 2:\n\n * A draft of Operating Manual v0.2!\n   * Forum thread for discussion\n     [https://gov.optimism.io/t/draft-operating-manual-v0-2/3234]\n   * Pull request [https://github.com/ethereum-optimism/OPerating-manual/pull/5]\n * Committee Proposals\n   [https://gov.optimism.io/t/introducing-governance-committees/3238]\n * Proposal Template v2\n   [https://gov.optimism.io/t/grant-proposal-template-v2/3233]\n\nCollecting feedback on these documents will constitute the majority of the\nReflection Period. Once feedback is incorporated and Special Voting Cycle #5 has\nconcluded, these documents will form the basis of Season 2 governance.\n\nWe’re so grateful to our community for taking part in our first governance\nexperiment. Given your active participation, constructive feedback, and\nthoughtful reflection, you can probably guess how we’re feeling about Season 2.\n:wink: [https://emoji.discourse-cdn.com/twitter/wink.png?v=12]\n\nAnd, as always,\n\nStay Optimistic! :sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]:red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]",
+  "views": 3725,
+  "like_count": 39,
+  "word_count": 827,
+  "answer": [
+    {
+      "content": "such a large distribution for a project that is very less innovative, your team\nshould encourage the issuance of new tokens in projects that use your network,\nsuch as rubicon, kwenta and others, have a look at the experience that has\nhappened to the velodrome protocol, see they are so fast growing, better\nencourage that instead of giving out free op tokens, use your op tokens to\ncreate new tokens in new projects",
+      "created_at": "2022-08-06T01:24:14.544Z",
+      "trust_level": 1,
+      "username": "sam92",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Love what team is doing. Stay Optimistic with Optimism.",
+      "created_at": "2022-08-08T15:47:02.337Z",
+      "trust_level": 1,
+      "username": "0x5959.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Wow this Collective is on point",
+      "created_at": "2022-11-07T12:17:18.485Z",
+      "trust_level": 0,
+      "username": "dxpher",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Reflection can make the project go further",
+      "created_at": "2022-08-09T07:12:50.433Z",
+      "trust_level": 1,
+      "username": "mattbtc",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-08-05T16:49:03.692Z"
+}

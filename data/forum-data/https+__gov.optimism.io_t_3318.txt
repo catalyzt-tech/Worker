@@ -1,0 +1,60 @@
+{
+  "title": "DRAFT][S02 Committee Proposal: Category: Defi: Group B]",
+  "content": "Committee Proposal Template\n\n * Committee category: Our committee has been formed with the main purpose of\n   reviewing any proposals related to decentralized finance. Upon review we will\n   provide a standard risk assessment, growth assessment as well as a summarized\n   version of each proposal along with a voting recommendation for Token house\n   delegates and voters. The aim of our committee is to relieve delegates and\n   voters who may not be savvy or interested in defi from the burden of making\n   uninformed decisions. As per the recommendation of the Optimism foundation\n   two decentralized finance committees are recommended, as of writing we are\n   the second proposed committee.\n   Its worth noting there will be a clear overlap in the two committees, it\n   would be efficient if relevant proposals are distributed fairly and if\n   possible equally throughout the season.\n\n * Proposed number of committee members\n\nOur committee consists of five members\n\n * Who will be the committee lead?\n\nDoug - Doug has been following the development of optimism since late 2018, when\ngovernance launched he became a delegate. He has been involved in the\ndecentralized finance sector since its inception, since then he has contributed\nto various projects such as Risk harbor, Deus, Wing Finance, Flamingo finance\nand Ontology.\n\n * Who will be the committee reviewers?\n\nJack Anorak - Jack is a founding member of Velodrome and Information Token,\nwhere he primarily contributes to defi strategy, investments, and general\nmanagement. He came to crypto in 2017 by way of prediction markets and has been\ninvolved in a wide range of DeFi projects since 2020.\n\nSolarcurve - Contributor at Balancer DAO and advisor to BeethovenX. These two\nprojects recently deployed on Optimism in a 50/50 partnership. I’ve been a\nmember of the Balancer community since before the token launched and was an\nactive on-chain DeFi user during the ‘18-’19 bear market and ever since so I\nhave a strong working knowledge of most DeFi applications.\n\nMasterMojo - MasterMojo has been involved in the DEFI space since 2019, and the\ncrypto space since 2017 as a trader/investor. He currently is one of three\nSynthetix Ambassadors for the Synthetix DAO where they perform governance\nactivities/proposals, Dao2Dao relations, protocol integrations, community\noutreach, & growth strategies, he co-produces a community ran newsletter for\nLyra Finance, has hands on experience in all aspects of Ethereum DEFI, including\nbeing an Optimism OG.\n\nMatt - Matt is a long term SNX community member and SNX Core Contributor since\nNovember 2021 for Comms/Marketing. He is also one of the three SNX Ambassadors\nthat has helped to promote Optimism and Optimism projects through weekly Twitter\nSpace Calls, project integrations, community outreach, and also lobbies for SNX\nacross all of DeFi by pushing for governance proposals and other important\nissues.\n\n * Please provide the voting participation rate and % of votable supply held by\n   each committee member:\n\n * Jack Anorak\n   [https://boardroom.io/voter/0x4f41877773e44F2275dA1942FEe898556821bf66] -\n   Voting weight 0.4%, participation 0% (new delegate)\n\n * Solarcurve [https://boardroom.io/voter/solarcurve.eth] - Voting weight 0.78%,\n   participation 100%\n\n * MasterMojo\n   [https://boardroom.io/voter/0x46abFE1C972fCa43766d6aD70E1c1Df72F4Bb4d1?isDelegate=true]\n   - Voting weight 5.95%, participation 0% L2 multisig issue\n\n * Matt\n   [https://boardroom.io/voter/0x46abFE1C972fCa43766d6aD70E1c1Df72F4Bb4d1?isDelegate=true]\n   - Voting weight 5.95%, participation 0% L2 multisig Issue\n\n * Doug\n   [https://boardroom.io/voter/0xd23199F1222C418ffC74c385171330B21B16e452?isDelegate=true]\n   - Voting weight 0.93%, voting participation 100%\n\n * Please disclose any and all conflicts of interest committee members may have:\n\nJack Anorak - team member of Velodrome, which is likely to touch almost every\nprotocol applying for grants. However, Velodrome’s centrality to Optimism makes\nit such that its success is tied directly to the growth of the entire layer;\ntherefore, its interests are broadly aligned with the objectives of the\nCollective.\n\nSolarcurve - very close relationship with Balancer/BeethovenX.\n\n * Please outline the decision making framework the committee plans to use to\n   make recommendations: (this may include proposal scoring metrics and/or other\n   frameworks)\n\n * Risk Rating determined by 6 factors, before rating all projects start with 10\n   Points those points are deducted using the guide below.\n\n1- Has the project lost user or operational funds in an exploit? If yes -2\npoints\n\n2- Has the project been around longer than a year? If not -2 points\n\n3- Is the team reputable? If not -2 points\n\n“The definition of this factor is flexible and quorum will be required among the\ncommittee to decide this”.\n\n4- Does the proposal encourage or promote L2 outflow? If outflow -2 points\n\n5- Does the project offer bug bounties? If not -1 point\n\n6- Has the project conducted audits? If not -1 point\n\n * Growth Rating is determined by 5 factors, before rating all projects start\n   with 10 growth points. These points are deducted using the guide below.\n\n1- Does the project have significant L1 or L2 users? If not -2 points\n\n2- Does the project have an appropriate TVL? If not -2 points\n\n3- Does the project have active socials with engagement? If no -2 points\n\n4- Will grant funds onboard/reward new users? If not -2 points\n\n5- Will the project be matching incentives? If not -2 points\n\n * Please describe how the committee will operate: (general workflow,\n   communication channels, expected outputs, etc.)\n\nWe will start our discussions in our public committee channel where we will work\nto establish a risk assessment along with a growth assessment after this we will\nprovide a summary of what the proposal offers along with our voting\nrecommendation. This will be done transparently for every proposal. Our\ncommittee voting recommendation will take into account other metrics such as\nnumber of tokens requested, usage of grant funds and other related metrics.\n\nRisk/growth assessments include a score along with statements highlighting\ninterests/concerns if applicable. We are using these assessments to fairly\ncompare proposals to one another.\n\nPhase 1 Committee Formation Proposal Template\n[https://gov.optimism.io/t/phase-1-committee-formation-proposal-template/3281]\nLink to proposal template.",
+  "views": 4616,
+  "like_count": 47,
+  "word_count": 2764,
+  "answer": [
+    {
+      "content": "ScaleWeb3 is posting here because I disagreed with him in his own committee\nthread. In response he’s in here making baseless claims about my intentions and\nsuggesting my removal. I believe a response here is relevant.\n\nGo back and read the Curve thread. I didn’t post once in there. You might be\nthinking of my colleague Alex, who made a clear, constructive suggestion that\nhas been spun entirely out of context.\n\nAll I did in his other thread was suggest his proposed committee consider a\nvertical other than defi considering their stronger expertise in other areas,\nand here he is claiming i’m acting in bad faith. You can’t shout ‘bad faith’\njust because someone disagrees with you.\n\nIt’s a shame, then, that ScaleWeb3, who is so committed to the health of\nOptimism, has evidently not seen my proposal attempting to do exactly what he’s\nhoping for regarding a layer-wise economic strategy. Perhaps he can read up:\n[DRAFT] [GF: META] Proposal to reserve a share of GF distribution for liquidity\nbackstopping and stronger governance\n[https://gov.optimism.io/t/draft-gf-meta-proposal-to-reserve-a-share-of-gf-distribution-for-liquidity-backstopping-and-stronger-governance/2969/].\nI expect he’ll be in strong support.",
+      "created_at": "2022-08-19T11:52:02.083Z",
+      "trust_level": 2,
+      "username": "jackanorak",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Appreciate the feedback, yeah our growth rating and risk rating are just to give\na basis for comparison. It’s hard selecting criteria that fit all proposals\nfairly. So most of our focus will be on other metrics as each proposal has its\nown uniqueness, these ratings will just be a bonus to our standard assessments.",
+      "created_at": "2022-08-19T13:08:06.998Z",
+      "trust_level": 2,
+      "username": "MoneyManDoug",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Hi @MoneyManDoug [/u/moneymandoug]! Would you mind updating this proposal title\nto reflect the below?\n\nPlease use the following title format: [DRAFT][S02 Committee Proposal: Category:\nGroup Letter.] An example would be [SO2 Committee Proposal: DeFi: Group A].\nGroup letter should be alphabetical by category, based on time of original\nsubmission.\n\nIn this case, your group would be Group B :slightly_smiling_face:\n[https://emoji.discourse-cdn.com/twitter/slightly_smiling_face.png?v=12]\n\nThe thought is that this should prevent confusion about the multiple defi\ncommittees heading into Voting Cycle #5. This language has been added to the\ncommittee formation proposal template as well.",
+      "created_at": "2022-08-23T21:54:41.956Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 2
+    },
+    {
+      "content": "Wow, what a group! This would make for an awesome DeFi committee!!",
+      "created_at": "2022-08-17T20:23:35.936Z",
+      "trust_level": 2,
+      "username": "raho",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Big fan of this group. Looking forward to this DeFi committee.",
+      "created_at": "2022-08-18T22:00:44.363Z",
+      "trust_level": 2,
+      "username": "Crypto_A_S",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2022-08-17T19:59:25.584Z"
+}

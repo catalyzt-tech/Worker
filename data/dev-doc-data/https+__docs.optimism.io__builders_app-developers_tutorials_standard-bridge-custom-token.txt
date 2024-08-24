@@ -1,0 +1,103 @@
+title: Bridging Your Custom ERC-20 Token Using the Standard Bridge
+lang: en-US
+description: Learn how to bridge your custom ERC-20 token using the standard bridge.
+
+import { Callout, Steps } from 'nextra/components'
+import { WipCallout } from '@/components/WipCallout'
+
+In this tutorial you'll learn how to bridge a custom ERC-20 token from Ethereum to an OP Stack chain using the Standard Bridge system.
+This tutorial is meant for developers who already have an existing ERC-20 token on Ethereum and want to create a bridged representation of that token on OP Mainnet.
+
+This tutorial explains how you can create a custom token that conforms to the IOptimismMintableERC20 interface so that it can be used with the Standard Bridge system.
+A custom token allows you to do things like trigger extra logic whenever a token is deposited.
+If you don't need extra functionality like this, consider following the tutorial on Bridging Your Standard ERC-20 Token Using the Standard Bridge instead.
+
+About OptimismMintableERC20s
+
+The Standard Bridge system requires that L2 representations of L1 tokens implement the IOptimismMintableERC20 interface.
+This interface is a superset of the standard ERC-20 interface and includes functions that allow the bridge to properly verify deposits/withdrawals and mint/burn tokens as needed.
+Your L2 token contract must implement this interface in order to be bridged using the Standard Bridge system.
+This tutorial will show you how to create a custom token that implements this interface.
+
+Dependencies
+
+node
+pnpm
+
+Get ETH on Sepolia and OP Sepolia
+
+This tutorial explains how to create a bridged ERC-20 token on OP Sepolia.
+You will need to get some ETH on both of these testnets.
+
+Add OP Sepolia to Your Wallet
+
+This tutorial uses Remix to deploy contracts.
+You will need to add the OP Sepolia network to your wallet in order to follow this tutorial.
+You can use this website to connect your wallet to OP Sepolia.
+
+Get an L1 ERC-20 Token Address
+
+You will need an L1 ERC-20 token for this tutorial.
+If you already have an L1 ERC-20 token deployed on Sepolia, you can skip this step.
+Otherwise, you can use the testing token located at 0x5589BB8228C07c4e15558875fAf2B859f678d129 that includes a faucet() function that can be used to mint tokens.
+
+Create an L2 ERC-20 Token
+
+Once you have an L1 ERC-20 token, you can create a corresponding L2 ERC-20 token on OP Sepolia.
+This tutorial will use Remix so you can easily deploy a token without a framework like Hardhat or Foundry.
+You can follow the same general process within your favorite framework if you prefer.
+
+In this section, you'll be creating an ERC-20 token that can be deposited but cannot be withdrawn.
+This is just one example of the endless ways in which you could customize your L2 token.
+
+{Open Remix}
+
+Navigate to Remix in your browser.
+
+{Create a new file}
+
+Click the 📄 ("Create new file") button to create a new empty Solidity file.
+You can name this file whatever you'd like.
+
+{Copy the example contract}
+
+Copy the following example contract into your new file:
+
+
+
+{Review the example contract}
+
+Take a moment to review the example contract.
+It's almost the same as the standard OptimismMintableERC20 contract except that the _burn function has been made to always revert.
+Since the bridge needs to burn tokens when users want to withdraw them to L1, this means that users will not be able to withdraw tokens from this contract.
+
+
+
+{Compile the contract}
+
+Save the file to automatically compile the contract.
+If you've disabled auto-compile, you'll need to manually compile the contract by clicking the "Solidity Compiler" tab (this looks like the letter "S") and press the blue "Compile" button.
+
+{Deploy the contract}
+
+Open the deployment tab (this looks like an Ethereum logo with an arrow pointing left).
+Make sure that your environment is set to "Injected Provider", your wallet is connected to OP Sepolia, and Remix has access to your wallet.
+Then, select the MyCustomL2Token contract from the deployment dropdown and deploy it with the following parameters:
+
+_BRIDGE:      "0x4200000000000000000000000000000000000010"
+_REMOTETOKEN: "<L1 ERC-20 address>"
+_NAME:        "My Custom L2 Token"
+_SYMBOL:      "MCL2T"
+
+Bridge Some Tokens
+
+Now that you have an L2 ERC-20 token, you can bridge some tokens from L1 to L2.
+Check out the tutorial on Bridging ERC-20 tokens with the Optimism SDK to learn how to bridge your L1 ERC-20 to L2s using the Optimism SDK.
+Remember that the withdrawal step will not work for the token you just created!
+This is exactly what this tutorial was meant to demonstrate.
+
+Add to the Superchain Token List
+
+The Superchain Token List is a common list of tokens deployed on chains within the Optimism Superchain.
+This list is used by services like the Superchain Bridges UI.
+If you want your OP Mainnet token to be included in this list, take a look at the review process and merge criteria.

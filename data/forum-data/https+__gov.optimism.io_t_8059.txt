@@ -1,0 +1,60 @@
+{
+  "title": "Optimism has already won the first round of L2 competition and will continue to work hard to benefit all things",
+  "content": "Optimism has already won the first round of L2 competition and will continue to\nwork hard to benefit all things.\n\nWEB3 is decentralized, and benefits the community. That is to say, as long as\nusers work on the chain, they will be rewarded. The blockchain is recorded, and\nthe labor they have done will be rewarded sooner or later. ! For example, when\nthe Optimism mainnet was first launched, an NFT Optimistic Explorer collection\nwas released. So far, no rewards have been seen. Another example is the 18-task\nNFT of Optimism Quests, which has not seen any rewards, especially those who\ncomplete 18 tasks at the same time. Should users with 18 NFT certificates be\nrewarded? This is proof of early heavy support for Optimism! And it is proof\nthat a lot of energy and money have been spent to support Optimism!\n\nAlso, when Optimism first issued $OP, OP Allocations showed that the airdrop\nrewards to the community accounted for 19% of the total, but it was only a\nlittle larger in the first round of airdrops. Now, it is already the sixth\nround. But the project team still has hundreds of millions of OPs that have not\nbeen rewarded to users. Can there be a big reward this time? Arouse market\nattention again?",
+  "views": 606,
+  "like_count": 8,
+  "word_count": 653,
+  "answer": [
+    {
+      "content": "Optimism has long given up on their on-chain users, and every airdrop is given\nto some insiders.",
+      "created_at": "2024-05-10T07:22:58.534Z",
+      "trust_level": 2,
+      "username": "ETH3333",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "OP’s development progress is of course obvious to all, but for our retail\ninvestors who supported him in the early days, we should also receive\ncorresponding feedback, right? Before the token was launched, it was said that a\ntotal of 14% of the tokens would be distributed as airdrops. However, judging\nfrom Airdrop2, it is obvious that the team began to regret its promise to\nairdrop so many tokens to users. It was too obvious. Since then, , basically\naccurate placement (I believe there are even some rat warehouses). If the\nholders who participated in the initial launch of the minted token to celebrate\nthe NFT have not been able to receive rewards, what does this mean? Burning\nbridges? Even the supporters of the original 18 tasks can’t get rewards, so what\ndoes this mean?",
+      "created_at": "2024-05-25T00:51:01.480Z",
+      "trust_level": 2,
+      "username": "Jeremylau",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "image\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/1/146ea93eef7bf6a02c714e3c29168d43083523b0_2_500x500.jpeg]\nimage1080×1080 153 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/1/146ea93eef7bf6a02c714e3c29168d43083523b0.jpeg]\n\nimage\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/9/9a7ed986238470d2dd0a680a86bb42cad4f560d6_2_500x500.jpeg]\nimage1080×1080 146 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/9/9a7ed986238470d2dd0a680a86bb42cad4f560d6.jpeg]\n\nimage\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/9/92d3010fda5cf81257fecc0cf65cf71772e621e4_2_500x500.jpeg]\nimage1080×1080 149 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/9/92d3010fda5cf81257fecc0cf65cf71772e621e4.jpeg]\n\nimage\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/6/65b06067b80418b86d9e54a9c18fd920eff3a04e_2_500x500.jpeg]\nimage1080×1080 118 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/6/65b06067b80418b86d9e54a9c18fd920eff3a04e.jpeg]\n\nimage\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/2/26f5210ba368736f184d5f702887752b28edf04a_2_500x500.jpeg]\nimage1080×1080 156 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/2/26f5210ba368736f184d5f702887752b28edf04a.jpeg]\n\n\n\nI wonder if the project party still remembers these 5 NFTs? Although the value\nis not high, it is of great significance. This is a representative of OP’s early\nsupporters! I guess you have forgotten it a long time ago, right?",
+      "created_at": "2024-05-25T00:56:26.301Z",
+      "trust_level": 2,
+      "username": "Jeremylau",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Everyone is welcome to participate in the discussion. As long as it reaches\nenough popularity, the project team will notice it!",
+      "created_at": "2024-05-09T10:40:54.449Z",
+      "trust_level": 2,
+      "username": "Jeremylau",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "I feel the same way. Once the ecology and reputation are established, they no\nlonger care about retail investors. I feel like they only care about large\ninvestors and institutional investors now. :rofl:\n[https://emoji.discourse-cdn.com/twitter/rofl.png?v=12] :joy:\n[https://emoji.discourse-cdn.com/twitter/joy.png?v=12]",
+      "created_at": "2024-05-12T03:16:05.686Z",
+      "trust_level": 2,
+      "username": "Jeremylau",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-05-03T02:12:53.691Z"
+}

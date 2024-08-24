@@ -1,0 +1,60 @@
+{
+  "title": "[Mission Request] Cross Chain Voting",
+  "content": "Delegate Mission Request Summary\n\nEnable cross-chain voting by building a module that allows for voting on an L2\nand execution on an L1, contributing to the progress toward decentralization.\n\nPossible implementation (thank you @zachobront [/u/zachobront]):\nAny OP stack chain can access the L1 block hash. By utilizing this hash, you can\nvalidate a storage value, which can serve as the root for another OP stack\nchain. This allows you to prove the storage value on that chain. In this setup,\nyou can vote on any chain, and the chain that resolves the voting will require\nsomeone to submit evidence of the vote on all other chains, and aggregate them.\n\nIntent 1: Progress Towards Decentralization\n\nProposing Delegate/Citizen\n\ngonna.eth\n\nTotal grant amount\n\n40.000 OP\n\nShould this Mission be fulfilled by one or multiple applicants\n\nMultiple applicants\n\nWhat is required to execute this Mission Request?\n\n 1. Define the requirements for the cross-chain voting module, including user\n    interface, data storage, and data retrieval mechanisms.\n 2. Design and develop the module architecture, including integration with\n    existing Collective infrastructure.\n 3. Implement the module, including testing and quality assurance.\n 4. Deploy the module and provide documentation and training for users.\n 5. Monitor and evaluate the effectiveness of the module in enabling cross-chain\n    voting.\n\nHow should governance participants measure impact upon completion of this\nMission Request?\n\nGovernance participants can measure the impact of this mission request by\ntracking the following metrics:\n\n 1. Number of votes executed on an L1 via the cross-chain voting module.\n 2. Increase in the number of addresses participating in governance from L2.\n 3. Improvement in the decentralization and security of the voting process.\n 4. Reduction in the time and cost associated with voting and executing\n    proposals.\n\nMilestones\n\n 1. Requirements definition completed\n 2. Module design and architecture completed\n 3. Module implementation and testing completed\n 4. Module deployed and integrated with Collective infrastructure\n 5. Evaluation and monitoring of the module’s effectiveness completed\n\nMetrics\n\n 1. Number of votes executed on an L1 via the cross-chain voting module.\n 2. Increase in the number of addresses participating in governance from L2.\n 3. Improvement in the decentralization and security of the voting process.\n 4. Reduction in the time and cost associated with voting and executing\n    proposals.\n\nImpact\n\nThis mission request will have a positive impact on the progress toward\ndecentralization by enabling cross-chain voting, making it easier for\nparticipants from different chains to participate in governance. This will lead\nto increased decentralization and security of the voting process, as evidenced\nby the following measurable outcomes:\n\n * Increased number of votes executed on an L1 via the cross-chain voting module\n * Increased number of addresses participating in governance from L2\n * Improved decentralization and security of the voting process\n * Reduced time and cost associated with voting and executing proposals\n\nHas anyone other than the proposer contributed to this Mission Request?\nConsulted with Zach.\n\n\nWHICH METRIC WILL THE SUCCESS OF THIS MISSION REQUEST BE EVALUATED AGAINST?\n\nThe North star metric against which this Mission Request should be evaluated is\n# of addresses voting for the first time, as it indicates how this effort\ncontributes to an increase in active voting participation. This metric was\nsuggested by the Foundation and approved by the Grants Council.",
+  "views": 551,
+  "like_count": 13,
+  "word_count": 2812,
+  "answer": [
+    {
+      "content": "Thanks for crafting this proposal!\n\nI have some questions which may be pretty simple, so appreciate the answer.\n\nWhat is the type of cross-chain voting we are trying to enable here? Or what is\nthe use case?\nI first thought that this might be a fractionalized liquidity in which we might\nhave OP sitting in other chains of the Superchain and through this module we’d\nbe able to “activate it” and allow for people to vote with it wherever they had\nit, but looking at other chains OP only lives in Mainnet (as far as I’ve found,\nmaybe I am wrong). So I’m not sure what this cross-chain voting use case refers\nto…\n\nOr does this refer to enabling snapshot votes cross-chain? Could you please\nshare some of the examples you had in mind when crafting the proposal?\n\nFor example, if we are to look at the Metrics and Impact sections:\n\n 1. What type of votes would point 1 refer to (examples)?\n 2. What is considered as “addresses participating in governance”? Delegating\n    addresses? Voting addresses?\n\nOr is this more of redundancy in which we are not storing governance votes on\nOPMainnet but on Ethereum Mainnet so if anything were to happen to OP Mainnet\nother Superchain chains can directly go to Ethereum Mainnet to validate a vote?\n\nThanks!",
+      "created_at": "2024-07-18T03:26:03.310Z",
+      "trust_level": 3,
+      "username": "LauNaMu",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Hello!\n\nThis is an exciting Mission request!\n\nI wanted to share the work that Tally.xyz has done in the past for the\ncollective for cross-chain voting.\n\nRollCall [https://github.com/withtally/rollcall] - a cross chain library for\ndoing cross chain governance built on OP.\n\nSuperchain Governance DeepDive\n[https://gov.optimism.io/t/final-superchain-governance-deep-dive/5920/34] - a\nresearch project in to implementation techniques for cross chain governance in\non Optimism and across the super chain\n\nMultiGov [https://x.com/wormhole/status/1777366080165740905] - A powerful\nproduct solution built by Tally, Wormhole and ScopeLift that enables universal\nMultiChain governance.\n\nTally would be very interested to continue its work in this area and has the\nexpertise on the subject matter. We would be happy to discuss more.",
+      "created_at": "2024-07-18T11:53:02.599Z",
+      "trust_level": 2,
+      "username": "dennison",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Gm everyone!\n\nAnthony from Aragon here. We’re thrilled to see an appetite for cross-chain\nvoting, something we’ve been working on since our Multi-chain V1 launch with\nLayerZero in November 2023.\n\nWe, in partnership with RISC Zero have published our proposal via Charmverse and\nwould very much like to work with the Optimism and Superchain ecosystem to bring\nthe most aggressive and trustless solution to date using Storage Proofs.\n\nWe envision a solution that will enable seamless and trustless cross-chain\nvoting, and:\n\n 1. Remove the need to bridge to vote; reducing a poor UX, removing risks\n    associated with bridging, and eliminating fragmented liquidity.\n 2. Allow any type of token to vote, especially those not following the\n    ERC20Votes standard. This is a giant industry pain point where currently\n    most projects only using ERC20 without the votes standard are incapable of\n    governing onchain. Democratizing onchain voting to the entire industry.\n 3. Preserve delegation when bridging across chains. As currently this is lost\n    when a token holder bridgers from one chain to another. Increasing voter\n    participation and decreasing lost delegations.\n 4. Automate the dispatch of votes from the voting chain as it currently needs\n    to be executed, meaning there is a risk that votes are not bridged before a\n    vote ends.\n 5. Enable gasless voting by abstracting it away using Coinbase Wallet, similar\n    to the implementation that we currently have with zkSync, so users’ votes\n    are free.\n\nWe welcome any questions, suggestions, or requests for additional information.\nWe can’t wait for next steps and to hopefully to begin building this solution\nfor OP and its ecosystem! Thank you!",
+      "created_at": "2024-07-24T19:05:33.929Z",
+      "trust_level": 0,
+      "username": "Leuts",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "I can speak to the general concept behind having specific metrics by which to\nevaluate the success of all Mission Requests in Season 6 but will tag in\n@thbialek [/u/thbialek] to comment on the reasoning behind individual metrics.\n\nTransitioning more governance responsibilities to the community will require\ngovernance to be able to make data-driven decisions. For example\n[https://gov.optimism.io/t/season-6-intents-ratification/8104]:\n\n> Robust data infrastructure and analysis capabilities must be developed to\n> enable the Collective to set Intents. Ideally, this system would allow the\n> Collective to derive something that looks like a KPI tree stemming from a\n> north star metric (ie. network usage) so that Collective Intent setting looks\n> more like a calculation than a subjective brainstorming session.\n\nPart of the Foundation’s role to bootstrap the governance system is to help\nestablish a standardized data infrastructure that can support this type of\ndecision making. Meaningful analysis of past Governance Fund grants has been\nlimited due to a lack of standardization and pre-defined success metrics. This\nlimits the Grants Council’s ability to further refine their own grant making and\nit also limits the Collective’s ability to understand how the Governance Fund\ndrives progress towards the Intents relative to other mechanisms, like the\nPartner Fund or Retro Funding (for example.)\n\nTo start to lay to the groundwork for the Collective to be able to do meaningful\nanalysis on allocation mechanisms, and how they drive impact towards the\nIntents, we’ve suggested a metric that ties back to the target metric for the\ncorresponding Intent for each Mission Request. The goal is to enable\nstandardized evaluation of the contribution of Season 6 Missions towards the\nIntent metrics.\n\nMission Request authors were given the opportunity to object to the suggested\nmetrics and/or suggest an alternate metrics (from a menu of metrics provided by\nthe Foundation) for their Mission Request. We recognize the assignment of\nstandardized metrics to each Mission Request should have happened earlier in the\nprocess to ensure all Mission Requests are drafted in a way that corresponds to\none of the relevant metrics. This is a clear learning for next Season.\n\nI consider it a step forward for the Collective that the conversation can\nprogress from unmeasured assessments of success/failure to a more targeted\ndiscussion about the best measurements to use to evaluate success.",
+      "created_at": "2024-07-24T10:54:32.148Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "GM @Leuts [/u/leuts]! Please submit your application to the Grants Council\nCharmverse Space [https://t.co/PeajzEeGzR]. You can join the space with this\nlink: https://app.charmverse.io/invite/5e28cc [https://t.co/szwF5ldwjH].\n\nPlease pay special attention to the application guide, the rubrics, and the\nNorth Star metric of this MR.\nGood luck! :sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]\n\ncc. @dennison [/u/dennison]",
+      "created_at": "2024-07-25T23:36:22.098Z",
+      "trust_level": 4,
+      "username": "brichis",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2024-07-06T16:59:41.210Z"
+}

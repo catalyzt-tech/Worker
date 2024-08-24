@@ -1,0 +1,9 @@
+{
+  "title": "About the Governance Fund Phase 0 Category",
+  "content": "Submit and discuss proposals for Phase 0 of the Governance Fund. This category\nwill be closed after May 24 at 23:59:00 UTC.\n\nFor more details on Governance Fund Phase 0, please read our overview here\n[https://community.optimism.io/docs/governance/gov-fund].\n\nFor instructions on how to create a proposal, see Governance Fund Phase 0: How\nto Create a Proposal\n[https://gov.optimism.io/t/governance-fund-phase-0-how-to-create-a-proposal/215]",
+  "views": 1076,
+  "like_count": 7,
+  "word_count": 69,
+  "answer": [],
+  "created_at": "2022-05-03T17:55:42.090Z"
+}

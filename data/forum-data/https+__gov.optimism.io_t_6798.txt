@@ -1,0 +1,40 @@
+{
+  "title": "Please allow me to submit Grant Proposal I saw it is Sept 14th at the latest",
+  "content": "Can I still submit Grant Proposal?\nI saw “Applications for Cycle 15 are officially closed. We ask that RFGs be\nsubmitted by this Thursday (September 7) to ensure a full review, but September\n14 at the latest.”\n\nBut right now the submit button is not available. Thank you @katie [/u/katie]\n@gonna.eth [/u/gonna.eth]",
+  "views": 2296,
+  "like_count": 2,
+  "word_count": 161,
+  "answer": [
+    {
+      "content": "You will get a faster response on Discord. You can post an RFG proposal if you\nare logged in.\n\nTo log in you have to go to the Grants landing page and click “log in”\n\nYou can also use our “proposal guide”, both things are highlighted in the image\nbelow.\n\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/3/3c5ff1e079a3a97de5d809f51cc0d63c0bbc1ba9.png]\napp.charmverse.io [https://app.charmverse.io/op-grants/page-701220845245208]\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/2/2ed271296cf85dd4fbc83b28754253613a20b693_2_644x499.png]\n\n\nCHARMVERSE [https://app.charmverse.io/op-grants/page-701220845245208]\n\nweb3 operations platform handling docs, tasks, bounties, proposals, and votes.\n\n\n\n\n\n\nimage\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/b/b7c11b331016e35678c3b43eddba9ff87853b7cd_2_690x328.png]\nimage1460×695 101 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/b/b7c11b331016e35678c3b43eddba9ff87853b7cd.png]\n\n",
+      "created_at": "2023-09-11T12:15:05.748Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "the Council will pick it up for review",
+      "created_at": "2023-09-12T15:22:29.997Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "Thank you for your guide, Gonna. I successfully submit. @Gonna.eth\n[/u/gonna.eth]\nCan I summarze the project and post in this forum to collect feedback? I worry I\nsubmit too late to get review. Thank you for your guide again.",
+      "created_at": "2023-09-11T13:13:48.556Z",
+      "trust_level": 1,
+      "username": "invitedtea",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2023-09-11T00:26:51.803Z"
+}

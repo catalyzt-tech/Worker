@@ -1,0 +1,60 @@
+{
+  "title": "[Mission Request] Develop non-technical solutions for increasing both voter and token participation in the DAO",
+  "content": "Delegate Mission Request Summary: Develop non-technical solutions for increasing\nboth voter and token participation in the DAO.\n\nS6 Intent: Progress Towards Decentralization\n\nProposing Delegate/Citizen: @kaereste [/u/kaereste] on behalf of Event Horizon\nDAO (EventHorizonCommunity.eth)\n\nTotal grant amount: 75k OP\n\nShould this Mission be fulfilled by one or multiple applicants: Multiple\n\nHow will this Mission Request help accomplish the above Intent?:\n\nAs outlined in Missions v2.5\n[https://gov.optimism.io/t/season-6-missions-v2-5/8106], mission requests should\ncontribute to target metrics. In the case of Intent 1\n[https://vote.optimism.io/proposals/46662599590868619415724059715206858415123913604990481279137083354870809650669],\nthat’s “Token House governance: Increase votable supply by 15% to 100M OP”. The\nabove Mission Request is therefore in line with this north star by placing an\nemphasis on bringing in both new voters and tokens.\n\nWhat is required to execute this Mission Request?\n\nWhile contracts and technical developments may be included, the solution will be\nexpected to create an improvement mechanism for citizen voter participation,\nvoice amplification, and inclusion primarily through non-technical means.\n\nThe solution team or individual will be expected to…\n\n * Provide a detailed rationale for their approach with a clear depiction of how\n   and why their solution will drive the impact metrics detailed below.\n * Build all required components of their solution\n * Maintain their solution product or offering for a minimum of 12 months\n   including all needed adjustments, additions, or other maintenance work needed\n   to keep the solution viable and available for the community.\n * Capture relevant metrics as they pertain to achieving the desired intent for\n   public disclosure to the community.\n\nHow should governance participants measure impact upon completion of this\nMission?\n\n * Milestones:\n   * The solution will be subject to the typical milestone-based delivery and\n     assessment process. The Milestones and Metrics committee will assess the\n     completion of milestones, as usual.\n * Metrics:\n   * Increase of total votable supply of OP, highlighted as a core metric in\n     Intent 1\n     [https://vote.optimism.io/proposals/46662599590868619415724059715206858415123913604990481279137083354870809650669]’s\n     ratification\n   * Increase in number of voters in Optimism DAO\n * Impact:\n   * Impact will be measured by the absolute and relative performance of the\n     aforementioned two metrics, both in line with the key metric of Intent 1\n     [https://vote.optimism.io/proposals/46662599590868619415724059715206858415123913604990481279137083354870809650669].\n\nHas anyone other than the proposer contributed to this Mission Request? No\n\n\nWHICH METRIC WILL THE SUCCESS OF THIS MISSION REQUEST BE EVALUATED AGAINST?\n\nThe North star metric against which this Mission Request should be evaluated is\n# of addresses delegating for the first time, as it reflects to what degree this\neffort lowers the barriers to governance participation through the grantee’s\nnon-technical solutions. This metric was suggested by the Foundation and\napproved by the Grants Council.",
+  "views": 434,
+  "like_count": 12,
+  "word_count": 823,
+  "answer": [
+    {
+      "content": "I’ve changed the requirement regarding the number of participants as requested\nby the proposer. I would also like to note that the proposal was submitted by\n@EventHorizonDAO [/u/eventhorizondao] and I just merely sponsored it as the\nofficial MR, so I think it would be best for @EventHorizonDAO\n[/u/eventhorizondao] to respond to @1a35e1 [/u/1a35e1] and @alexsotodigital\n[/u/alexsotodigital] comments.",
+      "created_at": "2024-07-18T10:50:44.403Z",
+      "trust_level": 2,
+      "username": "kaereste",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "A North Star Metric has been added at the bottom of this Mission Request in an\neffort to enable the Collective to make data-driven decisions. By using a single\nmetric for each Mission Request, the Collective is better able to evaluate the\nperformance of all the Season 6 missions in a standardized manner, which will be\ncritical when the Collective makes decisions about Intents, budgets, or other\ncritical components of governance.",
+      "created_at": "2024-07-22T19:27:54.284Z",
+      "trust_level": 4,
+      "username": "system",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 2
+    },
+    {
+      "content": "Question:\nBy saying that this Mission be fulfilled by one applicant, you are saying only\none non-technical solution can be executed with the 75k OP budget?\n\nIt seems to me that with this budget there could be multiple teams making\nefforts.\n\nFor example, the proposal that I made\n[https://gov.optimism.io/t/sponsorship-request-intent-1-opinion-harvesting-spaces/8441]\nI believe can be carried out with 1/10 of what is contemplated.\n\nCould you, @kaereste [/u/kaereste] explain your rationale to me or correct me if\nI’m understanding something wrong?\nex: If I wanted to make a proposal for a grant, would I have to consider using\nthe 75K?\nCan’t I even aspire to a grant for this?",
+      "created_at": "2024-07-17T00:13:45.462Z",
+      "trust_level": 2,
+      "username": "alexsotodigital",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Hey @alexsotodigital [/u/alexsotodigital], we agree that expanding the mission\nrequest to “Multiple” would be best for the success of both this Mission\nRequest, and the Optimism ecosystem.",
+      "created_at": "2024-07-17T15:36:27.231Z",
+      "trust_level": 0,
+      "username": "EventHorizonDAO",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Awesome request @kaereste [/u/kaereste]. This is a largely overlooked piece of\ncritical infra. Would love to discuss this some more.\n\nAs finalists in S5R2, we have still made progress, despite not being awarded a\ngrant.\nOptimism is now included in our native product https://lighthouse.cx/\n[https://lighthouse.cx/] and usable by OP users both iOS/Android.\n\nThus so we would need to adjust our original S5 request, (Still lots to do, but\nsome of the work is partially done)\n\n * https://app.charmverse.io/op-grants/lighthouse-governance-3955818868314629\n   [https://app.charmverse.io/op-grants/lighthouse-governance-3955818868314629]\n\nWe would really appreciate more feedback. We also have some new ideas for\nincreasing governance participation based on observations in the ecosystem.",
+      "created_at": "2024-07-17T11:02:01.157Z",
+      "trust_level": 2,
+      "username": "1a35e1",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-07-08T16:57:39.353Z"
+}

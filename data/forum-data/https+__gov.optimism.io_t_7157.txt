@@ -1,0 +1,20 @@
+{
+  "title": "Badgeholders office hours #1",
+  "content": "Hey all. I’ll be hosting a badgeholder office hours today 19 GMT. This call will\nbe closed to badgeholders only and you should see the invite in your calendar.\n\nJonas will be joining. If you want us to put something in the agenda please\nreply to this post.",
+  "views": 539,
+  "like_count": 8,
+  "word_count": 109,
+  "answer": [
+    {
+      "content": "Hey hey!\n\nI’d like to bring previous Grants performance to the conversation :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]\nI’ve been looking at sourcing resources that could help inform Badgies in their\ndecision making and would like to know if there’s more info out there and if\nthis would be useful for others, and if so, in which format this may be most\nuseful.",
+      "created_at": "2023-11-30T17:37:31.304Z",
+      "trust_level": 3,
+      "username": "LauNaMu",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2023-11-30T10:26:04.768Z"
+}

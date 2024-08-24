@@ -1,0 +1,40 @@
+{
+  "title": "Mental Health Sevices for Optimism Public Goods Buidlers",
+  "content": "Web3beach has launched multiple rounds of sponsored mental health services for\nbuilders from Honduras\n[https://twitter.com/web3beach/status/1596849657657057281], then LatAm based\nbuilders, and now Optimism Public Goods buidlers.\n\nWe have FIVE slots open to Public Goods builders on Optimism. Simply DM me on\nTelegram expressing interest (carlosjmelgar) and I will provide you with the\ntherapist’s contact so you can organize.\n\nHow it works:\n\n * First come, first serve\n\n * Each person gets FIVE sessions\n\n * Sessions are pre paid by web3beach\n\n * Sessions are offered in English or Spanish\n\n * You express interest, we give you the therapist’s contact and you schedule\n   your sessions directly with her.\n\n * We don’t need to know anything else or require updates from recipients of\n   these services.\n\n * Therapist informs when the sessions have been completed so we can budget and\n   plan for the next round.\n\n * We don’t ask any questions and request that you do not share any information\n   about topics you wish to discuss with the therapist.\n\nThis space offers some details and reviews from recipients\n[https://twitter.com/web3beach/status/1695124558854963649]. Recipients are not\nexpected to share about your experience.\n\n1 session was paid on Arbitrum, all others have been paid on Optimism.",
+  "views": 820,
+  "like_count": 10,
+  "word_count": 272,
+  "answer": [
+    {
+      "content": "Builders gotta look out for builders :handshake:\n[https://emoji.discourse-cdn.com/twitter/handshake.png?v=12]",
+      "created_at": "2024-03-09T14:15:07.746Z",
+      "trust_level": 2,
+      "username": "Carlosjmelgar",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "thank you for pushing me to finally sign up @Carlosjmelgar [/u/carlosjmelgar]\nseeing this post alone makes me incredibly bullisn on supporting your efforts\nand working with you on optimism and beyond to onboard regular people to the\nblock chain and keep then healthy and educated while they are here",
+      "created_at": "2024-03-09T13:51:58.827Z",
+      "trust_level": 0,
+      "username": "BIGSHOT",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Building is a noun but also a verb so we need to be active, together, forever.\n=)",
+      "created_at": "2024-03-09T14:25:48.096Z",
+      "trust_level": 0,
+      "username": "BIGSHOT",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2023-10-10T12:00:53.653Z"
+}

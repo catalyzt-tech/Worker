@@ -1,0 +1,40 @@
+{
+  "title": "Linda Xie - Delegate Communication Thread",
+  "content": "After 2 years as an Optimism delegate, I’m stepping down on the Token House\nside. My initial goal was to support Optimism governance during the earliest\nyears and I’m grateful to have been a small part of it. My focus is on building\nBountycaster [https://www.bountycaster.xyz/] which is built on top of Farcaster\nso I’ll be contributing full-time to the Optimism ecosystem in a different role.\nI’ll also remain a badgeholder on the Citizens’ House side until my 2 year mark\n(in Feb 2025).\n\nI really appreciate all of the wonderful people I’ve met and how much I’ve\nlearned through this entire process. I’ve admired how Optimism governance\ncontinued to get better every season with the Collective’s effort and paved the\nway for a lot of innovative governance systems in the crypto space.\n\nThank you to everyone that delegated to me over the past 2 years. To continue to\nsupport Optimism governance, I ask that you please redelegate your tokens to\nanother delegate here: Voter on Agora [https://vote.optimism.io/delegates].\n\n100% of all compensation I received as a delegate was donated ($32.6k) and I’ll\nbe donating the most recent season compensation once received.\n\n * $15k (season 1 and 2) to the EFF\n * $4.6k (season 3) to the Internet Archive\n * $13k (season 4) to UC Berkeley Simons Institute family stipend program\n\nIt’s been a pleasure to be part of the Token House and I’ll continue to see you\nall around, just in a different capacity!\n\ncc @lavande [/u/lavande] @zcf [/u/zcf] @kent [/u/kent] @yitong [/u/yitong]",
+  "views": 518,
+  "like_count": 34,
+  "word_count": 397,
+  "answer": [
+    {
+      "content": "Thank you for all your contributions as a Token House delegate shaping the\ndevelopment of the Collective. This is also a good example of the process\noutlined in the Delegation Resignation Process\n[https://gov.optimism.io/t/delegate-resignation-process/8127/4]. Glad to see\nyou’ll still be involved in the Citizens’ House and in the broader ecosystem\n:heart: [https://emoji.discourse-cdn.com/twitter/heart.png?v=12]",
+      "created_at": "2024-06-02T16:20:28.770Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 6
+    },
+    {
+      "content": "Thanks for all your work as a delegate!!! :muscle:t2:\n[https://emoji.discourse-cdn.com/twitter/muscle/2.png?v=12]\n\nInitially I delegated my OP tokens to you because I see all the work and\ncontribution to the ecosystem, I’m very aligned with your vision, all of that is\nreflected in your new project!!\n\nMany successes with Bountycaster, which by the way is very useful to support\nbuilders in Blockchain.\n\n#AllTheBest!\nLiliop.eth",
+      "created_at": "2024-06-03T05:41:03.359Z",
+      "trust_level": 3,
+      "username": "Liliop.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Thanks Linda for all you do for the community. Best of wishes",
+      "created_at": "2024-06-06T20:19:14.189Z",
+      "trust_level": 1,
+      "username": "charlesfreeborn",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2024-06-01T15:51:39.770Z"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "FAQ Retro Funding “Onchain Builders”",
+  "content": "Continuing the discussion from Retro Funding 4: Onchain Builders - round details\n[https://gov.optimism.io/t/retro-funding-4-onchain-builders-round-details/7988]:\n\n\n[https://europe1.discourse-cdn.com/bc41dd/original/1X/391d6e71a279a9f881f75bfa7df5cdf3cf905b3f.png]Retro\nFunding 4: Onchain Builders - round details\n[https://gov.optimism.io/t/retro-funding-4-onchain-builders-round-details/7988/1]\n\n> No! Retro Funding is expanding to support the Superchain! If you’ve deployed\n> contracts on the following OP chains, and meet the other critera, you’re\n> eligible for Retro Funding 4: OP Mainnet, Base, Zora, Mode, Frax and Metal.\n\nThank you Jonass for considering my recommendation to add FAQ section!!\n:clap:t3: [https://emoji.discourse-cdn.com/twitter/clap/3.png?v=12]\n\n“ Does my project need to be on OP Mainnet?\n\nNo! Retro Funding is expanding to support the Superchain!”\n\nJust as a suggestion, here it could be “No, necessarily” as something that is\nnot mandatory but it’s ok too. Because it could be confused with the fact that\nwe don’t need it to be on OP Mainnet, even if it’s say down. :sweat_smile:\n[https://emoji.discourse-cdn.com/twitter/sweat_smile.png?v=12]\n\nThanks!!",
+  "views": 472,
+  "like_count": 6,
+  "word_count": 659,
+  "answer": [
+    {
+      "content": "Hey @1337 [/u/1337]\n\nFor these questions or support, please post them questions in the\n#retro-funding-discussion channel on the Optimism Discord. You can join the\ndiscussion using this link: Optimism Discord\n[https://discord.com/channels/667044843901681675/972069216343715860].\n\nThanks",
+      "created_at": "2024-05-28T16:50:07.833Z",
+      "trust_level": 4,
+      "username": "dmars300",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "Hey @glory_Sherlock [/u/glory_sherlock]\nIt seems that Sherlock doesn’t meet the requirements for round 4. But you can\ncheck them out here\n\n\n[https://europe1.discourse-cdn.com/bc41dd/original/1X/391d6e71a279a9f881f75bfa7df5cdf3cf905b3f.png]\nRetro Funding 4: Onchain Builder - Application Guidelines\n[https://gov.optimism.io/t/retro-funding-4-onchain-builder-application-guidelines/8165]\nRetro Funding 🔴 [/c/retrofunding/46]\n\n> [image]\n> [https://europe1.discourse-cdn.com/bc41dd/original/2X/b/b81802a94bf723514eb80559771b8a619760688b.jpeg]\n> About Retro Funding Round 4 Retroactive Public Goods Funding (Retro Funding)\n> Round 4\n> [https://gov.optimism.io/t/retro-funding-4-onchain-builders-round-details/7988]\n> will allocate 10m OP tokens to reward onchain builders who have deployed\n> contracts to the Superchain and contributed to the success of Optimism. This\n> round seeks to expand the reach and impact of the network by rewarding those\n> building across the Superchain who have increased demand for blockspace and\n> driven value to the Collective. Builders are eligible who have: Deployed their\n> onchain contracts o…\n\nIf you have any more questions or need support, please post your questions in\nthe #retro-funding-discussion channel on the Optimism Discord. You can join the\ndiscussion using this link: Optimism Discord\n[https://discord.com/channels/667044843901681675/972069216343715860].",
+      "created_at": "2024-05-28T21:03:18.046Z",
+      "trust_level": 4,
+      "username": "dmars300",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "Thanks guys! :heart_hands:\n[https://emoji.discourse-cdn.com/twitter/heart_hands.png?v=12]:red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]\nAll the questions related to RetroFunding4 can do it on discord: Optimism\n[https://discord.gg/optimism]\n\nI’ve also translated into Spanish this document about Retro Fundind #4 for\nHispanic communities: ¿Qué es el Fondo Retroactivo N°4 \"Onchain Builders\" de\nOptimism.… — Liliop.eth\n[https://mirror.xyz/0xE1e5dcbBc95aabE80E2f9c65C7A2cEF85daF61C4/DO5T0ex9oDM2a_eqFclTME4qRHdA5n8_kvOSkUI29U4]\n\nThanks for your support!\nLiliop.eth",
+      "created_at": "2024-05-29T03:58:17.809Z",
+      "trust_level": 3,
+      "username": "Liliop.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "(cont. from prev post)\n\nHey @pfedprog [/u/pfedprog] @DSPYT [/u/dspyt]! Firstly, well done on starting a\nproject that tracks the gas usage with Blockscout team! On closer observation it\nlooks like your definition of gas usage here is a bit different to what i\nexpected… in my opinion, gas usage depends on the perspective.\n\n * if you are counting it for a user, then it should be be counted as the total\n   gas spent by them when transacting.\n * but when counting a contract’s gas usage, you need to calculate the Gas\n   Consumed within a Contract and not the total gas of a transaction.\n\nBy your definition, a transaction interacting with multiple contracts will\nascribe all the gas to just one contract, and it will only count the first\ncontract interacted with, and leave out all other contracts.\nIt need to use the trace to calculate the gas consumed within each contract,\nlike all the explorers that show Gas Consumption Details, like Tenderly\nDashboard [https://dashboard.tenderly.co/explorer] for example.\nYour current approach will show a dex’s pool contract to have Zero Gas Usage\nwhile in reality it might be processing Millions in Volume each day for\nThousands of users!\n\nMaybe @Jonas [/u/jonas] or @Liliop.eth [/u/liliop.eth] should clarify this\nfurther, and share how the OSO is calculating this metric since its very\nimportant to RF4.",
+      "created_at": "2024-05-28T01:19:23.118Z",
+      "trust_level": 1,
+      "username": "1337",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Hi all! I’m Glory, with Sherlock.\n\nFirst off, I appreciate the obvious thought that went into designing this round!\n\nThat said, a quick question - we’ve been a participant in the OP ecosystem for\nquite a long time now, bringing our uniquely effective audit contests to help a\nwide array of OP protocols and developers.\n\nI was looking into applying for Retro Funding Round 4, but hit a blocker in the\napplication process when it asked me to submit our contracts - since our\ncontracts are not on the listed OP chains, I cannot progress. Is there any way\nfor us to bypass this requirement? As an audit provider, we work with OP\nprotocols very frequently, but as a service company our primary work is not on\nany sort of OP contract.\n\nAny advice here would be much appreciated!",
+      "created_at": "2024-05-28T17:29:37.326Z",
+      "trust_level": 1,
+      "username": "glory_Sherlock",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2024-05-24T21:48:32.379Z"
+}

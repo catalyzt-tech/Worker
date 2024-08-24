@@ -1,0 +1,60 @@
+{
+  "title": "Guide to Season 3: Course Correcting",
+  "content": "There will be a session to discuss any and all of the below with the Foundation\nfrom 9:00 - 9:30am PST / 5:00 - 5:30pm GMT on Wednesday, November 9th. Recording\nfrom this session can be found here.\n[https://drive.google.com/file/d/1LtC9Zo4AddHuussmmC0UIYsUJf2qUeVl/view?usp=sharing]\n\n--------------------------------------------------------------------------------\n\nWe’d like to start with a huge thank you to our tireless delegates. We\nappreciate all of your hard work and for being a part of our iterative\ngovernance experiments to date. We know it’s not easy to be the first to try\nsomething.\n\nEach Season is an experiment as the Collective iterates toward its final\ngovernance design. Community feedback has surfaced many learnings during Season\n2, and Season 3 is an opportunity to course correct in the face of some hard\ntruths:\n\n * Delegate Overload: Delegates are overloaded with proposals to vote on, which\n   is leading to lower participation among some top delegates. Placing this\n   level of demand on delegates does not position Token House governance to\n   effectively scale. Ideally, the Token House would infrequently approve high\n   importance decisions and serve as a check on the Citizens’ House. The Token\n   House would not be voting frequently on granular decisions such as individual\n   grant approvals.\n * Proposer Frustration: Proposers find the current grant process hard to\n   navigate and are frustrated with conflicting feedback from delegates. Several\n   protocols have gotten so frustrated that they’ve considered leaving the\n   Optimism ecosystem to work with competitors.\n * Protocol Participation: Protocols are frustrated by debates concerning\n   self-delegation. Protocols are important stakeholders and should have a voice\n   in governance, but delegates are understandably uncomfortable with protocols\n   self-delegating grants to increase voting power.\n * Committee Conflict: Committees helped reduce non-committee member workload,\n   but added complexity to the process and introduced additional confusion for\n   proposers. Conflicts between committees contributed to a dramatic degradation\n   in governance culture.\n * Culture Concerns: Governance culture is not currently reflective of the\n   Collective’s values. Governance conversations have been lacking in civility,\n   respect, and positivity. There hasn’t been an enforceable code of conduct to\n   address inappropriate delegate behavior, which has occurred frequently.\n * Limited Accountability: The impact of Governance Fund grants\n   [https://drive.google.com/file/d/1xJbicknAAN43jMQK4caN9ju3aJwHvbm7/view?usp=sharing]\n   has been disappointing so far. The pace of grant distribution has been\n   aggressive and there is almost no accountability for grant recipients. There\n   have been multiple examples of grant-related transactions well outside the\n   scope of what was outlined in proposals.\n * Undefined Scope: There has been limited guidance on the types of initiatives\n   grants should support. This has led to the over-funding of less effective\n   initiatives (like retroactive airdrops) and the under-funding of\n   strategically important initiatives (like builder grants.)\n\nWhile we have challenges to overcome, delegates have also shown a remarkable\ndedication to Optimism and an impressive willingness to experiment. We’re\nextremely grateful to delegates (and their delegators!) for their dedication\nduring the earliest stages of the Collective. It makes us incredibly optimistic\nabout the future of Token House governance. Experimentation and iteration have\nbeen core to the vision for Optimism governance from the start. We didn’t expect\nto get things right on the first try, and it’s clear we’re ready for some big\nchanges. The below docs outline several initiatives aimed at addressing the\nabove challenges for Season 3.\n\n--------------------------------------------------------------------------------\n\nWe would appreciate community feedback on the following posts:\n\n * Delegate Code of Conduct\n   [https://gov.optimism.io/t/delegate-code-of-conduct/3943]: An enforceable\n   delegate code of conduct to restore a healthy governance culture\n\n * Governance Fund Charter\n   [https://gov.optimism.io/t/governance-fund-charter/3944]: Guidance on the\n   purpose and scope of the Governance Fund\n\nWe would appreciate community feedback on the following proposal drafts. Token\nHouse will vote on final drafts in Special Voting Cycle #9a:\n\n * Draft Proposal: Moving to a Grants Council\n   [https://gov.optimism.io/t/draft-moving-to-a-grants-council/3945]: A proposal\n   to restructure the grants process to overcome the challenges faced by\n   committees, improve the proposer experience, create accountability for grant\n   recipients, and reduce delegate workload\n\n * Draft Proposal: Protocol Delegation Program\n   [https://gov.optimism.io/t/draft-protocol-delegation-program/3946]: A\n   proposal to allow protocols to have a voice in governance without\n   self-delegating grants\n\nIn recognition of the incredible work delegates have done in Seasons 1 & 2:\n\n * Retroactive Delegate Rewards for Season 1 & 2\n   [https://gov.optimism.io/t/retroactive-delegate-rewards-for-season-1-2/3947]:\n   Retroactive rewards in recognition of the incredible work top active\n   delegates have done\n\n--------------------------------------------------------------------------------\n\nThe next few weeks will follow the below schedule, as original outlined in\nGovernance Update #4 [https://gov.optimism.io/t/governance-update-4/3435]:\n\n * Nov 10 - Nov 16th: Off-Season for Committees to allocate the retroactive\n   component of their compensation\n * November 17th - December 7th: Reflection Period\n * Dec 8th - Dec 21st: Special Voting Cycle #9a (voting on grants council and\n   protocol delegation program proposals)\n\nWe are making the following updates to the schedule following Special Voting\nCycle #9a:\n\n * December 22nd - Jan 4th: Holiday break\n * Jan 5th - January 18th: Special Voting Cycle #9b (any proposals contingent\n   upon passing in Special Voting Cycle #9a). If Special Voting Cycle #9b is not\n   necessary, Season 3 may start on January 5th\n * January 19th: Season 3 starts with Voting Cycle #10",
+  "views": 5587,
+  "like_count": 131,
+  "word_count": 1646,
+  "answer": [
+    {
+      "content": "Thank you for all of the work that went into receiving community feedback and\nworking towards improvements. I’m really glad to see the changes being made and\nI’m excited for season 3.",
+      "created_at": "2022-11-09T06:06:37.920Z",
+      "trust_level": 2,
+      "username": "linda",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 22
+    },
+    {
+      "content": "\n[https://europe1.discourse-cdn.com/bc41dd/original/1X/391d6e71a279a9f881f75bfa7df5cdf3cf905b3f.png]\nsystem:\n\n> which is leading to lower participation among some top delegates.\n\nAn equally important problem not addressed here is participation among $OP token\nholders: [Temp-Check] - Give Incentives to Solve Voters Apathy\n[https://gov.optimism.io/t/temp-check-give-incentives-to-solve-voters-apathy/3926]\n\nSo, we both need higher participation of $OP token holders delegating to active\ndelegates, and active participation from delegates.",
+      "created_at": "2022-11-09T09:16:16.626Z",
+      "trust_level": 2,
+      "username": "polynya",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 14
+    },
+    {
+      "content": "This call will take place on Meet:\n\nVideo call link: https://meet.google.com/qkh-kaaj-ptw\n[https://meet.google.com/qkh-kaaj-ptw]\nMore phone numbers: https://tel.meet/qkh-kaaj-ptw?pin=8405857935366\n[https://tel.meet/qkh-kaaj-ptw?pin=8405857935366]",
+      "created_at": "2022-11-09T16:45:55.575Z",
+      "trust_level": 4,
+      "username": "bobby",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 7
+    },
+    {
+      "content": "Even though season 2 felt like “ Two steps forward, one step backward” it’s\nimportant that we continue to experiment and see what works. I look forward to\nseeing the new changes implemented in Season 3, especially with an\naccountability committee.",
+      "created_at": "2022-11-10T15:27:36.936Z",
+      "trust_level": 2,
+      "username": "Bobbay_StableLab",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Call recording accessible here for those that couldn’t join: qkh-kaaj-ptw\n(2022-11-09 09:03 GMT-8) - Google Drive\n[https://drive.google.com/file/d/1LtC9Zo4AddHuussmmC0UIYsUJf2qUeVl/view?usp=sharing]",
+      "created_at": "2022-11-09T19:07:09.874Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 3
+    }
+  ],
+  "created_at": "2022-11-08T19:54:39.504Z"
+}

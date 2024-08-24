@@ -1,0 +1,60 @@
+{
+  "title": "[DRAFT] Establishment of Optimism Chinese Community",
+  "content": "MISSION\n\nOptimism Chinese Community is an organization that spreads the concept of\nOptimism and public goods, aiming to be a bridge between the Chinese-speaking\ncommunity and Optimism, to promote the two-way communication between Optimism\nand the Chinese-speaking community, and to promote the prosperity of public\ngoods.\n\n\nWHY ARE WE DOING THIS?\n\n 1. RetroPGF has a very small percentage of applied Chinese language projects\n\nIn this RetroPGF#3 process, the voice of the Chinese-speaking community is\nrelatively small, with no more than 20 Chinese-speaking community projects known\nto have applied, and Chinese-speaking community projects accounted for less than\n4% of the 644 public goods projects applied for, and there are only 9\nChinese-speaking projects known to have won awards in this RetroPGF#3,\naccounting for 1.7% of the overall number of awards.\n\nName Ballot Pass(≥17) Galxe 47 Yes Dapp-Learning 45 Yes WTF Academy 44 Yes LXDAO\n40 Yes Soul Wallet 39 Yes DeSchool 32 Yes Remix CC 29 Yes MyFirstLayer2 24 Yes\nGoPlus Security 18 Yes Donate3 16 No EIP Fun 14 No coinman 5 No\n\n 2. Too few RetroPGF BadgeHolder holders\n\nVitalik mentioned in RetroPGF#1 that increasing the diversity of regions and\nroles among badge holders would lead to a fairer and more efficient distribution\nof RetroPGF as a whole.\n\nIn RetroPGF#3, we found that there are too few Chinese speakers, and even in the\nRetroPGF discussion, some badge holders don’t know Chinese and can’t evaluate\nthe projects accurately and efficiently.\n\n\n\nimage\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/3/34ace4eadc850af450be4ce758ad4e93150c7a08_2_690x184.jpeg]\nimage1920×512 78 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/3/34ace4eadc850af450be4ce758ad4e93150c7a08.jpeg]\n\n\n\n\n\nimage\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/a/ac06b4d921f586f11c7df1cf595a4b7425d8b933_2_690x268.jpeg]\nimage1920×748 66.1 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/a/ac06b4d921f586f11c7df1cf595a4b7425d8b933.jpeg]\n\n\n\n 3. The Chinese community’s understanding of Optimism and public goods is too\n    low.\n\nIn the Chinese community, many people tend to discuss the coin price, project\ninvestment and research, etc., while ignoring the power of public goods\nconstruction, at the same time, in the Optimism Chinese channel, many people’s\ndiscussions tend to be related to OP airdrops, prices, etc., and no one has\nbothered to seriously study and understand the constructive role that OPs can\nbring in the public goods field.\n\n\n\nimage\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/f/f68a6dba5009630787b8b6ab3f84eddb36e21333_2_543x500.jpeg]\nimage1920×1766 92.2 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/f/f68a6dba5009630787b8b6ab3f84eddb36e21333.jpeg]\n\n\n\n\n\nimage\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/e/e663716f133f8e4a51b45c28239a8540b2c77efb_2_492x500.jpeg]\nimage1920×1951 84.2 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/e/e663716f133f8e4a51b45c28239a8540b2c77efb.jpeg]\n\n\n\nWe are going to set up the Optimism Chinese community around these three issues\nand gather everyone’s strengths.\n\n\nSOME OBSERVATIONS ABOUT THE PUBLIC GOODS ECOSYSTEM IN MANDARIN\n\nIn the Mandarin ecosystem, hundreds of teams are emerging and working to spread\nthe word about cryptocurrency and public goods adoption. We live in a region\nthat faces a huge challenge because not only do we need to teach Web3 in a\n“friendly” way, but we also need to teach the basic concepts of financial\neducation that are not covered in the basic education of most Chinese-speaking\ncommunities.\n\nWith 1.5 billion Chinese speakers, this is a huge population, and we want to\nspread public goods and optimistic visions among Chinese speakers.\n\nIn terms of public goods construction, Chinese is an even bigger population.\nTake open source products as an example, according to the 2022 China Open Source\nContribution Report [https://www.geekpark.net/news/309994], the main indicators\nare as follows\n\n * Chinese open source contributors accounted for 9.5% of the world’s\n * Chinese developer-led open source projects accounted for 12.5% of the world’s\n * China accounts for 20% of the world’s top 50 open source contributing\n   companies\n\n\nWHAT MAKES OUR LEAGUE CAPABLE OF THIS MISSION\n\n\nLXDAO [https://lxdao.io/]\n\nLXDAO, as a DAO supporting the sustainability of public goods and open source\nproducts, has created more than 14 public goods in the past year, and we have\ndeveloped public goods supported by ESP, Filecoin Foundation, MetaMask and Mask\nNetwork.\n\n\nPLANCKERDAO [https://plancker.org/]\n\nFocusing on the Ethernet ecosystem, we help Chinese-speaking areas to establish\necological links and increase the discourse and influence of the Chinese\nlanguage.\n\n\nGCC [https://www.gccofficial.org/]\n\nGeneralized Digital Community for the Global Chinese Community, we support and\nfund public goods that we believe in!\n\n\nDENGCHAIN COMMUNITY [https://learnblockchain.cn/]\n\nA home for blockchain technology enthusiasts\n\nThe commonality of our organizations is the developer community, Chinese\nlanguage organizations supporting the public goods ecosystem, we will spread\nOptimism and the concept of public goods in the Chinese language ecosystem and\neven in the APAC region, to achieve the sustainability of public goods!\n\n\nFIXED MEMBERS\n\nWeekly meeting: Every Wednesday at 20:00 (UTC+8)\n\n1 PM， 1 Developer, 1 Operation/BD, 1 Researcher\n\nPM\n\n * Responsible for organizing basic meetings and coordinating project progress\n * Ensure a deep connection between the organization and Optimism\n * Governance Objective Advancement\n * Op eco-research, output report\n\nDev\n\n * Responsible for optimism development tasks\n * Op technical documentation translation/optimization\n\nOp/BD\n\n * Liaise with people, and event organizing and planning\n * Finding influential and valuable Chinese language public goods projects and\n   helping them apply for RetroPGF\n\n\nHOW TO MOVE FORWARD\n\nWe will be working in three directions: education, governance, and product to\ncoordinate the Optimism ecosystem together.\n\nAs Optimism is about to enter Season 5\n[https://gov.optimism.io/t/guide-to-season-5/6894], we will focus on Season 5\ntasks and carry out a series of activities in the Chinese community.\n\n 1. popularize Optimism content and public goods content to the Chinese\n    community, as well as disseminate public goods developments in the Chinese\n    community to Optimism on a regular basis.\n 2. with Optimism’s support, successfully launch a project at Optimism and\n    receive support from Optimism\n    [https://gov.optimism.io/t/seeking-mission-request-sponsorship/7130]\n 3. regularly output research and articles to spread the word about Op Stack and\n    SuperChain\n 4. organizing regular Optimism promotional events\n 5. Find more valuable Chinese language public goods programs and help them\n    apply for RetroPGF\n\n\nKEY RESULT\n\nContent\n\n * OP Governance content is updated weekly\n * Op in-depth article translations, 3 per month\n * Op Space activities, 2 times per month\n * IRL activities, 1~3 times a quarter.\n\nProduct\n\n * Participate in 1~3 projects in the Optimism ecosystem.\n\nGovernance\n\n * Output 1~3 research reports related to Optimism governance.\n * RetroPGF#4 Increased the number of applications for the Mandarin Public Goods\n   Program to 25+.\n\nImpact will be an important factor in determining the workload, we will evaluate\nthe impact index once a month to unlock part of the rewards.\n\nWe will be the phoenix of the Chinese public goods ecology!",
+  "views": 641,
+  "like_count": 14,
+  "word_count": 1362,
+  "answer": [
+    {
+      "content": "Nice proposal and what an amazing movement of Chinese communities.\nDo you have any previous events or community gatherings that these people had\nspontaneously held?\nIf so, imho it may be eligible to get funded by the RetroPGF.",
+      "created_at": "2023-12-17T22:26:40.002Z",
+      "trust_level": 2,
+      "username": "DAODude_DAOASIA",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "We will also be holding an optimism event in Chiang Mai, Thailand from the 25th\nto the 27th of this month.\nLink: https://twitter.com/Wamo_topia [https://twitter.com/Wamo_topia]",
+      "created_at": "2023-12-18T07:12:34.324Z",
+      "trust_level": 2,
+      "username": "Marcus01",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Thank u！I’ll put together a draft. Great!",
+      "created_at": "2024-01-08T05:05:58.657Z",
+      "trust_level": 2,
+      "username": "Marcus01",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "GM @Marcus01 [/u/marcus01]! If you wish to propose a mission request in this\nregard, my recommendation is to fill out a Mission Request template\n[https://gov.optimism.io/t/delegate-guide-how-to-create-a-delegate-mission-request/6898]\nand post it here\n[https://gov.optimism.io/t/seeking-mission-request-sponsorship/7130] to seek\nsponsorship from a Top 100 delegates.\n\nKey dates for Mission Requests:\n\n\n[https://europe1.discourse-cdn.com/bc41dd/original/1X/391d6e71a279a9f881f75bfa7df5cdf3cf905b3f.png]Missions\nv2: Season 5 [https://gov.optimism.io/t/missions-v2-season-5/6897/1]\n>  * Voting Cycle #17\n>  * Top 100 delegates author and submit Mission Requests (2 weeks)\n>    * Drafts must be posted by 19:00 GMT on January 17th\n>  * Top 100 delegates review Mission Requests (1 week)\n>  * Voting Cycle #18\n>  * Delegates approve Delegate Mission Requests (2 weeks)\n>    * All approvals due by 19:00 GMT on February 7th\n>  * Delegates approval rank Delegate Mission Requests (1 week)\n>  * Voting Cycle #19 and #20\n>  * Grants Council sets submission and selection deadlines in conjunction with\n>    regular Voting Cycles and begins processing grants accordingly\n>  * Teams submit Mission Applications according to deadlines\n>  * Voting Cycle #21 and #22\n>  * Same as Cycle #19 and #20\n\nFeel free to reach out if you have any question :smiling_face:\n[https://emoji.discourse-cdn.com/twitter/smiling_face.png?v=12]",
+      "created_at": "2024-01-05T21:24:54.884Z",
+      "trust_level": 4,
+      "username": "brichis",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "We’ve recently translated the Op stack documentation into Chinese, making it\neasier for more Chinese-speaking optimism fans to read.\n\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/6/652e4424e5750093bd1ca21733c12d71c4baf8ad.png]\nOP Stack Docs [https://opstack-docs-cn.netlify.app/]\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/c/c4831227c9c0f32752f537ee3df940ff746a1e15_2_690x383.png]\n\n\nWELCOME TO THE OP STACK [https://opstack-docs-cn.netlify.app/]\n\nOP Stack是一个标准化的、共享的、开源的开发栈，它为Optimism提供动力，由Optimism Collective维护。 持续跟踪最新状态\n通过订阅Optimism新闻通讯，保持对Superchain和OP Stack的最新了解。. OP Stack由Optimism\nCollective管理和维护的许多不同的软件组件组成，这些组件共同构成了Opt\n\n\n",
+      "created_at": "2023-12-18T07:15:26.362Z",
+      "trust_level": 2,
+      "username": "Marcus01",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2023-12-17T16:59:54.912Z"
+}

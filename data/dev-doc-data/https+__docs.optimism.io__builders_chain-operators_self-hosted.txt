@@ -1,0 +1,92 @@
+title: How to Start a Self-Hosted Chain
+lang: en-US
+description: Learn how to start a self-hosted OP Chain with standard configuration.
+
+import { Callout, Steps } from 'nextra/components'
+
+How to Start a Self-Hosted Chain
+
+This guide provides an overview of how to start a self-hosted OP Chain with standard configuration. It walks you through how to build, configure, test, and launch your OP Chain. To skip ahead to custom features or settings, you can explore the chain operator tutorials.
+
+Build Your Chain
+
+There are two main steps to get started building your own self-hosted OP Chain: learn fundamental components of OP chains and spin up an OP Stack testnet chain.
+
+  To work with OP Chains, you'll need to understand the fundamental components of OP Chains.
+
+Chain Architecture: OP Chains use execution and consensus clients as well as the OP Stack's privileged roles. For more details, see the Chain Architecture guide.
+Smart Contracts: OP Chains use several smart contracts on the L1 
+  blockchain to manage aspects of the Rollup. Each OP Stack chain has its own 
+  set of L1 smart contracts, 
+  L2 predeploy contracts,
+  and L2 preinstall contracts.
+  that are deployed when the chain is created.
+Preinstalls: OP Chains come with preinstalled core contracts, making them usable as soon as a chain is initialized on the OP Stack.
+
+  {Launch Your OP Stack Testnet Chain}
+
+Now, you are ready to spin up your testnet chain.
+Just follow the Creating Your Own L2 Rollup Testnet tutorial to get started.
+
+Configure Your Chain
+
+OP Chains can be configured for throughput, cost, and other decentralization tradeoffs. The following steps are intended for standard configuration of OP Chains.
+
+Configure hot wallets and cold wallets using the guide for Managing Your Keys.
+Refer to the Privileged Roles guide for detailed security information.
+
+  {Make Standard Chain Configurations}
+
+Configure your OP Chain parameters based on your particular tradeoffs. You'll need to configure the rollup, batcher, and proposer for optimal performance.
+Update your batcher to post transaction data within blobs instead of call data to maximize your fee savings.
+Enable snap sync on your OP Chain to significantly improve the experience and speed of syncing an OP Stack node.
+
+  {Set Public RPC Endpoint}
+
+Set the public RPC Endpoint, so your OP Chain can handle large volumes of RPC requests from your users.
+
+  {Enable Analytics for Onchain Data}
+
+Enable analytics tracking for your OP Chain, to immediately generate onchain metrics after mainnet launch.
+
+Test Your Chain
+
+Before launching on Mainnet, thoroughly test and debug OP Chain contracts, features, and security. Here are your options.
+
+  Block explorers allow you to access transaction history and conduct chain debugging.
+
+Option 1: Select an external block explorer to use with your OP Chain.
+Option 2: Deploy your own block explorer for your OP Chain, such as Blockscout.
+
+  {Send Test Transactions}
+
+  As part of testing your OP Chain, you'll need to send test or example transactions to the new network.
+
+Test sending L2 transactions to understand how much load your new chain can handle.
+Trace deposits and withdrawals using the SDK or viem.
+Run basic transaction tests using Metamask.
+
+Launch Your Chain on Mainnet
+
+After testing is complete, you are ready to launch your OP Chain on Mainnet. Optionally, you can also request launch support and subscribe to receive chain upgrade notifications.
+
+Chain Operator Tutorials
+
+Here's a curated collection of chain operator tutorials put together by the Optimism community.
+They'll help you get a head start deploying your first OP Stack chain.
+
+Tutorial Name Description Difficulty Level
+Creating Your Own L2 Rollup Learn how to spin up your own OP Stack testnet chain 🟡 Medium
+Using the OP Stack Client SDK Learn how to use the OP Stack Client SDK when working with native and non-native supported chains. 🟢 Easy
+Adding Attributes to the Derivation Function Learn how to modify the derivation function for an OP Stack chain to track the amount of ETH being burned on L1. 🟢 Easy
+Adding a Precompile Learn how to run an EVM with a new precompile for OP Stack chain operations to speed up calculations that are not currently supported. 🟢 Easy
+Modifying Predeployed Contracts Learn how to modify predeployed contracts for an OP Stack chain by upgrading the proxy. 🟢 Easy
+Pause and Unpause the Bridge Learn how to pause OptimismPortal as a backup safety mechanism on your OP Stack chain. 🟢 Easy
+Integrating a DA Layer Learn how to integrate a new DA Layer with Alt-DA 🟢 Easy
+
+You can also suggest a new tutorial if you have something specific in mind. We'd love to grow this list!
+
+Next Steps
+
+After deploying your chain, check the Rollup Operations guide for common operations you'll need to run with your rollup.
+If you run into any problems, please visit the Chain Troubleshooting Guide for help.

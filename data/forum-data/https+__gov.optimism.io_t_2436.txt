@@ -1,0 +1,20 @@
+{
+  "title": "Node Operators is an excellent use case for Optimism Coin",
+  "content": "To fully decentralize the Optimism Network token holders should be able to run\nnodes and stake their Optimisms in order to demonstrate their commitment to\nmaintaining the node. It is up to the community if their should be a mandatory\nminimum stake in order to be a node operator or if the node operator can just\nstake what they wish. If there is no minimum stake then would those with lower\nstake have to earn the trust of the network before processing transaction on the\nregular. What consequences would a nefarious actor face if they attacked. What\nmechanism would be in place in order to protect the integrity of the system. Not\nhaving a minimum stake requirement offers small holders the opportunity to\nvalidate & help secure the system yet their are risk. Having a mandatory minimum\nstaking requirement provides security since it incentivizes node operators to\nbehave or else face penalties for attacking the network. If we deploy our own\nnodes around the world it will be the most censorship resistant network in the\nworld. I leave it to the community and developers to ponder this proposal.",
+  "views": 1722,
+  "like_count": 2,
+  "word_count": 263,
+  "answer": [
+    {
+      "content": "I agree with you on both sides. If you have a lower entry level you end up with\na more decentralized network. Although if you want a stable network setting the\nentry level a little higher at the start pry helps because, people who have more\ninvested are less likely to dump. In the end though I’m pretty sure most of it\ngoes back to the few anyways lol. Have a good one and Thanks.",
+      "created_at": "2022-08-08T05:58:59.672Z",
+      "trust_level": 1,
+      "username": "GratefulHedge",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2022-06-03T23:52:23.465Z"
+}

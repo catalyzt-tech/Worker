@@ -1,0 +1,9 @@
+{
+  "title": "GovNFT Community Call Thread 2",
+  "content": "Hi GovNFT program participants!\n\nDuring the last community call we went into detail about Retro Funding 5: OP\nStack and the guest voting experiment that will be implemented during the round,\nshare your insights about the topic in this thread.\n\nQuestions to answer:\n\nWhat projects are eligible for Round 5 of retrofunding?\nWhat is the main experiment for Round 5 of retrofunding?\n\nIn case you didn’t attend the call you can watch the recording here.\n\nAs a reminder, thoughtful responses are 20 points. Spam or low-effort posts will\nnot count towards the point total.",
+  "views": 8,
+  "like_count": 0,
+  "word_count": 96,
+  "answer": [],
+  "created_at": "2024-08-15T23:12:23.039Z"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Empowering RetroPGF3 recipients to hire effectively through JobStash",
+  "content": "Hello Optimists and RetroPGF3 recipients,\n\nI’m DuckDegen, the founder of JobStash.xyz [https://app.jobstash.xyz], a\ncrypto-native job aggregation platform dedicated to supporting the crypto\necosystem.\nWith the recent announcement of 501 projects being awarded during RetroPGF3, we\nrecognize the growing need for talent within these projects, especially those\nwith previously limited resources.\n\nBackground JobStash was built with the vision of supporting the entire crypto\necosystem. We offer free job listing services exclusively for crypto-native\norganizations. As these organizations grow, especially within the Optimism\necosystem, the demand for skilled and passionate individuals in various roles\nincreases significantly.\n\nProposal We propose to make JobStash available to service the Optimism ecosystem\nas a public good to support this growth. Our platform can serve as a vital\nresource for these 501 awarded projects and beyond, aiding in their quest to\nfind the right talent and ramp up their operations efficiently, without charging\nthem any fees, and by adding RetroPGF3 visual marks to make them stand out.\n\nBenefits to the Optimism Ecosystem\n\n 1. Free Access to Talent Pool: Projects can list job openings at no cost,\n    tapping into a wide network of professionals passionate about crypto and\n    blockchain.\n 2. Streamlined Hiring Process: With our specialized focus on crypto-native\n    roles, we streamline the recruitment process, making it easier for projects\n    to find suitable candidates.\n 3. Ecosystem Growth: By aiding in efficient team building, we contribute to the\n    overall growth and sustainability of the Optimism ecosystem.\n 4. Community Engagement: JobStash encourages greater community involvement by\n    providing opportunities for community members to actively participate in\n    ecosystem projects.\n\nImplementation Upon consensus that we should move forward, we will:\n\n * Add a visual tag on JobStash Jobs and Organizations to clearly identify\n   RetroPGF3-related Job Listings and Organizations and add appropriate\n   filtering capabilities\n * Offer personalized support to projects for setting up and managing their\n   listings.\n * Engage with the community through regular updates and feedback sessions.\n\nCall to Action We invite the Optimism community to discuss and provide feedback\non this proposal. Your insights are invaluable in ensuring that JobStash aligns\nperfectly with the ecosystem’s needs.\n\nConclusion Our commitment at JobStash is to foster growth and innovation within\nthe crypto space. By supporting the Optimism ecosystem and RetroPGF3 recipients,\nwe aim to build a stronger, more interconnected community, driving forward the\nfuture of the optimistic vision.\n\nThank you for considering our proposal. We look forward to your thoughts and\nfeedback.\n\nBest regards,\nDuckDegen\nFounder, JobStash.xyz [https://app.jobstash.xyz]",
+  "views": 469,
+  "like_count": 5,
+  "word_count": 497,
+  "answer": [
+    {
+      "content": "\n[https://avatars.discourse-cdn.com/v4/letter/d/71c47a/48.png] DuckDegen:\n\n> With the recent announcement of 501 projects being awarded during RetroPGF3\n\nCan I have a link for context, please?",
+      "created_at": "2024-01-18T15:16:32.490Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "Hi @Gonna.eth [/u/gonna.eth] , of course.\nThe job aggregator is live at https://app.jobstash.xyz\n[https://app.jobstash.xyz/] and on telegram at @jobstash\n\nIf you mean the results of retropgf3, here you go:\n\ndocs.google.com\n[https://docs.google.com/spreadsheets/d/1h6hPbRE5w8iJxVhxOSYvkMYz-HC6-lePOegXw-usW5Q/edit#gid=583271201]\nhttps://docs.google.com/spreadsheets/d/1h6hPbRE5w8iJxVhxOSYvkMYz-HC6-lePOegXw-usW5Q/edit#gid=583271201\n\n\nRETROPGF3 RESULTS\n[https://docs.google.com/spreadsheets/d/1h6hPbRE5w8iJxVhxOSYvkMYz-HC6-lePOegXw-usW5Q/edit#gid=583271201]\n\nResults Project Name,ballots,median amount,Quorum reached,OP Received,Project\nProfile Protocol\nGuild,95,668,000.00,663,853.62,https://vote.optimism.io/retropgf/3/applicati...\n\n\n\n\nIs this what you meant?",
+      "created_at": "2024-01-18T15:23:21.189Z",
+      "trust_level": 1,
+      "username": "DuckDegen",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2024-01-17T19:38:00.368Z"
+}

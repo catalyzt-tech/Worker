@@ -1,0 +1,60 @@
+{
+  "title": "Retroactive Delegate Rewards for Season 1 & 2",
+  "content": "RETROACTIVE DELEGATE REWARDS FOR SEASON 1 & 2\n\nThe Optimism Foundation recognizes the incredible work Token House delegates\nhave put in over the last six months. The workload for delegates was very\nintense and we appreciate your dedication, feedback, and willingness to iterate.\nIn recognition of this work, the Foundation will retroactively reward the top\nactive delegates from Seasons 1 & 2.\n\n--------------------------------------------------------------------------------\n\nDelegates with >0.5% voting power are eligible to receive 10,500 OP, if they\nmeet the below criteria.\n\nDelegates with >0.25% but <0.5% voting power are eligible to receive 8,000 OP,\nif they meet the below criteria.\n\nThese criteria, while imperfect, attempt to take into account a delegate’s\nreputation, voting participation, and voting quality. Please remember this\ncriteria is only being used for Season 2 and is likely to change in the future\nSeasons as governance evolves.\n\n\n\nUntitled\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/e/e729fad8f104c24ed24afe0f20ed3498e3566b5b_2_690x359.png]\nUntitled1003×523 49.2 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/e/e729fad8f104c24ed24afe0f20ed3498e3566b5b.png]\n\n\n\nnote: snapshot as of 11/11/22\n\nQualifying delegates:\n\n * OPSNXambassadors.eth (problems voting are well documented, but some examples\n   are here\n   [https://gov.optimism.io/t/synthetix-ambassadors-phase-0-delegation-2m-op-tokens/3726]\n   and here\n   [https://discord.com/channels/667044843901681675/968498307913637919/1037397515500269639])\n * lindajxie.eth\n * polynya.eth\n * Quix\n * lefteris.eth\n * katiegarcia.eth\n * ceresstation.eth\n * griff.eth\n * gfxlabs.eth (problems voting documented here\n   [https://gov.optimism.io/t/gfx-labs-delegate-communication-thread/2728])\n * flipsidecrypto.eth\n * Sugma.eth\n * solarcurve.eth\n * UPennBlockchain.eth\n * MinimalGravitas.eth\n * joxes.defilatam.eth\n * butterbum.eth\n * dhannte.eth\n * ScaleWeb3.eth/superdelegate.eth (address change documented here\n   [https://gov.optimism.io/t/scaleweb3-delegate-communication-thread/3314])\n * hailvitalik.eth\n * stablenodegov.eth\n\nIf you were prevented from fulfilling the voting participation criteria due to\nthird-party application errors, please DM lavande#3900 with evidence of your\nparticipation (transaction hashes, etc.) by end of day Monday, November 21st\n\nIf you met the quality approximation criteria but were not added to the list\nbecause forum name(s) do not clearly tie to your on-chain address, please DM\nlavande#3900 by end of day Monday, November 21st\n\n--------------------------------------------------------------------------------\n\nIn addition to the above rewards, 4,000 OP will be distributed to each member of\nShadow Committee B, in recognition of their contributions during Season 2.\n\n\n\nUntitled (1)\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/6/6c0153b23b3dc5e154dd0f3f64e29c9e9ae6ecfd_2_690x103.png]\nUntitled (1)1002×151 15 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/6/6c0153b23b3dc5e154dd0f3f64e29c9e9ae6ecfd.png]\n\n\n\nShadow Committee B members:\n\n * jackanorak.eth\n * Mastermojo [https://gov.optimism.io/u/mastermojo/summary]\n * Matt L [https://gov.optimism.io/u/mattl/summary]\n * Sugma.eth\n * solarcurve.eth\n\nConsistent with other grant distributions, delegate rewards will be subject to a\nKYC and claims flow process.\n\n--------------------------------------------------------------------------------\n\nIn Season 3, rewards will be pre-defined for all Council positions, if the\nGrants Council [https://gov.optimism.io/t/draft-moving-to-a-grants-council/3945]\nis approved. All other delegate rewards will continue to be allocated\nretroactively. As Collective governance processes are still highly experimental,\nthere may be large shifts in delegate responsibility and activity levels between\nSeasons. Distributing rewards retroactively allows for flexibility in the face\nof this high variability.\n\nOnce governance has stabilized, an ongoing delegate rewards policy may be\nimplemented, subject to a governance vote. This round of retroactive delegate\nrewards will be allocated from the “Unallocated” portion of the Ecosystem Fund,\nnot the Governance Fund (and is therefore not subject to Token House approval).\n\nDelegates are a critical part of Optimism governance. Without delegates, we\ncannot effectively translate individual needs and wants into Collective action.\nWe know participating in Token House governance requires a serious time\ncommitment and are beyond grateful for your engagement in governance, as it\nbenefits the whole Collective.",
+  "views": 3879,
+  "like_count": 73,
+  "word_count": 1251,
+  "answer": [
+    {
+      "content": "Can we include every delegate call host somehow? I think all of them made an\nawesome job and should be compensated for it.",
+      "created_at": "2022-11-16T21:55:31.968Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 6
+    },
+    {
+      "content": "Thank you. This is a good approach.\n\nCan you provide detais about how you define “top active delegates from Seasons 1\n& 2.”\n\nAnd yes this needs to become standardized, not an one-off.",
+      "created_at": "2022-11-09T11:58:29.022Z",
+      "trust_level": 2,
+      "username": "lefterisjp",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "We received a grant in season-2\n[https://gov.optimism.io/t/ready-gf-phase-1-proposal-karma-discourse-forum-plugin/3412]\nto build Delegate dashboard which shows delegate activity. We index delegate\nactivity across snapshot, forum and discord.\n\nWe can segment the data by season to understand delegate activity in voting,\nforum and so on. If we can be of any help, let me know. You can see the delegate\ndashboard here https://optimism.showkarma.xyz/ [https://optimism.showkarma.xyz/]",
+      "created_at": "2022-11-10T19:26:07.166Z",
+      "trust_level": 2,
+      "username": "mmurthy",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "This will be challenging to determine top active delegates from Seasons 1 and 2,\nas alot of stuff was done in DMs and other discord channels.\n\nYou can get an idea of active delegates though by looking at cycle round ups:\n\n\n[https://europe1.discourse-cdn.com/bc41dd/original/1X/391d6e71a279a9f881f75bfa7df5cdf3cf905b3f.png]\nVoting Cycle #8: Roundup [https://gov.optimism.io/t/voting-cycle-8-roundup/3742]\nVoting Cycles [/c/delegates/voting-cycles/44]\n\n> Voting Cycle 8 began on Thursday (October 20th) at 12pm PST / 7pm GMT and runs\n> until Wednesday (November 9th) at 12pm PST / 7pm GMT. A snapshot of delegate\n> voting weights was taken at the start of the Voting Cycle. Voting will take\n> place via Snapshot during Week 3 of the Voting Cycle. The OP Votable Supply on\n> the first day of this cycle was 24,736,433. For a detailed breakdown of the\n> governance and voting process, please see the Operating Manual\n> [https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md].\n> Proposals that are not included in this thread…\n\n\n[https://europe1.discourse-cdn.com/bc41dd/original/1X/391d6e71a279a9f881f75bfa7df5cdf3cf905b3f.png]\nVoting Cycle #6: Roundup [https://gov.optimism.io/t/voting-cycle-6-roundup/3481]\nVoting Cycles [/c/delegates/voting-cycles/44]\n\n> Voting Cycle #6: Roundup Voting Cycle 6 began on Thursday (September 8th) at\n> 12pm PST / 7pm GMT and runs until Wednesday (September 28th) at 12pm PST / 7pm\n> GMT. A snapshot of delegate voting weights was taken at the start of the\n> Voting Cycle. Voting will take place via Snapshot during Week 3 of the Voting\n> Cycle. For a detailed breakdown of the governance and voting process, please\n> see the updated Operating Manual\n> [https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md].\n> Context Voting Cycle 6 is officially underway! Provided your proposal has rec…\n\n\n[https://europe1.discourse-cdn.com/bc41dd/original/1X/391d6e71a279a9f881f75bfa7df5cdf3cf905b3f.png]\nVoting Cycle #7: Roundup [https://gov.optimism.io/t/voting-cycle-7-roundup/3586]\nVoting Cycles [/c/delegates/voting-cycles/44]\n\n> Voting Cycle 7 began on Thursday (September 29th) at 12pm PST / 7pm GMT and\n> runs until Wednesday (October 20th) at 12pm PST / 7pm GMT. A snapshot of\n> delegate voting weights was taken at the start of the Voting Cycle. Voting\n> will take place via Snapshot during Week 3 of the Voting Cycle. The OP Votable\n> Supply on the first day of this cycle was 22,865,350. For a detailed breakdown\n> of the governance and voting process, please see the updated Operating Manual\n> [https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md].\n> Proposals that are not included in th…",
+      "created_at": "2022-11-09T14:11:46.902Z",
+      "trust_level": 2,
+      "username": "mastermojo",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Will the information to identify “top active delegates” be shared publicly?\n\n\n[https://europe1.discourse-cdn.com/bc41dd/original/1X/391d6e71a279a9f881f75bfa7df5cdf3cf905b3f.png]\nsystem:\n\n> Once governance has stabilized, an ongoing delegate rewards policy may be\n> implemented, subject to a governance vote.\n\nUsing Karma [https://www.showkarma.xyz/] will be helpful here. @mmurthy\n[/u/mmurthy] recent proposal can be used to help with identifying active\ndelegates and rewarding them.",
+      "created_at": "2022-11-10T15:31:06.069Z",
+      "trust_level": 2,
+      "username": "Bobbay_StableLab",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    }
+  ],
+  "created_at": "2022-11-08T20:09:44.145Z"
+}

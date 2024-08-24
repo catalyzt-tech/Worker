@@ -1,0 +1,30 @@
+{
+  "title": "Make governance participation more accessible. Where is the governance voting?",
+  "content": "I have been trying to find a list of open proposals for voting and how to vote\non them. However, after a about two hours of googling and exploring websites, I\nam unable to find such menu.\n\n 1. Where is the app to use my OP tokens to vote on proposals?\n 2. Can we add a few button links to this app? For example, probably we should\n    place one such button somewhere in https://app.optimism.io/\n    [https://app.optimism.io/]",
+  "views": 1801,
+  "like_count": 9,
+  "word_count": 153,
+  "answer": [
+    {
+      "content": "https://snapshot.org/#/opcollective.eth\n[https://snapshot.org/#/opcollective.eth]",
+      "created_at": "2022-08-18T16:09:06.780Z",
+      "trust_level": 2,
+      "username": "raho",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Hi @nicszerman [/u/nicszerman]\n\nYou couldn’t find any active votes because the Governance is in a Reflection\nprocess until August 24th. Season 2 will begin in September 8 with Voting Cycle\n#6\n\nYou can read about it here :point_down:\n[https://emoji.discourse-cdn.com/twitter/point_down.png?v=12]\n\n\n[https://avatars.discourse-cdn.com/v4/letter/b/b5a626/48.png] Governance Update\n#3 [https://gov.optimism.io/t/governance-update-3/3232] Governance Updates\n[/c/updates-and-announcements/governance-updates/57]\n\n> Governance Update #3: Time to Reflect Wow–it feels like the past two months\n> have absolutely flown by! This governance update includes a brief recap of\n> Season 1, and a collection of documents which the Optimism Foundation has\n> prepared for Season 2. If you want to shape how Season 2 of OP governance\n> works, now’s your chance – please come contribute to the discussions! Season 1\n> Voting Recap With the conclusion of Voting Cycle #4, Season 1 of Token House\n> governance has officially wrapped! For t…\n\nThe idea of adding a button link in the Optimism page to here Snapshot\n[https://snapshot.org/#/opcollective.eth] is a very good idea",
+      "created_at": "2022-08-19T15:01:14.930Z",
+      "trust_level": 2,
+      "username": "NicoProducto",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2022-08-18T15:28:27.232Z"
+}

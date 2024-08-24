@@ -1,0 +1,60 @@
+{
+  "title": "Security Council Member Nomination: Mariano Conti",
+  "content": "SECURITY COUNCIL MEMBER SELF-NOMINATION TEMPLATE\n\nPlease keep your answers as concise as possible while conveying all relevant\ninformation.\nAll nominations will require 8 Top 100 delegate approvals.\n\nPlease indicate if you are running to be the Council Lead or a Council Member:\n\nCouncil Member\n\nDoes this nomination represent an individual or organization:\n\nIndividual\n\nCandidate country of residence (or, if an entity, incorporation and principle\nplace of business):\n\nArgentina\n\nHave you previously served on Optimism’s Security Council:\n\nYes\n\nHave you previously served on any other Council or Board in the Collective:\n\nNo in the Optimism collective, but yes in other ecosystems.\n\nAre you a representative of OP Labs:\n\nNo\n\nAre you a representative of another OP Chain:\n\nNo\n\nIf you are a delegate, please provide the link to your delegate profile:\n\nN/A\n\nIf you are a member of the Citizens’ House, please link to your most recent\nattestation here:\n\nN/A\n\nPlease outline your contributions, and their impact, to the Optimism ecosystem\nto date:\n\nI’ve been a member of the Security Council Cohort A for the last year, and have\nparticipated promptly whenever I was required to do so. I’m normally available\nfor calls and signing, have a strong technical background and am always Ethereum\naligned :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]\n\nPlease demonstrate any non-Optimism experience you believe is relevant to this\nrole:\n\nI’ve been a member of many communities over the last several years and have\naccrued a good reputation as an honest and capable member.\n\nPlease elaborate on your technical background, including your github handle\n(this will be used to calculate your github expertise score and will be added to\nyour nomination before it goes to a vote by the Foundation):\n\nMy handle is “nanexcool”. I was Head of Smart Contracts at the Maker Foundation.\nWorked on Maker Oracles, Single and Multi-Collateral Dai.\n\nPlease elaborate on your experience with relevant member (or Lead) requirements:\n\nI can read smart contracts, can decode calldata for transactions and am overall\na great member on multisigs.\n\nPlease describe your philosophy on what makes a good Security Council member:\n\nHonesty, technical ability and availability are my three pillars.\n\nPlease disclose any anticipated conflicts of interest:\n\nI am a member of other multisigs, including what might be considered\ncompetition, like Polygon. I disclosed this to all participating members and\nthere’s never been any problem. Everyone still has the same goal: to scale\nEthereum.\n\nPlease verify that you understand you may be removed from this role via the\nRepresentative Removal proposal type in the Operating Manual\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md]:\n\nI understand.\n\nPlease verify that you understand that election is subject to successful\ncompletion of a Foundation screen which may include KYC/AML, sanctions\nscreening, and a requirement to sign a standard contract: [No/Yes]\n\nYes, I understand.\n\nPlease verify that you are able to commit ~5 active hours / month to fulfill the\nMember Responsibilities. Please note that there is an “on-call” aspect to this\nrole that is not fully encompassed in the active hours estimate: [No/Yes]\n\nYes.",
+  "views": 99,
+  "like_count": 9,
+  "word_count": 918,
+  "answer": [
+    {
+      "content": "It’s so good to see Mariano getting involved! I am happy to support him.\n\nI am an Optimism delegate [https://vote.optimism.io/delegates/gonna.eth] with\nsufficient voting power and I believe this proposal is ready to move to a vote.",
+      "created_at": "2024-08-07T14:00:56.752Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "I am an Optimism delegate\n[https://vote.optimism.io/delegates/delegate.l2beat.eth]with sufficient voting\npower and I believe this proposal is ready to move to a vote.",
+      "created_at": "2024-08-07T14:10:10.310Z",
+      "trust_level": 2,
+      "username": "kaereste",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": " * * I am an Optimism delegate\n     [https://vote.optimism.io/delegates/jackanorak.eth] with sufficient voting\n     power and I believe this proposal is ready to move to a vote.",
+      "created_at": "2024-08-07T14:25:24.552Z",
+      "trust_level": 2,
+      "username": "jackanorak",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "The SEED Latam delegation, as we have communicated here\n[https://gov.optimism.io/t/seed-latam-delegate-communication-thread/2950/46],\nwith @Joxes [https://gov.optimism.io/u/joxes] being an Optimism delegate\n[https://vote.optimism.io/delegates/0x94db037207f6fb697dbd33524aadffd108819dc8]\nwith sufficient voting power we believe this proposal is ready to move towards a\nvote.",
+      "created_at": "2024-08-13T11:56:29.261Z",
+      "trust_level": 2,
+      "username": "seedlatam",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "I am an Optimism delegate [https://vote.optimism.io/delegates/brichis.eth] with\nsufficient voting power and I believe this proposal is ready to move to a vote.",
+      "created_at": "2024-08-09T17:19:48.675Z",
+      "trust_level": 4,
+      "username": "brichis",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-08-07T03:13:01.319Z"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "[FINAL] Governor Update Proposal #2: Improvements to advanced delegation allowance calculations",
+  "content": "EXECUTIVE SUMMARY\n\nHi I’m Kent, CTO of Agora. Agora is the governance software company contributing\nto the Optimism token house governor and its frontend at vote.optimism.io\n[http://vote.optimism.io/]. We provide some services to, but do not represent or\nspeak on behalf of, the Optimism Foundation.\n\nThis Governor upgrade introduces improvements to the Alligator allowance storage\nsystem that enabled partial delegation and sub delegation for OP voters. Since\nit’s launch in December of 2023, delegates using advanced delegation, especially\nthose who received delegation using absolute and relative amounts, could have\nended up with less voting power than they should have had. We identified this\nand other related cases where recorded votes were preventing correct calculation\nof voting power, which resulted in the additional tests and the logic refactor\nbeing proposed.\n\nIf this vote passes, the Optimism foundation will upgrade the governor contract\nto the new implementation Agora deployed shortly after the end of the veto\nperiod.\n\n\nMOTIVATION\n\nAs part of the v2 upgrade of the token house\n[https://github.com/ethereum-optimism/ecosystem-contributions/issues/64]we\nshipped in December, we enabled a new feature called “advanced delegation”,\nwhich allows token holders to delegate their voting power to multiple delegates\nwithout splitting their balance. This facilitates governance participation for\nlarge funds, partners and the foundation, who have complex token storage\nrequirements.\n\nThis improvement builds on the real world experience of using advanced\ndelegation and Alligator in the wild and covers scenarios that we did not\ncapture during testing, especially situations such as:\n\nA partially delegates to B and C\nC partially delegates to D and E\nE partially delegates to F\n\nY partially delegates to W and Z\nZ partially delegates to A and F\n\nWithout this change, depending on how these votes were partially delegated\neither via absolute or relative weights, there is a chance that F’s voting power\nwould have been less than it should have been. It’s important to note that this\nhasn’t happened in production, and this update to make sure it doesn’t.\n\nWe identified this and other related cases where recorded votes were preventing\ncorrect calculation of voting power, which resulted in the additional tests and\nthe logic refactor being proposed.\n\n\nIMPACT TO VOTERS:\n\nDelegates with advanced voting power will have a better user experience\nespecially if they find themselves in complex delegation states where some users\ndelegated to them with relative power, and other delegated to them with absolute\npower.\n\n\nNOTE ON TIMING:\n\nWe’re aware that delegates were previously asked to vote on another advanced\ndelegation upgrade proposal, so some may be wondering why these updates were not\nbatched. The reason for this is that, due to auditor availability, we could only\nship the full scope of changes several weeks after they were completed. Some of\nthe changes included improvements to the voting experience – so we worked out a\ndeal with the audit team to audit that part first so that voters may benefit\nfrom that change asap. This current vote is for the rest of the changes.\n\n\nSPECIFICATIONS\n\n\nCONTRACT CHANGED\n\nThe Optimism Governor [https://github.com/voteagora/governor/pull/23/files]\nwould be changed as part of this upgrade. Please review the pull request here:\n\ngithub.com/voteagora/governor\n[https://github.com/voteagora/governor/pull/23/files]\n\nFIX: ALLOWANCE CALCULATION IN ALLIGATOR\n[https://github.com/voteagora/governor/pull/23/files]\n\nvoteagora:main ← voteagora:alligator-allowance-fix\nopened 05:16PM - 16 Mar 24 UTC\njjranalli\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/9/93706ac1a31685324759d97aec99520a8a45d0c5.jpeg]\njjranalli [https://github.com/jjranalli]\n+664 -107 [https://github.com/voteagora/governor/pull/23/files]\n\nfixes how allowances are calculated in complex subdelegation scenarios. the m…\n[https://github.com/voteagora/governor/pull/23]ain correction comes from the\nassumption that: - absolute allowances are related to **all votes cast by a\ndelegate** regardless of authority chains - relative allowances are related to\n**votes cast by a delegate via a certain authority chain** this should fix\nshould solve most scenarios, but more tests (especially fuzz) are needed to make\nsure all edge cases are covered and the desired outcome is always achieved. ---\nNote: this also adds new helpers useful for writing tests -\n`createAuthorityChain` - `createBasicAuthorities`\n\n\n\n\nThe deployed code can be found here:\nhttps://optimistic.etherscan.io/address/0xb7b1c8d8cc590b91623f493af3ee8c0a0a282b74\n[https://optimistic.etherscan.io/address/0x637DA4Eeac836188D8C46F63Cb2655f4d3C9F893#code].\nThere are no state changes to any governance contracts in this upgrade.\n\n\nSECURITY CONSIDERATIONS\n\nThis change has been audited by Open Zeppelin. There were no issues identified\ngiven that it’s a minimal change which doesn’t affect the rest of the contract\nlogic. In the unlikely scenario that we’ll need to make any changes to address\nissues, we’ll update this thread to inform the community on next steps.\n\n\n\nCleanShot 2024-05-17 at 09.42.34@2x\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/4/4cdeb705a4519ca8d0af0544c902acdd0b23d5c9_2_690x266.png]\nCleanShot 2024-05-17 at 09.42.34@2x1234×476 100 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/4/4cdeb705a4519ca8d0af0544c902acdd0b23d5c9.png]\n\n\n\nThe OpenZeppelin Audit Report is attached here\n[https://drive.google.com/file/d/1CrPL2-9PCB0kTdb45SeWFdT_pGkQyhal/view].\nPassword to view is: 1jw2KTKDdJ356UMb\n\n\nIMPACT SUMMARY\n\nAgora does not anticipate any downtime due to this upgrade. As of this proposal\nthere is a small number of users with advanced voting power, therefore the\npotential exposure is minimal.\n\n\nACTION PLAN\n\nIf approved by governance, the Optimism Foundation admin will set the new\nimplementation of governor proxy at 0xcDF27F107725988f2261Ce2256bDfCdE8B382B10\n[https://optimistic.etherscan.io/address/0xcDF27F107725988f2261Ce2256bDfCdE8B382B10#code]\nto new implementation deployed at 0xb7b1c8d8cc590b91623f493af3ee8c0a0a282b74\n[https://optimistic.etherscan.io/address/0x637DA4Eeac836188D8C46F63Cb2655f4d3C9F893#code]\n\nIf a critical security issue is discovered before upgrading, Agora will\ncollaborate with the community to extensively communicate that the upgrade will\nno longer occur.\n\n\nCONCLUSION\n\nThis proposal outlines changes to the governor that will allow for more complex\ndelegation states to be achieved by OP voters using the Alligator contract.\nThese improvements have been audited and no issues have been found.",
+  "views": 967,
+  "like_count": 12,
+  "word_count": 1559,
+  "answer": [
+    {
+      "content": "The SEED Latam delegation, as we have communicated here\n[https://gov.optimism.io/t/seed-latam-delegate-communication-thread/2950/46],\nwith @Joxes [/u/joxes] being an Optimism delegate\n[https://vote.optimism.io/delegates/0x94db037207f6fb697dbd33524aadffd108819dc8]\nwith sufficient voting power we believe this proposal is ready to move towards a\nvote.",
+      "created_at": "2024-05-22T16:52:40.911Z",
+      "trust_level": 2,
+      "username": "seedlatam",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "The SEED Latam delegation, as we have communicated here\n[https://gov.optimism.io/t/seed-latam-delegate-communication-thread/2950/46],\nwith @Joxes [https://gov.optimism.io/u/joxes] being an Optimism delegate\n[https://vote.optimism.io/delegates/0x94db037207f6fb697dbd33524aadffd108819dc8]\nwe VOTE FOR this proposal.\n\nThis changes on the governor goes to the right direction, we’re happy to see\nlive such improvements and requested features.",
+      "created_at": "2024-05-29T18:44:47.183Z",
+      "trust_level": 2,
+      "username": "seedlatam",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "I am an Optimism delegate [https://gov.optimism.io/t/delegate-commitments/235/2]\nwith sufficient voting power and I believe this proposal is ready to move to a\nvote.",
+      "created_at": "2024-05-21T13:53:13.557Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 0
+    },
+    {
+      "content": "I am an Optimism delegate\n[https://gov.optimism.io/t/pgov-delegate-communication-thread/6059] with\nsufficient voting power and I believe this proposal is ready to move to a vote.",
+      "created_at": "2024-05-20T22:44:10.692Z",
+      "trust_level": 3,
+      "username": "PGov",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "I am an Optimism delegate\n[https://gov.optimism.io/t/delegate-commitments/235/18] with sufficient voting\npower and I believe this proposal is ready to move to a vote.",
+      "created_at": "2024-05-21T01:00:44.874Z",
+      "trust_level": 3,
+      "username": "katie",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-05-17T13:45:11.368Z"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Public Reporting Requirements for Grantees",
+  "content": "One of the main focuses of governance is creating more accountability for grant\nrecipients and transparency into how grants are actually being deployed.\nDelegates have begun taking steps towards providing this oversight in the\n#gov-monitoring channel and on the Forum\n[https://gov.optimism.io/t/op-grants-through-season-2-where-has-the-op-gone/4025].\nThe Foundation would like to support these efforts by suggesting standardized\nreporting requirements for grant recipients.\n\nThose submitting proposals are responsible for providing the below data in an\neasy to input format. This data should be publicly accessible and usable by the\ncommunity. This process is easily adaptable, so it can be managed by the Grants\nCouncil, or any alternative structure that prevails.\n\nGrant recipients agree to these reporting requirements in the grant application\ntemplate. There are two obvious opportunities to collect this data from grant\nrecipients: when the Foundation collects KYC info at time of grant approval and\nwhen milestone-based grant distributions are evaluated. On an ongoing basis,\nproposers are incentivized to provide updates as delegates may actively monitor\nthis data, which will be accessible via a public dashboard.\n\nThe goal is to create a set of reporting requirements that results in\nconsistently structured and easy to ingest disclosures without creating a level\nof friction that deters projects from building on Optimism.\n\n\nPROPOSED REPORTING FIELDS\n\nOur goal is to collect all information in a way that:\n\n * Any delegate/analyst can accurately track grant distributions\n * Governance can effectively evaluate growth experiments and continue to\n   iterate\n * Requirements are thorough but lightweight enough to avoid overburdening\n   proposers\n\n*The following information may be entered by proposers in a Google Form.\nAdditionally, completed milestones should be reported via the Grants Council\nMilestone Hub [https://app.charmverse.io/op-grants/rewards] and on the Forum\n[https://gov.optimism.io/c/updates-and-announcements/grant-updates/56] under\n“Grants Updates” tab.*All entries will be publicly viewable by anyone (and\nupdatable by the Foundation or Grants Council, as applicable)\n\n\nFOR GROWTH EXPERIMENT GRANTS\n\nOP Incentive Distribution Schedule: Up-to-date schedule of OP planned,\nin-flight, and completed OP incentives. There should be one entry for each\ndistinct distribution strategy (i.e. Row 1: retroactive airdrop, Row 2:\nliquidity mining on Pool A, Row 3: liquidity mining on Pool B).\n\n 1.  Project Name: Name of project giving out OP\n 2.  Affiliated Project (if applicable): Top-Level project that received OP\n     (i.e. Thales <> Overtime, Gamma/Arrakis/xToken <> Uniswap)\n 3.  Distributor contract address: What address(es) are tokens distributed from?\n 4.  Announcement Date: Date a program was announced\n 5.  Announcement Link: Link to program announcement and details\n 6.  Start Date: Date a program started\n 7.  End Date: Date a program ended\n 8.  Distribution Type: i.e. Liquidity mining, Trading mining, Competition,\n     Retroactive airdrop, Other (explain)\n 9.  OP per Epoch: If a scheduled program, how much OP goes out per epoch (i.e.\n     500 OP)\n 10. Epoch Length: If a scheduled program, how long is the epoch (i.e. 1 week =\n     500 per week)\n 11. App Incentivized: Is usage incentivized on the native app, an external\n     liquidity pool (i.e. DEX pool), something else?\n 12. Contract(s) Incentivized: What address(es) are incentivized (i.e. DEX\n     Router, LP Pool)\n 13. Action(s), Pool(s), etc. Incentivized: What type of action is incentivized\n     (i.e. NFT Purchases, stETH/ETH pool liquidity)\n 14. Eligible Addresses: Is this limited to a specific address list? If so, how\n     many (i.e. retro airdrop) and/or what is the eligibility requirement (i.e.\n     holders of a specific NFT)?\n 15. Extra Notes: Any other information that helps us accurately understand\n     token distribution - Or an explanation if the program’s structure does not\n     fit this structure\n\nOP Internal Transfer Record: List of internal transfers of a project’s OP token\ngrant (i.e. transferring tokens between wallets). This will provide visibility\ninto which tokens have left the project’s provided L2 address, but are not yet\ndistributed.\n\n 1. Project Name: Name of project giving out OP\n 2. Affiliated Project (if applicable): Top-Level project that received OP (i.e.\n    Thales for Overtime)\n 3. Transaction Hash: Transaction hash of the transfer\n 4. Sender Address: Address sending the OP (i.e. the project’s wallet)\n 5. Recipient Address: Address receiving the OP (i.e. the project’s wallet)\n 6. Recipient Address Name: What is the recipient address’ purpose (i.e. entity\n    name, address label)\n\n\nFOR BUILDERS GRANTS\n\nGrant Program Distributions: List of grant payouts for projects who used their\nOP governance grant to run their own grants program. This helps us understand\nthe impact of governance distributions to project grants programs (i.e. what\nsuper cool things came out of the grants programs?)\n\n 1.  Project and Grant Name: Name of grant and project transferring OP\n 2.  Affiliated Project (if applicable): Top-Level project that received OP\n     (i.e. Thales for Overtime)\n 3.  Transaction Hash: Transaction hash of the transfer\n 4.  Sender Address: Address sending the OP (i.e. the project’s wallet)\n 5.  Recipient Address: Address receiving the OP (i.e. the project’s wallet)\n 6.  OP Transferred: Amount of OP Tokens Transferred\n 7.  Recipient Address Name: What is the recipient address’ purpose (i.e. entity\n     name, address label)\n 8.  Grantee Name: Name of the entity receiving the grant (could be generic,\n     i.e. bug bounty, if relevant)\n 9.  Grantee Website/Github/Twitter: Where can we keep up with the grantee’s\n     progress?\n 10. Grant Description: Information about the grant (i.e. purpose, milestones,\n     grant program information)",
+  "views": 4306,
+  "like_count": 60,
+  "word_count": 1254,
+  "answer": [
+    {
+      "content": "I very much agree and support the Public Reporting Requirement for Grantees, I\nthink we just have to make sure to enforce these updates and make sure we have\neverything (being finalization and confirmation) that we would like so that we\ndon’t have to consistently go back and forth with proposers on adding more\ninformation.\n\nI think this is a great start, I think before enacting and enforcing it, we\nshould call and discuss if there are any discrepancies or adjustments we’d like\nto make before it goes to a vote, not after and we’re having proposers scramble\nto find requested information.",
+      "created_at": "2022-12-13T15:04:56.579Z",
+      "trust_level": 2,
+      "username": "HCNAT0_NEU_Blockhain",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 11
+    },
+    {
+      "content": "Tagging in @MSilb7 [/u/msilb7] to help answer questions on response rate and\npublic availability\n\nThe idea was that this reporting information would be publicly available, so the\nMilestones Council could use this information to complete their responsibilities\n(but distribution of the form and compliance with the form is the not something\nthe Milestone Council is expected to monitor)",
+      "created_at": "2024-01-02T15:27:50.236Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 3
+    },
+    {
+      "content": "Following on from @HCNAT0_NEU_Blockhain [/u/hcnat0_neu_blockhain] and sorry in\nadvance if I haven’t kept up to speed…\n\nAre these reports made publicly available? And what has the response from\ngrantees been like, in 2023?\n\nOr, on the other hand, has this reporting and accountability now been shifted to\nthe Milestones Council? I.e. Is this similar to the type of work they were\nalways going to complete?\n\nCheers.",
+      "created_at": "2023-12-22T08:10:39.902Z",
+      "trust_level": 2,
+      "username": "Axel_T",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Hi, responses to this form were used to generate addresses lists to\nappropriately tag token transfers as “internal transfers” vs “distributions.”\n\nThis populates data on a token distributions dashboard\n[https://dune.com/oplabspbc/op-token-distributions] & rewards tracking github\nrepo\n[https://github.com/ethereum-optimism/op-analytics/tree/main/op_rewards_tracking].\nThis outputs of these (along with onchain usage metrics) were applied in this\nincentive tracker dashboard\n[https://dune.com/oplabspbc/optimism-incentive-program-usage-summary] and\npresented in monthly grant performance reporting\n[https://gov.optimism.io/tag/monthly-report] (since deprioritized).",
+      "created_at": "2024-02-05T21:12:44.968Z",
+      "trust_level": 2,
+      "username": "MSilb7",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Thank you very much for the full explanation. Much appreciated, especially for\nthe linked resources. Cheers!",
+      "created_at": "2024-02-06T02:53:36.598Z",
+      "trust_level": 2,
+      "username": "Axel_T",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-12-05T02:04:43.130Z"
+}

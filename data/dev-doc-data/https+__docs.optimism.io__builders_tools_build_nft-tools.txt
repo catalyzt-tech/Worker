@@ -1,0 +1,58 @@
+title: OP Mainnet NFT Tools
+lang: en-US
+description: Learn the basics of creating an NFT on OP Mainnet.
+
+import { Callout } from 'nextra/components'
+
+OP Mainnet NFT Tools
+
+The OP Mainnet NFT ecosystem
+
+The OP Mainnet NFT ecosystem page.
+
+Statistics
+
+Click here for statistics about NFTs on OP Mainnet
+
+Creator tools
+
+These tools are available on OP Mainnet:
+
+NiftyKit
+nft-inator
+Unlock (time-bound NFTs for membership)
+ThirdWeb
+Crossmint
+
+Feature comparison
+
+NiftyKit NFT-Inator Mintplex Zero Code NFT ThirdWeb Crossmint
+Multi-chain 3 5 6 11 1100+ (all EVM chains) 9
+Generator ❌ ✅ ❌ ❌ ❌ ❌
+ERC-20   support ❌ ❌ ✅ ✅ ✅ ❌
+ERC-721A support ✅ ✅ ✅ ✅ ✅ ✅
+ERC-1155 support ❌ ❌ ✅ ❌ ✅ ✅
+DAO support ❌ ❌ ❌ ✅ ✅ ❌
+No Code deployment ✅ ✅ ✅ ✅ ✅ ✅
+Pricing / Fee Flat membership fee plus 2.5%-10% of the sales 2% commission on primary sales Paywall for premium features Test for free, $499 for OpenSea setup See the pricing page for more details Mint API Pricing. NFT Checkouts free for seller (Unlimited transactions).
+Image Hosting NFT storage / Pinata NFT storage / Pinata Up to creators. Recommend Pinata IPFS IPFS IPFS and Arweave.
+
+NFT data APIs
+
+Moralis
+Alchemy
+SimpleHash
+QuickNode
+Reservoir
+NFTScan
+
+Marketplaces
+
+OpenSea
+Tofu
+OptiMarket
+Circular Art
+
+Marketplace aggregators
+
+Bluesweep

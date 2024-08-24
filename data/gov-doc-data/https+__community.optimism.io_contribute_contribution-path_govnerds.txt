@@ -1,0 +1,170 @@
+title: Governance Operations (GovNERDs)
+lang: en-US
+description: The GovNERD Contribution Path is designed to maintain a community of contributors with high context in governance.  
+
+govNERDs Contribution Path
+
+What are govNERDs?
+
+govNERDs are contributors to the Optimism Collective Governance with two primary goals:
+
+Reducing the Foundation's workload in governance operations.
+Onboarding potential contributors and delegates to the Collective.
+
+Responsibilities of govNERDs
+
+govNERDs are responsible for:
+
+Communication: Announcing updates to Citizens and Delegates about proposals, voting cycles, and relevant information.
+Mentorship: Guiding and mentoring potential contributors in governance participation.
+Moderation: Overseeing the Governance Forum and Discord server, answering questions, and assisting projects or individuals.
+Onboarding: Helping new delegates get started and feel comfortable in their roles.
+Support: Assisting projects in applying for Retro Funding.
+
+Who Can Be a govNERD?
+
+This is an open contribution path. Anyone interested in governance and willing to engage in community activities can join the govNERD Contribution Path if they meet the requirements outlined below.
+
+How to Start?
+
+To begin your journey as a govNERD, follow these steps:
+
+Fill out the Wannabe-govNERD Form: Complete this form to express your interest.
+Claim Your Role on Discord: After joining the Optimism Discord server, claim your wannabe-govNERD role here. 
+Read All Governance Documents: Familiarize yourself with key governance documents like the Operating Manual, Code of Conduct, Rules of Engagement, and the Optimism Vision.
+Join Governance Calls: Start participating in governance-related calls, such as grant council meetings and RetroFunding discussions, to deepen your involvement.
+Monitor Available Tasks: Keep an eye on the Notion board for tasks that Maintainers request.
+Propose a Task: If you want to propose a task, follow this tutorial provided to ensure it aligns with govNERD guidelines.
+
+govNERD Roles
+
+The govNERD Contribution Path maintains a community of contributors with high governance context. Contributors can progress through four roles based on their understanding and engagement:
+
+wannabe-govNERDs
+govNERDs-in-training
+govNERDs
+govNERDs-maintainers
+
+Progression Between Roles
+
+Contributors can move from one role to the next by meeting the following criteria:
+
+Duration: They must have held their current role for at least 2 months to filter out bots and low-commitment contributors.
+Activity: They must meet the contribution minimums for their role for two consecutive months.
+Availability: The role they are progressing into must have space, such as available mentors for govNERDs-in-training.
+
+Note: The list of available contributions is not exhaustive and may evolve with each season.
+
+Like all Contribution Path roles, these roles are intended for independent and engaged community members who volunteer to provide their knowledge and expertise to the Collective. These roles come without guaranteed rewards. These volunteers are not employees of the Collective, the Foundation, or any of its affiliates for any purposes.
+
+Detailed Roles and Responsibilities
+
+wannabe-govNERDs
+
+Required Context
+
+Complete the Wannabe-govNERD form.
+Claim the appropriate role in Discord.
+Familiarize yourself with governance documents such as the Operating Manual, Code of Conduct, Rules of Engagement, and the Optimism Vision.
+Participate in relevant calls (e.g., grant council, Retro Funding, governance).
+Stay updated on governance discussions in the forum, Discord, and Telegram.
+
+Available Contributions
+
+Data Collection: Assist in gathering data like delegate proposal endorsements.
+Data Validation: Verify delegate approvals and double-check grant amounts.
+Moderation: Monitor and flag posts on Discord and Discourse for follow-up by govNERDs.
+
+Activity Minimums
+
+Engage in the governance forum for at least 1 hour per week.
+Complete at least one contribution per voting cycle.
+Join at least one community call per month.
+Participate in govNERDs calls (live or asynchronously).
+
+Progress Criteria
+
+To advance to govNERDs-in-training, you must:
+
+Be a wannabe-govNERD for at least 2 months.
+Meet the wannabe-govNERD activity minimums for 2 consecutive months.
+Demonstrate a comprehensive understanding of Optimism governance.
+Show basic knowledge of grants and Retro Funding processes.
+Have an available mentor to guide your progress.
+
+govNERDs-in-training
+
+Required Context
+
+All wannabe-govNERD context.
+Deepen your understanding of grants, Retro Funding, and proposal life cycles.
+If specializing, research the history and previous changes in your chosen specialty.
+
+Available Contributions
+
+Complete govNERD tasks with mentor oversight to ensure quality and alignment with expectations.
+
+Activity Minimums
+
+Engage in the governance forum for at least 2 hours per week.
+Complete at least two contributions per voting cycle.
+Join at least one community call per month.
+Participate in govNERDs calls (live or asynchronously).
+
+Progress Criteria
+
+To advance from govNERDs-in-training, you must:
+
+Be active in this role for at least 2 months.
+Receive a nomination from an existing govNERD.
+
+After achieving the govNERDs-in-training role, you may choose to specialize in one of the Governance Houses (Token or Citizen) or the Grants Council.
+
+govNERDs
+
+Required Context
+
+All context from previous roles.
+Maintain updated knowledge on governance developments.
+Gather and relay community feedback to the govNERD team.
+
+Available Contributions
+
+Attend and participate in community calls.
+Onboard new delegates and governance participants.
+Collect and verify data, such as delegate endorsements and reward distributions.
+Ensure proposals adhere to standards and guide delegates on changes between seasons.
+Mentor new govNERDs-in-training.
+Escalate potential issues or misunderstandings to the Optimism Governance team.
+Monitor and report inappropriate or irrelevant content in the governance forum.
+
+Activity Minimums
+
+Complete at least three contributions per voting cycle.
+Join community calls and participate in govNERDs calls (live or asynchronously).
+Mentor new govNERDs-in-training when available.
+
+govNERD-maintainers
+
+Required Context
+
+All context from previous roles.
+Understand new governance process iterations to inform other govNERDs and delegates.
+
+Available Contributions
+
+Perform all contributions required of govNERDs.
+Maintain and moderate the governance forum, ensuring quality engagement.
+Manage proposal voting announcements and delegate reminders.
+Create and maintain drafts for "Voting Cycles," verified by the Optimism governance team.
+Manage the governance calendar.
+Verify data collected by other govNERD roles.
+Nominate promising wannabe-govNERDs for advancement to govNERDs-in-training.
+
+Activity Minimums
+
+Maintain the same activity levels as regular govNERDs, with additional responsibilities:
+
+Ensure govNERDs have mentees.
+Check in with new govNERDs and govNERDs-in-training on their contributions and experience.
+A more detailed definition of maintainer activity will be developed over Season 6

@@ -1,0 +1,20 @@
+{
+  "title": "About OP Stack Superchain's liquidity benefits",
+  "content": "Can anyone please clear my doubt on how Op Stack superchain will enable unified\nliquidity like Polygon CDK does, or will superchains entirely rely on external\ninteroperability layer or AMMs for this. Thank you in advance.",
+  "views": 133,
+  "like_count": 1,
+  "word_count": 61,
+  "answer": [
+    {
+      "content": "Hello!\nI think it’s best to ask about OP Stack or developer-related inquiries in this\nforum:\n\n[https://github.githubassets.com/favicons/favicon.svg] GitHub\n[https://github.com/ethereum-optimism/developers/discussions]\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/8/8918a8b9b561c1390ce687f828044a253973f2ab_2_690x345.png]\n\n\nETHEREUM-OPTIMISM/DEVELOPERS · DISCUSSIONS\n[https://github.com/ethereum-optimism/developers/discussions]\n\nExplore the GitHub Discussions forum for ethereum-optimism developers. Discuss\ncode, ask questions & collaborate with the developer community.\n\n\n",
+      "created_at": "2024-06-24T13:23:23.886Z",
+      "trust_level": 1,
+      "username": "hashigo",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2024-06-24T13:06:44.596Z"
+}

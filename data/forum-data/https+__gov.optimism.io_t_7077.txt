@@ -1,0 +1,20 @@
+{
+  "title": "31st OP Delegate Call will be [Tuesday November 21st @ 10:00 PT / 13:00 ET / 18:00 GMT / 19:00 CET]",
+  "content": "Hello, my Optimist friends! :sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]\n\nIt’s time for another community call, a place to discuss all things happening in\nthe Token House. We will be having the next one on November 21st, just in time\nto kick off voting cycle #16c.\n\nZoom link: Launch Meeting - Zoom\n[https://us02web.zoom.us/j/84087544843?pwd=cVpweHpEa2drYVRDZ1U0UklYSnR1QT09]\nSlides: November 21st, 2023 community call slides - Google Slides\n[https://docs.google.com/presentation/d/1B28CY_FdBwoBQdatsl58NKxYFAmp1gl2KA9k_qNkYww/edit?usp=sharing]\nSee you there!\nMichael",
+  "views": 599,
+  "like_count": 10,
+  "word_count": 90,
+  "answer": [
+    {
+      "content": "bumping this thread!",
+      "created_at": "2023-11-19T17:15:05.497Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2023-11-08T16:48:58.692Z"
+}

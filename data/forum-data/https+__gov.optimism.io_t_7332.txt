@@ -1,0 +1,9 @@
+{
+  "title": "Season 6 Banner",
+  "content": "Welcome to the Optimism Collective! You can learn more about the Collective’s\nVision and Governance Processes here\n[https://gov.optimism.io/t/about-the-optimism-collective/6118].\n\nSeason 6 begins on June 27th and runs through December 11th. Grant applications\nopen on July 18th and run every 3 weeks through December. You can find all dates\non the public governance calendar\n[https://calendar.google.com/calendar/embed?src=c_4hui70itm089e7t8q50heh1kno%40group.calendar.google.com&ctz=Europe%2FBerlin].\nSee Get a Grant [https://community.optimism.io/docs/governance/get-a-grant/] to\nlearn more about applying for grants.",
+  "views": 398,
+  "like_count": 5,
+  "word_count": 97,
+  "answer": [],
+  "created_at": "2024-01-10T15:32:38.666Z"
+}

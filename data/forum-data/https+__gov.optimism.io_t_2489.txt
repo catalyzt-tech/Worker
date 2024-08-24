@@ -1,0 +1,60 @@
+{
+  "title": "Optimism $OP Buyback and Burn to increase price of the token!",
+  "content": "This consideration is for those who want to discuss increasing the intrinsic\nvalue of the optimism token without taking the route of performing complex\ntechnical/structural maneuvers on the chain such as the ones some other well\nreceived proposals have proposed.\n(Think about stock buy backs)\n\nOptimism Buyback and or burn\n\n * DAO can use profits or a certain share of profits from buy back Optimism\n   tokens.\n\n * Make it a weekly/monthly operation and direct the tokens to a DAO controlled\n   wallet\n\n * Revenues directed to a DAO controlled wallet, effectively removing tokens\n   from supply.\n\nThis is a rather streamlined way to bring value or rather increase the value of\nthe Optimism token by reducing the circulating supply in the market.\n\nRationale\n\nThere is much debate about whether or not there should be emphasis on\n“increasing the price of optimism” and it is apparent from discussions that some\nin the community frown upon the idea doing things to make the price “hike”. Some\nargue that a governance token should be just a governance token and governance\nshould be the only inherent value the token has. So if you are one of those\nmembers, well the rationale below is not for you.\n\nEvery business decision pertaining to Optimism’s governance should be geared\ntowards increasing the Optimism token’s price and NO we should not make short\nsighted decisions to “pump” the price in the short term. Adhering to a core\nbelief of optimism, we should continue with the belief that impact=price.\nHowever, in this industry, whether we like it or not, price of a project’s token\nis how everyone takes a temperature check on the project’s health. Market cap in\nfact is a great indicator of consumer/user confidence and taking measures to\nimprove that will attract more users. We need more users and a greater community\nto create a greater impact. However, how do we attract more users and more\nimportantly how do we attract quality governors? Unfortunately perception is\nreality and we have had a bit of rough launch. How do we signal that we will\nbring value? Nobody wants to spend time “governing” if it doesn’t generate\npersonal gain; why would they? There are plenty of other uses for one’s money.\nAs such there is a great use case for doing something like a buyback and or burn\nprogram in order to gain traction and communicate value propositions.\n\nThere is absolutely nothing wrong with taking measures to increase the value of\nthe token in a way that will garner attention. An announcement of buy back and\nburn is exactly what we need to make noise. Once we make the noise we don’t have\nto worry about coming down hard because the fundamentals are there to carry us\nall the way. As long as we are certain that the product is a 100% there is\nnothing wrong with doing something to demand the price it deserves. This is an\nL2 pioneer.\n\nKeep in mind all the market leaders (ETH, BNB, MATIC etc.) have done some\nversion of a buyback and burn program with great success.",
+  "views": 5098,
+  "like_count": 105,
+  "word_count": 4846,
+  "answer": [
+    {
+      "content": "There is an inherent assumption in these “numba go up” proposals that OP is\nsomehow undervalued or that the price is lower than it should be. I think those\nof us holding OP should be very happy with the current price.\n\nI don’t think we should support schemes that aim to solely benefit holders of OP\nand don’t demonstrate any concrete benefit to the ecosystem.",
+      "created_at": "2022-06-06T02:17:15.836Z",
+      "trust_level": 2,
+      "username": "redmarglar",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 12
+    },
+    {
+      "content": "Instead of focusing on artificial ways to increase the price, we should be\nfocusing on creating proposals that will bring more users to Optimism. This in\nturn will increase the price of the token in a sustainable manner.\n\nThere are a number of projects doing this and have submitted proposals.\nOptimism has created a vision and it’s not about focusing on making token go up.\nIt’s about creating a Desoc that is focused on scaling ETH and retroactive\npublic goods funding.",
+      "created_at": "2022-06-06T18:39:50.101Z",
+      "trust_level": 2,
+      "username": "Vikram",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 8
+    },
+    {
+      "content": "Great Idea :100: [https://emoji.discourse-cdn.com/twitter/100.png?v=12] support\nthis!\n\nOP income model\n\nThere are two types of income: explicit income and MEV.\n\nThe Optimism Foundation runs a single centralized sequencer that is solely\nresponsible for generating Layer 2 (L2) blocks and adding transactions to\nEthereum’s Layer 1 (L1). The sorter fee consists of two parts, the L2 execution\nfee and the L1 data fee.\n\nL2 execution fees are similar to Ethereum gas fees. The amount of fees to be\npaid depends on the complexity of the transaction, i.e. its computational and\nstorage requirements. That’s about 1% of what users pay.\n\nThe L1 data fee is the cost of publishing a batch of transactions to Ethereum.\nThe sorter uses a cost-plus approach, charging users a price higher than the L1\ncost. It currently charges 1.24 times the sum of the gas required to submit a\ntransaction and 2,100 gas. This generates surpluses that will be used to fund\nthe growth of the ecosystem. It’s worth noting that 99% of the fees charged by\nOptimism are L1 data fees.\nSo far, these fees paid by users have brought in $24.5 million in revenue for\nOptimism.\n\nlink to this is here!\n\n\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/apeprince/48/684_2.png]\nEnabling $OP as a gas token on Optimism Network!\n[https://gov.optimism.io/t/enabling-op-as-a-gas-token-on-optimism-network/2362]\n\n> Enabling $OP as a gas token on Optimism Network! red_circle\n> [https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12] star2\n> [https://emoji.discourse-cdn.com/twitter/star2.png?v=12] red_circle\n> [https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12] The $OP token\n> can be used to pay gas fees on the Optimism Network!. This is a major addition\n> to the utility of the $OP token, and will help increase adoption and usage of\n> the Optimism Network!. ETH remains the default gas token, but all users will\n> have the option to change to $OP. Users preferring to stick with ETH gas\n> payments do not have to do anything, but using $OP will result in a 25% gas\n> fee discount! Be…",
+      "created_at": "2022-06-06T01:51:47.273Z",
+      "trust_level": 1,
+      "username": "ApePrince",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 8
+    },
+    {
+      "content": "I can understand why an individual token holder would want the price of their\ntokens to go up. Of course as an individual I feel the same way. But Optimism is\na collective and its goals (amongst other things) are to provide an EVM\nequivalent layer 2 Ethereum scaling solution and to support public goods\nfunding.\n\nDiverting protocol revenue towards token buybacks and burns would reduce the\nprotocol revenue available for public goods funding.\n\nI think that there is merit in considering sharing some of the sequencer revenue\nwith tokenholders in the future once it increases, but probably the best way to\ndo that is as part of the sequencer decentralisation.",
+      "created_at": "2022-06-06T02:26:29.408Z",
+      "trust_level": 2,
+      "username": "redmarglar",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": "\n[https://avatars.discourse-cdn.com/v4/letter/i/34f0e0/48.png] IceQueen:\n\n> Some argue that a governance token should be just a governance token and\n> governance should be the only inherent value the token has. So if you are one\n> of those members, well the rationale below is not for you.\n\nLet’s be creative about this. Instead of Burning supply based on network/token\nmetrics let’s just burn the tokens people want to use for governance. That said,\nwe could burn OP for soulbound NFTs indicating the amount of tokens burned and\nthis amount would be the voting Power. Holding OP, providing liquidity or\nwhatever people want to do with OP wouldn’t give voting power, it would be\nentirely speculative but anyone willing to participate in governance would need\nto burn OP.",
+      "created_at": "2022-06-06T13:14:30.451Z",
+      "trust_level": 2,
+      "username": "Prometheus",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    }
+  ],
+  "created_at": "2022-06-06T01:35:42.948Z"
+}

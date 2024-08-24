@@ -1,0 +1,30 @@
+{
+  "title": "About the Community Calls category",
+  "content": "(Replace this first paragraph with a brief description of your new category.\nThis guidance will appear in the category selection area, so try to keep it\nbelow 200 characters.)\n\nUse the following paragraphs for a longer description, or to establish category\nguidelines or rules:\n\n * Why should people use this category? What is it for?\n\n * How exactly is this different than the other categories we already have?\n\n * What should topics in this category generally contain?\n\n * Do we need this category? Can we merge with another category, or subcategory?",
+  "views": 581,
+  "like_count": 6,
+  "word_count": 11,
+  "answer": [
+    {
+      "content": "Thank you very much!",
+      "created_at": "2023-02-01T08:12:01.039Z",
+      "trust_level": 0,
+      "username": "Pilenikus",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Hi to you very good pump project",
+      "created_at": "2023-09-23T06:12:26.119Z",
+      "trust_level": 0,
+      "username": "Faisal",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2023-01-19T15:33:57.298Z"
+}

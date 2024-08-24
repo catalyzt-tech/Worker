@@ -1,0 +1,30 @@
+{
+  "title": "Cycle 22 - Grants Submission Roundup",
+  "content": "Cycle 19 has concluded (announcement here\n[https://gov.optimism.io/t/cycle-19-final-grants-roundup/7850]) with significant\nprogress towards building on Optimism. With a total of 314 Mission Request\napplications received during Cycle 19, surpassing the entire Season 4’s count of\n304 applications, it’s evident that the community’s engagement and commitment\nare growing.\n\nIn Cycle 22, the Grants Council (GC) received 230 submissions, marking a slight\ndecrease compared to the previous cycle. However, it’s notable that the quality\nof submissions appears to have improved, reflecting a more refined understanding\nof project needs and objectives.\n\nHere is the link with all the applications considered for Cycle 22\n[https://docs.google.com/spreadsheets/d/1wY_7P_m0AggVaZG1L_uh6k27iFODVcvMxc052jiXXE8/edit?usp=sharing]\n\nKey Considerations:\n\n 1. Finalists Transition: Finalists from Cycle 19 who were not awarded grants,\n    comprising 54 out of 106, will be carried forward as finalists for Cycle 22.\n    These finalists are marked in blue on the linked document, indicating their\n    continued consideration for funding.\n 2. Application Review: With 284 applications to review during Cycle 22, the GC\n    faces the task of carefully evaluating each submission to identify projects\n    with the greatest potential for impact and alignment with the mission’s\n    request objectives.\n 3. Season 5 Conclusion: As this is the final round of Season 5, grantees for\n    Cycle 22 will be announced on May 8th, marking the culmination of another\n    successful season of grants and innovation.\n 4. Quality Improvement: Despite a decrease in the number of applications\n    compared to the previous round, the overall quality has shown improvement.\n    To address potential budget constraints in certain mission requests, a\n    proposal for the token house will soon be published by GC to increase the\n    budgets of some of the mission requests.\n\nWhile many of these applications may not proceed beyond the intake filter and\npreliminary review stages, the raw data provided can serve as valuable insights\nfor analytics purposes.\n\nAs we progress into Cycle 22, the optimism and dedication of the community\nremain strong. By leveraging insights from past cycles and embracing\nimprovements, we are poised to support impactful projects that contribute to the\ngrowth and development of the ecosystem. The GC looks forward to announcing the\ngrantees on May 8th and continuing to foster innovation and collaboration in the\nseasons to come.",
+  "views": 1228,
+  "like_count": 10,
+  "word_count": 477,
+  "answer": [
+    {
+      "content": "Updated thank you!\n\nWe are requesting more budget for this mission request here: Season 5: Intents\nBudget Proposal #2\n[https://gov.optimism.io/t/season-5-intents-budget-proposal-2/7937]\n\nWe still need 1 approval to move to the token house vote.",
+      "created_at": "2024-04-08T15:38:43.143Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 3
+    },
+    {
+      "content": "@Gonna.eth [/u/gonna.eth] We already changed our grant size to 50000 and hope\nmore teams can join this MR\n[https://gov.optimism.io/t/ready-to-vote-alternative-cl-el-client-mission-request/7363].\nCould you help modify the excel? CharmVerse - the all-in-one web3 space\n[https://app.charmverse.io/op-grants/op-besu-an-op-stack-execution-client-based-on-hyperledger-besu-2818630304747294]",
+      "created_at": "2024-04-06T04:04:44.254Z",
+      "trust_level": 2,
+      "username": "grapebaba",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-04-05T11:46:59.983Z"
+}

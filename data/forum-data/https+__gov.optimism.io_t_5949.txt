@@ -1,0 +1,60 @@
+{
+  "title": "Delegate Discovery Initiatives",
+  "content": "DELEGATE DISCOVERY INITIATIVES\n\nOver the past few months, we’ve heard feedback from delegates that\ndiscoverability could be improved for smaller or less visible delegates. Below\nwe outline a few lightweight ideas that could drive increased visibility to\nsmaller delegates ahead of Season 4. Please provide feedback and/or additional\nsuggestions ahead of next week’s community call (on 05/09). We’ll discuss which\ninitiatives to put energy behind following the community call.\n\n * Host an open design workshop with Agora to brainstorm delegate sorting\n   mechanisms that provide viable alternatives to the current sorting mechanism,\n   which is based on voting power or number of delegators :white_check_mark:\n   [https://emoji.discourse-cdn.com/twitter/white_check_mark.png?v=12]\n * Run a twitter campaign on @OptimismGov, where everyone can tag the delegates\n   they believe deserve more delegation. This would create a public list\n   delegators can refer to when delegating\n * Ask delegates with <0.5% voting power to recommend delegates with >0.25%\n   voting power. This would also create a public list on the forum that\n   delegators may refer to when delegating. :white_check_mark:\n   [https://emoji.discourse-cdn.com/twitter/white_check_mark.png?v=12]\n * We could experiment with “an elected delegation contract” that enables tokens\n   to be delegated to a contract which would then pass that delegation through\n   to a set of delegates determined via Token House election (eligibility may be\n   subject to reqiurements such as KYC, etc.) If there is sufficient interest in\n   setting up such a process, the Foundation could create or incorporate this\n   into an RFP.\n * Delegates may register\n   [https://notionforms.io/forms/delegation-week-registration] to participate in\n   Tally’s upcoming delegate week [https://delegationweek.com/] (May 22-26)\n   :white_check_mark:\n   [https://emoji.discourse-cdn.com/twitter/white_check_mark.png?v=12]\n * [Your suggestions here]\n\n--------------------------------------------------------------------------------\n\nSuggestions from community call on 5.23.23\n\n * Add a page to the Optimism Governance Portal that walks newcomers through why\n   they should delegate and provides a step-by-step guide to doing so\n * Experiment with ways to incentivize re-evaluation of delegates to make sure\n   delegates are active and/or aligned\n   – gasless re-delegation [Handful of protocols doing this during Delegation\n   Week]\n   – directly incentivizing people (with tokens) to re-affirm or re-evaluate\n   their delegate [Hop is experimenting with this]\n   – automatic expiration of delegation on periodic basis [Maker does this, with\n   mixed results]\n * Propose a Mission that is focused on bringing in x # of new delegates per\n   Season\n * Allow the locked OP allocated to Builders Grants to be delegated (various\n   implementation options)\n * Allow Citizens’ to endorse Token House badgeholders and create a\n   corresponding sorting view on the delegate UI",
+  "views": 3367,
+  "like_count": 87,
+  "word_count": 2721,
+  "answer": [
+    {
+      "content": "Low-hanging fruit for sorting mechanism: sort by a combination of activity and\nvoting power. E.g. voting on >90% proposals actively will rank a delegate with\n0.1M OP higher than one voting <70% but with 2M OP\n\nA more abstract but long-term idea: delegate discovery rewards. I.e. if you are\nearly to delegate to someone with 0.1M OP delegated, promote them, and they make\nit to 1M or 2M OP or whatever, you get a reward. The earlier you find them, and\nthe bigger they get, the more your reward. It could potentially be gamed if one\nhas access to millions of OP, but governance could subjectively disqualify as\nthose with millions of OP are few and very visible. This can be combined with\ndelegation rewards (which is much more important right now, given the very low\nparticipation of stake even for well known delegates) we had discussed earlier\nto further decrease the possibility of gaming it.",
+      "created_at": "2023-05-03T05:51:09.327Z",
+      "trust_level": 2,
+      "username": "polynya",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 12
+    },
+    {
+      "content": "Wanted to give a quick update! We just launched a new sorting feature: “Weighted\nRandom”\n\nOne of the items to tackle was more sorting options, so we decided to start with\na random sort to start (also inspired by RetroPGF)\n\nWeighted Random: Instead of pure random, it’s a random sort where your\nprobability of appearing is proportionally higher based on your voting power.\nArgument for this is that this ordering is provably fair, because if token\nholders always delegate to the first person on the delegate list this ordering\nmechanism results in the replication of the existing distribution. (Credits to\n@Jonas [/u/jonas] and Vitalik for the sort logic, thank you! :pray:\n[https://emoji.discourse-cdn.com/twitter/pray.png?v=12])\n\n\n\nScreenshot 2023-07-11 at 10.22.38 AM\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/9/9801592f978477cb8b5ab0f1c9ac736b9e8eeb6d_2_690x478.jpeg]\nScreenshot 2023-07-11 at 10.22.38 AM1920×1331 199 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/9/9801592f978477cb8b5ab0f1c9ac736b9e8eeb6d.jpeg]\n\n\n\nThis is just the start, but figured we start tackling some items from the\nfeedback list.\n\nWe got lots more to do of course, we’re also seeing and getting feedback and\npaying attention to the “Season 4 feedback” thread. Excited to keep improving on\nthis – lots more to build :heart:\n[https://emoji.discourse-cdn.com/twitter/heart.png?v=12] :mechanical_arm:\n[https://emoji.discourse-cdn.com/twitter/mechanical_arm.png?v=12]\n\nAnd please, if you have any feedback for this or ideas, don’t hestiate to drop\nthem here, in the doc, or DM me anytime!",
+      "created_at": "2023-07-11T17:55:34.709Z",
+      "trust_level": 2,
+      "username": "zcf",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": "This seems like an interesting approach toward discoverability:\n\n\n[https://europe1.discourse-cdn.com/bc41dd/original/1X/391d6e71a279a9f881f75bfa7df5cdf3cf905b3f.png]\nsystem:\n\n> Ask delegates with <0.5% voting power to recommend delegates with >0.25%\n> voting power. This would also create a public list on the forum that\n> delegators may refer to when delegating.\n\nIn line with the third bullet, interesting experimentation with new contracts\nexists. Using Season 4 as a model - alliances could be adopted between delegates\nbig and small.\n\nA new contract could be created for a single season, delegating to a group of\ntwo or three delegates.\n\nAt the end of the season, the amount delegated to that contract is split equally\nby each delegate.\n\nMay be difficult on the admin side - but would be great to create deeper\nrelationships among delegates and let folks align based on values, skillsets, or\nvisions for OP.",
+      "created_at": "2023-05-02T14:45:22.234Z",
+      "trust_level": 2,
+      "username": "fig",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "We are running into this “delegate discovery” problem across the governance\necosystem. A few delegate sorting (ish) ideas we’ve been thinking about at\nTally:\n\n * Filter for delegates that are “actively seeking delegations”. This could be\n   something the Collective requires active delegates to select, or it could be\n   pulled from activity on recent votes (similar to @polynya [/u/polynya]’s idea\n   of mixing delegate activity into the sorting mechanism).\n * Create an “Emerging delegates” view. Prioritize delegates outside of the\n   current top 50 by voting power (for example) who have recently received\n   delegation. Another way this could be done is to prioritize delegates who\n   have recently received new delegation by the percentage of their current\n   total voting power that the new delegation represents. This would favor\n   delegates who currently have lower voting power but are actively receiving\n   delegation.\n * Run a delegate competition specifically for smaller delegates. The Collective\n   would select from a new potential crop of aspiring larger delegates based on\n   an application process, narrowing down to perhaps ten. Then, those ten\n   delegates would campaign for 1-2 weeks in the Collective trying to attract\n   re-delegated votes, followed by a 1 week re-delegation period.\n\nI think it would be interesting to run a test of one or more of these ideas,\nanalyze the results, and share with the Collective. We would love to have the\nopportunity to run such a test on Tally, but are happy to support regardless.\n\nOne side note: I think it’s important to retain the delegate view that sorts by\nvoting power as an option for users to select, even if it is not the default. I\nthink there will always be a desire to know who the biggest delegates are and\nhow much voting power they have.\n\nExcited to contribute to this discussion!",
+      "created_at": "2023-05-08T23:38:48.979Z",
+      "trust_level": 1,
+      "username": "Frisson",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "GM!\n\nIt would be great to have a program where delegates with higher voting power\nmentor delegates with lower voting power and less experience, who are interested\nin learning best practices and recommendations to become a great delegate. This\ncould empower both parties and create a positive network among governance\nplayers. Perhaps there could be an attestation for mentors who have mentored a\ncertain number of mentees.",
+      "created_at": "2023-05-03T19:34:42.394Z",
+      "trust_level": 4,
+      "username": "brichis",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 5
+    }
+  ],
+  "created_at": "2023-05-02T09:42:04.407Z"
+}

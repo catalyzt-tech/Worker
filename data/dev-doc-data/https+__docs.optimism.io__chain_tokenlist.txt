@@ -1,0 +1,16 @@
+title: Bridged Token Addresses
+lang: en-US
+description: This reference guide lists the correct bridged token addresses for each token.
+
+import { Callout } from 'nextra/components'
+import { TokenListTable } from '@/components/TokenListTable'
+
+Bridged Token Addresses
+
+Various ERC-20 tokens originally deployed to Ethereum also have corresponding "bridged" representations on OP Mainnet.
+The Superchain Token List exists to help users discover the correct bridged token addresses for each token.
+This page is automatically generated from the Superchain Token List.
+
+OP Mainnet
+
+OP Sepolia

@@ -1,0 +1,40 @@
+{
+  "title": "Ratification: Law of Chains",
+  "content": "RATIFICATION: LAW OF CHAINS\n\nThe proposal constitutes a ratification of the Law of Chains. The Law of Chains\nis one of the most important governing documents of the Optimism Collective. The\nLaw of Chains is not a procedural specification or playbook for Optimism\nGovernance to enact decisions in a multi-chain context. Instead, it is a\nneutrality framework intended to reliably inform governance decisions.\n\nYou can reference the full draft of the Law of Chains here\n[https://gov.optimism.io/t/law-of-chains-v0-1-full-draft/6514].\n\nA section-by-section summary can be found here\n[https://gov.optimism.io/t/law-of-chains-v0-1-section-by-section-overview/6515].\n\nThank you to the delegates for leaving valuable community feedback on the draft\nover the past several months. We’ve responded in a series of responses starting\nhere [https://gov.optimism.io/t/law-of-chains-v0-1-full-draft/6514/23].\n\n\nWHAT DOES THE LAW OF CHAINS MEAN FOR GOVERNANCE?\n\nThe Law of Chains forms the basis for many processes and accountability\nstructures in governing the Superchain. In upcoming Seasons, community members\ncan expect to apply the Law of Chains in the following ways:\n\n * Season 5 will introduce an Allowlist of acceptable sequencers for OP Chains\n   to use. This Allowlist will be maintained by governance: sequencers can\n   submit a proposal to the Token House to be added to this Allowlist.\n   * Token House voters should evaluate the proposed sequencers’ commitment to\n     upholding the Law of Chains in deciding whether to approve them or not.\n   * Token House voters may also vote to remove a sequencer from the Allowlist\n     if the sequencer is in violation of any part of the Law of Chains (for\n     example, if the sequencer is impermissibly censoring user transactions).\n * Future protocol upgrades should be evaluated to understand their impact to\n   each stakeholder in the Superchain (users, chain governors, and chain\n   servicers), along with the platform as a whole, so voters can make sure each\n   protocol upgrade continues to uphold the Law of Chain’s assurances.\n\n\nRATIFICATION\n\nIf ratified, the Law of Chains will be appended as an addendum to the Working\nConstitution\n[https://gov.optimism.io/t/working-constitution-of-the-optimism-collective/55].\nProcedures for Optimism Governance to implement the Law of Chains will then be\nadded to the Operating Manual\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md] (for\nexample, a process for sequencer additional or removal).\n\nAs outlined in the Operating Manual, Token House Ratification requires a 51%\napproval threshold (30% quorum).",
+  "views": 2749,
+  "like_count": 14,
+  "word_count": 567,
+  "answer": [
+    {
+      "content": "Will be voting for ratification. Document looks fine and seems to evolve nicely\nwith time",
+      "created_at": "2023-11-10T10:33:05.053Z",
+      "trust_level": 2,
+      "username": "lefterisjp",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "The below response reflects the views of L2BEAT’s governance team, composed of\n@kaereste [/u/kaereste] and @Sinkas [/u/sinkas], and it’s based on the combined\nresearch, fact-checking and ideation of the two.\n\nHaving had the questions we asked in the thread that introduced the Law of\nChains V0.1 [https://gov.optimism.io/t/law-of-chains-v0-1-full-draft/6514]\nanswered, we vote in favor of the proposal, as we see it as a very good first\nstep to codify and hold accountable the dynamic relationship between different\nstakeholders in future superchain ecosystems.",
+      "created_at": "2023-11-15T07:23:15.101Z",
+      "trust_level": 2,
+      "username": "kaereste",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Voted For,\nThe law of chains will be instrumental for the growth of the Superchain. I am\nglad to see constant adjustments in our attempt to making a complete and\nneutral/fair document",
+      "created_at": "2023-11-15T07:40:28.729Z",
+      "trust_level": 2,
+      "username": "Butterbum",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2023-11-01T15:44:43.258Z"
+}

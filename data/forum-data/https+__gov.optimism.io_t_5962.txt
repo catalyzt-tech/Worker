@@ -1,0 +1,60 @@
+{
+  "title": "[Recording + Summary] 20th OP Community Governance Call *DATA EDITION*",
+  "content": "Hey Everyone!\n\nRecording Link: May 9th, 2023 optimism community call recording.mp4 - Google\nDrive\n[https://drive.google.com/file/d/1-3VOQvjRUe-gKharF14Qe2Ep-1nGwAcY/view?usp=share_link]\n\nCall Summary:\n\n * Vote now!\n   \n   * Agora link [https://vote.optimism.io/proposals] (always verify link\n     yourself)\n   * Voting on 5 proposals, 4 of which are intent budgets and 1 is the protocol\n     delegation program\n\n * Grants data analytics\n   \n   * This topic made up the majority of the call\n   * HUGE shoutout to @chuxin_h [/u/chuxin_h] and @MSilb7 [/u/msilb7] for the\n     work they’ve put into this\n   * @Msilb7 [/u/msilb7] went over this notion doc\n     [https://oplabs.notion.site/May-2023-Governance-Call-OP-Rewards-Analytics-Highlights-42a918873376476d90bfe326179591e7]\n     which summarizes the data and provides the main highlights of analysis\n   * Full report is here: May 2023 - Governance Call OP Rewards Analytics Update\n     [https://gov.optimism.io/t/may-2023-governance-call-op-rewards-analytics-update/5974]\n   * If you want to continue the discussion, check out the #analytics\n     [/tag/analytics] channel on discord. There is also summary on ways to\n     contribute here: How to Contribute: OP Rewards Analytics\n     [https://gov.optimism.io/t/how-to-contribute-op-rewards-analytics/5975]\n   * One idea to improve metrics is to track user journeys. For example, is a\n     user “new, normal, or super” and tracking the delta between them.\n   * Question on how these analytics get integrated into grants decisions.\n     Answer: on the governance fund side, everything is public and it’s up to\n     the community and council members to leverage the information. On the\n     partner fund side, sometimes protocols have reached out with program design\n     questions.\n   * R.e. where do transaction fees go? Right now to network costs (L1) and\n     RPGF. In the future, this may be decided by the community.\n   * Overall there are some hard questions we should consider as a community.\n     For example, what is a “good” increase in TVL per grant dollar spent? How\n     can we track the metrics upstream of developer growth?\n   * Improving front-ends for data is another spot where contributions are\n     welcome\n\n * Grant’s council nominations will start Thursday with voting beginning one\n   week later\n\n * While we didn’t have time to discuss it, the delegate discover initiative is\n   a valuable conversation happening here: Delegate Discovery Initiatives\n   [https://gov.optimism.io/t/delegate-discovery-initiatives/5949]. We will try\n   to open up discussion next cal on May 23rd.\n\n * It could be worthwhile to do a discord community chat around these data\n   topics in the near future.\n\n * We are also working on doing a discord community chat with Jesse from Base\n   about Superchain! Look out for announcements there.\n\nSlides: May 9th, 2023 community call slides - Google Slides\n[https://docs.google.com/presentation/d/10EjVdURkSuhgyx3uqBSoeBN91_aQHQUar-UeAMwURfM/edit?usp=sharing]\n\nSee you May 23rd!\nMichael :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12] :sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]",
+  "views": 1650,
+  "like_count": 38,
+  "word_count": 807,
+  "answer": [
+    {
+      "content": "No need to apologize to anyone, it’s always great having your presence there and\ndeveloping a better understanding is the whole point of these things!\n\nAsking a question even without understanding fully is important because there’s\na good chance other more quiet people may be wondering the same things. I’m\nhoping you continue to speak up in the future :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12] cheers!",
+      "created_at": "2023-05-09T19:21:50.105Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Put up a reminder, thanks for the notification here\n\nDon’t forget to hit the record button this time hah :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]",
+      "created_at": "2023-05-07T18:56:41.853Z",
+      "trust_level": 2,
+      "username": "Mark.eth_De.Fi",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Slides can be followed here: May 9th, 2023 community call slides - Google Slides\n[https://docs.google.com/presentation/d/10EjVdURkSuhgyx3uqBSoeBN91_aQHQUar-UeAMwURfM/edit?usp=sharing]",
+      "created_at": "2023-05-09T17:01:04.227Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "The whole purpose of these meetings is for community members to join and ask\nquestions! Your presence and participation provides value for everyone and it’s\ngreat having you! :heart:\n[https://emoji.discourse-cdn.com/twitter/heart.png?v=12]",
+      "created_at": "2023-05-12T13:14:21.663Z",
+      "trust_level": 3,
+      "username": "katie",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Greetings,\nThanks for this announcement. I will be there.",
+      "created_at": "2023-05-08T01:27:39.268Z",
+      "trust_level": 2,
+      "username": "cryptoAYA",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2023-05-06T22:06:34.957Z"
+}

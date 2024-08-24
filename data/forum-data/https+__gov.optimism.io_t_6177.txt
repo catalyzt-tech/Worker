@@ -1,0 +1,60 @@
+{
+  "title": "RetroPGF Round 3 Feedback Thread",
+  "content": "A place for badgeholders to provide feedback on a series of anouncements\nproviding more insight into Round 3. We will also be kicking off monthly\ncommunity calls to collect feedback from badgeholders and conduct a series of\nsmall workshops as we prepare for Round 3. More details on calls to follow, for\nnow please leave your feedback here.\n\n * Announcing RetroPGF Round 3\n   [https://optimism.mirror.xyz/oVnEz7LrfeOTC7H6xCXb5dMZ8Rc4dSkD2KfgG5W9cCw]",
+  "views": 10753,
+  "like_count": 739,
+  "word_count": 30793,
+  "answer": [
+    {
+      "content": "Hello fellow badgeholders! I wanted to start a conversation for feedback from\nthis round so we can share our experiences and make improvements for the next\nround.\n\n\nTOO MANY PROJECTS\n\nThe biggest piece of feedback from the last round was that the volume of\nprojects applying was overwhelming, but somehow this round we ended up with 6\ntimes the amount of projects, so it feels like that piece of feedback wasn’t\nheard. Imo there needs to be some kind of barrier to entry for applicants, and\nnot put the responsibility entirely on badge holders to review such an insane\namount of projects, most of which are out of scope.\n\n\nLISTS\n\nLists are a great idea in theory but not in practice, which is the case with\nmany things in governance. There’s no level of expertise required to make a\nlist, so we’re seeing a large amount of lists that include low impact projects\nwhich then highlights them to other badge holders. This is harmful because low\nimpact projects receiving funding takes away from high value projects receiving\nfunding that have actually contributed to the ecosystem in significant ways.\nThere have been some useful aspects of lists, like I have personally looked at\nsome of the technical lists. But overall, I think lists are more harmful than\nhelpful.\n\n\nVOTING EXPERIENCE\n\nThe voting experience this round has been slightly better, but I have a few\npieces of feedback I shared with the agora team before voting started that I\nthink could make it better\n-have the ability to mark a project as seen or “don’t put in ballot” option\n-have the ability to allocate percentages as well as dollar amount\n-get rid of the lists function\n\nI was also under the impression that there were going to be tools incorporated\ninto the voting experience, like what happened to Pairwise?\n\n\nSUMMARY\n\nReally my biggest piece of feedback is that we need a way to filter projects\napplying so we don’t end up with over 600 projects again, most of which are low\nimpact. I realize this is still very early stages for retro PGF but I am really\ndisappointed in how this round is going and I’m hoping we can make some big\nimprovements going forward.\n\nI would love to hear the opinions and experiences of others so we can hopefully\nwork together to make the experience better for badgeholders and applicants as\nwell. Thank you for all of your hard work!",
+      "created_at": "2023-11-29T20:04:15.470Z",
+      "trust_level": 3,
+      "username": "katie",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 28
+    },
+    {
+      "content": "If I had to give a single positive bit of feedback it would be that amount of\neffort being expended, the care people are taking in making votes, and the high\nlevel of discourse is really nice.\n\nIf I had to give a single negative bit of feedback it would be that it seems\nincomprehensible to me why there was not a question on the application form\nconcerning VC funding. Clearly, this should be included. Especially if you’re\nasking for how much funding a project has received from grants. (And make it\nmore clear that this only meant grants from the Optimism community, as I’ve seen\nsomeone say – if that’s the case.) I’m not making a comment on whether or not VC\nfunded projects should be included, just that you must ask for the number if\nyou’re going to ask for grants. It’s very unfair otherwise.",
+      "created_at": "2023-11-29T20:31:58.210Z",
+      "trust_level": 2,
+      "username": "tjayrush",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 13
+    },
+    {
+      "content": "I feel you Katie.\n\nAs a RPGF apolicant, i have seen that few badge holders completely discarded The\nOptimist media and just added it back in their list cause i raise the interest.\n\nSame feedback was given: Ooops we miss you out of the 600 projects\n\nI feel that smaller projects are passing below the radar due to this.",
+      "created_at": "2023-11-29T20:32:17.327Z",
+      "trust_level": 2,
+      "username": "Subli_Defi",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 11
+    },
+    {
+      "content": "I think it’s impossible to expect every badge holders to go through 600+ project\nand vote on them. It’s also quite impossible for a lesser known project to be\nvoted on by enough badge holders for quorum. Last round was more fair for\nsmaller or lesser known projects as there was no minimum vote requirement. The\nresult would probably be only the most well known projects are funded that get\nthe lion’s share of the OP, while the majority of applicants get nothing or\nstruggle to reach Quorum. I know there is 1 week left but for now it’s not a\ngreat look.\n\nOur project brought in 25k coinbase users and is being overlooked while some\nproject that created game that no one plays can potentially be getting hundreds\nof thousands of OP.",
+      "created_at": "2023-11-29T22:04:40.683Z",
+      "trust_level": 1,
+      "username": "Cryptofox",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 9
+    },
+    {
+      "content": "It would be helpful to have guidelines on what constitutes a separate\napplication if the work is done by the same parent org but involves different\nset of contributors.",
+      "created_at": "2023-07-20T09:52:21.895Z",
+      "trust_level": 2,
+      "username": "jengajojo",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 8
+    }
+  ],
+  "created_at": "2023-06-21T16:28:25.483Z"
+}

@@ -1,0 +1,50 @@
+{
+  "title": "[DRAFT] [GF: Phase 1 Proposal] Elk.Finance",
+  "content": "Project Name: Elk.Finance\n\nAuthor Name: Thundercat\n\nNumber of OP tokens requested: 140,000 $OP\n\nL2 Recipient Address: 0xE1c0e5AC8aB0Dab88E682B9a8653Bc7a943fB80F\n\nRelevant Usage Metrics: (TVL, transactions, volume, unique addresses, etc.)\n\nOverall, the ElkNet has helped 52,000 Unique addresses transfer value,\nfacilitating 324,597 transfers totaling 119,383,245 $ELK. Our multi-chain TVL\nsits around 3.1M, with a volume of around 400,000.\n\nOn Optimism, since May 4th, the ElkNet has facilitated 470 transfers, totaling\n323,636 $ELK. Our Optimism TVL sits around 70,000, with a volume of around\n3,000.\n\nOptimism alignment (up to 200 word explanation):\n\nElk.Finance’s Optimism journey started on May 4th, 2022. Two deployments went\nlive. Firstly, a decentralized exchange, including single staking and farms with\ncustom impermanent loss protection. Secondly, our proprietary cross-chain\nbridging infrastructure, ElkNet, not only connected the Optimism to 18 other\nblockchains but also provides a “Swap for Gas” feature which allows users to\nobtain gas as part of the bridging process. It is efficient and safe, having\nmaintained 100% uptime with every ELK successfully sent and received since its\ninception.\n\nOur support does not stop at deployment. ElkNet will inherit all performance\nupgrades, new network deployments, and cross-chain products on Optimism.\n\nWe aim to provide the Optimism blockchain with three things:\n\n * A safe, scalable, decentralized alternative bridging solution, with\n   additional developments such as CHFT (an over-collateralized cross-chain\n   stablecoin).\n * Additional bridging connections through our deployment on other EVM and\n   non-EVM blockchains.\n * Foster the growth of the Optimism ecosystem by being an active participant in\n   future Optimism campaigns and leveraging our team’s experience to highlight\n   protocols through our active business development and marketing initiatives.\n\nProposal for token distribution (under 1000 words):\n\nThe tokens will be distributed to support the long-term development of our\ncross-chain infrastructure, grow protocol-owned liquidity to support\nlow-friction transactions into Optimism, and provide some incentives for users\nto come and explore the ecosystem.\n\n60% Team 84,000 $OP\nThe Elk.Finance team is committed to building novel advancements to further the\ngrowth of decentralized finance. This year we aim to develop our SDK for\ndevelopers and platforms to build on ElkNet; add Cross-Chain Swap functionality;\nrelease Alpha and Beta versions of Bridging-as-a Service, integrate onto non-EVM\nblockchains, and create $CHFT, a cross-chain over-collateralized stablecoin. All\ndevelopments will be supported on ElkNet Optimism.\n\n35% Protocol Owned Liquidity 49,000 $OP\nWhile liquidity mining incentives are exciting, we believe that a more\nsustainable solution is protocol-owned liquidity. Our proposal is for $OP tokens\nto be paired with $ELK to support higher base liquidity for ElkDEX, allowing for\nbetter value transactions. This will provide a better and more predictable\nexperience for users entering Optimism and signal a more long-term approach to\nnetwork and protocol health.\n\n5% Liquidity mining incentives 7,000 $OP\nA small allocation of liquidity mining incentives will be used strategically to\nbring awareness to Elk.Finance, Optimism, and its ecosystem participants.\n\nHow will the OP tokens be distributed?\n\nTeam\n\nAs for team allocations, the 84,000 $OP tokens will be deposited into a smart\ncontract that will allow, approximately, a monthly 17% claim. (distributed over\n6 months)\n\nProtocol Owned Liquidity\n\n49,000 $OP paired an equal amount of $ELK, locked as protocol-owned liquidity to\nsupport the transfer of value into Optimism through $ELK.\n\nLiquidity Mining incentives\n\nThe distribution of these tokens will be used strategically within the Elk\nplatform. They could be emitted to support our NATIVE(ETH)-ELK, pair to bolster\nthe bridge liquidity for Cross-Chain Swaps, or added to our single stake pools\nfor our users to be exposed to $OP.\n\nHow will this distribution incentivize usage and liquidity on Optimism?\n\nAs we develop, enhance and innovate our infrastructure and cross-chain\nmechanisms, the inflow of users and value to Optimism will increase.\nElk.Finance’s unique value proposition is its ability to scale: to deploy on and\nconnect to many blockchains easily. Today, ElkNet supports the transfer of value\nthrough the ELK token to many EVM networks, but in future, we will allow\nprotocols to build atop our ElkNet, bridge many tokens, and support non-EVM\nnetworks too. Our SDK will provide an easy on-ramp for non-native projects\n(including NFT projects), to utilize and migrate to Optimism as it grows.\n\nProviding funds for ELK LP bolsters our POL, strengthens our bridge, and makes\nviable a base transaction of about $500. Outside of emissions, users can expect\na more predictable swap into Optimism from myriad other blockchains.\n\nAllocating a portion of tokens for liquidity mining allows Elk.Finance to be\nversatile in its approach to bringing users across to Optimism from other\nnetworks, as well as acquiring new users from within the Optimism ecosystem.\n\nWhy will the incentivized users and liquidity remain after incentives dry up?\n\nUsers will stay because the plan does not rely heavily on liquidity mining\nincentives. Creative initiatives, education materials, and technology\nadvancements, accompanied by reasonable $OP rewards, should result in a higher\nuser “stickiness” rate.\n\nOver what period of time will the tokens be distributed?\n\n$OP tokens will be distributed over 6 months. $ELK will be distributed over 365\ndays.\n\nHow much will your project match in co-incentives?\n\nFor the 60% team allocation, we will match 1:1 by:\nElk.Finance will distribute 160,000 ELK over 365 days between the ETH-ELK,\nOP-ELK, and Stable-ELK pairings on Optimism.\n\nWe will match the 35% of $OP for POL 1:1\n48450 of $OP with 98425 of $ELK\n\nWe will match the 5% allocation 1:1\n6767 $OP with 12857 $ELK",
+  "views": 1704,
+  "like_count": 2,
+  "word_count": 1048,
+  "answer": [
+    {
+      "content": "you have a good proposal but supporting development is not part of Phase 1\nfunding goal.\nMy suggestion would be to submit the proposal again once SDK is ready for OP\nchain and you can see some usages.",
+      "created_at": "2022-07-06T16:28:57.199Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Echoing this. Phase 1 isn’t meant to fund your dev costs but bring users to\noptimism.",
+      "created_at": "2022-07-13T10:47:46.314Z",
+      "trust_level": 2,
+      "username": "Bobbay_StableLab",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "\n[https://avatars.discourse-cdn.com/v4/letter/t/dbc845/48.png] Thundercat:\n\n> This year we aim to develop our SDK for developers and platforms to build on\n> ElkNet\n\nthis SDK will be OP chain specific ?\n\nlove that you are matching the incentive in $ value of OP",
+      "created_at": "2022-07-06T15:38:54.406Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "Good question.\n\nThe SDK is chain agnostic.",
+      "created_at": "2022-07-06T16:25:24.630Z",
+      "trust_level": 1,
+      "username": "Thundercat",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-07-06T13:49:06.600Z"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "6th OP Community Governance Call [October 11th @ 10am PT / 1pm ET / 7pm CET]",
+  "content": "Hi everyone,\n\nWe have our sixth community governance call scheduled for next Tuesday, October\n11th at 10am PT / 1pm ET / 7pm CET. I’ll be stepping in to host since many of\nyou are busy at DevCon.\n\nThe call is open to anyone in the OP Community to join. Please add topics to the\nagenda below and I will make sure to include them!\n\nCurrent Agenda:\n2022/10/11 Optimism Bi Weekly Governance Call - Google Slides\n[https://docs.google.com/presentation/d/1ogCn2V1kw0Y9D29iEbQbCGG2GFnh6hXP7kSwwQW6Css/edit#slide=id.p]\n\nMeeting Details:\nGoogle Meets: https://meet.google.com/phq-rcsr-dva?authuser=4&hs=122\n[https://meet.google.com/phq-rcsr-dva?authuser=4&hs=122]",
+  "views": 1843,
+  "like_count": 8,
+  "word_count": 161,
+  "answer": [
+    {
+      "content": "This post [https://gov.optimism.io/t/recap-community-call-6-october-11th/3682/2]\nhas a full recording of the meeting and summary of notes, I think will be more\nuseful than the slides!",
+      "created_at": "2022-10-12T12:35:57.904Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 2
+    },
+    {
+      "content": "missed the call and can’t access the slides unfortunately. could you make access\npublic? thx",
+      "created_at": "2022-10-12T10:09:52.112Z",
+      "trust_level": 2,
+      "username": "ScaleWeb3",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "the same that Scaleweb.\ntoo late for me :wink: [https://emoji.discourse-cdn.com/twitter/wink.png?v=12]",
+      "created_at": "2022-10-14T06:02:27.011Z",
+      "trust_level": 1,
+      "username": "undercreuse",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-10-07T20:46:25.503Z"
+}

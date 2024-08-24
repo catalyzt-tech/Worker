@@ -1,0 +1,60 @@
+{
+  "title": "[ARCHIVED] Missions close",
+  "content": "S4 Intent 40 [https://gov.optimism.io/t/collective-intents/5874/2]: Spread\nAwareness of the Optimistic Vision\n\nProposed Mission: Increase the number of Peruvian university builders in the OP\necosystem to create more products within this network. In addition, support them\nwith tools and educational resources to build blockchain clubs in universities.\n\nOur metrics so far\n\n+50 face-to-face events organized\n\n+80 attendees per event.\n\nOrganization of more than 2 blockchain and web3 hackathons in Peru.\n\n+800 members in our main communication channel.\n\n+3000 followers on all social networks (Youtube, Instagram, Twitter, Linkedin,\nTiktok)\n\nMore about Andino:\n\n\n\nFgVA79eXgAACbi2 (1)\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/4/485face6c81f6750b974bad5e3f5dc6ff5935e3c_2_690x388.jpeg]\nFgVA79eXgAACbi2 (1)2048×1152 365 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/4/485face6c81f6750b974bad5e3f5dc6ff5935e3c.jpeg]\n\n\n\nThe main blockchain media talk about our missions and achievements as a\ncommunity:\n\nPlease verify that you meet the qualifications for submitting at the above Tier:\nIf an Alliance is comprised of individual contributors tiers, the Tier at which\nthat Alliance may submit should be the Tier at which the Alliance Lead\nqualifies.\n\nWe also want to get feedback from the OP ecosystem.\n\nPlease check here if access to upfront capital is a barrier to completing your\nMission and you would like to be considered for a small upfront cash grant:\n[yes/no] There is no guarantee that all approved Missions will receive cash\ngrants. Yes, because we will have some expenses before the event (not\nsignificant)\n\nsocial networks:\n\nLinkedin | Andino [https://www.linkedin.com/company/andino-dao/]\nInstagram | Andino [https://www.instagram.com/andinodao/]\nTik tok | Andino [https://www.tiktok.com/@andinodao]\nWhatsApp Group [https://chat.whatsapp.com/HMwENgYBbnX5Qag9lz9YDR]\nDiscord | Andino [https://discord.gg/SKGnyD5t]\n\nPlease explain how this Mission will help accomplish the above Intent:\n\nThe Optimism Tour is a traveling program that will tour the main universities in\nPeru for a period of 2 months. During this time, we will conduct a series of\nblockchain-related events and activities to foster learning and collaboration\namong university students from engineering, business, marketing, medical and\narts faculties. These events will include talks, hands-on workshops, panel\ndiscussions and networking sessions, about the Optimism ecosystem.\n\nThese clubs will serve as communities of students interested in blockchain,\nwhere they can share knowledge, collaborate on projects and explore research and\ndevelopment opportunities in the blockchain field.\n\nAt the end of the program, we will organize an inter-university hackathon where\nstudents from all participating blockchain clubs will be able to put into\npractice their skills and knowledge acquired during the program. The hackathon\nwill be an exciting and challenging competition that will allow students to work\nin teams and develop innovative solutions based on the Optimism network where we\nwill provide prizes in Optimism tokens to accelerate the use of the network\nwithin the Peruvian university community.\n\nWhat makes your Alliance well-suited to execute this Mission?\n\nThis is the first time we participate in an Optimism application, but we have\nseen the support that optimism provides to communities around the world and we\ndo not want Peru to be the exception, we want to share the mission and\nopportunities that the OP ecosystem is providing to our community of developers\nand young creators.\n\nAndino has been contributing a lot to the Peruvian blockchain ecosystem for more\nthan a year and a half now, providing a friendly ecosystem to learn, develop and\nundertake emerging technologies such as blockchain.\n\nWe provide resources, educational opportunities and nationwide competitions on\nblokchain such as university hackathons for men and women as we seek gender\nequality in technology.\n\nWe are a community of over 800 active members who hold frequent weekly, monthly\nand annual events such as meetups, workshops and hackathons in Peru.\n\nPlease list the critical milestone(s) that should be tracked to determine if you\nshould receive your grant in one year:\n\n 1. Build blockchain clubs in universities.\n 2. Organization of 4 meetups in different universities.\n 3. Organization of an inter-university hybrid hackathon in Peru.\n\nHow should Token House delegates measure progress towards this Mission: These\nshould focus on progress towards completion. Including expected completion dates\nfor each.\n\nPlease review the following document: Important Milestones.\n[https://docs.google.com/document/d/1cvd272h0_391FCLG06_agdxcy9M11F7n6HLZzCMiUT0/edit?usp=sharing]\n\nHow should badgeholders measure impact upon completion of this Mission? These\nshould be focused on performance and may be used by badgeholders to assess your\nMisson’s impact in the next round of RetroPGF.\n\nKPI #1: Student participation: We will measure student participation in each\nprogram event, including the number of attendees and the level of engagement\nduring the activities. This will allow us to assess the interest and acceptance\nof the program among students.\n\nKPI#2: Project development: We will measure the number and quality of projects\ndeveloped by blockchain clubs during the program. This will allow us to evaluate\nthe level of active participation of the students and their ability to apply the\nconcepts learned in practical projects.\n\nKPI#3: Student feedback: We will collect feedback and evaluations from\nparticipating students to assess their satisfaction with the program and gather\nideas for future improvements. This will help us adapt and improve the program\nin future iterations.\n\nBreakdown of Mission budget request:\n\nI. Creation of the blockchain club in 4 universities, support to attendees,\nincluding educational material in Spanish, organization of 4 meetups with main\nfaculties of each university, documentation in an online platform, final reports\nand KPI tracking:\n\nII. Creation of a marketing plan for the dissemination of the 4 organized\nmeetups, such as design of publications, advertisements on social media\nplatforms.\n\nII. Planning, organization and execution of the inter-university hackathon where\nthe logistics of the event, mentoring, programming workshops during the\nhackathon, providing travel to the organizing team will be managed. In addition\nto the creation and execution of a marketing plan for hackathon registrations.\n\nII. Hackathon prizes 10.000 OP\n1st place: 5.000 OP\n2nd place: 3,000 OP\n3rd place: 2,000 OP\n\nI confirm that my grant will be subject to clawback for failure to execute on\ncritical milestones: Yes\n\nI confirm that I have read and understand the grant policies\n[https://gov.optimism.io/t/token-house-grant-policies/5833]: Yes\n\nI understand that I will be required to provide additional KYC information to\nthe Optimism Foundation to receive this grant: Yes\n\nI understand that I will be expected to following the public grant reporting\nrequirements outlined here\n[https://gov.optimism.io/t/suggested-public-reporting-requirements-for-grantees/4176]:\nYes",
+  "views": 8006,
+  "like_count": 42,
+  "word_count": 3447,
+  "answer": [
+    {
+      "content": "This behavior is not appropriate or tolerated in this community.",
+      "created_at": "2023-06-29T01:42:54.221Z",
+      "trust_level": 3,
+      "username": "katie",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": "I don’t know the confilcts of the Peru community, but I think you just violated\nthe code of conduct that is written in this forum, here I leave you to read it.\nI think this goes against the values of the Optimism Collective. Please read\ncarefully and respect the spirit of this governance.\n\n\n[https://europe1.discourse-cdn.com/bc41dd/original/1X/391d6e71a279a9f881f75bfa7df5cdf3cf905b3f.png]\nGuidance on Severe Violations of the Rules of Engagement\n[https://gov.optimism.io/t/guidance-on-severe-code-of-conduct-violations/5729#h-2-doxxing-7]\nAccountability 🗂️ [/c/accountability/62]\n\n> 0. SCOPE When talking about harassment it is important to understand who and\n> what can be harassed. We believe that everyone deserves to be treated with\n> respect and kindness. This means treating people with kindness regardless of\n> what you think they have done (i.e., even if you think they are scamming\n> others). No one deserves to be harassed. Harassment is about how you treat\n> them and has nothing to do with what they are doing. 0.1 HARASSMENT VS.\n> CRITICISM Before we get into they types of hara…\n\n\n\nimage\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/4/4269e02c77d45523f1f9de7342c6a12b640fa86b.png]\nimage823×683 38.2 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/4/4269e02c77d45523f1f9de7342c6a12b640fa86b.png]\n\n",
+      "created_at": "2023-06-29T00:03:17.489Z",
+      "trust_level": 2,
+      "username": "AxlVaz",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "As a contributor of @seedlatam [/u/seedlatam] for the @Joxes [/u/joxes]\ndelegation, I have analyzed this mission following the criteria mentioned in\nthis post\n[https://gov.optimism.io/t/seed-latam-delegate-communication-thread/2950/31].\n\n * The proposal follows the standard template and is detailed\n * The requested funds seem in line, although the team should remember the\n   Policy they will need to abide Grant Token Lock Explainer\n   [https://gov.optimism.io/t/grant-token-lock-explainer/5060]\n * The proposed scope is beneficial to the drivers LATAM and Optimism need,\n   although the timeline seems a bit tight for a hackathon organization within\n   the time frame.\n\nTherefore, I am IN FAVOR of this mission and the delegation will be using the\nstandard template to confirm this.",
+      "created_at": "2023-06-27T19:39:03.281Z",
+      "trust_level": 2,
+      "username": "Netrim",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Thank you @Netrim [/u/netrim]\n\nI am an Optimism delegate with sufficient voting power\n[https://vote.optimism.io/delegate/joxes.eth], and I believe this proposal is\nready to move to a vote.",
+      "created_at": "2023-06-27T19:47:19.600Z",
+      "trust_level": 2,
+      "username": "Joxes",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Sounds good to me. The only university I’ve ever visited in Peru was in Huanuco,\nbut I assume all of these are in Lima? Anyway, happy to support your mission to\nbring Optimism to more students. Fresh brains come with fresh ideas so hopefully\nthis works out well.\n\nI am an Optimism delegate\n[https://vote.optimism.io/delegate/minimalgravitas.eth] with sufficient voting\npower and I believe this proposal is ready to move to a vote.",
+      "created_at": "2023-06-27T21:43:24.514Z",
+      "trust_level": 2,
+      "username": "MinimalGravitas",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    }
+  ],
+  "created_at": "2023-06-21T18:33:13.402Z"
+}

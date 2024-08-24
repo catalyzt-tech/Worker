@@ -1,0 +1,9 @@
+{
+  "title": "Introducing MarkitLend US Consumer Credit Strategy",
+  "content": "I’d like to take a moment to introduce the Community to MarkitLend and our\nConsumer Credit Strategy.\n\nMy partner, Fernando Sanchez, and i started MarkitLend 7 years ago in order\nexecute an investment strategy centered around buying consumer finance loans\noriginated by Prosper and LendingClub. We have been working with friends and\nfamily money to test and refine our strategy and I am pleased to say we’ve\ngenerated steady returns on averge 7.5% per annum. You can find out more about\nour fund at USCF – Aim for Growth with Steady Income | MarkitLend\n[https://markitlend.com/consumer-credit/].\n\nWe are opening to external investors and I would like to develop a funding\nproposal around making this investment available to the Optimism Community.\n\nI welcome your feedback and so please reach out to me or book a call with me so\nwe can have a more detailed discussion. Calendly - Michael Sonenshine\n[https://calendly.com/mlsonenshine/markitlend-conf-call-teams]\n\nMany thanks for your time. I look forward to speaking with you soon.\n\nMichael Sonenshine\nCIO, MarkitLend",
+  "views": 279,
+  "like_count": 1,
+  "word_count": 166,
+  "answer": [],
+  "created_at": "2024-05-15T17:23:47.385Z"
+}

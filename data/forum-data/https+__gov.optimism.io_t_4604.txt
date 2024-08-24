@@ -1,0 +1,9 @@
+{
+  "title": "Delegates Web Page: Make the toggle default to 'On' for \"See how other token holders delegated\"",
+  "content": "Hi Admins and Optimists,\n\nOn the page, https://app.optimism.io/delegates\n[https://app.optimism.io/delegates], there is a toggle button that allows to\nview the current OP delegated to Delegates. The “See how other token holders\ndelegated” Toggle Button.\n\nI don’t think I’m the only doofus who didn’t immediately see this toggle button\nwhen trawling the website and this page.\n\nThus, in the spirit of decentralising delegate voting power:\n\nCan we make this toggle button default to being switched ‘On’?\nOr just remove the toggle button and make the OP delegations for each delegate\npermanently viewable as a feature?\n\nHope this can be done. Seems easy enough to do(?). Thanks for your time!",
+  "views": 1486,
+  "like_count": 0,
+  "word_count": 118,
+  "answer": [],
+  "created_at": "2023-01-16T15:39:48.096Z"
+}

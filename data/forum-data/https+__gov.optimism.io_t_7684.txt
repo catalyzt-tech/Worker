@@ -1,0 +1,50 @@
+{
+  "title": "Create blacklist for next Airdrop",
+  "content": "Hey OP Community!\nFollowing a theft of considerable proportions for me, I would like to see a\nblacklist created with addresses that should NOT receive future Airdrops. It\nwould be good if the OP-ETH bridge could block funds that are marked as fraud.\nScammers robbed me of 5000 OP.\nI’m broke now.",
+  "views": 374,
+  "like_count": 1,
+  "word_count": 136,
+  "answer": [
+    {
+      "content": "Hey @marick [/u/marick]! I’m really sorry about the situation.\n\nThanks for reporting this user, I have taken the necessary measures so that he\ndoes not return to the forum :pray:\n[https://emoji.discourse-cdn.com/twitter/pray.png?v=12]",
+      "created_at": "2024-02-21T01:26:37.232Z",
+      "trust_level": 4,
+      "username": "brichis",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "image\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/c/c851ee8594c6ff29995a6d37fc24c36242242f70_2_690x373.png]\nimage1018×551 44.2 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/c/c851ee8594c6ff29995a6d37fc24c36242242f70.png]\n\n",
+      "created_at": "2024-02-19T13:08:59.224Z",
+      "trust_level": 0,
+      "username": "marick",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "image\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/8/8414c310cb05af3de705fbbb43f8002c43780e82_2_690x429.png]\nimage1312×816 40.8 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/8/8414c310cb05af3de705fbbb43f8002c43780e82.png]\n\n",
+      "created_at": "2024-02-19T13:31:49.533Z",
+      "trust_level": 0,
+      "username": "marick",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "okay, would love to see someone from @Optimism [/u/optimism] that can assist me\non the issue.\nI tried to write to many dev from Optimism and other ETH influencers and nobody\ngives a word :frowning:\n[https://emoji.discourse-cdn.com/twitter/frowning.png?v=12]\nThanks!\n\ntwitter.com [https://twitter.com/btc_sats/status/1758539747914318294?s=20]\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/d/de0393d9b5a3fbd8deafa9a9646c5aec231287f4.jpeg]\n\n⚡️BTC SATS⚡️ [https://twitter.com/btc_sats/status/1758539747914318294?s=20]\n\n@btc_sats [https://twitter.com/btc_sats/status/1758539747914318294?s=20]\nGuys I was scammed in comments on @LineaBuild [https://twitter.com/LineaBuild]\ntweet and they stole 5000 OP, please help me!@OptimismGov\n[https://twitter.com/OptimismGov] @Optimism [https://twitter.com/Optimism]\n@OPLabsPBC [https://twitter.com/OPLabsPBC] @Fwiz [https://twitter.com/Fwiz]\n@b0bby [https://twitter.com/b0bby] @MetaMask [https://twitter.com/MetaMask]\n@MetaMaskSupport [https://twitter.com/MetaMaskSupport] scammers site is ->\nhttps:// park-lineabuild .com/\n5:12 PM - 16 Feb 2024\n[https://twitter.com/btc_sats/status/1758539747914318294?s=20] 4\n\n",
+      "created_at": "2024-02-21T07:36:18.608Z",
+      "trust_level": 0,
+      "username": "marick",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-02-19T11:11:21.807Z"
+}

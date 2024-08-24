@@ -1,0 +1,60 @@
+{
+  "title": "[GF:Phase 0 Proposal] Stargate Finance",
+  "content": "Project Name: Stargate Finance\n\nAuthor Name: Tangle\n\nDefiLlama TVL (at Snapshot): $35 700 000\n\nTransactions/day (at Snapshot): 646\n\nTier: 2\n\nOptimism native: No\n\nRevisions to metrics used: N/A\n\nNumber of OP tokens to claim: 1,000,000\n\nL2 Recipient Address: 0x392AC17A9028515a3bFA6CCe51F8b70306C6bd43\n\n\nStargate Finance is a fully composable liquidity transport protocol that lives\nat the heart of Omnichain DeFi. At inception on March 17, 2022, Stargate\nlaunched on Optimism as one of the 7 initial Networks. Since then it has grown\nto 1500+ active community members as seen via Snapshot governance, and has\nachieved some of the following metrics:\n\n * Overall protocol transfer volume to date: $1.8B\n * Optimism transfer volume to date: $153M\n * Optimism transfer count to date: 11.2K transfers\n * Optimism peak TVL: $41M\n\nStargate Finance has proposed OP Distribution to the Community: Snapshot\n[https://snapshot.org/#/stgdao.eth/proposal/0x6e4fb9b05dde3158d66113f056f548aaafcbcce0b5940460ef5327cf2a59b5dd]\n\n:red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]:sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12] How will the OP\ntokens be distributed?\n\nCreate a Liquidity Mining program with 700,000 OP tokens.\n\nThese tokens would be emitted to help the current pool over the next 6 months.\nEmissions of STG have ended on the Optimism network, and this would help ensure\nLP’s to stay and remain incentivized. Deeper liquidity ensures users can enjoy\nreduced slippage as they are bridging between networks. The liquidity program\nshould pick up from where STG emissions stopped.\n\nOffer Qualified Partners who integrate Stargate widget 300,000 OP tokens.\n\nThese tokens would be provided over 6 months to qualified Partners, pending\ngovernance approval, integrating Stargate as a widget on their respective\nfrontend on all inbound transfer to Optimism. At the end of each month, partners\nwill have the OP Tokens distributed to them pro-rata based on the nominal USD\nvalue that their integration has transferred to Optimism. This would make sure\nmore protocols are incentivized to deploy/support Optimism in their L2/Omnichain\nstrategy.\n\n:mechanical_arm:\n[https://emoji.discourse-cdn.com/twitter/mechanical_arm.png?v=12] How will this\ndistribution incentivize usage and liquidity on Optimism?\n\nThe Liquidity Mining program will help attract users to bring liquidity over to\nOptimism, and potentially retain this liquidity within the Optimism ecosystem.\nThe Qualified Partner program will incentivize protocols looking to build on top\nof Stargate to deploy on Optimism as well.\n\n:fist: [https://emoji.discourse-cdn.com/twitter/fist.png?v=12] Why will the\nincentivized users and liquidity remain after incentives dry up?\n\nLP’s find these pools attractive as they take on no IL risk as its single sided,\nand fees will increase as the Optimism network grows. While incentivising\nintegrations with Stargate, users will remain using the products they’ve learned\nto love that use Stargate and Optimism\n\n:hourglass_flowing_sand:\n[https://emoji.discourse-cdn.com/twitter/hourglass_flowing_sand.png?v=12]Over\nwhat period of time will the tokens be distributed?\n\n6 Months for Liquidity Mining, and 6 Months for Qualified Partners.\n\n:speaking_head:\n[https://emoji.discourse-cdn.com/twitter/speaking_head.png?v=12]This proposal\nhelps to align the Stargate ecosystem with Optimism, and would be a great use of\nthe OP Tokens to help increase the Optimism network, while providing incentives\nfor Stargate users and integrators/partners.\n\nEdited based on feedback.",
+  "views": 4003,
+  "like_count": 17,
+  "word_count": 607,
+  "answer": [
+    {
+      "content": "Sounds like a solid proposal to me, and the bonding auction will ensure that\nliquidity is locked in the protocol which will facilitate transfers into\nOptimism in perpetuity.",
+      "created_at": "2022-05-22T02:53:35.423Z",
+      "trust_level": 1,
+      "username": "patrickbateman",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "\n[https://avatars.discourse-cdn.com/v4/letter/m/eb8c5e/48.png] Meduza:\n\n> Great proposal!\n\nOP will become the best L2 project in the future, we have always supported",
+      "created_at": "2022-05-22T18:21:19.422Z",
+      "trust_level": 1,
+      "username": "wangyi",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Seems like both sides win. Great proposal!",
+      "created_at": "2022-05-22T13:31:48.945Z",
+      "trust_level": 0,
+      "username": "Meduza",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "I wish i could understand this proposal.",
+      "created_at": "2022-05-29T05:07:16.446Z",
+      "trust_level": 2,
+      "username": "Justin",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "stargate is a very good project,i used it frequently,support the proposal",
+      "created_at": "2022-05-30T01:53:13.647Z",
+      "trust_level": 1,
+      "username": "nana",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-05-21T00:45:28.409Z"
+}

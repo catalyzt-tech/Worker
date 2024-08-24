@@ -1,0 +1,20 @@
+{
+  "title": "Anti-Rug Pull Suggestion:",
+  "content": "TLDR: We could choose to implement a phased / incremental roll-out of funds,\nwith confirmation milestones, once a grant proposal has been successfully voted\non.\n\nWhile we ‘trust’ grant recipients will act in good faith, and utilize the OP\ntokens as promised, there really is no guarantee that they will or recourse if\nthey don’t. I think a more measured way of distributing grant funds would be to\ndo so in a number of phases (2 or 3) with milestones and time parameters to\nconfirm the grant is being utilized as intended before the next distribution of\nOP tokens.\n\nSome GF proposals have taken it upon themselves to self regulate in this way, by\n“baking-in” milestones to their template. It might be a healthy addition to the\nway OP handles fund distribution going forward.\n\nThank you for taking the time to read this suggestion.\nOvetta",
+  "views": 1684,
+  "like_count": 4,
+  "word_count": 202,
+  "answer": [
+    {
+      "content": "I agree a milestone roll-out when distributing funds is far more resilient\nagainst bad actors. There are many ways this can be implemented but I’m curious\nas to the trade offs of this model. Further, I’d be interested in knowing how\noften has a team abandoned a project and taken the funds.",
+      "created_at": "2022-09-14T05:28:15.973Z",
+      "trust_level": 1,
+      "username": "ancientwarrior",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-09-13T22:04:25.999Z"
+}

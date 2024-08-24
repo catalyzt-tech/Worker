@@ -1,0 +1,60 @@
+{
+  "title": "Governance Update #5",
+  "content": "GOVERNANCE UPDATE #5: GETTING READY FOR SEASON 3 AND RETROPGF 2\n\nSpecial Voting Cycle #9a has just concluded and the Token House has voted to run\nsome exciting experiments in Season 3!\n\nThe first iteration\n[https://optimism.mirror.xyz/wqk1Yeyn2OhV9paDzbRXvQ0m0JYDu2npbSkMClwk1rY] of\nCitizens’ House is fast approaching, and voting badges are being distributed to\nits initial set of Citizens, which will vote in RetroPGF 2!\n\nThis governance update includes a recap of Special Voting Cycle #9a, an overview\nof what will happen in Special Voting Cycle #9b, and what you can expect for\nToken House Season 3 and RetroPGF2.\n\n\nWHAT’S CHANGING?: RECAP OF SPECIAL VOTING CYCLE #9A\n\nAfter wrapping up Season 2, the community took a few weeks to reflect and make\nimprovements to the governance process (Outlined in Guide to Season 3: Course\nCorrecting\n[https://gov.optimism.io/t/guide-to-season-3-course-correcting/3942].) This\niterative feedback process resulted in several changes:\n\n * The Protocol Delegation Program\n   [https://gov.optimism.io/t/special-voting-cycle-9a-protocol-delegation-program/4200]\n   passed\n   [https://snapshot.org/#/opcollective.eth/proposal/0x3a1f9a30c47d6060f3b732404f3a6b2ceba3da07be0505ef0f93b6dab7fa3185],\n   allowing protocols to have a voice in governance without self-delegating\n   grants\n * The Season 3 Grants Council\n   [https://gov.optimism.io/t/special-voting-cycle-9a-grants-council/4198]\n   passed\n   [https://snapshot.org/#/opcollective.eth/proposal/0x37fc8a6ae60cff2e4e72fe9c0567f739bb9a78262c2ada236892fcbc7af2c32d],\n   restructuring the grants process\n * Following the recent announcement about RetroPGF2\n   [https://optimism.mirror.xyz/wqk1Yeyn2OhV9paDzbRXvQ0m0JYDu2npbSkMClwk1rY], 10\n   Token House delegates were elected to receive voting badges. You can see the\n   results here\n   [https://snapshot.org/#/opcollective.eth/proposal/0x22d4c3ab56832de58c1774d1a0aeb61ba6dde8b16c0f8382f85d8935f3ee1f11]!\n * Additionally, the Delegate Code of Conduct\n   [https://gov.optimism.io/t/delegate-code-of-conduct/3943] is now in effect\n   for both Houses\n\n\nWHAT’S NEXT FOR TOKEN HOUSE?: SPECIAL VOTING CYCLE #9B\n\nWhat what happens now that Special Voting Cycle #9a has concluded?\n\n * If you would like to be a Reviewer on the Grants Council, please nominate\n   yourself here\n   [https://gov.optimism.io/t/grant-council-reviewer-nominations/4372].\n   Elections for Reviewers will be held during Special Voting Cycle #9b.\n * If you would like to apply to be the Council Lead, please submit your\n   application here\n   [https://docs.google.com/forms/u/1/d/e/1FAIpQLScbf-v4hXm_YjAiG9w3MnvTRig1RMzKLcw7UCfbLPVMnkJrSw/viewform?usp=sf_link].\n   Interviews will be conducted during Special Voting Cycle #9b.\n * If your protocol would like to self-nominate for the Protocol Delegation\n   program, please do see here\n   [https://gov.optimism.io/t/protocol-delegation-self-nominations/4357].\n   Elections for the Protocol Delegation Program will be held during Special\n   Voting Cycle #9b.\n * The deadline for all Special Voting Cycle #9b applications and elections is\n   January 4th at 19:00 GMT.\n * The Token House is otherwise on a governance break until Special Voting Cycle\n   #9, which runs from January 5th at 19:00 GMT to January 18th at 19:00 GMT.\n\n\nWHAT’S NEXT FOR THE CITIZENS’ HOUSE?: RETROPGF2\n\n * RetroPGF 2 will take place in Q1 2023. You can see more details in our\n   documentation here\n   [https://community.optimism.io/docs/governance/retropgf-2/].\n * Timelines for RetroPGF 2 have been updated to accommodate delayed badgeholder\n   onboarding and the holiday schedule. Updated timeline is as follows:\n   * Project nominations: Jan 17 - 31\n   * Final project signup deadline: Feb 7\n   * Voting: Feb 21 - March 7\n * Token House delegates that have been elected to be badgeholders in RetroPGF2\n   will be contacted by the Foundation with further instructions shortly.\n\n\nWHAT TO EXPECT IN TOKEN HOUSE SEASON 3\n\n * Season 3 will officially start on January 26th, one week after the end of\n   Special Voting Cycle #9b to give the Council time to publish its operating\n   framework for Season 3 and to allow for the opt-in process with Protocols\n   receiving delegation.\n * The Season is likely to run for ten weeks, tentatively ending on April 5th,\n   but this will ultimately be determined by the grant cycles the Council sets.\n * Season 3 will be followed by a Reflection Period during which period both the\n   Council and the Protocol Delegation Program will be re-assessed.\n * Delegates may receive retroactive rewards\n   [https://gov.optimism.io/t/retroactive-delegate-rewards-for-season-1-2/3947]\n   for their work over the course of Season 3\n\nIt’s been an exciting few weeks, and Optimism Governance continues to evolve\nwith the launch of retroPGF2 and Token House Season 3. Thank you to all the\ndelegates that participated in the Reflection Period and that have been voting\nin the Special Voting Cycles. With the first iteration of the Citizens’ House\nfast approaching, we’re excited welcome all RetroPGF2 badgeholders to the\nCollective.\n\nAs always,\n\nStay Optimistic!",
+  "views": 5666,
+  "like_count": 107,
+  "word_count": 1218,
+  "answer": [
+    {
+      "content": "Nice to see a great feedback from the team",
+      "created_at": "2022-12-23T19:19:01.337Z",
+      "trust_level": 2,
+      "username": "Sheikhrahyan",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "Can’t wait for the third season !",
+      "created_at": "2022-12-23T19:37:33.365Z",
+      "trust_level": 2,
+      "username": "valosh",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "I love the ethos of Optimism and cannot wait for Season 3! Generally, I’d love\nto see more user studies in Season 3; studies that foster not only community\ngrowth but particularly also user retention. E.g., ‘How can we retain citizens\nand generally members long-term beyond any financial incentives?’",
+      "created_at": "2023-01-04T12:18:50.673Z",
+      "trust_level": 2,
+      "username": "Josey",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "There is a lot of work that needs to be done for user retention!!! If we come up\nwith a creative and fun way to keep people active on the network it will\ncontinue to grow. I am dedicated to this layer 2 blockchain and will be working\nvery hard this year to help educate and onboard other high level creators and\nvisionary leaders from around the world.",
+      "created_at": "2023-01-23T16:18:13.818Z",
+      "trust_level": 2,
+      "username": "FractalVisions",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Super optimistic! Good work, 2023 will be our year!",
+      "created_at": "2022-12-26T21:33:49.057Z",
+      "trust_level": 1,
+      "username": "serrano",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    }
+  ],
+  "created_at": "2022-12-22T22:26:12.805Z"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Programs researching intra-Superchain bridging",
+  "content": "Hi I’m Max, an ambassador from Hop. I was wondering where I can learn more about\nthe work going into bridging between two Superchain chains. Relatedly, is there\na forum similar to this one but for developers?",
+  "views": 900,
+  "like_count": 4,
+  "word_count": 199,
+  "answer": [
+    {
+      "content": "Hey Max!\n\n> I was wondering where I can learn more about the work going into bridging\n> between two Superchain chains.\n\nThere isn’t such ongoing work that I’m aware of, though I am no longer part of\nOP Labs so I might not know what’s going on behind the scenes.\n\nI had some thoughts on the topic that I shared at Devcon last year:\nhttps://twitter.com/norswap/status/1584222557800366084\n[https://twitter.com/norswap/status/1584222557800366084]\n\nI do know that Optimism and OP Labs are currently seeking feedback about the\ncharacteristics that projects would like to see in a superchain interop/bridge\nframework.\n\n> Relatedly, is there a forum similar to this one but for developers?\n\nNot that I am aware of, so probably no. There is a telegram group where useful\ninfo is exchanged regarding running nodes, but not developer stuff proper.",
+      "created_at": "2023-06-09T14:58:57.028Z",
+      "trust_level": 2,
+      "username": "norswap",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "All super helpful, I really appreciate it! I’m reading your thread now and will\nlet you know if I have any questions.",
+      "created_at": "2023-06-09T15:15:55.776Z",
+      "trust_level": 2,
+      "username": "max-andrew",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2023-06-07T18:28:48.163Z"
+}

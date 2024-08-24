@@ -1,0 +1,40 @@
+{
+  "title": "18th OP Community Governance Call + Recap was [March 28 at 10am PT / 1pm ET / 7pm CET]",
+  "content": "In the interest of lowering the # of posts and keeping things all in one place,\nI will now be posting the recaps and recordings for the calls as edits to the\noriginal community call post!\n\nCall recording can be found here: Community call #18 recording March 28,\n2023.mp4 - Google Drive\n[https://drive.google.com/file/d/1SOqzrym1KghlYUiF03-34CNH9eZnACo1/view?usp=sharing]\n\nRecap:\n\n * Two votes happening now on Agora [https://vote.optimism.io/] (make sure to\n   vote for both)\n * Check out Season 3 reflections thread: Governance Update #6: Season 3\n   Reflections\n   [https://gov.optimism.io/t/governance-update-6-season-3-reflections/5753]\n * Important to move on and look forward from code of conduct issues\n * Anyone who wants to volunteer to host a discord community discussion, feel\n   free to DM me!\n * Lot’s of process improvements for grants council. Preliminary review roundup\n   thread here\n   [https://gov.optimism.io/t/cycle-11-grants-preliminary-roundup/5759].\n * Next call is April 11th\n * RetroPGF announcement is Thursday\n\n--------------------------------------------------------------------------------\n\nHello Optimismts!\n\nWe will be having our 18th community governance call this Tuesday, March 28th,\nat 10am PT / 1pm ET / 7pm CET.\n\nZoom link is here:\nhttps://us02web.zoom.us/j/84087544843?pwd=cVpweHpEa2drYVRDZ1U0UklYSnR1QT09\n[https://www.google.com/url?q=https://us02web.zoom.us/j/84087544843?pwd%3DcVpweHpEa2drYVRDZ1U0UklYSnR1QT09&sa=D&source=calendar&usd=2&usg=AOvVaw22TnqMjK_BYeCshiVu5GCw]\n\nAs always, everybody is welcome. If you’d like any agenda topics discussed, feel\nfree to add them to this thread.\n\nSlides for the call are here\n[https://docs.google.com/presentation/d/19M82WKtq3X5zRqX2O_0CfOLlF8bJ8POcvqp9dRX5mAw/edit?usp=sharing].\n\nSee you there!\nMichael",
+  "views": 1703,
+  "like_count": 15,
+  "word_count": 269,
+  "answer": [
+    {
+      "content": "Awesome :sunglasses:\n[https://emoji.discourse-cdn.com/twitter/sunglasses.png?v=12] see you there!",
+      "created_at": "2023-03-26T14:04:49.507Z",
+      "trust_level": 2,
+      "username": "FractalVisions",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Awesome guys :fire: [https://emoji.discourse-cdn.com/twitter/fire.png?v=12]\ngreat",
+      "created_at": "2023-04-10T10:31:01.152Z",
+      "trust_level": 1,
+      "username": "Martin",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Agenda for the call is here\n[https://docs.google.com/presentation/d/19M82WKtq3X5zRqX2O_0CfOLlF8bJ8POcvqp9dRX5mAw/edit?usp=sharing].",
+      "created_at": "2023-03-28T16:55:49.722Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2023-03-25T22:49:20.653Z"
+}

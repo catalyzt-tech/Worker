@@ -1,0 +1,30 @@
+{
+  "title": "CRNFT \"Upwork'' for web 3.0",
+  "content": "Dear Optimism Community,\n\nMy name is Lukas and I’m a co-founder of CRNFT which is an \"Upwork’’ for NFT and\nmetaverse-related services.\n\nHere is the pitch deck [https://bit.ly/crnft-deck]\n\nWe’ve been growing exponentially as more creators and partners come to our\ncommunity. We are raising the 2M seed fund to scale and onboard 10 000\nfreelancers and their clients. On top of it, We really want to build this from\nscratch on the Optimism chain.\n\nMission:\n\n * create a platform curated by its members.\n * provide innovative solutions for brands entering the digital world\n * build bridges between art, fashion, and architecture.\n\nHappy to send over more information if this looks like something on your radar.\n\nMy telegram is @nyclukas and I’m happy to answer all your questions.",
+  "views": 2033,
+  "like_count": 4,
+  "word_count": 247,
+  "answer": [
+    {
+      "content": "\nGrant Proposal Template [OLD]\n[https://gov.optimism.io/t/grant-proposal-template-old/3233/1]\n\n> 231,928,234\n\nThank you so much @TheDoctor [/u/thedoctor] I just made a new proposal here:\n[READY] [GF: Phase 1] CRNFT\n[https://gov.optimism.io/t/draft-gf-phase-1-crnft/3716]",
+      "created_at": "2022-10-16T05:21:01.814Z",
+      "trust_level": 1,
+      "username": "crnft",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "\n[https://avatars.discourse-cdn.com/v4/letter/c/8baadc/48.png] crnft:\n\n> Upwor\n\nDear Lukas,\nWelcome to the Optimism Governance Forum. I find very interesting this kind of\nproject where platforms are curated by its members. I very much hope see them\nworking soon.\nAs for project proposals, I suggest you check this:\n\n\n[https://avatars.discourse-cdn.com/v4/letter/b/b5a626/48.png] Grant Proposal\nTemplate [OLD] [https://gov.optimism.io/t/grant-proposal-template/3233] 📌\nPolicies and Templates [/c/policies-and-important-documents/49]\n\n> To apply for a grant through the Grants Council, please go here\n> [https://app.charmverse.io/op-grants/page-701220845245208] Phase 1 Proposal\n> Template v2 All Governance Fund grant proposals will be processed by a Grants\n> Council in Season 3. Please submit your application to the Grants Council here\n> [https://foul-porch-0eb.notion.site/Optimism-Grants-Council-090bb648d1854136b9630c608da7a8bc]\n> following the process outlined here\n> [https://foul-porch-0eb.notion.site/Grants-Council-Internal-Procedures-504521342ee0402980321c56f1488542].\n> ALL CYCLE 11 GRANT PROPOSALS SHOULD USE THE UPDATED TEMPLATE HERE\n> [https://gov.optimism.io/t/grants-proposal-template-cycle-11/5291]. Key\n> information about Governance Fund grants 5.4% of the total initial token\n> supply (231,928,234 OP) will be distributed to Optimism projects and commu…\n\ngithub.com\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md]\n\nETHEREUM-OPTIMISM/OPERATING-MANUAL/BLOB/MAIN/MANUAL.MD\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md]\n\nThis document describes the current governance proposal process of the Optimism Collective. It will evolve, with the Collective, over time. The authoritative version is maintained [here](https://github.com/ethereum-optimism/Operating-manual) on the ethereum-optimism Github.\n\n### **Operating Manual v0.3.6:  The Token House and Citizens' House**\n\nThe Optimism Collective is governed by two houses, the Token House and the Citizens’ House. \n\nIn the Token House, OP holders are responsible for submitting, deliberating, and voting on various types of Optimism Collective governance proposals. They may do so by either voting their OP directly (after delegating their OP voting power to their own address), or by delegating their OP voting power to an eligible third party. Addresses with delegated OP voting power are called “delegates.” \n\nIn the Citizens’ House, Optimism Citizens are responsible for allocating rewards to providers of public goods through a process called “retroactive public goods funding” (RetroPGF). Citizenship is currently temporary, with badgeholders for RetroPGF Round 3 demarcated via entries in the AttestationStation smart contract. \n\nAll Token and Citizens’ House representatives are expected to exercise their authority responsibly and in accordance with the [Rules of Engagement](https://gov.optimism.io/t/rules-of-engagement-2-0/5728) and [Code of Conduct](https://gov.optimism.io/t/code-of-conduct/5751). \n\n\n## **Optimism Governance**\n### **Governance Toolkit**\n\nThe primary tools for Token House governance are currently:\n\n- [Token House Governance Contract:](https://optimistic.etherscan.io/address/0xcdf27f107725988f2261ce2256bdfcde8b382b10) The on-chain voting contract for Token House governance proposals. Where all Token House qualifying governance proposals are submitted for vote. \n- [Optimism Governance Portal:](https://vote.optimism.io/) A front-end interface that enables Token House members to delegate and vote their OP on-chain.\n\n\nThis file has been truncated. show original\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md]\n\n\n\nI look forward to hearing about your project soon. Best wishes",
+      "created_at": "2022-10-08T21:33:42.329Z",
+      "trust_level": 2,
+      "username": "TheDoctor",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-10-06T19:21:14.726Z"
+}

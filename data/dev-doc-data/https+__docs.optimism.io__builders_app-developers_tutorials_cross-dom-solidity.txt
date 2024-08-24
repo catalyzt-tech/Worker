@@ -1,0 +1,271 @@
+title: Communicating Between OP Mainnet and Ethereum in Solidity
+lang: en-US
+description: Learn how to write Solidity contracts on OP Mainnet and Ethereum that can talk to each other.
+
+import { Steps, Callout, Tabs } from 'nextra/components'
+import { WipCallout } from '@/components/WipCallout'
+
+This tutorial explains how to write Solidity contracts on OP Mainnet and Ethereum that can talk to each other.
+Here you'll use a contract on OP Mainnet that can set a "greeting" variable on a contract on Ethereum, and vice-versa.
+This is a simple example, but the same technique can be used to send any kind of message between the two chains.
+
+You won't actually be deploying any smart contracts as part of this tutorial.
+Instead, you'll reuse existing contracts that have already been deployed to OP Mainnet and Ethereum.
+Later in the tutorial you'll learn exactly how these contracts work so you can follow the same pattern to deploy your own contracts.
+
+Message Passing Basics
+
+OP Mainnet uses a smart contract called the CrossDomainMessenger to pass messages between OP Mainnet and Ethereum.
+Both chains have a version of this contract (the L1CrossDomainMessenger and the L2CrossDomainMessenger).
+Messages sent from Ethereum to OP Mainnet are automatically relayed behind the scenes.
+Messages sent from OP Mainnet to Ethereum must be explicitly relayed with a second transaction on Ethereum.
+Read more about message passing in the guide to Sending Data Between L1 and L2.
+
+Dependencies
+
+node
+pnpm
+
+Get ETH on Sepolia and OP Sepolia
+
+This tutorial explains how to send messages from Sepolia to OP Sepolia.
+You will need to get some ETH on both of these testnets.
+
+Review the Contracts
+
+You're about to use two contracts that have already been deployed to Sepolia and OP Sepolia, the Greeter contracts.
+You can review the source code for the L1 Greeter contract here on Etherscan.
+You can review the source code for the L2 Greeter contract here on Etherscan.
+Both contracts have exactly the same source code.
+
+Feel free to review the source code for these two contracts now if you'd like.
+This tutorial will explain how these contracts work in detail later on in the How It Works section below.
+
+Interact With the L1 Greeter
+
+You're first going to use the L1 Greeter contract to set the greeting on the L2 Greeter contract.
+You'll send a transaction directly to the L1 Greeter contract which will ask the L1CrossDomainMessenger to send a message to the L2 Greeter contract.
+After just a few minutes, you'll see the corresponding greeting set on the L2 Greeter contract.
+
+{Connect to Etherscan}
+
+Sending a message to the L2 Greeter contract via the L1 Greeter contract requires that you call the sendGreeting function.
+For simplicity, you'll interact with the contract directly on Etherscan.
+Open up the L1 Greeter contract on Sepolia Etherscan and click the "Connect to Web3" button.
+
+{Send your greeting}
+
+Put a greeting into the field next to the "sendGreeting" function and click the "Write" button.
+You can use any greeting you'd like.
+
+{Wait a few minutes}
+
+It will take a few minutes for your message to reach L2.
+Feel free to take a quick break while you wait.
+
+{Check the L2 Greeter}
+
+After a few minutes, you should see the greeting on the L2 Greeter contract change to the greeting you set.
+Open up the L2 Greeter contract on OP Sepolia Etherscan and click the "Read Contract" button.
+Paste your address into the field next to the "greeting" function and click the "Query" button.
+You should see the message you sent from L1.
+
+Interact With the L2 Greeter
+
+Now you're going to use the L2 Greeter contract to set the greeting on the L1 Greeter contract.
+You'll send a transaction directly to the L2 Greeter contract which will ask the L2CrossDomainMessenger to send a message to the L1 Greeter contract.
+Unlike the previous step, you'll need to relay the message from L2 to L1 yourself!
+You'll do this by sending two transactions on Sepolia, one proving transaction and one relaying transaction.
+
+{Connect to Etherscan}
+
+Just like before, sending a message to the L1 Greeter contract via the L2 Greeter contract requires that you call the sendGreeting function.
+Open up the L2 Greeter contract on OP Sepolia Etherscan and click the "Connect to Web3" button.
+
+{Send your greeting}
+
+Put a greeting into the field next to the "sendGreeting" function and click the "Write" button.
+You can use any greeting you'd like.
+
+{Create a demo project folder}
+
+You're going to use the Optimism SDK to prove and relay your message to L1.
+Since the Optimism SDK is a Node.js library, you'll need to create a Node.js project to use it.
+
+mkdir op-sample-project
+cd op-sample-project
+
+{Initialize the Project}
+
+Set up the project as a basic Node.js project with pnpm or your favorite package manager.
+
+pnpm init
+
+{Install the Optimism SDK}
+
+Install the Optimism SDK with pnpm or your favorite package manager.
+
+pnpm add @eth-optimism/sdk
+
+{Install ethers.js}
+
+Install ethers with pnpm or your favorite package manager.
+
+pnpm add ethers@^5
+
+{Add your private key to your environment}
+
+You need a private key in order to sign transactions.
+Set your private key as an environment variable with the export command.
+Make sure this is the private key for the address you used to send the transaction to the L2 Greeter contract.
+
+export TUTORIAL_PRIVATE_KEY=0x...
+
+{Add your transaction hash to your environment}
+
+You'll also need the hash of the transaction you sent to the L2 Greeter contract.
+Set this as an environment variable with the export command.
+
+export TUTORIAL_TRANSACTION_HASH=0x...
+
+{Start a Node REPL}
+
+Now you'll use the Node.js REPL to run a few commands.
+Start the Node.js REPL with the node command.
+
+node
+
+{Import the Optimism SDK}
+
+
+
+{Import ethers.js}
+
+
+
+{Load your private key}
+
+
+
+{Load your transaction hash}
+
+
+
+{Create the RPC providers and wallets}
+
+
+
+{Create a CrossChainMessenger instance}
+
+The Optimism SDK exports a CrossChainMessenger class that makes it easy to prove and relay cross-chain messages.
+
+Create an instance of the CrossChainMessenger class:
+
+
+
+{Wait until the message is ready to prove}
+
+The second step to send messages from L2 to L1 is to prove that the message was sent on L2.
+You first need to wait until the message is ready to prove.
+
+
+
+{Prove the message on L1}
+
+Once the message is ready to be proven, you'll send an L1 transaction to prove that the message was sent on L2.
+
+
+
+{Wait until the message is ready for relay}
+
+The final step to sending messages from L2 to L1 is to relay the messages on L1.
+This can only happen after the fault proof period has elapsed.
+On OP Mainnet, this takes 7 days.
+
+
+
+{Relay the message on L1}
+
+Once the withdrawal is ready to be relayed you can finally complete the message sending process.
+
+
+
+{Wait until the message is relayed}
+
+Now you simply wait until the message is relayed.
+
+
+
+{Check the L1 Greeter}
+
+Now that you've relayed the message, you should see the greeting on the L1 Greeter contract change to the greeting you set.
+Open up the L1 Greeter contract on Sepolia Etherscan and click the "Read Contract" button.
+Paste your address into the field next to the "greeting" function and click the "Query" button.
+You should see the message you sent from L2.
+
+How It Works
+
+Congratulations!
+You've successfully sent a message from L1 to L2 and from L2 to L1.
+This section will explain how the Greeter contracts work so you can follow the same pattern to deploy your own contracts.
+Luckily, both Greeter contracts are exactly the same so it's easy to see how everything comes together.
+
+The Messenger Variable
+
+The Greeter contract has a MESSENGER variable that keeps track of the CrossDomainMessenger contract on the current chain.
+Check out the Contract Addresses page to see the addresses of the CrossDomainMessenger contracts on whichever network you'll be using.
+
+
+
+The Other Greeter Variable
+
+The Greeter contract also has an OTHER_GREETER variable that keeps track of the Greeter contract on the other chain.
+On L1, this variable is set to the address of the L2 Greeter contract, and vice-versa.
+
+
+
+The Greetings Mapping
+
+The Greeter contract keeps track of the different greetings that users have sent inside a greetings mapping.
+By using a mapping, this contract can keep track of greetings from different users at the same time.
+
+
+
+The Constructor
+
+The Greeter has a simple constructor that sets the MESSENGER and OTHER_GREETER variables.
+
+
+
+The Send Greeting Function
+
+The sendGreeting function is the most important function in the Greeter contract.
+This is what you called earlier to send messages in both directions.
+All this function is doing is using the sendMessage function found within the CrossChainMessenger contract to send a message to the Greeter contract on the other chain.
+
+Here, the first parameter is the address of the recipient of the message (the Greeter contract on the other chain).
+The second parameter is the ABI-encoded function call to the setMessage function.
+The final parameter is the gas limit that gets used when the message is relayed on the other side.
+
+
+
+The Set Greeting Function
+
+The setMessage function is the function that actually sets the greeting.
+This function is called by the CrossDomainMessenger contract on the other chain.
+It checks explicitly that the function can only be called by the CrossDomainMessenger contract.
+It also checks that the CrossChainMessenger is saying that the message came from the Greeter contract on the other chain.
+Finally, it sets the greeting in the greetings mapping.
+
+
+
+Conclusion
+
+You just learned how you can write Solidity contracts on Sepolia and OP Sepolia that can talk to each other.
+You can follow the same pattern to write contracts that can talk to each other on Ethereum and OP Mainnet.
+
+This sort of cross-chain communication is useful for a variety of reasons.
+For example, the Standard Bridge contracts use this same system to bridge ETH and ERC-20 tokens between Ethereum and OP Mainnet.
+
+One cool way to take advantage of cross-chain communication is to do most of your heavy lifting on OP Mainnet and then send a message to Ethereum only when you have important results to share.
+This way you can take advantage of the low gas costs on OP Mainnet while still being able to use Ethereum when you need it.

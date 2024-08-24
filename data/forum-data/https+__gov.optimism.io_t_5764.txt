@@ -1,0 +1,50 @@
+{
+  "title": "Views on Opinions to create a sustainable, growing and healthy OP",
+  "content": "While I believe that community, governance, grants, reinvention, monoliths are\nimportant, but for sustainability, growth, health, there are other more\nimportant factors that needs attention. Is it possible to:\n\n 1. Have them go hand in hand\n 2. Can they create value beyond the current practices\n\nI’ll assert that while the things on the right are important, those on the left\nare more important.\n\n 1. Value before Community\n 2. Coordination Games over Governance\n 3. Self-sustainability over Grants\n 4. Renovation over Reinvention\n 5. Modules over Monoliths\n\nLooking forward to your views.\n\nCheers!!!",
+  "views": 1323,
+  "like_count": 18,
+  "word_count": 158,
+  "answer": [
+    {
+      "content": "New ways, but we should rather then a BEFOR and OVER make it TOGETHER as much as\npossible",
+      "created_at": "2023-03-28T07:57:31.702Z",
+      "trust_level": 2,
+      "username": "Bubli.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "DAC is relatively growing in use case as in one of Vitaliks twitter thread. Non\nProfit and Profit motive is a distinguisher.",
+      "created_at": "2023-03-31T03:32:56.330Z",
+      "trust_level": 1,
+      "username": "Ritu",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "This is a thin line and a lot of research and experiments are happening.",
+      "created_at": "2023-03-31T04:44:52.335Z",
+      "trust_level": 0,
+      "username": "Deepali",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "They do create value beyond current practices, feel good and all play.",
+      "created_at": "2023-04-01T09:17:41.436Z",
+      "trust_level": 0,
+      "username": "Nazia",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2023-03-28T06:32:36.588Z"
+}

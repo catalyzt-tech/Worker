@@ -1,0 +1,60 @@
+{
+  "title": "Solidity Survivor Bootcamp Updates - Builders Grant - Cycle 14",
+  "content": "Hello Everyone,\n\nThank you to the Optimism Grants Council for the generous builder’s grant in\nCycle 14. We are excited to start posting our updates to this channel.\n\nWe have created a GitHub project tracker to track all of the milestones which\ncan be viewed here: Solidity Survivor Milestone Tracker\n[https://github.com/orgs/0xBcamp/projects/5/views/1?pane=info]\n\nWe are also excited to announce that we have 31 developers who have been\nscreened and interviewed who will be participating in the program as well as 9\nmentors. We are scheduled to kick off on Monday Sept 25th. You can see a list of\nthe mentors and developers who are participating in the program here: Optimism\nSolidity Survivor Roster [https://bcamp.dev/sept-2023-cohort]\n\nPlease let me know if you have any questions.",
+  "views": 1160,
+  "like_count": 5,
+  "word_count": 714,
+  "answer": [
+    {
+      "content": "We have completed 2 more benchmark milestones!\n\n * Smart Contract Architecture session delivered - Session 2: Architecture and\n   AI - by LizardBrain - Bcamp\n   [https://bcamp.substack.com/p/session-2-architecture-and-ai]\n\n * Production Solidity session delivered - Session 3: Production Solidity - by\n   LizardBrain - Bcamp\n   [https://bcamp.substack.com/p/session-3-production-solidity]\n\nYou can get 6 months of access to the videos here: Subscribe to Bcamp\n[https://bcamp.substack.com/optimism]\n\nLet me know if you have any questions.",
+      "created_at": "2023-10-10T20:54:48.948Z",
+      "trust_level": 1,
+      "username": "Lizardbrain",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "We have completed 2 more benchmark milestones!\n\n * Web3 Front-End Development session delivered\n   [https://open.substack.com/pub/bcamp/p/session-4-web3-front-end-design?r=2c9y5k&utm_campaign=post&utm_medium=web]\n * Smart Contract Security session delivered\n   [https://open.substack.com/pub/bcamp/p/session-5-blockchain-security?r=2c9y5k&utm_campaign=post&utm_medium=web]\n\nEdit title\n\nYou can get 6 months of access to the videos here: Subscribe to Bcamp\n[https://bcamp.substack.com/optimism]\n\nLet me know if you have any questions.",
+      "created_at": "2023-10-24T20:23:21.172Z",
+      "trust_level": 1,
+      "username": "Lizardbrain",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "We are excited to confirm completion of one critical milestone and several\nbenchmark milestones.\n\nCritical Milestone: 1st Bootcamp completed by 15 developers - Session 6\nDelivered\n[https://open.substack.com/pub/bcamp/p/sept-cohort-final-judging-panel?r=2c9y5k&utm_campaign=post&utm_medium=web]\n6 Projects were created:\n1 - GitHub - 0xBcamp/Sept23_Crowdfunding\n[https://github.com/0xBcamp/Sept23_Crowdfunding]\n2 - GitHub - 0xBcamp/Sept23_Apprenticeship_Certification\n[https://github.com/0xBcamp/Sept23_Apprenticeship_Certification]\n3 - GitHub - 0xBcamp/Sept23_Event_Ticketing\n[https://github.com/0xBcamp/Sept23_Event_Ticketing]\n4 - GitHub - 0xBcamp/Sept23_Granary_Strategy\n[https://github.com/0xBcamp/Sept23_Granary_Strategy]\n5 - GitHub - 0xBcamp/Sept23_Passport_NFT\n[https://github.com/0xBcamp/Sept23_Passport_NFT]\n6 - GitHub - 0xBcamp/Sept23_Friending_App\n[https://github.com/0xBcamp/Sept23_Friending_App]\n\nBenchmark Milestones Completed:\n\n * Global Job Hunting Session Delivered - Session 6: Global Job Hunting - by\n   LizardBrain - Bcamp\n   [https://bcamp.substack.com/p/session-6-global-job-hunting]\n * Final Project Judging Session Delivered - Sept Cohort - Final Judging Panel -\n   by LizardBrain - Bcamp\n   [https://bcamp.substack.com/p/sept-cohort-final-judging-panel]",
+      "created_at": "2023-11-10T18:25:13.220Z",
+      "trust_level": 1,
+      "username": "Lizardbrain",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "We have completed one critical milestone and three benchmark milestone!\n\nCritical Milestone: 5 Developers hired by ecosystem partners.\n\n 1. xRave - Byte Masons\n 2. Gerdus - Byte Masons\n 3. Oleg - Byte Masons\n 4. Travis - Tenderly\n 5. Alfaqi - Fenix\n 6. Harold - Fenix\n\nBenchmark Milestone: 5 OP Projects Created:\n1 - GitHub - 0xBcamp/Sept23_Crowdfunding\n[https://github.com/0xBcamp/Sept23_Crowdfunding]\n2 - GitHub - 0xBcamp/Sept23_Apprenticeship_Certification\n[https://github.com/0xBcamp/Sept23_Apprenticeship_Certification]\n3 - GitHub - 0xBcamp/Sept23_Event_Ticketing\n[https://github.com/0xBcamp/Sept23_Event_Ticketing]\n4 - GitHub - 0xBcamp/Sept23_Granary_Strategy\n[https://github.com/0xBcamp/Sept23_Granary_Strategy]\n5 - GitHub - 0xBcamp/Sept23_Passport_NFT\n[https://github.com/0xBcamp/Sept23_Passport_NFT]\n6 - GitHub - 0xBcamp/Sept23_Friending_App\n[https://github.com/0xBcamp/Sept23_Friending_App]\n\nBenchmark Milestone: Two of these projects were completed and are production\nready.\n1 - Blockbadge [https://github.com/0xBcamp/Sept23_Apprenticeship_Certification]\n3 - Event Ticketing [https://github.com/0xBcamp/Sept23_Event_Ticketing]\n\nBenchmark Milestone: Run a 2nd Solidity Apprenticeship:\n\n * Video of final session:\n   https://open.substack.com/pub/bcamp/p/final-judging-panel\n   [https://open.substack.com/pub/bcamp/p/final-judging-panel?r=2c9y5k&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true]\n\nThis marks the completion of all Critical Milestones, and all but one Benchmark\nMilestone!",
+      "created_at": "2024-03-05T23:38:01.145Z",
+      "trust_level": 1,
+      "username": "Lizardbrain",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "We thrilled to announce the completion of our first critical milestone and first\nbenchmark milestone.\n\nCritical Milestone: Bootcamp Kicked Off with at least 20 developers - Completed\non Sept 25th, 2023.\n\nBenchmark Milestone: Proposal writing session delivered - Completed on Sept\n25th, 2023.\n\nThese sessions are not publicly available, but we have created special access\nfor the Optimism community. In order to view the session, register for 6 month\naccess to course recordings here: https://bcamp.substack.com/optimism\n[https://bcamp.substack.com/optimism]\n\nThen you can view the session here:\nhttps://bcamp.substack.com/p/session-1-innovation-in-defi-c05\n[https://bcamp.substack.com/p/session-1-innovation-in-defi-c05]\n\nYou can also view the overall progress of our project here: Optimism: Solidity\nSurvivor Grant Milestones · GitHub\n[https://github.com/orgs/0xBcamp/projects/5/views/1]\n\nPlease let me know if you have any questions.",
+      "created_at": "2023-09-28T15:40:48.369Z",
+      "trust_level": 1,
+      "username": "Lizardbrain",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2023-09-23T12:59:48.404Z"
+}

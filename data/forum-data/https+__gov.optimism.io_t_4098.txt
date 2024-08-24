@@ -1,0 +1,50 @@
+{
+  "title": "Hundred.finance - Phase 1 Optimism Grant-Enabled Token Rewards Launch",
+  "content": "image\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/f/fb69f4759a0c78bf9942700b976fe9bdc55135b3_2_690x388.jpeg]\nimage1024×576 80.2 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/f/fb69f4759a0c78bf9942700b976fe9bdc55135b3.jpeg]\n\n\n\nFollowing the passing of our grant application submitted as part of Phase 1\n[https://gov.optimism.io/t/ready-gf-phase-1-hundred-finance/2733],\nHundred.finance is pleased to announce the launch of it’s OP token rewards\nprogram.\n\nLive now, the OP token rewards will be followed this Thursday, with the\ncommencement of a new protocol epoch, by boosted HND token emissions and a\nproject rebrand. We hope the Optimism community will join us as we transition to\na new look, and work to meet our commitment to a steady increase in TVL on our\napp and Optimism more broadly!\n\nTap into our social media for further information:\nhttps://twitter.com/HundredFinance [https://twitter.com/HundredFinance]\nDrop into our Discord to become a part of the community: Hundred Finance\n[https://discord.gg/phK668J6dQ]\n\n\n\nimage\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/8/869f41e0d221c0edcab2504e035482b298e28ff5_2_690x388.jpeg]\nimage1920×1080 101 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/8/869f41e0d221c0edcab2504e035482b298e28ff5.jpeg]\n\n",
+  "views": 1951,
+  "like_count": 11,
+  "word_count": 986,
+  "answer": [
+    {
+      "content": "Day 10 Update:\n\nThe first 10 days of our OP token emissions program have now passed and already\nproven a success by meeting metrics outlined in the proposal.\n\n\n\nimage\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/3/33e3918ce8a28c817aebc53cf887c034a16d3313_2_690x434.png]\nimage1295×815 41.1 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/3/33e3918ce8a28c817aebc53cf887c034a16d3313.png]\n\n\n\nAs can be seen, Hundred Finance TVL on Optimism shot past Milestones 1 and 2,\nexceeding the of $3m laid out in our 3rd Milestone. What is more, data from DeFi\nLlama demonstrates that this wasn’t merely value already present on the network\nmoving around. Comparison with our TVL figures on other chains demonstrates our\nusers on Polygon and Fantom, in particular, were drawn to move large amounts\nover that hadn’t previously been within and available to the Optimism ecosystem.\nLastly and in summary, we also saw an increase in our own total cross-chain\nliquidity, implying that both Optimism and Hundred Finance have seen marked\nimprovements in TVL as a result of our Phase 1 Optimism Grant-enabled program.",
+      "created_at": "2022-12-08T23:34:56.326Z",
+      "trust_level": 1,
+      "username": "TerraBellus",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "December 13th Update:\n\nDue to an error in the setting of gauge emissions for this week, a greater than\nplanned number of OP tokens were sent to several rewards contracts. This has\nresulted in one week of unintentionally boosted APRs on USDC, sUSD, USDT and\nFRAX. In order to remain on course with the proposal, the Hundred Finance team\nhas met the OP shortfall by purchasing the tokens on the market using existing\ntreasury assets. This allows us to resume the emissions schedule as originally\nintended. In order to prevent a repeat of this, we are implementing further\nchecks to ensure such an error does not occur again.\n\nThe OP was purchased using 50,000 USDC from the project treasury here:\nOptimistic L2 Transaction Hash (Txhash) Details | Optimism\n[https://optimistic.etherscan.io/tx/0x64a98ef2405592236b7c1cdab42fe9d5dee0c5b788fface998b37e44e95a8454]\n\nCurrent gauge APRs:\n\n\nimage\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/6/6c8da6d44777ee6250085cb32eb127bfe3229d33_2_690x302.png]\nimage1482×650 48.8 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/6/6c8da6d44777ee6250085cb32eb127bfe3229d33.png]\n\n",
+      "created_at": "2022-12-13T10:28:23.978Z",
+      "trust_level": 1,
+      "username": "TerraBellus",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Four-month Update:\n\nOver the past four months, Hundred Finance has seen our Optimism Grant-enabled\ntoken rewards contribute to sustained use of the protocol and a TVL way above\nthe expectations set in our proposal.\n\n\n\nimage\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/b/b6b4da839040d6e8456864a1eba06a9cf5fe2344_2_690x492.png]\nimage1270×907 51.4 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/b/b6b4da839040d6e8456864a1eba06a9cf5fe2344.png]\n\n\n\nAs can be seen from the chart above, we have enjoyed large and consistent usage\nof the protocol over the first quarter of 2023, with both high TVL combining\nwith enthusiastic community adoption of our low lending rates (facilitated by\nour special focus on deep stablecoin liquidity). We hope to see this increase\nfurther in the coming months, with new users especially drawn to the protocol\nand chain by our upcoming release of cross-chain lending services. By way of an\nupdate on these developments, with most of the logic to support this\nfunctionality now tested in this area, we are at the point of discussing bridge\nimplementation, with an extreme focus on risk mitigation.\n\nIn the interests of transparency, we should also note here that TVL during the\nweek of March 20th has been slightly affected by OP emissions being\ninadvertently paused for one week. This was due to the unfortunate timing of one\nof the admin multisig signers becoming sick during an anticipated absence of two\nothers, leading to the week’s OP tokens not being able to be set in time on the\nrewards distributor. Assuming no objections are raised, it is our intention to\nresume emissions as scheduled after this one week delay and simply add an\nadditional week to the overarching emissions schedule. We do not expect any\ndifficulty in reattaining the grant proposal’s stated objective of 5m TVL\nshortly after the emissions are resumed, though we will seek input from Optimism\ngovernance should this not be the case.",
+      "created_at": "2023-03-24T17:25:42.612Z",
+      "trust_level": 1,
+      "username": "TerraBellus",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "We regret to announce that at 02:12:15 PM +UTC on April 15th, 2023, the Optimism\ndeployment of Hundred Finance was exploited using a vulnerability present in\nCompound V2 and its forks. This hack of the protocol resulted in a total\ndraining of funds within the Optimism markets. Subsequent to the hack, the\nHundred Finance team paused all markets and halted further emission of OP token\nrewards, consolidating those not assigned to the current epoch (ending at\nmidnight UTC on Wednesday April 19th, 2023) in the project multisig: $2.70 |\nOptimism (OP) Token Tracker | Optimism\n[https://optimistic.etherscan.io/token/0x4200000000000000000000000000000000000042?a=0x641f26c67a5d0829ae61019131093b6a7c7d18a3]\n\nThis is a devastating development for the project, its users and for all those\nadversely affected. We on the team are devoting all of our energy to attempting\nto recover funds through both reaching out to the attacker, offering a bounty\nfor their cooperation in returning the stolen assets, as well as engaging third\nparties in tracing the funds and the identity of the person or persons\nresponsible. In addition, there is an open offer of a 500k USDC reward for\nanyone who provides information that leads to the Hundred Finance attacker’s\narrest and the return of all stolen funds.\n\nOur receipt of the OP grant required that the Hundred Finance TVL on Optimism\nremain above a threshold. This is a threshold that, given the circumstances, can\nno longer be maintained, which the team acknowledge. It is the team’s intention\nto address this once we are not fully engaged in investigating the attack, the\nattacker and attempting to see the funds returned.",
+      "created_at": "2023-04-18T09:58:51.577Z",
+      "trust_level": 1,
+      "username": "TerraBellus",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-11-28T13:40:08.448Z"
+}

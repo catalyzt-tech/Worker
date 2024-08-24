@@ -1,0 +1,60 @@
+{
+  "title": "[Sponsorship Request] Empowering small active delegates",
+  "content": "Delegate Mission Request Summary: Delegate unallocated tokens to active but\nunderrepresented delegates for six months, aiming to boost participation from\n55% to 80%\n\nS6 Intent 1: Progress Towards Decentralization, Driving Delegation\n\nProposing Delegate/Citizen: DAOplomats\n[https://vote.optimism.io/delegates/0xc2490D220419ACdCeD68428Ac413c8483d08D1AB]\n\nTotal grant amount: 0 OP\n\nShould this Mission be fulfilled by one or multiple applicants? Multiple\n\nHow will this Mission Request help accomplish the above Intent?\n\nAccording to the Governance dashboard [https://optimism.curiahub.xyz/delegate],\n38 out of the top 100 delegates are inactive or ghost, representing 23M VP, or\n25% of the votable supply. The retro governance incentive program currently\nincentivizes active delegates in the top 100 but can only target 62% of the\ndelegate base. This leads to a significant portion of the governance power being\nunderutilized, reducing the incentive program’s effectiveness. The high\ninactivity rate among delegates suggests a need for improved strategies and\npossibly reevaluating the mechanisms to ensure more comprehensive and active\nparticipation.\n\nIncentives have failed to motivate inactive and ghost delegates; at the same\ntime, many delegates in the top 1000 are more active and can increase the\nparticipation rate [https://optimism.curiahub.xyz/participation] from 55% to\nmuch higher if delegated a future votable supply.\n\nTo test this hypothesis, we suggest delegating 23M tokens equally between 38\ndelegates for a period of 6 months. These tokens can either come from the\nunallocated portion or the Governance portion of the Ecosystem fund and will be\ndelegated to delegates who have been active but are underrepresented and do not\nreceive governance rewards. Other DAOs, such as Uniswap\n[https://app.uniswap.org/vote/2/54], Arbitrum\n[https://forum.arbitrum.foundation/t/rfc-empowering-underrepresented-delegates/22420],\nGnosis\n[https://forum.gnosis.io/t/gip-101-should-karpatkey-and-stablelab-establish-a-delegate-program-v0-for-the-gnosisdao/8578],\nand 1inch\n[https://gov.1inch.io/discussion/17205-discussion-delegate-tokens-from-dao-treasury-to-further-the-decentralization-of-the-dao],\nalso experiment with this approach.\n\nBelow is our suggestion for the rubric:\n\n 1. Delegate statement created: 1 point\n 2. 70% + voting participation in the last 3 months: 7 points (-1 point for each\n    10% reduction in voting)\n 3. Has contributed to optimism as verified via RPGF, Councils, Citizens, etc: 1\n    point\n 4. Active delegation thread: 1 point\n 5. Other bonus criteria only for tie-breaking: 3 points\n\nProcess:\n\n * If approved, we will open a 3-week application period for delegates who are\n   not in the top 100 to apply for the program via a forum thread.\n * Delegates will be ranked based on the points they receive according to the\n   rubric and the tokens already delegated to them.\n * The top 38 delegates will be selected to participate in the program and will\n   receive delegation\n\nWhat is required to execute this Mission Request?\n\nDAOplomats are responsible for:\n\n * Open applications\n * Provide feedback and support\n * Work with relevant stakeholders to deliver this mission\n\nHow should governance participants measure impact upon completion of this\nMission?\n\nMilestones:\n\n 1. Selection of eligible delegates\n 2. Tokens delegated\n\nMetrics:\n\n * #active delegates\n * #active votable supply\n\nImpact:\n\n * Increase participation rate from 55% to 80%\n * More visibility in the way delegates make decisions, thus helping the\n   proposer to make better decisions.\n\nHas anyone other than the proposer contributed to this Mission Request? If so,\nwho, and what parts of this application did they contribute to? If you sponsored\nanother community member’s idea, please credit them here.\n\nNo",
+  "views": 307,
+  "like_count": 4,
+  "word_count": 1065,
+  "answer": [
+    {
+      "content": "\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/jengajojo/48/8397_2.png]\njengajojo:\n\n> we suggest delegating 23M tokens equally between 38 delegates for a period of\n> 6 months.\n\nWhy 23M OP? I do like the idea of giving smaller but active delegates more\nvoice, but this proposal would give them more voting power than long term\ncouncil contributors like gonna.eth…",
+      "created_at": "2024-07-19T17:08:14.537Z",
+      "trust_level": 2,
+      "username": "MinimalGravitas",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "This is a suggestion based on the number of inactive/ghost delegates in the top\n100 now. Choosing 38 will allow all 100 delegates to be fully participate. We\nare open to suggestions for other numbers as well",
+      "created_at": "2024-07-17T13:35:43.274Z",
+      "trust_level": 2,
+      "username": "jengajojo",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "This proposal will penalize most of the current top 100 delegates without huge\nvoting power, since as per this proposal delegates outside the top 100 will get\n736,000 voting weight each thus pushing them artificially into the top 50 and\nmany of the current top 100 will be replaced including smaller delegates.\n\n23M split by 38 will give 736,000 voting power to each, this will put all of\nthem in the top 50 by voting power.\n\nLike pointed out, these delegates will replace many regular contributors like\nGonna.eth who has only 476k weight and is ranked 40th.\n\nIf this proposal is activated, 38 new delegates will suddenly rank above\nGonna.eth\nEven Grants Council Mission Reviewer members like Jrocki.eth have only 162k OP\nvoting power, they may be completely replaced by these newly picked delegates.\nOther Grants Council member Curia have 152k OP who will also suddenly be\nreplaced.\n\nSo this is not a good idea for the governance at this stage to artificially pick\ncertain delegates as winners, especially without much study about the long term\nimpact of such proposals.\n\nAlso can grants council direct delegation of tokens this way? The proposal has\nrequested 0 grants. Where does the unallocated token come from? Grants Council\nhas 5M OP to give to grants to various projects to build based on the intents,\nnot to delegate the tokens to others.",
+      "created_at": "2024-07-22T13:38:01.011Z",
+      "trust_level": 1,
+      "username": "Takeshi",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "For the benefit of others - this post has been moved to the appropriate post to\nrequest sponsorship\n[https://gov.optimism.io/t/mission-request-sponsorships/8405/5] from the Grants\nCouncil",
+      "created_at": "2024-07-05T11:59:53.583Z",
+      "trust_level": 4,
+      "username": "system",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 0
+    },
+    {
+      "content": "I would be in favor of an even distribution of OP delegation to active delegates\n(top 100 or not). This won’t change any of the top 100 delegates, if they are\nactive, but reaching a quorum will be much easier.\n\n\n[https://avatars.discourse-cdn.com/v4/letter/t/57b2e6/48.png] Takeshi:\n\n> Also can grants council direct delegation of tokens this way?\n\nWe can’t, is not in our mandate.\n\n\n[https://avatars.discourse-cdn.com/v4/letter/t/57b2e6/48.png] Takeshi:\n\n> Like pointed out, these delegates will replace many regular contributors like\n> Gonna.eth who has only 476k weight and is ranked 40th.\n\nStriving to grow, yet content outside the top 20, a delicate balance of humble\npersistence and ambitious motivation.",
+      "created_at": "2024-07-24T09:32:11.690Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-07-01T10:02:59.561Z"
+}

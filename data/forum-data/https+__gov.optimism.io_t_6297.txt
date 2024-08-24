@@ -1,0 +1,9 @@
+{
+  "title": "Mission Pitch Session Recordings",
+  "content": "Hi All!\n\nSorry if this isn’t the best quality but it was done on the fly using 3rd party\nsoftware.\n\nThat said, here are the pitches that we managed to record! :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12] :sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]\n\nYoutube Link [https://youtu.be/15qb6nJUqH4]\n\n-Michael",
+  "views": 735,
+  "like_count": 1,
+  "word_count": 41,
+  "answer": [],
+  "created_at": "2023-06-28T04:11:57.051Z"
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Deploying on Zora or OP",
+  "content": "Hi there, I hope you guys are doing well!\n\nI did not had enough time to publish my project for this round but I think I\nmight be ready for next round, I deployed on testnet and there is still a few\nissue.\n\nIs it possible to know what is the price to deploy on OP or Zora for example? I\ndeployed a few contract lately but never did on these networks.\n\nMy GitHub contain the test_Nft.sol but again it’s not from a network listed in\nthe requirements.\nIf any user could give me some advice for this, I would be more than happy!\n\nThanks for the answer! Really appreciate it!\n\n[https://github.githubassets.com/favicons/favicon.svg] GitHub\n[https://github.com/sirlupinwatson/Scryptoons]\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/4/4376a5c663f251b694a1b5658b267e14fad32672_2_690x345.png]\n\n\nGITHUB - SIRLUPINWATSON/SCRYPTOONS: APP.SCRYPTOONS\n[https://github.com/sirlupinwatson/Scryptoons]\n\nApp.Scryptoons. Contribute to sirlupinwatson/Scryptoons development by creating\nan account on GitHub.\n\n\n",
+  "views": 144,
+  "like_count": 1,
+  "word_count": 118,
+  "answer": [],
+  "created_at": "2024-06-30T06:55:35.381Z"
+}

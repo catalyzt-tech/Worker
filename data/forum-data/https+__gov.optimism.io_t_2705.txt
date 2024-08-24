@@ -1,0 +1,30 @@
+{
+  "title": "Tell your suggestions for increasing the utility of the OP token so that its use goes beyond just a governance token",
+  "content": "Tell your suggestions for increasing the utility of the OP token so that its use\ngoes beyond just a governance token",
+  "views": 1657,
+  "like_count": 8,
+  "word_count": 267,
+  "answer": [
+    {
+      "content": "Many of the Phase 1 Proposals are indeed trying to do just that, with either New\nProjects having OP at their core, or introducing OP into Existing Projects.\n\nMy suggestion is that if you are a delegate, have self-delegated or will be\ninfluencing your delegate, then vote wisely by:\n\n * Reading all the Proposals in full, and also read the Proposal Replies in full\n   (these Replies give Proposers more time to explain their project outside of\n   the Word Limit enforced in the Proposal).\n * If you don’t understand something in a Proposal, then seek clarity via\n   questioning the proposer in a Reply. I assume all Proposal creators are more\n   than willing to spend all the time you need explaining concepts and ideas so\n   you can understand things and helps you vote ‘For’ their Proposal.\n\nThat’s just my two cents.\n\nKind regards,\nAxel",
+      "created_at": "2022-06-18T06:56:19.284Z",
+      "trust_level": 2,
+      "username": "Axel_T",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "I strongly agree with this. Being a delegate is actually a symbol. You are\nrepresenting something and under the obligation to listen to the community.\n\nThis proposal has been repeating itself in various forms and I have personally\nstated and noted the values this will bring to OP. Optimism should not be\nunderrated with the caption just “governance tokens”. It should be more. In\nfact, it is more! The network is big, fast and cheap. Whether or not they are\nscaling Ethereum, it still remains a blockchain of itself, a network of\ndifferent dapps and projects! Let $OP rule. More utility, more demands✅",
+      "created_at": "2022-06-19T21:57:30.929Z",
+      "trust_level": 1,
+      "username": "Princecrypto.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2022-06-16T14:27:56.693Z"
+}

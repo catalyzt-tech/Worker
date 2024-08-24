@@ -1,0 +1,60 @@
+{
+  "title": "Karma GAP - Builder Grant - Cycle 13 - Updates",
+  "content": "KARMA GAP (GRANTEE ACCOUNTABILITY PROTOCOL)\n\nWe were the recipient of a Builder Grant in Cycle 13. We would like to use this\nthread for posting updates as we complete each milestone. All the grant details\ncan be found here [https://app.charmverse.io/op-grants/page-8610956286418354].\nBelow are some details about the project\n\nSummary\n\nWe propose building a Grantee Accountability Protocol (GAP) on Optimism’s\nAttestation Station to address challenges in grant programs within the crypto\necosystem. The current lack of standardization in publishing milestones and\nprogress updates hinders project tracking, accountability, visibility and\nreputation building. Our solution involves on-chain reporting, comprehensive\ndata storage, enhanced reputation building, and enables the development of novel\napplications. This protocol will provide easy access, a common interface, and\nvaluable insights for various grant programs.\n\nProblem\n\nGrant programs in the crypto ecosystem lack a standardized method for grantees\nto publish progress updates and milestones, leading to several issues:\n\n 1. Limited Accessibility: Currently, it is challenging for grant teams and the\n    community to easily access and track project progress and milestones, as\n    information is scattered across forums and external links.\n 2. Reputation Portability: Grantees who apply for grants from multiple\n    organizations struggle to establish and carry their reputation consistently\n    across the ecosystem. This is particularly difficult for individuals who are\n    new to the ecosystem and need opportunities to showcase their work and build\n    their reputation.\n 3. Inadequate Data Structure: The absence of structured data that can be\n    accessed in a permissionless manner hampers the development of applications\n    and analytical tools for evaluating grant impact and builder reputation.\n\nSolution\n\nTo address the aforementioned problems, we propose the implementation of a\nGrantee Accountability Protocol where grant teams can post information about the\ngrant and grantees can post milestones and progress updates onchain. This solves\na number of problems explained below\n\n 1. Onchain Reporting: Grantees will utilize the protocol to self-report their\n    progress and milestones directly on the blockchain through Optimism’s\n    Attestation Station. Leveraging the existing support for EAS schemas, we\n    will define schemas tailored to various reporting needs.\n 2. Universal data access: By storing all grant-related data onchain, we\n    eliminate the need for manual searching and external links. We will build an\n    interface for grantees and grant teams to interact with the protocol.\n    Communities are not obligated to use this interface but are welcome to build\n    their own interface to present this information in interesting ways.\n 3. Enhanced Reputation Building: Our protocol will enable the linking of team\n    member profiles to specific projects. This feature empowers team members to\n    build and showcase their reputation for their contributions. Additionally,\n    this reputation can be carried over to other DAOs, opening opportunities for\n    involvement in various areas of DAO governance or similar initiatives.\n    Optimism is experimenting with different tiers of funding based on grantee\n    reputation and this system can be used to improve those tiers.\n 4. Facilitating Novel Applications: With comprehensive on-chain data available,\n    the protocol encourages the development of innovative applications. Few\n    applications we can think of that can be built on top of this protocol are:\n    * Grantee reputation systems\n    * Project impact analysis tools\n    * Signaling for RetroPGF grants\n    * Auto monitor milestones and progress updates and alert the community\n    * Endorsing teams and team members working on projects\n    * Determine grant tiers for Optimism grants\n\nMilestone Type Milestone Source of Truth Deadline Benchmark Finalize\nRequirements Google Doc August 18th Benchmark Protocol Architecture Google Doc\nSept 8th Benchmark Finish development of Backend and Smart contracts Github Sept\n22nd Critical Deploy smart contract Onchain Sept 29th Benchmark Finish Design\nand Frontnend implementation Github Oct 20th Critical Launch website to interact\nwith the protocol Website Oct 27th Benchmark Onboard 2 teams and get at least 25\ngrantees to post updates Onchain Nov 17th Benchmark Bug fixes, enhancements and\ncontinuous maintenance based on feedback Github Nov 17th+",
+  "views": 850,
+  "like_count": 10,
+  "word_count": 1057,
+  "answer": [
+    {
+      "content": "Milestone Type Milestone Source of Truth Deadline Benchmark Onboard 2 teams and\nget at least 25 grantees to post updates Onchain Nov 17th Benchmark Bugfixes and\nenhancements Github Nov 17th+\n\nWe have onboarded 3 communities (Gitcoin, Optimism, Public Nouns). We have 18\ngrantees who have been posted about 80 updates onchain. We have about 2200\nattestations created onchain so far. All the transactions can be seen here\n[https://optimistic.etherscan.io/address/0xd2ed366393fdfd243931fe48e9fb65a192b0018c#events]\n\nWe have pushed a number of features and fixes. We are also adding features for\nimpact measurement, independent reviewers to review grants and many more\nexciting features.\n\nThese are also the last few milestones of this grant. We will continue to build\nthe product and onboard more grantees, help them build reputation and provide\nvisibility to the community on impact various grants are having and help them\nimprove capital allocation.",
+      "created_at": "2023-12-05T00:49:02.952Z",
+      "trust_level": 2,
+      "username": "mmurthy",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Milestone Type Milestone Source of Truth Deadline Benchmark Finalize\nRequirements Google Doc August 18th\n\nWe completed finalizing the requirements, discussed with Grants Council members\nand OP labs team as well. The designs have been finalized for the most part. We\ndesigned all the EAS Schemas and reviewed with EAS team. It is available here\n[https://drive.google.com/file/d/1cZmf8ZRz7G6UXrWJ7uF9aLK4b1Lvrsc-/view].\n\nProtocol Architecture and Development are happening simultaneously and we will\npost an update once they are finalized.",
+      "created_at": "2023-08-22T00:01:57.404Z",
+      "trust_level": 2,
+      "username": "mmurthy",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Milestone Type Milestone Source of Truth Deadline Benchmark Protocol\nArchitecture Google Doc September 8th\n\nOur MVP is almost ready, that means we are a bit ahead of schedule! As\nmentioned, any architecture changes are going hand in hand with development. All\nthe code is open source and can be found here: SDK\n[https://github.com/show-karma/karma-gap-sdk], Frontend\n[https://github.com/show-karma/gap-app], Smart Contracts\n[https://github.com/show-karma/gap-contracts].",
+      "created_at": "2023-09-08T13:45:17.305Z",
+      "trust_level": 2,
+      "username": "mmurthy",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Milestone Type Milestone Source of Truth Deadline Benchmark Finish development\nof Backend and Smart contracts Github Sept 22nd Critical Deploy smart contract\nOnchain Sept 29th Benchmark Finish Design and Frontnend implementation Github\nOct 20th Critical Launch website to interact with the protocol Website Oct 27th\n\nWe finished building the MVP and the website is live! Any grantee can login with\ntheir wallet and start posting updates. We have already started onboarding the\ngrantees on to the platform.\n\nWebsite: https://gap.karmahq.xyz/ [https://gap.karmahq.xyz/]\n\nOptimism grantees: https://gap.karmahq.xyz/optimism\n[https://gap.karmahq.xyz/optimism]",
+      "created_at": "2023-10-30T22:24:38.514Z",
+      "trust_level": 2,
+      "username": "mmurthy",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Hey thanks for the timely and transparent reporting here.",
+      "created_at": "2024-02-17T15:15:59.124Z",
+      "trust_level": 2,
+      "username": "chaselb",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2023-08-21T23:42:46.918Z"
+}

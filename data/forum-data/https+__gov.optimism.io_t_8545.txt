@@ -1,0 +1,50 @@
+{
+  "title": "[Mission Request] Gaming Infra in the Superchain",
+  "content": "[Mission Request] Gaming Infra in the Superchain\n\nDelegate Mission Request Summary\n\nBoost the growth of OSS Game Development frameworks and infrastructure already\navailable in OP chains, along with the development of additional tools that\naccelerate game development in the Superchain.\n\nIntent:\n\nIntent 3 Grow application devs on the Superchain\n\nProposing Delegate/Citizen\n\nJoxes / SEED Latam\n\nTotal grant amount\n\n150,000 OP (up to 75k per applicant)\n\nShould this Mission be fulfilled by one or multiple applicants\n\nMultiple applicants\n\nHow will this Mission Request help accomplish the above Intent?\n\nThis proposal focuses on attracting infrastructure developers and builders to\nenhance the Superchain by leveraging existing OSS Game Development Frameworks\n(GDFs) or crafting new ones to accelerate deployments and reduce onchain\nintegration friction. This mission aims to offer flexible deployment options\nwithin the Superchain and to strengthen the ecosystem’s infrastructure,\nincreasing the number of high-quality applications and developers, and\nultimately positioning the Superchain as a leading onchain platform.\n\nWhat is required to execute this Mission Request?\n\n * OSS Game Development Frameworks (GDFs) already available in the OP chains to\n   incentivize their integration into Superchain Video Games with growth grants.\n\n * Protocol Teams or Developers to build new GDFs or infrastructure to\n   accelerate the game development in the Superchain.\n\n * Public data about GDFs adoption.\n\n * Increase promotion of GDFs available in the Superchain.\n\nHow should governance participants measure impact upon completion of this\nMission Request?\n\nMilestones\n\n * RFP issuance and GFS, tools, and infra teams selection.\n\n * Set a Growth grants distribution calendar for GFS, tools, and infra available\n   in the Superchain.\n\n * Promote GFS, tools, and Infra, offering Growth incentives\n\n * Track progress of new GFS, tools, and infra in the Superchain.\n\n * Coordinate the launch campaign in the Superchain for new GFS, tools, and\n   infra.\n\nMetrics\n\n * Number of Superchain GDFs, tools, and infra repositories.\n\n * Number of developers building GDFs, tools, and infra in the Superchain.\n\n * Number of game studios, teams, or developers actively building with\n   Superchain GDFs.\n\n * Number of games’ smart contracts deployed in the Superchain.\n\n * Gas Fees spent on Superchain games.\n\nImpact\n\n * Push the Superchain as the leading onchain game development platform.\n\n * Growth of devs building in Superchain GDFs, tools and infra.\n\n * Increased adoption of the Optimism technology stack and the Superchain game\n   development frameworks.\n\nHas anyone other than the proposer contributed to this Mission Request?\n\n@habacuc.eth [/u/habacuc.eth] @Joxes [/u/joxes]\n\n\nWHICH METRIC WILL THE SUCCESS OF THIS MISSION REQUEST BE EVALUATED AGAINST?\n\nThe North star metric against which this Mission Request should be evaluated is\n# of transactions emitting event logs, as it tracks the aggregated onchain\nactivity that this program facilitates. This metric was suggested by the\nFoundation and approved by the Grants Council.",
+  "views": 285,
+  "like_count": 5,
+  "word_count": 621,
+  "answer": [
+    {
+      "content": "I would like to sponsor this Mission Request if we could reduce the amount of OP\nto 150K (75k per applicant) as it reduces the risk of this initial experiment\nand if this strategy is proven to work we can always use this to justify a\nlarger portion of funding in future seasons.",
+      "created_at": "2024-07-08T19:03:32.035Z",
+      "trust_level": 2,
+      "username": "Jrocki",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "We think your suggestion is reasonable and agree with it, so we’ve updated the\nbudget. The changes are now included in the proposal.",
+      "created_at": "2024-07-08T23:01:43.937Z",
+      "trust_level": 2,
+      "username": "seedlatam",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "A North Star Metric has been added at the bottom of this Mission Request in an\neffort to enable the Collective to make data-driven decisions. By using a single\nmetric for each Mission Request, the Collective is better able to evaluate the\nperformance of all the Season 6 missions in a standardized manner, which will be\ncritical when the Collective makes decisions about Intents, budgets, or other\ncritical components of governance.",
+      "created_at": "2024-07-19T20:01:11.394Z",
+      "trust_level": 4,
+      "username": "system",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 0
+    },
+    {
+      "content": "As a member of the grants council I will be sponsoring this mission request to\nmove it to token House vote.\n\n@seedlatam [/u/seedlatam] can you tag me as the sponsor in the \" Proposing\nDelegate/Citizen\" field?",
+      "created_at": "2024-07-08T23:30:23.501Z",
+      "trust_level": 2,
+      "username": "Jrocki",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-07-08T17:36:31.859Z"
+}

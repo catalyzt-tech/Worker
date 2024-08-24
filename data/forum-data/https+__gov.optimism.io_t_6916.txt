@@ -1,0 +1,60 @@
+{
+  "title": "RetroPGF 3: Application Review Process",
+  "content": "In RetroPGF Round 3 anybody can submit an application. In the first two weeks\nthere has been significant traction, with over 300 applications submitted\n[https://optimism.easscan.org/schema/view/0x76e98cce95f3ba992c2ee25cef25f756495147608a3da3aa2e5ca43109fe77cc].\nTo not overwhelm the voting process for badgeholders, there is a need for a\nreview process which removes applications that violate the application rules\n(see RetroPGF 3 Application Guidelines\n[https://www.notion.so/RetroPGF-3-Application-Guidelines-6942e743b28e4cc1a53a5e7d781f2bf4?pvs=21]).\n\n\nAPPLICATION REVIEW PROCESS OVERVIEW\n\n 1. Anybody can report a project using the report action on the relevant project\n    profile in RetroPGF voting application(s)\n    [https://github.com/ethereum-optimism/ecosystem-contributions/issues/104].\n    When reporting a project, the user fills out a form where they can select\n    one or multiple rules the application violates.\n 2. Any badgeholder can volunteer to take part in the review process. These\n    Badgeholder Reviewers will assess whether the application violates the\n    application rules selected in the report.\n 3. Each reported application will be reviewed and voted on by 5 Reviewers. For\n    the application to be excluded from the Round, at least 3 out of the 5\n    Reviewers need to cast votes in favor of excluding the application.\n    Reviewers are asked to review, and vote on, a specific set of reports.\n 4. If applicants believe their application has been wrongfully excluded, and is\n    not in violation of the Application Rules, they can file an appeal\n    [https://gov.optimism.io/t/retropgf-3-application-review-appeals/7051].\n    Appeals are reviewed by a subset of volunteering Badgeholder Reviewers.\n 5. Badgeholder Reviewers are not allowed to vote on applications from their\n    primary project.\n    “Primary” is defined as a project to which you dedicate >25% of working\n    hours or derive >25% of your compensation.\n\nIn Round 3, this review process is done by Badgeholder Reviewers; in future\nRounds, this role will be fulfilled by an elected Code of Conduct Council. More\ndetails on this here [https://gov.optimism.io/t/code-of-conduct-councils/6888].\n\n\nHOW TO PARTICIPATE\n\n 1. Any badgeholder can volunteer to participate in the application review\n    process\n    * To join as a Reviewer, a badgeholder must submit this form\n      [https://app.deform.cc/form/31e6832c-b73f-42e9-a6a7-aeaa7b2ee6ce] by\n      Monday, October 16th\n 2. The review process will take place from Oct 24th - Nov 1st. To effectively\n    participate in this process, a reviewer should expect to spend at least 6\n    hours on reviews.\n 3. The Optimism Foundation will allocate 20k OP to reward Reviewers for\n    participating in the review process. Rewards will be retroactively allocated\n    to participants by the Foundation.\n 4. Additionally, the Foundation will select a Lead Reviewer responsible for\n    ensuring all reports have received reviews by 5 Reviewers, coordinating and\n    cleaning up the incoming reports, communicating with other Reviewers, and\n    coordinating with the RetroPGF team. The Lead Reviewer should expect to\n    spend at least 12 hours on this process, and rewards will reflect the\n    incremental commitment made by the Lead relative to Reviewers. The Lead\n    Reviewer will be a non-voting Reviewer. On the form, you can select whether\n    you are interested in becoming a lead reviewer.\n 5. Those who fill in the form will be contacted on Tuesday, October 17th\n 6. We will have a Reviewer sync call on Monday, October 23rd at 11am PT / 6pm\n    UTC\n\n\nRETROPGF 3 APPLICATION RULES\n\nThese rules were published as part of the RetroPGF 3 Application Guidelines\n[https://plaid-cement-e44.notion.site/RetroPGF-3-Application-Guidelines-6942e743b28e4cc1a53a5e7d781f2bf4?pvs=4].\nRules 10., 11. and 12. have been added after the applications process started to\naddress an overwhelming number of low quality applications.\n\n 1.  Promises of future impact - promises of future deliverables or impact are\n     not allowed.\n 2.  False statements & deception - false claims about your contributions, past\n     impact or funding & grants are not allowed.\n 3.  Hateful Content - No racist, sexist, or otherwise hateful speech, no\n     discrimination.\n 4.  Deceiving badgeholders - Malicious content that could cause harm or\n     unintended consequences to users.\n 5.  Fraud & Impersonation - Claiming to be a brand or person you are not. The\n     Grant owner must be directly affiliated with the project, the funds must go\n     to the project.\n 6.  Advertising - Using RetroPGF application to showcase something you are\n     selling like a token sale or NFT drop\n 7.  Bribery - Bribing badgeholders or vote buying is strictly forbidden.\n 8.  Contacting badgeholders to promote your application - Using private\n     channels such as DMs to promote your applications to badgeholders\n 9.  All recipients are subject to KYC - If you do not pass KYC, your grant will\n     be returned to the RetroPGF treasury for future rounds\n 10. Outside of RetroPGF’s scope - contributions that do not have a clear\n     relationship to Optimism, applications that do not highlight a valid\n     contribution* or contributions which are outside of the RetroPGF scope**.\n     * *Contribution is defined as an activity which required a minimum time\n       commitment of 1 hour and which provided impact to the Collective.\n     * **Please note that user interactions (e.g., sending transactions) on OP\n       Mainnet, or on other OP chains that are part of the Superchain, are not\n       in scope to be rewarded in RetroPGF 3.\n 11. Spam - Applications containing spam, such as irrelevant answers,\n     plagiarized content, broken or unrelated impact metrics and contribution\n     links. Applications in languages other than English*.\n     * *This will help simplify the process as English is the working language\n       of the majority of Badgeholders. Please ensure you translate any content\n       that’s part of the application.\n 12. Duplicate applications - Multiple applications from the same individual,\n     project or group which apply for the same impact.\n     * Members of contribution paths\n       [https://plaid-cement-e44.notion.site/Contribution-Paths-in-RetroPGF-Round-3-322eb3a24bf149eeb2bd7af5ba22d1b3?pvs=4]\n       (Council Members, Ambassadors, NumbaNERDs, SupNERDs, TechNERDs,\n       Translators) or Councils can’t submit individual applications for their\n       work within the relevant workstream, as each workstream will apply as a\n       project.",
+  "views": 2659,
+  "like_count": 78,
+  "word_count": 1744,
+  "answer": [
+    {
+      "content": "To address badgeholder feedback some adjustments have been made to the process,\nwhich are now reflected in the post:\n\n * Each reported application will be reviewed by 5 Reviewers. For the\n   application to be excluded from the Round, at least 3 out of the 5 Reviewers\n   need to cast votes in favor of excluding the application. Reviewers can self\n   select which applications to review and vote on, as long as the application\n   has not already received votes from 5 Reviewers.\n * Badgeholder Reviewers are not allowed to cast votes on applications from\n   their primary project. “Primary” is defined as a project to which you\n   dedicate >25% of working hours or derive >25% of your compensation.\n * The Lead Reviewer will be a non-voting Reviewer.\n\nA large portion of badgeholders are associated with a project that is\nparticipating in RetroPGF 3.\nRequiring at least 3 out of 5 Reviewers to cast votes to exclude an application,\nshould provide resilience while still allowing for broad participation in the\nprocess.",
+      "created_at": "2023-10-05T14:13:03.565Z",
+      "trust_level": 4,
+      "username": "Jonas",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 10
+    },
+    {
+      "content": "I think this Application Review Process is a great idea and I’m happy that it’s\nbeing implemented for this round.\n\nI am not a badgeholder, but I was reviewing some applications and a high\npercentage of them (IMHO) do not meet even the minimum criteria to participate.\n\nThanks to the Review Process, the badgeholders will be able to focus on\nrewarding the projects/individuals that truly made a positive impact on the\nCollective.",
+      "created_at": "2023-10-13T12:29:51.245Z",
+      "trust_level": 2,
+      "username": "Pumbi",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": "Nevermind, just found it!",
+      "created_at": "2023-10-11T20:30:24.905Z",
+      "trust_level": 1,
+      "username": "NewtroArts",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "Not sure I completely understand this question. Let’s take this convo to the\n#retropgf-discussions channel in Discord :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]",
+      "created_at": "2023-10-03T15:39:05.361Z",
+      "trust_level": 4,
+      "username": "Jonas",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 4
+    },
+    {
+      "content": "Yes @joanbp [/u/joanbp]! We’ve updated the form so you can provide a Discord\nhandle!",
+      "created_at": "2023-10-05T19:17:47.121Z",
+      "trust_level": 4,
+      "username": "Jonas",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 4
+    }
+  ],
+  "created_at": "2023-10-03T14:16:58.444Z"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Don't make Quest a large criteria for airdrop 2",
+  "content": "I’m of course aware the next airdrop criteria is not public and likely won’t\never be, but after seeing Quest I’m worried about its potential use to determine\na portion of airdrop 2.\n\nFor example, if a wallet completes the quest(s), and has no organic transactions\nafter, then this should be excluded from drop 2 because they’re clearly just\ncoming for handouts.\n\nAs a long time user of Optimism, I feel pressured to do the Quests because of\nthe presumption it will be used for drop 2, but I’ve already used the majority\nof protocols live on OP, and done most of the tasks organically so am not about\nto jump through a set of hoops for an NFT to say so. Wouldn’t it have made sense\nfor past transactions to be eligible?\n\nQuest is a good idea to get people bridging and trying out OP, I just hope that\nexisting users doing many natural txs will not be snubbed by not completing it.\nI am not against giving Quest completooors any OP. Just dont waste it.\n\nAlso please decentralize the sequencer. Thanks.\n\nnb. I am aware this probably come across as ‘muuuh make airdrop requirements to\nwhat my wallet does’, but all you have to do to see the general attitude of\nquestooors is go to any protocols discord and look at all the posts saying ‘I\ndid the task wen nft, can i withdraw now’. I have seen very little posts like\n‘hey this protocol is cool how does it work’.",
+  "views": 3492,
+  "like_count": 137,
+  "word_count": 4786,
+  "answer": [
+    {
+      "content": "Having it as an ‘extra’ would make sense to me, in the same way in drop 1 there\nwas an allocation for several things, OPQ could be one of them for sure. I’m not\nsuggesting they get nothing.\n\nUsing it as a sybil filter would actually not be insane - if a wallet has\nliterally only done quest and nothing else for some period of time after quests\ncompletion date then imho they should not get any allocation, as the activity\nproves they are not actual and active users.",
+      "created_at": "2022-10-23T19:01:55.117Z",
+      "trust_level": 2,
+      "username": "bangrygoose",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": "Quests are fun and educate people. The harder, the better people eligible for\nairdrops",
+      "created_at": "2022-10-25T11:45:58.619Z",
+      "trust_level": 1,
+      "username": "vanzoo",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "Don’t be such a killjoy. :roll_eyes:\n[https://emoji.discourse-cdn.com/twitter/roll_eyes.png?v=12]:thought_balloon:\n[https://emoji.discourse-cdn.com/twitter/thought_balloon.png?v=12]\nI enjoy quests.",
+      "created_at": "2022-10-23T14:52:52.224Z",
+      "trust_level": 2,
+      "username": "TriaxialTick5",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Hmmm I think the team behind optimism has a good plan for the quest and will not\nthrow around tokens for people that use all of the protcolos for 1 minute or so.",
+      "created_at": "2022-10-24T17:25:53.387Z",
+      "trust_level": 2,
+      "username": "ichnicht",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Given that quest will be a criteria, how would you recommend doing it ? A\nmultiplier ? Do you think it could be used to filter the sybil.",
+      "created_at": "2022-10-23T18:21:18.581Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    }
+  ],
+  "created_at": "2022-10-23T12:15:25.927Z"
+}

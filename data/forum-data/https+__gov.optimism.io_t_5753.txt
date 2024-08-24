@@ -1,0 +1,60 @@
+{
+  "title": "Governance Update #6: Season 3 Reflections",
+  "content": "GOVERNANCE UPDATE #6: SEASON 3 REFLECTIONS\n\nCan you believe Season 3 is coming to an end?! Voting Cycle 11 is ongoing\nthrough April 5th and we’ll soon enter into a Reflection Period. Reflection\nPeriods are a time for delegates to reflect on what’s been going well and what\nwe can improve, and for the Foundation to make suggestions for the next Season.\nIn preparation for the upcoming Reflection Period, below are some reflections of\nour own.\n\n\nFIRST THINGS FIRST: VOTE IN CYCLE 11!\n\nCycle 11 is our first voting cycle using Agora’s new on-chain voting\ninfrastructure\n[https://gov.optimism.io/t/transitioning-to-on-chain-voting/4193]! Please note\nthat there are 2 votes in Cycle 11:\n\n * Bedrock\n   [https://vote.optimism.io/proposals/114732572201709734114347859370226754519763657304898989580338326275038680037913]:\n   The first Protocol Upgrade to go through Optimism Governance\n * Delegate Suspension: Fractal Visions\n   [https://vote.optimism.io/proposals/27878184270712708211495755831534918916136653803154031118511283847257927730426]:\n   The first proposal enforcing the Code of Conduct\n   [https://gov.optimism.io/t/code-of-conduct/5751]\n\nNote: You need to scroll down in the Agora UI to see the second vote\n\n\nCONTINUED PROGRESS TOWARDS DECENTRALIZATION\n\n * We welcomed 23 protocols as delegates via the Protocol Delegation Program\n   [https://gov.optimism.io/t/special-voting-cycle-9a-protocol-delegation-program/4200]\n   and some of our investors have chosen to delegate their voting power\n   [https://gov.optimism.io/t/token-house-update-on-investor-delegations/4995]\n   to a variety of distinct delegates.\n * Votable supply, the number of OP delegated to a voter, has increased\n   meaningfully throughout Season 3 moving from a votable supply of 22M at the\n   start of the Season to 40M in Cycle 11.\n * Heads up that on May 31 we’ll see a substantial increase in OP token\n   circulating supply due to tokens being released from lockup. These are not\n   new token awards. You can read more about overall OP allocations here\n   [https://community.optimism.io/docs/governance/allocations/].\n * The Grants Council has processed more than 150 grants this season in a\n   streamlined grants process!\n * At the conclusion of Cycle 11, the Token House will determine if the Grants\n   Council should continue and whether the Protocol Delegation Program should be\n   continued for a second and final Season.\n\n\nMAINTAINING A VALUES-ALIGNED GOVERNANCE COMMUNITY\n\nSome tough conversations surfaced throughout the course of Season 3. We’d like\nto take this opportunity to address the concerns raised in these conversations\nand the importance of maintaining a values-aligned governance community:\n\n * Concerns were raised about the grant made to L2DAO. You can see delegate\n   research on the issue here\n   [https://gov.optimism.io/t/about-the-monitoring-category/5704]. This is the\n   second time\n   [https://gov.optimism.io/t/layer2dao-response-to-allegations-from-velodrome-november-2022/5705/4]\n   concerns have been raised about this grant. Given the escalating dialogue\n   around this issue, the Foundation reached out to L2DAO to suggest they make a\n   public statement to the community. There is no further action to be taken\n   against L2DAO regarding their Phase 0 grant as this Code of Conduct cannot be\n   applied retroactively. That does not mean there is nothing we can do about\n   future grants or grant usage from today forward.\n\n * We have made the following updates:\n   \n   * We have updated the Code of Conduct\n     [https://gov.optimism.io/t/code-of-conduct/5751] and implemented additional\n     processes for grant accountability, including a future grant freeze.\n     Starting today, the no-sale policy and proposal adherence are enforceable\n     via the Code of Conduct. The updated Code of Conduct is effective\n     immediately, but will not be applied retroactively.\n   * The Operating Manual\n     [https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md]\n     has been updated to include a proposal type that allows for a clawback of\n     locked grants for failure to execute on critical milestones.\n   * Additionally, for those who are not covered by the Code of Conduct,\n     violations of the Rules of Engagement\n     [https://gov.optimism.io/t/rules-of-engagement-2-0/5728] now have explicit\n     consequences that mirror those of the Code of Conduct. The Rules of\n     Engagement have always been applicable to anyone who engages in Optimism\n     community spaces, including Optimism Discourse, Discord & Reddit.\n\n * These measures are designed to prevent many of the concerns expressed over\n   the past few days. The Code of Conduct and Rules of Engagement will be\n   enforced, as evidenced by the ongoing delegate suspension vote\n   [https://vote.optimism.io/proposals/27878184270712708211495755831534918916136653803154031118511283847257927730426]\n   and Dicaso’s temporary suspension from Discourse.\n\n * With these updates to the Code of Conduct, it is in everyone’s best interest\n   to move on from pursuing recourse for past misuse of grants. We’ve made many\n   improvements to prevent grant misusage, which will capture any misusage from\n   today forward of any previously made grants, including those from Phase 0. We\n   believe it is in the Collective’s best interest to prevent grant misusage via\n   smaller grant sizes, milestone based payments, clawback mechanisms, and the\n   Code of Conduct rather than legal recourse.\n\nMost importantly: Even if well intentioned, the interactions that have occurred\nover the past few days have been a net negative for the Collective. Yes, it is\nimportant that we have accountability, but there is also a very real opportunity\ncost to its relentless pursuit. Delegates, badgeholders, and the Foundation have\nbeen distracted from doing work that is crucial to building towards the\nOptimistic Vision [https://www.optimism.io/vision] (voting in RetroPGF, voting\non Bedrock, planning Season 4.) The environment created as delegates engaged in\nthese conversations is destructive to what we’re trying to build. Engaging with\neach other in a way that violates the Code of Conduct may prove your point, but\nit does so at the expense of the entire community.\n\nIt is important that we continue to update, improve, and iterate on governance\nprocesses, but the more critical element for the Collective’s success is that we\nprioritize what is best for the entire Collective in the long term rather than\nany subset of the Collective in the short term.\n\n\nWHAT HAPPENS AFTER CYCLE 11?\n\nCycle 11 (and Season 3) ends April 5th. On April 6th, we’ll kick off a two week\nReflection Period to discuss feedback on Season 3 and to get feedback on new\ninitiatives for Season 4. There will be multiple Special Voting Cycles to vote\non Season 4 proposals. Season 3 will begin with Voting Cycle #13. More details\nto follow shortly!\n\nIt’s been an exciting Season watching Optimism Governance experiment with the\nGrants Council, the Protocol Delegation Program, and RetroPGF Round 2. We’ve\ntaken historic steps towards decentralization, with the first governance\napproved protocol upgrade, and we’ve been reminded of the importance of\nmaintaining a values-aligned community for the long term. Thank you to those of\nyou that have been engaging in the spirit of the Collective.\n\nAs always,\n\nStay Optimistic!",
+  "views": 2482,
+  "like_count": 56,
+  "word_count": 1336,
+  "answer": [
+    {
+      "content": "\n[https://europe1.discourse-cdn.com/bc41dd/original/1X/391d6e71a279a9f881f75bfa7df5cdf3cf905b3f.png]\nsystem:\n\n> There is no further action to be taken against L2DAO regarding their Phase 0\n> grant as this Code of Conduct cannot be applied retroactively. That does not\n> mean there is nothing we can do about future grants or grant usage from today\n> forward.\n\nUpdated to clarify this statement in no way condones how the grant was used but\nrather indicates that the Code of Conduct cannot be applied retroactively.",
+      "created_at": "2023-03-28T18:48:01.159Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 10
+    },
+    {
+      "content": "I would like to note that despite the fact that the Code of Conduct cannot be\napplied retroactively, the monitoring of past grant usage of an organization can\nand should be used to review organizations applying for future grants. Thus,\nmonitoring of past grants by the community is not necessarily wasted effort (if\ndone in a productive, evidence-driven manner).",
+      "created_at": "2023-03-30T00:42:35.213Z",
+      "trust_level": 2,
+      "username": "chaselb",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "Couldn’t agree more, sir.",
+      "created_at": "2023-03-30T15:29:31.601Z",
+      "trust_level": 2,
+      "username": "alexcutlerdoteth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Enforcement of Code of Conduct implemented in actuality shows the eye for detail\nand importance of it. Yes information flow and transparency is imperative.",
+      "created_at": "2023-04-01T09:41:38.629Z",
+      "trust_level": 0,
+      "username": "gopal",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "appreciate the updates",
+      "created_at": "2023-04-16T03:04:29.418Z",
+      "trust_level": 2,
+      "username": "moosekb",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2023-03-27T19:12:25.730Z"
+}

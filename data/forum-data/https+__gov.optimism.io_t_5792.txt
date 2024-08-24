@@ -1,0 +1,20 @@
+{
+  "title": "Bedrock Downtime - What to Know!",
+  "content": "In preparation for the bedrock update, Blockchain@USC wants to do our part in\neducating the ecosystem about the upgrade, particularly regarding the upcoming\ndowntime, so that everyone is properly informed. If you have resources or\nadditional information to add, reply below!\n\n\nSUMMARY\n\nThe Bedrock release1 implements a modular architecture that separates the OP\nStack2 into consensus, execution, and settlement components. The OP stack allows\nfor an easy conversion of an Ethereum execution client into an Optimism\nexecution client in under 2,000 lines of code. This upgrade provides simplicity\nand EVM equivalence, enabling maximal use of Ethereum’s battle-tested code,\nimproved performance, and security. As the Optimism ecosystem undergoes the\nBedrock upgrade, stakeholders within Optimism including accounts, projects, and\nDEXs, should prepare for up to a 4-hour downtime3 (Note: if you hold ETH on\nOptimism, your ETH is safe!). Deposits, withdrawals, and transactions on the\nlegacy sequencer will be temporarily halted during this period to ensure a\nseamless hard fork; the new Bedrock chain will retain the same chain ID,\ntransaction history, and state.\n\n\nNODE OPERATORS\n\nNode operators4 should be prepared to update their clients to accommodate for\nany new infrastructure introduced with the Bedrock upgrade. DApp and wallet\ndevelopers must be aware that all transactions on Optimism will be paused during\nthe upgrade, but post-upgrade, the network will resume with all data preserved\nand continued compatibility with existing tooling.\n\n\nSTAKEHOLDERS AND USERS\n\nStakeholders and users should exercise caution during the upgrade. Users are\nadvised not to make transactions during the 4-hour delay and close positions and\ntrades that may result in automated transactions. They should also consider\nremoving liquid positions and staked tokens, while bearing in mind that bridging\nout of Optimism is not necessary as token ownership should remain unaffected.\nProactive planning, testing, and adaptation to the new upgrade will minimize any\nnegative impact and ultimately lead to improved node performance, lowered\ntransaction fees, and enhanced EVM compatibility.\n\nPlease be wary of MEV transactions after upgrade, given the four-hour downtime;\ninteractions with the blockchain are at higher risk of getting front-ran.\n\n\nTL;DR\n\nThe upcoming Bedrock upgrade will undergo a four-hour downtime; stakeholders\nshould proceed with caution during this period.\n\nContributors:\n@Sator [/u/sator] (Twitter: Atlantropaz)\nLuca Cordova Stuart (Twitter: lucacs_eth)\nBen Chai (Twitter: BasedDoge2)\n\nReviewed By:\n@chaselb [/u/chaselb] (Twitter: 0xdididoitright)\nBJ Moon (Twitter: figmasimp)",
+  "views": 1588,
+  "like_count": 17,
+  "word_count": 484,
+  "answer": [
+    {
+      "content": "Referenced Links\n1: Bedrock Explainer | Optimism Docs\n[https://community.optimism.io/docs/developers/bedrock/]\n2: https://stack.optimism.io/ [https://stack.optimism.io/]\n3: Upgrade Guide | Optimism Docs\n[https://community.optimism.io/docs/developers/bedrock/upgrade-guide/]\n4: Node Operator Guide | Optimism Docs\n[https://community.optimism.io/docs/developers/bedrock/node-operator-guide/]\n\nMore Resources\n[Upgrade Guidance\n[https://community.optimism.io/docs/developers/bedrock/upgrade-guide/], Testnets\n[https://community.optimism.io/docs/developers/bedrock/public-testnets/],\nUpgrade Proposal\n[https://gov.optimism.io/t/final-upgrade-proposal-bedrock-v2/5548]]\n\n(Placing here due to restrictions on new users)",
+      "created_at": "2023-03-31T02:25:14.200Z",
+      "trust_level": 2,
+      "username": "chaselb",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 8
+    }
+  ],
+  "created_at": "2023-03-31T02:22:48.243Z"
+}

@@ -1,0 +1,63 @@
+title: Getting Started Developing for OP Mainnet
+lang: en-US
+description: Learn the basics of OP Mainnet development.
+
+import { Steps } from 'nextra/components'
+
+Getting Started Developing for OP Mainnet
+
+This guide explains the basics of OP Mainnet development.
+OP Mainnet is EVM equivalent, meaning we run a slightly modified version of the same geth you run on mainnet.
+Therefore, the differences between OP Mainnet development and Ethereum development are minor.
+But a few differences do exist.
+
+OP Mainnet and OP Sepolia Endpoint URLs
+
+To access any Ethereum type network you need an endpoint. These providers support our networks.
+
+Network Choice
+
+For development purposes we recommend you use either a local development node or OP Sepolia.
+That way you don't need to spend real money.
+If you need ETH on OP Sepolia for testing purposes, you can use this faucet.
+
+Interacting with Contracts on OP Mainnet or OP Sepolia
+
+We have Hardhat's Greeter contract on OP Sepolia at address 0x9d334aFBa83865E67a9219830ADA57aaA9406681.
+You can verify your development stack configuration by interacting with it.
+
+Development Stacks
+
+As you can see in the different development stacks below, the way you deploy contracts and interact with them on OP Mainnet or OP Sepolia is almost identical to the way you do it with L1 Ethereum.
+The most visible difference is that you have to specify a different endpoint (of course).
+The list of other differences is here.
+
+Apeworx
+Brownie
+Foundry
+Hardhat
+Remix
+Truffle
+Waffle
+
+Best Practices
+
+Use Provided EVM
+
+It is best to start development with the EVM provided by the development stack.
+Not only is it faster, but such EVMs often have extra features, such as the ability to log messages from Solidity or a graphical user interface.
+
+Debug Before Deploying
+
+After you are done with that development, debug your decentralized application using either a development node or the Sepolia test network.
+This lets you debug parts that are OP Mainnet specific such as calls to bridges to transfer ETH or tokens between layers.
+
+Only when you have a version that works well on a test network should you deploy to the production network, where every transaction has a cost.
+
+Contract Source Verification
+
+You don't have to upload your source code to block explorers, but it is a good idea.
+On the test network, it lets you issue queries and transactions from the explorer's user interface.
+On the production network, it lets users know exactly what your contract does, which is conducive to trust.
+
+Just remember, if you use the Etherscan API, you need one API key for OP Mainnet and a separate one for OP Sepolia.

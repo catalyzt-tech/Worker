@@ -1,0 +1,60 @@
+{
+  "title": "A review of RPGF2 and ideas for how data can improve future iterations",
+  "content": "My team at Protocol Labs has been doing some analysis on the impact of funding\nopen source. Eventually, we’d like to get to the point where you can take a\nfunding pool like RPGF2 and evaluate its impact on network adoption indicators\nlike active developers and monthly active users - and use those learnings to\nimprove the next round.\n\nHere is a write-up on RPGF2\n[https://mirror.xyz/cerv1.eth/tCjpRODfiYpnKIgPLRplW0lAopVP3no_JmI34dNsAWk] and a\ntweet thread [https://twitter.com/carl_cervone/status/1679198417384243221] you\ncan check out.\n\nA few of the insights:\n\n * 66/195 were ideal for permissionless impact measurement because they shared\n   both an organization GitHub repo and a payout address with a robust\n   transaction history. An additional 39 projects, which were either solo or\n   team of team initiatives, had an active GitHub and verified address.\n\n * 38/195 projects appeared to have contracts on Optimism, implying most of the\n   impact that RPGF rewards is upstream of sequencer fees.\n\n * Most projects indicated a team size of 2-10 people in their application.\n   Larger teams tended to receive larger grants. However, as projects get\n   larger, the amount of grant funding per contributor becomes less significant.\n   The average funding per contributor declines markedly for projects with more\n   than 10 full-time team members.\n\n * Older projects received more funding – roughly 10,000 OP for every additional\n   year of activity. However, the tendency for more established projects to\n   receive more funding isn’t as strong within categories. In education, for\n   instance, newer projects tended to perform better than older ones.\n\n * Projects with what we called “steady” momentum – i.e., consistent activity on\n   their organization’s GitHub for over two years – received much larger grant\n   sizes on average than newer, “rising” projects and older projects with\n   “bursty” activity.\n\nWe hope the work gets at the potential of bringing more data into the loop, but\nalso some of the limitations due to missing data about projects. We’re in the\nprocess of deepening the analysis and will provide updates.\n\nIn the meantime, we also have some recommendations for getting more structured\ndata into the project application forms that hopefully can be considered in\nadvance of RPGF3. These include:\n\n 1. Creating precise entity definitions such as individuals, organizations, and\n    collections.\n 2. Verifying eligibility requirements for each entity type during the\n    application phase. For instance, an “organization” should control a GitHub\n    organization.\n 3. Requiring entities to link at least one source of public work artifacts,\n    such as a GitHub repo, a deployer address or list of contracts on OP\n    mainnet, an RSS feed, etc.\n 4. Requiring entities to share a dedicated address for receiving grant funds,\n    such as a Safe, splits contract, or ENS.\n\nLast, we had a lot of fun with the analysis and data viz. If anyone has\nhypotheses they’d like to explore or more visualization ideas, send over a DM!\n\nh/t to @Jonas [/u/jonas], @MSilb7 [/u/msilb7], @chuxin_h [/u/chuxin_h] for the\nfeedback and ideas they’ve already provided!",
+  "views": 1844,
+  "like_count": 54,
+  "word_count": 1045,
+  "answer": [
+    {
+      "content": "Great work on this! Really excited to see so many bug brains working on\nquantifying impact. How would this apply to evaluating the badgeholders that\nvote on the RPGF allocations?",
+      "created_at": "2023-07-13T13:11:42.454Z",
+      "trust_level": 2,
+      "username": "Carlosjmelgar",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/ccerv1/48/6309_2.png]\nccerv1:\n\n> Requiring entities to link at least one source of public work artifacts, such\n> as a GitHub repo, a deployer address or list of contracts on OP mainnet, an\n> RSS feed, etc.\n\nFor educators, it would be helpful to provide a link to a spreadsheet containing\na content list, website, Twitter threads connecting all the contents, or\nanalytics.\n\nAlso, as a local language educator, I’m quite worried that it’s difficult for\nreviewers/badgeholders to assess my work.",
+      "created_at": "2023-07-13T18:43:02.230Z",
+      "trust_level": 2,
+      "username": "nanobro",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "The best analyses live in the OP Governance forums :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12] (See more here\n[https://gov.optimism.io/c/monitoring/62])\n\nThis is awesome! I left some thoughts in the Twitter thread, but re-commenting\nhere a few things that popped out to me:\n\n * image\n   [https://europe1.discourse-cdn.com/bc41dd/optimized/2X/9/9bf6ca1d52156d3e634548216ab2fa988a2c9e8a_2_690x441.jpeg]\n   image1588×1016 149 KB\n   [https://europe1.discourse-cdn.com/bc41dd/original/2X/9/9bf6ca1d52156d3e634548216ab2fa988a2c9e8a.jpeg]\n   \n   I wonder if this trend is a function of the round size : # of applicants\n   ratio, voting bias, or maybe this is by design (i.e. are larger teams more\n   likely to have existing strong funding sources?)\n * \n\n\n\nimage\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/8/8633b46280a7358efda993fb71e30aedcccae0a1_2_624x500.jpeg]\nimage1684×1348 178 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/8/8633b46280a7358efda993fb71e30aedcccae0a1.jpeg]\n\nThis was my favorite section. I’m sure we all have personal thoughts on what\nkind of trends we’d like to see, but tracking this after & between RPGF rounds\nwould be super interesting as well (i.e. is this\n[https://twitter.com/optimismFND/status/1519001611640659968?s=20] happening)\n\n\n\nOverall this is hugely valuable, and definitely opens up questions (like others\nhave mentioned) about what’s the best type of information to have for each type\nof project so that we can more accurately evaluate them in this type of style.\n\nI work at OP Labs, but making this post personally",
+      "created_at": "2023-07-13T20:08:26.580Z",
+      "trust_level": 2,
+      "username": "MSilb7",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Really enjoy the read and thanks @ccerv1 [/u/ccerv1] and the PL team for this\ncomprehensive work!\n\nIt got me thinking how much the impact measurement can be improved if we can\ncapture data and inputs earlier in the process, and have better method for\nattributing impact.\n\nI work at OP Labs, but making this post personally",
+      "created_at": "2023-07-18T03:11:53.722Z",
+      "trust_level": 2,
+      "username": "chuxin_h",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "really outstanding work, eager to get thoughts on how this info’ll eventually be\nexposed to badgeholders as part of an easy-to-understand intake",
+      "created_at": "2023-07-13T14:37:49.814Z",
+      "trust_level": 2,
+      "username": "jackanorak",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    }
+  ],
+  "created_at": "2023-07-13T12:55:11.712Z"
+}

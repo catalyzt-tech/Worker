@@ -1,0 +1,20 @@
+{
+  "title": "Big Blue Notification is Helpful in the maze of this Discourse :-)",
+  "content": "Just a thought bubble:\n\nThe big, blue notification at the top of my page after logging in this morning\nis very helpful, and this feature should be used more.\n\nFinding things and critical dates (e.g. Season 3 application open dates) can be\ndifficult at the best of times in this active discourse. So thanks for grabbing\nmy attention and being concise with the important details, with this\nnotification.\n\nI hope this feature can be used more by Admins.\n\nCheers,\nAxel",
+  "views": 1521,
+  "like_count": 4,
+  "word_count": 94,
+  "answer": [
+    {
+      "content": "Right. I think that feature is really good. I use it every time.",
+      "created_at": "2022-12-22T15:42:45.814Z",
+      "trust_level": 2,
+      "username": "hait",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2022-12-21T22:52:18.322Z"
+}

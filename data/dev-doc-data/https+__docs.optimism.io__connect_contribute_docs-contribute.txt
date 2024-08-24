@@ -1,0 +1,83 @@
+title: Ways to Contribute to Optimism Docs
+lang: en-US
+description: Learn about the different ways you can contribute to Optimism Docs.
+
+import { Callout } from 'nextra/components'
+
+Contribute to Optimism Docs
+
+Optimism Docs (docs.optimism.io) is an open-source project, and we welcome your contributions. Here's how you can help grow and support the Optimism Collective.
+
+Ways to contribute
+
+Work on a good first issue: make the greatest and most immediate impact with a quick-start or tutorial. These special issues are clearly labeled for new contributors to Optimism.
+Edit existing content: make tweaks to existing content using the ✏️ Edit this page on GitHub or ❤️ Share general feedback links on the right-side of any page.
+Add or update an FAQ item:
+add a new FAQ (question+answer set) to an existing page, create a new FAQ page, or update an existing FAQ question/answer set.
+Add or update a troubleshooting item:
+add a new troubleshooting item (problem+solution set) to an existing page, create a new troubleshooting page, or update an existing troubleshooting problem/solution set.
+Add a glossary term:
+help us continue to expand the Optimism glossary.
+Add a faucet to the developer community:
+add a new faucet to the Faucets page or update an existing faucet.
+Add an oracle to the developer community:
+add a new oracle to the Oracles page or update an existing oracle.
+Add a node provider to the developer community
+add an RPC or Node provider to our Node providers listing or update an existing node provider.
+Add a block explorer to the developer community:
+add a new block explorer to the Block Explorers page or update an existing block explorer.
+Add a blockchain indexer to the developer community:
+add a new blockchain indexer to the Blockchain Indexers page or update an existing blockchain indexer.
+Work on an open issue: start with items we've already identified as needing attention, which range from general guides to tutorials and quickstarts.
+Create new content: create new content to add to the technical docs.
+Review the style guide and follow the PR process outlined in the contributor guidelines to get started.
+Submit a bug report: create a report to help us improve our products and developer tooling. For more information, please read our Security Policy.
+Contribute to the Optimism Collective: select from several different categories where you can make an impact such as
+foundation missions or general contributor opportunities.
+
+How to work on docs.optimism.io
+
+Whether you're adding to the site, creating content, or working on open issues, you'll need a GitHub account.
+All updates are made via the GitHub PR process. This means you create a local copy of the website, make your changes and request to merge your changes.
+Please see the contributor guidelines for more details.
+
+You don't need permission to work on anything, but it's always best to let us know what you're planning to do, so we don't duplicate efforts. You can do this by:
+
+Commenting on an issue or PR in GitHub
+Messaging us in the developer support channel
+
+Before contributing, make sure you're familiar with:
+
+the Optimism vision and values
+our contributor guidelines
+our style guide
+our code of conduct
+
+How decisions about the site are made
+
+Decisions about individual PRs, tutorials, and major docs updates are made by the Developer Relations team.
+We want to transition to a more community-informed and community-generated approach for the Optimism Docs, so please raise questions in issues, submit PRs, or contact the team:
+
+Please contact the Foundation's service provider at devrel@oplabs.co.
+Raise questions or contact the developer support channel.
+
+A note on plagiarism
+
+Only use your original work or content that you have permission to use when contributing any content or artifact to docs.optimism.io.
+Many projects use open-source licensing that allows for the free sharing of information. However, if you cannot find this information, do not attempt to add it to docs.optimism.io.
+Any pull requests deemed as plagiarism will get rejected.
+
+Claim your GitPOAP
+
+We use GitPOAPs to recognize our contributors! GitPOAP automatically recognizes your merged contribution and lets you mint a unique contributors POAP directly on their platform.
+
+How to claim
+
+Visit Optimism's GitPOAP page.
+Connect with your wallet or your email through sign in option.
+Search for your GitHub username, ETH address, ENS names or any GitPOAP to check if you're eligible.
+If your GitHub account is eligible, then you are able to mint a GitPOAP!
+
+Still Have Questions?
+
+You can reach us in our developer support forum. We look forward to growing the Collective with you!

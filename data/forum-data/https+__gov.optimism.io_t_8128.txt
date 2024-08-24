@@ -1,0 +1,9 @@
+{
+  "title": "The new forum Layout",
+  "content": "User Friendly, structured, Organized. Thank you for the efforts",
+  "views": 145,
+  "like_count": 1,
+  "word_count": 9,
+  "answer": [],
+  "created_at": "2024-05-11T10:55:53.771Z"
+}

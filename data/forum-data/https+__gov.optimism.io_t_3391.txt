@@ -1,0 +1,60 @@
+{
+  "title": "Optimism goal is reducing transaction fees, yet OP value comes from governance over transaction fee revenue. Is this contradiction problematic?",
+  "content": "OP holders apparently gain from increasing transaction fee revenue. This seems\ndirectly contradictory to Optimism’s mission. Can this be problematic in the\nfuture? Should we think of better ways to align governance interests?",
+  "views": 1685,
+  "like_count": 9,
+  "word_count": 454,
+  "answer": [
+    {
+      "content": "Where did you see this correlation? Fees are paid in ETH, and Optimism fees vary\ndepending on Ethereum fees and/or ETH price variation.",
+      "created_at": "2022-08-28T09:12:08.427Z",
+      "trust_level": 2,
+      "username": "diligit",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "I think one thing to keep in mind is that Optimism isn’t operating in a vacuum.\nThere are other L2s and L1s that users would move to if Optimism wasn’t\ncompetitive on the fee front. Optimism wins this race by having the best\nexperience for users, including lower fees.",
+      "created_at": "2022-08-28T18:45:48.113Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Yeah that’s the central idea I was hoping to receive as response! Can we make OP\nholders benefit from increased ecosystem activity, besides tx fees?\n\nFor example, extending EVM op codes with app-optimized ops, with larger revenue\nmargins for that extended op set. Just one idea I had. Another might be giving\nusers the option to pay cheaper tx fees is they use OP, while still allowing ETH\ntx fees; this slightly incentivizes using OP as SoV.",
+      "created_at": "2022-08-28T19:29:20.832Z",
+      "trust_level": 1,
+      "username": "nicszerman",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "I don’t see an issue here. Incentives are the bedrock or decentralization.",
+      "created_at": "2022-08-28T08:19:05.091Z",
+      "trust_level": 2,
+      "username": "TriaxialTick5",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "There is no contradiction here. OP utility is 100% governance token, fees are\npaid in ETH. There is no current way/plan that I am aware to change this.\n\nValue is a very broad term.\nFrom a financial view, OP should tend to X since the only intrinsic value is\ndriven by governance utility. What is X? That is the experiment we are all into,\nmarket cap analyst keep on getting warned on Discord because they are sorely\nlooking at increase in supply, no revenue sharing, inflation.\n\nFrom a non financial view, OP cannot be priced. The market movements will make\nthe price move. But we are seeing that protocols are actively engaging on chain\ngovernance and they are the ones that really take the long view on this.",
+      "created_at": "2022-08-28T13:34:27.982Z",
+      "trust_level": 2,
+      "username": "Netrim",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-08-28T07:13:30.636Z"
+}

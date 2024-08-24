@@ -1,0 +1,9 @@
+{
+  "title": "[Introduction] ChainVine – on-chain referral marketing",
+  "content": "Hi everyone! ChainVine launched a closed beta on Optimism (and most other EVM\nsolutions). Our tool allows you to spin up on-chain referral marketing campaigns\n(e.g., earn 0.01 ETH when someone mints an NFT through your link).\n\nWe believe this is a great way to leverage our own communities to support growth\nor pay influencers by their impact. Looking forward to supporting DeFi and NFT\nprojects on Optimism.\n\nOur website: https://www.chainvine.xyz/ [https://www.chainvine.xyz/]\n\nFollow us on Twitter for updates: https://twitter.com/chainvine_xyz\n[https://twitter.com/chainvine_xyz]\n\nPlease DM me in Discord if you are interested in joining our beta club:\n0xRock#5540",
+  "views": 1546,
+  "like_count": 0,
+  "word_count": 107,
+  "answer": [],
+  "created_at": "2022-12-07T14:22:56.970Z"
+}

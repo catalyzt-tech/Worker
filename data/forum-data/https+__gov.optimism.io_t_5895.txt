@@ -1,0 +1,60 @@
+{
+  "title": "Intent 3: Season 4",
+  "content": "Please add your suggestions for Intent #3\n[https://gov.optimism.io/t/collective-intents/5874/2] here.\n\nAdditionally, we will host a 1/2 hour call to facilitate brainstorming and\ndiscussion about Intent #3 on 17:30 GMT on April 20th (directly following the\nFoundation AMA.)",
+  "views": 3046,
+  "like_count": 91,
+  "word_count": 3748,
+  "answer": [
+    {
+      "content": "NOTES FROM INTENT BRAINSTORM CALL (4/20/23)\n\nSummary of delegate discussion as noted by lavande, apologies for any\ninaccuracies or misrepresentations of ideas\n\n\nGENERAL NOTES\n\n * Intent specifies the “What,” Missions specify the “How”\n   * Broader Intents could encompass more Missions in first iteration\n   * But underspecifying the Intent could lead to poorly scoped Missions\n * Inspiration may come from ideas list\n   [https://github.com/ethereum-optimism/optimism-project-ideas]\n\n\nSUGGESTIONS\n\n(Some delegates plan to post more fully formulated descriptions of the below\nconcepts shortly)\n\n * Suggestion 1: Initiatives that promote the Optimism Collective’s mission /\n   create discussions on public goods / create visibility for RetroPGFand grant\n   funding opportunities\n   \n   * Would be an Intent that is more externally facing than all the others\n   * Something like “Next 2 Billion Eyes on Optimism”\n   * Promotion to builders is important and missing in the current intents\n   * I think if you asked people outside of these calls, “What is Ether’s\n     Phoenix?” very few would be able to answer, even though it’s a message that\n     could resonate with a broad array of people\n   * Optimism is not just another rollup, it’s a rollup with a vision\n     (Optimistic Vision) that welcomes people of all crafts with certain value\n     alignment. We should make the Optimism Collective widely known as an\n     ecosystem that fosters public goods creation\n   * Desired outcomes could include driving larger community, driving more\n     applications for grants, driving awareness and users to the platform\n\n * Suggestion 2: Onboard (people that don’t’ normally interact with Web3)\n   \n   * There was discussion about whether “Awareness” or “Onboarding” was a better\n     Intent to drive the desired outcomes\n\n * Suggestion 3: Draw more outside entities into the Collective. The Optimism\n   Collective is validating that the RetroPGF model works, other entities may\n   want to contribute and help fund RetroPGF (web3 and beyond web3)\n   \n   * Want the Optimism Collective to become the go-to place for people who care\n     about public goods fundng\n   * Something like “Empower the Next 1-Billion Optimistic Visions”\n\n * Suggesion 4: Optimism becomes the home for constructing DAOs in a more\n   considered environment (utilizing Oxcart/OXCART-RESOURCES.md at main ·\n   emjicy/Oxcart · GitHub\n   [https://github.com/emjicy/Oxcart/blob/main/OXCART-RESOURCES.md])\n   \n   * Would enable the best DAOs to be living and launched in Optimism ecosystem\n   * Create something like token engineering economy for daos",
+      "created_at": "2023-04-20T17:32:21.891Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 10
+    },
+    {
+      "content": "My suggestion for Intent 3: “Make Optimism the Home of Regens”\n\nRegenerative Finance is an approach to finance that aims to create an inclusive,\ntransparent, and accessible financial system focused on nurturing environmental,\nsocial, and economic well-being. (For a comprehensive overview of ReFi, check\nout this article by Toucan: What is ReFi | Regenerative Finance explained\n[https://blog.toucan.earth/what-is-refi-regenerative-finance/])\n\nAt the heart of Optimism’s vision, culture, and ambition is of course a special\nemphasis on public goods. And what better public goods to focus on than the\nregenerative ones ?\n\nAs the world faces urgent environmental challenges, ReFi offers an opportunity\nto create positive change by transforming how our economic system operates. By\nintegrating care for communities, living ecosystems, and the environment, ReFi\nhas the potential to create a more equitable and sustainable world.\n\nFor me, this resonate 1000000% with Optimism’s Vision and Retro PGF.\nRPGF mechanism can play a crucial role in supporting ReFi initiatives,\ndemonstrating its power in addressing real-world issues. By embracing ReFi,\nOptimism can once again demonstrate its commitment to public goods and become a\ndriving force for positive change\n\nThe Web3 ReFi ecosystem is currently in its nascent stages, with projects\nscattered across various blockchains. We have here an opportunity to become a\nhub for existing ReFi applications, encouraging their deployment on our\nEcosystem, as well as inspiring the development of new, unique projects.\n\nBut, for me, this goes beyond the scope of Intent 2 (“innovative applications”)\n:\nBy fostering an entire ReFi ecosystem on Optimism – including educators,\nreal-world projects, conferences, hackathons, partnerships, and encouraging DEXs\nto leverage ReFi – We could create a holistic and supportive environment for\nReFi initiatives.\n\nExemples of missions for this Intent could be:\n\n * Develop ReFi-focused educational resources ;\n * Develop a dedicated grants program to support projects and teams that create\n   and applications and initiatives on Optimism\n * Create or support ReFi-focused hackathons and Conferences\n * Incentivize DEX integration with ReFi projects\n * Support real-world ReFi projects\n\nWell, this is it! It’s my first (and passionate) suggestion :sweat_smile:\n[https://emoji.discourse-cdn.com/twitter/sweat_smile.png?v=12]. What’s your take\non it? As a new, and humble (tiny) delegate -latruite.eth, I have a tremendous\ndesire to get involved and learn. I’m eager to hear your thoughts…",
+      "created_at": "2023-04-17T08:18:17.783Z",
+      "trust_level": 2,
+      "username": "latruite.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 10
+    },
+    {
+      "content": "Firstly, I really like @latruite.eth [/u/latruite.eth]’s idea of an Intent to\nbring regen into the foreground even more, that’s the side of Optimism that got\nme interested in the first place and why I want to involved… but I thought it\nwas still worth posting another alternative.\n\nRather than Public Goods, how about an Intent focused on Public Bads?!\n\nThis would fund Missions focused on identifying, understanding and minimizing\nthe effects of possible future disasters in Optimism.\n\nMy background is in astrophysics, where a perfectly legitimate field of study is\nthe risk of asteroid impacts. In astrophysics and astronomy this primarily means\ntrying to identify all the Near Earth Objects, but other studies have looked at\nthe best ways to deflect an asteroid (which is probably by ‘Gravity Tractor’, if\nyou ever need to know…), long period comets, asteroid composition and other\naspects of the danger.\n\nA more obvious analogy to the kind of thing this Intent might resemble might be\nthe IPCC and other organizations studying Climate Change. There is a big,\nexistential risk to the planet, so we fund people to study it and come up with\npossible solutions. I’m suggesting we fund research into existential risks to\nthe crypto ecosystem we’re playing in.\n\nIn Optimism’s context examples of different types of mission might include\nthings like:\n\n * Identifying unsustainable DeFi applications for which a significant number of\n   the participants misunderstand the risk (e.g. scenarios like Iron/Titan or\n   Terra/Luna etc);\n\n * Subsidizing bug bounties for smaller projects with small budgets that have\n   grown quickly and now have a significant potential reward vs effort for\n   attackers;\n\n * Examine potentially exploitative interactions between otherwise safe projects\n   and work with teams to generate solutions (similar to how OpenZepplin is used\n   by Synthetix and others to reduce risk of things like flash loan attacks);\n\n * Explore L1 risks and fund L1 teams working on solutions, ranging from\n   potential attestation capture of the Beacon Chain to regulatory changes\n   causing mass validator exits and the associated reduced security for\n   Ethereum;\n\n * Study and educate on specific L2 risks, answering questions like whether\n   there is some unforeseen attack surface introduced with Cannon or whatever\n   other future upgrades;\n\nI’m sure you can think of loads more things on along the same vein, these are\njust illustrations of the kind of thing I mean.\n\nI also think this idea fits well into the model of Collective Intents as it\nwould naturally lead to broad spanning alliances between disparate groups and\nindividuals. No one is an expert on every aspect of all the different dApps, and\nrollup construction, and L1 clients etc, so it should lead to interesting mixes\nof experts working together. This in turn may inspire interesting ideas for\ncollaborations and future building, in addition to the immediate objectives\nassociated with the Mission being worked on.",
+      "created_at": "2023-04-19T11:31:41.217Z",
+      "trust_level": 2,
+      "username": "MinimalGravitas",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 10
+    },
+    {
+      "content": "Full support for the Technical + Innovation + Governance focused Collective\nIntents [https://gov.optimism.io/t/collective-intents/5874/6]. As I can’t make\nthe brainstorming session due to timezone adding my two cents here…\n\nPeople & Culture: Purposeful Shaping of Emergent Behaviour\n\nOpen questions: Besides funding…\n\n * How do we proactively design complex human systems for a diversity of\n   perspectives and ease of participation?\n * Can we support knowledge sharing/building to embed skills for effective human\n   interaction and coordination as part of our culture (i.e. constructive\n   communication, decision-making, stewardship)?\n * What more can we do to support, recognise and celebrate, champion and retain\n   all those that support and deliver on Vision, Missions & Collective Intents?\n   (RFPG does a great job at this)\n\nRecognise this is not “economically driven” in the financial sense of the term,\nbut if I learned anything from studying business and a career within multiple\nstart-ups - it’s that people are our greatest resource.",
+      "created_at": "2023-04-19T03:07:07.567Z",
+      "trust_level": 2,
+      "username": "lee0007",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": "Okay building off that call, just had an idea.\n\nI mentioned yesterday that these intents are temporary, essentially representing\nsome step forward we want to take in some season.\n\nI think to that end we should have one intent be about developing ways to\nsupport future intents.\n\nConcretely, let’s have an intent be about driving value to $OP, or alternatively\nfinding ways to resource future missions. This seems like a near term necessity\nnot dependent on the broader crypto landscape.",
+      "created_at": "2023-04-21T14:00:27.302Z",
+      "trust_level": 2,
+      "username": "jackanorak",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    }
+  ],
+  "created_at": "2023-04-16T10:31:12.931Z"
+}

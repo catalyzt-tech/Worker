@@ -1,0 +1,50 @@
+{
+  "title": "Proposal to have a youtube channel for optimism to provide info in visual form for betterment of governance",
+  "content": "Proposal for YouTube Channel Creation\n\nDear Team Optimism, in this age of digitalization, we need a channel on YouTube\nto explain our governance for each & everyone. As i believe average user\ninteract with YouTube at least once a day. If we have our proposal made in\naudio/video form on our channel, it will compel user to join our governance &\nvote. Also, we will post info related to project.\n\nSo, i propose to create the channel & put step wise guideline for ease of the\ncommunity. As i believe videos help you retain information longer.",
+  "views": 1605,
+  "like_count": 15,
+  "word_count": 336,
+  "answer": [
+    {
+      "content": "There is already an Optimism YouTube channel! We are trying to post more, but it\ntakes a lot of time to make a high quality video that will stay relevant for a\nwhile.\n\nTLDR; We are working on posting more, but the channel exists!\n\nYou can find it here: https://www.youtube.com/channel/UCy9EVw1XTHqPU3NNisoAVXw\n[https://www.youtube.com/channel/UCy9EVw1XTHqPU3NNisoAVXw]",
+      "created_at": "2022-06-08T05:43:45.416Z",
+      "trust_level": 4,
+      "username": "vonnie610",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 4
+    },
+    {
+      "content": "I agree with this topic, I think it will be good to explain governance to new\nusers. But, should this come from the OP Team? Or maybe we can propose a Core\nUnit (Like MakerGrowth for MakerDAO) for Marketing purposes, and the YouTube\nChannel will be one of their responsabilities.",
+      "created_at": "2022-06-02T13:40:24.560Z",
+      "trust_level": 2,
+      "username": "NicoProducto",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "This initiative will be very important for people who want to study how the\noptimism network works.",
+      "created_at": "2022-06-03T00:40:43.932Z",
+      "trust_level": 1,
+      "username": "SnIpErPj",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "YouTube can be a great place to learn more about any topic - both in and outside\nthe Web3 world. It is great for visual and audio learners, allowing folks to\nmultitask.\n\nCreating a pipeline to onboard new users and educate existing ones seems\nbeneficial, however, there is a great technical barrier to entry.\n\nKnowledge of EVMs and traditional infrastructure (wallets, NFTs, exchanges) is\nrequired before transacting on Optimism; it’s difficult to go from “zero to\nhero.”\n\nMonitoring expenditures across different DAOs and protocols, marketing is\nusually ignored.\n\nI encourage the development of marketing resources and content production -\nespecially with the use of Web2 tools - but to do so in a cost-conscious matter.",
+      "created_at": "2022-06-08T18:02:46.945Z",
+      "trust_level": 2,
+      "username": "fig",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2022-06-02T05:42:11.986Z"
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Voting Cycle Roundup #17",
+  "content": "Cycle 17 began on Thursday (January 4th) at 19:00 GMT and runs until Wednesday\n(January 24th) at 19:00 GMT. Additionally, the Citizens’ House will have a one\nweek period to veto any Protocol Upgrades approved by the Token House,\nimmediately following the conclusion of the Token House Voting Period.\n\nA snapshot of delegate voting weights will be taken at the time votes go live.\nVoting will take place at https://vote.optimism.io/ [https://vote.optimism.io/]\nstarting on January 18th at 19:00 GMT. Citizens’ House vetos occur via Snapshot.\n[https://snapshot.org/#/citizenshouse.eth]\n\n--------------------------------------------------------------------------------\n\nThe following non-grant proposals have received the required delegate approvals\nand will move to a vote in Cycle #17:\n\n * Upgrade Proposal #3: Delta\n   [https://gov.optimism.io/t/ready-to-vote-upgrade-proposal-3-delta-network-upgrade/7310]\n * Proposal to Reclassify Grant Misusage Enforcement\n   [https://gov.optimism.io/t/proposal-to-reclassify-grant-misusage-enforcement/7384]\n * Code of Conduct Council Enforcement Actions Cycle #17\n   [https://gov.optimism.io/t/code-of-conduct-council-communication-thread/7453]\n\nAs a reminder: The elected Token House Code of Conduct Council’s decisions are\nsubject to optimistic approval by the Token House. That means the Council’s\ndecisions are assumed to be approved unless 12% of votable supply in the Token\nHouse votes to veto an enforcement action.",
+  "views": 391,
+  "like_count": 1,
+  "word_count": 225,
+  "answer": [],
+  "created_at": "2024-01-17T20:05:41.260Z"
+}

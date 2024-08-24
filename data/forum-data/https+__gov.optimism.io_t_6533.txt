@@ -1,0 +1,30 @@
+{
+  "title": "Onboard Opsheet as the first EVM chain for Starksheet",
+  "content": "Hey everyone, I’m the founder of Starksheet, one of the most prominent dapp of\nthe Starknet ecosystem (4k sheets created, 3.5k followers, 20k grants on\ngitcoin, 30k grant from the EF).\n\nStarksheet [https://www.starksheet.xyz/] is a spreasheet like interface, fully\non-chain, that lets the user interact with on-chain data as calling a function\nin a spreadsheet. The project has been fully open source from the very\nbeginning, see GitHub - the-candy-shop/starksheet-monorepo\n[https://github.com/the-candy-shop/starksheet-monorepo]\n\nThe EF granted us to port the initial Cairo project into a solidity one, so as\nto be able to deploy the same dapp (same UX) into all the eth ecosystem. And\nhere we are, goerli.onsheet.xyz is live since last week (goerli L1), and we know\nlook for the best place to first launch this Evmsheet.\n\nWdyt?",
+  "views": 698,
+  "like_count": 3,
+  "word_count": 290,
+  "answer": [
+    {
+      "content": "GM! I took a quick look and I have a question, what are the use cases for this\nproduct? I think maybe Builders Grant could be interesting for you, Cycle 15\nopens in August so you can take a look here: CharmVerse - the all-in-one web3\nspace [https://app.charmverse.io/invite/5e28cc]\n\nThis kind of Grant is directly with Grants Council so you can contact them on\nCharmverse directly on your proposal, on Discord (grants [/tag/grants] Channel)\nor attending the weekly Grants Council Office Hours on Wednesday 10 am CST\nhttps://meet.google.com/vnb-dcye-knm [https://meet.google.com/vnb-dcye-knm]\n\nHave a nice weekend!",
+      "created_at": "2023-07-29T19:39:39.150Z",
+      "trust_level": 4,
+      "username": "brichis",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "In short the application lets a user make and chain calls to any deployed\ncontract. It’s somehow a mix between the READ/WRITE tab in a block explorer and\na regular spreadsheet.\n\nThe idea is to make it easy for people to interact with deployed contract, chain\ncalls, etc. without being dev themselves.",
+      "created_at": "2023-07-31T10:24:20.103Z",
+      "trust_level": 0,
+      "username": "clemlaflemme",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2023-07-28T20:24:01.022Z"
+}

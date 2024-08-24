@@ -1,0 +1,20 @@
+{
+  "title": "Proposal execution / implementation life cycle tooling",
+  "content": "gm everyone, CJ here!\n\nI’m not new to Optimism (been shipping a spacial social game embodiment of OP\nCity for some time now @ Atlantis World\n[https://twitter.com/atlantis0x/status/1587590962381193217]) BUT I am new to\nthis forum and recently decided to involve myself a lot more in the governance\nops of the Collective!\n\nFor the most part, I’ve just been poking around & getting familiar and I have\nsome thoughts…\n\nI understand so far that it seems governance is peacefully co-existing with the\nmuch needed stewardship of the Optimism Foundation (which I guess encompasses\nthe group whereby OP Labs exists, ships stuff & accelerates both builders and\nusers within the community). Since I’m guessing, those lines feel blurred, which\nmeans that it’s difficult to understand exactly what in the ecosystem is driven\nby the community or pushed forwards internally. I think clearly understanding\nwhich forces are at play in which capacities can be crucial part of moving\nforwards & empowering the collective.\n\n2 key things that stand out to me:\n\n * OP holders may remove a director of the Optimism Foundation,\n * The Optimism Foundation ultimately decides whether or not passed governance\n   proposals should be implemented based on arbitrary legal, ideological,\n   security, other reasons\n\nMy core Qs here are:\n\n * What is the role of the Optimism board of directors? Can I find their\n   information publicly anywhere except from 3 introductions posted on the forum\n   here\n   [https://gov.optimism.io/t/optimism-foundation-board-introductions/2124]?\n * How hands on are they with actually anything & how much control do they have?\n   Are they voting on some kind of Optimism Foundation mutli-sig, or don’t have\n   such power, if not then where are those funds custodied and/or by whom?\n * Do we have an easy way to track/view/understand the “bounce” or success rate\n   of passed proposals being implemented at the discretion of the Foundation?\n   Would any members from the community to be interested to form a working group\n   on such matters so that we could audit the flow of governance in the spirit\n   of both making improvements & boosting transparency?\n\nI guess that I’m suggesting it could be hugely beneficial to create some tooling\nthat makes tracking the off chain implementation / execution of proposals\nbecause I’m wanting to participate more actively but finding it difficult to\nidentify the status of many passed proposals.\n\nThe “Governance” category lists “proposal execution” in its description but I\ncould only select rules & processes, voting cycles or delegate updates as\nfilters and delegate updates tag seems inactive. So I’m not sure how to filter\nsuch updates around proposal execution / implementation even on the forum. This\ncould also be a barrier to token holders that could actually effectively\nparticipate & accelerate the implementation of some proposals here & there pro\nactively in the wild!\n\nWould highly appreciate both guidance & feedback so that I could pro actively &\nmore efficiently contribute here! Feel free to let me know if you would be\ninterested in forming a working group to explore a topic of this nature or if\none is already existing, thanks!",
+  "views": 1819,
+  "like_count": 7,
+  "word_count": 554,
+  "answer": [
+    {
+      "content": "UPD: I found this thread from early Sep Governance Update #4\n[https://gov.optimism.io/t/governance-update-4/3435] after searching “reflection\nperiod” which I found mentioned as coming up in another thread… I deff think we\ncan improve this flow!",
+      "created_at": "2022-11-19T16:12:53.034Z",
+      "trust_level": 2,
+      "username": "cjh",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2022-11-19T15:58:30.747Z"
+}

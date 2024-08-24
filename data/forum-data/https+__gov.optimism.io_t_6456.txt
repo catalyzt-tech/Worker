@@ -1,0 +1,30 @@
+{
+  "title": "[Recording & Recap] 24th OP Community Call, Tuesday July 18th",
+  "content": "Hey Everyone!\n\nOur community call will be back to the normal time this Tuesday. As always,\ncomment anything you’d like to see discussed!\n\n * Updates:\n   * The most recent mission building cycle is finished and Grants Council cycle\n     13 has concluded (more information here: Cycle 13: Final Grants Roundup\n     [https://gov.optimism.io/t/cycle-13-final-grants-roundup/6454]) and Grants\n     Council cycle 14 has started.\n   * Mission voting cycle is finished.\n   * EthCC is happening now, so if you are in Paris definitely check the forums\n     to see if there’s any events for a real-life meetup and go meet some\n     optimism folks!\n   * New information about Season 5, about what they are working on and\n     envisioning, during a talk that will take place in EthCC and will be\n     recorded.\n * Season 4 Feedback Thread:\n   * There was a lot of reflection on the mission process that just happened.\n     Things went as expected and according to plan but there is definitely room\n     for improvement and optimization. Check Governance Update #7\n     [https://gov.optimism.io/t/governance-update-7/6464] for clarifications\n     about issues that surfaced during the last cycle around grant policies,\n     disclosures and multiple submissions, all in one place, and please, leave\n     suggestions. :slightly_smiling_face:\n     [https://emoji.discourse-cdn.com/twitter/slightly_smiling_face.png?v=12]\n * Financial Disclosure Discussion:\n   * There was a summary of a quite lengthy discussion around this thread “We\n     need to talk about undisclosed financial interests\n     [https://gov.optimism.io/t/we-need-to-talk-about-undisclosed-financial-interests/6424]”.\n     Worth discussing, especially in terms of code of conduct and whether there\n     was a violation or not, what needs to be clarified, because the lines can\n     be a bit blurry, especially if you follow the discussion in the post. We’d\n     like not to focus too much on the specific parties in this situation,\n     because we’re all learning together and anything that comes up, we just\n     want to fix, improve and go forward.\n * Grants Council Updates:\n   * The head of Grants Council shared information and comparisons between cycle\n     13 and cycle 11 (Cycle 11 was the last Grants cycle and there was special\n     voting on cycle 12).\n   * There were 26 finalists, 10 on the experiment side and 16 on builders. So\n     that the punchline is that there was an overwhelming amount of quality in\n     this cycle, which was great. A lot of encouragement to take a look over\n     novelty projects and people trying to build things in diverse areas of the\n     ecosystem.\n   * Conversation over more budget-optimized decisions and allocation in order\n     to support more grants worthy projects.\n   * Detailed clarification on what RPG is, how it works, the process, who to\n     get in contact with and many other things.\n   * Indication about Charmverse being the best resource for the proposers to\n     see the specific deadlines, the opening and close of the season or cycles\n     on the calendar. The submissions period is open until next Thursday at\n     19:00 GMT. If you know great builders, people or projects that are putting\n     together great experiments, specifically novel use cases and tangible use\n     cases, we’d love to see them. :slightly_smiling_face:\n     [https://emoji.discourse-cdn.com/twitter/slightly_smiling_face.png?v=12]\n   * Also if anyone has any questions we’re all completely available so just\n     drop your question in the grants channel.\n\nZoom link:\nhttps://us02web.zoom.us/j/84087544843?pwd=cVpweHpEa2drYVRDZ1U0UklYSnR1QT09\n[https://www.google.com/url?q=https://us02web.zoom.us/j/84087544843?pwd%3DcVpweHpEa2drYVRDZ1U0UklYSnR1QT09&sa=D&source=calendar&usd=2&usg=AOvVaw22TnqMjK_BYeCshiVu5GCw]\n\nRecording:\n\ndrive.google.com\n[https://drive.google.com/file/d/1haOhV2xbSsmtqQaQc1KxNww7gXRmxkA6/view?usp=sharing]\nhttps://drive.google.com/file/d/1haOhV2xbSsmtqQaQc1KxNww7gXRmxkA6/view?usp=sharing\n\n\nJULY 23 COMMUNITY CALL RECORDING.MP4\n[https://drive.google.com/file/d/1haOhV2xbSsmtqQaQc1KxNww7gXRmxkA6/view?usp=sharing]\n\nGoogle Drive file.\n\n\n\n\nSlides: July 23rd, 2023 community call slides - Google Slides\n[https://docs.google.com/presentation/d/1Kg3l701dJ7DB4z4m9NTG3BMLxM3AbmTb_88CwtrTYSY/edit?usp=sharing]\n\n-Michael",
+  "views": 1119,
+  "like_count": 8,
+  "word_count": 673,
+  "answer": [
+    {
+      "content": "thank yuo Michael see yuo tuesday",
+      "created_at": "2023-07-16T23:10:01.099Z",
+      "trust_level": 2,
+      "username": "Mandzhakov",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Bit of a late notice, but I think it’d be interesting to talk about the\nconversation started by @jackanorak [/u/jackanorak] regarding undisclosed\nfinancial interests\n[https://gov.optimism.io/t/we-need-to-talk-about-undisclosed-financial-interests/6424].\n\nThere are also 2 additional conversations that might be interesting to discuss:\nA review of RPGF2 and ideas for how data can improve future iterations\n[https://gov.optimism.io/t/a-review-of-rpgf2-and-ideas-for-how-data-can-improve-future-iterations/6438]\nPromoting Transparency and Accountability by making RetroPGF Badgeholder Votes\nPublic\n[https://gov.optimism.io/t/promoting-transparency-and-accountability-by-making-retropgf-badgeholder-votes-public/6436]\n\nSee you later!",
+      "created_at": "2023-07-18T14:42:14.975Z",
+      "trust_level": 2,
+      "username": "Sinkas",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2023-07-16T19:52:27.973Z"
+}

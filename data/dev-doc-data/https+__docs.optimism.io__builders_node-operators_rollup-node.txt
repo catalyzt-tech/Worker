@@ -1,0 +1,85 @@
+title: How to Run a Node in the Superchain
+lang: en-US
+description: Learn how to run an OP Stack rollup node in the Superchain.
+
+import { Callout, Steps } from 'nextra/components'
+
+How to Run a Node in the Superchain
+
+This guide provides an overview of how to run an OP Stack rollup node in the Superchain. It walks you through how to build, configure, run, and monitor your node on one of the OP Chains in the Superchain. To skip ahead to building and running a node, you can explore the node operator tutorials.
+
+Build Your Node
+
+Before building your node, you will learn fundamental aspects of OP Stack rollup nodes.
+
+  These are the two fundamental components of an OP Stack rollup node:
+
+Node Architecture: OP Stack rollup nodes use the rollup node and execution client and can also support legacy geth for pre-bedrock historical execution requests. For more details, see the Node Architecture guide.
+Network Upgrades: Network upgrades for OP Stack rollup nodes are generally activated by timestamps. Failing to upgrade your node before the timestamp causes a chain divergence, requiring you to resync your node to reconcile the chain. Follow the established Node Upgrade Process to avoid chain divergence.
+
+  {Build Your OP Stack Node}
+
+  Now, you are ready to build your OP Stack rollup node. You have two options for this:
+
+Option 1: Follow the Running a Node with Docker tutorial, which gets your OP Stack rollup node up and running without having to build it from source.
+Option 2: Follow the Building a Node from Source tutorial, if you need to use a specific architecture or want to inspect the source code of your OP Stack rollup node.
+
+Configure Your Node
+
+OP Stack rollup nodes can be configured for individual needs. The following steps will get you started with a working base configuration for OP Stack rollup nodes, along with recommended flags.
+
+Configure op-geth using the base configuration.
+Set the recommended flags for op-geth to follow best practices for configuring OP Stack rollup nodes.
+Configure op-node using the base configuration.
+
+  {Enable Snap Sync}
+
+Enable snap sync for your node to significantly improve the experience and speed of syncing an OP Stack node. 
+  This is an optional feature but highly recommended for node providers.
+
+Run Your Node
+
+Now, you will run your node and set your node debugging log level for more granular feedback.
+
+ You will now run your node from source for your Superchain network. Here are your options.
+
+Option 1: Follow the Running an OP Sepolia Node from Source tutorial.
+Option 2: Follow the Running an OP Mainnet Node from Source tutorial, if you plan to run a full node or archive node.
+
+  {Update Node Log Level}
+
+  As part of running your rollup node, you may want to adjust the log level for more or less granular feedback when debugging.
+
+Update node log level based on individual needs. For more details, see the guide on Geth Logs.
+
+Monitor Your Node
+
+It is important to regularly monitor your node, and you can optionally configure prometheus and grafana dashboard to make this process easier for you.
+
+Enable the metrics port for your node by passing the --metrics.enabled flag to op-node.
+Optionally, you can customize the metrics port and address via the --metrics.port and --metrics.addr flags, respectively.
+
+  {Setup Prometheus & Grafana}
+
+Setup influxdb to hold metrics data.
+Setup prometheus to read your endpoint.
+Setup your grafana dashboard to provide UI for metrics.
+
+Follow Node Updates
+
+It's important to keep your node software up to date. Software updates can also include important bug fixes and patches that can help keep your node stable.
+Refer to the Software Releases page for a detailed look at the latest releases of various rollup node and execution client implementations.
+Notifications are also posted to the Optimism Upgrade Announcement Channels on Discord and Telegram.
+
+Node Operator Tutorials
+
+Tutorial Name Description Difficulty Level
+Running a Node With Docker Learn how to run a node with Docker. 🟢 Easy
+Building a Node From Source Learn how to compile node components from source code. 🟢 Easy
+Running an OP Mainnet Node from Source Learn how to run an OP Mainnet node from source code. 🟡 Medium
+Running an OP Sepolia Node from Source Learn how to run an OP Sepolia node from source code. 🟡 Medium
+
+Next Steps
+
+If you've already got your node up and running, check out the Node Metrics and Monitoring Guide to learn how to keep tabs on your node and make sure it keeps running smoothly.
+If you run into any problems, please visit the Node Troubleshooting Guide for help.

@@ -1,0 +1,60 @@
+{
+  "title": "Security Council Member Nomination: Kent Fenwick (Agora)",
+  "content": "Please indicate if you are running to be the Council Lead or a Council Member:\n\nCouncil Member.\n\nDoes this nomination represent an individual or organization:\n\nOn behalf of Agora [https://www.agora.xyz/].\n\nCandidate country of residence (or, if an entity, incorporation and principle\nplace of business):\n\nCanada\n\nHave you previously served on Optimism’s Security Council:\n\nNo, I haven’t.\n\nHave you previously served on any other Council or Board in the Collective:\n\nNo, I haven’t.\n\nAre you a representative of OP Labs:\n\nNo, I am not.\n\nAre you a representative of another OP Chain:\n\nNo, I am not.\n\nIf you are a delegate, please provide the link to your delegate profile:\n\nI am not a delegate.\n\nIf you are a member of the Citizens’ House, please link to your most recent\nattestation here:\n\nI am not.\n\nPlease outline your contributions, and their impact, to the Optimism ecosystem\nto date:\n\nI am the Chief Technology Officer at Agora [https://agora.xyz]. Agora is a Core\nDev of the OP Collective and builds cutting edge governance solutions for the\nhealth and security of the OP Collective. In short, we were pivotal in moving OP\nGovernance Onchain, let me explain how we did that.\n\nOur primary contribution in the past few years has been: vote.optimism.io\n[https://vote.optimism.io/] and the work we did on the Foundation Mission #64 in\n2023 [https://github.com/ethereum-optimism/ecosystem-contributions/issues/64].\nThis lead us to the rebuilding and design of the advanced delegation\n[https://vote.optimism.io/changelog] schema for OP delegates and the launch of a\nnew governor. Each day, each week, we ensure that the team at Agora is doing all\nwe can to make the voting and delegation experience better for OP Delegates, and\nthat the vote is strong, and secure. Whether we are building new voting modules\nlike our Approval Voting module in 2023 (Pick a choice voting) or our new\nOptimistic Voting Module in 2024, we are pushing the boundaries and delivering\nquality service that gets better each week.\n\nWe were also the team behind: https://retrofunding.optimism.io/\n[https://retrofunding.optimism.io/], the website and app that powers the new OP\nProject creation schema on EAS. We also built and maintain the OP Atlas Github\n[https://github.com/voteagora/op-atlas] repo that powers the code for the\nRetroFunding website. and the API that powers the RetroPGF Voting process over\nhere: https://vote.optimism.io/api_v1 [https://vote.optimism.io/api_v1].\n\nWe are deeply proud of the work we do for the Collective and we are humbled to\nhave the opportunity to work so deeply with so many great Collective members.\n\nFinally, at Agora we work with other incredible DAOs (Uniswap, ENS, Nouns) and\nare able to bring their ideas to the OP Collective and export what works for OP\nto other communities, making the entire Web3 ecosystem better and expanding the\nCollective.\n\nPlease demonstrate any non-Optimism experience you believe is relevant to this\nrole:\n\nOver the past two decades in the tech industry, I’ve established myself as a\nleader in building and scaling complex, real-time financial systems and\nlarge-scale platforms. My experience spans from innovative startups to\nestablished tech giants, always focusing on creating solutions that empower\nusers and foster collaboration.\n\nAt Clearco, as VP of Product and Growth, I spearheaded the development of\ngroundbreaking financial products like Invoice Funding and Buy Now, Pay Later.\nThese initiatives supported over 5,000 founders and facilitated the movement of\nnearly $500 million in capital. The core of my work involved constructing\nscalable systems capable of handling intricate financial transactions in real\ntime, ensuring both seamless operations and sustainable growth.\n\nPrior to Clearco, I played a pivotal role at Tilt, where I managed and scaled a\nrobust system enabling peer-to-peer payments. This work contributed\nsignificantly to the platform’s success, ultimately leading to its acquisition\nby Airbnb. Throughout my career, I’ve consistently leveraged my deep technical\nexpertise and strategic understanding of product growth to build and lead teams\nthat deliver cutting-edge solutions in the fintech space.\n\nMy professional journey extends beyond these roles. I’ve founded over 10\nstartups, successfully exiting from two. This entrepreneurial experience has\nhoned my ability to manage and optimize large, complex systems requiring\nreal-time processing and high reliability.\n\nWhat truly drives me is a passion for grassroots growth, community building, and\ncollective decision-making. This enthusiasm fuels my commitment to creating\nproducts that genuinely empower users, particularly in the Web3 space. Here,\ndecentralized governance and community-driven initiatives are not just\nbuzzwords, but the foundation of innovation.\n\nAs I continue to lead and innovate in the tech space, my focus remains on\ncreating value through technology while fostering strong, collaborative\ncommunities. It’s about building systems and products that make a tangible\ndifference, all while remembering that our most valuable resource is time - and\nhow we choose to spend it.\n\nPlease elaborate on your technical background, including your github handle\n(this will be used to calculate your github expertise score and will be added to\nyour nomination before it goes to a vote by the Foundation):\n\nMy github handle is @kent [https://github.com/kent] on Github.\n\nThroughout my 20+ year career in the tech industry, I’ve cultivated a deep and\ndiverse technical background, specializing in building and scaling complex,\nreal-time financial systems and large-scale platforms.\n\nMy expertise spans across multiple programming languages and frameworks, with a\nparticular focus on those commonly used in fintech and blockchain development.\nI’m proficient in languages such as Python, Ruby, JavaScript/TypeScript\n(including Node.js), and Solidity for smart contract development. I’ve also\nworked extensively with frameworks like React for front-end development and\nNext.js for building robust back-end services.\n\nIn terms of database technologies, I have hands-on experience with both SQL\n(PostgreSQL, MySQL) and NoSQL (MongoDB, Cassandra) databases, crucial for\nmanaging the vast amounts of data in financial systems. My work often involves\ndesigning and implementing scalable architectures, utilizing microservices and\ncontainerization technologies like Docker and Kubernetes.\n\nAt Agora, I was foundational is designing and building our onchain and offchain\nplatform architecture to ensure that we were able to work with different DAOs,\non different chains in a fast, and effective way to deliver the test technical\ngovernance solutions we can.\n\nI’m a strong advocate for clean, maintainable code and have implemented rigorous\ntesting and continuous integration/continuous deployment (CI/CD) pipelines in my\nprojects. I believe in the power of open-source collaboration and regularly\ncontribute to community-driven initiatives.\n\nPlease elaborate on your experience with relevant member (or Lead) requirements:\n\nAt Agora, we regularly work with and listen to various stakeholders at OP\nincluding members of the security council and protocol work. We will read their\nthoughts and listen when they weight in on designs or future protocol\ndirections.\n\nIn fact, a big learning we had when we rolled out our new governor was not\ngetting enough feedback from the security council and we are continuing to\nredouble our efforts there. as we try and bring as much transparency and\ncollaboration to our complex governance decisions.\n\nPlease describe your philosophy on what makes a good Security Council member:\n\nCouncil members need to be:\n\n * Informed\n * Opinionated\n * Have strong opinions loosely held\n * Listen more than speak\n\nand ultimately integrate a bunch of information along with the goals and mission\nof the Collective and make the right recommendation or decision for the better\nof the Collective regardless of what that means for you personally.\n\nThe proposals and decisions that we will put forth / vet will shape the future\nof the OP Collective and not something I take lightly.\n\nPlease disclose any anticipated conflicts of interest:\n\nI will act with the Collectives best interest at heart, but also want to\nacknowledge that Agora is a governance software provider and may at in the\nfuture be deployed on other applications and ecosystems that could have\ncompeting interests with Optimism.\n\nPlease verify that you understand you may be removed from this role via the\nRepresentative Removal proposal type in the Operating Manual\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md]:\n\nI do understand.\n\nPlease verify that you understand that election is subject to successful\ncompletion of a Foundation screen which may include KYC/AML, sanctions\nscreening, and a requirement to sign a standard contract: [No/Yes]\n\nYes\n\nPlease verify that you are able to commit ~5 active hours / month to fulfill the\nMember Responsibilities. Please note that there is an “on-call” aspect to this\nrole that is not fully encompassed in the active hours estimate: [No/Yes]\n\nYes",
+  "views": 71,
+  "like_count": 5,
+  "word_count": 1748,
+  "answer": [
+    {
+      "content": "I am an Optimism delegate [https://vote.optimism.io/delegates/brichis.eth] with\nsufficient voting power and I believe this proposal is ready to move to a vote.",
+      "created_at": "2024-08-12T17:00:58.538Z",
+      "trust_level": 4,
+      "username": "brichis",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 0
+    },
+    {
+      "content": "I am an Optimism delegate [https://vote.optimism.io/delegates/jrocki.eth] with\nsufficient voting power and I believe this proposal is ready to move to a vote.",
+      "created_at": "2024-08-13T14:54:23.486Z",
+      "trust_level": 2,
+      "username": "Jrocki",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "I am one of the Synthetix Ambassadors, and I am an Optimism delegate [Delegate\nCommitments - #65 by mastermojo\n[https://gov.optimism.io/t/delegate-commitments/235/65]] with sufficient voting\npower, and I believe this proposal is ready to move to a vote",
+      "created_at": "2024-08-13T18:13:54.051Z",
+      "trust_level": 2,
+      "username": "mastermojo",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "I am an Optimism delegate [https://vote.optimism.io/delegates/anthiaslabs.eth]\nwith sufficient voting power, and I believe this proposal is ready to move to a\nvote.",
+      "created_at": "2024-08-13T19:35:52.933Z",
+      "trust_level": 2,
+      "username": "AnthiasLabs",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "I am an Optimism delegate [https://vote.optimism.io/delegates/butterbum.eth]\nwith sufficient voting power and I believe this proposal is ready to move to a\nvote.",
+      "created_at": "2024-08-13T19:46:19.856Z",
+      "trust_level": 2,
+      "username": "Butterbum",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-08-12T04:15:42.663Z"
+}

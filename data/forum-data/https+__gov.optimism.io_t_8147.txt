@@ -1,0 +1,60 @@
+{
+  "title": "LAST CALL FOR STUDY PARTICIPANTS! :red_circle: Complete Survey and Win! (5x 100 USDC)",
+  "content": ":bangbang: [https://emoji.discourse-cdn.com/twitter/bangbang.png?v=12] TLDR:\n\n * Study aim: Exploring layers of identities and group cohesion on Optimism\n\n * Main question: What are the mechanisms that bring us closer to others within\n   the Optimism ecosystem?\n\n * Call to action: Complete this survey and you will be entered into a prize\n   draw of 5x 100 USDC Social Identities in Web3: Survey Powered by Webropol\n   [https://link.webropolsurveys.com/S/64A31A05728BD0E4]\n\n * Time & data: survey takes 10 mins to complete; collected data will be treated\n   as confidential and reported in an anonymised manner.\n\n:mega: [https://emoji.discourse-cdn.com/twitter/mega.png?v=12] We’re calling all\nOptimists out there, no matter whether you’re a casual user, tech nerd, an\nambassador or a mad fan. Whatever “role” you might have - or were assigned to -,\nwe’d love to hear from you! Even from the ‘not-so-optimistic’ ones among you.\n\n:mag_right: [https://emoji.discourse-cdn.com/twitter/mag_right.png?v=12] WHAT’S\nTHE STUDY ABOUT?\n\nContext: This post introduces the large-scale behavioural science study that\nwe’re currently conducting for the Optimism Collective and for which we kindly\nask for your support!\n\nThis study examines the social mechanisms that users leverage to build trust and\ndevelop a deep connection with Optimism. Psychological theories of trust and\ndecision-making suggest an important role of social identity and social norms,\ndue to a fundamental human need to find a sense of belonging. First insights\nsuggest that behaviour in crypto may be highly motivated by this need, just as\nit is offline.\n\nIn this scientific study, we thus examine how users perceive Optimism, what they\nlike or dislike about it, and how they form connections with the network through\nthe lens of “identity fusion”, i.e., the tendency for individuals to merge their\nsense-of-self with that of a social group to which they belong.\n\nThrough the lens of identity fusion, blockchain ecosystems represent a\ncollective of individuals, similar to different “societies” with distinctive\ncharacteristics. Accordingly, this study will provide insights into Optimism’s\nperceived identity and characteristics from the mind’s eye of the users, and\nshed light on the underlying mechanisms that drive people’s fusion with\nOptimism.\n\nGrant: The study was funded by Optimism Academics (see RFG 6, Identity Fusion:\nSeason 4 Grants: RFG Roundup\n[https://gov.optimism.io/t/season-4-grants-rfg-roundup/6859])\n\n:rocket: [https://emoji.discourse-cdn.com/twitter/rocket.png?v=12] RELEVANCE AND\nIMPACT\n\nUnderstanding how individuals perceive Optimism and how they develop strong ties\nto the Optimism network is central for Optimism’s long-term growth. Strong\nsocial ties enhance community resilience, promote engagement, and contribute to\nthe overall health of a community.\n\nThis study will provide the OP Collective with cutting-edge research insights on\nthe basis of the following three pillars:\n\nResearch on “Group Cohesion” - equip Optimism with the necessary knowledge on\nhow to foster people’s attachment with Optimism and reinforce cohesion within\nthe Collective. The goal of this study aligns with the Optimistic vision of\nbuilding a cohesive and strong Collective by examining people’s ingroup loyalty,\ni.e., their tendency to faithfully stick with the Optimism network through\nmarket fluctuations.\n\nCommunity - nurture the community by providing Optimism users with the\nopportunity to take part in a large-scale, user-centred study and identify valid\nmechanisms of how to retain users in a personally meaningful way.\n\nPositioning - help to strengthen Optimism’s identity and unique positioning\nwithin the wider ecosystem of networks by uncovering Optimism’s hidden features\nand identifying the drivers that foster reciprocity and collective action among\nindividuals.\n\n:sos: [https://emoji.discourse-cdn.com/twitter/sos.png?v=12] We need YOUR\nSUPPORT!\n\nWe genuinely think that this study will strengthen Optimism’s position in the\nspace. Examining the social dynamics of the Optimism community through a\npsychological lens will provide Optimism with a competitive edge over other\nsimilar communities in blockchain.\n\nBut we need your support!\n\nPlease help us by participating in this survey and by sharing the survey link\nwith your peers.\n\n:point_right: [https://emoji.discourse-cdn.com/twitter/point_right.png?v=12] You\ncan take part in the survey by clicking this link: Social Identities in Web3:\nSurvey Powered by Webropol [https://link.webropolsurveys.com/S/64A31A05728BD0E4]\n\nYour support means more than you can imagine! Let us know if you have any\nquestions or inputs.\n\nLove,\nJosey",
+  "views": 704,
+  "like_count": 20,
+  "word_count": 918,
+  "answer": [
+    {
+      "content": "I’m also tagging my collaborator @Erudraeth [/u/erudraeth]. Moreover, I would\nlike to thank @ayohtunde [/u/ayohtunde] who was incredibly helpful in trying to\nfind ways to spread the word about this study.",
+      "created_at": "2024-05-15T10:44:45.263Z",
+      "trust_level": 2,
+      "username": "Josey",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Congrats @Josey [/u/josey] !! :clap:t3:\n[https://emoji.discourse-cdn.com/twitter/clap/3.png?v=12]:clap:t3:\n[https://emoji.discourse-cdn.com/twitter/clap/3.png?v=12]",
+      "created_at": "2024-06-14T15:01:10.723Z",
+      "trust_level": 3,
+      "username": "Liliop.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Really excited about this project. Understanding communities in the Optimism\necosystem, and Web3 more broadly, will be crucial to its success. Please do take\na moment to participate!",
+      "created_at": "2024-05-20T05:44:53.921Z",
+      "trust_level": 2,
+      "username": "Erudraeth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "TLDR: check out our Optimism Demo Day presentation for a quick summary of what\nthe study is all about - fast-forward to 17 mins: x.com\n[https://x.com/Optimism/status/1798731898283515967]",
+      "created_at": "2024-06-13T22:06:50.265Z",
+      "trust_level": 2,
+      "username": "Josey",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Love to hear that @leesmit [/u/leesmit], thank you! :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12] :sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12] Please also share\nthe word about the study with your network if you can Social Identities in Web3:\nSurvey Powered by Webropol [https://link.webropolsurveys.com/S/64A31A05728BD0E4]",
+      "created_at": "2024-06-17T14:06:41.132Z",
+      "trust_level": 2,
+      "username": "Josey",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2024-05-15T10:21:08.168Z"
+}

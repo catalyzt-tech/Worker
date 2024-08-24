@@ -1,0 +1,60 @@
+{
+  "title": "[Recording & Recap] 22nd OP Community Governance Call",
+  "content": "Hey Optimists!\n\nRecording Link: June 20th, 2023 community call.mp4 - Google Drive\n[https://drive.google.com/file/d/1wlGeyPmH3_K9vEvDAaxBfmlsRV64CRdQ/view?usp=sharing]\n\nGreat call with a lot of discussion, here are some of the highlights:\n\n * KYC for Grants:\n   * In the case of a single grant recipient, the owner of the wallet (AKA the\n     alliance leader) needs to KYC\n   * In the case of multi-sigs, every owner on the multisig needs to KYC\n   * An organization can receive the funds in which case they would need to KYC\n * Curve proposal\n   [https://gov.optimism.io/t/draft-gf-phase-1-proposal-curve/3089] update:\n   * Curve wasn’t able to complete the KYC process, resulting in the grant still\n     not being distributed. Is still in process to figure out the issue.\n * Data-driven Content Performance:\n   * Is an open discussion for RetroPGF round 3 on how we can measure impact.\n     Specifically to quality content, mentioning objective metrics to quantify\n     impact and make it easier for badgeholders to vote. To take a deeper look\n     here’s the link to the post Data-driven content performance\n     [https://gov.optimism.io/t/measuring-impact-data-driven-content-performance/6092]\n * Missions discussions:\n   * Great conversation over some interesting points on the voting process and\n     details on how grants and funding is distributed.\n   * Creating a Discord session for pitching mission proposals is in discussion\n     for next week before the voting starts, the dates are not decided yet but\n     they’ll be announced soon!\n * @kaereste [/u/kaereste], we should pick a time/date to host this!\n\nAlso went over a couple of proposals for feedback and more understanding over\nthe missions proposals submission, in addition to more clarification over topics\nlike the difference between critical milestones and progress towards completion.\nFor more accurate information check this post Collective Grant Policies\n[https://gov.optimism.io/t/collective-grant-policies/5833]\n\nWith Season 4 getting into full swing this is sure to be a jam-packed call.\n\nZoom Link:\nhttps://us02web.zoom.us/j/84087544843?pwd=cVpweHpEa2drYVRDZ1U0UklYSnR1QT09\n[https://www.google.com/url?q=https://us02web.zoom.us/j/84087544843?pwd%3DcVpweHpEa2drYVRDZ1U0UklYSnR1QT09&sa=D&source=calendar&usd=2&usg=AOvVaw22TnqMjK_BYeCshiVu5GCw]\n\ndocs.google.com\n[https://docs.google.com/presentation/d/1yc91JF067Ky6v3ODkos1iJRVMxIp4JHo8ICiZZa6PKw/edit?usp=sharing]\nhttps://docs.google.com/presentation/d/1yc91JF067Ky6v3ODkos1iJRVMxIp4JHo8ICiZZa6PKw/edit?usp=sharing\n\n\nJUNE 20TH, 2023 COMMUNITY CALL SLIDES\n[https://docs.google.com/presentation/d/1yc91JF067Ky6v3ODkos1iJRVMxIp4JHo8ICiZZa6PKw/edit?usp=sharing]\n\nOptimism Bi Weekly Governance Call June 20th, 2023\n\n\n\n\nSee you there!\nMichael",
+  "views": 1440,
+  "like_count": 15,
+  "word_count": 656,
+  "answer": [
+    {
+      "content": "A subject I’d love to talk about on the call is the topic discussed here:\n[Measuring Impact] Data-Driven Content Performance\n[https://gov.optimism.io/t/measuring-impact-data-driven-content-performance/6092]\nin the context of Mission proposals and how one should base their requested\ngrant amount based on impact rather than time spent working.\n\nWould love to get more insights and feedback as @lee0007 [/u/lee0007] does raise\nsome very important points.",
+      "created_at": "2023-06-15T20:01:39.813Z",
+      "trust_level": 2,
+      "username": "Sinkas",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Hey YungSB, make sure to add Optimism’s Governance Calendar to your Google\nCalendar [https://gov.optimism.io/t/how-to-stay-up-to-date/6124] and you’ll see\nall these planned events.",
+      "created_at": "2023-06-20T16:08:25.400Z",
+      "trust_level": 2,
+      "username": "Sinkas",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Didnt want to spam this thread but Curve proposal is archived and cant comment\nthere.\n\nIts been 209 days or almost 7 months\n[https://gov.optimism.io/t/draft-gf-phase-1-proposal-curve/3089] since their\nproposal was approved and I am not sure if the grant is processed or not ? What\nis causing this delay, is it because of some legal requirement from OP\nFoundation that Curve is not willing to fulfill ?\n\nUnforeseen delay are expected and we must respect legal rules in place but can\nwe have an update on the current status. I see this as win-win, by keeping the\ncollective informed, we show and respect transparency, important pillar of DAO\nor any organization in general and second, we can learn and avoid such\nchallenges in future.\n\nI would appreciate if you could bring this during the call and have someone from\nfoundation comment on this, later i will watch the recording the transcript\ntheir comment for better accessibility.\n\ncc proposal author @WormholeOracle [/u/wormholeoracle]",
+      "created_at": "2023-06-19T19:43:52.809Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Bumping the post, call starting in ~40 minutes!",
+      "created_at": "2023-06-20T16:18:18.442Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "Would it be possible to set up where I can add these planned calls to my google\ncalendar?",
+      "created_at": "2023-06-15T10:39:51.302Z",
+      "trust_level": 2,
+      "username": "YungSB",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2023-06-14T23:45:28.175Z"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Optimism NumbaNERDs Discord Call MoM Thread",
+  "content": "Hello Optimists,\n\nI’m creating this thread as the official repository for the NumbaNERDs meeting\nminutes. This will enable us to track action items and revisit prior discussions\nefficiently.\n\nStay Optimistic! :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12] :sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]",
+  "views": 378,
+  "like_count": 11,
+  "word_count": 317,
+  "answer": [
+    {
+      "content": "Title: NumbaNERDs Discord Call - 1\n\nDate & Time: February 6th, 2024, 10:00 - 11:00 AM CT\n\nAttendees: Approximately 18 Participants\n\nCall driven by: vonnie610\n\n\n1. POSTING THE GRANTS MISUSE REPORTING PROCESS INFOGRAPHIC\n\nThe Grants Misuse Reporting Process infographic was discussed and successfully\nposted on the forum.\n\nHere is the link: Grant Misuse Reporting Process - #13 by Chain_L\n[https://gov.optimism.io/t/grant-misuse-reporting-process/7346/13]\n\n\n2. GRANT MISUSE VERIFICATION PROCESS\n\nReview of the steps involved:\n\n * Stop to look at updates of the grant for context.\n\n * Verify the starting address or the address that received the grants.\n\n * Follow tokens from the received address to tokens today, delving into the\n   details of grant usage.\n\n * Determine if it meets the criteria of misuse.\n\n\n3. VIA PROTOCOL GRANT MISUSE REPORT DEEP-DIVE AND SAMPLE RUN\n\nBasic steps for investigation were outlined:\n\n * Checking if the grant proposal was passed.\n\n * Following on-chain transactions on Optimism Etherscan.\n\n * Checking Twitter accounts for announcements.\n\n * Conducting an objective verification of the Grants Misuse Reports.\n\n\n4. QUERIES AND CONCERNS\n\n * Report Writing and Verification: NumbaNERDs can collaborate to create\n   reports. Reports will not be assigned to specific individuals, allowing\n   proactive participation. Validation of reports is limited to NumbaNERDs.\n\n * Preserving Anonymity: Reporters and NumbaNERDs are responsible for\n   maintaining their own anonymity. Consideration was given to using a common\n   account for posting reports.\n\n * Objective Criteria for Becoming a NumbaNERD: Proposal to create a framework\n   where potential NumbaNERDs progress from “wannabe NumbaNERDs” to\n   “NumbaNERDs-in-training” and eventually to full-fledged NumbaNERDs.\n\n\nACTION ITEMS:\n\n * Develop a framework for transitioning potential NumbaNerds to full-fledged\n   NumbaNerds.\n\n * Consider the implementation of a common account for posting reports to\n   preserve anonymity.\n\nNext Meeting: TBD\n\nMinutes Prepared by: Hirangi Pandya\n\nDate: February 7th, 2024",
+      "created_at": "2024-02-22T17:41:42.821Z",
+      "trust_level": 2,
+      "username": "Hirangi_Pandya",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    }
+  ],
+  "created_at": "2024-02-22T17:40:34.701Z"
+}

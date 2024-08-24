@@ -1,0 +1,60 @@
+{
+  "title": "[Mission Request] Integration of Optimism Gov and RPGF into University Courses",
+  "content": "Delegate Mission Request Summary:\nThis mission proposal centers around building partnerships with academics who\nare already at the vanguard of incorporating blockchain technology, specifically\nEthereum, into their university courses. This mission will strengthen this\nongoing commitment by introducing a specialized module focusing on Optimism and\nRPGF (Public Goods Funding) within the Ethereum ecosystem.\n\nS5 Intent 1\n\nProposing Delegate: Jack Anorak\n[https://vote.optimism.io/delegate/jackanorak.eth]\n\nProposal Tier [https://gov.optimism.io/t/collective-trust-tiers/5877]: Fledgling\n\nBaseline grant amount: 100,000 OP (20,000 OP per course, includes rewards to\nstudents). Mission management chooses to forego rewards in lieu of future RPGF\nrewards.\n\nShould this Foundation Mission be fulfilled by one or multiple applicants:\nMultiple\n\nSubmit by: To be set by Grants Council\n\nSelection by: To be set by Grants Council\n\nStart date: Dependent on course dates\n\nCompletion date: By Dec 31, 2024\n\nSpecification\n\nHow will this Delegate Mission Request help accomplish the above Intent?\n\n * This mission will broaden the reach of Optimism’s work in governance by\n   introducing a specialized module focused on Optimism Governance and RetroPGF.\n   This module not only aims to provide students with a nuanced understanding of\n   OP Governance and RetroPGF but also seeks to create a framework that rewards\n   and recognizes the dedicated efforts of these educators while doing outreach\n   to onboard more educators around the globe.\n\nThe mission will result in an Open Source Syllabus and playbook allowing other\neducators to replicate anywhere in the world.\n\nOnchain Impact report including a registry of wallets, onchain attestations from\nstudents and a case study. This reporting will allow anyone to evaluate the\nimpact of the mission based on onchain metrics, quality of syllabus, and content\nshared on socials.\n\nWhat is required to execute this Delegate Mission Request?\n\n * Minimum of three academics at three different institutions collaborating on\n   open source syllabus\n * Reporting Progress through socials and gov forum\n   Outreach and onboarding of other educators focusing on similar topics\n * Onchain attestations from students rating experience\n   Onchain attestation from academics rating student participation and\n   performance\n * Case Study co authored by academics\n * Database of onchain activities and txns\n\nHow should the Token House measure progress towards this Mission?\n\n * These measures should focus on progress towards completion. Including\n   expected completion dates for each is recommended\n * Please be as specific as possible in defining measures of progress so that\n   Token House delegates can accurately track execution\n * There should also be some measure of quality measurement to ensure there is a\n   fully complete syllabus; administrators will be responsible for a rubric\n   listing all of the focus areas to be covered\n\nHow should badgeholders measure impact upon completion of this Mission?\n\n * Progress towards mission should be rated on progress reports from academics.\n * This progress should commensurate with onchain activity demanded by the\n   syllabus.\n\nHave you engaged a Grant-as-a-service provider for this Mission Request?\nNO\n\nHas anyone other than the Proposing Delegate contributed to this Mission\nRequest?\n\nThe original draft was made by carlosjmelgar.eth\n\n\nWHICH METRIC WILL THE SUCCESS OF THIS MISSION REQUEST BE EVALUATED AGAINST?\n\nThe North star metric against which this Mission Request should be evaluated is\n# of addresses delegated for the first time, as it reflects how this effort\nlowers the barriers to governance participation. This metric was suggested by\nthe foundation and approved by the Grants Council.",
+  "views": 302,
+  "like_count": 2,
+  "word_count": 773,
+  "answer": [
+    {
+      "content": "A North Star Metric has been added at the bottom of this Mission Request in an\neffort to enable the Collective to make data-driven decisions. By using a single\nmetric for each Mission Request, the Collective is better able to evaluate the\nperformance of all the Season 6 missions in a standardized manner, which will be\ncritical when the Collective makes decisions about Intents, budgets, or other\ncritical components of governance.",
+      "created_at": "2024-07-22T19:27:14.949Z",
+      "trust_level": 4,
+      "username": "system",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "In what hemisphere? I believe the north is on summer holidays and the syllabus\nis still being worked on. For the south, you are on winter holidays and will be\nprobably more difficult.",
+      "created_at": "2024-07-24T10:41:15.529Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "Hey @jackanorak [/u/jackanorak] , the intent of this MR mentions S5 too, just\nletting you know!",
+      "created_at": "2024-07-08T19:27:09.283Z",
+      "trust_level": 2,
+      "username": "Bunnic",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "yeah I gotta echo the question. I don’t think you can buy courses with money\nalso. This would need to be a multi-year effort and would maybe bear fruit years\n(decade?) down the line and would need academic connections.\n\nUnis are slow.",
+      "created_at": "2024-07-18T10:37:47.422Z",
+      "trust_level": 2,
+      "username": "lefterisjp",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "I think education is about interest + group learning, and the Optimism Chinese\ncommunity is trying to use github + co-learning to motivate people to learn\nOptimism.\n\n[https://github.githubassets.com/favicons/favicon.svg] GitHub\n[https://github.com/qingfengzxr/optimism_study_group]\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/1/138db396583d7b5b28f419388ba9e3dbfd147f39_2_690x345.png]\n\n\nGITHUB - QINGFENGZXR/OPTIMISM_STUDY_GROUP: OPSTACK 共学小组\n[https://github.com/qingfengzxr/optimism_study_group]\n\nOPStack 共学小组. Contribute to qingfengzxr/optimism_study_group development by\ncreating an account on GitHub.\n\n\n",
+      "created_at": "2024-07-19T03:03:46.486Z",
+      "trust_level": 2,
+      "username": "Marcus01",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-07-08T18:53:32.745Z"
+}

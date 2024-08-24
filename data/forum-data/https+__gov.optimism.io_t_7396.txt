@@ -1,0 +1,9 @@
+{
+  "title": "TODAY 1PM EST: Mission Requests Brainstorm",
+  "content": "Hey Optimists!\n\nLink here: Discord\n[https://discord.com/events/667044843901681675/1195203318885126204]\n\nIn just 2 hours, I will be hosting an informal mission requests brainstorm on\nDiscord in the #gov-chat voice channel!\n\nThis will be a time where we can go through the intents and think about some\nideas for things we’d like to fund for Optimism and the Superchain.\n\nHope to see you there!",
+  "views": 426,
+  "like_count": 7,
+  "word_count": 65,
+  "answer": [],
+  "created_at": "2024-01-16T16:13:36.896Z"
+}

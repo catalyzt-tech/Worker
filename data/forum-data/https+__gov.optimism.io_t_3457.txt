@@ -1,0 +1,30 @@
+{
+  "title": "Recap: Community Call #4 (September 13th)",
+  "content": "We had an amazing community call today with A LOT of points discussed. I’ve\nbroken down those points into a recap below. A recording of the meeting can be\nfound here\n[https://drive.google.com/file/d/198n9c1m6uEemAuH9vp-hE2gQu-CBVOND/view?usp=sharing].\n\nOn the Gnosis Safe bug of the last voting cycle, moving forward:\n\n * OP Foundation is setting the precedent to remedy voting issues moving forward\n   IF there is a bug that is objective and verifiable. [Ben]\n   * E.g: an an on-chain recorded vote that doesn’t propagate to snapshot\n   * Would not include a discord message saying “I can’t vote”\n\nOn the topic of heated/contentious debate:\n\n * We ALL want OP Governance to be a place with the best vibes/culture\n * Todo: Can we think of a short pithy motto to guide the culture within\n   governance?\n * Link to forum post for this here:\n\nOn the split in proposals between DeFi committees A and C:\n\n * DeFi committees will first split all proposals in half alphabetically, then\n   “flip a coin” (future block hash?) to decide which proposals go to which\n   committee.\n\nCommittee Recomendations are due at the latest 3 days after voting period\nstarts, September 24th for this cycle\n\nOn structure of voting cycles:\n\n * Delegates should feel free to give feedback on committees in the “community\n   feedback” first week. This was split this way to give delegates a break.\n * There is no hard cutoff for submitting proposals for feedback, but ideal is\n   submissions before the full week of delegate feedback.\n\nOn finding the community call meeting:\n\n * Call was hard to find, some people ended up in the wrong zoom link\n * Call can be added to a discord event & google calendar\n\nOn direction of future grants:\n\n * Shoutout to @jackanorak [/u/jackanorak] on the Season 1 retrospective/stats\n   breakdown (here\n   [https://gov.optimism.io/t/op-season-1-proposals-retrospective/3417])\n * We’d like to see the “dev costs” bar go up [Ben]\n * Some confusion on whether or not developer grants should be included\n * Yes, developer grants should be acceptable for token house funding\n   * Goals were outlined in committee next steps post (here\n     [https://gov.optimism.io/t/committees-next-steps-for-season-2/3436]):\n     * Target L1 applications with product market fit\n     * Grow population of value aligned builders\n * There is a difference between operating costs (not good for grants) and\n   funding new infrastructure (good for grants) [Jing]\n * We want to see more building and experimentation taking place on Optimism!\n * Question for delegates: Are you happy with current grants and funding\n   direction, or are there areas for innovation that we could be doing more\n   with?\n\nAMAZING closing remarks from Jing:\n\n> “Why did you get into crypto? We are all building together this new ecosystem\n> that we ourselves should enjoy being a part of. What kind of application? What\n> kind of builders? What is the culture of that ecosystem? Whatever that is,\n> that’s what we should be putting incentives towards creating.”\n\nIf I’ve missed anything or if you have any other feedback, just lmk!",
+  "views": 1715,
+  "like_count": 21,
+  "word_count": 645,
+  "answer": [
+    {
+      "content": "Thanks @Michael [/u/michael] for putting all of this together and hosting the\ncall.\n\nI had a thought about the DeFi proposal split ‘coin flip’. If @katie [/u/katie]\nand @OPUser [/u/opuser]’s teams like the idea, how about using the final TTD of\nmainnet as our randomization generator? If the last digit is even then Committee\nA get the first half, if the last digit is odd they get the second half? Or vis\nversa, obviously?\n\nWe’d get the answer then in about 17 hours time, it could be independently\nverified by anyone onchain, it would mark this auspicious day, and avoids anyone\nhaving to film a livestream of themselves literally flipping a coin!\n\nJust an idea. Yay Merge!",
+      "created_at": "2022-09-14T12:02:42.386Z",
+      "trust_level": 2,
+      "username": "MinimalGravitas",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Yes please, I like the idea. Publicly verifiable.\n\n> even then Committee A get the first half, if the last digit is odd they get\n> the second half",
+      "created_at": "2022-09-14T13:45:51.589Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    }
+  ],
+  "created_at": "2022-09-13T20:10:25.510Z"
+}

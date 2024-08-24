@@ -1,0 +1,9 @@
+{
+  "title": "App Approval, Onboarding, Interim Review, and Removal Process",
+  "content": "Assumptions: There are no procedures, standards, or criteria for approving,\nonboarding, or removal of Applications to the OP Ecosystem. I have searched\nwithout finding any details outlining the process or requirements.\n\nIf the preceding assumptions are correct, I propose the OP Collective consider\nthe following high-level requirements:\n\nGeneral Rules\n\n 1. [Draft] Operating Manual - Add final procedures\n 2. Listing requirements - approved by the OP Collective and published to\n    application pages.\n 3. App Approval - up/down vote by the OP Collective prior to listing.\n 4. App Modifications - Notification by the App of changes, Github review, and\n    technical approval before code is committed.\n 5. Removal - publish to application pages the removal criteria, procedure, and\n    appeal process for Apps deemed to provided “bad actor” services.\n 6. App Removal - OP Collective up/down vote to remove an App deemed to have\n    delivered “bad actor” services?",
+  "views": 1526,
+  "like_count": 1,
+  "word_count": 141,
+  "answer": [],
+  "created_at": "2022-08-09T01:32:06.007Z"
+}

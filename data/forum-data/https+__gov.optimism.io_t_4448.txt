@@ -1,0 +1,50 @@
+{
+  "title": "This is just a question from a newbie, about public goods",
+  "content": "Friends, do you think that ordinary people who supported the project (not bot\ndrivers) will be able to receive a reward for early support of the project, or\nnot?\nIs it exactly",
+  "views": 1625,
+  "like_count": 18,
+  "word_count": 477,
+  "answer": [
+    {
+      "content": "Dear @Anexis [/u/anexis],\nWelcome to the OP discourse. I am glad that you can participate using a\ntranslator, I’m sure everyone can make an effort to include people with a\nlanguage barrier making the collective more diverse and unbias. Please keep\nexpressing yourself in this forum and I hope you help us with a future proposal\nfor forming an international, intercultural OP working group.\n\nAbout your question: as far as I understand any project or person can be\nnominated if somehow they have provided public good to the Collective. I quote\nthe 3 main categories:\n\n>  * Infrastructure + Dependencies: Software used to build or deploy the OP\n>    Stack; contributions to protocols or standards the OP Stack depends on run;\n>    experiments that support future development of the core OP Stack protocol\n>  * Tooling + Utilities: Work that helps builders create applications on\n>    Optimism mainnet, build on the OP Stack, interact with governance of the\n>    Collective, or use applications built on Optimism\n>  * Education: Work to spread awareness and knowledge of how Optimism works,\n>    whether technically or socially",
+      "created_at": "2023-01-06T09:54:35.019Z",
+      "trust_level": 2,
+      "username": "TheDoctor",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "Hello, thanks to advanced technology we can communicate and the language barrier\nis not a problem for us.)But for many other people, this can be a problem,\nbecause they will not be able to learn or translate, I will try to explain to as\nmany people as possible, of course, and write what needs to be done but do you\nhave any idea how many people won’t be rewarded and encouraged because they\ndon’t know English, they can walk away and think they’ve been deceived, and I’m\nsure more than half of them don’t even know that. And even, for example, to\nwrite yourself for a nomination, will you need to write everything that you did\nin general in terms of supporting the project? :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12] let’s be\noptimistic about it\njust think how many people will think that (we were deceived) I wonder who is\ngoing to vote for me?) I think everyone will vote for themselves well, I wonder\nhow it will all look) I see everything optimistically",
+      "created_at": "2023-01-06T12:03:55.454Z",
+      "trust_level": 1,
+      "username": "Anexis",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "What do you mean by reward? Are you talking about the next Airdrops?\n\nSupported in what way?\n\nOptimism is one of the most importants L2 currently. Support can come in so many\nways",
+      "created_at": "2023-01-06T04:09:23.485Z",
+      "trust_level": 2,
+      "username": "NicoProducto",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "maybe I wrote it wrong, I used a translator, it seems to me that the translation\nis not correct I read the article\nRetroPGF Round 2 | Optimism Docs\n[https://community.optimism.io/docs/governance/retropgf-2/#]\n\nand it was written there that only developers will be awarded for support, or I\ndidn’t translate correctly) I know that optimism is the most important now as\nfor me and the most convenient)",
+      "created_at": "2023-01-06T07:15:52.055Z",
+      "trust_level": 1,
+      "username": "Anexis",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    }
+  ],
+  "created_at": "2023-01-05T19:23:02.001Z"
+}

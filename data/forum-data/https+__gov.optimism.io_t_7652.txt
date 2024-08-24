@@ -1,0 +1,9 @@
+{
+  "title": "Constitución, Niveles de Confianza Colectiva y Código de Conducta [Articulo en Español]",
+  "content": "Sinapsis:\n\nEl artículo presenta tres aspectos clave del Colectivo de Optimism: La\nconstitución, los Niveles de Confianza Colectiva y el Código de Conducta. Estas\nherramientas están diseñadas para promover la transparencia, la integridad y la\nparticipación ética en la comunidad. La constitución conserva en ella los\nideales y principios de la comunidad. Los Niveles de Confianza Colectiva\nestablecen estándares claros de contribución y elegibilidad para subvenciones,\nmientras que el Código de Conducta establece expectativas de comportamiento\nético y respetuoso. Juntos, estos elementos ayudan a crear un entorno seguro y\ncolaborativo para todos los miembros del Colectivo de Optimism.\n\nConstitución, Niveles de Confianza Colectiva y Código de Conducta [Articulo en\nEspañol] :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12] :star2:\n[https://emoji.discourse-cdn.com/twitter/star2.png?v=12]\n[https://www.reddit.com/r/optimismCollective/comments/1apahhw/constituci%C3%B3n_niveles_de_confianza_colectiva_y/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button]\n\nEs mi primer articulo en el foro, espero que sea de su agrado, para mí lo fue\naprenderlo! :grin: [https://emoji.discourse-cdn.com/twitter/grin.png?v=12]",
+  "views": 233,
+  "like_count": 0,
+  "word_count": 150,
+  "answer": [],
+  "created_at": "2024-02-12T20:55:06.468Z"
+}

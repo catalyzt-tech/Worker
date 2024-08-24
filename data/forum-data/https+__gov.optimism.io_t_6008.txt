@@ -1,0 +1,60 @@
+{
+  "title": "[Recording & Recap] 20th OP Community Governance Call - May 23, 2023",
+  "content": "Thanks for coming everyone! We had a really really good call. Thanks again to\n@zcf [/u/zcf] from Agora for coming to gather community feedback through the\nworkshops.\n\nRecap of the call is coming soon, but here are the recordings:\n\nPart 1: May 23, 2023 community call recording part 1.mp4 - Google Drive\n[https://drive.google.com/file/d/1Y6x7IqP_48l9Cw-Jmrm_o3xzdbFM5iuX/view?usp=share_link]\nPart 2: May 23, 2023 community call recording part 2.mp4 - Google Drive\n[https://drive.google.com/file/d/1xNt3PWxvUFcjwKJCEcIp2eUdJy-vRhib/view?usp=share_link]\n\nRecap:\n\n * The majority of the call was taken up by an awesome workshop session\n   brainstorming ideas to improve delegate discovery, especially for smaller\n   delegates\n * Charlie from Agora (@zcf [/u/zcf]) was there to gather the community\n   feedback. Over the next few weeks they may try and mock up some of the\n   suggestions made, so if you want to give feedback once that is done, be sure\n   to add your name to the list (will post here soon)\n * This is a continuation of the conversation from this thread: Delegate\n   Discovery Initiatives - #11 by Frisson\n   [https://gov.optimism.io/t/delegate-discovery-initiatives/5949/11]\n * Some spirited discussion/feedback on the symbolic budget proposal\n   * is it worth doing a vote for something symbolic, or is there a better way\n     for the foundation to gather feedback?\n\n[Original Post]:\nIt’s that time again! We will be having our community delegate call this\nTuesday.\n\nAs far as the agenda goes, we will be having Agora on the call to discuss\nimprovements for delegate discovery following this thread: Delegate Discovery\nInitiatives [https://gov.optimism.io/t/delegate-discovery-initiatives/5949].\n\nSee you soon!\n-Michael :sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]:red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]",
+  "views": 1519,
+  "like_count": 45,
+  "word_count": 410,
+  "answer": [
+    {
+      "content": "Greetings,\nThanks for this update. I will be there for sure.",
+      "created_at": "2023-05-21T01:18:59.339Z",
+      "trust_level": 2,
+      "username": "cryptoAYA",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "Hey, I’ll try to be there for my first Community Gov Call :yum:\n[https://emoji.discourse-cdn.com/twitter/yum.png?v=12]",
+      "created_at": "2023-05-23T09:46:32.562Z",
+      "trust_level": 2,
+      "username": "latruite.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "As always, thank you for hosting! :pray:\n[https://emoji.discourse-cdn.com/twitter/pray.png?v=12]\n\nTo add on to the call/notes – if anyone has any ideas, suggestions, or thoughts,\nplease don’t hesitate to msg or dm me directly in relation to Delegate Discovery\nand Agora!",
+      "created_at": "2023-05-24T20:26:01.606Z",
+      "trust_level": 2,
+      "username": "zcf",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "Thank you for your hard work.",
+      "created_at": "2023-05-22T06:31:06.567Z",
+      "trust_level": 2,
+      "username": "kksk",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Thank you for the recording and recap Michael. I didn’t make this call but I\nlook forward to the next delegate call as I’m trying to become more involved in\ngovernance.\n\n@zcf [/u/zcf] I’ll be reaching out with some ideas in regard to Delegate\nDiscovery. Driving attention to smaller delegates is important for the overall\naccessibility of governance which itself is a mission of the 4th Intent of\nSeason 4 - something that aligns with my personal passion. I think I can provide\nsome valuable help.",
+      "created_at": "2023-05-27T16:36:09.659Z",
+      "trust_level": 2,
+      "username": "Sinkas",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    }
+  ],
+  "created_at": "2023-05-20T19:09:41.051Z"
+}

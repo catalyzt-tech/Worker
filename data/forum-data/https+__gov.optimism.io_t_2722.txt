@@ -1,0 +1,60 @@
+{
+  "title": "[DRAFT] [GF: Phase 1 Proposal] Dope Wars",
+  "content": "Thank you for your support and feedback Dope Wars will be returning with an\nadjusted proposal in the near future. If you have any questions please feel free\nto join our Discord server [https://discord.gg/9zrA42xt]\n\nProject Name: Dope Wars\n\nAuthor Name: Butterbum.eth on behalf of Dope Wars DAO\n\nNumber of OP tokens requested: ?\n\nL2 Recipient Address: 0x90103beDCfbE1eeE44ded89cEd88bA8503580b3D\n\nRelevant Usage Metrics: +21 500 transactions, +18 100 ERC-1155(items of Gear) on\nOptimism. 4 600 sales on Quixotic with a volume of 100 ETH\n\nOptimism alignment:\n\nDope Wars [https://dopewars.gg/] is an open metaverse project with a “Play To\nOwn” model, where we envision multiple games and digital environments in our\nfuture ecosystem. Dope Wars DAO is run by a community of like minded individuals\nwith a collective determination to striving towards the Dope Wars DAOs vision.\nIn Nov 2021 our first Hustler was initiated from Ethereum mainnet to Optimism\nnetwork(FLEX Hustler [https://dopewars.gg/hustlers/0]).\n\nDope Wars decided early on to make Optimism network the home of our ecosystem.\n\nCurrently Our open-world 2D MMO (massively multiplayer online) metaverse built\non Optimism has one fully completed map for Hustlers to explore, with interiors\nand more on the way. Hustlers can chat, vibe, and interact with each other on\nthe map while completing quests and playing mini-games. The DOPE MMO metaverse\nexperience will also be the home for launching additional games like entering\ninto the DOPE WARS Game on Starknet.\n\n:point_right: [https://emoji.discourse-cdn.com/twitter/point_right.png?v=12] You\ncan learn more about what the Dope Wars DAO is building here\n[https://www.figma.com/proto/cJGby72SpqR6zwfgOwjDNE/DOPE.Pitch?page-id=1084%3A1188&node-id=1084%3A1194&viewport=1121%2C1904%2C0.15&scaling=contain&starting-point-node-id=1084%3A1194]\n\nProposal for token distribution\n\nDope Wars is a fork of the Loot protocol with a GTA spin. Our Ethereum mainnet\nDOPE NFT collection has 9 items(GEAR) associated with each NFT. Users are\nrequired to claim/initiate the gear which mints the corresponding items on\nOptimism network as an ERC-1155. This function can only be called once per DOPE\nNFT.\n\nThese items can then be equipped to a character (HUSTLER) to interact with our\nDope Wars games. All Hustlers are fully customizable and free to mint without\ngear on Optimism, allowing anyone to participate in our MMO metaverse.\n\nFor more info please check out Dope-Wiki\n[https://www.notion.so/Dope-Wiki-e237166bd7e6457babc964d1724befb2] & our GitHub\n[https://github.com/dopedao].\n\nDope Wars was a free mint and has had no formal funding, all treasury funds have\ncome from royalties in secondary sales on OpenSea\n[https://opensea.io/collection/dope-v4] and Quixotic\n[https://quixotic.io/collection/gear]. Unfortunately we will not be-able to\nmatch incentives. We anticipate all incentives to be distributed within 24\nmonths.",
+  "views": 7851,
+  "like_count": 142,
+  "word_count": 10642,
+  "answer": [
+    {
+      "content": "I understand what you are saying. and thanks for the feedback.\n\nWe are anticipating the users to have many transactions on Optimism after the\ninitiation. Once users have initiated gear to Optimism they receive 9 separate\nERC-1155, each of these items will require a transaction to equip/unequip\nto/from their character. It also requires transactions to change and customize\nthe metadata of each character eg name, hairstyle…etc\n\nOnce all gear has been initiated there will be 2 656 765 440 possible\ncombinations for users to build unique Hustlers.",
+      "created_at": "2022-06-19T19:56:15.892Z",
+      "trust_level": 2,
+      "username": "Butterbum",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "I’m a big fan of the Dope Wars project and I think it’s one of the most\nimpressive NFT gaming ecosystems out there, especially as it’s entirely DAO &\ncommunity built. Kudos to the team for building it this point. Fully support the\nproposal, and like to see the project evolve and integrate itself more into the\nOP ecosystem",
+      "created_at": "2022-06-20T15:57:57.570Z",
+      "trust_level": 2,
+      "username": "Robor2b102",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Thanks for the question,\nWe believe securing the proposed amount will give developers and community the\nconfidence to join and build whilst knowing the DAO can support them. I agree\nthat we don’t know the future value of $OP but It is difficult to retain good\ngaming developers long term, this proposed amount would reassure them and allow\nthem to build in a safe environment.\n\nAddressing your concerns over chain activity… With the launch of our game we\nexpect chain activity to rise considerably as most actions will require\ninteracting with Optimism network. Dope Wars MMO game has many exciting avenues\nbeing explored and yet to be explored, Our community is ambitious and is on\ntrack in executing the first metaverse related game on Optimism. We are very\nconfident that with the release of Dope Wars MMO games we will increasing\non-chain activity and create environments for all communities to participate.",
+      "created_at": "2022-06-21T19:45:26.365Z",
+      "trust_level": 2,
+      "username": "Butterbum",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "@OPUser [/u/opuser], @ruKawin [/u/rukawin] @madibaa08 [/u/madibaa08]\nWe have made changes to the proposal. Please review the amended changes, we have\nreduced initiation incentives from 60% to 36%.\nThanks again for your feedback.",
+      "created_at": "2022-06-21T16:26:16.629Z",
+      "trust_level": 2,
+      "username": "Butterbum",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Dope Wars is indeed dope and a gem for the Optimism ecosystem. However, I think\nOptimism funding should almost exclusively go to the people building out Dope\nWars instead of to the Dope Wars community (NFT holders etc.). Incentivizing\ngame play is also okayish (since you don’t need one of the finite supply\noriginal NFTs to play).\n\nThus I would cut the 60% OP tokens you requested for NFT holders (muuuh pump\ntheir bags).\n\nThanks for the proposal <3\nGL,\nMadiba",
+      "created_at": "2022-06-21T09:40:02.741Z",
+      "trust_level": 1,
+      "username": "madibaa08",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2022-06-19T08:21:19.104Z"
+}

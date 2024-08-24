@@ -1,0 +1,9 @@
+{
+  "title": "X% of Gas Fee To Spend For Good Things",
+  "content": "Is it possible to spend an amount of x% of each Tx to generate a community\nwallet where you can vote for using this amount to special organisations etc\nwhich do good things for humanity, Children, animals,nature and so on.\n\nFor example Monthly Voting from community where to distribute this amount…\n\nWould be the “marketing” use Optimism and make the world a bit more optimism…",
+  "views": 1523,
+  "like_count": 0,
+  "word_count": 66,
+  "answer": [],
+  "created_at": "2022-06-03T05:23:14.274Z"
+}

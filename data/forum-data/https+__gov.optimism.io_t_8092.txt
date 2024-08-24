@@ -1,0 +1,50 @@
+{
+  "title": "Audit Requests S5 final roundup",
+  "content": "Before starting the roundup we want to extend our sincere appreciation to\n@jackanorak [/u/jackanorak] for his exceptional stewardship and leadership\nthroughout this program during Season 5. Given his invaluable contributions, we\nhighly recommend him for the retroPGF program, as the Season 5 budget did not\ninitially encompass this critical aspect of the process.\n\nAs the Season 5 Grant Council Lead, I wouldn’t have been able to make this\npossible without Jack. Thank you!\n\nWe’re excited to unveil the second batch of projects selected for RFG-3: Smart\nContract Auditing Services (first batch here\n[https://gov.optimism.io/t/rfg-3-smart-contract-auditing-services-cycle-19-roundup/7938/1]).\nFollowing thorough evaluation and scoring, we’ve identified the next set of\nprojects from the pool of twelve applications. Just like the initial batch,\nthese chosen projects have showcased remarkable potential and a strong resonance\nwith our goal to bolster the security and cost-effectiveness of smart contract\nimplementations within our ecosystem.\n\n 1. Beefy Security Grant Application\n    [https://app.charmverse.io/op-grants/beefy-security-grant-application-6113756085011792]\n    (score 84)\n 2. Decent.xyz Proposal\n    [https://app.charmverse.io/op-grants/decent-xyz-proposal-7198180724001157]\n    (score 81)\n 3. dHedge Security Grant Application\n    [https://app.charmverse.io/op-grants/dhedge-security-grant-application-12126620372082897]\n    (score 75)\n 4. Omni-x [https://app.charmverse.io/op-grants/omni-x-9553203393407792] (score\n    77)\n 5. PoolTogether Security Grant Application\n    [https://app.charmverse.io/op-grants/pooltogether-security-grant-application-19732447389762986]\n    (score 77)\n 6. Quantum Fair\n    [https://app.charmverse.io/op-grants/quantum-fair-09630787251855666] (score\n    75)\n 7. Velodrome [https://app.charmverse.io/op-grants/velodrome-7481258745750692]\n    (score 101)\n\nAdditionally, throughout Season 5, we’ve maintained the cutoff score of 75\npoints. For those interested in reviewing the scores of each application, you\ncan find them on our dedicated page\n[https://app.charmverse.io/op-grants/audit-requests-roundup-10134962614602983].\n\n\nAUDITS REQUEST PROGRAM ROUNDUP\n\nThe audit program continues to undergo significant experimentation. In Season 5,\nthe Grant Council approved a new batch of Audit Providers:\n\nSmart contract auditing services\n[https://gov.optimism.io/t/draft-smart-contract-auditing-services/7464]\n\n 1. Nethermind Security - Smart Contract Audit Services\n    [https://app.charmverse.io/op-grants/nethermind-security-smart-contract-audit-services-11530537120253204]\n 2. Spearbit/Cantina for SC auditing and security services\n    [https://app.charmverse.io/op-grants/spearbit-cantina-for-sc-auditing-and-security-services-07211205975125723]\n 3. Trail of Bits Security Reviews\n    [https://app.charmverse.io/op-grants/trail-of-bits-security-reviews-6640568925221075]\n 4. Halborn - Smart Contract Auditing\n    [https://app.charmverse.io/op-grants/page-47037618149308247]\n 5. Sherlock - Smart Contract Audits Mission Request\n    [https://app.charmverse.io/op-grants/page-11949409404374878]\n\nLearnings:\n\n * The audits program needs its own subcommittee and reviewers to maintain a\n   fast pace and provide timely responses to service providers.\n * The audits program rubric needs to be redefined to be more aligned with the\n   service.\n * Establishing a public platform for projects to reach out to service providers\n   is essential.\n * Weekly office hours should be held by the subcommittee to foster closer\n   engagement with service providers.\n * The audits form needs to be reformed and include (thanks @GFXlabs\n   [/u/gfxlabs] for the feedback):\n   1. Verification of all contracts on explorers.\n   2. Inclusion of a one-page document listing all addresses.\n   3. Noting any contracts with ownable/admin functions in the documentation\n      along with their functions.\n   4. Clarification of contract ownership (msig, governance, etc.) in the\n      documentation.\n   5. Inclusion of audits in the documentation, with each audit listing the\n      files audited along with their date.\n\nIn conclusion, the audit election process has been successful overall, and it’s\nnow up to the milestones and metrics to determine the effectiveness of the\nprogram. Moving forward, we remain optimistic that this program will become\nfundamental for the ecosystem’s growth and security.",
+  "views": 803,
+  "like_count": 10,
+  "word_count": 759,
+  "answer": [
+    {
+      "content": "a mission request will be posted in the forum on June 27th. You could provide\nfeedback on the mission request.",
+      "created_at": "2024-06-10T15:15:07.004Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "Not until July 18th. The token house must approve a new Audit Mission Request\nwith a budget to elect new audit service providers.",
+      "created_at": "2024-06-08T14:25:03.731Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 0
+    },
+    {
+      "content": "@Gonna.eth [/u/gonna.eth] We at Hashlock have also submitted our interest in\nbecoming part of the Smart contract auditing services shortlist. I have\nsubmitted it here\n[https://gov.optimism.io/t/ready-to-vote-smart-contract-auditing-services/7464/15]\nwithin the “[READY TO VOTE] smart contract auditing services” section. Is it\nstill posible to move forward with us as well?",
+      "created_at": "2024-06-06T06:19:09.120Z",
+      "trust_level": 1,
+      "username": "kq_risk",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "Alright, I’ll stay tuned until then. Is there something we can do or provide to\nenhance our odds for shortlist selection prior to the 18th?",
+      "created_at": "2024-06-08T14:57:48.470Z",
+      "trust_level": 1,
+      "username": "kq_risk",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-05-09T14:45:28.948Z"
+}

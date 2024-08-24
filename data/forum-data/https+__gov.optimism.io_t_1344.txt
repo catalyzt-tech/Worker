@@ -1,0 +1,9 @@
+{
+  "title": "Possibly turn off \"This is the first time [InsertName] has posted — let’s welcome them to our community!\"",
+  "content": "Just wondering if this banner is really useful? I’m not sure it would be\nappropriate to welcome every new user in whatever thread they are posting in!",
+  "views": 1632,
+  "like_count": 1,
+  "word_count": 28,
+  "answer": [],
+  "created_at": "2022-05-26T20:49:23.254Z"
+}

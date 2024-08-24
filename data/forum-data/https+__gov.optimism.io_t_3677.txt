@@ -1,0 +1,60 @@
+{
+  "title": "[Draft][GF: Phase 1 Proposal] Paparuda",
+  "content": "Project name :Paparuda (A cloud, every day, forever)\n\nAuthor name and contact info (please provide a reliable point of contact for the\nproject)**:**Discord : Ouranos#2059 Twitter : @paparudao @alexczet [/u/alexczet]\n\nI understand that I will be required to provide additional KYC information to\nthe Optimism Foundation to receive this grant: Yes\n\nL2 recipient address : 0xf4CAC5BA9099Fd0620E00F1cb1c4ACDa3AF43212\n\nWhich Voting Cycle are you applying for?:Phase 1 - Cycle 8\n\nGrant category: Water management, Arts, NFTs, Cryptoeconomics, DAO\n\nIs this proposal applicable to a specific committee? Unclear\n\nProject description (please explain how your project works)**:**Paparuda is a\nDAO, an NFT project and a Token (RAIN).\nEvery day, a new Cloud NFT is generated from scientific data used to simulate\nclouds. This cloud is put on auction (following the “Nouns” model). The proceeds\nfrom the sale go towards the treasury of the “PaparuDAO”, a DAO that is composed\nof NFT holders, project leads, and an advisory board made of scientist and legal\nexperts. Every month, the DAO has to spend a certain percentage of its treasury\non a subset of projects :\n1.Lobby to give clouds an legal status\n2.Producing artworks/exhibitions to raise awareness around the importance of\nclouds in our hydric future\n3.Providing support to people in hydric stress/drought areas.\n\nWhen the cloud NFT was generated from meteorological data, it was assigned a\ncertain amount of water in its composition. If the owner of the NFT does not\nwant to use the NFT as access to the DAO, they can “make it rain” and redeem\nRAIN tokens in direct correlation to the amount of water in the cloud. The cloud\nis then re-assigned to the DAO to be sold on the secondary market.\n\nRAIN token supply will be directly correlated to the total amount of water in\nthe atmosphere (about 130million cubic meters - hence 130 million tokens).\nInitial token valuation will be driven by the price of water as a commodity on\nthe day of token genesis.\n\nProject links:\n\n * Website:https://paparuda.cloud [https://paparuda.cloud]\n * Twitter:@paparudao\n * Please include all other relevant links below:White paper\n   [https://docs.google.com/document/d/1CPKClnVtwWInjlYYQj522DiX2LydxEcbwpAdC-hgKF8/edit]\n\nAdditional team member info (please link):\nNicolas Wierinck\n[https://www.linkedin.com/in/nicolaswierinck/?originalSubdomain=be]\n(parallel.art)\nMaxime Berthou [https://linktr.ee/maximeberthou]\n\nPlease link to any previous projects the team has meaningfully contributed to:\nWe have contributed to a variety of projects, but few in the crypto space.\nNicolas Wierinck and myself have startedparallel.art [https://parallel.art], an\nadvisory for artists with no technical backgrounds to engage meaningfully with\nthe web3 space\n\nRelevant usage metrics (TVL, transactions, volume, unique addresses, etc.\nOptimism metrics preferred; please link to public sources such as Dune\nAnalytics, etc.):N/A\n\nCompetitors, peers, or similar projects (please link)**:**N/A\n\nIs/will this project be open sourced? *In the future\n\nOptimism native?: Yes\n\nDate of deployment/expected deployment on Optimism : TBD, aiming for early 2023\ndepending on funding\nIdeal timeline is\n->Receive funding late October/Early November\n->Development of Cloud art, DAO constitution, Website dev, Smart Contract Dev\nthrough January 2023\n->Token launch January 2023\n->DAO launch and advisory board proposal framework early February 2023\n->First NFT auction late February 2023\n\nEcosystem Value Proposition\nWe believe that people beyond the web3 space need to understand the value of\noperating in a “cryptoeconomic” fashion when it comes to public goods. Deploying\na similar project outside of the web3 field would require endless weeks of\nadministrative jockeying, red tape, legal fees, accounting fees etc.\nOnce it is stood up, the project will allow a subset of people who are not\nalready engaged in the crypto space to understand how incentives can be deployed\nto make art and engagement work hand in hand with self and public interest.\nDoing this on Optimism makes sense because of the ground level commitment to\npublic goods, the deep connection with Ethereum (and thus ease of transaction).\nWe hope that this project will raise awareness to OP’s mission as well as to the\nneed for harnessing the power and beauty of clouds for the greater good.\n\nWhat is the problem statement this proposal hopes to solve for the Optimism\necosystem? More users ?\nHow does your proposal offer a value proposition solving the above problem?\nEngaging with people who are not yet onboarded to crypto and onramping them\nthrough Optimism\n\nWhy will this solution be a source of growth for the Optimism ecosystem?\n1/Larger externalities : if we take the concept of “public goods” to mean\nsomething beyond the blockchain ecosystem, we can see the idea of doing good as\na general positive for humanity, and if this efforts emanates from a project\nrunning on Optimism, it directly ties optimism to this effort. Blockchains won’t\ngrow beyond the existing “believers” if we all only focus on the growth of\nblockchain ecosystems themselves\n\n2/Userbase growth : if we engage with our supporters by running the project on\nOptimism, we are encouraging people who maybe never used crypto to start with\nOptimism and lean about the ecosystem, and in consequence about the vision and\nideas that fuel it.\n\nHas your project previously applied for an OP grant? N/A\n\nNumber of OP tokens requested:100,00\n\nDid the project apply for or receive OP tokens through the Foundation Partner\nFund?: No\n\nIf OP tokens were requested from the Foundation Partner Fund, what was the\namount? N/A\n\nHow much will your project match in co-incentives? N/A\n\nProposal for token distribution:\n\nPlease see the tokenomic section of our white paper\n[https://docs.google.com/document/d/1CPKClnVtwWInjlYYQj522DiX2LydxEcbwpAdC-hgKF8/edit]\nas it is quite specific to the project architecture\n\nThe initial amount we are requesting will be broken down in\n-Cloud NFT development with our chosen partner (currently hoping to confirm\nOnformative [https://onformative.com/]) : Estimate 100k Euros. This is the core\nelement we need to get in place to be able to continue our fundraising. Listed\nbelow are the other parts that we can build in the background while we create\nthe core asset that will build the treasury.\n\n--------------------------------------------------------------------------------\n\n-Website Development : Estimate 20k Euros\n-Smart Contract Development for NFTs, DAO and Tokens : Estimate 60 k Euros\n-Dapp Development for website : Estimate 20k Euros\n-Marketing & PR costs : Estimate 10k Euros for 2 months. We are hoping to engage\nthe folks from Digital Counsel [https://www.digitalcounsel.xyz/]\n-Travel costs to present the project at conferences/panels : Estimate 15k\n-Expenses for core team : Estimate 20k between Parallel [https://parallel.art]\nand Maxime Berthou [https://linktr.ee/maximeberthou]\n\nPlease provide any additional information that will facilitate accountability:\nOne idea would be to put the funds in a multisig wallet. Every transaction would\nhave to be signed by both a member of our team and a member of the OP\nFoundation.\nThe only issue I foresee is that in some cases the vendors we have to pay would\nnot take tokens and conversion to fiat would have to happen (which will be a\ntaxable event for us, at about 15% since we are based in Belgium). Not sure what\nother means of accountability could exist that that stage, but we are thinking\nof ways to ensure full trust and confidence in our fund distribution.",
+  "views": 2101,
+  "like_count": 45,
+  "word_count": 5903,
+  "answer": [
+    {
+      "content": "This looks like a big misuse of grant funds. I wouldn’t support this proposal.",
+      "created_at": "2022-10-12T17:00:56.468Z",
+      "trust_level": 2,
+      "username": "MoneyManDoug",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Looks like a nice idea. Similar to what Optimism is trying to do with public\ngood funding, Paparuda is dedicated specifically to water. They will use NFT\nbased voting instead of token based.\n\nHere is try to summarize their whitepaper, in short Paparuda whitepaper defines\nthree parts (NFT, DAO and RAIN token)\n\nCloud NFT :\n\n 1. Tradable on marketplace, when you buy a cloud NFT - a portion of fund goes\n    to RAIN Token, to DAO and to DAO treasury\n 2. Based on “Nouns NFT” logic- each day one new NFT\n 3. Each NFT is unique(share, size, lighthing, and traits)\n 4. Sold on Paparuda Website via auction, value depends on cloud NDF size (\n    water it could hold )\n\nPaparuDAO - Manage all funds, they have some short term goal defined.\nRole:\n\n 1. Gated. NFT voting rather than token, One wallet one NFT\n 2. water management and art as a force for common good\n 3. legal status for clouds\n 4. financial support to hydric stress community\n\nDAO treasury will contains different token (RAIN token along with stablecoin and\ntoken)\n\nRAIN token -\nAct as DAO token with distribution plan as below -\n20% (team token, might be sold to investors)\n10% DAO\n10% community\n60% Cloud bursting fund (NFTs)\n\nAdditional information related to fund use could help.",
+      "created_at": "2022-10-11T21:39:42.846Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "There are two responses to this\n\n1/Larger externalities : if we take the concept of “public goods” to mean\nsomething beyond the blockchain ecosystem, we can see the idea of doing good as\na general positive for humanity, and if this efforts emanates from a project\nrunning on Optimism, it directly ties optimism to this effort. Blockchains won’t\ngrow beyond the existing “believers” if we all only focus on the growth of\nblockchain ecosystems themselves\n\n2/Userbase growth : if we engage with our supporters by running the project on\nOptimism, we are encouraging people who maybe never used crypto to start with\nOptimism and lean about the ecosystem, and in consequence about the vision and\nideas that fuel it.\n\nWe chose to come to Optimism because we were seduced by the ethos and good will\nof the creators of the project. It seems to us that the focus here is not just\non creating projects that are lucrative, but projects that are meaningful and\nthat promote the core principles of the field. Listening to the founders speak\non podcasts and reading the blog posts etc has only convinced us further.",
+      "created_at": "2022-10-13T10:23:23.954Z",
+      "trust_level": 1,
+      "username": "alexczet",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "I don’t like the usual tokenomics models either, but I have read the WP and it\nhas some interesting ideas. It can’t be compared to other projects like Klima\nDAO, but I have the same concerns as any other project: the incentives\nalignments and long-term sustainability. I would support it, but not with that\nmuch OP, As always we build a great and expensive hightway when we don’t know if\nthere will be cars using it.\nCool ens by the way jaja",
+      "created_at": "2022-10-12T18:19:18.601Z",
+      "trust_level": 2,
+      "username": "TheDoctor",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "I don’t see how this benefits the Optimism ecosystem? What am I missing?",
+      "created_at": "2022-10-12T21:42:37.629Z",
+      "trust_level": 2,
+      "username": "Jrocki",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2022-10-11T09:23:38.453Z"
+}

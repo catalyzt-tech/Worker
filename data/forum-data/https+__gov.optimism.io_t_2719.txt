@@ -1,0 +1,60 @@
+{
+  "title": "[DRAFT] [GF: Phase 1 Proposal] Beefy",
+  "content": "Beefy Incentive Proposal\n\nProject Name: Beefy\n\nAuthor Name: @frondoto [/u/frondoto]\n\nNumber of OP tokens requested: 650,000 OP\n\nL2 Recipient Address: 0x4ABa01FB8E1f6BFE80c56Deb367f19F35Df0f4aE\n\nTargeted deployment date: 30/06\n\nRelevant Metrics:\n\nTVL: $282,000,000 across 16 different blockchains\nSite: https://app.beefy.com/ [https://app.beefy.com/]\nOptimism alignment (up to 200 word explanation)\n\nBeefy is a multi-chain yield optimizer known for its high security standards.\nEvery protocol that gets listed in Beefy, passes strict safety checks to ensure\nthe platform where our users are depositing, is safe. This frequently results in\nBeefy joining talks with these teams, helping them adjust their security\nmeasures, and most of the time partnering with the underlying protocol, making\nit known to our vast multi-chain audience.\n\nBeefy also has a multi-chain app. This means that the opportunities across 16\ndifferent chains can be compared side by side to choose the best place to put\nyour tokens to work.\n\nBeefy’s users are quite diverse, but what they all have in common is that they\nhave been priced out of Ethereum. Deploying Beefy on Optimism allows those users\nto enjoy the safety of Ethereum, without paying the high gas prices.\n\nAt the time of writing this we are in talks with 4 different protocols on\nOptimism to partner with them and multiply even more the effect of the\nincentives. One example of this is Qidao, their protocol utilizes mooTokens\n(interest bearing collateral) to allow users to mint MAI and leverage their\nposition. This will be possible since Chainlink is already deployed on the\nchain.\n\nProposal for token distribution (under 1000 words)\n\nHow will the OP tokens be distributed? & How will this distribution incentivize\nusage and liquidity on Optimism?\n\n * 90% of the OP tokens will be distributed through “boosts” in our vaults. This\n   consists of adding extra incentives on top of the auto-compounding lp tokens.\n   This will provide above-market APYs to the vaults, and will be seen by users\n   across other 16 chains, making them want to bridge to Optimism. This\n   distribution also positively impacts the underlying protocols, increasing\n   their liquidity and helping them experience bigger trades with lower price\n   impact.\n\n * The remaining 10% will be used for strategic partnerships with new Optimism\n   protocols to help them grow their adoption, userbase, liquidity, etc.\n\nWhy will the incentivized users and liquidity remain after incentives dry up?\n\nWe believe that if a protocol is good, there is no need to permanently\nincentivize its use. That said, incentives are an excellent way to welcome new\nusers to try the chain, and stay for their unique products and ecosystem. We\nwill use the incentives to create deep and meaningful partnerships with Optimism\nprotocols, many of which we had great relations with from other chains.\n\nAlso at the same time that we distribute the incentives, we are planning\neducation around Optimism, their technology, their unique structure of the\ngovernance of the chain, the uses of the OP token, and also provide social\nevents in which our multi-chain users can get to know Optimism protocols, and\nhopefully bring their liquidity/invest on them.\n\nTo accompany this are also are planning to offer investments that contain the OP\ntoken, like a vault built on top of the Happy Road (ETH-OP-USDC) farm on\nBeethovenX. Giving users a safe place to invest their earned rewards.\n\nOver what period of time will the tokens be distributed?\n\nTaking the feedback from this forum, we will distribute the tokens for longer\nperiods, offering above-market APYs, and attracting TVL from other chains. The\nstandard duration will be between 8 and 9 weeks for each boost.\n\nHow much will your project match in co-incentives?\n\nBIFI has a max supply of 80,000 which was fully distributed during the IFO, and\nthe DAO holds very little of the supply (less than 1%). That is the reason we\ncan’t match in co-incentives even though we want to.",
+  "views": 4708,
+  "like_count": 30,
+  "word_count": 2675,
+  "answer": [
+    {
+      "content": "Amount of token asked is a big number, please provide matrices of Beefy on OP\nchain.\n\nI am not in favor of giving 90% as boost incentive as I dont see this as long\nterm solution.",
+      "created_at": "2022-06-19T10:26:32.724Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Hello @OPUser [/u/opuser], @solarcurve [/u/solarcurve], @MoneyManDoug\n[/u/moneymandoug] , @Cryptoz [/u/Cryptoz] I appreciate your guys feedback and I\nwill be reworking this proposal to get you guys onboard.\n\nThe first thing we will do is deploy on Optimism. That will happen this same\nMonday. We will start with BeethovenX vaults and planning to add Velodrome,\nwstETH (when live), Qidao stablepools, and more.\n\nI will also make changes to the distribution of the OP tokens. Its completely\nreasonable that you don’t want 90% of the tokens distributed as boosts. After\ndeep-diving into Optimism I realized that we will need custom strategies for\nsome protocols (Velodrome and Perp for example), so we could direct a small part\nof the grant for developers to build on Beefy Optimism.\n\nAlso we will need liquidity for our BIFI token, so we are talking with Velodrome\nand Beethoven for this. The plan will be to use OP tokens, and match with BIFI\nco-incentives.\n\nAgain, thank you for your feedback and involvement in this.\n\nCan you advise me in the best path forward with this proposal? Renaming it DRAFT\nand try to get it ready for Phase 2?",
+      "created_at": "2022-06-26T15:59:36.136Z",
+      "trust_level": 2,
+      "username": "frondoto",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Hey @OPUser [/u/opuser] , thanks for getting involved. Beefy is not yet on\nOptimism but we will be. I understand that 1,000,000 OP tokens might seem a lot,\nbut our plan is to make as much impact as possible on Optimism. We are planning\nto use it to bring as much new users as we can.\n\nIn which ways do you think the proposal can be improved? We truly want to make\nthe most positive impact.",
+      "created_at": "2022-06-20T02:51:46.430Z",
+      "trust_level": 2,
+      "username": "frondoto",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "From my perspective, 1M OP is higher a I would expect in this in your state as a\nfuture optimism protocol. What about reducing the amount to the half (by\nexample) and lets see how it goes and then in later stages to re-apply to more\nincentives? In fact, I suppose future vaults of Beefy will also be based on\nauto-compounding from OP tokens given from other protocols. As @OPUser\n[/u/opuser] says, is difficult find a better solution.",
+      "created_at": "2022-06-20T23:59:10.659Z",
+      "trust_level": 2,
+      "username": "Joxes",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Aaaaahhhhhh Beefy! Not much more to say really :+1:\n[https://emoji.discourse-cdn.com/twitter/+1.png?v=12] :smiley:\n[https://emoji.discourse-cdn.com/twitter/smiley.png?v=12]",
+      "created_at": "2022-06-18T15:42:06.761Z",
+      "trust_level": 2,
+      "username": "Robor2b102",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2022-06-18T14:46:57.638Z"
+}

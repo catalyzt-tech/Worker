@@ -1,0 +1,60 @@
+{
+  "title": "RetroPGF 3: Application Review Appeals",
+  "content": "With 1,594 applicants for RetroPGF 3, there was a need to run an Application\nReview Process\n[https://gov.optimism.io/t/retropgf-3-application-review-process/6916]whereby\nanyone could submit a report for an application that is in violation of RetroPGF\nApplication Rules\n[https://www.notion.so/RetroPGF-3-Application-Guidelines-6942e743b28e4cc1a53a5e7d781f2bf4].\nOver 1,000 applications were reported for violating the Application Rules.\n\n40 badgeholders participated in reviewing these reports and decided if an\napplication is in violation of the Application Rules, these reviews took place\nbetween October 23rd - November 1st. For a full overview of the review process\nsee the Application Review Process\n[https://gov.optimism.io/t/retropgf-3-application-review-process/6916] forum\npost.\n\n\nAPPEALS PROCESS OVERVIEW\n\n * The full list of applications that were found to be in violation of the\n   Application Rules, and are due to be excluded from participating in RetroPGF\n   3, has been published here\n   [https://docs.google.com/spreadsheets/d/1fce2jQXUbofsSffb694wygsSKqfN8c25x8xmHX-ftow/edit#gid=30409172].\n * If you believe your application has been wrongfully excluded, and is not in\n   violation of the Application Rules, you can file an appeal by November 3rd at\n   8pm UTC by using this\n   [https://app.deform.cc/form/78499a28-ecff-4928-a814-cd3364741051] form.\n   (Note: you cannot edit your application during this period, only request\n   reviewers take another pass at the content of your application as is).\n * All appeals will be reviewed by an additional set of Badgeholder Reviewers,\n   who will reassess applications based on the appeal. This review will conclude\n   on November 5th at 8pm UTC.\n\nShould you have any questions regarding this process, feel free to share your\ncomments in the #retropogf-discussion\n[https://discord.com/channels/667044843901681675/972069216343715860] channel in\nDiscord [https://discord.com/invite/optimism].",
+  "views": 2023,
+  "like_count": 79,
+  "word_count": 2146,
+  "answer": [
+    {
+      "content": "Hey @JoaoKury [/u/joaokury], thanks for sharing your thoughts on this. We do\nhave the list @Chain_L [/u/chain_l] shared above, which shares at least a high\nlevel reason for the report. Unfortunately, not everyone submitted a description\nfor their report (even when we implemented it as a required field, people would\njust input “.”).\n\nOnce we wrap up the appeals, we’re going to be posting a request for feedback on\nthe process and would love to explore how we can improve on the reviews for\nfuture rounds.",
+      "created_at": "2023-11-03T11:52:18.606Z",
+      "trust_level": 3,
+      "username": "cush",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 8
+    },
+    {
+      "content": "Hey everyone, I noticed that some projects that were denied do not have clarity\non why they were removed.\n\nAs someone that is also a badgeholder in this round, i know this is a lot to\nask, but maybe the projects that were denied should receive at least some kind\nof clarity, especially because, for an appeal, its necessary to answer “why the\nproject was removed and why it should be reviewed again”.",
+      "created_at": "2023-11-03T01:11:52.491Z",
+      "trust_level": 2,
+      "username": "JoaoKury",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "I Agree here. It took long enough to review them all and I agree with the\nreports. Most of what I voted to be removed talks about future impact, users\nthinking their activity in Optimism is enough to participate, and spam.",
+      "created_at": "2023-11-03T13:03:28.766Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 3
+    },
+    {
+      "content": "Drafting comprehensive rejection reviews for each application may pose a\nsignificant challenge. However, the high-level rationales provided in this\ndocument can serve as a valuable resource for projects when considering appeals.\n\ndocs.google.com\n[https://docs.google.com/spreadsheets/d/1o1AZNEPiESrluvTEUBJgFqFWwI6G9xihGy3VL1ecNaQ/edit#gid=849629981]\nhttps://docs.google.com/spreadsheets/d/1o1AZNEPiESrluvTEUBJgFqFWwI6G9xihGy3VL1ecNaQ/edit#gid=849629981\n\n\nRETROPGF APPLICATION REVIEW\n[https://docs.google.com/spreadsheets/d/1o1AZNEPiESrluvTEUBJgFqFWwI6G9xihGy3VL1ecNaQ/edit#gid=849629981]\n\nDashboard Review Periods Round 1 (24th Oct-28th Oct),Round 2 (29th Oct-1st\nNov),Appeals (4th-5th Nov) Sheet Breakdown,Sheet Breakdown,Sheet...\n\n\n",
+      "created_at": "2023-11-03T08:15:08.770Z",
+      "trust_level": 2,
+      "username": "Chain_L",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Hey @inbestprogram.eth [/u/inbestprogram.eth] , glad you are here.\n\nWould you mind providing the name of your project? This information would be\nbeneficial for us to grasp the challenges, which, in turn, will contribute to\nenhancing the overall process.\n\nI empathize with your frustration and wish to affirm that we, as a collective,\nare dedicated to streamlining the process and making it more inclusive.\n\nIf your project was not included in this current round, please don’t be\ndisappointed, as RPGF is an ongoing process, and you can always submit your\nproposal in the next round. MIght I suggest, creating a tutorial vedio sharing\nyour experience so far with RPGF:",
+      "created_at": "2023-11-05T21:58:36.317Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    }
+  ],
+  "created_at": "2023-11-01T23:04:43.430Z"
+}

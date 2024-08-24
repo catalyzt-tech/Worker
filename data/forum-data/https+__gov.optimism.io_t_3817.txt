@@ -1,0 +1,9 @@
+{
+  "title": "How Good Are You at Identifying Governance Topics? - Research survey gauging discursive health of DAOs",
+  "content": "Hi optimism community!\n\nTLDR;\nAnswer this survey please :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]\nSURVEY [https://forms.gle/dAEr18Bbt43v5mJA7]\n\nOverview:\nI am a researcher from the University of Copenhagen looking into political\nsolidarity and the societal possibilities of DAOs. I am working on a project\nthat investigates the discursive health of prominent DAOs based on their\ngovernance and political deliberation. If you have a few minutes to answer a\nbrief survey for this research please follow this link:\n\nSURVEY\n[https://docs.google.com/forms/d/e/1FAIpQLSeBER1LgBUVcVgyGU-qu6IFiYArnOIph9jEBwwWf3VCzIegPQ/viewform?usp=sf_link]\n\nDetails on the survey:\n\n * All answers are anonymously recorded\n * Most of the survey relies on word-clouds (meaning you dont have to read\n   lengthy texts or questions, just look at the pictures and report whatever\n   comes to mind)\n\nFinal words and information about my research:\nI really appreciate any responses I may get from the community! Indeed, the\nresearch project and my work writ-large takes a hopeful and explorative stance\non DAOs by using Machine Anthropology and Digital Social Science methodologies\nto create tools and an empirical understanding of decentralized governance\nprocesses. My larger aim, thus serves to help the decentralized community\nachieve its longstanding egalitarian goals.",
+  "views": 1605,
+  "like_count": 1,
+  "word_count": 194,
+  "answer": [],
+  "created_at": "2022-10-26T17:57:11.386Z"
+}

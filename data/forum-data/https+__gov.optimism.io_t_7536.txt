@@ -1,0 +1,40 @@
+{
+  "title": "[Intro] Martin, working on Opdates",
+  "content": "Hey everyone! I’m mrtn [https://twitter.com/anquetil] and I’ve been a\ncontributor NounsDAO for the last year and a half, before which I was a Product\nManager at Google and NBA Top Shot.\n\nI’ve worked on a variety of projects in Nouns, including Agora, BuilderDAO, and\nmost recently building Mogu and Propdates [https://updates.wtf].\n\nPropdates (“proposal updates”) has found success within Nouns, with 150+ updates\nalready posted by contributors in just a few months. It serves as a single place\nfor contributors to post onchain updates about their work, and for community\nmembers and voters to track proposals’ progress. This increases accountability\nin the community and rewards good actors while weeding out bad actors! We’re\nalso on track for another ambitious proposal to create new payments\ninfrastructure for Nouns, releasing in the next few months.\n\nI’ve become increasingly interested in Optimism Governance in the last few\nmonths, and we’ve started working on a version of Propdates for Optimism,\ntentatively called OPdates. During RetroPGF3, I noticed that sometimes voters\nhad a hard time assessing a project’s progress over time; Propdates would create\nan onchain record leading up to the next RetroPGF round (and after a project\nreceives grants) for contributors to show their work.\n\n\n\nproject page - connected & owner (1)\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/8/8b5f8d03c6f22e61bb75327d691a6c40acda0259_2_690x446.png]\nproject page - connected & owner (1)1728×1117 105 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/8/8b5f8d03c6f22e61bb75327d691a6c40acda0259.png]\n\n\n\nI’ve got a lot to learn on Optimism Governance (hoping to vote in the next\ncycle!), so would appreciate any pointers. I’d love to chat with any builders,\ndelegates, and badgeholders who are thinking about accountability and\ntransparency for contributors! Special shoutout to @Carlosjmelgar\n[/u/carlosjmelgar] for the guidance so far and for nudging me to post here.",
+  "views": 513,
+  "like_count": 8,
+  "word_count": 518,
+  "answer": [
+    {
+      "content": "Hey mrtn, nice to see you in OP-land. Martin has been a relentless shippoooor in\nthe nouns ecosystem and Propdates has really started to shift the ⌐◨-◨ culture\nto more expected accountability from funded proposers. Excited to see how this\ncould be exported to OP. :saluting_face:\n[https://emoji.discourse-cdn.com/twitter/saluting_face.png?v=12]",
+      "created_at": "2024-01-26T14:57:26.685Z",
+      "trust_level": 0,
+      "username": "toady_hawk",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Welcome to the collective. Nouns builders have created many public goods\ncontributions for the Ethereum ecosystem. Looking forward to seeing OPdates\ncontribute to Optimism. Tagging @LauNaMu [/u/launamu] @ccerv1 [/u/ccerv1]\n@jonruth [/u/jonruth] @Jonas [/u/jonas] for viz",
+      "created_at": "2024-01-25T21:24:23.404Z",
+      "trust_level": 2,
+      "username": "Carlosjmelgar",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Hey Martin,\n\nLoving the OPdates tool idea – could be a way to bring more transparency and\naccountability to the table.\nI gave the beta a test with my litle project and here are some of my initial\nthoughts:\n\n * Considering how we value impact quantification, especially for RPGF (and\n   grants) , adding a specific section in the updates for ‘Impact Metrics’ or\n   ‘Impact Updates’ could be useful. I know it’s tricky since each project has\n   different metrics, but maybe a flexible format for project owners to report\n   their unique kind of impact?\n\n * If OPdates is going to showcase a bunch of projects, a search function or\n   some sort of categorization is going to be essential for user navigation\n\n * A direct link to the governance forum proposal right next to the project\n   title (like on Propdates) would be super handy. Also, an option to link to\n   the project’s website or the end product would give users a better feel for\n   what’s being developed.",
+      "created_at": "2024-02-10T10:33:05.848Z",
+      "trust_level": 2,
+      "username": "latruite.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2024-01-25T21:02:43.085Z"
+}

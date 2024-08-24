@@ -1,0 +1,60 @@
+{
+  "title": "OP Governance Update #1 — June 9, 2022",
+  "content": "Welcome to the inaugural Optimism Gov Update! These periodic posts will recap\nthe latest in OP Governance: what’s up for a vote, what’s in discussion, and\nwhat’s next.\n\nThis week’s TLDR:\n\n * Governance Fund Phase 1 is open for applications. Read more here\n   [https://gov.optimism.io/t/governance-fund-phase-1-how-to-create-a-proposal/216/3].\n * Voting Cycle 1 runs June 9 — June 22 and will vote on the GovFund Phase 0\n   proposals. Read more here\n   [https://gov.optimism.io/t/voting-cycle-1-roundup/2619].\n * Voting Cycle 2 runs June 23 — July 6 and will vote on any GovFund Phase 1\n   proposals marked as “ready” by the start of the Voting Cycle.\n * 35mm OP of voting power has been delegated to dozens of community members;\n   delegate comms and coordination will evolve with feedback.\n\n\nGOVERNANCE FUND\n\nThe OP Governance Fund is a grants program of 230mm OP dedicated to funding\nprojects in the Optimism ecosystem. With last week’s Airdrop #1, the GovFund is\nin full swing :rocket: [https://emoji.discourse-cdn.com/twitter/rocket.png?v=12]\n\nThe fund has two parts:\n\n * Phase 0 projects were nominated ahead of token launch for their traction on\n   OP already. Most of these projects have submitted funding proposals in the\n   governance forum here\n   [https://gov.optimism.io/c/proposals/governance-fund-phase-0-proposals/39].\n   These Phase 0 proposals will be voted on by the Token House (OP holders and\n   their delegates) in the first voting cycle, which runs from June 9 - June 22.\n\n * Phase 1 is now open for proposals! Any OP token holder is eligible to submit\n   a proposal for Phase 1 funding. Proposals are reviewed and voted on by the\n   Token House (OP holders and their delegates).\n   \n   While any project or individual may submit a proposal for GovFund Phase 1\n   funding, we expect that projects with an observable track record and existing\n   deployment — on Optimism or elsewhere — will be most successful in securing\n   funding through governance.\n   \n   If your project is looking for funding to bootstrap new development, we\n   recommend that you either\n   \n   * (a) reach out to the Optimism Foundation here\n     [https://optimismpbc.typeform.com/to/IK2MMwN8] to inquire about partnership\n     funding, or\n   \n   * (b) structure your grant proposal to earn tokens for your project after\n     hitting specific milestones, deliverables, or on-chain metrics.\n\nBuilders gonna build, and we can’t wait to see what you get up to. Drop in to\n#gov-general in Discord with any questions.\n\n\nVOTING PROCESS\n\nThis week marks the start of Token House v0.1 governance. The current voting and\nproposal process is described in detail in the Operating Manual\n[https://gov.optimism.io/t/operating-manual-of-the-optimism-collective-v0-1-1/592].\nThe current process aims to strike a balance between on-chain governance\nminimization and helpful social structures that give necessary support to the\nCollective, in the spirit of the Collective’s Working Constitution\n[https://gov.optimism.io/t/working-constitution-of-the-optimism-collective/55].\n\nIn short, the v0.1 process is as follows:\n\n * Governance proposals will be voted on in Snapshot in thirteen-day Voting\n   Cycles that run Thursday to Wednesday.\n * Voting Cycle 1 runs June 9 - June 22 and will vote on GovFund Phase 0\n   proposals.\n * Voting Cycle 2 runs June 23 - July 6 and will vote on any GovFund Phase 1\n   proposals marked [READY] by June 23.\n * Voting Cycle 3 runs July 7 - July 20, and so on.\n * Proposals must fit one of the categories outlined in the Operating Manual.\n * Community members make and discuss proposals. Optimism Foundation submits\n   final proposals to Snapshot for voting.\n\nTo shepherd a proposal through the v0.1 process, authors should:\n\n 1. Draft a proposal.\n 2. Post the proposal in #gov-temp-check on Discord for feedback.\n 3. Once the temp check is warm, post on Gov Forum (gov.optimism.io\n    [http://gov.optimism.io]) as [DRAFT] for more feedback in the “Proposal\n    Discussion” category.\n 4. Update your Forum post to [READY] when it’s ready to be included in the next\n    voting cycle.\n 5. The Optimism Foundation will roundup proposals and post on Snapshot for a\n    thirteen-day voting cycle.\n 6. Once the voting cycle ends, the Foundation will execute any proposal that\n    has passed.\n\nFor any questions not covered in the Operating Manual, drop in to #gov-general\non Discord.\n\n\nUPCOMING VOTING CYCLE 1\n\nVoting Cycle 1 (June 9 — June 22) will focus on Phase 0 Governance Fund\nproposals.\n\nThe Optimism Foundation nominated a set of projects for Phase 0 funding due to\ntheir track records on Optimism so far. Phase 0 included guidelines for maximum\nproposal amounts, ranging from 300k to 9mm OP. See the GovFund Overview\n[https://community.optimism.io/docs/governance/gov-fund/] for more details.\n\nEvery Phase 0 proposal without critical feedback or objection so far will be\ncombined in a single batch proposal for the Token House to vote on together. For\ndetails on Voting Cycle #1, see the Voting Cycle #1 Roundup thread\n[https://gov.optimism.io/t/voting-cycle-1-roundup/2619].\n\nVoting Cycle 2 (June 23 — July 6) will include every valid proposal marked\nREADY. We expect these will be entirely GovFund Phase 1 proposals for net-new\ngrants and incentives.\n\n\nDELEGATES\n\nOP Token Holders have delegated the voting power of 35mm OP to various community\nmembers who have explicitly volunteered to play an active role in Token House\ngovernance. These volunteers are called delegates.\n\nYou can see a list of delegates sorted by delegations or total voting weight in\na dashboard here [https://dune.com/optimismpbc/optimism-op-token-house].\n\nAs a reminder, any token holder may choose to re-delegate the voting power of\ntheir own tokens at any time. To do so, head to Optimism Gateway\n[http://app.optimism.io/airdrop/delegate]. Or check out this lightweight tool by\nsalatti.eth.\n\nTo facilitate our very first round of voting, we’ve added all delegates with\nmore than 0.5% of current voting power to #gov-voting-cycle-1 in Discord. This\nis a temporary channel, and we’ll set up firmer guidelines in advance of Voting\nCycle 2 as delegations continue to stabilize.\n\nOrganization and coordination of delegates is a rich design space. We expect the\nway Token House delegates work together will evolve over time — feedback from\nour community is welcome, as always.\n\n\n:red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]:sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]\n\nThanks for reading. Plenty more updates to come — watch this space :eyes:\n[https://emoji.discourse-cdn.com/twitter/eyes.png?v=12]\n\nIf you want to get involved:\n\n * Jump in to #gov-temp-check on Discord to help review proposals\n * Submit a GovFund Phase 1 proposal for your project\n * Find fellow builders in #show-and-tell or #l2-jobs on Discord\n * Follow @OptimismGov for future governance updates",
+  "views": 5486,
+  "like_count": 86,
+  "word_count": 1494,
+  "answer": [
+    {
+      "content": "I think the team have to be faster and better in management",
+      "created_at": "2022-06-09T15:04:08.466Z",
+      "trust_level": 0,
+      "username": "akjabay",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": "Here is the summary translated into Spanish. It is a work that the DefiLATAM\n[https://t.me/DeFi_LATAM] community is doing together with the @OptimismESP\n[https://twitter.com/OptimismESP] community.\n\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/1/14f288d5caa2e2741a119f1259b8318150dba535.png]\nmirror.xyz\n[https://mirror.xyz/0x3e4865634EC54dFF742E1a7452a456919B8e277b/mqjd29YatMbEsl5TtNVrU1SNHB8PFy5apHD3QcLSzsE]\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/2/22812ddec0f94eaf977e5b773085b53c405d006b_2_690x345.jpeg]\n\n\nACTUALIZACIÓN DE LA GOBERNANZA OP #1 - 9 DE JUNIO DEL 2022\n[https://mirror.xyz/0x3e4865634EC54dFF742E1a7452a456919B8e277b/mqjd29YatMbEsl5TtNVrU1SNHB8PFy5apHD3QcLSzsE]\n\n¡Bienvenido a la actualización inaugural de Optimism Gov! Estas publicaciones\nperiódicas recapitularán lo último en OP Governance: qué se vota, qué se discute\ny qué sigue.\n\n\n",
+      "created_at": "2022-06-11T22:34:51.073Z",
+      "trust_level": 2,
+      "username": "AxlVaz",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Phase 1 lasts until the Governance Fund is spent!\n\nSee Governance Fund Overview | Optimism Docs\n[https://community.optimism.io/docs/governance/gov-fund/#methodology-notes] for\nmore details",
+      "created_at": "2022-06-09T17:00:12.562Z",
+      "trust_level": 4,
+      "username": "bobby",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 3
+    },
+    {
+      "content": "How long the first phase gonna last?",
+      "created_at": "2022-06-09T15:38:52.896Z",
+      "trust_level": 1,
+      "username": "Jacobcasual",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "\n[https://avatars.discourse-cdn.com/v4/letter/b/b5a626/48.png] ben-chain:\n\n> Or check out this lightweight tool by salatti.eth.\n\nThe link in the post doesn’t seem to work for me, so here’s the tool\n[https://delegation.tools/] :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]",
+      "created_at": "2022-06-09T20:02:30.240Z",
+      "trust_level": 2,
+      "username": "DanieleSalatti",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2022-06-09T14:04:39.606Z"
+}

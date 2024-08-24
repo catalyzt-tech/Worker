@@ -1,0 +1,40 @@
+{
+  "title": "Experimenting with Random Sampling in the Citizens' House",
+  "content": "EXPERIMENTING WITH RANDOM SAMPLING IN THE CITIZENS’ HOUSE\n\n\nWHAT IS RANDOM SAMPLING?\n\nRandom sampling is a widely used statistical method in which all members of a\npopulation (all Citizens) have the same probability of being selected. Random\nsampling does not guarantee that a particular sample is a perfect representation\nof the population, but rather allows for valid conclusions to be drawn about the\nentire population based on the sample. Another way of saying this is that the\nrandom sample approximates the full population. This is due to the equal\nprobability of selection.\n\nThis method is widely used in a variety of disciplines when little is known\nabout the entire population and/or extracting information from the entire\npopulation would be costly or infeasible. This is a powerful tool when\nconsidering the expansion of Citizenship and the increase in the number of\nrounds per year.\n\n> Does random sampling presuppose Citizens are interchangable? - joanbp\n> [https://gov.optimism.io/t/retro-funding-5-announcing-guest-voter-participation/8393/6]\n\nIt doesn’t! In fact, it makes no assumptions about Citizens at all, which is why\none of the major advantages of random sampling is the reduction of bias that can\noccur via subsets selected in any other way. Opt-in methods are particularly\nsusceptible to various biases and can create opportunities for capture by a\nsmall, active, and likely unrepresentative subset. Random sampling only assumes\nthat each participant had an equal probability of selection.\n\n\nWHY USE RANDOM SAMPLING NOW?\n\nSome of the most common feedback\n[https://optimism.mirror.xyz/Bbu5M1mTNV2Z637QxOiF7Qt7R9hy6nxghbZiFbtZOBA] in\nRound 3 was the need to more effectively scale the Retro Funding process (it was\ntoo time consuming for badgeholders!) and to provide more predictability for\nbuilders. There are a variety of measures we are introducing to address this\nfeedback, including more frequent and narrowly scoped rounds. When scaling to\nfour rounds per year (a 4x increase), we felt it was important to keep the\nexpectation on badgeholder time relatively fixed (or even to reduce it.)\nAllowing badgeholders to opt-in to rounds limits the number of voices that are\nheard and may skew or bias the results towards a small subset of Citizens that\nare able to dedicate the most time. Full participation in all rounds, on the\nother hand, demands too much time and effort of the whole group. By requiring\nfull badgeholder participation in two rounds and splitting participation between\nthe other two rounds using random sampling, we believe we can achieve this goal.\nThroughout Season 6, we plan to experiment with random sampling as an alternate\nor additional method to reduce the workload required of any one badgeholder.\nMore on why we believe this is a worthwhile experiment below.\n\n\nWHY RANDOM SAMPLING, SPECIFICALLY IN THE CITIZENS’ HOUSE?\n\n> Should only the most highly engaged Citizens be selected to participate? -\n> gonna\n> [https://gov.optimism.io/t/retro-funding-5-announcing-guest-voter-participation/8393/4]\n\nThe Token House scales via political representation, which while increasing\nparticipation and (potentially) context, also concentrates power. Delegation\nincreases participation but concentrates power among large delegates. In this\ncontext, elected Councils, which delegate decision making power over specific\ndecisions to a one member/one vote Council, can actually reduce the\nconcentration of power in the Token House. A weakness of this model, which we\nwill have to actively combat, is that it’s easy for the ~50 most highly engaged\ndelegates to become responsible for making most decisions.\n\nIn contrast, the Citizens’ House operates via a one Citizen, one vote model\nwhich distributes power evenly among the Citizenry, appearing much closer to a\ndemocracy. Elections, delegation, and/or other political scaling methods will\nconcentrate power in the Citizens’ House. The downsides of these approaches in\ntraditional democracies are thoroughly outlined in Open Democracy\n[https://politicalscience.yale.edu/publications/open-democracy-reinventing-popular-rule-twenty-first-century].\nOne of Hélène Landemore’s\n[https://politicalscience.yale.edu/people/h-l-ne-landemore] main hypotheses is\nthat random sampling (sortition) can be used to avoid these downsides without a\nmeaningful impact on collective outputs (paraphrased.)\n\nReducing the concentration of power is one of the main goals\n[https://community.optimism.io/docs/citizen-house/] of the Citizens’ House and\nrandom sampling is a well tested method that could allow the Citizens’ House to\navoid a common failure mode of other governance systems: capture by a small\nsubset or minority interest. Accordingly, we believe it is worth experimenting\nwith random sampling to enable the Citizens’ House to scale by using\nstatistical, rather than political, methods. With power evenly distributed among\nCitizens, the Citizens’ House may serve as a more effective check on the Token\nHouse.\n\nIn short, the intention is not that sampling be representative of a smaller\nsubset of a certain type of Citizens, but rather to approximate a response from\nthe entire Citizenry. High context, highly engaged Citizens should absolutely be\nrecognized, rewarded, and respected within the Collective. Random sampling is\nnot at odds with any of those objectives though!",
+  "views": 235,
+  "like_count": 10,
+  "word_count": 1033,
+  "answer": [
+    {
+      "content": "I think the psychological aspect is extremely important and something we need to\ndevelop much more to support a healthy culture and retain participants in the\nCitizens’ House! Our culture absolutely needs to better support connection,\nacknowledgment, satisfaction, belonging, purpose, etc. and we are working on\ncreating a framework to develop a culture that does that (and would love to get\nyour feedback on it.) I think the difference in how we’ve been looking at it is\nthat we think the need to support those things can be separate from the voting\nselection mechanism. Part of that has to do with developing recognized\nnon-voting roles, as voting is just one of many important ways that people\ncontribute and engage.",
+      "created_at": "2024-07-05T09:48:37.596Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 2
+    },
+    {
+      "content": "Thank you for the answer.\n\nI was coming at it from more of a psychological perspective, but somehow that\nseems to clash with the way you guys think. Apparently there’s a bit of a\nlanguage barrier between psychology and statistics. :wink:\n[https://emoji.discourse-cdn.com/twitter/wink.png?v=12]\n\nI may simply need to adjust my expectations.",
+      "created_at": "2024-07-03T17:08:03.624Z",
+      "trust_level": 2,
+      "username": "joanbp",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "The conversation on random sampling began here\n[https://gov.optimism.io/t/retro-funding-5-announcing-guest-voter-participation/8393]\nand has been redirected to this thread.",
+      "created_at": "2024-07-02T11:30:29.896Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-07-02T10:44:32.113Z"
+}

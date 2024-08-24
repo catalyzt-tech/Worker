@@ -1,0 +1,30 @@
+{
+  "title": "Why im getting error when i try to submit my project",
+  "content": "Hello everyone, i successfully completed all my project details and published\nonchain successfully.\n\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/5/534fea7eebe8003697e99d43f78994e9b049ab39_2_500x500.png]\noptimism.easscan.org\n[https://optimism.easscan.org/attestation/view/0x631166884c0ad10246a1f7ec83f6d11d0282f06e7dcee75b90268c738a2475dd]\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/c/cb8663b5d1421763e04408f1fd0f902fd6ceb01f_2_690x316.png]\n\n\nATTESTATION (SCHEMA #472) - 0X6311...475DD\n[https://optimism.easscan.org/attestation/view/0x631166884c0ad10246a1f7ec83f6d11d0282f06e7dcee75b90268c738a2475dd]\n\nView attestation details for 0x6311...475dd on EAS - Ethereum Attestation\nService.\n\n\n\n\nBut when i try to submit im getting this error.\n\n\nScreenshot 2024-05-30 at 09.50.25\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/2/2931adcd65e448f2bf4671af626fd829d5e5748f_2_690x343.jpeg]\nScreenshot 2024-05-30 at 09.50.251920×957 85.3 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/2/2931adcd65e448f2bf4671af626fd829d5e5748f.jpeg]\n\n",
+  "views": 266,
+  "like_count": 1,
+  "word_count": 93,
+  "answer": [
+    {
+      "content": "Hey @vrnouns [/u/vrnouns]! Thanks for raising this, we’re looking into it.\nPlease jump into the Optimism discord’s retro funding channel, we’re resolving\nissues there.",
+      "created_at": "2024-05-30T11:17:03.620Z",
+      "trust_level": 4,
+      "username": "Jonas",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "@vrnouns [/u/vrnouns]\n#retro-funding-discussion channel on the Optimism Discord. You can join the\ndiscussion using this link: Optimism Discord\n[https://discord.com/channels/667044843901681675/972069216343715860].",
+      "created_at": "2024-05-30T17:21:08.351Z",
+      "trust_level": 4,
+      "username": "dmars300",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-05-30T06:51:24.696Z"
+}

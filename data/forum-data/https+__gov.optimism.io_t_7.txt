@@ -1,0 +1,60 @@
+{
+  "title": "Welcome to the Optimism Collective Discourse!",
+  "content": "The Optimism Collective is a large-scale experiment in decentralized governance.\nOur vision is to sustainably fund public goods that improve upon the well-being\nof the Collective and beyond. The form and function of this governance is\nintentionally open-ended, and will evolve with community participation, growth,\nand learning.\n\n\nGETTING STARTED DOCUMENTS\n\n\nVISION\n\n * The Optimistic Vision [https://www.optimism.io/vision]\n * Governance Overview [https://community.optimism.io/docs/governance]\n\n\nGOVERNANCE PROCESS\n\n * Working Constitution\n   [https://gov.optimism.io/t/working-constitution-of-the-optimism-collective/55]\n * Operating Manual\n   [https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md]\n * Code of Conduct [https://gov.optimism.io/t/code-of-conduct/5751]\n   * Rules of Engagement\n     [https://gov.optimism.io/t/rules-of-engagement-2-0/5728/5]\n   * Collective Grant Policies\n     [https://gov.optimism.io/t/collective-grant-policies/5833]\n\n\nOP DISTRIBUTION & PROJECT FUNDING\n\n * OP Allocation Overview\n   [https://community.optimism.io/docs/governance/allocations]\n * OP Economics Overview\n   [https://community.optimism.io/docs/governance/economics]\n * Governance Fund Overview\n   [https://community.optimism.io/docs/governance/gov-fund/]\n * Governance Fund Phase 1: How to Create a Proposal - #3\n   [https://gov.optimism.io/t/governance-fund-phase-1-how-to-create-a-proposal/216/3]",
+  "views": 10490,
+  "like_count": 648,
+  "word_count": 1878,
+  "answer": [
+    {
+      "content": "Continuing the discussion from Welcome to the Optimism Collective Discourse!\n[https://gov.optimism.io/t/welcome-to-the-optimism-collective-discourse/7]:\n\n\n[https://europe1.discourse-cdn.com/bc41dd/original/1X/391d6e71a279a9f881f75bfa7df5cdf3cf905b3f.png]\nsystem:\n\n> 我们的愿景是可持续地资助公共产品，以改善集体及其他方面的福祉",
+      "created_at": "2022-06-09T15:47:04.680Z",
+      "trust_level": 0,
+      "username": "huofu123",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 26
+    },
+    {
+      "content": "thank you for overview :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]",
+      "created_at": "2022-06-10T07:42:11.209Z",
+      "trust_level": 1,
+      "username": "EL_PASO",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 25
+    },
+    {
+      "content": "I appreciate the quick start links you supplied!",
+      "created_at": "2022-06-16T04:18:01.638Z",
+      "trust_level": 0,
+      "username": "EverlyElements",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 15
+    },
+    {
+      "content": "thank for overview this is simply and efficient",
+      "created_at": "2022-06-17T12:36:18.949Z",
+      "trust_level": 1,
+      "username": "homelukai",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 12
+    },
+    {
+      "content": "good day!!! just new here. still reading all the articles here and there. just\nsaying. have a great weekend!",
+      "created_at": "2022-06-26T05:46:56.764Z",
+      "trust_level": 1,
+      "username": "mousebun",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 12
+    }
+  ],
+  "created_at": "2022-02-11T19:03:55.762Z"
+}

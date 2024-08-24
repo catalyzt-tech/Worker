@@ -1,0 +1,60 @@
+{
+  "title": "[Final] Inflation Adjustment Proposal (to 0%)",
+  "content": "SUMMARY\n\nThis proposal will signal to set inflation of $OP’s total token supply to 0%.\nThe total supply will remain at 4,294,967,296 OP.\n\n\nMOTIVATION\n\nAs we near the end of $OP’s first financial year, a total of only ~8% of total\nsupply is expected to be circulating. For FY 2, May 2023 - April 2024, we are\nexpected to see 270% inflation in circulating supply, falling to roughly ~50%\ntill May 2026. Particularly in the Partner Fund + Seed Fund + Unallocated\ncategory, less than 5% was circulating as of February 2023.\n\nIn light of arguably an overabundance of $OP supply available over the next 3\nyears, the 2% inflation of $OP is unnecessary.\n\nAs an aside, this is thus more of a symbolic proposal (Edit: just to clarify,\nit’s “symbolic” in the sense that reducing 2% when circulating supply inflation\nis 50%-270% is negligible - this is very much a real proposal), and I hope to\nsee more investigation to improve $OP’s tokenomics, as far as possible. I have\ndiscussed this matter before multiple times, including recently\n[https://gov.optimism.io/t/polynya-delegate-communication-thread/3085/19] - we\ncan do better with a more data-driven approach to token distribution.\n\nData gathered from: [PUBLIC] OP Token Unlock (Estimated) - Google Sheets\n[https://docs.google.com/spreadsheets/d/1qVMhLmmch3s6XSbiBe8hgD4ntMkPIOhc1WrhsYsQc7M/edit#gid=1283480580]\n(updated requested) and OP Allocations | Optimism Docs\n[https://community.optimism.io/docs/governance/allocations/].\n\n\nSPECIFICATION\n\nThis proposal would set an inflation rate for [May 2023 - April 2024] of [0%].\n\nIf approved, and if not superseded by another Inflation Adjustment Proposal with\nhigher approval, this proposal will result in a one-time mint of OP of [0]% of\nthe current total supply (4,294,967,296 OP) equal to [0] tokens. This inflation\nwill occur on or shortly after May 31 and accrues to the “unallocated” portion\nof the token treasury.\n\nIf not approved, and unless another Inflation Adjustment Proposal is approved,\ninflation will remain at 2%, which will result in a one-time minting of 2% of\nthe current total supply, or 85,899,345 OP. Inflation will occur on or shortly\nafter May 31 and accrues to the “unallocated” portion of the token treasury.\n\n\nIMPACT SUMMARY\n\nThis proposal will have no impact until most of the Unallocated tokens are\ncirculating, or we need additional long-term funding for any of the other\ncategories - all of which have plenty of tokens available over the next 3 years.\nWe will revisit the topic next year just in case the Ecosystem Fund has been\nutilized greater than projections.",
+  "views": 7638,
+  "like_count": 115,
+  "word_count": 2202,
+  "answer": [
+    {
+      "content": "Thanks a lot for this draft, I will be 100% supporting it.\n\nI want to first start by saying that I love Optimism, been a holder since the\nmainnet launch, been watching every video about cannon, bedrock, superchain…\n\nHands down OP has the worst tokenomics I have ever seen in any project since the\nbeginning of my crypto journey in 2018. Imagine loving a project so much and\nwanting to hold it just to get crushed with 150mil OP released in 1 day, and\nknowing that 800 more mil will be unlocked by mid 2024.\n\nIn the official discord there is barely any OP token discussion and if you check\nthe channel its all “HI HEY HI GM HELLO HI HEY HI” by bots and any legitimate\nquestion is asked is answered with “We don’t know anything about the tokenomics\nhere are some links that won’t make any sense, and keep in mind that these\ntokenomics charts aren’t accurate at all! but just know that if there is any\nupcoming unlocking’s they will be announced ahead of time”\n\nIn my opinion the tokenomics need to be redone, and massive unlockings shouldn’t\noccur in a single day but rather linearly over the year + setting the inflation\ndown to 0%.\n\nReally doubt anyone will read this or will care and this comment will just end\nup like any of the concerned messages people sent over in the discord.",
+      "created_at": "2023-04-29T22:10:44.996Z",
+      "trust_level": 1,
+      "username": "itsdeath",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 10
+    },
+    {
+      "content": "Absolutely agree. OP inflation is necessary long-term, but unnecessary right now\ngiven the large supply overhang.",
+      "created_at": "2023-05-01T10:20:48.772Z",
+      "trust_level": 2,
+      "username": "norswap",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 8
+    },
+    {
+      "content": "Co-sign. think this sends a strong message.\n\nI am an Optimism delegate\n[https://gov.optimism.io/t/delegate-commitments/235/136] with sufficient voting\npower [https://vote.optimism.io/delegate/jackanorak.eth], and I believe this\nproposal is ready to move to a vote",
+      "created_at": "2023-05-04T16:22:06.758Z",
+      "trust_level": 2,
+      "username": "jackanorak",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": "Hey Polynya, thanks for creating the first ever proposal of this type :pray:\n[https://emoji.discourse-cdn.com/twitter/pray.png?v=12]\n\nI work at the Optimism Foundation, but these are my personal views, not the\nviews of the Foundation.\n\nI strongly agree that the Collective doesn’t need inflation of the OP token\nright now. It’s important that we’re able to increase circulating supply of OP\nwhile managing risk to Token House governance, and increasing the total number\nof tokens in existence moves us further away from this goal. It’s possible\ninflation is a useful growth lever in future years, but it doesn’t help right\nnow.\n\nSetting inflation to 0% this year will allow the community to focus on\ndistribution of existing OP tokens to further the Collective’s core intents\n[https://gov.optimism.io/t/collective-intents/5874].",
+      "created_at": "2023-05-09T21:32:50.173Z",
+      "trust_level": 4,
+      "username": "bobby",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 6
+    },
+    {
+      "content": "Interesting and it makes sense. Would like to hear why it shouldn’t be done.",
+      "created_at": "2023-05-02T21:37:26.172Z",
+      "trust_level": 2,
+      "username": "Graciouseats",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    }
+  ],
+  "created_at": "2023-04-29T11:11:46.912Z"
+}

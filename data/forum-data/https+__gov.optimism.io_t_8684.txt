@@ -1,0 +1,30 @@
+{
+  "title": "GovNFT Community Call Thread 1",
+  "content": "Hi GovNFT program participants!\n\nOne of the main topics in the last community call was the Security Council\nelections for season 6, share your insights about the topic in this thread.\n\nQuestions to answer:\n\nWhat role does the Security Council play?\nWhat would you look for in a Security Council member?\n\nIn case you didn’t attend the call you can watch the recording: August 6th 2024\nToken House Call Recording.mp4 - Google Drive\n[https://drive.google.com/file/d/12UEGOhRFQVZSss9zt4COOyDrGykt7dQJ/view?usp=sharing].\n\nAs a reminder, thoughtful responses are 20 points. Spam or low-effort posts will\nnot count towards the point total.",
+  "views": 41,
+  "like_count": 4,
+  "word_count": 362,
+  "answer": [
+    {
+      "content": "Hi @Michael [/u/michael] thank you for the share and questions.\n\nI’m very new to the governance side of OP so apologies in advance for the lack\nof knowledge / context here. I listened to the call just now - it’s not\nimmediately obvious from that as to either (1) what role the Security Council\nplays or (2) what I would look for in a member. Sorry if that is the wrong\nanswer??!! Are there any secure links to a Terms of Reference that you could\nshare please?\n\nWhat did come through loud and clear though was that there are ongoing\nelections.\n\nI thought the question from ‘Rex’ was really interesting around versioning /\nversion control. Optimism has gone great guns in innovating and shipping stuff -\nbut is there a developing overhang / legacy in terms of forks and iterations.\nWhen overlaid with Superchain activity across the OP stack this must be a\nnightmare to coordinate and record.\n\nWhich did get me thinking about what the ‘core texts and principles’ of Agile\nsay about quality / version control particularly in a high speed, cutting edge,\ndecentralised environment? Would be interested as to what thoughts others have\naround this?\n\nThanks\n\nandrew s | universe.L2",
+      "created_at": "2024-08-10T14:26:22.343Z",
+      "trust_level": 0,
+      "username": "andrewsuniverseL2",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Hey Andrew!\n\nThanks for the response, it honestly is good feedback and it’s definitely\napparent that you listened to the call, you will definitely get those points.\n\nHere is some resources on the security council: Introducing the Optimism\nCollective’s Security Council — The Optimism Collective\n[https://optimism.mirror.xyz/f20gj4Mv3DWdqQEduk5J85VVN254SaQtP0zV_v-8IYs].\n\nIt’s a huge part of what makes Optimism a “stage 1” L2. Thanks again for the\nresponse!",
+      "created_at": "2024-08-16T13:16:47.843Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-08-07T04:14:37.790Z"
+}

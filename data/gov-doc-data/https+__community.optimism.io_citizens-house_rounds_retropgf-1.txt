@@ -1,0 +1,23 @@
+title: RetroPGF Round 1
+lang: en-US
+description: Retro Funding 1 allocated $1M to fund projects that have provided value to the Optimistic Ethereum ecosystem.
+
+Retro Funding Round 1
+
+The Optimism Collective’s first round of Retroactive Public Goods Funding (Retro Funding) took place in Q4 of 2021. 
+This round was the first Retro Funding  experiment of the collective and was announced in the months following the initial blog post on Retroactive Public Goods Funding. 
+Retro Funding 1 allocated $1M to fund projects that have provided value to the Optimistic Ethereum ecosystem. 
+
+Results
+
+In the first round of Retro Funding, 76 projects were nominated, and 58 were awarded funding by the badgeholders!
+The median funding received by a project in Retro Funding 1 was $14,670, while the top 10% of projects received more than $36,919.
+
+You can find a sheet with all projects and their funding allocations here.
+You can find Vitalik's review of the round here
+
+Process and timeline overview
+
+Badgeholder selection - In RetroPGF Round 1, 24 badgeholders, made up of 8 Optimists and 16 Ethereum community members, were selected to vote on distributing retrofunding to nominated projects.
+Nominations (Oct 5th - Oct 21st) - anyone could nominate a project via a form submission by providing a project name, project lead name, project lead e-mail and impact description.
+Voting (Oct 24th - Nov 1st) - Badgeholders were provided with a badgeholder manual and asked to evaluate and vote on nominated projects via quadraticvote.co's interface.

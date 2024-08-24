@@ -1,0 +1,9 @@
+{
+  "title": "Link to twitch channel on main site is invalid",
+  "content": "The link to Optimism foundation’s Twitch channel from the main website\n(https://www.optimism.io/ [https://www.optimism.io/]) leads to a non-existant\nTwitch channel (Twitch [https://www.twitch.tv/optimismpbc]).\n\nThis should be addressed ASAP as a malicious actor may find a way to create a\nTwitch channel at that URL and use that as a phishing attack vector to direct\npeople to scams.",
+  "views": 1613,
+  "like_count": 2,
+  "word_count": 62,
+  "answer": [],
+  "created_at": "2023-02-20T04:09:11.756Z"
+}

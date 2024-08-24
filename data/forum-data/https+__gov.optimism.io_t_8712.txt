@@ -1,0 +1,60 @@
+{
+  "title": "Security Council Member Nomination: Corey Petty (corpetty.eth)",
+  "content": "SECURITY COUNCIL MEMBER SELF-NOMINATION\n\n\nPLEASE INDICATE IF YOU ARE RUNNING TO BE THE COUNCIL LEAD OR A COUNCIL MEMBER:\n\nCouncil Member\n\n\nDOES THIS NOMINATION REPRESENT AN INDIVIDUAL OR ORGANIZATION:\n\nindividual\n\n\nCANDIDATE COUNTRY OF RESIDENCE (OR, IF AN ENTITY, INCORPORATION AND PRINCIPLE\nPLACE OF BUSINESS):\n\nUSA\n\n\nHAVE YOU PREVIOUSLY SERVED ON OPTIMISM’S SECURITY COUNCIL:\n\nno\n\n\nHAVE YOU PREVIOUSLY SERVED ON ANY OTHER COUNCIL OR BOARD IN THE COLLECTIVE:\n\nno\n\n\nARE YOU A REPRESENTATIVE OF OP LABS:\n\nno\n\n\nARE YOU A REPRESENTATIVE OF ANOTHER OP CHAIN:\n\nno\n\n\nIF YOU ARE A DELEGATE, PLEASE PROVIDE THE LINK TO YOUR DELEGATE PROFILE:\n\nN/A\n\n\nIF YOU ARE A MEMBER OF THE CITIZENS’ HOUSE, PLEASE LINK TO YOUR MOST RECENT\nATTESTATION HERE:\n\nN/A\n\n\nPLEASE OUTLINE YOUR CONTRIBUTIONS, AND THEIR IMPACT, TO THE OPTIMISM ECOSYSTEM\nTO DATE:\n\nAs for direct contributions, I have only helped with education and awareness of\nthe organization via interviews (linked youtube videos, which were uploaded\nrecently to new channel so downloads are not reflective of actual numbers):\n\n * Hashing It Out #33: Loom Network / Plasma Cash - Georgios Konstantopoulos\n   [https://www.youtube.com/watch?v=vUfKv8569zg]\n * Hashing It Out #64: Plasma - Kelvin Fichter\n   [https://www.youtube.com/watch?v=xOIX968fkQI]\n * Hashing It Out #67: Optimistic Rollups - John Adler\n   [https://youtu.be/nT4uQ1_TL4c?si=V0BPsAc0G0OSUvFF]\n * Hashing It Out #89: Optimism Karl Floersch\n   [https://youtu.be/cuQx7I-Qa5c?si=IrJ3vrhf3p8hnCK0]\n * Hashing It Out #105: Optimism\n   [https://www.youtube.com/live/lnW97WV1DkU?si=KREgN39Bo3QjmOS1]\n\n\nPLEASE DEMONSTRATE ANY NON-OPTIMISM EXPERIENCE YOU BELIEVE IS RELEVANT TO THIS\nROLE:\n\nI have contributed significantly to the security field as well as general\ntechnical education of blockchain throughout my career. I am heavily aligned\nwith the ideals of the Ethereum ecosystem. I’ve given classes on simple to\nadvanced proper key management. Additionally, I have a reasonably large social\nprofile (happy to provide references), lending to lowering risk of flight or\nmaligned behavior. I’ve listed a number of interviews and material that’s been\npublished throughout the years. There are many more but I’d like to keep this\nrelatively short:\n\n * [Kernel Security] The Web3 Security Mindset with Corey Petty\n   [https://youtu.be/zcJmWr5_GOc?si=TibskYYew4Aa0bw5]\n * [KERNEL Security Track] Week 1: Lay of the Decentralized Land with Corey\n   Petty [https://www.youtube.com/live/moa6Ragk6_s?si=sPJa1IKxt6P9FeCR]\n * “Self Sovereignty and the Transformation of Online Security” by Corey Petty |\n   MoneyDance 2020 [https://youtu.be/JnKGxLlYIhc?si=n0zaV7dhQmQC09qI]\n * Technology & Encryption: The Cat is out of the Bag - Corey Petty -\n   https://youtu.be/dqLMVCGfRtY?si=e5zT0VDPRIkjGHIr (link limit)\n * Cryptographic Asset Show #28 - Corey Petty -\n   (https://youtu.be/mSHUOPONqUI?si=bd6OPMbkqHkVOi0x (link limit for new users)\n * What is a Security Audit, When You Should Get One, and How to Prepare.\n   [https://our.status.im/what-is-a-security-audit-when-you-should-get-one-and-how-to-prepare/]\n * Admin of EthSecurity Community channels\n\nIn a different vein, I work as the portfolio manager and “head of Insights”\nwithin the IFT [https://free.technology], which has had exposure to developments\nat all layers of the stack. Some of this work has interfaced with and around OP\n(Nimbus/Status).\n\n\nPLEASE ELABORATE ON YOUR TECHNICAL BACKGROUND, INCLUDING YOUR GITHUB HANDLE\n(THIS WILL BE USED TO CALCULATE YOUR GITHUB EXPERTISE SCORE AND WILL BE ADDED TO\nYOUR NOMINATION BEFORE IT GOES TO A VOTE BY THE FOUNDATION):\n\n * Github: corpetty\n * My background is founded in a mixture of high performance computing, quantum\n   physics, and physical chemistry. This was then leveraged to enter the\n   industry via a data science/security position for a number of years. This was\n   then leveraged to enter into the security industry (as Status’ Cheif Security\n   Officer) when the conversation was small where I spent a lot of time in the\n   broad community trying to raise the bar for everyone. I’ve spent considerable\n   time analyzing all aspects of the blockchain stack, from identifying\n   inefficiencies and improvements to the gossipsub and consensus layer to\n   application security and intuitive UX design to help users make informed\n   decisions for themselves.\n\n\nPLEASE ELABORATE ON YOUR EXPERIENCE WITH RELEVANT MEMBER (OR LEAD) REQUIREMENTS:\n\nExtensive experience with advising, managing, and threat modeling various\nmultisig treasuries with zero compromises (loss of funds, loss of access, etc)\nin anything that I’ve overseen.\n\n\nPLEASE DESCRIBE YOUR PHILOSOPHY ON WHAT MAKES A GOOD SECURITY COUNCIL MEMBER:\n\nMy general mentality to everything is a risk-based approach: Understand value,\nhow it’s secured and accessed, minimize risk around it being compromised.\nCommunity is the key to any of this, so their voices and needs are number 1\npriority, meaning the concept of risk is focused around them and their\ngrowth/sustainability.\n\n\nPLEASE DISCLOSE ANY ANTICIPATED CONFLICTS OF INTEREST:\n\nN/A\n\n\nPLEASE VERIFY THAT YOU UNDERSTAND YOU MAY BE REMOVED FROM THIS ROLE VIA THE\nREPRESENTATIVE REMOVAL PROPOSAL TYPE IN THE OPERATING MANUAL:\n\nYes\n\n\nPLEASE VERIFY THAT YOU UNDERSTAND THAT ELECTION IS SUBJECT TO SUCCESSFUL\nCOMPLETION OF A FOUNDATION SCREEN WHICH MAY INCLUDE KYC/AML, SANCTIONS\nSCREENING, AND A REQUIREMENT TO SIGN A STANDARD CONTRACT: [NO/YES]\n\nYes\n\n\nPLEASE VERIFY THAT YOU ARE ABLE TO COMMIT ~5 ACTIVE HOURS / MONTH TO FULFILL THE\nMEMBER RESPONSIBILITIES. PLEASE NOTE THAT THERE IS AN “ON-CALL” ASPECT TO THIS\nROLE THAT IS NOT FULLY ENCOMPASSED IN THE ACTIVE HOURS ESTIMATE: [NO/YES]\n\nYes",
+  "views": 75,
+  "like_count": 7,
+  "word_count": 1332,
+  "answer": [
+    {
+      "content": "You’d be right to feel that way. There isn’t any evidence outside of my broader\necosystem alignment. I am not explicitly a part of any of the current Optimism\nprojects (as of right now).\n\nMy alignment is with the industry, and whom I consider “good” players within it,\nand Optimism is one of them. I’m happy to prove that to you in some form or\nanother, or others can chime in on my behalf. IF that isn’t enough, I understand\nand I’m fine with not being approved.\n\nAlthough a small factor and subjective, you can see the quality of folks who’ve\ninteracted with my tweet discussing my self-nomination\n[https://x.com/Corpetty/status/1823888185614537186].\n\nI’d also argue that including someone external to the projects within Optimism\nisn’t a bad thing, assuming they’re qualified and they’re reasonably aligned\nwith the project and the ecosystem at large, which I am.\n\nIn the event you have enough candidates that are stronger, which results in a\nmore secure council, then I would be happy to not be a part of it. The goal is a\nstrong, decentralized council, regardless of my involvement.",
+      "created_at": "2024-08-15T13:48:41.627Z",
+      "trust_level": 1,
+      "username": "corpetty",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Happy to!\n\nFirst off, I was asked to nominate myself as some folks thought I would be a\ngood candidate. After reading about it, I felt I fit the bill. I’m confident in\nmy security expertise, I care about the success of the project, and I like\nhelping out. It’s a relatively straightforward task that doesn’t require too\nmuch of my time, and my schedule is ok with the “on-call” aspect of things as\nI’ve been in multiple “war rooms” throughout my time in the industry.",
+      "created_at": "2024-08-15T01:00:53.370Z",
+      "trust_level": 1,
+      "username": "corpetty",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Can you elaborate on your motivation for running for security council?",
+      "created_at": "2024-08-14T22:36:03.705Z",
+      "trust_level": 2,
+      "username": "chaselb",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "In full support of this nomination - @corpetty´s commitment to security in this\necosystem for the past several years including security education and multiple\n“war room” security experiences make him a solid, trustworthy and value aligned\ncandidate.",
+      "created_at": "2024-08-15T16:01:18.841Z",
+      "trust_level": 2,
+      "username": "Pop",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Thanks for your answer. My main hang up on approving your nomination is I don’t\nsee strong indicators of your alignment with the success of the Optimism\nCollective. You don’t have a record of discussion in the forum, and and I don’t\nthink I’ve seen you in discord or anything like that. You’re not a part of a\nproject that depends on Optimism’s success (from what I can tell).\n\nNot to say that you aren’t aligned with Optimism’s mission and success, but I\ndon’t see proof of “skin in the game” so to speak, which I is important for me\nto approve someone to the security council.",
+      "created_at": "2024-08-15T02:34:05.450Z",
+      "trust_level": 2,
+      "username": "chaselb",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-08-13T17:57:50.739Z"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Marketing / Online Footprint",
+  "content": "I was looking at a tally of how many different cryptos were mentioned on social\nmedia. Optimism didn’t even make the list. I think “OP” is underreported and\npossibly mistaken by bots for standing for “Original Poster.” I think OP is also\noverlooked for having only two characters instead of three or more (ETH, BTC,\nMATIC). Any thoughts on this?",
+  "views": 1652,
+  "like_count": 5,
+  "word_count": 252,
+  "answer": [
+    {
+      "content": "Hello jackanorak.\n\nThe list is embedded into Reddit’s “Cryptocurrency” subreddit. Here’s a link to\nit.\n\nhttps://redditcoins.app/ [https://redditcoins.app/].",
+      "created_at": "2022-10-06T14:56:32.546Z",
+      "trust_level": 2,
+      "username": "Ovetta",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Agree on under-reported in comparison to other chain but this might also happen\nbecause they have huge hype of native token “airdrop”.\n\nWe are doing relatively well from protocol side with on-going $OP incentives and\nI only expect to grow even more with OP Citizen house launch,",
+      "created_at": "2022-10-06T13:07:59.089Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "out of curiosity @Ovetta [/u/ovetta], could you share this list you’ve made?\n\nmy suspicion is that much of what it has to do concerns the sorts of projects\n(both apps and layers) that typically get a lot of social media play – there\nmight not be a large overlap with our defi-heavy, governance-focused ecosystem\n\nin any case i’m not sure that solving for social media exposure of the OP token\nis a primary concern at this stage, though it’s certainly worth tracking",
+      "created_at": "2022-10-06T14:26:08.398Z",
+      "trust_level": 2,
+      "username": "jackanorak",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "I think we need to work harder, contribute and grow the ecosystem and Optimism,\nso that ‘OP’ for everyone means Optimism, and associates with Optimism.",
+      "created_at": "2022-10-06T12:16:59.699Z",
+      "trust_level": 2,
+      "username": "diligit",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "ah, thank you!\n\nfwiw OP’s on there, between AAVE and BAT",
+      "created_at": "2022-10-06T15:06:35.565Z",
+      "trust_level": 2,
+      "username": "jackanorak",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-10-06T11:34:28.605Z"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "S5 grantee: x23.ai - governance summariser + chatbot",
+  "content": "G’day everyone. We’re one of the awarded grantees for the AI Assistance for\ngovernance mission in Season 5\n[https://gov.optimism.io/t/cycle-22-final-grants-roundup/8086].\n\nWe’ll use this topic thread to post updates and seek feedback for what we’re\nbuilding.\n\nIn summary, we want to help delegates and community members quickly and easily\nparticipate in Optimism governance. We’re doing this by creating both a chatbot\n(i.e. assistant) and a summary of governance.\n\nThe initial beta versions are now available and are open to the public!\n:partying_face: [https://emoji.discourse-cdn.com/twitter/partying_face.png?v=12]\n\nGovernance summariser ‘newsfeed’\n\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/4/430945d9a85b1a4bfce906371955087c43e870c0.png]\napp.x23.ai [https://app.x23.ai/optimism]\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/e/e2bd8a6ba27ae8078a1c0be85b858b29b9068597_2_690x362.png]\n\n\nTHE OPTIMISM COMMUNITY [https://app.x23.ai/optimism]\n\nUncover what's happening in Optimism\n\n\n\n * This is a newsfeed of activity covering all discourse (i.e. governance) forum\n   activity, and pull requests activity from optimism and docs repo under the\n   github owner ethereum-optimism.\n * We also have historic discussions, summaries of the above code repos, and\n   historic snapshot proposals.\n\nGovernance Assistant / Bot\n\n[https://telegram.org/img/website_icon.svg?4] Telegram\n[https://t.me/OptimismGovBot]\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/4/412a98d7fd8ebaa45d0372a25f3cef21534330f8.jpeg]\n\n\nOPTIMISMGOVBOT [https://t.me/OptimismGovBot]\n\nI'm the Optimism Gov assistant, here to help with all your governance and\ninformation needs. I'm still in beta!\n\n\n\n * Our assistant covers all of the same data in the newsfeed and is pretty good\n   at surfacing and understanding timely information\n\n--------------------------------------------------------------------------------\n\nThese products are still in beta so there are still some issues and bugs that we\nare resolving. However in their current form, they are ‘good enough’ to quickly\nget up to date on what’s happening in Optimism governance.\n\nOur roadmap of improvements for the next versions include:\n\n * expanding coverage to onchain proposals and votes in Agora\n * expanding coverage to static but authoritative / official information, e.g.\n   from an official FAQ, website, etc.\n\n--------------------------------------------------------------------------------\n\nWe’d love to hear from the community on what can be improved, what features\nyou’d like to see, and of course any bugs you might find! Feel free to post here\nor message me directly on telegram [https://t.me/daveytea] (make sure you\nmention this post).",
+  "views": 214,
+  "like_count": 12,
+  "word_count": 495,
+  "answer": [
+    {
+      "content": "Thanks for testing, and great feedback!\n\nWe’ll work on making sure it can share links to resources. When references are\navailable for the information it gives, it will be linked via the clickable\n:information_source:\n[https://emoji.discourse-cdn.com/twitter/information_source.png?v=12] icon.\n\nAlso we found the bug that caused the error you saw. It has been solved now\n:slight_smile: [https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]",
+      "created_at": "2024-07-05T05:42:54.220Z",
+      "trust_level": 1,
+      "username": "daveytea",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "UPDATE:\nWe’ve dramatically increased the accuracy of the GovBot, so it should work much\nbetter if you previously tried it and weren’t satisfied with the response.\nOfc this is still in beta and active development, so please let us know if you\nfind any bugs or areas of improvement.\n\nYou can access it by messaging the bot directly on Telegram @OptimismGovBot or\nusing this link: Telegram: Contact @OptimismGovBot [https://t.me/OptimismGovBot]",
+      "created_at": "2024-07-18T21:40:04.025Z",
+      "trust_level": 1,
+      "username": "daveytea",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Hello! very VERY interested in this tool. Happy to do hard testing every time\nyou update it.\n\nIt would be nice if the bot could share the link to the resources used to\nprovide the answer if requested.\n\n\n\nimage\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/5/56b2bdcfadab80a2bce9097a5a7b8e4eca0e3dad_2_517x181.png]\nimage781×274 25.7 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/5/56b2bdcfadab80a2bce9097a5a7b8e4eca0e3dad.png]\n\n\n\nFinally I don’t know why but this happened:\n\n\n\nimage\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/3/378f251e1bc5f00706c4a20f605ec119680e0e04_2_505x375.png]\nimage769×570 58.2 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/3/378f251e1bc5f00706c4a20f605ec119680e0e04.png]\n\n\n\nMaybe the bot it;s not ready to learn form us in telegram xD",
+      "created_at": "2024-07-04T23:14:14.498Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2024-07-04T14:41:43.505Z"
+}

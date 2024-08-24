@@ -1,0 +1,60 @@
+{
+  "title": "L2BEAT Invitation to discuss Season 6 and Optimism",
+  "content": "The following reflects the views of L2BEAT’s governance team, composed of\n@kaereste [/u/kaereste] and @Sinkas [/u/sinkas], and it’s based on the combined\nresearch, fact-checking, and ideation of the two.\n\nWith Season 6 upon us, we want to discuss its structure and Optimism broadly\nwith other delegates and interested stakeholders. There are many things to\nunpack and many structural changes to digest before the Season officially kicks\noff, from the new Intents to the way Mission will work.\n\nIf you’re eager to learn more about Optimism, if you have ideas you’d like to\nbounce off of someone with experience in governance and Optimism, or if you’re\ncontemplating applying for a grant, we’d like to chat.\n\nWe want to take the opportunity to remind everyone that L2BEAT is hosting\nOptimism Office Hours every Tuesday at 3:00 pm UTC\n[https://meet.google.com/pem-jzrh-gkq], and we want to extend an invite to our\nnext call on Tuesday, 11th of June 2024, to all interested parties.",
+  "views": 344,
+  "like_count": 15,
+  "word_count": 280,
+  "answer": [
+    {
+      "content": "That’s strange - I edited it again and it should be working now. In case it\nstill doesn’t, the link is the following:\n\nmeet.google.com/pem-jzrh-gkq [http://meet.google.com/pem-jzrh-gkq]",
+      "created_at": "2024-06-10T16:38:32.327Z",
+      "trust_level": 2,
+      "username": "Sinkas",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "I accidentally linked to the wrong place and not the Google Meet link - fixed\nit!",
+      "created_at": "2024-06-10T10:17:45.241Z",
+      "trust_level": 2,
+      "username": "Sinkas",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "I am still having issues accessing this link. Might you be able to paste here\nagain?",
+      "created_at": "2024-06-10T16:27:51.006Z",
+      "trust_level": 2,
+      "username": "Sov",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "The text shows up in red like there is a link but it is not linked to anything",
+      "created_at": "2024-06-10T16:28:16.294Z",
+      "trust_level": 2,
+      "username": "Jrocki",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Thanks for the invite!\n\nI can’t access to the link, I think it’s no public :thinking:\n[https://emoji.discourse-cdn.com/twitter/thinking.png?v=12] could you review it,\nplease.\nThanks in advance!",
+      "created_at": "2024-06-10T04:26:18.242Z",
+      "trust_level": 3,
+      "username": "Liliop.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2024-06-10T00:37:02.018Z"
+}

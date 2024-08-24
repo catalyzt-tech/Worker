@@ -1,0 +1,43 @@
+title: Developer Tools
+lang: en-US
+description: Learn about different developer tools you can use to help you build on Optimism.
+
+import { Cards, Card } from 'nextra/components'
+
+Developer Tools
+
+Welcome to the Optimism developer tools!
+
+If you are already familiar with building on OP Mainnet and just need the tools to get cracking, you are in the right place!
+
+Connecting
+
+  <Card title="Node & RPC Providers" href="/builders/tools/connect/rpc-providers" icon={} />
+
+Building
+
+  <Card title="Oracles" href="/builders/tools/build/oracles" icon={} />
+
+  <Card title="NFT Tools" href="/builders/tools/build/nft-tools" icon={} />
+
+  <Card title="Block Explorers" href="/builders/tools/build/block-explorers" icon={} />
+
+  <Card title="Account Abstraction" href="/builders/tools/build/account-abstraction" icon={} />
+
+
+Monitoring
+
+  <Card title="Historical Data" href="/builders/tools/monitor/regenesis-history" icon={} />
+
+
+OP Tools
+
+  <Card title="Superchain Bridges" href="https://app.optimism.io/bridge" icon={} />
+
+  <Card title="Optimism SDK" href="https://sdk.optimism.io/" icon={} />
+
+  <Card title="Superchain Faucet" href="https://console.optimism.io/faucet?utm_source=docs" icon={} />
+
+  <Card title="Superchain Dev Console" href="https://console.optimism.io/?utm_source=docs" icon={} />
+
+  <Card title="Gas Tracker" href="https://optimistic.grafana.net/public-dashboards/c84a5a9924fe4e14b270a42a8651ceb8?orgId=1&refresh=5m" icon={} />

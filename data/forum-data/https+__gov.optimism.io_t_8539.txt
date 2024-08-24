@@ -1,0 +1,40 @@
+{
+  "title": "[Mission Request] Experimental Derivative Markets",
+  "content": "EXPERIMENTAL DERIVATIVE MARKETS\n\nOP S6: Mission Request\n\n\nS6 INTENT\n\nIntent 3: Grow application devs on the Superchain\n[https://gov.optimism.io/t/season-6-intents-ratification/8104]\n\n\nDELEGATE MISSION REQUEST SUMMARY:\n\nIn order to effectively compete with other chains in derivatives trading,\nOptimism is in need of long-tail and experimental derivative markets. The most\nutilized derivative market in Crypto/DeFi is Perpetual Futures, with mass\nadoption in both DeFi & Centralized markets. Perps traders choose perps products\nprimarily based on three factors: assets available, cost, and open interest\navailable. On Optimism, traders find the latter two but there is often a gap in\nthe long-tail markets available. Adding perps markets for long-tail assets aims\nto make Optimism the premier venue for trading.\n\nAdditionally, we must incentivize new derivative markets on Optimism to capture\nDeFi Traders who want access to new markets. This includes but is not limited\nto:\n\n * Long-Tailed Derivative Markets\n * Options\n * Binary Options\n * Sports Markets\n * Leveraged Tokens\n * Prediction Markets (Elections, Polymarket, etc)\n * Lottery / No-Loss Lottery\n * Liquidity Markets (integration with Velodrome/Aerodrome)\n\n\nPROPOSING DELEGATE/CITIZEN:\n\nMasterMojo, Matt Losquadro, and Synthetix Ambassadors\n\n\nTOTAL GRANT AMOUNT\n\n300k OP total is requested for this program. Individual grants are capped at\n50,000 OP. This should be enough to support at least 6 applicants, with the\nexpectation that some are below this amount.\n\nShould this Mission be fulfilled by one or multiple applicants: Multiple\n\nHow will this Mission Request help accomplish the above Intent?\n\nThe primary goal of this initiative is to incentivize the creation and trading\nof new experimental derivative markets on Optimism.This mission is meant to\ncreate an experimental derivative market on Optimism that other chains do not\nhave, with the overarching goal of supporting the experimentation of derivatives\non Optimism.\n\nWhat is required to execute this Mission Request?\n\nThe requirements for executing this mission will support various cycles of\ndevelopment, growth, and support of one of the included derivative markets.\nRefer to the summary to see the list. The list below includes examples of how an\napplicant can execute this mission request:\nMust launch a new derivative market for one of the listed long-tailed derivative\nmarkets on Optimism, including plans for launch, and medium to long-term growth.\n\nEx: Must launch perps markets for long-tailed assets, which are not currently\nsupported on any Superchain dApp\n\nProjects must show how they will handle risk/hedge to protect LPs from exposure\nto the long/short side of trades. Minimum Liquidity must support at least 250k\nin liquidity to trade these various derivative products.\n\nEx:\n\nHow should governance participants measure impact upon completion of this\nMission?\n\n * Milestones:\n   * Creation of short-term launch plan to support minimum liquidity support and\n     MVP of product and design. (upon application)\n   * Launch of Product in Beta/Alpha to support initial sets of users with\n     liquidity support\n   * Fully Launch Experimental Derivative Market\n * Impact/Metrics:\n   * Total Volume\n   * Total Fees Generated\n   * Liquidity of Supported Markets\n   * Delta Neutrality for LPs\n   * RPGF Focused: Total gas fees\n * Impact: Total gas fees\n\nHas anyone other than the proposer contributed to this Mission Request? TBD\n\nThis is still in DRAFT Mode.\n\n\nWHICH METRIC WILL THE SUCCESS OF THIS MISSION REQUEST BE EVALUATED AGAINST?\n\nThe North star metric against which this Mission Request should be evaluated is\nthe total amount of gas fees generated from the grantee’s contracts, because\nthis Mission Request sets out to increase the aggregate demand for blockspace on\nthe Superchain through a larger program. The total gas fees generated from this\nprogram act as a healthy indicator of its combined downstream performance. This\nmetric was suggested by the Foundation and approved by the Grants Council.",
+  "views": 317,
+  "like_count": 2,
+  "word_count": 698,
+  "answer": [
+    {
+      "content": "@mastermojo [/u/mastermojo] Intent is missing in the MR proposal (a\ntechnicality, but required info)",
+      "created_at": "2024-07-08T18:05:24.171Z",
+      "trust_level": 2,
+      "username": "Bunnic",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "A North Star Metric has been added at the bottom of this Mission Request in an\neffort to enable the Collective to make data-driven decisions. By using a single\nmetric for each Mission Request, the Collective is better able to evaluate the\nperformance of all the Season 6 missions in a standardized manner, which will be\ncritical when the Collective makes decisions about Intents, budgets, or other\ncritical components of governance.",
+      "created_at": "2024-07-19T19:52:22.873Z",
+      "trust_level": 4,
+      "username": "system",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 0
+    },
+    {
+      "content": "Thanks for catching; added!",
+      "created_at": "2024-07-08T19:25:45.614Z",
+      "trust_level": 2,
+      "username": "mastermojo",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-07-08T16:53:57.341Z"
+}

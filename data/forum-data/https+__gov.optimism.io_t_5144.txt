@@ -1,0 +1,20 @@
+{
+  "title": "Moralis Alternative",
+  "content": "EVM stands for Ethereum Virtual Machine, and there are over 600+ Known EVM\nchains including\nETH, BNB, MATIC, FTM, and many more.\nThese networks support smart contracts like ERC20, ERC721, and ERC1155. Here ERC\nstands for\nEthereum Request for Comment. These standards have especially ERC20 been\ndominant & helpful\nin Creating Tokens in Cryptocurrency networks. Tokens have been quite popular in\nThere have been\nan increasing number of tokens in multiples of thousands.\nICOs stands for Initial Coin Offering or IEO ie Initial Exchange Offerings have\nused tokens in their\nECO system.\nMost exchanges nowadays support EVM Wallet and their tokens. To support tokens\nDeveloper use\nEither GETH [ Go Ethereum Client], Or use Hdwallet+ [Moralis or Other Public\nAPIs]\nKnown Issues with Geth.\n\n 1.  Security: Geth itself isn’t protected by nature, Additional security like\n     NGINX or a firewall\n     is required.\n 2.  Multichain : Geth /Parity does not have More than one chain.\n 3.  HDWallet: Geth creates a random Private key every time a new address is\n     generated. Thus\n     developer needs to maintain and backup Multiple private keys.\n 4.  Transaction Log: Geth does not maintain or save the transaction history of\n     its account\n 5.  Dashboard: It does not have any dashboard to see and visualize the account,\n     deposits,\n     withdrawals, or tokens.\n 6.  Funds movement: Funds can not be auto-moved to a specific account.\n 7.  Private keys need backup: A regular backup is required.[ Almost every new\n     account is\n     created ]\n     Known Issues with Moralis or Similar Solutions [ Infura, Etherscan].\n 8.  Address Generation: Such services can not generate an account or maintain\n     private keys.\n 9.  Server App: Does not have any private app running on a server.\n 10. Signing Transaction: Transactions can not be signed.\n 11. Funds movement: Funds can not be auto-moved to a specific account.\n     Blockgum comes to the rescue as it is Hybrid Solution to serve both\n     purposes that GETH and\n     Moralis Alternative [https://blockgum.com] do. Blockgum is a server app and\n     has a ethereum mobile [https://blockgum.com] client for Full\n     management purposes.\n     Blockgum can read multiple chains ie Multichain Wallet Full Server side\n     wallet solution, to cater\n     to the need of Exchanges, ICOs, IEOs, Wallets, Payment Gateways, Wallet\n     Providers and Stores,\n     and Other services.\n     Blockgum is a Geth alternative as It supports HDWallet, which can generate\n     billions of addresses. It\n     uses Single Master Public and Private keys. No need to maintain Millions of\n     Private keys. Backup\n     once and you are good forever. Which is a perfect ethereum wallet tool.\n     Blockgum Supports Major EVM APIs + It has a set of own useful APIs which\n     are missing for the\n     EVM ecosystem.\n     Blockgum is also a Ethereum Deposit Tool ie does ETH Deposit Tracking for\n     multiple chains for\n     Main coin and their tokens, It can be used for ETH Wallet , BNB Wallet or\n     Any EVM Wallet\n     purposes for your all custom accounts.",
+  "views": 1736,
+  "like_count": 8,
+  "word_count": 478,
+  "answer": [
+    {
+      "content": "good information, thank you :+1:\n[https://emoji.discourse-cdn.com/twitter/+1.png?v=12]",
+      "created_at": "2023-02-09T05:12:03.147Z",
+      "trust_level": 2,
+      "username": "Guella",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    }
+  ],
+  "created_at": "2023-02-07T09:25:25.718Z"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Missing Grant Application Feedback - Season 5",
+  "content": "I have opened a few applications for season 5.\nTwo of them made it to the final review :\n\n * CharmVerse - the all-in-one web3 space\n   [https://app.charmverse.io/op-grants/dedicated-optimism-blockchain-course-in-unibit-technical-university-2820392497401818]\n * CharmVerse - the all-in-one web3 space\n   [https://app.charmverse.io/op-grants/smart-guardians-smart-contract-auditing-8615466331726107]\n\nToday I saw that the applications are rejected.\nEverything is fine and I fully understand that some of the applications will be\nrejected.\nHowever, It is not fine to skip all feedback and comments.\n\nMany other devs and I are writing applications and it takes us days, even weeks\nto prepare all the docs and write down our ideas, and then we do not receive any\nfeedback?\n\nMaybe it is too early, but if it ends like this and no feedback is received this\nspeaks bad for the whole process, the lack of transparency and disrespect for\nthe work of all applicants.",
+  "views": 609,
+  "like_count": 7,
+  "word_count": 687,
+  "answer": [
+    {
+      "content": "This was fixed, no need to be logged in, and if you are not, there’s a “sign In”\nnow.\n\n\n\nimage\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/a/a89f205f1c9fbf4f74be1f4abe3976e07eb7fe84_2_690x406.png]\nimage1792×1057 71.6 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/a/a89f205f1c9fbf4f74be1f4abe3976e07eb7fe84.png]\n\n",
+      "created_at": "2024-04-29T12:00:47.885Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 2
+    },
+    {
+      "content": "Ok, that was useful, I found some scores in the document here - Cycle 22\npreliminary feedback - Google Sheets\n[https://docs.google.com/spreadsheets/d/14OKrK8BBoCxZ2ubebit9bZjQHd_J_JkgLMzxiQnNBCM/edit#gid=928489944]\n\nThings are one idea more clearer now, thanks!",
+      "created_at": "2024-04-29T06:57:04.329Z",
+      "trust_level": 1,
+      "username": "tima-t",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "If you read the announcement carefully you will find a document with all the\napplications, the rubric scores and comments from reviewers.\n\n\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/gonna.eth/48/3379_2.png]\nGrants Council - Cycle 22 Preliminary Review Roundup\n[https://gov.optimism.io/t/grants-council-cycle-22-preliminary-review-roundup/8030]\nGrants [/c/governance/grants/52]\n\n> The Cycle 22 Preliminary Review has concluded. We received a total of 234\n> applications during this round. Of these, 37 applications were declined upon\n> intake, leaving 197 to be scored by two randomly selected reviewers, based on\n> the respective subcommittee handling the mission request. During this cycle,\n> the Developer Advisory Board (DAB) expressed a desire for increased\n> involvement. Consequently, the Grants Council (GC) prioritized all intent 1\n> preliminary scores and provided the final list t…",
+      "created_at": "2024-04-28T23:45:43.964Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "I am logged, but no comments were provided",
+      "created_at": "2024-04-29T06:55:57.252Z",
+      "trust_level": 1,
+      "username": "tima-t",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Also wanted to add that you need to be logged in to Charmverse to see any\ncomments from reviewers.",
+      "created_at": "2024-04-29T01:42:09.852Z",
+      "trust_level": 3,
+      "username": "katie",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-04-26T06:53:16.246Z"
+}

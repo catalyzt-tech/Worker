@@ -1,0 +1,50 @@
+{
+  "title": "[GF: Phase 0 Proposal] Chainlink",
+  "content": "Project Name: Chainlink\nAuthor Name: Chainlink Team\nDefillama TVL (at snapshot): $0M\nTransactions/day (at snapshot): 2,593\nTier: 2\nOptimism Native: No\nNumber of OP tokens to claim: 1,000,000\nL2 Recipient Address: 0x7EE753e87f20eb3262967c2Fc54762b0B4Ff4D75\n\n\nTOKEN DISTRIBUTION PROPOSAL\n\nThe Chainlink Network [http://chain.link] is a protocol that supports the\ncreation of decentralized oracle networks that enable data feeds, off-chain\ncomputation, and cross-chain messaging on and between blockchain networks. The\noracle nodes are run by Chainlink Node Operators (NOPs)—independent entities\nresponsible for deploying onto new blockchain networks, sourcing high-quality\ndata, and providing highly secure off-chain services to consumers with high\nuptime and reliability.\n\nChainlink NOPs are rewarded for participating in the Chainlink Network based on\nthe number of services and updates they support. It is proposed that the OP\ntokens will be rewarded over time to ecosystem participants responsible for\nChainlink services and the proper functioning of the Network.\n\nHow will the OP tokens be distributed?\nThe OP tokens will be rewarded to NOPs and other ecosystem participants over\ntime in order to support and encourage building on Optimism. Given Chainlink’s\nintegral role as the industry-leading oracle solution, the dynamics and\nappropriate incentives to supercharge user growth on Optimism are different from\nthe ones of projects building exclusively on-chain (dApps). With this proposal,\nwe aim to broadly align the interests of the Chainlink ecosystem with the\nOptimism ecosystem and, in turn, attract more developers/users to Optimism.\n\nHow will this distribution incentivize usage and liquidity on Optimism?\nThe proposed distribution of OP tokens as rewards will a) incentivize ecosystem\nparticipants to provide secure Chainlink services; b) support the Chainlink\ncommunity’s involvement in Optimism governance; and c) provide additional\nincentives to use Optimism.\n\nChainlink was one of the first set of protocols to deploy on Optimism, helping\nsupport the initial growth of its ecosystem projects across DeFi, such as\nSynthetix. Chainlink also supports numerous other decentralized services that\ncould be deployed on Optimism in the future that may spur the growth of other\nkey verticals on Optimism, such as NFTs, gaming, insurance, and beyond.\n\nChainlink’s continued support on Optimism will enable developers to innovate and\nexplore novel use cases, creating a greater market of smart contract value.\nChainlink ecosystem participants will have an additional incentive to use\nprojects building on Optimism due to the virtuous cycle between user activity\nand demand for oracle services. Increased user activity results in more\nprotocols being developed, driving the development of additional oracle\nservices.\n\nWhy will the incentivized users and liquidity remain after incentives dry up?\nThe OP tokens may accelerate new Optimism network activity, but we expect\norganic activity utilizing the Chainlink Network will continue to grow on\nOptimism after the OP token incentives are used. As Optimism attracts more\ndevelopers and users facilitated by key Chainlink services, a self-sustaining\necosystem can emerge that may support itself through user fees alone. Chainlink\nsupporting new L1/L2 chains has long been a key driver in helping the new chain\nbootstrap their growth by increasing their TVL, enabling entirely new categories\nof dApps, and the ability to show off their unique qualities and projects.\n\nOver what period of time will the tokens be distributed?\nThe distribution rate depends on the breadth of services supported and market\nconditions.\n\nHow much will your project match in co-incentives?\nWe don’t anticipate co-incentives at this time.",
+  "views": 3425,
+  "like_count": 15,
+  "word_count": 699,
+  "answer": [
+    {
+      "content": "From my experience, Chainlink offers so much value to the dapps I build. I won’t\nbuild on a chain they don’t support. It’s obvious to me to align with them. I\nfully support this proposal.",
+      "created_at": "2022-06-01T16:59:13.441Z",
+      "trust_level": 2,
+      "username": "studiomax",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Hi @Thodoris [/u/thodoris]! It’s been about 5 months since your Phase 0 OP grant\nwas distributed, checking in to see if you have a grant update you could share\nwith the community?",
+      "created_at": "2023-01-05T14:49:58.709Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "A strong connection between optimism and chainlink is good for optimism and will\ndistribute tokens in a diversified way to another core part of the crypto\necosystem, so good to support this.",
+      "created_at": "2022-05-29T04:47:24.876Z",
+      "trust_level": 2,
+      "username": "Justin",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Hi @lavande [/u/lavande]; we appreciate your interest here.\n\nWe are working on putting together an update for the community and will share it\nwhen it’s finalized.",
+      "created_at": "2023-01-27T11:25:47.384Z",
+      "trust_level": 2,
+      "username": "Thodoris",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2022-05-27T16:37:11.592Z"
+}

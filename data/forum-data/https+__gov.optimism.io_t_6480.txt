@@ -1,0 +1,30 @@
+{
+  "title": "Cycle 14 Rubric Updates",
+  "content": "As part of our effort to improve the grants process continuously, the Grants\nCouncil has revised the Cycle 14 rubrics for each Sub-Committee. The updates\nfocus on the resolving the following:\n\n * The Council found that the scale for certain project traits, like\n   “Opensource” or “Optimism Relationship” was too high relative to rubric\n   categories focused on a project’s ability to further the Sub-Committees’\n   mandates. Accordingly, the maximum number of points awarded for certain\n   projects has been reduced.\n\n * The Council notes that projects have a tendency to request maximum grant\n   sizes where often the thesis of proportionality between the grant size and\n   the benefit to the Optimism ecosystem is underdeveloped. Based on the belief\n   that excellent projects should score well outside of the “grant size”\n   category, thresholds have been added such that projects requesting a grant\n   above the threshold will only be able to achieve a specified maximum score\n   for “grant size.” These thresholds are as follows: Experiments grants\n   requesting greater than 65k OP can achieve a maximum score of 2/4 for the\n   “grant size” category; Experiments grants requesting greater than 100k OP can\n   achieve a maximum score of 1/4. Builders grants requesting greater than 35k\n   OP can achieve a maximum score of 2/4.\n\n * The Council added a 1 point credit for projects that submitted proposals in\n   the first week of the Submissions Period and a 1 point deduction for projects\n   that submit in the final 48 hours of the Submissions period. This is meant to\n   incentivize earlier submission in order to keep consistent intake and\n   preliminary review processes.\n\n * The Council has added proposer conduct deductions. These deductions are to be\n   used sparingly and are directed toward basic decency and respect for the\n   review process. Noting that the Code of Conduct applies to delegates,\n   badgeholders and grant recipients, the proposer deductions make it clear that\n   non-delegate proposers are subject to minimum conduct standards. Deductions\n   will be noted in any review documents as part of the rubric scoring.\n   Particularly egregious conduct can result in a sub-committee vote to remove a\n   proposal from consideration for the Cycle or the Season.\n\nThe updated rubrics were posted to CharmVerse last week and have been available\nfor proposer reference. You can find the rubrics here\n[https://docs.google.com/spreadsheets/d/1ozeet5kgLOOXZZp9GJ2HOfUr1BjSJ3_FXzo3LTdmCek/edit#gid=0]\nwith yellow highlighting to point out areas that have been updated relative to\nthe last Cycle. The proposer conduct deductions will be posted to CharmVerse\nshortly. The Council appreciates feedback. Should anyone have comments directed\ntoward categories that do not affect how a proposer would choose to write their\nproposal, the Council will take the feedback into account to consider any\namendments prior to the Preliminary Review, which begins after the Submissions\nPeriod deadline (Thursday July 27 at 19:00 GMT).",
+  "views": 933,
+  "like_count": 4,
+  "word_count": 506,
+  "answer": [
+    {
+      "content": "Thank you Zeptimus I solved this issue",
+      "created_at": "2023-07-24T12:51:05.811Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "\n[https://avatars.discourse-cdn.com/v4/letter/g/eb9ed0/48.png] GrantsOps:\n\n> You can find the rubrics here\n> [https://docs.google.com/spreadsheets/d/1ozeet5kgLOOXZZp9GJ2HOfUr1BjSJ3_FXzo3LTdmCek/edit#gid=0]\n\nThis doc is closed, i’d love to check",
+      "created_at": "2023-07-24T10:17:54.362Z",
+      "trust_level": 2,
+      "username": "Zeptimus",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2023-07-21T04:23:58.815Z"
+}

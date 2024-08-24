@@ -1,0 +1,132 @@
+title: Building a Node from Source
+lang: en-US
+description: Learn how to build your own node without relying on images from Optimism.
+
+import { Callout, Steps } from 'nextra/components'
+
+Building a Node from Source
+
+Docker images are the easiest way to run an OP Mainnet node, but you can always build your own node from source code.
+You might want to do this if you want to run a node on a specific architecture or if you want to inspect the source code of the node you're running.
+This guide will walk you through the full process of building a node from source.
+
+What You're Going to Build
+
+Rollup Node
+
+The Rollup Node is responsible for deriving L2 block payloads from L1 data and passing those payloads to the Execution Client.
+The Rollup Node can also optionally participate in a peer-to-peer network to receive blocks directly from the Sequencer before those blocks are submitted to L1.
+The Rollup Node is largely analogous to a consensus client in Ethereum.
+
+In this tutorial you will build the op-node implementation of the Rollup Node as found in the Optimism Monorepo.
+
+Execution Client
+
+The Execution Client is responsible for executing the block payloads it receives from the Rollup Node over JSON-RPC via the standard Ethereum Engine API.
+The Execution Client exposes the standard JSON-RPC API that Ethereum developers are familiar with, and can be used to query blockchain data and submit transactions to the network.
+The Execution Client is largely analogous to an execution client in Ethereum.
+
+In this tutorial you will build the op-geth implementation of the Execution Client as found in the op-geth repository.
+
+Legacy Geth (Optional)
+
+Legacy Geth is an optional component for OP Mainnet archive nodes.
+Legacy Geth allows you to execute stateful queries like eth_call against blocks and transactions that occurred before the OP Mainnet Bedrock Upgrade.
+Legacy Geth is only relevant to OP Mainnet archive nodes and is not required for full nodes or OP Sepolia nodes.
+
+Currently, l2Geth is the only available implementation of Legacy Geth.
+In this tutorial you will build the l2geth implementation of Legacy Geth as found in the optimism-legacy repository.
+
+Software Dependencies
+
+Dependency Version Version Check Command
+git ^2 git --version
+go ^1.21 go version
+node ^20 node --version
+pnpm ^8 pnpm --version
+foundry ^0.2.0 forge --version
+make ^4 make --version
+
+Build the Rollup Node
+
+First you're going to build the op-node implementation of the Rollup Node as found in the Optimism Monorepo.
+
+{Clone the Optimism Monorepo}
+
+The Optimism Monorepo contains the source code for the op-node.
+
+git clone https://github.com/ethereum-optimism/optimism.git
+cd optimism
+
+{Check out the required release branch}
+
+Release branches are created when new versions of the op-node are created.
+Read through the Releases page to determine the correct branch to check out.
+
+git checkout <name of release branch>
+
+{Install Node.js dependencies}
+
+Install the Node.js dependencies for the Optimism Monorepo.
+
+pnpm install
+
+{Build Node.js packages}
+
+Build the Node.js packages for the Optimism Monorepo.
+
+pnpm build
+
+{Build op-node}
+
+Build the op-node implementation of the Rollup Node.
+
+make op-node
+
+Build the Execution Client
+
+Next you're going to build the op-geth implementation of the Execution Client as found in the op-geth repository.
+
+{Clone op-geth}
+
+The op-geth repository contains the source code for the op-geth implementation of the Execution Client.
+
+git clone https://github.com/ethereum-optimism/op-geth.git
+cd op-geth
+
+{Check out the required release branch}
+
+Release branches are created when new versions of the op-geth are created.
+Read through the Releases page to determine the correct branch to check out.
+
+git checkout <name of release branch>
+
+{Build op-geth}
+
+Build the op-geth implementation of the Execution Client.
+
+make geth
+
+Build Legacy Geth (Optional)
+
+Legacy Geth is an optional component for OP Mainnet archive nodes.
+Legacy Geth allows you to execute stateful queries like eth_call against blocks and transactions that occurred before the OP Mainnet Bedrock Upgrade.
+Legacy Geth is only relevant to OP Mainnet archive nodes and is not required for full nodes or OP Sepolia nodes.
+
+{Clone the OP Legacy Repository}
+
+The OP Legacy repository contains the source code for the l2geth implementation of Legacy Geth.
+
+git clone https://github.com/ethereum-optimism/optimism-legacy.git
+cd optimism-legacy
+
+{Build l2geth}
+
+cd l2geth
+make
+
+Next Steps
+
+Click here to Run an OP Mainnet Node from Source Code
+Click here to Run an OP Sepolia Node from Source Code
+If you run into any problems, please visit the Node Troubleshooting Guide for help.

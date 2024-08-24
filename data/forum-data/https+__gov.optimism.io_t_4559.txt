@@ -1,0 +1,30 @@
+{
+  "title": "Lets talk about new Dapps ideas?",
+  "content": "Hey, been trying to find some new Dapps ideas than are trying to solve other\nissues than Defi.\n\nI love Defi, don’t get me wrong but would be nice to start seeing some more\nvariety in Dapps and maybe start attacking more mainstream applications.\n\nAny ideas ?",
+  "views": 1614,
+  "like_count": 5,
+  "word_count": 97,
+  "answer": [
+    {
+      "content": "Well, I think it’s better to collaborate with a proven project than to make a\nnew defi now.",
+      "created_at": "2023-01-14T13:17:23.116Z",
+      "trust_level": 1,
+      "username": "ahrgk5670",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "DeSci: Decentralized Science is having a reborn and may be interested in\nexploring. Research institutions forming a DAO, Scientific journals with peer\nreview where reviewers have some reward and karma, etc.",
+      "created_at": "2023-01-16T21:23:39.398Z",
+      "trust_level": 2,
+      "username": "TheDoctor",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2023-01-13T10:48:31.379Z"
+}

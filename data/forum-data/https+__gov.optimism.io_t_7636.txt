@@ -1,0 +1,60 @@
+{
+  "title": "AI Copilots for Optimism RetroPGF",
+  "content": "INTRODUCTION\n\nWe are @rororowyourboat [/u/rororowyourboat] and @akrtws [/u/akrtws] from the\nToken Engineering Academy’s\n[https://round3.optimism.io/projects/0xb5386c6c0b8a2c05d49240513e2be7f96519b790a2a6037ce5fc19d318c5ff04]\ncadCAD GPT initiative. Over the last months, we’ve developed an open-source\nframework to support token system simulations with LLM agents (Large Language\nModel agents).\n\nMore about cadCAD GPT:\nGithub: GitHub - TE-Academy/cadCAD-GPT\n[https://github.com/TE-Academy/cadCAD-GPT]\nMirror: Hello, cadCAD GPT! — Token Engineering Academy\n[https://mirror.xyz/0xFD1b6961B8CDAcaE0bb35b0f1e78b46b900735af/sLExFlURJEGbdBS4WrY4EsbOddQQ4uaHnIzSAzMNhsA]\nDemo session: https://x.com/tokengineering/status/1730516745654251787?s=20\n[https://x.com/tokengineering/status/1730516745654251787?s=20]\n\nWhile working on cadCAD GPT, we realized that there’s huge potential to utilize\nsuch agents for better, faster, and more data-driven decision-making in DAOs.\nThe major benefit of such agents is that they allow us to interact with system\nmodels, data, and code in human language.\nThis way, it enables DAO decision-makers from multiple backgrounds and\nperspectives to run data analysis, and even the most complex simulations without\nwriting code.\n\n\nDEMO MVP\n\nTo show the potential, here’s a short video, demoing RetroPGF GPT.\n\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/3/339fc803aa8772cb8699b78b1e132c924191d496.jpeg]\nhttps://www.youtube.com/watch?v=QcvKdu7kax4\n\nIn the video, we present use cases to give you a picture of how powerful AI\nagents are, and how they can support RetroPGF:\n\n * analyze RetroPGF voting outcomes and compare metrics (like discussed here\n   [https://gov.optimism.io/t/rpgf3-deep-dive/7577], great comparison by @Pr0\n   [/u/pr0] )\n * create new data sets, and charts, summarize and export for further usage\n * develop new metrics with AI support\n * assess results from a badge holder point of view (my voting vs. total badge\n   holder voting)\n\nThis is just a small sample of what AI agents can do for RetroPGF.\n\nThere’s much more:\n\n * During RetroPGF rounds: support badge holders in evaluating grant\n   applications\n * After RetroPGF rounds: find flaws or vulnerabilities in the voting or\n   distribution process\n * Improving RetroPGF: compare different voting mechanisms and evaluate\n   pros/cons (like discussed here\n   [https://gov.optimism.io/t/simulating-retropgf3-voting-and-funding-allocations/7274],\n   awesome analysis @amy [/u/amy] @ccerv1 [/u/ccerv1] !)\n\n\nA SUITE OF AI AGENTS FOR OPTIMISM RETRO PGF\n\nNote that the agents in the demo video shared are made using GPT Builder\n[https://help.openai.com/en/articles/8770868-gpt-builder], a closed-sourced tool\nby OpenAI. It makes building MVPs super simple and efficient. We’ve equipped our\nGPT in the demo with RetroPGF raw data available here\n[https://github.com/ethereum-optimism/op-analytics/tree/main/rpgf/rpgf3/results],\nand only made some minor tweaks, like adding a fictional badge holder voting\nballot.\n\nHowever, we aim to build a suite of LLM agents customized for Optimism RetroPGF:\n\n * Equipped with an ever-growing set of tools and information that are\n   particularly relevant for Optimism RetroPGF\n * Open-source as much as we can, and as much as the Optimism Collective is\n   willing to open-source (we understand that some information or tools should\n   not be public, like the voting behavior of individual badge holders)\n * No OpenAI lock-in. Modular framework to integrate LLMs, so that we can either\n   use OpenAI (most powerful today), or switch to alternative, open-source large\n   language models like LLaMA2 [https://en.wikipedia.org/wiki/LLaMA] or Falcon\n   [https://falconllm.tii.ae/] in the future (yey!)\n * Modular framework on the tool side, so that more sophisticated metrics and\n   models developed by Impact Data Scientists\n   [https://www.opensource.observer/blog/tags/impact-data-science], can be\n   integrated as Python plug-ins\n * Inform the RetroPGF data creation/collection/cleaning/pre-structuring process\n   so that raw data (such as project applications for OP RetroPGF) is optimized\n   for LLM agent consumption\n * Train users, such as badge holders, to use and make the most of AI agent\n   support\n\n\nNEXT STEP: BUILDING FIRST TOOLS FOR BADGE HOLDERS SUPPORTING RETROPGF ROUND 4\n\nAI-powered DAO governance has enormous potential. Currently, several DAOs are\nexploring the application of AI\n[https://cointelegraph.com/magazine/real-ai-use-cases-crypto-no-2-ai-can-run-dao/]\nto their decision-making process. With RetroPGF, Optimism would be definitely at\nthe cutting edge. It is a true moonshot!\n\nBut let’s be honest, AI-powered RetroPGF is a huge endeavor, too.\n\nSo let’s start with an actual use case, and provide value: We’ll build the first\nLLM agents to support badge holders in RetroPGF round 4.\n\nOur main questions:\nWhat’s the most pressing need for assessing RetroPGF applications for badge\nholders? How to best integrate voting improvements\n[https://gov.optimism.io/t/optimism-retro-pgf-ranking-voting-system-implementation/7617]\ndiscussed in the community?\n\nWe’d like to talk to the OP collective to put together a scope and requirements\nto ensure problem-solution fit. If it’s a fit, we’ll submit a mission\napplication in Season 6.\n\nIf you are a badge holder, and interested in becoming an alpha user, drop us a\nline!\n\nIf you are a data scientist and want to make your analysis accessible through AI\nagents, contact us!\n\n:point_right:t5:\n[https://emoji.discourse-cdn.com/twitter/point_right/5.png?v=12] Here’s a\nCalendly link to book an onboarding call for alpha users / data scientists:\nCalendly - TE Academy [https://calendly.com/te-academy/teacademy-retropgf-gpt]\n\nAlso @Jonas [/u/jonas] , we need input regarding raw data access in round 4, who\nto best talk to?\n\nAnd everyone, if you have any questions regarding this proposal, shoot away,\nwe’ll be happy to discuss!\n\nThank you!",
+  "views": 1524,
+  "like_count": 51,
+  "word_count": 2496,
+  "answer": [
+    {
+      "content": "This is amazing, and I would love to be one of your badgeholder alpha users.\n\nI think what you demonstrate in your video is a wonderful way to use AI, leaving\nthe responsibility with the human.\n\nIt would be really cool to see the kinds of questions that a group of\nbadgeholders would think to come up with, and the AI’s answers. Also, I\nabsolutely loved that you pointed out the need to also ask the AI about its\nsources of data and its calculations, so as to make sure that we really\nunderstand the data we are looking at and can reproduce them.",
+      "created_at": "2024-02-10T15:30:01.646Z",
+      "trust_level": 2,
+      "username": "joanbp",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "Very cool! Just booked a time to speak with you on 26 Feb",
+      "created_at": "2024-02-16T14:03:22.038Z",
+      "trust_level": 2,
+      "username": "ccerv1",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "Yop, would be awesome to get access to the impact data declared by projects in\ntheir applications. (Gotta be careful with the data integrity, of course.)\nI’m fairly new to data analysis, but eager to explore I’m planning to do an\narticle on a specific subgroup of projects: the .End User Experience Adoption:\nEvangelism & User Onboarding category (113 projects/individual applications).\nAlready booked a timeslot for an onboarding call , thx!",
+      "created_at": "2024-02-16T08:00:16.975Z",
+      "trust_level": 2,
+      "username": "latruite.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Hi @joanbp [/u/joanbp] - great, welcome on board as alpha tester! We’ll get back\nwith more details in the next days.\n\n> I think what you demonstrate in your video is a wonderful way to use AI,\n> leaving the responsibility with the human.\n\nThat’s the idea: it’s the Optimism Collective to decide which projects are\nlegitimate, and valuable. Still, machine intelligence can add a lot of value in\ndigging through data, finding evidence and getting the full picture.",
+      "created_at": "2024-02-11T13:24:38.901Z",
+      "trust_level": 1,
+      "username": "akrtws",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "UPDATE:\n\n\n\nScreenshot 2024-02-28 at 18.51.36\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/6/606f461099b7e89f6a7683843eaeb6028d638512_2_595x499.jpeg]\nScreenshot 2024-02-28 at 18.51.362206×1852 432 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/6/606f461099b7e89f6a7683843eaeb6028d638512.jpeg]\n\nScreenshot 2024-02-28 at 18.51.57\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/b/b459da9552ff27d393ea6fc8d260800ac5937757_2_595x499.jpeg]\nScreenshot 2024-02-28 at 18.51.572206×1852 476 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/b/b459da9552ff27d393ea6fc8d260800ac5937757.jpeg]\n\n\n\nWe’ve equipped our prototype with project data (information projects submitted\nin round 3 applications).\n\nRetroPGF GPT has now access to:\n\n> Project Data: This dataset provides detailed information about each project,\n> including their bio, impact category, display name, website URL, applicant and\n> applicant type, profile, impact and contribution descriptions, contribution\n> links, impact metrics, funding sources, lists, ID, preliminary result, and\n> report reason, along with their inclusion status in ballots.\n> RPGF3 Results: This dataset contains information about each project’s name,\n> the number of ballots it received, the median amount of funding proposed,\n> whether the quorum was reached, the amount of OP received, and the project\n> profile link.\n> Anonymized Project Votes: This dataset includes the votes that each project\n> received from all voters, including specific votes cast by an identifiable\n> voter. NaN values indicate where a vote was not cast.\n\nYou can now:\n\nExplore projects:\n\n * explore project application data\n * filter projects, develop and reason about filter criteria and parameters\n\nExplore voting results:\n\n * analyse the voting outcome (per round or across voting rounds)\n * explore through different lenses, find correlations\n\nAnalyse your own voting preferences\n\n * compare your own ballot with overall voting results\n * explore and understand your voting preferences, let GPT find patterns\n\nPlus you can create new lists, create charts, and export findings!\n\nWant to try it out?\nBook a badge holder onboarding call\n[https://calendly.com/te-academy/teacademy-retropgf-gpt], and get access!\n\n@ccerv1 [/u/ccerv1] feel free to book the test session via the same link.",
+      "created_at": "2024-02-28T18:00:56.382Z",
+      "trust_level": 1,
+      "username": "akrtws",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    }
+  ],
+  "created_at": "2024-02-09T12:23:33.515Z"
+}

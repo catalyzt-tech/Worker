@@ -1,0 +1,60 @@
+{
+  "title": "[READY] [GF: Phase 1 Proposal] Ooki Protocol",
+  "content": "Project Name: Ooki Protocol\n\nAuthor Name: Ang\n\nNumber of OP tokens requested: 700k\n\nL2 Recipient Address:\n\nRelevant Usage Metrics: (TVL, transactions, volume, unique addresses, etc.)\n\nOptimism alignment (up to 200 word explanation):\n\nOoki is extremely aligned with the Optimism and looks forward to cooperating\nwith the core team and community. Ooki Protocol (Ooki.com [http://Ooki.com]) is\na protocol for margin trading, borrowing, lending and staking deployed on\nmultiple blockchains. Ooki is a fully decentralized, DAO led project, governed\nby community vote for all major changes to the protocol.\n\nOoki users can open margin trades with up to 15x leverage using a fully\ndecentralized trading platform. Ooki users can lend out funds and earn interest\non their capital, and also borrow funds against collateral. Ooki users can\nparticipate in platform governance through the OOKI DAO, and use their OOKI\ntokens to vote on proposals, submit new proposals, and participate in platform\ngovernance.\n\nWe are excited to service the entire Optimism Ecosystem with secure and reliable\nDeFi leveraged margin trading, borrowing, and lending services for long tail\ntokens deployed on Optimism. Initially, after Ooki is deployed, margin\ntrading/borrowing/lending pairs will include USDT, USDC, DAI, UST, FRAX, ETH,\nWBTC\n\nProposal for token distribution (under 1000 words):\n\nIn order to provide an optimal DeFi experience, sufficient liquidity is needed\nfor traders to open new margin trading positions. On Ooki, anyone can lend out\nfunds and earn interest. Initially, seed liquidity is necessary to provide\nliquidity to attract and incentivize new lenders, borrowers and traders to the\napplication.\n\nOnce sufficient liquidity is established, users open large margin trading\npositions, short or long, borrow funds with collateral, as well as lend out\nfunds and earn interest. Ooki has a recently launched an innovative and unique\ndynamic interest mechanism [https://blog.ooki.com/ooki-version-2-0/] to ensure\nborrowers and lenders receive optimal interest rates when opening new positions\non Ooki. Ooki’s approach to delivering optimal rates to lenders and borrowers\nuses a variable interest rate with a dynamically changing interest rate curve.\nThe new dynamic interest rate system is preferable because it will allow\nliquidity pools to grow larger.\n\nAdditionally, Ooki protocol gives developers and pro users the ability to use\nflash loans. Flash loans are an uncollateralized loan option designed for\ndevelopers. Flash loans enable users to borrow instantly and easily with zero\ncollateral obligations, provided that the liquidity is returned to the pool\nwithin one transaction block. Use-cases include arbitrage, collateral swapping,\nself-liquidation, and much more.\n\nHow will the OP tokens be distributed?\n\nOP tokens will be distributed to users who lend out funds used by traders to\nopen margin trading long/short positions. OP tokens will also be to traders and\nborrowers to incentivize activity.\n\nHow will this distribution incentivize usage and liquidity on Optimism?\n\nTo facilitate the successful launch of Ooki on Optimism, Ooki is requesting a\ngrant of 400k OP tokens which will be used to incentivize traders, borrowers,\nand lenders to open new margin trades, lend out funds, and borrow on Ooki’s\nOptimism deployment. These funds will be utilized in order to Incentivize\nborrowing, trading, and lending activity on the OOKI Optimism deployment.\nUtilizing various incentive mechanisms, including borrowing incentives, and\ntrading incentives.\n\nWhy will the incentivized users and liquidity remain after incentives dry up?\n\nAfter incentives are removed, users will continue to use the product in order to\nearn interest, and engage in margin trading long short with up to 15x leverage.\nThe liquidity incentives are used for initial liquidity to bootstrap platform\nusage.\n\nPlease let us know if you have any questions, or if you have feedback. We’d love\nto hear from you!\n\nOver what period of time will the tokens be distributed?\n\nThe planned incentive period will be between 6-12 months.\n\nHow much will your project match in co-incentives?\n\nOoki tokens may be added pending approval of Ooki DAO.",
+  "views": 5197,
+  "like_count": 20,
+  "word_count": 2891,
+  "answer": [
+    {
+      "content": "I would like to echo @solarcurve [/u/solarcurve] view on not matching the\nreward. Why dont you submit a proposal to your DAO with “if OP proposal is\napproved, dao will also match the incentives”.\n\nsecond, I have raised this question on discord but didnt get an answer on this\n“users will continue to use the product in order to earn interest, and engage in\nmargin trading long short with up to 15x leverage”, I can do this at many other\nplatform.\n\nYou contract is not live on OP chain yet, I am not sure well the contact will be\ntested before making it live.\nDoes it make more sense to check with your DAO, deploy the project on OP chain\nsubmit the proposal again in next Phase ?",
+      "created_at": "2022-06-19T10:41:34.543Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Hey @OokiDAO [/u/ookidao], thanks for submitting this proposal. I’ve added\n[DRAFT] to the title above.\n\nTo get this ready for a vote, you should:\n\n * Circulate this proposal in #gov-temp-check\n   [https://discord.com/channels/667044843901681675/981971890165911572] on\n   Discord for community feedback.\n * When you feel like this proposal has good buy-in, including from at least one\n   OP delegate, you can update [DRAFT] in the title to [READY] and we’ll include\n   it in the next voting cycle on Snapshot.\n\nThe first voting cycle for GovFund Phase 1 proposals will run June 22 – July 6.\n\nMore details on the process above can be found in the Operating Manual\n[https://gov.optimism.io/t/operating-manual-of-the-optimism-collective-v0-1/592]\nor on Gov Fund Phase 1: How to create a proposal\n[https://gov.optimism.io/t/governance-fund-phase-1-how-to-create-a-proposal/216]",
+      "created_at": "2022-06-03T17:52:36.955Z",
+      "trust_level": 4,
+      "username": "bobby",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "Thanks for the response. I think it is reasonable to expect a firm commitment\nfrom Ooki to match these funds before Optimism votes on this proposal. You can\nsimply ask your DAO to approve a match if this proposal passes and vote on that\n(my organization did it this way).\n\nThis kind of incentive program requires a guaranteed full match in my view.\nWithout that it does not feel like a good use of OP.\n\nAre you deployed on Optimism? Your site doesn’t seem to support it yet. Is it\nbasically if you get incentives then you will deploy or? The way I’d like to see\nsomething like this go is you deploy to Optimism & start bootstrapping it on\nyour own, show some progress, THEN ask for OP incentives to accelerate what is\nalready working.",
+      "created_at": "2022-06-18T17:53:37.441Z",
+      "trust_level": 2,
+      "username": "solarcurve",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "This proposal fits into Gov Fund Phase 1 but the value for Optimism is\nquestionable: Voting No\n\nValue-add: Small (based on given info and metrics [https://ooki.com/stats])\nAmount: High\nOp distribution: Okayish but unclear\nCo-incentives: Not clear yet\n\nThis funding round’s goal is primarily in increasing liquidity and users on\nOptimism. Ooki has so far little AUM and users. The product looks nice and the\nmentioned incentives could be interesting to grow your user base on Optimism but\nthis proposal lacks detail and clarity and the Ask is very high. We look forward\nto your Optimism deployment, engagement and hope for a more detailed,\nvalue-adding proposal that focuses on co-growth initiatives for the Op ecosystem\nin one of the next Phases.",
+      "created_at": "2022-06-27T11:40:14.996Z",
+      "trust_level": 2,
+      "username": "ScaleWeb3",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "@ScaleWeb3 [/u/scaleweb3] I really like your way of evaluating a proposal. Gives\na clear picture on why you are voting yes/no.",
+      "created_at": "2022-06-27T11:55:04.876Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2022-05-25T03:59:25.925Z"
+}

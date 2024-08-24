@@ -1,0 +1,60 @@
+{
+  "title": "Season 5: Intents Budget Proposal #2",
+  "content": "The Grants Council proposes using the 1.040.000 OP intended to return to the Gov\nFund. If this proposal passes, Token House will reallocate the OP to the\nfollowing Mission Requests.\n\nMission Request Approved Granted Remaining Cycle Demand Request Intent Making\nOptimism a primary home of liquid-staked eth 200,000 200,000 0 -852,000 420,000\n3 Incentivize Projects to Integrate the Farcaster Social Graph 300,000 205,000\n95,000 -784,890 305,000 3 Alternative CL/EL client Mission Request 100,000 0\n100,000 -240,000 150,000 1 Open Source OP Stack Developer Tooling 250,000 80,000\n170,000 -197,500 100,000 1 Decentralized rollup-as-a-service 100,000 65,000\n35,000 -64,999 65,000 1 Total OP Approved via Mission Requests 6,799,000 550,000\n-2,139,389 Total unallocated, to be returned to the Gov Fund 1,199,000 Budget 2\nallocation requested to token house 1,040,000\n\nAdditionally, the GC will allocate 1M OP already approved by Toknes House on\nthis budget [https://gov.optimism.io/t/season-5-intents-budget-proposal/7040] to\nthe following mission requests:\n\nMission Request Approved Granted Remaining Cycle Demand Request Intent Growth\nand experiments grants program mission request 1,500,000 650,000 850,000\n-4,963,485 500,000 2 smart contract auditing services 250,000 0 250,000 -569,999\n415,000 3 OP Stack Research and Implementation 250,000 80,000 170,000 -45,000\n45,000 1 Total OP Approved via Mission Requests 6,799,000 730,000 -5,578,484\nGrants Council unallocated budget 1,000,000\n\nIf the Grants Council doesn’t receive additional funding for these mission\nrequests, they will have to significantly decrease the number of finalists in\nCycle 22 compared to the previous cycle. Due to the notable rise in demand for\nOptimism grants and the subsequent enhancement in proposal quality, the Council\ndeems it essential to augment the budget for the remainder of Season 5.",
+  "views": 1851,
+  "like_count": 44,
+  "word_count": 1939,
+  "answer": [
+    {
+      "content": "I am an Optimism delegate [https://vote.optimism.io/delegates/brichis.eth] with\nsufficient voting power and I believe this proposal is ready to move to a vote.\n\nBtw, you’re heroes! You’re doing an impressive work :sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]",
+      "created_at": "2024-04-05T18:32:20.899Z",
+      "trust_level": 4,
+      "username": "brichis",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 7
+    },
+    {
+      "content": "Compared to the total amount being used on this grants cycle, the reallocation\nask seems reasonable enough to go for a vote.\n\nI look forward to discussing the effectiveness of the changes this season during\nthe reflection period, but I am happy to hear the quality of submissions has\nimproved!\n\nI am an Optimism Delegate with sufficient voting power\n[https://vote.optimism.io/delegate/0xc94ae9860B37170c08e51f453F8124A86cd7c0Cd]\nand I believe this proposal is ready to move to a vote.",
+      "created_at": "2024-04-06T12:35:40.369Z",
+      "trust_level": 2,
+      "username": "Oxytocin",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "I’m an Optimism delegate\n[https://gov.optimism.io/t/pgov-delegate-communication-thread/6059]with\nsufficient voting power and I believe this proposal is ready to move to a vote.",
+      "created_at": "2024-04-05T23:11:38.541Z",
+      "trust_level": 3,
+      "username": "PGov",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "I am abstaining from the vote given that I’m a member of the grants council.",
+      "created_at": "2024-04-08T16:31:59.688Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "I am an Optimism delegate [https://vote.optimism.io/delegates/itublockchain.eth]\nwith sufficient voting power and I believe this proposal is ready to move to a\nvote.",
+      "created_at": "2024-04-08T17:26:45.594Z",
+      "trust_level": 2,
+      "username": "itublockchain",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2024-04-05T17:59:53.317Z"
+}

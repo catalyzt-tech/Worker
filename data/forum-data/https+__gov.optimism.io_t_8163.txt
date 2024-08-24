@@ -1,0 +1,20 @@
+{
+  "title": "Gene - Delegate Communication Thread",
+  "content": "This is a thread where I will offer my personal thoughts on developments within\nthe OP ecosystem, particularly with respect to protocol governance in general\nand individual proposals specifically. I have been almost entirely silent up to\nthis point due to my personal perceived lack of relevant knowledge, but have\nnewly instantiated confidence that I do indeed have the right to a personal\nopinion due to my regular participation in the broader ecosystem, and my\nspecific participation within 1 elected council and 1 appointed council. My\nreasoning for the change of heart is down to the revelation that what I have\nlearned through continued effort and commitment to find a way to contribute, is\nindeed valuable and validating to other members of the collective. I now feel a\ncertain civic duty and obligation to continue to participate with a renewed\nvigor in the hopes of advocating for the participation and inclusion of other\nvoices who have not had the privilege and pleasure of contributing to governance\nactivities and considerations directly.",
+  "views": 313,
+  "like_count": 2,
+  "word_count": 203,
+  "answer": [
+    {
+      "content": "Welcome :pray: [https://emoji.discourse-cdn.com/twitter/pray.png?v=12] to the OP\ncollective…!\n\nThe future is looking very optimistic.\n\nCan you tell us a little bit about your track record history in the space or\nwhen you first discovered blockchain technology?",
+      "created_at": "2024-05-17T15:11:18.991Z",
+      "trust_level": 2,
+      "username": "FractalVisions",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2024-05-17T12:59:19.646Z"
+}

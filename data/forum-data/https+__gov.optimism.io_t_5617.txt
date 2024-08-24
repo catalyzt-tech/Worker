@@ -1,0 +1,20 @@
+{
+  "title": "Recording & Recap: 17th OP Community Governance Call (March 14th)",
+  "content": "Thanks for coming everybody!\n\nA recording of the call can be found here\n[https://drive.google.com/file/d/1x12SjczOW-wvc_u18od8TveSNOB3YZeG/view?usp=sharing].\n\nRecap:\n\n * Really good discussion and walkthrough on data analytics for past grant\n   recipients.\n   * Check out the stats overview here\n     [https://oplabs.notion.site/Mar-2023-Governance-Call-OP-Rewards-Analytics-Update-0334c48a09124dff8583d56c8727c895]\n   * Shoutout to Michael Silberling for gathering the stats and answering\n     questions, as well as Chuxin Huang who helped pull together the stats!\n   * There is a lot of room to contribute, head to the #analytics channel on\n     discord if you want to pitch in\n   * The interesting question lies in how to make users stay after incentive\n     program ends\n   * We might do more similar stats walkthroughs in the future on other topics\n * Bedrock V2 Proposal\n   [https://gov.optimism.io/t/draft-upgrade-proposal-bedrock-v2/5548]\n   * Go check it out & comment on the forums\n   * Needs 4 delegates approval in order to move to the next stage\n   * We will have a community discussion next week on this topic!\n * RPGF2\n   * Voting is currently anonymous, will end March 23rd\n   * Hopefully RPGF rounds will happen much more frequently in the future and\n     with very clear expectations\n * Community discussions\n   * We’ve landed on doing community discussions every other week in the Discord\n     on specific topics\n\nIf there is anything I left out, feel free to add it below! :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]\n-Michael :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12] :sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]",
+  "views": 1629,
+  "like_count": 12,
+  "word_count": 243,
+  "answer": [
+    {
+      "content": "Thanks for this Update post. So sad that I just joined here.",
+      "created_at": "2023-03-20T14:54:27.292Z",
+      "trust_level": 2,
+      "username": "cryptoAYA",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2023-03-14T18:11:44.439Z"
+}

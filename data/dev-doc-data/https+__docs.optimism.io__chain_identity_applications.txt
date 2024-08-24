@@ -1,0 +1,21 @@
+title: Attestation Apps
+lang: en-US
+description: Learn some of the applications that use attestations.
+
+Attestation Apps
+
+This guide lists some of the applications that use attestations.
+
+Ethereum Attestation Service
+
+These are some of the applications that use the attestations:
+
+EAS Scan: This no-code interface lets you build schemas, query, and submit attestations.
+Citizen Attestations: An attestation explorer for Optimism focusing on attestations that are relevant for the OP Citizens eligibility process.
+Attest Fest: Create multiple EAS attestations using the power of CSV and Safe multisig wallets. It's an attest fest, yay!
+Optimist Profile: The Optimist Profile allows contributors to share the contributions and impact they've made to the Optimism Collective.
+Ethereum Ecosystem onchain reviews: The goal of this Attestation-Based Dapp Rating web app is to allow anyone to review dApps and tools 100% onchain.
+
+Building with Attestations
+
+Are you building with attestations? Feel free to add your app to this page using the attestation GitHub issue template.

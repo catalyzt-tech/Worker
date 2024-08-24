@@ -1,0 +1,50 @@
+title: Security Policy and Bug Bounty Program
+lang: en-US
+description: Learn about the bug bounty program and best practices for reporting bugs in OP Stack and OP Mainnet codebase.
+
+import { Callout } from 'nextra/components'
+
+Security Policy and Bug Bounty Program
+
+This page describes general best practices for reporting bugs and provides specific reporting guidelines for OP Stack and OP Mainnet code contained within the ethereum-optimism GitHub organization.
+
+Do not disclose the vulnerability publicly, for example by filing a public ticket.
+Do not test the vulnerability on a publicly available network, either the testnet or the mainnet.
+
+Optimism Bug Bounty Program
+
+The Optimism Bug Bounty Program offers up to $2,000,042 for critical vulnerabilities found in the OP Mainnet codebase.
+Below you can find information about the various available bug bounty programs and how to report bugs that are not covered by an existing bounty.
+
+Main Bounty Page
+
+Optimism has a very detailed Bug Bounty Page on Immunefi. In the listing you can find all the information relating to components in scope, reporting, and the payout process.
+
+Unscoped Bugs
+
+If you think you have found a significant bug or vulnerabilities in OP Stack smart contracts, infrastructure, etc., even if that component is not covered by an existing bug bounty, please report it to via the OP Mainnet Immunefi program. The impact of any and all reported issues will be considered and the program has previously rewarded security researchers for bugs not within its stated scope.
+
+Reporting Other Vulnerabilities
+
+For vulnerabilities in any websites, email servers, or other non-critical infrastructure within the OP Stack, please contact the Foundation's service provider at security@oplabs.co and include detailed instructions for confirming and reproducing the vulnerability.
+
+Vulnerability Disclosure
+
+Each OP Stack component maintainer may determine its own process for vulnerability disclosure. However, the following describes a recommended process for disclosure.
+
+In the event that an OP Stack component maintainer learns of a critical security vulnerability, the maintainer reserves the right to silently fix it without immediately publicly disclosing the existence or nature of the vulnerability.
+
+In such a scenario, the disclosure process used is as follows:
+
+Silently fix the vulnerability and include the fix in release X.
+After 4-8 weeks, disclose that release X contained a security fix.
+After an additional 4-8 weeks, publish details of the vulnerability, along with credit to the reporter (with express permission from the reporter).
+
+Rights of Maintainers
+
+Alongside this policy, maintainers also reserve the right to:
+
+Bypass this policy and publish details on a shorter timeline.
+Directly notify a subset of downstream users prior to making a public announcement.
+
+This policy is based the Geth team's silent patch policy.

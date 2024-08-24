@@ -1,0 +1,50 @@
+{
+  "title": "Bringing valuable public content to Optimism",
+  "content": "Hi, I’m a builder of Matters Town [https://matters.town/], and we just finished\nmigrating to Optimism from Polygon. As the transactions\n[https://optimistic.etherscan.io/address/0x5edebbdae7b5c79a69aacf7873796bb1ec664db8]\nramp up and we plan to attend the demo\n[https://twitter.com/Optimism/status/1770554463482216611] tomorrow, I’d like to\nshare some background of Matters Town and the perspective from a community quite\ndifferent from the ones already on Optimism.\n\nIn 2018, there was widespread recognition of the collapse of the media ecosystem\nin Chinese, a language used by 1/5 of the world population. As in the English\nworld, social media outcompete traditional media, especially the small and\nindependent ones, and then fill the void with viral and manipulative content\ncontrolled by algorithms. For Chinese users, things were hugely exacerbated by\nan authoritarian government that has fine-grain control over what you can\npublish and read.\n\nIn the debris emerged Matters, a global community of writers, creators, and\nbuilders seeking a better way to distribute and sustain valuable content, a new\nspace in the digital world to practice democratical self-governance. We turned\nto p2p protocols and the nascent blockchain technology, hoping to build a\ncensorship-resilient network that can sustain content with great public value.\nThe main application Matters Town quickly fit into the need and grew to over\n120k creators and 600k monthly readers. It also spread into other languages,\nfirst to Russian and Farsi where users have similar needs, then to more than 40\nother languages.\n\nWe later realized that starting from practical needs, the problems we need to\novercome are uncommon in the Web3 world that is shaped by cycles of ups and\ndowns. For instance, we combined ActivityPub, the most widely adopted social\nprotocol, with IPFS for p2p data transfer; we utilized donation, the most common\nfinancial relation between reader and creator, as the on-chain curation signal\n[https://optimistic.etherscan.io/address/0x5edebbdae7b5c79a69aacf7873796bb1ec664db8];\nwe designed from scratch an on-chain advertisement protocol\n[https://matterslab.notion.site/On-chain-Billboard-for-Decentralized-Content-Ecosystems-aa10959b6258456ebbf7f5f49eb9f0fd]\nto sustain the underserved creators.\n\nThis year we started to apply to the Optimism mission grants, after which the\nuncommonness of our situation became more apparent. It is hard to find a mission\nthat is suitable for a project like ours, one that does not focus on crypto for\nits own sake, but instead uses it for other needs. The only mission that was\nrelevant was a draft about onboarding communities\n[https://gov.optimism.io/t/ready-to-vote-onboarding-existing-communities-organizations-to-optimism-solving-real-world-problems/7433]\nthat eventually failed to pass.\n\nHowever, this uncommonness seems to reveal a problem if what we want is\nadvancing digital public goods. Financial instruments do not create value\ndirectly, instead, they redistribute value and enable value-creating endeavors.\nThe most common form of value in the digital world is content, ranging from\narticles to videos, from ebooks to games. Therefore, to grow an ecosystem for\npublic goods, we have to enable valuable public content, creating systems for\nthem to be discovered and sustained. Viewing from growth and impact, public\ncontent is also highly valuable for the Optimism ecosystem. There are only a\nsmall fraction of people who trade assets directly, but almost everyone engages\nwith online content one way or another. These engagements shape how we feel and\nthink as individuals and as a society.\n\nWe will keep building on Optimism, using it as the incentive system and content\nindex. I also advocate that we should together push Optimism beyond a financial\nengine, into the backbone of content ecosystems that can benefit the general\nsociety. Projects like Wikipedia, Internet Archive, Project Gutenberg, and\nLibrary Genesis are the treasury of the internet that have shaped a generation\nof brilliant minds. If we build such great projects now, I am hopeful they will\nbe fairer and more sustainable. I am also hopeful that they will happen on\nOptimism.\n\nI would love to hear your opinions. I am attending the demo tomorrow\n[https://twitter.com/Optimism/status/1770554463482216611], so please come for a\ndiscussion if you like.",
+  "views": 735,
+  "like_count": 8,
+  "word_count": 807,
+  "answer": [
+    {
+      "content": "Making a personal note to promote something around decentralized media in the\nnext phase of Mission Requests.",
+      "created_at": "2024-04-16T01:52:20.271Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 2
+    },
+    {
+      "content": "Welcome @Guo [/u/guo]! I think this thread might be of interest to you:\nIncreasing Asia’s presence in Optimism Governance, Grants and RetroPGF through\noutreach and guidance\n[https://gov.optimism.io/t/increasing-asia-s-presence-in-optimism-governance-grants-and-retropgf-through-outreach-and-guidance/7784]\n\nHave a nice day!",
+      "created_at": "2024-03-25T19:54:04.916Z",
+      "trust_level": 4,
+      "username": "brichis",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "It’s great to see Matters coming to the optimism building, a lot of the articles\non matters bring digital public goods to life, and we’ve seen a lot of desci\ncontent on matters today, looking forward to more from Matters on Optimism!",
+      "created_at": "2024-03-22T18:31:47.077Z",
+      "trust_level": 2,
+      "username": "Marcus01",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Thank you @Marcus01 [/u/marcus01]! It has been the great work of you and other\nfriends at OP China that familiarize us with the governance structure at\nOptimism.",
+      "created_at": "2024-03-25T21:13:23.405Z",
+      "trust_level": 1,
+      "username": "Guo",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-03-21T02:50:52.778Z"
+}

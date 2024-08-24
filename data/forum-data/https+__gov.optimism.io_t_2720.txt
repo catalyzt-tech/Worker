@@ -1,0 +1,30 @@
+{
+  "title": "Goverment forum",
+  "content": "The goal of the forum should be to bring out the ideas from the people of OP and\nrealize them. How do we do this in the most optimal way?\nIf we organize the proposals in one category “proposals”. The most liked posts,\nlets say top 5 every week, just as an example, goes out to be voted on in\nsnapshot.\nThe top 5 people in forum that produces the most proposals to reach the stage of\nsnapshot, will be rewarded the a title and OP tokens. Every week a person\nreaching such a title can also lose it if a new top 5 appears.\n\nMy next idea is that i think the OP token should be staked for a vote token that\nyou get proportional to how long you stake.\nLets say you have 3 stake levels 1 year 100% voting power 6 months 50% and 3\nmonths 25%. If you do not want to stake you get 10% voting power.\nStaking should also give you reward in OP token the reward is proportional to\nyour total voting power and the engagement in the voting process.\n\nNext idea is to bring value to the token. For example to support OP every\nprotocol on OP can pay a minimum fee to OP. That fee should be used to buy OP\ntokens from the market and burn them. This will increase the market for OP\ntokens and increase the value of the token if the protocols on OP is used more.\n\nBest wishes Hank",
+  "views": 1560,
+  "like_count": 1,
+  "word_count": 623,
+  "answer": [
+    {
+      "content": "We wand engagement ment in the voting process but don’t want people to randomly\nvote on things just to maximize there’s staking rewards. So connected to the\nvote should be a prose and a con side and before you cast you vote you should\nprove with correct answers that you understand the natur of the vote before you\nvote on the mater. You should also have the right to delegate your vote if you\nwould like. And the deligate willl earn some of the staking rewards of the\nstaker.\n\nWith this system we have incentive for both the proposal maker and for the\nvoters. A system creating engagement on both sides. And the a token optimized\nfor governance and building the layer 2 even stronger.",
+      "created_at": "2022-06-19T19:17:53.329Z",
+      "trust_level": 2,
+      "username": "hank",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "We need to incentivize voters to vote on what is best for OPs growth. If we vote\non the wrong things we will lose our platform a stronger one. Op should have\nissuance of tokens every-month based on user-growth and set in stone should be\nthat 10% goes to the voters and 90% should be distributed by the voters to build\nthe platform. So if a voters “vote” gives OP more users the voter will earn more\nOP tokens. We want to make sure that the voters really care about how they vote.\nSo we should reward the voter for each vote they make and according to the\namount of OP tokens they are voting with. If voters only vote yes on a few\nproposals the rest of OP tokens from that month will be vested a year, after\nthat year the system should decide what to do with tokens. If OP network has\ngrown with activity the tokens should be released 90% to that months issuance\nand 10% should be airdropped to the voters that voted on that months proposals\nrewarded for each vote they make and according to the amount of OP tokens they\nare voting with. If the Network activity decreased over that period all the\nvested tokens will be burned. This will make the voter incentivized to vote in\nwhat is right for OP because the will gain directly from growing the network as\ncheaply as possible.",
+      "created_at": "2022-06-24T20:15:31.461Z",
+      "trust_level": 2,
+      "username": "hank",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-06-18T19:04:54.434Z"
+}

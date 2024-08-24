@@ -1,0 +1,60 @@
+{
+  "title": "Grants Council - Cycle 13 Preliminary Review Roundup",
+  "content": "The Cycle 13 Preliminary Review has been completed. Cycle 13 showed strong\nturnout: the community submitted 106 proposals (compared to 151 proposals for\nthe entirety of Season 3).\n\nThe Grants Council congratulates the 49 proposers that will be considered for\nFinal Review.\n\nHere is the list of proposals for Final Review organized by Sub-Committee:\n\nBuilders Sub-Committee Final Review List\n\nAragon [https://app.charmverse.io/op-grants/page-26434470823516043]\n\nAtlantis World [https://app.charmverse.io/op-grants/page-002013077512341477]\n\nAutonomous World [https://app.charmverse.io/op-grants/page-28209515081745185]\n\nCannon [https://app.charmverse.io/op-grants/page-5416832246367627]\n\nConcrete [https://app.charmverse.io/op-grants/page-6441697637715833]\n\nConsensus Tax [https://app.charmverse.io/op-grants/page-20247304231858698]\n\nDAOstar [https://app.charmverse.io/op-grants/page-31849314357430236]\n\nDeSci World [https://app.charmverse.io/op-grants/page-05034117397967264]\n\nDRPC.Org [https://app.charmverse.io/op-grants/page-060395295736737964]\n\nEAS: Supercharged [https://app.charmverse.io/op-grants/page-4929520669085159]\n\nEpoch Protocol [https://app.charmverse.io/op-grants/page-5828546513037027]\n\nEVM-Runners [https://app.charmverse.io/op-grants/page-04904066108713878]\n\nHildr [https://app.charmverse.io/op-grants/page-4923039239406415]\n\nInfinity Wallet [https://app.charmverse.io/op-grants/page-9764402793358298]\n\nIntegrating ChainIDE [https://app.charmverse.io/op-grants/page-7286987887515874]\n\nJiffyScan [https://app.charmverse.io/op-grants/page-6074825183189025]\n\nKarma Grantee [https://app.charmverse.io/op-grants/page-8610956286418354]\n\nOS Observer [https://app.charmverse.io/op-grants/page-37085606550601957]\n\nPalmera [https://app.charmverse.io/op-grants/page-6399933911131408]\n\nPyth Network [https://app.charmverse.io/op-grants/page-5841556062470414]\n\nRedStone [https://app.charmverse.io/op-grants/page-472203923295754]\n\nScry Protocol [https://app.charmverse.io/op-grants/page-4828729837571111]\n\nSimple OP Stack Rollup\n[https://app.charmverse.io/op-grants/page-3173529621090243]\n\nSmart LTV [https://app.charmverse.io/op-grants/page-4760307444952083]\n\nUnitap [https://app.charmverse.io/op-grants/page-3623118157129741]\n\nUnruggable Names [https://app.charmverse.io/op-grants/page-010385540509752822]\n\nUpnode [https://app.charmverse.io/op-grants/page-18991441721187385]\n\nviaPrize [https://app.charmverse.io/op-grants/page-2577520758307277]\n\nWakeup Labs [https://app.charmverse.io/op-grants/page-6418359515324739]\n\nExperiments Sub-Committee Final Review List\n\nArcadia Finance [https://app.charmverse.io/op-grants/page-7454718202717829]\n\nAura Finance [https://app.charmverse.io/op-grants/page-28011280168279695]\n\nClique [https://app.charmverse.io/op-grants/page-8355650350156509]\n\ndeBridge [https://app.charmverse.io/op-grants/page-7188606653226921]\n\nExtra Finance [https://app.charmverse.io/op-grants/page-6021070241317961]\n\nHypeshot [https://app.charmverse.io/op-grants/page-771290143714014]\n\nInverse Finance [https://app.charmverse.io/op-grants/page-8726546713200878]\n\nInvest in Music [https://app.charmverse.io/op-grants/page-904584674686645]\n\nLayerswap [https://app.charmverse.io/op-grants/page-11715414130871094]\n\nLet’s get HAI [https://app.charmverse.io/op-grants/page-844193918779869]\n\nMetronome [https://app.charmverse.io/op-grants/page-22897584240822377]\n\nOmniBTC [https://app.charmverse.io/op-grants/page-036539591588051756]\n\nOP Podcast NFTs [https://app.charmverse.io/op-grants/page-044553172544991915]\n\nOpti Social [https://app.charmverse.io/op-grants/page-5181473087931192]\n\nPendle [https://app.charmverse.io/op-grants/page-6124470947029701]\n\nQubit Wallet [https://app.charmverse.io/op-grants/page-8095491204275673]\n\nThe Open X [https://app.charmverse.io/op-grants/page-808804875432614]\n\nTide Protocol [https://app.charmverse.io/op-grants/page-20375805288244586]\n\nTimeswap [https://app.charmverse.io/op-grants/page-8178778802340503]\n\nVelodrome [https://app.charmverse.io/op-grants/page-22736248798191516]\n\nFinal Review\n\nOver the next two weeks, the Grants Council will complete review of each of the\nfinal grants proposals. During the Final Review, each reviewer in a given\nsub-committee will consider each remaining proposal and assign it a score. After\neach proposal has been scored by each reviewer, the sub-committee will rank the\nlist by average score and choose the number of proposals (“n”) that will receive\na grant. Proposals 1-n will be finalists eligible to receive grants.\n\nProposers will be permitted to make edits to their proposals based on reviewer\nfeedback; however, all edits should be made by Friday, July 7, to ensure\nreviewers have time to consider any updates. Proposers should make sure to\ncomment to their CharmVerse proposal confirming that they have made updates in\norder to notify reviewers as well.\n\nSignificant attention will be paid to all factors listed on the rubric. The\nCouncil will look to grant size requests and attendant plans, along with\nmilestones, particularly closely. Proposers will be asked to identify their\nCollective Trust Tier [https://gov.optimism.io/t/collective-trust-tiers/5877]\nand are reminded that Experiments grants greater than 150k OP require a majority\nvote of all nine council reviewers (rather than a simple majority vote of the\nrelevant sub-committee) to pass, which presents a higher bar than the typical\nsub-committee process.\n\nCycle 13 Preliminary Roundup\n\nOf the 106 proposals received for Cycle 13:\n\n * 58 were for Builders Grants, and\n * 48 were for for Experiments Grants\n\nBoth Sub-Committees worked hard to filter the proposals to determine which would\nbe viable for Preliminary Review. Of the initial proposals:\n\n * 50 proposals passed Intake Filter for Builders (~86% pass rate), and\n * 32 proposals passed Intake Filter for Experiments (~67% pass rate)\n\nRelative to Cycle 11, the number of Builders grants increased significantly\n(~49%). The sharp increase in Builders may be the results of this Season’s\nemphasis on novel use cases, which may attract projects in earlier stages.\nExperiments grants increased by 23%.\n\nIntake Filter passage rate for Experiments decreased by ~12%. While many\nhigh-caliber proposals were included in the submissions, some proposals were\ndrafted without an eye to the emphasis on novelty and tangible use cases; others\nwere written without attention to the rules. We expect to see more speculative\nproposals in Experiments given the higher grant thresholds; accordingly, the\nGrants Council holds these proposals to a high standard.\n\nA notable theme of this Cycle’s preliminary review was the professionalism and\nfocus of the grants reviewers. Despite a surge in proposals, all proposals were\nreviewed within the allotted time, and the sub-committees had substantive\nconsiderations and recommendations for the rubrics and review processes for the\nnext two cycles. In addition to the workload of reviewing proposals for other\nintents, it is worth acknowledging the difficulty of making it through more than\n100 additional proposals as part of reviewers’ elected duties.\n\nThe Grants Council will notify the proposers whose proposals did not pass intake\nor make it to the Final Review within the next week. The Council will aim to\ndeliver high-level observations and rubric scores within that time. As with\nother Cycles, the focus will turn to the Final Review. Nevertheless, proposers\nwho feel they can improve their proposals are welcome to submit for Cycle 14.\nProposal forms for Cycle 14 will be live by July 14 or earlier.",
+  "views": 2006,
+  "like_count": 31,
+  "word_count": 2345,
+  "answer": [
+    {
+      "content": "Hey June. Reviewers will provide feedback to you on Charmverse.\n\nYou should be able to update milestones on the table, if not DM on Discord and\nI’ll make sure you can.\n\n\n[https://avatars.discourse-cdn.com/v4/letter/j/6bbea6/48.png] JJuunee:\n\n> Now it always shows that “Can’t establish a connection to the server. New data\n> WILL NOT be saved. Please refresh the page”.\n\nThe Charmverse team used the long weekend to upload a few new features. They are\nin constant build mode and this happens once in a while. I am sorry for the\ninconvenience this can bring.",
+      "created_at": "2023-07-05T22:08:24.960Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 2
+    },
+    {
+      "content": "Hey, it is better if you move this report to your proposal in Charmverse here:\n\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/3/3c5ff1e079a3a97de5d809f51cc0d63c0bbc1ba9.png]\napp.charmverse.io [https://app.charmverse.io/op-grants/page-036539591588051756]\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/5/50e2e6fe1b41de9b4dd507d7a623c93bc3c0ac4e_2_689x500.jpeg]\n\n\nOMNIBTC--GROWTH--CYCLE 13\n[https://app.charmverse.io/op-grants/page-036539591588051756]\n\nPlease do not post this form to the Governance Forum. Proposals should be\nsubmitted here.Before filling out this form, note that you are responsible for\nchecking updates to the Landing Page, which wil\n\n\n",
+      "created_at": "2023-10-30T15:05:05.816Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 2
+    },
+    {
+      "content": "Hey there, thanks for your notification.\n\nHere is JJuunee from OmniBTC. What we should do now is waiting for any updates\nin CharmVerse - the all-in-one web3 space\n[https://app.charmverse.io/op-grants/page-036539591588051756], right?\n\nBesides, how can we update parts of the milestones in it?\n\nNow it always shows that “Can’t establish a connection to the server. New data\nWILL NOT be saved. Please refresh the page”.\n\nThank you so much.",
+      "created_at": "2023-07-04T02:53:28.253Z",
+      "trust_level": 1,
+      "username": "JJuunee",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Thanks for your reply Gonna~",
+      "created_at": "2023-07-06T02:18:06.342Z",
+      "trust_level": 1,
+      "username": "JJuunee",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Excuse me, Gonna! Could you please unlock OmniBTC proposal so that I can update\nthe finalized proposal.\n\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/3/3c5ff1e079a3a97de5d809f51cc0d63c0bbc1ba9.png]\napp.charmverse.io [https://app.charmverse.io/op-grants/page-036539591588051756]\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/2/2ed271296cf85dd4fbc83b28754253613a20b693_2_644x499.png]\n\n\nCHARMVERSE [https://app.charmverse.io/op-grants/page-036539591588051756]\n\nweb3 operations platform handling docs, tasks, bounties, proposals, and votes.\n\n\n",
+      "created_at": "2023-07-27T06:30:19.558Z",
+      "trust_level": 1,
+      "username": "JJuunee",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2023-06-30T02:22:13.397Z"
+}

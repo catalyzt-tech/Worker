@@ -1,0 +1,60 @@
+{
+  "title": "Season 6: Anticapture Commission Amendment",
+  "content": "Special thanks to @brichis [/u/brichis], @GFXlabs [/u/gfxlabs], and @kaereste\n[/u/kaereste] for review and feedback on these amendments as part of the\nFeedback Commission.\n[https://gov.optimism.io/t/introducing-the-collective-feedback-commission/7863]\n\n\nSEASON 6: ANTICAPTURE COMMISSION AMENDMENT\n\n--------------------------------------------------------------------------------\n\nSeason 5 introduced an Anticapture Commission, comprised of the highest impact\ndelegates. To date, the Anticapture Commission has played an important role in\npushing\n[https://gov.optimism.io/t/request-for-information-recent-upgrades-to-governor-contract/7535]\nfor the continued decentralization of governance infrastructure and processes.\nThe Foundation has consulted the Anticapture Commission on several related\nmatters, as has Agora. These conversations have resulted in all changes to the\ngovernance contract now going through the Protocol Upgrade governance process.\nWe believe the Anticapture Commission will continue to play an important role in\nthe Collective as we welcome\n[https://gov.optimism.io/t/onboarding-op-chains-to-optimism-governance/7858] ~10\nadditional OP Chains to the ecosystem through the end of Season 6.\n\nThe Anticapture Commission is an experimental and first of its kind governance\nstructure. Through this experiment, the Commission itself is refining its role\nand discovering the highest impact ways to contribute to the resilience of our\ngovernance system. The below amendments to the Commission Charter are proposed\nbased directly on member feedback.\n\n\nCHARTER AMENDMENT\n\nThe Anticapture Commission has the below mandate (refined.)\n\n> The Anticapture Commission exists to prevent capture of the Token House by any\n> one stakeholder or group of stakeholders (protocols, OP Chains, etc.).\n\nPlease note this commission’s duties are in service to tokenholders. The\ncommission may not explicitly limit tokenholder power and may not limit the\nrights of tokenholders in favor of any other stakeholder group in any way.\n\n\nGOALS (REFINED FOR CLARITY AND TO REDUCE SCOPE):\n\n * Provide alerts to the Citizens’ House when concerns arise over significant\n   imbalances in power between groups of stakeholders using the process outlined\n   here. Please note any member of the community may flag a concern to be\n   considered by the anticapture commission via the commission’s email.\n\n * Vote on all proposals that are subject to a Citizens’ House veto. The\n   Commission is not expected to cast votes on all proposals but exercising the\n   Commission’s delegation is important to passing Protocol Upgrades, and any\n   other proposals subject to Citizens’ House veto.\n\n * While not required, the Commission may also chose to:\n   \n   * Advocate for the continued decentralization of governance infrastructure\n     and processes, so no one party exercises undue influence over the system.\n   \n   * Research, analyze, and advocate for transparency related to the\n     distribution of voting power.\n\n\nMEMBERSHIP\n\nMembership will continue to be comprised of high impact delegates but Council\nLeads will no longer qualify, separate of meeting membership criteria. Several\nCouncil Leads resigned last Season as they didn’t have the ability or context\nrequired to contribute meaningfully.\n\n * Members must be an individual or professional delegate and not a\n   representative of a protocol or corporation\n\n * Members, as described above, must be in the top 100 delegates AND\n   \n   * Maintain = > 70% voting participation over the previous Season (including\n     the following Reflection Period.) This requirement has been simplified to\n     ensure delegates have enough context without overcomplicating criteria.\n   * Have received retro voter rewards in any of S1-S5\n\n * All qualifying members must opt-in to be part of the Commission. Please note:\n   All members need to KYC to vote as a member of the Anticapture Commission.\n\nMembership will be determined based on the above criteria at the beginning of\neach Season. We will eliminate the mid-point recalculation as it adds\nsubstantial overhead, creates disruptive onboarding requirements, and did not\nresult in substantial turnover.\n\nAnticapture Commission votes are cast based on a simply majority of individual\nmember votes, unless the Commission Internal Operating Procedures stipulate\notherwise.\n\n\nMEMBER RESPONSIBILITIES\n\nIn exchange for being entrusted with additional voting power, Anticapture\nCommission members will be expected to:\n\n * Members will be expected to vote on 70% of all ACC votes expected to be cast\n   in the Token House. Last season, participation requirements were\n   underspecified. If a Member does not meet this expectation, they will not be\n   eligible to be on the Anticapture Commission the following Season. This is in\n   line with the voting participation requirements of top delegates and all\n   delegation programs in the Collective.\n\n * The requirements to attend/host office hours and provide delegate approvals\n   will be removed, based on member feedback.\n   \n   * It is recommended, but not required, that members attend internal meetings\n     and/or community office hours, as appropriate. Members that cannot attend\n     should provide async feedback on drafts or meeting notes.\n\n * All other requirements for members and the Lead will remain the same, with\n   the exception of the elimination of the Lead’s former responsibilities around\n   calculating mid-point membership. See here\n   [https://gov.optimism.io/t/season-6-anticapture-commission-amended/8132].\n\n * The frequency of internal meetings is at the discretion of the Commission\n   Lead but should be aligned with governance minimization.\n\n * It is recommended, but not required, for members to make best efforts to\n   provide feedback on and/or contribute to authorship of any reports circulated\n   to the Citizens’ House.\n\nThe new charter, updated with the above changes, can be viewed in its entirety\nhere [https://gov.optimism.io/t/season-6-anticapture-commission-amended/8132].\n\n\nQUALIFYING DELEGATES (TO BE UPDATED BELOW AT CONCLUSION OF SPECIAL VOTING CYCLE\n#23A)\n\nIf you would like to be a part of the ACC for Season 6 – this\n[https://forms.gle/Pn3QZdDymfidGadK6] form must be filled out before June 14\n23:00 UTC\n\n * @kaereste [/u/kaereste]\n * @linda [/u/linda]\n * @polynya [/u/polynya]\n * @lefterisjp [/u/lefterisjp]\n * @olimpio [/u/olimpio]\n * @GFXlabs [/u/gfxlabs]\n * @jackanorak [/u/jackanorak]\n * @Michael [/u/michael]\n * @she256 [/u/she256]\n * @brichis [/u/brichis]\n * @Joxes [/u/joxes]\n * @katie [/u/katie]\n * @PGov [/u/pgov]\n * @404DAO [/u/404dao]\n * @blockchainatusc [/u/blockchainatusc]\n * @Tane [/u/tane]\n * @Griff [/u/griff]\n * @Pr0 [/u/pr0]\n * @MoneyManDoug [/u/moneymandoug]\n * @MattL [/u/mattl]\n * @MinimalGravitas [/u/minimalgravitas]\n * @Gonna.eth [/u/gonna.eth]\n * @ethernaut [/u/ethernaut]\n * @Butterbum [/u/butterbum]\n * stevegachau.eth\n * @Oxytocin [/u/oxytocin]\n * @OPUser [/u/opuser]\n * 0x5f4bcccb5c2cbb01c619f5cfed555466e31679b6\n * @web3magnetic [/u/web3magnetic]\n * @StableLab [/u/stablelab]\n * @Gauntlet [/u/gauntlet]\n * @v3naru_Curia [/u/v3naru_curia]\n\n\nWHAT DOES IT MEAN FOR DELEGATES?\n\nThe proposed amendments to the Anticapture Commission will go to a vote in\nSpecial Voting Cycle #23a. You can see the full details in the Season 6\nReflection Period Guide\n[https://gov.optimism.io/t/season-6-reflection-period-guide/8130/2]. If the\namendments are not approved, the Anticapture Commission will continue to through\nthe end of Season 6, as approved in the original proposal.\n[https://gov.optimism.io/t/anticapture-commission/6889]\n\nIn either case, the Anticapture Commission will continue to be delegated 10M OP\nfrom the Governance Fund through the end of Season 6.",
+  "views": 731,
+  "like_count": 27,
+  "word_count": 1450,
+  "answer": [
+    {
+      "content": "Reminder: If you would like to be a part of the ACC for Season 6 – this\n[https://forms.gle/Pn3QZdDymfidGadK6] form must be filled out before June 14\n23:00 UTC\n\n@kaereste [/u/kaereste] @linda [/u/linda] @polynya [/u/polynya] @lefterisjp\n[/u/lefterisjp] @olimpio [/u/olimpio] @GFXlabs [/u/gfxlabs] @jackanorak\n[/u/jackanorak] @Michael [/u/michael] @she256 [/u/she256] @brichis [/u/brichis]\n@Joxes [/u/joxes] @katie [/u/katie] @PGov [/u/pgov] @404DAO [/u/404dao]\n@blockchainatusc [/u/blockchainatusc] @Tane [/u/tane] @Griff [/u/griff]\n@MoneyManDoug [/u/moneymandoug] @MattL [/u/mattl] @MinimalGravitas\n[/u/minimalgravitas] @Gonna.eth [/u/gonna.eth] @ethernaut [/u/ethernaut]\n@Butterbum [/u/butterbum] @OPUser [/u/opuser] @web3magnetic [/u/web3magnetic]\n@StableLab [/u/stablelab] @Pr0 [/u/pr0] @chom [/u/chom] @stevegachau.eth\n[/u/stevegachau.eth]",
+      "created_at": "2024-06-12T16:00:24.261Z",
+      "trust_level": 4,
+      "username": "op_julian",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 7
+    },
+    {
+      "content": "Hi,\n\nI was sending out a reminder to all qualified members! I can confirm that we\nhave received your response!",
+      "created_at": "2024-06-12T23:14:39.940Z",
+      "trust_level": 4,
+      "username": "op_julian",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 3
+    },
+    {
+      "content": "Thanks for the clarification of the updated mandate, goals, qualification, and\nresponsibilities of ACC. All make sense to us.\n\n\n[https://europe1.discourse-cdn.com/bc41dd/original/1X/391d6e71a279a9f881f75bfa7df5cdf3cf905b3f.png]\nsystem:\n\n> All other requirements for members and the Lead will remain the same, with the\n> exception of the elimination of the Lead’s former responsibilities around\n> calculating mid-point membership. See here.\n\n“here” should be linked to Anticapture Commission\n[https://gov.optimism.io/t/anticapture-commission/6889#member-responsibilities-5]\n?",
+      "created_at": "2024-05-21T03:37:11.304Z",
+      "trust_level": 2,
+      "username": "Tane",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "I won’t be opting-in to participate in the anticapture commision as I already\nparticipated for a season and I think my input was not really required and the\nextra call per week is something I can’t afford due to a very busy schedule.\n\nThat said the amendements make sense and think that having the ACC makes sense\nso I will be voting for this proposal.",
+      "created_at": "2024-06-16T15:09:01.642Z",
+      "trust_level": 2,
+      "username": "lefterisjp",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "As part of the Path to Open Metagovernance\n[https://gov.optimism.io/t/the-path-to-open-metagovernance/7728], we’ll be\nexperimenting with polls this Reflection Period.\n\n\nARE THERE ANY ASPECTS OF THE ANTICAPTURE COMMISSION AMENDMENT THAT YOU ARE NOT\nSUPPORTIVE OF?\n\nPlease provide additional feedback in the comments if you select any answers\nbelow\n\n * Reduction in scope\n * Elimination of non-voting participation requirements\n * Elimination of auto-qualification for all Leads\n\n0 voters",
+      "created_at": "2024-05-13T13:19:12.068Z",
+      "trust_level": 4,
+      "username": "system",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2024-05-10T13:40:04.549Z"
+}

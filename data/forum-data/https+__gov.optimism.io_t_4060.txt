@@ -1,0 +1,30 @@
+{
+  "title": "We need direct promotion of OP",
+  "content": "I don’t know what other countries are doing now.\nI am Korean, so I am going to talk about Korean people.\nCurrently, I have invested in Defi and NFT for nearly a year and a half.\nIncluding the stock market investment, it’s been more than 10 years, but I think\nit’s a separate part, so I’ll move on.\nAnyway, most of the interest in Defi and NFT in the Korean community has\ndeclined.\nHowever, due to APT and HFT, the interest in WEP3, or airdrop, is very high.\nSo everyone is trying to find this information.\nI heard that OP is also doing airdrop for the second season, but I think this is\nthe best time to promote it.\nWhy don’t you start promoting it in person rather than wanting people to visit\nyou in person?\nAssign a certain amount of airdrop to people who collaborate with the community\nor post quality promotional articles.\nThe coin market is dead, but WEP3, I think the Airdrop market is an opportunity\nto spread even bigger!! Let’s take the opportunity and make the OP the best.",
+  "views": 1599,
+  "like_count": 6,
+  "word_count": 225,
+  "answer": [
+    {
+      "content": "I think it’s right to decide the means of publicity by the author himself. We\nwish OP would make airdrop quota for promotion to people.",
+      "created_at": "2022-12-09T02:50:09.019Z",
+      "trust_level": 2,
+      "username": "hait",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "From where? Elon?\nMask is busy nt promoting anything now",
+      "created_at": "2022-12-08T22:35:17.653Z",
+      "trust_level": 0,
+      "username": "Rivuck",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-11-20T07:59:56.931Z"
+}

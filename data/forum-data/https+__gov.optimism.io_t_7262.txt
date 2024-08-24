@@ -1,0 +1,9 @@
+{
+  "title": "Is an anon mode helpful for Optimism?",
+  "content": "I have been researching how DAOs make decisions and I am curious about\nanonymity. Since this feature is possible on discourse\n[https://meta.discourse.org/t/use-anonymous-mode-to-reply-or-create-topics/240039]\nand is easy to enable\n[https://meta.discourse.org/t/enable-and-configure-anonymous-mode/155638]:\n\n 1. Have we considered enabling it here\n 2. If yes, why, if not, why not?\n\nMy thesis is that optional anonymity would allow users to communicate candidly\nwithout needing to create a throwaway account, and would love your feedback on\nthis.",
+  "views": 383,
+  "like_count": 1,
+  "word_count": 92,
+  "answer": [],
+  "created_at": "2023-12-18T12:02:40.129Z"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Cycle 10 Final Grants Roundup",
+  "content": "Cycle 10 has concluded and the Grants Council is thrilled to announce that it\nhas selected finalists. This Cycle represented a step-change in formalizing a\ncommunity-run process. The reviewers worked very hard to run new operating\nprocedures aimed at filtering for sufficiency, then threshold quality, then\nconsensus. The applicants put in considerable effort and the quality of the\nfinal proposals shows the value of applying rigor to the grants process. Our\ngoal is to continue to make Optimism’s grants program the best-in-class.\n\nThe Council has learned a number of lessons that it will seek to put to good use\nin Cycle 11. The Cycle 11 form\n[https://gov.optimism.io/t/grants-proposal-template-cycle-11/5291], milestone\nassessments [https://gov.optimism.io/t/milestone-assessment/5314] guidance, and\ndrafting workshops\n[https://twitter.com/OptimismGrants/status/1630721836966092802?s=20] are all\naimed at helping proposers present their best proposals.\n\nNow for the Finalists:\n\nBuilders\n\n * Atomic Links\n   [https://gov.optimism.io/t/draft-gf-phase-1-proposal-atomic-links/5029]:\n   building infrastructure to connect web2 and web3 applications (50k OP)\n\n * Attestation Station Interface\n   [https://gov.optimism.io/t/draft-gf-phase-1-proposal-attestation-station-interface/4827]:\n   no code solution for builders to interact with Attestation Station\n   (20k OP)\n\n * Clique [https://gov.optimism.io/t/draft-gf-phase-1-proposal-clique/4980]:\n   identity oracles that bring web2 user behavior and identity data on-chain\n   (25k OP)\n\n * DeFunds\n   [https://gov.optimism.io/t/gf-phase-1-proposal-defunds-co-decentralized-finance/4912]:\n   automated DeFi strategies (2,500 OP)\n\n * Edge Wallet\n   [https://gov.optimism.io/t/gf-phase-1-proposal-edge-wallet-integration-of-optimism-velodrome-lp-staking-swaps-tarot-lp-staking/3994]:\n   self custody platform where key management and DeFi are simplified (50k OP)\n\n * ENS Wildcard Domains\n   [https://gov.optimism.io/t/draft-gf-phase-1-proposal-ens-wildcard-domains/5044]:\n   tools that enable NFT communities on Optimism to acquire ENS sub-domains at\n   zero cost (45k OP)\n\n * Front-running protection\n   [https://gov.optimism.io/t/draft-gf-phase-1-proposal-front-running-protection-via-shielded-mempool-for-op-stack-using-threshold-encryption/5036]:\n   a feasibility study for front-running and censorship protection via a\n   shielded/encrypted mempool (30k OP)\n\n * Karma\n   [https://gov.optimism.io/t/draft-gf-phase-1-proposal-karma-delegate-registry/4982]:\n   a delegate registry for DAOs built on Optimism (50k OP)\n\n * Metronomo\n   [https://gov.optimism.io/t/draft-gf-phase-1-proposal-metronomo/5021]:\n   open-source Web3-native programmatic ad network (22.5k OP)\n\n * rotki [https://gov.optimism.io/t/draft-gf-phase-1-proposal-rotki/5025]:\n   opensource portfolio tracking and accounting tool that supports Optimism\n   completely\n   (40k OP)\n\nGrowth Experiments\n\n * Crypto LDFM\n   [https://gov.optimism.io/t/draft-gf-phase-1-proposal-crypto-lfdm/5030]:\n   educational video series on how Optimism works and the basics of Optimism\n   (10k OP)\n\n * KyberSwap\n   [https://gov.optimism.io/t/ready-gf-phase-1-proposal-kyberswap/4068]: Dex\n   aggregator and liquidity platform on Optimism that aims to provide the best\n   rates (250k OP)\n\n * Mux [https://gov.optimism.io/t/draft-gf-phase-1-proposal-mux-protocol/5037]:\n   DeFi protocol suite that will offer optimized trading cost, deep liquidity, a\n   wide range of leverage options and diverse market options for trader (250k\n   OP)\n\n * Nested [https://gov.optimism.io/t/ready-gf-phase-1-proposal-nested/4965]:\n   non-custodial DeFi trading platform that enables users to create NFT\n   representations of their portfolios and earn royalties (250k OP)\n\n * OPWeave\n   [https://gov.optimism.io/t/draft-gf-phase-1-proposal-opweave-coverage-of-everything-optimism/4990]:\n   blog and podcast focused on the Optimism community (8,633 OP)\n\n * Parcel [https://gov.optimism.io/t/draft-gf-phase-1-proposal-parcel/5032]:\n   marketplace that enables users to buy and sell in-game items including rare\n   collectibles, land, and other NFTs (150k OP)\n\n * Premia [https://gov.optimism.io/t/draft-gf-phase-1-proposal-premia/5034]:\n   decentralized options protocol that will provide educational content through\n   Learn to Earn program (235k OP)\n\n * Rubicon [https://gov.optimism.io/t/gf-phase-1-proposal-rubicon/5068]: order\n   book protocol that implements fully on-chain order books and a matching\n   engine for peer-to-peer trading of ERC-20 tokens (200k OP)\n\n * Sonne Finance\n   [https://gov.optimism.io/t/draft-2-gf-phase-1-proposal-sonne-finance/4779]:\n   an EVM-compatible lending/borrowing protocol that launched on Optimism that\n   Finance provides p2p lending solutions that are fully decentralized,\n   transparent, and non-custodial (250k OP)\n\n * Thales [https://gov.optimism.io/t/draft-gf-phase-1-proposal-thales/4984]:\n   protocol that allows for creation and participation in novel on-chain\n   automated parimutuel markets (250k OP)\n\n * The Optimistic Series\n   [https://gov.optimism.io/t/draft-gf-phase-1-proposal-the-optimistic-series/4911]:\n   newsletter, podcast and research database focused on Optimism DeFi content\n   (30k OP)\n\n * Via Protocol\n   [https://gov.optimism.io/t/gf-phase-1-proposal-via-protocol/4917]:\n   cross-chain liquidity aggregator that offers a suite of tools, including\n   Router and an SDK (250k OP)\n\nThe finalists can expect outreach from the Foundation to handle KYC,\ndistribution of the grants, and other details in the near term. As always, you\ncan reach out to the Council with any questions at optimismgrantsops@gmail.com\n[optimismgrantsops@gmail.com]. Final milestones will be added as a comment to\nthis post on March 4.\n\nWe look forward to working with the community to make Cycle 11 a great\nexperience that yields great outcomes. As a reminder, proposals for Cycle 11 are\ndue on March 8 at 19:00 GMT. You can learn more about the application process on\nthe Council’s landing page\n[https://www.notion.so/Optimism-Grants-Council-090bb648d1854136b9630c608da7a8bc].\n\nNote that the conferral of a grant is not an explicit or implicit promotion or\nendorsement of the projects or their underlying products but rather an\nacknowledgement that the projects’ applications were deemed most suited to\nreceive a grant given the parameters applied by the mandate of Season 3\ngovernance.",
+  "views": 7959,
+  "like_count": 106,
+  "word_count": 1472,
+  "answer": [
+    {
+      "content": "The Milestones tracker will be located at this address and monitored by the\nCouncil on an ongoing basis. While some of the projects are final, a number of\nprojects have been given additional time to verify final milestones on account\nof time zone variability and ethDenver. This will be updated in final form the\nweek of 3/6 before the Foundation makes any distributions.\n\ndocs.google.com\n[https://docs.google.com/spreadsheets/d/16gxZSD0aErog652Ije4F8_uSR6QsOQ9oySg-hvGP0JU/edit#gid=0]\nhttps://docs.google.com/spreadsheets/d/16gxZSD0aErog652Ije4F8_uSR6QsOQ9oySg-hvGP0JU/edit#gid=0\n\n\nCYCLE 10 MILESTONES (DRAFT)\n[https://docs.google.com/spreadsheets/d/16gxZSD0aErog652Ije4F8_uSR6QsOQ9oySg-hvGP0JU/edit#gid=0]\n\nBuilders Builders Cycle 10 Milestones (Draft 3/4 - awaiting finalized milestones\nfrom Front-Running Protection for finalization) Project,Milestone,Milestone\nType,Source of Truth,Deliver by Date Atomic Links,add basic web2 integrations:\n1) External...\n\n\n",
+      "created_at": "2023-03-05T04:21:26.747Z",
+      "trust_level": 4,
+      "username": "GrantsOps",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 8
+    },
+    {
+      "content": "Thank you for update.\nI waiting for OP grow up 100x.",
+      "created_at": "2023-03-04T15:55:37.113Z",
+      "trust_level": 1,
+      "username": "greenwebapp",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "Nice job grants council – excellent transparency and process over the past few\nweeks. Excited to see what these projects do! :pray:\n[https://emoji.discourse-cdn.com/twitter/pray.png?v=12]",
+      "created_at": "2023-03-06T16:37:16.287Z",
+      "trust_level": 4,
+      "username": "bobby",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 4
+    },
+    {
+      "content": "Congratulations to all the grants finalists! I’m very excited to see how these\ngrants will help the ecosystem system grow. Also nice to see the first cycle\nwhere applications were fully handled by the council, it was very interesting\nseeing the discussions happening over at the discord as well. The final project\nreview\n[https://foul-porch-0eb.notion.site/Cycle-10-Intake-and-Preliminary-Review-Forms-e54cf1e881b1446086154ad0af313636]\ncould not be any clearer as well.\n\nSomething that could be worth exploring at the end of the season is seeing in\nbroad categories where the grants ended up being allocated, as right now with\nthe current list it’s only possible to easily see the distributed amount, not\nthe goals of each grantee.",
+      "created_at": "2023-03-06T19:52:42.183Z",
+      "trust_level": 2,
+      "username": "Oxytocin",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Nice round. As I think ,Nested got the goal. can’t wait for cycle 11.",
+      "created_at": "2023-03-04T14:20:39.354Z",
+      "trust_level": 1,
+      "username": "evention",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    }
+  ],
+  "created_at": "2023-03-04T02:22:27.661Z"
+}

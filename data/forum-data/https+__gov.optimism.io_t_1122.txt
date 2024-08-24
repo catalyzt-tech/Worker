@@ -1,0 +1,60 @@
+{
+  "title": "[GF: Phase 0 Proposal] Kwenta Protocol",
+  "content": "Project Name: Kwenta\n\nAuthor Name: Andrew (@Andotlas [/u/andotlas])\n\nDefillama TVL (at snapshot): $0\n\nTransactions/day (at snapshot): 225\n\nTier: 2\n\nOptimism native: Yes\n\nRevisions to metrics used: N/A\n\nNumber of OP tokens to claim: 900,000\n\nL2 Recipient Address: 0x82d2242257115351899894eF384f779b5ba8c695\n\nProposal for token distribution (under 1000 words):\n\nKwenta will use the Optimism token to draw traders who are active on other\nchains to make the transition to trading on Optimism with Kwenta as well as\nreward DAO Contributors for existing and future contributions.\n\n\nPROPOSAL FOR TOKEN DISTRIBUTION (UNDER 1000 WORDS):\n\nThe proposal for Kwenta’s OP is as follows:\n\n\nAIRDROP BREAKDOWN\n\n * Platform Migration Incentives 66%\n\n * Competition Prizes 14%\n\n * DAO Contributor Incentives 20%\n\nPlatform Migration Incentives\n\nAmount: 600,000 $OP\n\nMethod: 1000 trader addresses who were unable to claim $DYDX and had a minimum\ndeposit of $1000 USD in dYdX will be able to claim OP tokens after making 10\ntrades on Kwenta, generating a minimum PnL of 10%, and having a total cumulative\nvolume of $5000 sUSD. 1200 wallets are eligible for this reward, the first 1000\npeople to claim the allocation will receive their OP.\n\nCompetition Prizes\n\nAmount: 120,000 $OP\n\nMethod: Kwenta will be hosting 2 competitions to kickoff the launch of the\nKwenta token. The OP token will be used to incentivize participation by being\nadded to the prize pool.\n\nDAO Contributors\n\nAmount: 180,000 $OP\n\nMethod: Individuals who have contributed towards governance and development\nwithin the Kwenta DAO will receive 50% of the OP based on a Core\nContributor-derived assessment of the value provided by the included members.\n50% of the OP would put towards Kwenta devDAO bounties, incentivizing\ndevelopment on top of Kwenta and Optimism.\n\n\nNEW USERS\n\nThe above incentives will draw users to bridge to Optimism and have a meaningful\nexperience in the ecosystem. Traders will be incentivized to experience a\nrealistic trial of a new and competitive platform that can rival their favored\nperpetual futures platform. Builders will be incentivized to experiment with\ndevelopment on Optimism alongside a community of talented developers.\n\n\nRETENTION\n\nTrader Retention:\n\nIn addition to offering users an incentive to bridge to Optimism, traders who\ncomplete trades on Kwenta to unlock their OP will receive trading incentives in\nthe form of KWENTA which remain locked for 1 year while still being stakeable\n(which includes additional trader rewards) creating a sticky flywheel of\nincentives. This, in addition to the unique offerings unavailable elsewhere\n(such as gold and silver perps) will ensure we retain users who come to Kwenta\nto claim their OP.\n\nBuilder Retention:\n\nThe devDAO is a component of Kwenta which hosts bounties for developer work. Of\nthe existing 20 devDAO contributors, around than 20% of members sold their SNX\ncompensation while the remaining 80% either held or staked their SNX and became\nfurther engaged with the development community on Optimism. Many new devDAO\nmembers have gone on to contribute to Lyra, Thales, OptiPunk, and other projects\nin addition to Kwenta. Over $100,000 USD worth SNX has been spent on devDAO\nbounties with 80 tickets being resolved by community members ranging from\nbeginner level to advanced difficulty. We believe this trend will continue as\ndevDAO momentum has steadily grown since its inception earlier this year.\n\nEffectiveness Evaluation:\n\nKwenta’s inflationary model offers the treasuryDAO an opportunity to offer\nmultiple rounds of migration incentives should they prove beneficial for the\nprotocol. Using OP for migration incentives will enable Kwenta to gather data\nregarding the effectiveness of these campaigns and refine our tactics to\nmaximize the impact they have.\n\n\nTIMELINE & REQUIREMENTS\n\nPre-Airdrop Requirements:\n\nOnce Kwenta has completed the launch of the KWENTA token, the OP Airdrop will be\nimplemented. The KWENTA token plays a crucial role in retention, as outlined\nabove. Audits are currently set to conclude in late June setting up the Kwenta\nDAO for a launch in early summer.\n\nAirdrop Timeline:\n\nTraders from alternative chains who meet the criteria listed above will have a\nperiod of 6 months to claim their OP tokens. Afterward, any remaining OP tokens\nwill be clawed back and used at the treasury’s discretion for future growth\ninitiatives.\n\n\nCO-INCENTIVES\n\nKwenta’s ongoing trading incentives will follow the mechanism defined above in\nan upcoming KIP.\n\nKwenta will be offering KWENTA in the upcoming competitions alongside OP,\noutlined in KIP-10 [https://kips.kwenta.io/kips/kip-10/].\n\nThere will be no change to the existing developer compensation model, OP will be\nused to fuel development alongside the existing proven model.\n\nDisclaimer: This proposal is subject to approval by the Kwenta DAO’s governing\ncouncil. KIP-16: OP Token Phase 0 Proposal [https://kips.kwenta.io/kips/kip-16/]",
+  "views": 4322,
+  "like_count": 41,
+  "word_count": 1314,
+  "answer": [
+    {
+      "content": "Number of OP tokens to claim: 900,000 $OP\n\nPlatform Migration Incentives: 600,000 $OP\n\nCompetition Prizes: 130,000 $OP\n\nDAO Contributors: 180,000 $OP\n\n600,000+130,000+180,000=910,000???\nI think something is wrong. :rofl:\n[https://emoji.discourse-cdn.com/twitter/rofl.png?v=12]",
+      "created_at": "2022-05-26T01:46:13.532Z",
+      "trust_level": 2,
+      "username": "karlyang",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "Or geo-blocked by a centralized system.",
+      "created_at": "2022-05-26T21:38:50.736Z",
+      "trust_level": 1,
+      "username": "jvk",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Of all the proposals, this is the most interesting i’ve read so far in terms of\ntargeting users of other chains. Kwenta is complex for the beginner to\nunderstand - so it’s not like kwenta can target a coinbase user to bridge some\nfunds over. Targeting other similar protocol users from other chains or L2s\ncould have a new positive effect on the optimism environment",
+      "created_at": "2022-05-29T05:44:13.172Z",
+      "trust_level": 2,
+      "username": "Justin",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "good protocol i,m in it",
+      "created_at": "2022-06-03T20:52:25.434Z",
+      "trust_level": 1,
+      "username": "dregan",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Liked this proposal :wink:\n[https://emoji.discourse-cdn.com/twitter/wink.png?v=12]",
+      "created_at": "2022-05-30T07:54:46.728Z",
+      "trust_level": 0,
+      "username": "bigBang",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2022-05-25T17:35:55.611Z"
+}

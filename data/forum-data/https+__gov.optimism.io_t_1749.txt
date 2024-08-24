@@ -1,0 +1,60 @@
+{
+  "title": "[GF: Phase 0 Proposal] Celer Network",
+  "content": "Project Name: Celer Network\n\nAuthor Name: Mo\n\nDefillama TVL (at snapshot): $30.6M\n\nTransactons/day (at snapshot): 99\n\nTier: 2\n\nOptimism native: No\n\nRevisions to metrics used: N/A\n\nNumber of OP tokens to claim: 1,000,000\n\nL2 Recipient Address: 0xF5e9D550C3c50364D630eDB4753bE404Cd109121\n\nProposal for token distribution (under 1000 words):\n\n\nBACKGROUND\n\nCeler is a blockchain interoperability protocol enabling a one-click user\nexperience accessing tokens, DeFi, GameFi, NFTs, governance, and more across\nmultiple chains.\n\ncBridge [https://cbridge.celer.network], as an asset bridge built on top of\nCeler Network, has been supporting Optimism from day-1 on the following fronts\n\n * Fast and low-cost USDT/USDC/FRAX between Optimism and 10 different other\n   blockchains\n * Supporting the fast bridging needs for Optimism-based projects’ bridging\n   needs for their governance token based on liquidity pool based bridging\n   needs. This includes Lyra, Kromatika, Perpetual Protocol, Thales, Aelin and\n   DForce tokens\n\nSome statistics\n\n * cBridge has processed $8.1b cross-chain transactions across 20 chains for\n   166K users.\n * cBridge has helped bridging $203M volume to and from Optimism to date\n * cBridge has distributed 16.7M CELR in rewards to date for the liquidity\n   providers that are helping facilitate fast transfer between Optimism and 10\n   other blockchains.\n\nCeler Inter-chain Message (Celer IM) framework has launched on mainnet recently.\nThrough Celer IM, developers can build inter-chain dApps, such as ChainHop\n[https://chainhop.exchange/], using the Celer Inter-chain Message SDK to make it\neasier to onboard Optimism’s ecosystem.\n\n\nGOALS\n\nWe are committed to growing with the Optimism ecosystem with the following\ngoals:\n\n * Incentivize and build deep liquidity on Optimism for bluechip tokens to\n   further facilitate low-cost onboarding to Optimism from 10 or more other\n   chains.\n * Attract users to actively use dApp ecosystems in Optimism without worrying\n   about onboarding costs.\n * Expand true cross-chain app use cases such as cross-chain DeFi, GameFi and\n   NFT marketplaces to enhance the\n\n\nTOKEN PLAN\n\n\nDISTRIBUTION\n\nBased on the above goals, we propose the following programs for $OP token\ndistribution. We also note that the amount of tokens contemplated here is\nsubject to change depending on the traction we see in each of the programs.\n\n 1. 650K: Liquidity mining program for Optimism based cBridge pools.\n 2. 150K: User onboarding cost reduction.\n 3. 200K: Builder grant for cross-chain dApps helping improve the UX and growth\n    of Optimism.\n\nSome detailed explanation below:\n\nLiquidity Mining\n\ncBridge on Optimism operates in a liquidity pool based model. Tokens bridged via\nOptimism’s gateway (the official bridge) is always treated as the canonical\nbridged token on Optimism. When a user bridges a token, say USDC, from chain X\nto Optimism, the user adds USDC liquidity in the Chain X side of the pool and\nremoves liquidity from the Optimism side. The depth of the liquidity pool on the\nOptimism side determines bridge pricing and size of liquidity bridgeable via\ncBridge. Therefore, it is beneficial for the Optimism community to incentivize a\ndeep liquidity pool on Optimism’s side with $OP token especially in the early\nstage of ecosystem growth.\n\nUser Onboarding Cost Reduction\n\nEven though Optimism already provides a low cost and trust-free layer-2 rollup\nexperience, our user feedback has shown that there are still some users who want\nto have a lower cost onboarding experience when bridging in from chains other\nthan Ethereum. cBridge can facilitate that structure by covering a portion of\nthe gas fee that the user needs to pay. For example, if a user bridges 10 USDC\nfrom Avalanche, instead of getting $9.5 with the $0.5 covering the gas costs on\nOptimism, she would now get $9.8 with $0.3 covered by cBridge through $OP token\ndistribution to Celer’s validator networks. Note that this distribution is Sybil\nresistant because it will not cover the full gas costs of bridging in.\n\nBuilder Grant\n\nLike any blockchain ecosystem, the builders of the ecosystem finally determine\nthe fate of the chain. We put strong focus on incentivizing builders on\nOptimism. There are a few area of focus:\n\n * cBridge widget integration. cBridge functionality can be integrated with any\n   dApp through a web widget. We will allocate a certain amount of $OP based on\n   the total bridging volume of all the integrated dApps. Among the integrated\n   dApps,the $OP tokens will be distributed proportionally to bridged volume\n   from their integrated widget.\n * Cross-chain dApps built with Celer that makes onboarding and using Optimism\n   easier. Celer IM allows users from other chains to experience apps on\n   Optimism with ease. This allows app builders to build applications native to\n   Optimism and do not need to migrate their apps with multiple copies to other\n   chains to accept users there. Instead, they can acquire users by providing a\n   capability to allow users on other chains to directly interact with Optimism\n   based dApps with one-click UX.\n   * An example would be NFT marketplace on Optimism, where seller can only list\n     on Optimism but buyers can come from Avalanche using $AVAX, Ethereum using\n     $ETH, BSC using $BNB etc etc.\n   * Another example would be a cross-chain liquidity protocol, where users\n     started from some other chain let’s say Avalanche and only have AVAX. They\n     can have a one-click onboarding experience to swap some of their $AVAX to\n     $ETH on Optimism and start to use apps here.\n\n\nDURATION\n\nDepending on the price of the $OP token, we expect liquidity mining and user\nonboarding portion to last anywhere from 6 months to a year. Developer grants\nwill be based on developer adoption and have long-lasting benefits for the\nOptimism ecosystem.\n\n\nCO-INCENTIVES\n\nWe have been contributing to the Optimism community with significant liquidity\nmining rewards (>$1.5M worth at distribution value) and expect to continue\nsimilar effort long term to maintain functional liquidity in the Optimism\necosystem based on Celer Network DAO’s governance process.",
+  "views": 3752,
+  "like_count": 9,
+  "word_count": 1084,
+  "answer": [
+    {
+      "content": "\n[https://avatars.discourse-cdn.com/v4/letter/m/da6949/48.png] modong:\n\n> 200K: Builder grant for cross-chain dApps helping improve the UX and growth of\n> Optimism.\n\nThank you for including builders, one question though, who will approve the\nbuilder grant? A multisig wallet or DAO or just core team ?",
+      "created_at": "2022-05-28T09:10:30.456Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "It is so nice seeing a proposal where Builders are taken care of. Good job\nCeler! I approve this 100%",
+      "created_at": "2022-05-28T01:17:40.594Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 2
+    },
+    {
+      "content": "Am a fan of Celer. I approve of this too.",
+      "created_at": "2022-06-10T04:46:55.809Z",
+      "trust_level": 1,
+      "username": "lionkim",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Hi @modong [/u/modong]! It’s been several months since your OP grant was\ndistributed, checking in to see if you have a grant update you can share with\nthe community?",
+      "created_at": "2023-01-05T14:58:24.761Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 0
+    },
+    {
+      "content": "It will be through Celer Network’s community governance process!",
+      "created_at": "2022-06-01T03:05:09.361Z",
+      "trust_level": 1,
+      "username": "modong",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-05-28T00:57:57.489Z"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Season 6: Chain Delegation Program Amendment",
+  "content": "Special thanks to @brichis [/u/brichis],@kaereste [/u/kaereste], and\n@Porter_Smith [/u/porter_smith] for review and feedback on these amendments as\npart of the Feedback Commission\n[https://gov.optimism.io/t/introducing-the-collective-feedback-commission/7863]\n\n\nSEASON 6: CHAIN DELEGATION PROGRAM AMENDMENT\n\n--------------------------------------------------------------------------------\n\n\nCHAIN DELEGATION PROGRAM AMENDMENT\n\nThe Chain Delegation Program was not utilized in Season 5 due to longer than\nexpected timelines on the partnership side and due to the ongoing evolution of\nwhat it means to be part of the Superchain. However, the Chain Delegation\nProgram is expected to play a meaningful role in our plans to onboard the next\n~15 OP Chains. Below we propose an amendment to the original proposal, based on\nchanges that have occurred over the course of Season 5. This program pertains\nonly to L2’s as governance controls protocol parameters at the L2 level.\n\n * OP Chains that meet the below criteria will be eligible for 250k OP in\n   delegation:\n   \n   * In the Superchain Registry\n     [https://gov.optimism.io/t/season-6-introducing-blockspace-charters-superchain-first-governance/8133#superchain-registry-5]\n     (or similar\n     [https://docs.google.com/spreadsheets/d/1CRXo9YcP9fzJZxmKmEbNcPkZebgpUBMKo63HUhDKy2U/edit#gid=0])\n   * Committed to contribute revenue back to the Collective and generating > 1\n     ETH / month in sequencer revenue, for at least 2 consecutive months\n\n * Additionally, chains the meet the below requirement will be eligible for an\n   additional 750k OP in delegation:\n   \n   * 1M in transaction volume per month, for at least 2 consecutive months\n     (qualifying Chains will be re-assessed on this metric at the beginning of\n     each Season.) This metric more closely ties to private grant milestones,\n     replacing the previous revenue generation metric (in part due to the impact\n     of 4844).\n\n * Chains operating on the Standard Configuration would be eligible for an\n   additional 500k OP in delegation (a total of 1.5M OP for these chains.)\n\n * Qualifying Chains will be re-assessed on these metrics at the start of each\n   Season.\n\n * The size of the program would be increased to 20M, to support the first ~15\n   OP Chains in their first year of governance participation. All delegation\n   formulas and caps remain the same.\n\n * The duration of the program would be extended, to support the first ~15 OP\n   Chains in their first year of governance participation, on a rolling basis\n   until, all qualifying chains have gone through the program.\n\n * All delegations made through this program will be capped at the point at\n   which an OP Chain reaches 3M in delegation (including Partner Fund grants\n   able to be delegated), at the time of opt-in.\n\n * No delegations have been made through this program to date. Any delegations\n   that are made will be noted as a comment to this forum post.\n\n * OP Chains will not be added to this program until they opt-in and verify they\n   are able to uphold the below participant expectations\n   \n   * OP Chains must maintain a >70% voting participation rate during the Season,\n     calculated at the start of each Season, or their delegation will be removed\n     at the start of the next Season\n   \n   * Delegates should set an ENS Primary Name to their delegation address and\n     create a delegate statement on vote.optimism.io [http://vote.optimism.io].\n     It is also recommended to set an ENS avatar with the logotype of the OP\n     Chain.\n   \n   * Chain delegates should identify a point of contact that will be responsible\n     for this delegation. It is recommended that this delegate attend community\n     governance calls, hosted bi-weekly.\n   \n   * Chain delegates will be top 100 delegates, which mean they are eligible to\n     provide approvals on proposal drafts and should be active in the governance\n     forums.\n\nThe new program charter, updated with the above changes, can be viewed in its\nentirety here\n[https://gov.optimism.io/t/season-6-chain-delegation-program-amended/8131].\n\n--------------------------------------------------------------------------------\n\n\nWHAT DOES IT MEAN FOR DELEGATES?\n\nThe proposed amendments to the Chain Delegation Program will go to a vote in\nSpecial Voting Cycle #23a. You can see the full details in the Season 6\nReflection Period Guide\n[https://gov.optimism.io/t/season-6-reflection-period-guide/8130/2]. If the\namendments are not approved, the Chain Delegation Program will continue to\nthrough the end of Season 6, as approved in the original proposal.\n\nIn either case, the Chain Delegation Program will continue to be delegated 10M\nOP from the Governance Fund through the end of Season 6.",
+  "views": 676,
+  "like_count": 25,
+  "word_count": 1934,
+  "answer": [
+    {
+      "content": "Thanks for raising these points and starting an important conversation.\n\nIn terms of this specific program, the goal is to allow OP Chains to begin to\nparticipate in governance with accountability mechanisms (participation\nrequirements, removable delegation, etc.) that aren’t available with private\ngrants or free market delegation. Importantly, delegations will not be made\nabove a 3M OP cap on the Chain’s total delegation, so the program should mostly\nbenefit smaller Chains/Chains that don’t already have large amounts of existing\nvoting power. OP Chains are basing the future of their business on Optimism and\nit’s very important to them to be able to participate in governance outcomes\nthat affect the future of their businesses. This program allows them to get\ninvolved, on a temporary basis, with guidance and oversight from the Token\nHouse.\n\nAt a higher level, we do believe these Chains are incentive aligned in building\n& maintaining the OP Stack as a platform that provides value to all of its\nusers, including OP Mainnet. We understand the concerns around economic\nincentive alignment, balance of power, and value accrual across the Superchain\n(and especially relative to OP Mainnet), and plan to schedule a joint house\ncommunity call with the founding team to expand upon these topics in early July,\naligned with theme of Season 6: Supporting the Superchain.",
+      "created_at": "2024-06-14T19:14:34.054Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 5
+    },
+    {
+      "content": "Upon thinking more on this, we’re not sure there’s a compelling reason to expand\nthis program. It’s not at capacity now, and also we risk getting into a\nsituation where becoming a Superchain member is increasingly a lopsided deal\nthat disfavors Optimism mainnet/governance.\n\nPledging sequencer revenues is relatively low cost for new chains that aren’t\nestablished, but becoming a Superchain member already will give those chains\naccess to substantial subsidies at the expense of Optimism tokenholders. The\nchecks and balances on providing those grants and other financial resources is\nlargely reliant upon an independent Optimism governance that puts OP\ntokenholders first.\n\nThis program expansion – aside from not having an obvious demand for the\nincreased budget – risks stacking Optimism governance with a bunch of chains\nwhose incentives are not aligned with maximizing OP tokenholder value. A small\nnumber of chains would provide representation, but adding up to 20m votes that\nhave a strong incentive to only increase the drain of Optimism’s treasury to\nfund initiatives on other chains is probably too much.",
+      "created_at": "2024-06-14T12:08:13.889Z",
+      "trust_level": 2,
+      "username": "GFXlabs",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "The Foundation will monitor participation rates for all program participants at\nthe start and end of each Season. If delegates believe there should also be a\nmid-point evaluation, that is something we could also consider (the goal to\nbalance accountability for participants with the operational overhead of\nmonitoring/enforcement for the Collective.)",
+      "created_at": "2024-06-17T09:07:25.389Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 3
+    },
+    {
+      "content": "I echo the concerns of @GFXlabs [/u/gfxlabs] as they are valid points.\n\nI also would like to ask who ends up monitoring that this OP is well used in\ngovernance and the participations metrics are upheld?\n\nIf not will undelegation happen before end of the year?\n\nI hope yes as this should be very strict criteria to make sure governance\nparticipation is upheld.\n\nOther than that I don’t think it’s a bad idea to add such a delegation so long\nas it’s temporary. To incentivize participation of more chains in the governance\nof the optimism ecosystem so I will be voting for.",
+      "created_at": "2024-06-16T15:20:13.991Z",
+      "trust_level": 2,
+      "username": "lefterisjp",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "The program is temporary in that delegations are only made for the first year of\nthe Chain’s participation and are then removed (tokens returned back to the\nGovernance Fund.)\n\nChains receiving delegation will be re-evaluated at the start of each Season to\nensure they continue to meet the criteria, meaning they would have to still be\npart of the Superchain Registry or would lose their delegation.",
+      "created_at": "2024-06-14T17:46:37.782Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2024-05-10T13:42:30.985Z"
+}

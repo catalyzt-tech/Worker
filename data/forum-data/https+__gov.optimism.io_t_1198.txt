@@ -1,0 +1,60 @@
+{
+  "title": "[GF: Phase 0 Proposal] Layer2DAO",
+  "content": "Project Name: Layer2DAO\n\nAuthor Name: mctopcat.L2, train.L2, exosphere.L2 (@Exosphere)\n\nDefillama TVL (at snapshot): 0\n\nTransactions/day (at snapshot): 244\n\nTier: 3\n\nOptimism native: No\n\nNumber of OP tokens to claim: 300,000\n\nL2 Recipient Address: 0xaF5a0068f5465260A1a88A6264D0dcE4469609CF\n\n\nPROPOSAL FOR TOKEN DISTRIBUTION (UNDER 1000 WORDS)\n\n\nINTRODUCTION TO LAYER2DAO\n\nLayer2DAO [https://www.layer2dao.org/] is expanding the Ethereum L2 ecosystem\nand investing in L2 ecosystem projects. The DAO uses its treasury to invest into\nhigh-impact L2 protocols and ecosystem plays, serving as a diversified venture\nfund for investors looking to gain exposure to the L2 ecosystem growth. It may\nalso provide liquidity, depositing, and staking in the future, perpetually\nreinvesting proceeds back into the DAO.\n\nLayer2DAO will also provide incentives for users to move their funds to L2s and\nuse protocols on those L2s, modeled after other protocols’ successful incentive\nprograms. We plan on particularly supporting projects that have not launched\ntheir own token to drive adoption.\n\nLayer2DAO is governed by L2DAO token holders. Through the proposal and voting\nprocess L2DAO token holders will determine the actions and direction of\nLayer2DAO.\n\nLayer2DAO is proposing to use 240,000 of the 300,000 OP fund to create an\n‘OPIncubator’ that will invest in projects that run on Optimism in addition to\nincentivizing a new L2DAO/OP liquidity pool with 60,000 tokens. The OPIncubator\nwill incorporate a dynamic NFT on Optimism that can be used by holders to vote\nfor their favorite Optimism projects in return for bribes. Successful projects\nwill be awarded a portion of the OP drop over 6 funding rounds. Layer2DAO will\nmatch these funds on a 1:1 basis. The Layer2DAO treasury intends to bridge 100\nmillion L2DAO tokens from Arbitrum to its multi-sig wallet on Optimism.\n\n\nHOW WILL THE OP TOKENS BE DISTRIBUTED?\n\n\nOPINCUBATOR\n\nLayer2DAO’s stated mission as a DAO is to expand the Ethereum L2 ecosystem and\ninvest in L2 ecosystem projects. As such the DAO aims to use part of its\nOptimism Fund grant to incentivize high-impact Optimism protocols.\n\nLayer2DAO is proposing to use 240,000 OP tokens to create the OPIncubator\nproject that will incentivise projects that run on Optimism. It intends to\ncoordinate this investment through the development of a unique ‘dynamic’ NFT -\nthe OPIncubator passport - which will reside on Optimism. We intend to sell this\nNFT for OP tokens. We are aiming for access to the first round of voting to be\neconomically neutral for a portion of our Early Adopter\n[https://docs.layer2dao.org/overview/projects/l2-early-adopter-nft] user base.\n\nLayer2DAO intends to identify an Optimism native NFT project and developer and\nuse up to 15,000 tokens for the creation of the OPIncubator passport NFT and\nOPIncubator functionality. We will sell 2,000 of these dynamic NFT’s to users on\nOptimism. Dynamic NFTs evolve over time as they are used in different ways and\ntheir rarity can increase. In this instance the OPIncubator passport will allow\nholders to vote in a series of OPIncubator investment rounds. Six successful\nprojects will be awarded 27,500 OP each over six separate funding rounds (thus\ncompleting the 165,000 OP distribution).\n\nWe intend the sale of the NFT to be economically neutral for our early adopters\nby incentivizing them to participate and vote in the six projects. We will use\n60,000 of the tokens to incentivize voting (10,000 for each round).\n\n\nLIQUIDITY INCENTIVES\n\nWe plan on distributing the remaining 60,000 tokens as incentives to users for\nstaking in the new L2DAO/OP LP, preferably through an Optimism-native project\nsuch as Zipswap [https://www.zipswap.fi/].\n\n\nSUMMARY OF DISTRIBUTION\n\n * 15,000 OP - Partner with NFT project and developer to create OPIncubator\n   passport NFT and functionality\n * 165,000 OP - OPIncubator distribution to 6 Optimism projects\n * 60,000 OP - OPIncubator voting incentives over 6 rounds\n * 60,000 OP - L2DAO/OP LP\n\n\nHOW WILL THIS DISTRIBUTION INCENTIVIZE USAGE AND LIQUIDITY ON OPTIMISM?\n\nLayer2DAO will be incentivizing a new long-term L2DAO/OP LP pool on Optimism\nwith 60,000 of the OP tokens. In addition, the OPIncubator project will create a\nmechanism by which users will be rewarded for their long-term participation of\nprotocols on Optimism.\n\n\nWHY WILL THE INCENTIVIZED USERS AND LIQUIDITY REMAIN AFTER INCENTIVES DRY UP?\n\nThe key to our proposal, and our long term mission as a DAO, is the\nsustainability of Ethereum L2 protocols. Layer2DAO will also be staking treasury\nfunds for the LP pools. The participation in governance in OP affords us the\nopportunity to have a lasting presence on the chain. The OPIncubator will\nprovide the DAO an ability to incentivise projects on Optimism that last well\nbeyond the current incentives provided.\n\n\nOVER WHAT PERIOD OF TIME WILL THE TOKENS BE DISTRIBUTED?\n\nWe anticipate that these incentives will be distributed over a 6-12 month time\nframe depending on the number of quality projects that are put forth for the\nOPIncubator program.\n\n\nHOW MUCH WILL YOUR PROJECT MATCH IN CO-INCENTIVES?\n\nLayer2DAO intends to match the OP token incentives in the OPIncubator program on\na 1:1 basis with L2DAO tokens.",
+  "views": 5145,
+  "like_count": 137,
+  "word_count": 1841,
+  "answer": [
+    {
+      "content": "Interesting proposal. Hope it gets approved by OP",
+      "created_at": "2022-05-26T05:53:45.615Z",
+      "trust_level": 0,
+      "username": "armincrypto",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 10
+    },
+    {
+      "content": "All nice, this will be effective and help the project grow better as expected\n:hugs: [https://emoji.discourse-cdn.com/twitter/hugs.png?v=12]",
+      "created_at": "2022-05-26T10:09:43.948Z",
+      "trust_level": 2,
+      "username": "Olawalesh2",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "I was one of many who completely missed the airdrop for L2DAO literally just due\nto work…somehow never became aware of it until too late.\n\nI love the NFTs on Optimism though; and if given $OP tokens that will benefit\nearly adopters of L2s, this seems like a no brainer to me for all parties.",
+      "created_at": "2022-05-26T10:44:29.069Z",
+      "trust_level": 2,
+      "username": "0xWeston",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "This project is very promising and more updates and developments are flocking in\n! Congrats Optimism Team, keep it up. Layer2DAO has been a sparkplug for this\nwonderful event. Always a fan and supporter!",
+      "created_at": "2022-05-26T22:38:33.238Z",
+      "trust_level": 2,
+      "username": "Luckymonkey",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "This is a strong project with active people with cryptographic knowledge and is\nsure to have a lot to say in the future.",
+      "created_at": "2022-05-26T15:47:25.224Z",
+      "trust_level": 1,
+      "username": "empera22r",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2022-05-26T04:56:14.546Z"
+}

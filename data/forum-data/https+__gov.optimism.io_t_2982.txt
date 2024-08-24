@@ -1,0 +1,60 @@
+{
+  "title": "[READY] [GF: Phase 1 Proposal] dHEDGE",
+  "content": "Project Name: dHEDGE DAO\n\nAuthor Name: Jake Richards\n\nNumber of OP tokens requested: 500,000 OP over 6 months\n\nL2 Recipient Address: 0x352Fb838A3ae9b0ef2f0EBF24191AcAf4aB9EcEc\n\nRelevant Usage Metrics:\n\n * Optimism TVL: $1.84m (All TVL: Mainnet, Polygon, Optimism: $10.38m)\n * Total transactions: 5,491 since November 29, 2021\n * Total transactions (last 40 days): 3,255 (averaging almost 100 tx/day)\n * Unique addresses: 609\n\nOptimism alignment\n\ndHEDGE was one of the early projects that worked with the Optimism team to\nimprove the dev experience, prior to the Regenesis.\n\nSince launching on Optimism over 6 months ago, dHEDGE has been rapidly\nincreasing integrations with other Optimism protocols Aave, 1inch, Kwenta and\nUniswap, in addition to launching our own incubated protocol Toros Finance on\nOptimism in April.\n\nToros Finance runs automated strategies on Optimism including the Synthetix Debt\nHedging [https://toros.finance/pool/0x59babc14dd73761e38e5bda171b2298dc14da92d]\nservice, which quickly accrued over $1m in TVL weeks after launching.\n\nOur protocol vision is to build a future where everyone has simple and reliable\naccess to financial freedom so that society’s quality of life is improved. This\nis tightly aligned with the Optimistic Vision of reliably providing for basic\nhuman needs at scale.\n\n\n\nScreen Shot 2022-07-14 at 11.29.18 pm\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/e/e0e0f8f1400b0b0fde13a8545a41e7ca6af3925e_2_690x336.png]\nScreen Shot 2022-07-14 at 11.29.18 pm790×385 38.9 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/e/e0e0f8f1400b0b0fde13a8545a41e7ca6af3925e.png]\n\n\n\nProposal for token distribution:\n\n * How will the OP tokens be distributed?\n\nThe intention is for any granted OP to be distributed as additional staking\nrewards received by DHT Optimism stakers, increasing the attractiveness of the\nDHT staking program on Optimism.\n\nThe OP tokens will be distributed over a period of 6 months (along with DHT) via\na new staking mechanism which rewards only value-generating TVL on both dHEDGE\nand other Optimism protocols which are integrated with dHEDGE (eg. Synthetix,\nUniswap, Aave etc).\n\nThe new staking model is designed to increase protocol engagement via more\ntightly aligning DHT incentive emissions with real value created on the\nprotocol. In the new model, users will be required to pair their staked DHT with\nstaked dHEDGE Pool Tokens to receive incentives.\n\ndHEDGE governance has a proposal in-place which, if passed, will bring DHT\nStaking to Optimism for the first time.\n\nNew Staking Mechanism summary\n\nThe proposed new staking mechanism requires users to stake $DHT paired with an\nallocation of specific dHEDGE Pool tokens (DHPT). This is designed to ensure\nstaking rewards are going to users who are involved in the value creation on the\nprotocol, versus solely locking protocol token liquidity. Not all dHEDGE pools\nwill be able to be staked initially, dHEDGE will operate a whitelisting process\nto ensure the stakeable pools are of sufficient performance and TVL.\n\ndHEDGE has yet to confirm which DHT:DHPT pairs will be stakeable, but will\ninclude the Toros automated strategies e.g. Stablecoin Yield, and a new market\nneutral strategy launching the week of 25th July.\n\nAs an example, a user could stake 200 DHT with $1000 of the Stablecoin YIeld\npool. As the time staked increases, combined with performance increases in\nStablecoin Yield, the users potential staking rewards will increase. Variables\ninfluencing the total rewards eligible include i) time staked, ii) performance\nof staked pool token, and iii) the dollar ratio of staked $DHT to $DHPT. Please\nsee the attached Proposal (below) for more detailed information.\n\nRewards are paid out at the time of unstaking, which is where dHEDGE intends to\nallocate an equivalent amount of OP to the $DHT being emitted.\n\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/e/e184c427eab0cf2ad9f2a3eceb87d222a58563d0.png]\ndHEDGE DAO – 12 Jul 22\n[https://forum.dhedge.org/t/dfp-33-new-dht-staking-model-2-0/378]\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/9/9d0e416abf9681cf9dd39a99aa78327b0bc42e57.png]\n\n\nDFP-33: NEW DHT STAKING MODEL 2.0\n[https://forum.dhedge.org/t/dfp-33-new-dht-staking-model-2-0/378]\n\nHeader Content Author Mat Nelsen(@taminater) Created 2022-7-12 Status Draft\nMotivation See also: Initial forum post The Status Quo of Staking DHT The\ncurrent dHEDGE staking system rewards DHT holders that choose to lock up their\nDHT in...\n\nReading time: 3 mins 🕑 Likes: 2 ❤\n\n\n\n * How will this distribution incentivize usage and liquidity on Optimism?\n\nGiven the OP distribution is intended to increase DHT Staking incentives, this\nmechanism is primarily aimed at increasing value-generating TVL on dHEDGE and\nOptimism.\n\nThe entire design of the new staking mechanism is targeted to create closer\nalignment between protocol revenue and staking rewards, closely aligning the\nincentives of dHEDGE DAO and stakers. These incentives are also aligned with\nincreased Optimism engagement.\n\nCurrently there’s $1m DHT staked on Mainnet, and the new staking proposal will\nsunset mainnet staking. Additional OP rewards would help encourage that $1m in\nliquidity to migrate directly to Optimism.\n\nThe staking mechanism skews emissions towards pool performance, such that if\nthere’s no performance generated by the staked strategies, there’s no associated\nOP or DHT emissions.\n\n * Why will the incentivized users and liquidity remain after incentives dry up?\n\nThe incentivised users and liquidity will remain on protocol after the OP\nincentives have been exhausted due to the design of the new staking proposal.\n\nStakers earn incentive rewards when their underlying pool tokens perform well.\nThis means that users that receive incentives also get real value from the\nprotocol and are less reliant on additional incentives.\n\nThe staking system also increases rewards to stakers who max out their ‘duration\nbonus’ (a linearly increasing multiplier that maxes out after 6 months staked).\nThe design of the mechanism is aimed at making the decision to remain staked\nmore lucrative as time increases.\n\nThe additional OP will create the added benefit of increasing the attractiveness\nof our staking program, bringing more users and TVL to the protocol and\ncontributing to their decision to remain staked for longer.\n\n * Over what period of time will the tokens be distributed?\n\nGiven the duration bonus maxes out after 6 months, we’d look to make accrued OP\nrewards available to users over a distributed 6 month horizon.\n\nUsers receive their staking rewards at the point of unstaking, they do not\naccrue as per a typical staking emissions scheme. So stakers are offered a\nchoice to unstake and receive rewards versus remaining staked and enjoying an\nincreasing duration bonus.\n\n * Has your project previously received an OP token grant? If yes, what’s the\n   status of these tokens?\n\ndHEDGE has not received any grant funding from Optimism.\n\n * How much will your project match in co-incentives?\n\ndHEDGE will match the granted OP 1:1 in dollar terms with DHT incentives to\nstakers.",
+  "views": 5457,
+  "like_count": 63,
+  "word_count": 5288,
+  "answer": [
+    {
+      "content": "I am in favor of this, but I think you should consider requesting your 500k OP\ntokens over 6 months instead of a year. Most other Phase 1 protocols are\nrequesting their tokens over 6 months and this would align with them.",
+      "created_at": "2022-07-17T05:41:03.550Z",
+      "trust_level": 2,
+      "username": "mastermojo",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "from defilama\n\n\nimage\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/d/d2bbeaddc5c09b1a9034ab7ac5b5fbfa9cca13d6_2_447x500.png]\nimage488×545 23.4 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/d/d2bbeaddc5c09b1a9034ab7ac5b5fbfa9cca13d6.png]\n\n\n\n2M on OP Chain.\n\nNumber of token requested with distribution plan for 1 year is good, I would\nallocate few percentage for addresses willing to bridge their asset from\ndifferent chain to OP chain and lock it for long term.\n\nYou are matching dollar value of OP token requested which is also a great move.",
+      "created_at": "2022-07-18T13:55:03.983Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Dhedge is a great product and it’s good to see incentives will be matched 1/1. I\nsupport this proposal.",
+      "created_at": "2022-07-20T13:21:25.186Z",
+      "trust_level": 2,
+      "username": "MoneyManDoug",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Thanks for the clarification. If the protocol allows investors to use it without\nbeing required to stake your token, and for OP to be distributed for said\nactivity, I’d be happy to support it. However, I’m not going to vote for a\nproposal where >12% of the market cap is distributed in $OP for staking said\ntokens.",
+      "created_at": "2022-07-24T05:19:03.258Z",
+      "trust_level": 2,
+      "username": "polynya",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "It’s a very solid proposal.\nAgree with @mastermojo [/u/mastermojo] that you may think about requesting 500k\nop tokens over 6 months.",
+      "created_at": "2022-07-20T09:42:40.462Z",
+      "trust_level": 1,
+      "username": "leifu",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    }
+  ],
+  "created_at": "2022-07-14T23:27:04.623Z"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Seeking Community Insight: Help Us Perfect the Ultimate Web3 Builder Hub for Optimism",
+  "content": "Hello, esteemed Optimism community members,\n\nI’m reaching out from DIA DAO with a community-driven resource, and we believe\nthe Optimism community’s insights will be invaluable in refining it. We’ve been\nworking on the Ultimate Web3 Builder Hub on Notion\n[https://www.notion.so/diadao/The-Ultimate-Web3-Builder-Hub-01008cdc74044d63818f17acd24137fd?pvs=4],\nwhich curates information from top layer 1 and layer 2 blockchains, including\nOptimism. While our focus is on providing accurate and valuable data, the heart\nof the project lies in its collaborative nature.\n\n\nWHAT’S IN IT FOR THE OPTIMISM COMMUNITY?\n\nFrom my personal experiences in the space, I’ve often felt the need for a\none-stop hub where developers, marketers, and Web3 enthusiasts can find\neverything from technical documentation to marketing and governance resources.\nAnd now, it’s here.\n\nCentralized Knowledge: We’ve gathered resources like testnets, faucets, wallet\nintegration guides, developer tools and links, analytics & research resources,\nand more, specifically tailored for Optimism builders.\n\nCollective Wisdom: The hub is designed to harness the collective expertise of\neach blockchain’s community, ensuring the resources remain relevant and\nup-to-date.\n\n\nWE NEED YOUR EXPERTISE\n\nWhile our initial data collection has been exhaustive, we recognize that the\ntrue stewards of knowledge for Optimism are its passionate community members.\nThis is where we humbly request your assistance:\n\n * Fact-Checking: Peruse the Optimism section in our hub and let us know if all\n   information is accurate and up-to-date.\n * Become a Contributor: If you’re keen on providing regular insights or keeping\n   the Optimism data enriched, consider joining us as a contributor.\n\nSubmit this form to become a contributor: https://forms.gle/K5zfpvwGcUEiNVU9A\n[https://forms.gle/K5zfpvwGcUEiNVU9A]\n\nEven a few minutes of your time to review the Optimism section would be\ninvaluable.\n\nWe appreciate the collective spirit of the Web3 community and are excited to\ncollaborate with the Optimism community to enrich this resource. Here’s to\nshaping a knowledgeable and united future for Web3.\n\nSincerely hope this thread is appropriate for the Optimism forum, if not,\napologies in advance.\n\nWarm regards,\n\nAnze, DIA DAO Lead",
+  "views": 848,
+  "like_count": 6,
+  "word_count": 502,
+  "answer": [
+    {
+      "content": "Hey AnzeDIA, I really like this project!\nIt’s a good resource for those who want to know more about the web3 ecosystem\n:muscle:t2: [https://emoji.discourse-cdn.com/twitter/muscle/2.png?v=12]\n\nI just have a question:\nDo all the resources that people complete in the form go through a filter prior\nto loading? What happens if someone put a scam link in a document, is it\npublished? or does it go through a scan? And how do we report scams if we find\nthem in any document that we can identify? :sweat_smile:\n[https://emoji.discourse-cdn.com/twitter/sweat_smile.png?v=12]\n\nThanks for your contribution to @optimism [/u/optimism] collective :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]:muscle:t2:\n[https://emoji.discourse-cdn.com/twitter/muscle/2.png?v=12]",
+      "created_at": "2024-04-05T23:03:19.817Z",
+      "trust_level": 3,
+      "username": "Liliop.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "Hello AnzeDIA, i like the hub :star2:\n[https://emoji.discourse-cdn.com/twitter/star2.png?v=12]… it could be like a\ngreat index about Web3 solutions. After reviewed it i would like to know if it´s\npossible to add chain agnostic solutions like Chainlink and wormhole?\nthey take relevant position in the ecosystem and they made big efforts to\ngenerate interoperability\ni´ll be happy to contriubite sharing validated information. Grettings :v:\n[https://emoji.discourse-cdn.com/twitter/v.png?v=12]",
+      "created_at": "2024-04-06T05:15:26.443Z",
+      "trust_level": 2,
+      "username": "TheMvp07",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2023-09-29T09:40:53.222Z"
+}

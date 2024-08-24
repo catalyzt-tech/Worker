@@ -1,0 +1,60 @@
+{
+  "title": "Cycle 10 Grant Review Roundup",
+  "content": "The Grants Council congratulates 31 proposers for reaching the Cycle 10 Final\nReview.\n\nOver the next two weeks, these proposals will be assessed by each reviewer in\nthe relevant Sub-Committee (Growth Experiments or Builders). Each reviewer will\nreview each proposal and assign a score based on the Sub-Committee’s rubric.\nProposals will be ranked based on the average of the reviewer scores in order to\nguide the Council’s determination of grant recipients. Reviewers will reach out\nto proposers during this time to work toward ensuring the proposals include\ndiscrete milestones that enable the Council to determine whether grantees have\nperformed the actions outlined in their proposal sufficiently.\n\nHere is the list of proposals for Final Review organized by Sub-Committee:\n\nBuilders Sub-Committee Final Review List\n\nAtomic Links\n[https://gov.optimism.io/t/draft-gf-phase-1-proposal-atomic-links/5029]\n\nAttestation Station Interface\n[https://gov.optimism.io/t/draft-gf-phase-1-proposal-attestation-station-interface/4827]\n\nClique [https://gov.optimism.io/t/draft-gf-phase-1-proposal-clique/4980]\n\nDeFunds\n[https://gov.optimism.io/t/gf-phase-1-proposal-defunds-co-decentralized-finance/4912]\n\nEdge Wallet\n[https://gov.optimism.io/t/gf-phase-1-proposal-edge-wallet-integration-of-optimism-velodrome-lp-staking-swaps-tarot-lp-staking/3994]\n\nENS Wildcard Domains\n[https://gov.optimism.io/t/draft-gf-phase-1-proposal-ens-wildcard-domains/5044]\n\nfam. [https://gov.optimism.io/t/draft-gf-phase-1-proposal-fam/5035]\n\nFront-running Protection\n[https://gov.optimism.io/t/draft-gf-phase-1-proposal-front-running-protection-via-shielded-mempool-for-op-stack-using-threshold-encryption/5036]\n\nKarma\n[https://gov.optimism.io/t/draft-gf-phase-1-proposal-karma-delegate-registry/4982]\n\nLongship [https://gov.optimism.io/t/draft-gf-phase-1-proposal-longship/5005]\n\nMarsbase [https://gov.optimism.io/t/draft-gf-phase-1-proposal-marsbase/4974]\n\nMava [https://gov.optimism.io/t/draft-gf-phase-1-proposal-mava/5040]\n\nMetronomo [https://gov.optimism.io/t/draft-gf-phase-1-proposal-metronomo/5021]\n\nOptimism Educational Video\n[https://gov.optimism.io/t/optimism-educational-video-encyclopedia-on-youtube-phase-1-grant-proposal/4585]\n\nPairwise [https://gov.optimism.io/t/draft-gf-phase-1-proposal-pairwise/4976]\n\nPass On [https://gov.optimism.io/t/draft-gf-phase-1-proposal-pass-on/5039]\n\nPoolz [https://gov.optimism.io/t/draft-gf-phase-1-proposal-poolz-finance/4977]\n\nPraise [https://gov.optimism.io/t/draft-gf-phase-1-proposal-praise/4986]\n\nrotki [https://gov.optimism.io/t/ready-gf-phase-1-rotki/2732]\n\nGrowth Experiments Sub-Committee Final Review List\n\nCrypto LDFM\n[https://gov.optimism.io/t/draft-gf-phase-1-proposal-crypto-lfdm/5030]\n\nKyberSwap [https://gov.optimism.io/t/ready-gf-phase-1-proposal-kyberswap/4068]\n\nMux Protocol\n[https://gov.optimism.io/t/draft-gf-phase-1-proposal-mux-protocol/5037]\n\nNested [https://gov.optimism.io/t/ready-gf-phase-1-proposal-nested/4965]\n\nOpweave\n[https://gov.optimism.io/t/draft-gf-phase-1-proposal-opweave-coverage-of-everything-optimism/4990]\n\nParcel [https://gov.optimism.io/t/draft-gf-phase-1-proposal-parcel/5032]\n\nPremia [https://gov.optimism.io/t/draft-gf-phase-1-proposal-premia/5034]\n\nRubicon [https://gov.optimism.io/t/gf-phase-1-proposal-rubicon/5068]\n\nSonne Finance\n[https://gov.optimism.io/t/draft-2-gf-phase-1-proposal-sonne-finance/4779]\n\nThales [https://gov.optimism.io/t/draft-gf-phase-1-proposal-thales/4984]\n\nThe Optimistic Series\n[https://gov.optimism.io/t/draft-gf-phase-1-proposal-the-optimistic-series/4911]\n\nVia Protocol [https://gov.optimism.io/t/gf-phase-1-proposal-via-protocol/4917]\n\nCycle 10 Roundup\n\nWe received 73 proposals for Cycle 10. Of the proposals:\n\n * 26 were for Builders Grants,\n * 46 were for for Growth Experiments Grants, and\n * 1 was not updated to include a grant type\n\nBoth Sub-Committees worked hard to filter the proposals to determine which would\nbe viable for Preliminary Review. Of the proposals received, 49 passed through\nthe Intake Filter\n[https://docs.google.com/spreadsheets/d/1jrt0EZX8lJRBfptMMOH5g6DbBkPjhIH2NvBjTVorUy4/edit#gid=0]\nto receive a Preliminary Review. Of the Preliminary Review proposals:\n\n * 24 were for Builders Grants, and\n * 25 were for Growth Experiments Grants\n\nThe primary reasons for attrition between the Intake Filter and Preliminary\nReview were (a) incomplete proposals that were not updated; (b) grant size\nrequests that exceeded the Cycle maximum and did not merit an increase in this\nCycle; and (c) violations of the no sale rule. A preponderance of proposals that\ndid not meet the minimum standards were directed to the Growth Experiments\nSub-Committee. This may be due to the greater grant size maximum, which could\ndraw moonshot applications.\n\nAll proposers who applied to Cycle 10 are eligible for consideration in Cycle\n11. The Council will publish guidance on Cycle 11 submissions aimed at\nclarifying the parameters for each Sub-Committee’s assessments and at eliciting\nresponses most relevant to each Sub-Committee’s mission. Guidance and any\nchanges to the proposal submission process will be published on February 17.\n\nThe Grants Council is here for any proposer who wants to seek greater clarity on\nthe Cycle 10 process or to seek information about Cycle 11. To access more\ninformation on the grants process for Season 3, the best place to begin is this\npost [https://gov.optimism.io/t/grants-council-season-3-launch/4833], which\noutlines the resources available to the community.",
+  "views": 3346,
+  "like_count": 70,
+  "word_count": 1503,
+  "answer": [
+    {
+      "content": "We will be making review rubrics + intake results available this week to help\nthose applying for Cycle 11.",
+      "created_at": "2023-02-21T16:13:46.700Z",
+      "trust_level": 2,
+      "username": "danelund.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "No action item on your behalf. It is worth making sure that your contact\ninformation on the post is the best contact information for the reviewer to\nreach out to.",
+      "created_at": "2023-02-16T03:04:03.468Z",
+      "trust_level": 2,
+      "username": "danelund.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Thanks for the update!\n\nre: Growth Experiments\nOne of the highlights of the committee review process is the evaluation rubric\n[https://foul-porch-0eb.notion.site/Growth-Experiments-Sub-Committee-270d2f75ff0f410a869b2ba6a8324006].\nPerhaps the committee could release their scored rubrics to projects that passed\nthe intake filter? It would be an efficient and valuable way to provide\nfeedback, particularly for projects did not fall into any of the primary reasons\nfor attrition mentioned above.\n\n> (a) incomplete proposals that were not updated; (b) grant size requests that\n> exceeded the Cycle maximum and did not merit an increase in this Cycle; and\n> (c) violations of the no sale rule.",
+      "created_at": "2023-02-17T17:32:47.950Z",
+      "trust_level": 2,
+      "username": "twells",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Congratulations to all the protocols for making it this far, we’ll be cheering\nyou guys and supporting the growth of this ecosystem and keep building on OP\n\nRegards\nTeam DefiEdge",
+      "created_at": "2023-02-19T19:09:39.211Z",
+      "trust_level": 2,
+      "username": "DangerExploit",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "looking good. thanks for keeping us in the loop with this update.",
+      "created_at": "2023-02-27T23:12:02.674Z",
+      "trust_level": 2,
+      "username": "thinkDecade",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2023-02-16T00:28:40.057Z"
+}

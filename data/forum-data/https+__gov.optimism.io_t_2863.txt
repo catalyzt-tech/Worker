@@ -1,0 +1,60 @@
+{
+  "title": "[READY] [GF: Phase 1 Proposal] QiDao Protocol",
+  "content": "Project Name: Qi Dao\n\nAuthor Name: @geekvine [/u/geekvine] and @benjaminqidao\n\nNumber of OP tokens to claim: 750,000 OP\n\nL2 Recipient Address: 0xB1a8D1D6Dc07ca0e1E78a0004aa0bB034Fa73d60\n\nDefiLlama TVL on Optimism: $3.61M\n\nProposal for token distribution: Distribute OP tokens to QiDao to grow the\nprotocol on Optimism.\n\n\nRATIONALE:\n\nQiDao is a decentralized collateralized debt position stablecoin protocol where\nusers can deposit tokens as collateral to issue MAI, the protocol’s\ndecentralized stablecoin. It is the largest stablecoin protocol on Polygon,\nFantom, Gnosis Chain, Moonbeam, and Moonriver. QiDao was deployed on Optimism\ntwo months ago and has seen explosive growth in relation to other chains the\nprotocol is operating on. The goal of this proposal is to explain how to use\nthis grant to increase the growth of QiDao and the Optimism Ecosystem.\n\nQiDao is well integrated into the Optimism DeFi ecosystem, having sizeable\nliquidity on all major DEXs and bridges. MAI has also been accepted into Aave\nV3. Future integrations include Beefy, with whom QiDao has a multichain strategy\nwith, Arrakis, and Optimism token (adding OP as collateral for MAI).\n\nAdditionally, QiDao has a community within its DAO that is committed to growth\non Optimism. They call themselves the Optimism Alliance. They have been bribing\nQI voters weekly to vote in favor of Optimism vaults to receive borrow\nincentives. That has earned Optimism an added $10,000 of incentives per week!\n\n\nHOW WILL THE OP TOKENS BE DISTRIBUTED?\n\n20% for bounties on teams building on top of QiDao on Optimism\n\n20% for borrow incentives\n\n60% for MAI liquidity on Optimism (spread between Velodrome and Curve over the\ncourse of a year)\n\nBreakdown on incentives QiDao is currently providing to Optimism users:\n\n * Beethoven/Balancer pool: 15,000 QI per week\n * Curve pool: 3,000 QI per week\n * Borrowing incentives: 40,590 QI per week\n\nTotal QI incentives: 3,046,680 QI annualized ($761,644).\n\nTotal OP incentives requested: 750,000 OP annualized ($457,844).\n\nNot only is QiDao matching incentives, we’re exceeding proposed incentives on\nOptimism by 1.7x.\n\nSupporting MAI liquidity on Optimism will encourage users to lock value on\nOptimism in the form of collaterals. Since MAI charges a repayment fee and no\ninterest, locked value has a longer lifespan than it does on other lending and\nstablecoin platforms. This is due to users being incentivized to keep their debt\npositions open.\n\n\nHOW WILL THIS DISTRIBUTION INCENTIVIZE USAGE AND LIQUIDITY ON OPTIMISM?\n\nQiDao has voted to add OP as collateral for MAI (for 0% interest loans). This\nwill allow OP hodlers to mint stablecoins against their OP instead of selling.\nIf Optimism supports MAI liquidity, then more users will choose to borrow\nagainst OP rather than selling it.\n\nMAI has consistently been a top volume provider for Curve on Fantom and Polygon,\nwhere MAI is the largest stablecoin protocol. This is because MAI pools have a\nhigher volume to TVL ratio than most native stablecoins outside of Ethereum.\n\nGrowing MAI’s liquidity will allow more users to bridge value from other chains.\nMAI is currently one of the most crosschain tokens in crypto, with 20 chains\navailable. As a result, it functions as an effective transfer of value across\nchains.\n\nMAI’s 0% interest and repayment fee model encourages users to lock tokens on\ntheir home chain and keep loans open. This creates a resilient TVL for Optimism.\n\n\nWHY WILL THE INCENTIVIZED USERS AND LIQUIDITY REMAIN AFTER INCENTIVES DRY UP?\n\nFor the past few months, QiDao has operated on a net profit (revenue has\nexceeded emissions). This shows that QiDao has built a durable model that can\nthrive without outsized emissions.\n\nAfter OP incentives end, QiDao will continue to incentive usage on Optimism as\nit has for the past several weeks.\n\n\nOVER WHAT PERIOD OF TIME WILL THE TOKENS BE DISTRIBUTED?\n\n * Liquidity Incentives : 6 to 12 months depending on OP token price.\n * Borrow Incentives: 6 to 12 months depending on OP token price.\n * Grants Incentives: 3 to 6 months depending on the OP token price.\n\n\nHOW MUCH WILL YOUR PROJECT MATCH IN CO-INCENTIVES?\n\nAll incentives will be exceed by our emissions to Optimism users. Currently,\nQiDao will give $1.7 for every $1 of OP incentives.\n\nOP token vaults will receive borrow incentives based on a bi-weekly community\ngauge.",
+  "views": 6458,
+  "like_count": 85,
+  "word_count": 4506,
+  "answer": [
+    {
+      "content": "\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/benjamin.lens/48/1209_2.png]\nBenjamin.lens:\n\n> Qi Dao\n\nDumb feedback, you should add Optimism to your web page.\n\n\nimage\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/e/e955b64ed5ee968bd57e8287ba3b3d292d41ed0d_2_515x500.png]\nimage671×651 34.7 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/e/e955b64ed5ee968bd57e8287ba3b3d292d41ed0d.png]\n\n\n\nI did not know about this project I’ll dig into it. Nice to see new projects\nfocused on stablecoins.",
+      "created_at": "2022-07-02T21:31:07.390Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 5
+    },
+    {
+      "content": "The pools to be incentivized are likely the MAI pools you see today. MAI is on\nthe major DEXs on Optimism: Velodrome, Beethoven, and Curve. I think deepening\nthat liquidity should be the goal.\n\nThat being said, QiDao is community-run, so final say goes to the DAO.",
+      "created_at": "2022-07-04T04:59:44.870Z",
+      "trust_level": 2,
+      "username": "Benjamin.lens",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "QiDao is stable at the moment. These incentives are meant to help catalyze\nfurther growth on Optimism.\n\nAside from that, having official support from the Optimism community will help\ndivert more QiDao resources into building on Optimism. This will result in more\nQiDao products on Optimism, like QI staking and adding OP as collateral for MAI.",
+      "created_at": "2022-07-04T05:05:50.505Z",
+      "trust_level": 2,
+      "username": "Benjamin.lens",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/scaleweb3/48/440_2.png]\nScaleWeb3:\n\n> For starters, some part may be good for liquidity initiatives to move users\n> over to Optimism, establish long-term, deep enough liquidity pools and get\n> users to lock funds and mint Mai.\n\nThank you for your feedback. The liquidity incentives for MAI on Optimism are\ngeared towards intaking the high demand for borrowing MAI that we currently see\nin that chain. Debt ceilings are currently 0. We slowly increase that debt\nceiling based on the peg and the available liquidity for MAI on that chain.\n\nIn terms of levering other protocols, Beefy just launched on Optimism. We have a\nlong standing partnership with Beefy and adding their interest-bearing tokens as\ncollateral for MAI.\n\nIn order to allow users to freely lever those assets, we also need deeper\nliquidity for MAI (aside from the liquidity that we are already incentivizing on\nOptimism).\n\nAs you can see, a lot of growth does depend on liquidity mining. We, as QiDao,\ncan’t allocate more incentives to grow liquidity on Optimism without some\nsupport from Optimism itself. As we see that support, we can increase our\nactivity on Optimism.\n\n\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/benjamin.lens/48/1209_2.png]\nBenjamin.lens:\n\n> 10% of tokens will be distributed in the form of grants to users and\n> developers building tools and partnerships to help the protocol grow its\n> presence on Optimism.",
+      "created_at": "2022-07-05T21:11:16.090Z",
+      "trust_level": 2,
+      "username": "Benjamin.lens",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/benjamin.lens/48/1209_2.png]\nBenjamin.lens:\n\n> Qi Dao\n\nGood idea to improve the ecosystem",
+      "created_at": "2022-07-03T08:33:18.006Z",
+      "trust_level": 1,
+      "username": "hamid_dezfuli",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    }
+  ],
+  "created_at": "2022-07-02T17:20:17.087Z"
+}

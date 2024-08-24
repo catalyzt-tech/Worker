@@ -1,0 +1,60 @@
+{
+  "title": "29th OP Community Call will be [Tuesday October 17th @ 10:00 PT / 13:00 ET / 17:00 GMT / 19:00 CEST]",
+  "content": "We’re back!!! :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12] :sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]\n\nAfter quite a few weeks without a community call, we will be having one again\nthis Tuesday, October 17th at the normal time.\n\nAs always, feel free to comment below any topics you’ll like to discuss.\n\nI’m sure we’ll have a lot of things on the table with all the new introductions\nof season 5 and the start of the voting cycle.\n\nZoom link: Launch Meeting - Zoom\n[https://us02web.zoom.us/j/84087544843?pwd=cVpweHpEa2drYVRDZ1U0UklYSnR1QT09]\nSlides: October 17, 2023 community call slides - Google Slides\n[https://docs.google.com/presentation/d/1YjWBf77c4_uWYaEE7B9vXbEyVDLLpOitrM8k8irZYtw/edit?usp=sharing]\n\nSee you there!\nMichael :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]\n\nEdit: Summary Link: Optimism Community Call Recaps Thread - #23 by Michael\n[https://gov.optimism.io/t/optimism-community-call-recaps-thread/6937/23]",
+  "views": 958,
+  "like_count": 34,
+  "word_count": 1391,
+  "answer": [
+    {
+      "content": "29th Token House Community Call Summary - (AI-generated, view call for accuracy)\n\nThis call will be renamed to Token House Community Call to distinguish it from\nthe Citizens’ House Community Call.\n\nRepresentatives from Base joined the call:\n\n * Saemi Kim, Governance Lead\n * Rowan Stone, Business Operations Lead\n\nVoting Cycle 16a [https://vote.optimism.io/proposals] (7 proposals) is open for\nvoting and ends on 25th October, 2023.\n\nCollective Values: Simona leads an effort to establish collective values for the\nOptimism ecosystem. Justine underscores the importance of aligning values to\nguide collective decisions. The list of collective values will be posted in the\ngovernance forum for feedback.\n\n * Transparency: Emphasizing the importance of openness and clarity in processes\n   and actions.\n * Accessibility: Ensuring that resources and information are readily available\n   and usable by all participants.\n * Collaboration: Promoting cooperative efforts and teamwork among community\n   members.\n * Long-term Thinking: Encouraging a forward-looking perspective that considers\n   the consequences of decisions over time.\n * Impact: Focusing on making a positive difference and creating meaningful\n   outcomes.\n * Iterative Innovation: Valuing a continuous process of improvement, including\n   learning from mistakes and iterating on solutions.\n * Community Empowerment: Empowering individual community members and\n   recognizing their role in shaping the collective’s direction.\n\nAnticapture Commission: [https://gov.optimism.io/t/anticapture-commission/6889]\nMichael discusses the Anticapture Commission, emphasizing its opt-in nature and\neligible delegate list. The allocation of 10 million voting power for the\nAnticapture Commission is questioned during the call, advocating for higher\nrepresentation. Justine provides insights into the rationale behind the\nallocation and the commission’s aim to reward high-impact delegates.\n\nCode of Conduct Violations:\n[https://gov.optimism.io/t/code-of-conduct-violation-carlos-melgar/6882]\nDelegates recommend referring technical decisions to the Code of Conduct Council\nin case of insufficient quorum or majority. A vote is live for the Code of\nConduct Council Budget\n[https://gov.optimism.io/t/code-of-conduct-councils/6888].\n\nDeveloper Advisory Board\n[https://gov.optimism.io/t/developer-advisory-board/6892]: The initial list of\nDeveloper Advisory Board members nominated by the Foundation was introduced, and\nthe budget allocation per member for the season was mentioned (12,500 OP). The\nadvisory board’s role was clarified, which involves assisting councils,\nespecially with technical aspects of grants and milestones, and addressing\ndecentralization concerns.\n\nGrants Council Voting: The Grants Council’s role in informing decisions across\nvarious proposals is highlighted, along with a Security Council vote.\n\n * Security Council: Vote #1 - Change to Security Model\n   [https://gov.optimism.io/t/security-council-vote-1-change-to-security-model/6886]\n\n * Proposed Grants Council Charter - Season 5\n   [https://gov.optimism.io/t/draft-proposed-grants-council-charter-season-5/6942]\n\n * Season 5 Grants Council Orating Budget\n   [https://gov.optimism.io/t/draft-season-5-grants-council-operating-budget/6941]\n\nGrants Council Nominations\n[https://gov.optimism.io/t/grants-council-reviewer-nominations-season-5/6900]:\nChanges in Grants Council roles, including new reviewer positions, are\ndiscussed. A question about the relationship between the grant council and\nretroactive public goods funding is raised. Reviewers will evaluate grant\nmilestones and reporting. More nominations for positions are needed. Nominations\nclose on November 1st.\n\nRetroPGF3: The deadline for RetroPGF3 applications is approaching, with the\nclosing date set for October 23rd. Delegates are encouraged to actively promote\nthis program on their social media and personally reach out to potential\napplicants. A question arises concerning Know Your Customer (KYC) for DAO\nmembers. To address this, users are advised to contact Jonas via Discord or\nparticipate in the Citizens House Community call scheduled for October 31st.\n\n * RetroPGF 3: Application Review Process\n   [https://gov.optimism.io/t/retropgf-3-application-review-process/6916]\n\n * RetroPGF Application Guidelines\n   [https://plaid-cement-e44.notion.site/RetroPGF-3-Application-Guidelines-6942e743b28e4cc1a53a5e7d781f2bf4]\n\n * RetropPGF KYC Question\n   [https://gov.optimism.io/t/29th-op-community-call-will-be-tuesday-october-17th-10-00-pt-13-00-et-17-00-gmt-19-00-cest/6966/8]\n\nUpcoming Events\n\n * Ethereum Mexico [https://ethmexico.org/] 21st October\n * Onchain Summit Istanbul [https://lu.ma/onchainsummit.istanbul] 14th Nov.\n * Etherean League Gathering\n   [https://docs.google.com/document/d/1PRZk2gp4s7F607K3uWjwg03gvNhh6sG7RbebKJJgqPk/edit]\n   14th Nov.\n * L2Days Istanbul [https://l2days.xyz/] 14-15th Nov.",
+      "created_at": "2023-10-17T19:13:07.580Z",
+      "trust_level": 2,
+      "username": "ethdaily",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": "We’ve had some debate on this in the past but we stuck with zoom. That said, we\ncan put event reminders in discord with the zoom link, I see it wasn’t done this\nweek but I’ll be better about making sure thats up there in the future. I’ll add\nthat event reminder now.",
+      "created_at": "2023-10-17T14:24:37.139Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "Hey Dan!\n\nWe are required to perform KYC on anyone who can be understood to be in direct\ncontrol of the grant funds upon receipt. We’re able to perform KYC for signers\nof a multisig that grant funds are disbursed to.\n\nLet me know if that answered your question!",
+      "created_at": "2023-10-23T08:27:05.205Z",
+      "trust_level": 4,
+      "username": "Jonas",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 2
+    },
+    {
+      "content": "Hi Michael,\nJust curious. Is there any particular reason why the CC is done in Zoom?\n\nWouldn’t Discord be a better option to do them?\nIt would allow to schedule reminders and improve the participation of more\nmembers of the Collective.",
+      "created_at": "2023-10-17T02:34:41.957Z",
+      "trust_level": 2,
+      "username": "Pumbi",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "We would love to see the community calls in the discord…!!\n\nGetting everyone together for these calls is like herding cats. Totally agree\nthat there could be more volunteers from the governance to host the calls as\nwell as having members from the Base community such as @jessepollak\n[/u/jessepollak] or other members of the Superchain help to host the community\ncalls.\nWe have not seen further information about the involvement from other members of\nBase or how they will be involved with the OP Gov.",
+      "created_at": "2023-10-17T15:35:57.744Z",
+      "trust_level": 2,
+      "username": "FractalVisions",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2023-10-14T22:18:32.154Z"
+}

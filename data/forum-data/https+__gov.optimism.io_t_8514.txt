@@ -1,0 +1,20 @@
+{
+  "title": "[Mission Request] Microgrants for Experimental Projects",
+  "content": "MICROGRANTS FOR EXPERIMENTAL PROJECTS\n\nDelegate Mission Request Summary: Experimental development of user applications,\ndeveloper tools, games, art, and defi primatives on OP Mainnet.\n\nS6 Intent [https://gov.optimism.io/t/season-6-intents-ratification/8104]: Intent\n3a: grow application devs on OP Mainnet\n\nProposing Delegate/Citizen: Delegate name/pseudonym, linked to delegate profile\n\nTotal grant amount: 50k OP, maximum 2,500 OP per grant.\nWe have suggested applicants request 80% of the amount of impact they believe\nthey will generate, incentivizing the rest to be rewarded retroactively based on\nquality of execution in future Retro Funding Rounds.\n\nFor clarity, additional Retro Funding is never guaranteed and applicants should\nnot submit applications on the assumption that they will receive more than the\nupfront grant.\n\nShould this Mission be fulfilled by one or multiple applicants: Multiple\n\nHow will this Mission Request help accomplish the above Intent?\n\n * The goal of this mission is to offer support to newer and more experimental\n   projects that may not otherwise be competitive under the larger grant mission\n   requests.\n\nWhat is required to execute this Mission Request?\n\n * Grantees must launch their proposed project by the end of mission period,\n   which in this case is 6 months.\n * Project should be useable end-to-end by the desired user, whether that is\n   consumers or developers.\n\nHow should governance participants measure impact upon completion of this\nMission?\n\n * Milestones: Milestones should represent tangible progress towards the\n   deployment of the tool or application, and also also clearly define the\n   features that will be complete and useable by the end of the grant period.\n * Metrics: Did the project succesfully deploy? Is the project useable\n   end-to-end as described in the application? Is the project reaching it’s\n   desired users?\n * Impact: How many users did the grantee bring on with their project? How large\n   is the design-space in applications unlocked by this project? How has this\n   project contributed to developer growth?\n\nHas anyone other than the proposer contributed to this Mission Request? Not at\nthis time.\n\n\nWHICH METRIC WILL THE SUCCESS OF THIS MISSION REQUEST BE EVALUATED AGAINST?\n\nThe North star metric against which this Mission Request should be evaluated is\n# of active addresses interacting with grantee’s contracts, as this Mission\nRequest plans to grow the number of active developers on the Superchain through\nthe adoption of improved infrastructure and better open standards. This metric\nwas suggested by the Foundation and approved by the Grants Council.",
+  "views": 474,
+  "like_count": 12,
+  "word_count": 476,
+  "answer": [
+    {
+      "content": "A North Star Metric has been added at the bottom of this Mission Request in an\neffort to enable the Collective to make data-driven decisions. By using a single\nmetric for each Mission Request, the Collective is better able to evaluate the\nperformance of all the Season 6 missions in a standardized manner, which will be\ncritical when the Collective makes decisions about Intents, budgets, or other\ncritical components of governance.",
+      "created_at": "2024-07-19T19:49:50.501Z",
+      "trust_level": 4,
+      "username": "system",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2024-07-05T17:26:21.226Z"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Optimistic Stablecoin",
+  "content": "Dear fellow optimistic friends\n\nThe need for a trustworthy and decentralized stablecoin has never been greater\nin these times.\nWe just recently watched FTX.com [http://FTX.com] the second largest exchange\nfall, so I believe I speak for many of us when I say nothing surprises us\nanymore in this space and that we must prepare for the unthinkable black swan.\n\nAs most of us know stablecoins are a specific utility token designed to enforce\na stable value rather than be subject to the volatile price movements that most\nother crypto experiences. Stablecoin has greatly enhanced and helped the space\ngrow, but they remain a threat to us considering that both Tether and USDC are\ncontrolled by centralized entities that have amassed critical power and\ninfluence in crypto. We need an alternative stablecurrency that combines the\nbest properties of centralized stability and integrity with the decentralized\nnature crypto is meant for. The most common use for stablecoins is transferring\nmoney between crypto exchanges, but today this has expanded heavily to between\nnon-custodial wallets peer 2 peer and different layers. Stablecoins have become\nthe blood of crypto, and that blood can be frozed anytime.\n\nI am familiar with DAI and DAI is perhaps the closest we got to a decentralised\nstablecoin, trouble is that the biggest share of DAI’s backing consists of\ncentralized stablecoins USD Coin (USDC ) and Pax Dollar (USDP). This is not good\nat all and should something happen to CIRCLE it will impact DAI value.\n\nIt is in this regard I would like to propose again a simple idea that we explore\na new utility for OP token. Any ideas how this can be implemented? Shall there\nbe guarantors/validators that can stake and earn?\n\nI would like to hear other ideas.",
+  "views": 1772,
+  "like_count": 11,
+  "word_count": 392,
+  "answer": [
+    {
+      "content": "Synthetix works for this. sUSD is a product of them.",
+      "created_at": "2023-01-10T21:45:38.268Z",
+      "trust_level": 2,
+      "username": "teaser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "sUSD is enough, i don’t think stable coin backed by op token is useful",
+      "created_at": "2023-01-22T05:37:45.717Z",
+      "trust_level": 2,
+      "username": "0x666",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "I agree!!! Difficult matter to solve. We need a working team to focus on this\nissue…",
+      "created_at": "2022-12-15T08:44:03.854Z",
+      "trust_level": 1,
+      "username": "Tarzan",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "sUSD for sure I like it so much!",
+      "created_at": "2023-01-22T14:33:40.871Z",
+      "trust_level": 0,
+      "username": "Quinn",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "been working on this in the background. i think it’d be an excellent way to\nextend OP’s capacity.",
+      "created_at": "2023-01-12T17:42:52.885Z",
+      "trust_level": 2,
+      "username": "jackanorak",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-12-07T21:49:11.737Z"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Can you indicate which category I should post in?",
+  "content": "Hello all :slightly_smiling_face:\n[https://emoji.discourse-cdn.com/twitter/slightly_smiling_face.png?v=12]\n\nThis is my first post after joining so please forgive me if there is any mistake\n& provide kind assistance if I have posted to the wrong section.\n\nI am new & I am already a big fan and love this community; I have a background\nin teaching and in education and feel I could help with documentation, at least\nfor starters.\nAs a new member in this forum and wish to share and gain some knowledge; I want\nto create my own discussion to resolve my query and gain some knowledge though I\nhave taken part in various discussion which is definitely helped me a lot.\n\nAlso in what category should be taken depends on what factors?\n\nThankyou in advance.\nBest regards\nAriaw",
+  "views": 205,
+  "like_count": 4,
+  "word_count": 340,
+  "answer": [
+    {
+      "content": "Hi @Ariaw [/u/ariaw]! Welcome! You can find the description of each category\nhere: How to Navigate the Forum\n[https://gov.optimism.io/t/how-to-navigate-the-forum/6120]. Additionally, I\nrecommend joining our next Community Call. You can find the link in our\ngovernance calendar:\nhttps://calendar.google.com/calendar/u/0/r/day/2024/7/11?cid=Y19mbm10Z3VoNm5vbzZxZ2JuaTJncGVyaWQ0a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t\n[https://calendar.google.com/calendar/u/0/r/day/2024/7/11?cid=Y19mbm10Z3VoNm5vbzZxZ2JuaTJncGVyaWQ0a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t]\n\nLet me know if you have any questions!",
+      "created_at": "2024-07-08T10:57:54.748Z",
+      "trust_level": 4,
+      "username": "brichis",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "Also if you want to read more about what this season has, you can find the info\nhere: Season 6: Guide to Season 6\n[https://gov.optimism.io/t/season-6-guide-to-season-6/8113]\n\nThis season 6 started on June 27 and runs until December. :nerd_face:\n[https://emoji.discourse-cdn.com/twitter/nerd_face.png?v=12]\n\nHave a nice week!\nLili",
+      "created_at": "2024-07-08T12:45:44.474Z",
+      "trust_level": 3,
+      "username": "Liliop.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Hi @Liliop.eth [/u/liliop.eth] Thanks for this information :smile:\n[https://emoji.discourse-cdn.com/twitter/smile.png?v=12] I will definitely check\nout the guide to Season 6. It is great to know the season started on June 27 and\nruns until December. :smiley:\n[https://emoji.discourse-cdn.com/twitter/smiley.png?v=12]",
+      "created_at": "2024-07-10T06:05:59.684Z",
+      "trust_level": 0,
+      "username": "Ariaw",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Nice to help! :heart_hands:\n[https://emoji.discourse-cdn.com/twitter/heart_hands.png?v=12]\nAny questions, you can do it :grin:\n[https://emoji.discourse-cdn.com/twitter/grin.png?v=12]",
+      "created_at": "2024-07-10T06:14:28.522Z",
+      "trust_level": 3,
+      "username": "Liliop.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "Hi @brichis [/u/brichis] Thank you for warm welcome :smiley:\n[https://emoji.discourse-cdn.com/twitter/smiley.png?v=12] I will check out the\ncategory descriptions and join the next Community Call using this link\nhttps://calendar.google.com/calendar/u/0/r/day/2024/7/11?cid=Y19mbm10Z3VoNm5vbzZxZ2JuaTJncGVyaWQ0a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t\n[https://calendar.google.com/calendar/u/0/r/day/2024/7/11?cid=Y19mbm10Z3VoNm5vbzZxZ2JuaTJncGVyaWQ0a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t]ccsp\n[https://www.igmguru.com/blog/what-is-ccsp/]",
+      "created_at": "2024-07-10T06:04:07.684Z",
+      "trust_level": 0,
+      "username": "Ariaw",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-07-08T07:32:06.876Z"
+}

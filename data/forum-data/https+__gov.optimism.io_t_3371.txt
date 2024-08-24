@@ -1,0 +1,60 @@
+{
+  "title": "[DRAFT] [GF: Phase 1] Pheasant Network",
+  "content": "OVERVIEW\n\nProject Name: Pheasant Network\n\nWebsite: https://pheasant.network/ [https://pheasant.network/]\n\nAuthor Name: Tomo and nico\nTomo is CEO, nico is community lead at Pheasant Network.\n\nNumber of OP tokens requested: 300,000\n\nL2 Recipient Address: 0xC46eb8cceE9B0f5CD0C4319ec3C590DB3dbB87b2\nOptimism will be added in the future, so it will first be received at an address\nmanaged by Pheasant Network.\n\nRelevant Usage Metrics: Pheasant Network has just been launched, so no metrics\nyet. The community should support projects that really need funding rather than\nprojects that already have a lot of funding.\n\n\nOPTIMISM ALIGNMENT:\n\nPheasant Network is an optimistic bridge. It optimistically connects Ethereum\nand Optimism. Pheasant Network features low gas fees and secure liquidity.\nNeedless to say, optimistic bridge is influenced by the optimistic rollup\nconcept. Normal transactions are not verified by layer1, dramatically reducing\ngas costs. In addition, although the bridge has been hacked in a number of\ncases, Pheasant Network does not pool liquidity, so there is no single point of\nfailure for hackers to target. Pheasant Network’s optimistic mechanism will\nbring a lot of secure liquidity to Optimism.\n\n\nPROPOSAL FOR TOKEN DISTRIBUTION:\n\nOP tokens in the Pheasant Network will be used for two main purposes:\n\n * Network fees (70%): Gas costs incurred when bridging between Ethereum and\n   Optimism.\n * Relayer compensation (30%): Incentives for relayers to provide liquidity in\n   the Optimism network.\n\nDistribution will continue until the OP token inventory is exhausted.\n\n\nHOW WILL THE OP TOKENS BE DISTRIBUTED?\n\nPheasant Network will distribute OP tokens to users who bridge from Ethereum to\nOptimism. We believe this will contribute to the inflow of funds into the entire\nOptimism ecosystem, not just Pheasant Network users. Users who receive OP tokens\ncan use them to pay for the gas fee they need to use the Pheasant Network, as\nwell as for other DApps on Optimism. We want to help expand not only our own\nproject, but the entire Optimism ecosystem. The actual amount of OP tokens to be\ndistributed will be determined by taking into account the price of OP tokens at\nthe time and the volume of OP tokens in circulation.\n\n\nHOW WILL THIS DISTRIBUTION INCENTIVIZE USAGE AND LIQUIDITY ON OPTIMISM?\n\nBridges are essential to increase liquidity in the Optimism ecosystem. The\ntokens can be used effectively to motivate users to choose Optimism over other\nlayer2. Users who actually use DApps on Optimism will be surprised at the lower\ngas fees and faster processing speeds compared to layer1. In order to provide\nusers with a layer2 experience, they need to touch it first to get started. The\ndistribution of OP tokens by Pheasant Network will undoubtedly be an important\ncatalyst for this.\n\n\nWHY WILL THE INCENTIVIZED USERS AND LIQUIDITY REMAIN AFTER INCENTIVES DRY UP?\n\nAs mentioned earlier, the experience in layer2 will surprise users. Therefore,\nit goes without saying that once funds are transferred to layer2, they are\nunlikely to return to layer1, and the distribution of OP tokens will provide the\nimpetus to do so.\n\n\nOVER WHAT PERIOD OF TIME WILL THE TOKENS BE DISTRIBUTED?\n\nThe actual distribution will be determined based on the price and volume of OP\ntokens in circulation at the time. The current observation is to distribute OP\ntokens to as many unique users as possible over a period of 6 months~1 year.\n\n\nHAS YOUR PROJECT PREVIOUSLY RECEIVED AN OP TOKEN GRANT?\n\nNo\n\n\nHOW MUCH WILL YOUR PROJECT MATCH IN CO-INCENTIVES?\n\nGreater liquidity of funds between Ethereum and Optimism is the goal of the\nbridge. More funds flowing into Optimism is the most natural motivation for\nPheasant Network. The more liquidity Optimism provides, the better the user\nexperience for Pheasant Network.",
+  "views": 1882,
+  "like_count": 12,
+  "word_count": 820,
+  "answer": [
+    {
+      "content": "Without metrics it makes it pretty hard to justify that grant amount, these\ngrants aren’t really meant for project development. This would be more in line\nwith public goods, funding a projects development which can be a costly and\nunpredictable endeavor may not be the best way to produce growth imo. I will\nback track a bit as I see none of the grant will be used for development, with\nthat said when are you expected to launch Optimism network support?",
+      "created_at": "2022-08-28T13:52:58.922Z",
+      "trust_level": 2,
+      "username": "MoneyManDoug",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "No metrics yet, wait when you get metrics !",
+      "created_at": "2022-08-27T13:40:18.609Z",
+      "trust_level": 2,
+      "username": "berkery",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Could you provide the link to the site and twitter of the team? There is not\nmuch information",
+      "created_at": "2022-08-26T08:13:17.927Z",
+      "trust_level": 2,
+      "username": "AxlVaz",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Can you please add some metrics in your proposal. Should also edit and add those\nlinks to the site etc.",
+      "created_at": "2022-08-26T16:31:20.853Z",
+      "trust_level": 2,
+      "username": "MoneyManDoug",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Hi there,\n\nThank you for all your opinions. I misunderstood that this grant was not for\ndevelopment.\nI have updated some information for your reference and will apply again after we\nget the key metrics.\nWe will continue to contribute to the Optimism ecosystem.",
+      "created_at": "2022-08-29T06:23:00.675Z",
+      "trust_level": 1,
+      "username": "Tomo",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2022-08-26T06:33:44.723Z"
+}

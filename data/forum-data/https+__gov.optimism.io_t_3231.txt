@@ -1,0 +1,20 @@
+{
+  "title": "Owning protocols that bring TVL to OP",
+  "content": "Aave, Velodrome and PoolTogether have been extremely successful so far bringing\nTVL into Optimism. Shouldn’t we try to invest in those and have voting power?\nEventually Arbitrum (and other L2s) might release their token and steal part of\nour TVL.",
+  "views": 1846,
+  "like_count": 5,
+  "word_count": 119,
+  "answer": [
+    {
+      "content": "We at Velodrome currently have an active proposal suggesting something to this\nextent: [DRAFT] [GF: META] Proposal to reserve a share of GF distribution for\nliquidity backstopping and stronger governance\n[https://gov.optimism.io/t/draft-gf-meta-proposal-to-reserve-a-share-of-gf-distribution-for-liquidity-backstopping-and-stronger-governance/2969]\n\nIn addition, OP Labs currently already has ~5% vote power over Velodrome. We\nthink it’d be great for the Optimism Collective to have governance rights over\nother protocols to align decision-making and help coordinate core defi\noperations layerwide.",
+      "created_at": "2022-08-05T18:05:48.254Z",
+      "trust_level": 2,
+      "username": "jackanorak",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    }
+  ],
+  "created_at": "2022-08-05T12:50:24.406Z"
+}

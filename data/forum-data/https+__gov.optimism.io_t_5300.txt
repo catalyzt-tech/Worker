@@ -1,0 +1,60 @@
+{
+  "title": "Optimism Quest Retrospect and Future Direction",
+  "content": "Author:\n\n * CryptoKachu(katsu.philosophia@gmail.com [katsu.philosophia@gmail.com],\n   @CryptoKachu [/u/cryptokachu] )\n * Robbie OH(robbie@philosophiavc.com [robbie@philosophiavc.com],\n   @robbie_philosophia [/u/robbie_philosophia] )\n\nOptimism Quest Retrospect\nThe Optimism Quest has recently ended and the level of optimism network\nactivation demonstrated during the event was amazing. The daily transaction\nvolume and user count showed that Optimism outperformed Arbitrum. It’s worth\nmentioning that the level of participation during the Quest was remarkable.\n\nSpecifically, projects that participated in the quest (Kwenta, Pika Protocol,\nRubicon, Velodrome, Synapse Protocol) succeeded in making a lot of traction from\nOptimism users. Our analysis can be found in our dashboard here: Polygon,\nArbitrum, Optimism Comparison: Transaction Tendency and DEX Volumes\n[https://dune.com/philosophia_ventures/layer-2-comparison-from-user-perspective]\n\nPoints that should be addressed\nThe effect of the quest did not last long where we witnessed the sharp decline\nin the network activation right after the event. Please take a look at the below\nfigures: number of daily transactions per day with more than 10,000 transactions\nand number of daily transactions.\n\n\n\ndapp_activation.\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/8/897fa2c85ea053d50acf533281f543466b515820_2_690x199.png]\ndapp_activation.2061×597 90.7 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/8/897fa2c85ea053d50acf533281f543466b515820.png]\n\ntransaction_decline\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/2/2a94ade80c42954a154127b9c41e14b42feaea12_2_690x204.png]\ntransaction_decline1246×369 37.4 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/2/2a94ade80c42954a154127b9c41e14b42feaea12.png]\n\n\n\nFuture Direction\nAlthough the transaction volume has decreased now, what if we prepare for the\nnext phase? What if we think about ways that the Optimism Quest could help\nactivate optimism more sustainably and in the long term? And if we propose a\nQuest based on that, we may be able to make the next phase more successful.\n\nWays to do this include:\n\n * Conducting a protocol survey that helped Optimism grow as an L2 layer and\n   targeting a quest to accomplish this\n * Designing quests that align with the direction Optimism is heading, such as\n   TVL, Dex Volume, NFT Volume, etc.\n\nWould you be interested in analyzing and discussing these areas to help design\nthe next step of the Quest?",
+  "views": 2854,
+  "like_count": 97,
+  "word_count": 2850,
+  "answer": [
+    {
+      "content": "I totally agree with you. Even though Optimism quest has shown remarkable effect\nin activating the network, the effect does not last long. The real important\nissue to deal with is designing a neat quests to make the effect last longer.\n\nFor this, we should think about ways to provide effectual rewards to\nparticipants and effective quests that can help the network in the long run.",
+      "created_at": "2023-02-20T13:17:54.898Z",
+      "trust_level": 2,
+      "username": "CryptoKachu",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "In this reply, I want to share some idea about 1) evaluating the impact of the\nquest, and 2) determining the future purpose of the quest.\n\nEvaluating the impact of the Quest\nIt seems that in the twitter post\n[https://twitter.com/MSilb7/status/1617579463402717198] and the associated Dune\ndashboard [https://dune.com/oplabspbc/optimism-quests-project-usage-growth] you\nshared in your reply, the activity level is compared between two periods: before\n2022-09-19 and after 2023-01-18. Considering that the overall atmosphere in\ncrypto industry has changed a lot in 2023, we should filter out the external\neffects (overall expectation of the public on token prices, yield demands,\noverall liquidities and … etc)\n\nTo filter out the effects from external sources, we could design a comparative\nanalysis on several aspects similar to clinical studies (acutally, I have some\nbackground in medical researches). Only with comparison on various aspects, we\ncan enhance the probability that we can correctly assess the impact of the\nquest.\n\nI just brainstormed the analysis direction but each requires sophisticated\ndesign process.\n\n * comparing the growth with other L2 layers\n * comparing the growth with L1 layers\n * comparing the activities (pre/post Quest) of addresses between two groups:\n   who already used Optimism before the event vs who just started using Optimism\n   during the Quest\n\nIn evaluating the impact, I will look for some statistical techniques that can\nwipe out the effect from external sources. Furthermore, the changes should be\nobserved for short-term and longitudinal basis to correctly understand the\ncharacteristics of the Quest’s impact on Optimism.\n\nDetermining the future direction\nI perfectly agree with your statement that the quest is successful in terms of\n“make Optimism more accessible for both new & experienced users.”. First of all,\nhowever, as I stated in the “Evaluating the impact of the Quest”, we should\nassess the impact in a more sophisticated/various aspects with longitudinal\nobservations.\n\nAnother point I want emphasize in this post is that we should discuss “whether\nwe can elaborate or further develop the purpose based on the retrospect on the\nQuest”. As we witnessed that the Quest have powerful impact on attracting user’s\nengagement, with more elaborate purpose and strategies, I believe we can utlize\nsuch event as one of the powerful fuel to drive the Optimism growth. This is the\npoint I want to discuss in the governance post.\n\nThank you posting your feedback and really nice inputs. I hope to listen about\nabout thoughts on the above issues!",
+      "created_at": "2023-02-22T01:43:48.034Z",
+      "trust_level": 2,
+      "username": "CryptoKachu",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "Thank you for the valuable reply.\n\nI have a different opinion. Even though the Optimism team might have a clear\nidea about the next quests, community members can take part to gather collective\nintelligence about how to design the next steps for the Optimism quest.\n\nSince it is just the first season of the event, we need to retrospect the quest\nand talk about better ways to make it a better one next time. Especially, in\nterms of the sustainability of the quest effect, we should find a better way to\nmake longer quest effects.\n\n 1. Sharp decline in transaction count right after the event\n    \n    \n    transaction_decline\n    [https://europe1.discourse-cdn.com/bc41dd/optimized/2X/2/2a94ade80c42954a154127b9c41e14b42feaea12_2_690x204.png]\n    transaction_decline1246×369 37.4 KB\n    [https://europe1.discourse-cdn.com/bc41dd/original/2X/2/2a94ade80c42954a154127b9c41e14b42feaea12.png]\n    \n    \n\n 2. dApps become inactive right after the quest\n    ( I just visualize the contracts with more than 10,000 transaction per day)\n    \n    \n    dapp_activation.\n    [https://europe1.discourse-cdn.com/bc41dd/optimized/2X/8/897fa2c85ea053d50acf533281f543466b515820_2_690x199.png]\n    dapp_activation.2061×597 90.7 KB\n    [https://europe1.discourse-cdn.com/bc41dd/original/2X/8/897fa2c85ea053d50acf533281f543466b515820.png]\n    \n    \n\nBy addressing the problem that quest effect only maintains for a short time, we\ncan make the quest to be one of ways to activate Optimism in the long run.",
+      "created_at": "2023-02-20T13:12:00.830Z",
+      "trust_level": 2,
+      "username": "CryptoKachu",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "Note: I work at OP Labs, but making this comment in my personal capacity\n\nHey, awesome to see more analyses on Optimism & thanks for sharing here!\n\nWe’ve historically seen that programs like quests can get overrun by sybil\nattacks and massive farming operations (qualitatively, this was observed during\nOptimism Quests as well). So if the total usage number is known to be skewed, a\nlarge off drop post-quests should be expected.\n\nThe stated purpose\n[https://twitter.com/optimismfnd/status/1572284493318488070?lang=en] of the\nprogram was to “make Optimism more accessible for both new & experienced users.”\nSo, comparing usage in the post-quest period versus the pre-quest period could\nget us closer to measuring the impact.\n\nThe Optimism Quests - App Growth on Optimism After Quests :tv:\n[https://emoji.discourse-cdn.com/twitter/tv.png?v=12]:sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]\n[https://dune.com/optimismfnd/Optimism-Project-Usage-Trends] dashboard takes\nthis approach. In the 30-days post-quests, we saw a +47% growth in all Optimism\ntransactions post-quests vs pre-quests, and +100% growth among apps such as\nPooltogether, Granary, Rubicon, Beethoven X, and more. While this still isn’t a\n~perfect measure, I think the time-period selection gets us closer to a quality\nread.\n\n~Early insights were shared here\n[https://twitter.com/MSilb7/status/1617579463402717198], but ideas for next\nsteps could include benchmarking this against overall L2/L1 usage growth. It’s\nstill unclear if quests had an impact, or if this growth would’ve happened\nanyway.\n\n\nimage\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/a/aa9eb12700a0202de54c2455f3f4f71f48720c08_2_690x222.png]\nimage2980×960 266 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/a/aa9eb12700a0202de54c2455f3f4f71f48720c08.png]\n\n\n\nOther scattered notes:\n\n 1. For raw transaction count, I recommend filtering out system addresses\n    [https://github.com/duneanalytics/spellbook/tree/main/models/labels/infrastructure/identifier/system_addresses]\n    (labels.system_addresses table - example query\n    [https://dune.com/queries/1064888/1829036] using this). Optimism has a\n    system transaction ~every L1 block, Arbitrum has one ~every L2 block\n    (Optimism will have this in Bedrock). So, raw transactions can be a skewed\n    indicator for L2s if the goal is to measure “user activity”.\n\n 2. Glad to see you used our queries\n    [https://dune.com/optimismfnd/Optimism-Project-Usage-Trends] & project\n    tagging tables! Dune also has a “fork” function, which may help readers\n    attribute queries back to the original source if that’s desired for you all.\n\nDefinitely happy to provide feedback if you all continue with these kinds of\nanalyses!",
+      "created_at": "2023-02-21T18:58:23.913Z",
+      "trust_level": 2,
+      "username": "MSilb7",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "Great point that the quests that ended is only the first season, which was\nwritten about in the docs (can’t remember where, exactly, but I definitely saw\nthat information when I was tweeting the thread about it)\n\nSo yeah, there are definitely more quests ahead of us, but don’t you think it’s\nmore likely that they could be an increase in community engagement in the first\nplace\nFrom this fact also follows the point that it is quite possible it will be used\nfor the following drops\n\nMy opinion on this is that the team most likely already have a clear idea of\ntheir next steps is in the direction of developing quests / something similar to\nengage the community\n\nWhat do you think about that?",
+      "created_at": "2023-02-19T18:08:04.744Z",
+      "trust_level": 2,
+      "username": "Mark.eth_De.Fi",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    }
+  ],
+  "created_at": "2023-02-19T12:06:52.317Z"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Appreciating the Governance team",
+  "content": "I have been lurking in the OP governance forum and reading through various\nproposals and discussions. Being a token holder and keenly interested learning\nabout governance model, I have been following the updates on how OP DAO is\nlooking at handling governance and keeping it transparent, diverse, engaging and\ncommitted.\n\nI always believed the DAO to be:\n\n 1. Collaborative\n 2. Transparent\n 3. Respectful\n 4. Decentralized as much as it can\n 5. Community and Stakeholder focused\n\nThe initiatives and processes by the OP are welcoming and collaborative. The\nthought process has clarity, roadmap and goal. Be it Token House and Citizens’\nHouse initiative or on chain voting process, proposal mapping and scrutiny.\nI would like to put up an appreciative message to all involved and keep up the\ngood work.",
+  "views": 1277,
+  "like_count": 17,
+  "word_count": 144,
+  "answer": [
+    {
+      "content": "Appreciate is such a kind gesture.",
+      "created_at": "2023-03-31T03:25:09.710Z",
+      "trust_level": 1,
+      "username": "Riddhi",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "That’s great. KUTGW.",
+      "created_at": "2023-03-31T04:32:52.016Z",
+      "trust_level": 1,
+      "username": "Ritu",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "KUDOS and all the best",
+      "created_at": "2023-04-01T09:18:43.097Z",
+      "trust_level": 0,
+      "username": "Nazia",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2023-03-28T05:24:25.584Z"
+}

@@ -1,0 +1,9 @@
+{
+  "title": "About the Citizens  👥 category",
+  "content": "This category is for all things relating to Citizens!\n\nWhat are Citizens?\nCitizens are members of the Citizens’ House, which comprises one half of the\nCollective’s governance system. The Citizens’ House operates a reputation-based\ngovernance system (one member = one vote), and is primarily responsible for the\nallocation of retroactive public goods funding.\n\nWho are Citizens?\nCitizens represent individual human stakeholders of the Collective: builders,\nusers, and community members who are aligned with the project’s values and are\ninterested in the long-term benefit of the Collective.\n\nWhat do Citizens Do?\nThe Citizenship process is evolving! Currently, Citizens are responsible for:\n\n * Allocating Retroactive Public Goods Funding\n   [https://gov.optimism.io/c/retrofunding/46]\n * Vetoing Protocol Upgrades\n   [https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md#veto-procedure]\n\nHow are Citizens’ Selected?\nCitizenship has been distributed via a web-of-trust mechanism to date. In the\nfuture, Citizenship criteria will be defined by the Citizens themselves in a\nprocess managed by governance. You can join the conversation on Future\nCitizenship Selection Criteria\n[https://gov.optimism.io/t/future-citizenship-selection-criteria/6558] here.",
+  "views": 2658,
+  "like_count": 2,
+  "word_count": 186,
+  "answer": [],
+  "created_at": "2024-02-01T18:04:40.374Z"
+}

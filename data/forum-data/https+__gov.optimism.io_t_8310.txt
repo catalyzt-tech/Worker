@@ -1,0 +1,50 @@
+{
+  "title": "GovNFT and Governance Participation Curriculum",
+  "content": "GOVNFT PILOT PROGRAM\n\nHi Everyone,\n\nThe purpose of this post is to seek feedback on a general curriculum for\nparticipation in Optimism Governance.\n\nSpecifically, this curriculum will be used to create incentive-based activities\nfor GovNFT holders as part of this grant\n[https://app.charmverse.io/op-grants/velodrome-finance-governance-participation-23531902138656102].\nThe goal is to design a “curriculum” for the best way for new governance\nparticipants to engage in meaningful governance activities, which can hopefully\nbe expanded in the future.\n\nWhat are GovNFTs?\nGovNFTs are a general-purpose governance primitive built by the Velodrome team.\nAs many of you know, tokens for builders’ grants have a 1-year lock. Delegations\nhave been made on these locked tokens in the past but require manual work from\nthe foundation to do so. GovNFTs are an audited smart contract that can keep the\ntokens “locked” while at the same time allowing the builder to fluidly\nparticipate in Optimism Governance.\n\nWhat is this program?\nTo test this primitive before expanding to the broader set of Optimism builder’s\ngrantees, we are creating a pilot program as outlined in this grant\n[https://app.charmverse.io/op-grants/velodrome-finance-governance-participation-23531902138656102].\nThis pilot program makes available 25K OP to incentivize and reward existing\nGovNFT holders for valuable participation in Optimism governance. The initial\nset of users is 200+ users and protocols who have previously earned GovNFTs\nthrough previous grants on Velodrome. A series of activities will be assigned a\npoint value. The 25k OP will be distributed among participants in the pilot\nbased on a weighted average of points. The activities and their potential point\nvalues are as follows.\n\nThis is a draft; the goal is to improve the following based on feedback from the\ncommunity. If you have any ideas for changing or adding activities, please\noutline them in this thread.\n\n\nINCENTIVIZED ACTIVITIES:\n\nDelegation\n\n * Delegate to an active delegate on-chain (3 points)\n * Post in a program-specific “delegate selection thread” and answer the\n   following questions on why you chose that delegate (12 points)\n   * Example questions\n     * What delegate did you choose?\n     * Why do you think this is a good delegate?\n     * In what ways is this delegate aligned with you?\n     * What about their delegate profile/statement do you like?\n     * What is this delegate’s voting percentage in the last 10 votes?\n\nForum Participation\n\n * Make a thoughtful post in our “bi-weekly governance topic thread” (6 points)\n   * This thread will be created every two weeks by the GovNFT champion and\n     cover a current topic in governance.\n   * The idea is that it is a governance “sandbox” for this pilot to avoid spam\n     in other threads, however, all governance community members are encouraged\n     to participate.\n   * “Spam” responses as judged by the GovNFT Champion will have 6 points\n     deducted.\n   * The most thoughtful response in each thread, as judged by the GovNFT\n     Champion, will be awarded an additional 20 points.\n\nCommunity Calls\n\n * Attend a community call (10 points)\n * Post in a program-specific GovNFT thread after the call (10 points)\n\nBecoming a Delegate\nThis path will only be available to those who already have 7,500 OP or more in\ntheir GovNFT.\n\n * Tasks:\n   * Post a delegate statement (25 points)\n   * Delegate to yourself (15 points)\n   * Introduce yourself in a community call (25 points)\n   * Vote in an election cycle (25 points)\n\n\nGUIDING PRINCIPLES\n\nIdeally, the activities outlined directly contribute to the governance intents\nof Season 6 and also Season 5, such as meaningfully driving delegation and\ndistribution of votable supply among a broad set of specific stakeholders,\nincreasing the delegated supply of OP, and increasing the average OP voted per\ngovernance proposal.\n\nWe explicitly want to disincentivize any low-effort behavior that would reduce\nthe quality of discussion on the forums. For that reason, much of the forum\nparticipation outlined above is based on participation in program-specific\nthreads.\n\nWe also want to keep in mind the potential for these activities to become a\ntemplate for new participants in governance. For example, a new builder in the\necosystem may receive a builder’s grant. They can use the activities outlined\nabove as a guide for the best way to get started in governance.\n\nI’m looking forward to your feedback!\nMichael :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12] :sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]",
+  "views": 416,
+  "like_count": 23,
+  "word_count": 856,
+  "answer": [
+    {
+      "content": "Finalize and roll out the program in the next few weeks and then 6 months from\nthe grant approval to finish the program (~4.5 months from now).",
+      "created_at": "2024-06-19T15:36:54.501Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Very well thought out activity incentive structure. Not sure if there is much I\ncan add but I will think.\n\nWhat is the timeline for this?",
+      "created_at": "2024-06-19T13:55:39.012Z",
+      "trust_level": 2,
+      "username": "Jrocki",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "This is great. What I like about this is that it’s not just worked out to\nencourage more participation among the potential grantees here but also going to\nlead to some good data gathering for us as we determine what’s going to be\nimportant to people who are being thoughtful about their governance\nparticipation decisions",
+      "created_at": "2024-06-21T16:26:24.696Z",
+      "trust_level": 2,
+      "username": "jackanorak",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "I would like to know how to get GovNFT, We are currently a top 100 delegate on\nagora and I don’t know the way to get GovNFT or apply for it at the moment, can\nanyone tell me?\nThank you",
+      "created_at": "2024-07-29T18:11:26.664Z",
+      "trust_level": 2,
+      "username": "Marcus01",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2024-06-15T20:55:25.607Z"
+}

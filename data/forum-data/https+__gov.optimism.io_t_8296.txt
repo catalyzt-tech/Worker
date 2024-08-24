@@ -1,0 +1,60 @@
+{
+  "title": "[Mission Request]: Intent #3B: Support the Superchain",
+  "content": "Intent 3 is subdivided into two portions:\n\n * Intent 3A: OP Mainnet Mission Requests will be created by The Grants Council\n   and approved by the Token House\n * Intent 3B: One Superchain Grant Mission Request will be created by The\n   Foundation and approved by the Token House\n\nThere will be one Mission Request under Intent 3B, proposed by the Foundation.\n\n--------------------------------------------------------------------------------\n\n\nMISSION REQUEST INTENT #3B: SUPPORT THE SUPERCHAIN\n\n\nSUPPORT THE SUPERCHAIN\n\nMission Request Summary: L2 Chains listed in the Superchain Registry\n[https://gov.optimism.io/t/season-6-introducing-blockspace-charters-superchain-first-governance/8133#superchain-registry-5]\n(or similar) will be able to request OP to make grants within their own\necosystems. This is similar to Distributed Domain Allocation and creates a\nscalable strategy to support the broader Superchain by empowering OP Chains to\nleverage their ecosystem specific expertise.\n\nS6 Intent [https://gov.optimism.io/t/season-6-intents-ratification/8104]: Intent\n3B\n\nProposer: Optimism Foundation\n\nTotal grant amount: 12M OP (approved as part of the Intent budget)\n\nShould this Mission be fulfilled by one or multiple applicants: Multiple\n\nHow will this Mission Request help accomplish the above Intent?\n\n * To grow faster and scale Ethereum more effectively, the Collective must\n   support the Superchain, a network of OP Chains building together. OP Chains\n   on the Superchain contribute revenue back to the Optimism Collective, and\n   share in the Collective’s security, governance-approved upgrades, retroactive\n   public goods funding, and ecosystem support. While the Grants Council will\n   otherwise support application developers on OP Mainnet, this Mission will\n   support the distribution of grants to spur developer growth across the\n   Superchain, an important component of Intent #3: Grow application developers\n   across the Superchain.\n\nWhat is required to execute this Mission Request?\n\n * The Grants Council will process applications from OP Chains requesting tokens\n   to run their own grants program but will not process individual grant\n   applications for other OP Chains.\n\n * While grant decisions will ultimately be determined by the Grants Council,\n   the Foundation suggests an objective framework like the below for relative\n   allocation under this Mission Request:\n   \n   * We suggest allocating 65% of the Intent 3B Budget to OP Chains already in\n     the Superchain, distributed pro-rata based on contribution to the\n     Collective to date (excluding OP Mainnet).\n   \n   * We suggest reserving the remaining 35% of the Intent 3B Budget for new OP\n     Chains, defined as having launched mainnet within the last six months,\n     joining the Superchain throughout the Season. In the case of new Chains, we\n     recommend budget be allocated according to the Foundation’s Superchain\n     Health Dashboard\n     [https://docs.google.com/spreadsheets/d/1f-uIW_PzlGQ_XFAmsf9FYiUf0N9l_nePwDVrw0D5MXY/edit?usp=sharing].\n   \n   * We suggest a cap of 3M OP for any individual L2 OP Chain, to prevent winner\n     takes all dynamics.\n   \n   * OP Chains should be able to apply in any grants cycle throughout Season 6\n     to accommodate new chains coming online.\n\n * Requirements for participating chains:\n   \n   * OP Chains are expected to disclose:\n     \n     * (i) the amount of unlocked tokens they’ve received to date from the\n       Foundation, and\n     * (ii) the total amount of their Foundation grant size.\n     * no additional Foundation grant deal terms are to be disclosed\n   \n   * Qualifying OP Chains do not have to have an existing public grants program\n     in order to apply.\n   \n   * OP Chains should brand these grants as “supported by the Optimism\n     Governance Fund.”\n   \n   * Participating OP Chains are encouraged to make grants consistent with\n     approved Mission Requests under Intent #3A.\n   \n   * Participating OP Chains are highly encouraged to coordinate with the Grants\n     Council on best practices to create a consistent grants application process\n     across the Superchain and to avoid repeating mistakes we’ve already learned\n     from. The Grants Council may design mechanisms to facilitate shared\n     learnings and/or OP Chains applying to this program may be required to\n     collaborate with the Grants Council to adapt best practices.\n   \n   * Grants made by OP Chains will also be subject to the Collective Grant\n     Policies [https://gov.optimism.io/t/collective-grant-policies/5833]. These\n     policies include standard lock-up policies and stipulate that OP Chains\n     must not use their grants to run grant programs that directly target users\n     from any other OP Chain (e.g. making grants to migrate protocols or users\n     from Mainnet to another chain).\n   \n   * OP Chains participating in this program will be required to sign an\n     agreement with the Foundation.\n\nHow should governance participants measure impact upon completion of this\nMission?\n\nMilestones:\n\n * Grants to OP Chains will be subject to the typical milestone based delivery\n   and assessment process. The Milestones and Metrics committee will assess\n   completion of milestones, as usual.\n * Any tokens not granted via OP Chain grants programs at the end of 12 months\n   shall be returned to the Governance Fund.\n\nMetrics:\n\n * Participating OP Chains must publish a retrospective at the soonest of the\n   completion of their grant or within 12 months of grant delivery demonstrating\n   the impact of grants made on the target metric under Intent #3 (number of\n   active developers.)\n * OP Chains are required to capture the contracts deployed by each grant\n   recipient so impact analysis is possible. It is recommended that grant\n   recipients also create a project in the Retro Funding app.\n * [We suggest collecting information on the Foundation’s metric menu to\n   facilitate comparable analysis.]\n\nImpact:\n\n * The impact of OP Chain grants programs should be assessed relative to\n   outperformance on the metrics stated in the application and relative to the\n   impact generated by the Grants Council under Intent #3A.\n\nHas anyone other than the proposer contributed to this Mission Request? The\nFoundation has received feedback from the Season 5 Grants Council and the\nCollective Feedback Commission.",
+  "views": 963,
+  "like_count": 21,
+  "word_count": 1246,
+  "answer": [
+    {
+      "content": "We’ve received several questions about the eligibility criteria for this\nprogram. The Foundation would like to clarify that the original intent of this\nprogram was that it would apply only to L2 Chains that are contributing revenue\nto the Collective. You can see that in the suggested framework, which suggests\nallocations be made “pro-rata based on contribution to the Collective to date”\nand that a portion of allocation be reserved for new chains “defined as having\nlaunched mainnet within the last six months.”\n\nNothing about the suggestions made in the original proposal have changed.\nHowever, a spreadsheet was linked in this proposal that also included chains\nthat have only launched on testnet and this caused some confusion among\napplicants. That spreadsheet was shared across multiple teams, creating a\ndependency that we should have monitored more closely.\n\nThe Grants Council has furthered clarified the framework they will use to\nadminister this program here: CharmVerse - The Network for Onchain Communities\n[https://app.charmverse.io/op-grants/superchain-grants-8254753239936692]\n\nIt’s important to remember that the authority to determine the framework by\nwhich these grants are distributed has always been granted to the Grants Council\nas stated here:\n\n> While grant decisions will ultimately be determined by the Grants Council, the\n> Foundation suggests an objective framework like the below for relative\n> allocation under this Mission Request",
+      "created_at": "2024-08-16T18:05:13.262Z",
+      "trust_level": 4,
+      "username": "system",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 4
+    },
+    {
+      "content": "@mbuffara [/u/mbuffara] @PeaceY [/u/peacey] Here’s the form template to apply:\n\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/3/3c5ff1e079a3a97de5d809f51cc0d63c0bbc1ba9.png]\napp.charmverse.io\n[https://app.charmverse.io/?returnUrl=%2Fop-grants%2Fproposals%2Fnew?template=ddfc92df-a86e-4a56-a3e6-a25a18c6df45]\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/2/2ed271296cf85dd4fbc83b28754253613a20b693_2_644x499.png]\n\n\nCHARMVERSE\n[https://app.charmverse.io/?returnUrl=%2Fop-grants%2Fproposals%2Fnew?template=ddfc92df-a86e-4a56-a3e6-a25a18c6df45]\n\nThe Network for Onchain Communities. Manage grants. Connect with builders. Forge\nnew ideas.\n\n\n\n\nmake sure to join the space with this link\n[https://app.charmverse.io/invite/5e28cc]\n\ncheers!",
+      "created_at": "2024-07-24T09:03:42.790Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 2
+    },
+    {
+      "content": "Hey @mbuffara [/u/mbuffara] - applications for qualifying OP Chains listed here\n[https://docs.google.com/spreadsheets/d/1CRXo9YcP9fzJZxmKmEbNcPkZebgpUBMKo63HUhDKy2U/edit?gid=0#gid=0]\n(eventually in the Superchain Registry) will open in the next few days. This\npost will be updated with a link to apply once its ready :pray:\n[https://emoji.discourse-cdn.com/twitter/pray.png?v=12]",
+      "created_at": "2024-07-17T19:27:49.170Z",
+      "trust_level": 4,
+      "username": "maxwell",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "How do Chains Apply for this grant?",
+      "created_at": "2024-07-17T18:43:45.335Z",
+      "trust_level": 1,
+      "username": "mbuffara",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "can you share the template of the form?",
+      "created_at": "2024-07-17T22:03:10.708Z",
+      "trust_level": 1,
+      "username": "mbuffara",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-06-13T12:07:58.298Z"
+}

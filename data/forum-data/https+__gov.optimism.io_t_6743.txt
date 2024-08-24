@@ -1,0 +1,30 @@
+{
+  "title": "How to get airdrop#3",
+  "content": "how to get airdrop#3",
+  "views": 458,
+  "like_count": 3,
+  "word_count": 24,
+  "answer": [
+    {
+      "content": "no airdrop 3 ， just gas fee LOL",
+      "created_at": "2023-09-06T14:54:25.086Z",
+      "trust_level": 2,
+      "username": "ETH3333",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "When you kmow please enlighten me as well :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12] best of luck\nbuddy!",
+      "created_at": "2023-09-08T20:50:58.993Z",
+      "trust_level": 2,
+      "username": "artespraticas",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2023-09-06T12:38:29.535Z"
+}

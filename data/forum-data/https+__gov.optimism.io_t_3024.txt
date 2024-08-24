@@ -1,0 +1,60 @@
+{
+  "title": "[READY] [GF: Phase 1 Proposal] GARD",
+  "content": "Project Name: The GARD Protocol\n\nAuthor Name(s): Rylie Rueda, Ryan Soscia, and David McCabe\n\nNumber of OP tokens requested: 1,000,000 OP tokens\n\nL2 Recipient Address: 0x9C669a3d5915F6e210Eb453393F4F0D1bBE30EDd\n\nRelevant Usage Metrics: (TVL, transactions, volume, unique addresses, etc.)\n\n * Currently, GARD has more than 8M ALGOs locked in TVL and has done over $1M in\n   loans of its stablecoin (source: GARD Protocol: TVL and stats - DefiLlama\n   [https://defillama.com/protocol/gard-protocol]). We have hundreds of active\n   users with a high water mark of 1725 unique addresses that had opened\n   positions at once i.e. collateralized debt positions (CDPs), which are\n   requisite to borrow GARD.\n\nOptimism alignment (up to 200 word explanation):\n\n * The GARD Protocol is excited and humbled for the opportunity to build our\n   first cross-chain solution on Optimism.\n * There is a massive appetite for DeFi and stable yields on Optimism, which our\n   protocol would provide. Inspired by MakerDAO, and improved with ideas from\n   Olympus, Liquidity, as well as other protocols, we have the solution Optimism\n   is looking for to ignite DeFi and accelerate decentralization of the network.\n   The GARD Protocol is a battle-tested evolution of Maker that revolutionizes\n   governance, facilitates borrowing and staking, and forms a foundation for\n   other financial markets (e.g. bonds).\n * We will build the necessary infrastructure for OP to increase adoption\n   including our overcollateralized, fully decentralized stablecoin as well as\n   offer both fixed yield products and stable staking opportunities for the\n   ecosystem which will benefit native DEXs, lending platforms, and the like.\n * We will be purchasing liquidity (and locking it) at a premium in perpetuity\n   to be ignited by grant funds, and continued with governance tokens and\n   protocol revenues. We will partner with a native DEX of the community’s\n   choice to ensure ample liquidity, boosted Optimism TVL, and future revenues\n   generated via trading fees.\n * With appropriate support and adoption our protocol will place deflationary\n   pressure on OP token supply by continually locking OP tokens in smart\n   contracts.\n\nProposal for token distribution (under 1000 words):\n\nHow will the OP tokens be distributed?\n\n * Development/Security: We are a funded team; however, allocating a small\n   portion of the funds received to development and security is essential\n   (10-20%) to ensure we prioritize building on Optimism and get at least one\n   comprehensive audit of our WebApp and smart contracts.\n * LP Token Buying (80-90%): A key feature of our protocol is its ability to buy\n   up its own liquidity and pay a premium for it. We will do so with the\n   protocol’s native governance token and the protocol’s stablecoin as received\n   as revenue generated via protocol operation in perpetuity.\n * In order to jump start this process, we propose dedicating the vast majority\n   of OP tokens received to pay an even higher reward for initial LP token\n   buying at a premium to support the protocol. When the protocol launches it\n   will be the most important time to educate users and reward them for taking\n   the most risk. We will give users the option to get governance tokens at a\n   significant discount for LP tokens, get granted OP and governance tokens at a\n   smaller premium, or straight OP back at an even smaller premium. This\n   kickstart will accomplish several things. First, it will ensure that the\n   protocol has its own liquidity in perpetuity on day one. Second, by buying LP\n   tokens we will be incentivizing users to stake their OP, use the DEX of their\n   choice, and borrow our stablecoin.\n * Once we own the liquidity it will never leave the protocol and create lasting\n   value across the ecosystem. It will also show confidence in the protocol and\n   inspire more users to get in and take advantage of the many facets of the\n   platform that leverage their OP exposure and increase overall ecosystem\n   composability. This method of buying liquidity is unique in that it does not\n   rely on 3,3 or any other “game theory” that is designed to dump on late\n   adopters as previous iterations of DeFi 2.0 have. It’s also creating value\n   for the early adopters because they will govern the protocol and be entitled\n   to a portion of protocol rewards in perpetuity via the governance tokens\n   should they choose to hold them.\n\nHow will this distribution incentivize usage and liquidity on Optimism?\n\n * By creating a native decentralized stable on Optimism we will enable OP token\n   holders to leverage their OP tokens. This leverage will allow them greater\n   composability on the network to do whatever they please whether it’s buying\n   the dip, buying NFTs, staking their funds, or loaning them out to other users\n   for even more yield.\n\nWhy will the incentivized users and liquidity remain after incentives dry up?\n\n * By buying LP tokens and having the protocol lock them in/permanently hold\n   them we will guarantee that this liquidity stays on a native DEX of the\n   community’s choice in perpetuity and creates long term value for us,\n   Optimism, and the partner platform native to Optimism. Further, because our\n   system is inherently deflationary, the more people that use our protocol the\n   more OP tokens will get locked up and the less supply there will be on the\n   open market. Finally, even once OP token incentives dry up users will\n   continue to earn governance tokens and as they own the protocol they will be\n   more likely to continue using it.\n\nOver what period of time will the tokens be distributed?\n\n * The tokens will be distributed in accordance with community appetite and it\n   will depend on many factors such as how much liquidity the protocol envelops,\n   the price that our governance token trades at, and how much revenue our\n   protocol generates which will, of course, supplement liquidity purchasing. We\n   would imagine that the tokens could be titrated over a period of time between\n   a few months to several years depending on community consensus.\n\nHow much will your project match in co-incentives?\n\n * Given that our protocol will be using its governance tokens as incentives to\n   buy up liquidity in perpetuity/until they run out we will commit 10-50% of\n   the tokens (dependent on cross-chain/interoperability approach) to the\n   community for these endeavors after setting aside tokens for advisors, team\n   members, and early backers.",
+  "views": 3954,
+  "like_count": 13,
+  "word_count": 2346,
+  "answer": [
+    {
+      "content": "Voting no. 1m $OP tokens is an extravagant amount and we have actively tried to\nnot approve proposals of this size.\n\nAlso the description of how the entire thing works leaves a lot of question\nmarks. It sounds as if you want to get people to buy into your governance tokens\nand use OP tokens to do it? So you would dump OP to buy your token?\n\nAlso you are not yet on Optimism?\n\n>  1. We will post a longer response about distribution schedule soon to add\n>     clarity here.\n\nThis should have been done before the proposal goes on a vote. This proposal has\nbeen up for a vote for a week already. Please finalize proposals before sending\nthem up for a vote. Talk a bit with delegates, both here and in discord to\ngather feedback so that you can adjust your proposal before it goes on a vote.\n\nYou may find that this way it would do a lot better.",
+      "created_at": "2022-07-26T15:39:38.799Z",
+      "trust_level": 2,
+      "username": "lefterisjp",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "[Final]\n\nVoting: No\n\nAmount requested is considered unreasonable, taking into account that the\nprotocol is not deployed in Optimism yet and track record is not impressive, so\nit does not fit with the potential benefits to the ecosystem.\n\n * Contribution: Standard\n * OP distribution: Neutral\n * Co-incentives: Not confirmed\n * Impact in LATAM: Neutral\n\nSuggestions: a further deployment showing utility with some TVL, community\ninterest and lowering the requested amount can help in a possible next round.",
+      "created_at": "2022-07-30T21:35:53.877Z",
+      "trust_level": 2,
+      "username": "Joxes",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Definite no from me. A massive ask of 1 million OP with 10-20% going directly to\nthe team with no timeframes of any distributions.\n\nIn addition, the remaining 80-90% will be used to buy up liquidity of their\ntoken so the granted OP will be also immediately dumped.",
+      "created_at": "2022-07-22T02:19:07.991Z",
+      "trust_level": 2,
+      "username": "OPenthusiast",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Voted: No\n\nAs other have suggested, amount requested is too high and proposal is not\naligned with gov fund.\nPlease proposals from last gov phase, modify your proposal and submit again.",
+      "created_at": "2022-07-22T14:50:43.988Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "A lot of words but really vague… maybe a bit too early?\n\nIf you declare being a funded team wouldn’t allocating funding to auditing the\nEVM implementation be one of the first things to do?\n\n> we will commit 10-50% of the tokens … after setting aside tokens for advisors,\n> team members, and early backers.\n\nCould use more insight on this number - with the range given it is really not\nsaying much",
+      "created_at": "2022-07-25T14:09:10.971Z",
+      "trust_level": 2,
+      "username": "panukresko",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2022-07-18T19:51:51.141Z"
+}

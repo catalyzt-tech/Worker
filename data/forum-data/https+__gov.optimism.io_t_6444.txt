@@ -1,0 +1,20 @@
+{
+  "title": "Please help me out",
+  "content": "Ever since I got OP it’s been the most miserable experience I don’t know why my\ntokens are leaving my wallet and going to a governance vault. I didn’t put them\nthere. I’m keep trying to connect to web3 on op etherscan to revoke the contract\nI was able to alter the contract, and change a bunch of stuff around im so over\nnot being helped Coinbase does nothing my coins are just locked away with some\naddress I don’t know but somehow belongs to me? Can anyone just look at this for\nme please I’m begging you I will never be able to keep OP on Coinbase this is so\nwrong",
+  "views": 694,
+  "like_count": 0,
+  "word_count": 139,
+  "answer": [
+    {
+      "content": "I talked to that AI HE DONT HELP FORGET IT IM GETTING A LAWSUIT AGAINST THIS\nCOMPANY",
+      "created_at": "2023-07-14T23:59:03.000Z",
+      "trust_level": 1,
+      "username": "Realrobwood",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2023-07-14T20:47:47.710Z"
+}

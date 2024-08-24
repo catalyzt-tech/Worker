@@ -1,0 +1,50 @@
+{
+  "title": "Season 4 Grants Council Kickoff",
+  "content": "We are excited to announce that the Grants Council has opened proposals for\nSeason 4.\n\nSeason 4 will consist of three Cycles (13-15). This post will cover some basic\ndetails and discuss some improvements relative to Season 3.\n\nThe primary location to follow the Council’s activities, to submit forms, and to\ntrack proposals will be the Council’s landing page. The Season 4 Landing Page\ncan be found here [https://app.charmverse.io/op-grants/page-701220845245208].\nNote that the Season 3 page has been deprecated and will exist as an archive.\n\nProposers should log in to CharmVerse here\n[https://app.charmverse.io/invite/5e28cc] and then navigate to the proposals\npage [https://app.charmverse.io/op-grants/proposals] to submit proposals.\nProposers can see the Season 4 calendar here\n[https://app.charmverse.io/op-grants/page-16376768195478353]. For a step-by-step\nguide to submitting a proposal, please review this page\n[https://app.charmverse.io/op-grants/page-7465102160430976]. Proposals can be\nsubmitted for Cycle 13 through June 22 at 19:00 GMT.\n\nFor proposers, there are three tracks to consider: Builders, Experiments, and\nRequests for Grants (RFGs).\n\n * Builders: these grants are intended to maximize the number of builders\n   (developers and visionaries) building novel applications on Optimism. Novel\n   applications are a focus for the Council’s intent this season and the\n   proposal forms are designed to elicit information that will help reviewers\n   determine to what degree the proposer is building a project that furthers the\n   Builders mission. You can learn more about the Builders Sub-Committee here\n   [https://app.charmverse.io/op-grants/page-13972604474186334].\n\n * Experiments: these grants are intended to maximize the adoption of (a) novel\n   applications and (b) tangible use cases on Optimism. Experiments grants are\n   designed to reach end users and are not intended for the use of the proposer.\n   The proposal forms are designed to elicit information that shows how the\n   proposers project and plan for implementation will extend the reach of the\n   Optimism ecosystem and enhance the adoption of novel and useful applications.\n   You can learn more about the Experiments Sub-Committee here\n   [https://app.charmverse.io/op-grants/page-6101609328023982].\n\n * Requests for Grants (RFGs): these grants represent a transitional moment.\n   Often grants programs are designed to satisfy supply-based grants.\n   Supply-based granting is implemented by providing grants to those grantees\n   who show up. RFGs endeavor to create demand-based granting. The RFG track\n   will focus on determining the needs of the Optimism ecosystem and issue\n   requests for teams to submit proposals that solve problems that have the\n   highest demand. To that end, the Council will issue requests in each cycle.\n   Each request will specify what the Council seeks, how to submit a proposal\n   for the request, and how the proposals will be assessed. The draft procedures\n   for the RFG process can be found here\n   [https://app.charmverse.io/op-grants/page-8605404489342339] and may be\n   updated over the course of the coming week.\n\nThis Season has some new processes.\n\nFirst, we are thrilled that Syndicate has created a mechanism for the community\nto provide co-grants for Builders and RFG grants that enable proposers who have\nlimited up-front funding to access community grants of USDC up-front. While this\nprocess is not managed by the Grants Council, the Council is thrilled that\nnearly $100k has already been made available through community donations. You\ncan learn more about the co-granting process here [https://match.optimism.io/].\n\nSecond, the Grants Council has migrated its landing page and proposal\nsubmissions process to CharmVerse. This was based on consistent integration\nissues with the Governance Forum. The Council is endeavoring to ensure that the\nproposals made on CharmVerse will be replicated on the Forum. However, the\ncommunity should post comments on CharmVerse. This decision was made by the\nGrants Council operations manager (@Gonna.eth [/u/gonna.eth]). You can read\nabout the process he followed to make the decision here\n[https://gov.optimism.io/t/the-rationale-behind-the-new-grants-council-platform/6081].\nNote that CharmVerse was a recipient of a grant in Season 3\n[https://gov.optimism.io/t/cycle-11-final-grants-roundup/5842].\n\nThird, the Grants Council has three new roles: Communications Lead, Operations\nLead, and RFG Lead. The Council is excited to announce the roles as follows:\n\n * Communications Lead: @katie [/u/katie]\n\n * Operations Lead: @Gonna.eth [/u/gonna.eth]\n\n * RFG Lead: @jackanorak [/u/jackanorak]\n\nYou can expect to hear more from each of them this Season and you can find more\nabout the roles here\n[https://app.charmverse.io/op-grants/page-8856733095764906].\n\nOver the next week, the Grants Council will finalize the Cycle 13 rubrics\n[https://gov.optimism.io/t/season-4-cycle-13-draft-review-rubrics/6065], vote on\nthe Internal Operating Procedures\n[https://app.charmverse.io/op-grants/page-28363023542388666], and finalize the\nCycle 13 RFG procedures (including the publication of the initial slate of\nRFGs). Please follow the Latest News\n[https://app.charmverse.io/op-grants/page-9105078782286162]. If you have\nquestions or comments, feel free to comment here, on Discord, or email\ngrants@optimism.io [grants@optimism.io].\n\nThe Grants Council looks forward to reviewing this Season’s proposals and moving\nthe field of community grants forward.",
+  "views": 2211,
+  "like_count": 14,
+  "word_count": 907,
+  "answer": [
+    {
+      "content": "100% support in good faith of OP’s vision",
+      "created_at": "2023-06-21T07:37:27.697Z",
+      "trust_level": 1,
+      "username": "Amosihuan",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "Much needed process driven and impact driven.",
+      "created_at": "2023-06-27T20:20:31.642Z",
+      "trust_level": 1,
+      "username": "luodi",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "As a mercenary farmer I 100% support this proposal :wink:\n[https://emoji.discourse-cdn.com/twitter/wink.png?v=12]. I hope velodrome and\nlyra get a good refill :pray:\n[https://emoji.discourse-cdn.com/twitter/pray.png?v=12]",
+      "created_at": "2023-06-19T19:24:14.325Z",
+      "trust_level": 0,
+      "username": "elmago21",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "Process driven, impact driven with KPI for success or failure.",
+      "created_at": "2023-06-27T20:18:44.001Z",
+      "trust_level": 0,
+      "username": "Jishu",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2023-06-08T14:30:24.958Z"
+}

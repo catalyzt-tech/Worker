@@ -1,0 +1,60 @@
+{
+  "title": "Let's talk about Identity in the Citizens' House",
+  "content": "CITIZENS’ HOUSE\n\nThe citizens’ house is interesting to me because it aims to create ties between\nindividuals and the governing protocol. This means the reputation tied to your\nsoul(s) is important if you want to become a trusted source in the long run. But\nhow should that work?\n\n\nQUESTIONS AND TOPICS FOR DISCUSSION\n\n * How is citizenship granted? Airdrops are not a good option, do we grant it to\n   individuals in this forum?\n * Are “souls” public keys/addresses or are they non-transferable tokens as\n   well? (Which brings up the interesting topic of social recovery)\n * Should we be able to revoke citizenship? I think it would be important to\n   figure out a way to remove bad actors, but doing it in a way that is\n   censorship resistant is non-trivial.\n\n\nSOULBOUND RESOURCES\n\nThese are the resources I have found on Soulbound Tokens, if you have any\nadditional ones or Optimism related ones, please send them over to me.\n\n * Vitalik’s Soulbound blog post\n   [https://vitalik.ca/general/2022/01/26/soulbound.html]\n * Soulbound Token Paper\n   [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763]\n\nNote: I originally posted this in the governance category, but this is probably\na better place for it",
+  "views": 2328,
+  "like_count": 91,
+  "word_count": 2773,
+  "answer": [
+    {
+      "content": "I would like to add that we also consider ways to promote those that act in good\nfaith and not just focus on punishing bad actors. I’ve seen posts focusing on\npunishment, but not enough on positive reinforcement.\n\nIn doing so, we potentially set an example for “bad actors” to reform and become\nproductive citizens of The Collective.",
+      "created_at": "2022-06-01T18:10:10.871Z",
+      "trust_level": 2,
+      "username": "Vikram",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 11
+    },
+    {
+      "content": "This is a really interesting set of questions!\n\nIn terms of granting citizenship I actually can’t think of a Sybil resistant\nprocess that would work outside of either meeting in person or in significant\nnumbers of online meetings. I’ve recently completed the BrightID verification\nprocess, where you attend a short video chat and prove that you are a real\nhuman, but having done so it’s clear that you could attend multiple meetings and\nthe hosts would have no way to know you aren’t new, but are just authenticating\nmultiple accounts. I haven’t tried Proof of Humanity yet but I suspect it has\nsimilar limitations.\n\nAccounts with a long history of POAPs could potentially be used, it would be\npretty difficult (or at least time consuming) to attend loads of events and DAO\nmeetings etc under multiple accounts, but it would also be exclusionary as not\neveryone who we might want to include as a citizen will have a long enough\nhistory.\n\nIt’s a really tough question, and solving it is probably going to be one of the\nmost important next goals for the Optimism Collective.\n\nRegarding souls, yes I absolutely think they should be linked only to social\nrecovery wallets, it would be heartbreaking to read stories every week from\ncontributors who have lost access to their wallet and therefore lost their soul!\nThe only real mass-adoption ready social recovery wallet I know is Argent, which\ndoesn’t support L2s other than zkSync, so maybe we need to allocate some funds\nto get an OP native one built.\n\nAs for revoking citizenship. Tough one to be honest, but I don’t think so. If we\nhave strong enough Sybil resistance that users really do only have one\ncitizenship account then this will end up as the basis of a lot of reputation.\nIf someone is found to have been doing something bad enough that you would\nconsider revoking citizenship if it were possible then presumably they would\nhave a severely tarnished reputation. Unlike the Token House where a bad actor\ncould theoretically buy they way to more power, I envision the Citizen House as\na governance structure where everyone has an equal vote, therefore the\nconsequences of someone making intentionally negative decisions would likely be\nminimal. I guess that does depend a lot on how the structure of that model\nworks.",
+      "created_at": "2022-06-01T18:41:35.093Z",
+      "trust_level": 2,
+      "username": "MinimalGravitas",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 8
+    },
+    {
+      "content": "\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/opuser/48/179_2.png]\nOPUser:\n\n> Other approach would be combining different option together to build\n> credibility, presence on this forum, twitter, attestation from project on\n> discord, things like, combine them together to prove your credibility. That\n> not enough, may be join meetings, go and attend local Op ecosystem\n> seminar/hackathon. Make is point base, once you have a sufficient number of\n> point, you get the citizenship.\n\nI agree with this, as far as possible Optimism and its community should be able\nto establish their own mechanism or depend minimally on other ID systems (as an\nextra it may be). Precisely I think that the delegates already relatively\nidentified as unique identities, we can take a role as initiators, curators, but\nthe mechanism to avoid malicious behavior should be well thought out.",
+      "created_at": "2022-06-01T23:04:48.646Z",
+      "trust_level": 2,
+      "username": "Joxes",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": "\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/minimalgravitas/48/155_2.png]\nMinimalGravitas:\n\n> I haven’t tried Proof of Humanity yet but I suspect it has similar\n> limitations.\n\nProof of Humanity actually prevents sybils from registering. The registration\nrequires a deposit, and if someone finds the submission you are trying to\nregister is a duplicate of another one, you can be challenged and lose the\ndeposit. (Disputes are settled on a Kleros [https://kleros.io] court)\n\nIn the future, solutions like sismo .io will create an anonymization layer for\nPOH, with zk-proofs and SBTs.\n\nI know that Gitcoin was planning to create an aggregator for different\nProof-of-Personhood Protocols, that could be an option, but I don’t know if they\nhave an ETA for that. https://proofofpersonhood.com/\n[https://proofofpersonhood.com/]",
+      "created_at": "2022-06-01T20:02:46.545Z",
+      "trust_level": 1,
+      "username": "0xjean",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": "[https://europe1.discourse-cdn.com/bc41dd/original/1X/318622c5d35b1884998767e241b8d2486803acf4.png]\nBrightID – 30 Dec 21\n[https://forum.brightid.org/t/aura-a-new-verification-for-brightid/393]\n[https://europe1.discourse-cdn.com/bc41dd/optimized/1X/ffd72261f39de01d51887ecb5dc3122f13ca5e8f_2_690x335.jpeg]\n\n\nAURA (A NEW VERIFICATION FOR BRIGHTID)\n[https://forum.brightid.org/t/aura-a-new-verification-for-brightid/393]\n\n(Also available in Doc format) Why Aura? Social graph analysis briefly explained\nBrightID verification is based on person to person connections. This creates a\nsocial graph. Attackers create duplicate accounts (sybils) and connect them to\nthe...\n\nReading time: 2 mins 🕑 Likes: 4 ❤\n\n\n\n\nbrightID is working on sybil resistance with their Aura project. It’s still in\nbeta.",
+      "created_at": "2022-06-01T18:57:08.991Z",
+      "trust_level": 2,
+      "username": "Vikram",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    }
+  ],
+  "created_at": "2022-06-01T05:21:44.551Z"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Joint House Call will be [Tuesday, April 23rd @ 10:00 PT / 13:00 ET / 17:00 GMT / 18:00 CET]",
+  "content": "Hey Everyone!\n\nWe have the Token House Community Call coming up next Tuesday!\n\nWe’ll be discussing the newly announced Retro Funding round for Onchain Builders\nand other governance topics!\n\nThe call will be taking place on google meet this time, here is the link:\nhttps://meet.google.com/vme-ovto-jcn [https://meet.google.com/vme-ovto-jcn]\n\nAs always, feel free to comment below if there is anything you’d like to the\nagenda!\n\nMichael :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]:sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]\n\nedit: time moved 1 hour earlier!",
+  "views": 616,
+  "like_count": 18,
+  "word_count": 359,
+  "answer": [
+    {
+      "content": "Do we have a record of all the attendees for the Joint House Call or the\nCommunity Call(earlier name)?\n\nThese calls help get to know the vibe of the community, get clarity on how\nthings are moving and often right questions are being raised. @Michael\n[/u/michael] has been wonderful in moderating these calls & the attendees have\nbeen religiously showing up to keep the call meaningful collecting the thoughts\nand then spreading the right information through various channels.\n\nLike Season 5 at the onset had lots of questions & most were answered\nsuccessfully during these calls. I am sure the attendees then helped many\nunderstand the changes and helped them prepared their drafts for application or\nhelp other delegates form their opinions on Mission Requests.\n\nWith all that in mind, it is a good record to keep a tab on who attends these\ncalls and maybe someday reward them retroactively for all their time. :tada:\n[https://emoji.discourse-cdn.com/twitter/tada.png?v=12] :clinking_glasses:\n[https://emoji.discourse-cdn.com/twitter/clinking_glasses.png?v=12]",
+      "created_at": "2024-04-23T08:54:46.770Z",
+      "trust_level": 2,
+      "username": "Chain_L",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "FYI we moved the time 1 hour earlier so that Ben & Justine can join us!",
+      "created_at": "2024-04-22T23:01:32.465Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "That’s a good suggestion.\n\nMay be Chora Club(soon) as it’s built on top of Huddle & we are looking to make\nsure zoom bombing type of events are avoided. :sweat_smile:\n[https://emoji.discourse-cdn.com/twitter/sweat_smile.png?v=12]",
+      "created_at": "2024-04-20T06:46:22.223Z",
+      "trust_level": 2,
+      "username": "Chain_L",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Hey Michael! :wave: [https://emoji.discourse-cdn.com/twitter/wave.png?v=12]\n\nMaybe we can try another tool for meetings too, this is Huddle01:\nhttps://huddle01.com/ [https://huddle01.com/] this let you create video calls &\nspaces like X. Also the people can connect their wallets if they want, and could\nbe a good way to explore. It’s a web3 tool :100:\n[https://emoji.discourse-cdn.com/twitter/100.png?v=12]\n\nIt’s just a recommendation :sweat_smile:\n[https://emoji.discourse-cdn.com/twitter/sweat_smile.png?v=12]\nLili",
+      "created_at": "2024-04-20T03:15:12.462Z",
+      "trust_level": 3,
+      "username": "Liliop.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Looks cool!\n\nI’ll try to test it out at some point to see if it makes sense.",
+      "created_at": "2024-04-22T19:23:21.108Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2024-04-19T19:25:14.996Z"
+}

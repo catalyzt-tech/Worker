@@ -1,0 +1,50 @@
+{
+  "title": "Update to Committee Operations",
+  "content": "As the first Voting Cycle of Season 2 comes to a close, the Foundation would\nlike to address some confusion related to multiple aspects of committee\noperations. The below updates to the voting cycle will be reflected in an update\nto the Operating Manual\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md] and\nimplemented at the start of Voting Cycle #7.\n\nVoting Cycle with Committees\n\nWe’d like to clarify and adjust how committee operations fit into the three-week\nvoting cycle.\n\n * Week 1: Community and Delegate Feedback\n   * 2 explicit delegate approvals required to move on to Committee Review\n   * Proposers must add their approved proposals to the Voting Roundup thread by\n     the last day of Week 1 at 7pm GMT in order to move to Week 2 and receive a\n     committee recommendation\n   * Committee members should do their best to be active in this process to\n     ensure continuity for proposers throughout the voting cycle and since some\n     committee members will need to provide the required approvals\n * Week 2: Committee Review\n   * All reviews posted to the Voting Roundup thread by the end of Week 1 will\n     be reviewed by committees\n   * Committees will post their recommendations no later than the last day of\n     Week 2 at 7pm GMT\n * Week 3: Voting\n   * No change\n\nThe only change for proposers is that they will need to get delegate approval\nand add their proposals to the Voting Roundup earlier in the cycle.\n\nDelegate Approvals\n\nDifficulties in receiving delegate approvals during Voting Cycle #6 may have\nbeen related to the lack of clarity regarding committee review timing. The\nFoundation has adjusted this process for Voting Cycle #7 and will re-evaluate\nwhether an adjustment to the approval requirements might be appropriate for\nVoting Cycle #8.\n\nCommittee Responsibilities\n\nThere seems to be some confusion as to the responsibilities of committees. The\nFoundation advises delegates to consider the initial scope recommended for\ncommittees in Introducing Committees\n[https://gov.optimism.io/t/introducing-governance-committees/3238]. While\ncommittees may choose to take on additional responsibilities, committee\ncompensation was set taking only these specified responsibilities into account.\n\n * Committees were envisioned to primarily perform information filtering and\n   synthesis so that delegates aren’t overloaded with information and to enable\n   delegates that don’t specialize in a particular topic to defer to the\n   recommendation of relevant committees.\n * Committees are expected to vet, research, and discuss proposals, then make\n   highly visible recommendations to non-committee delegates at the time of\n   voting.",
+  "views": 1796,
+  "like_count": 23,
+  "word_count": 698,
+  "answer": [
+    {
+      "content": "We’re planning to update the forum soon, thanks for the additional suggestion\nabout committee tags.\n\nIn terms of knowing whether your proposal has been reviewed, you need to get 2\nexplicit approvals from delegates with >0.5% voting power and then add your\nproposal to the Voting Roundup thread in order to move to Week 2 (Committee\nReview). This process was a bit unclear in Voting Cycle #6 but has been\nclarified for Voting Cycle #7 and is outlined in the Operating Manual\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md].\nDoes that help?",
+      "created_at": "2022-09-29T19:47:06.468Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "The best way to get in touch with delegates is in the #gov-temp-check and\n#gov-general channels in Discord. Each committee also has a channel, so you can\neither message delegates directly there or see who you need to tag / reach out\nto for feedback.",
+      "created_at": "2022-09-30T13:10:23.378Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "It would be nice to get some feedback whether a proposal was reviewed. Put mine\non [REVIEW] in time but have never received any feedback from any of the\ndelegates throughout the time of cycle #6.\n\nIt’s ok if it’s then not chosen but it would be nice to know that it was\nreviewed at least.\n\nAlso, if technically possible, it would probably make sense to give tags/labels\nto the proposals based on the relevant committee. This would make it easier for\neveryone to filter.",
+      "created_at": "2022-09-29T14:17:23.205Z",
+      "trust_level": 1,
+      "username": "jann",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Sorry, probably phrased this wrong. I understand that you need 2 approvals to\nget the committee review. What I meant is, how do you know if delegates even\nviewed your proposal. It would be good to just get some feedback either way.\nRight now, you could just assume by not getting any approvals at all.",
+      "created_at": "2022-09-29T20:03:30.964Z",
+      "trust_level": 1,
+      "username": "jann",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-09-28T16:14:17.649Z"
+}

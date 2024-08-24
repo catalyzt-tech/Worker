@@ -1,0 +1,40 @@
+{
+  "title": "The need for a meta-constitution (and why token-based voting cannot deliver the Optimistic Vision)",
+  "content": "This topic has been discussed\n[https://vitalik.ca/general/2021/08/16/voting3.html] broadly and within the\nOptimism community, but I wanted to reopen discussion around it particularly as\nit relates to the Optimism constitution in the long term.\n\nPROBLEM\n\n * We need to be able to move to a democratic, person-based voting system rather\n   than a token-based one to deliver the Optimistic Vision\n\n * Users are incentivized to support public goods\n\n * Investors are incentivized to support whatever is most profitable\n   \n   * Public goods in name only, or eventually not at all\n\n * Whale delegates are incentivized to maintain status quo (token voting)\n   \n   * Once a better voting mechanism arrives, the people necessary to approve the\n     shift will be the biggest losers from it and will need to voluntarily vote\n     to permanently give up the power they worked to gain\n\n * Tokenholders will not want to move to a system that leaves governance tokens\n   worthless, and are incentivized to delegate to whales who oppose a move away\n   from token-based voting\n\n * Optimism’s success will inevitably attract the attention of much larger\n   entities who will effectively become dictators/oligarchs (“Amazon\n   governance”, North Korea plundering treasury)\n   \n   * At current prices, Amazon could unilaterally make any decision for just\n     $46M ($200M assuming a 4.3x premium to buy that amount of tokens)\n   * An anticipated shift away from token-based voting could collapse the OP\n     price and create a window for even more malicious actors to buy enough\n     tokens to plunder the treasury\n\n * In the long term, a hard fork would eventually be needed to make this\n   transition, with all the assets and activity on “Optimism Classic” by default\n\n * “True believer” core devs will need to make a last ditch effort to shift\n   development to the new chain, hopefully convincing users it’s the canonical\n   one, but risking their income for ideological reasons in the process\n\n * The “classic” chain could respond by making minor changes to convince users\n   to stay, inertia and apathy win, leading to a contentious hard fork with the\n   new, mission-driven Optimism smaller and less able to deliver on the Vision\n   particularly without the benefit of a sizable treasury or strong sequencer\n   revenue to fund development\n\nSOLUTION\nA meta-constitution needs to be established (similar to a difficulty bomb for\ngovernance) that sets some parameters which can be met to swiftly update the\ngovernance process away from token-based voting as soon as a better model is\navailable and the treasury is sufficiently diversified with non-OP assets and\nrobust sequencer revenue\n\nThe longer it takes to commit to this, the more difficult it will become to get\nsupport for and implement (investor-class plutocrats will become overwhelmingly\npowerful)",
+  "views": 1008,
+  "like_count": 5,
+  "word_count": 562,
+  "answer": [
+    {
+      "content": "Hopefully this article and talk effectively explain the reasoning behind the two\nhouse system and the relevancy of the Token House’s role in this bi-cameral\nsystem\n\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/b/beca63ff107ba2fe4948a79b04481f1151b6f194.jpeg]\nhttps://www.youtube.com/watch?v=Xas1ror6QKQ\n\nhttps://gov.optimism.io/search?context=topic&context_id=6471&skip_context=true\n[https://gov.optimism.io/search?context=topic&context_id=6471&skip_context=true]",
+      "created_at": "2023-07-20T12:11:35.217Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 2
+    },
+    {
+      "content": "In response to the counterpoint that the Citizens’ House solves this, I don’t\nthink the system can reach the level of democratic decision-making Optimism\naspires to as long as the Token House can even partly control core protocol\ndecisions. More documentation around the governance structure is expected soon\nthough so I will wait for that to provide more grounded feedback and\nsuggestions.",
+      "created_at": "2023-06-23T00:15:29.052Z",
+      "trust_level": 2,
+      "username": "max-andrew",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "Excited to check it out, thanks!",
+      "created_at": "2023-07-20T13:16:16.416Z",
+      "trust_level": 2,
+      "username": "max-andrew",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2023-06-22T23:41:09.214Z"
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Developer Advisory Board Feedback & Ideas Thread",
+  "content": "As a part of the Season 6 Charter\n[https://gov.optimism.io/t/zach-obront-developer-advisory-board-operating-budget/8141]\nfor the Developer Advisory Board, one of the explicit goals is to uncover\nadditional areas in the Collective where technical support would be helpful.\n\nTo that end, we are opening this thread as a place for the community to surface\nideas for where the DAB could be helpful, especially in moving towards the\nIntents for Season 6.\n\nAdditionally, we have added 3 community calls to the OP Governance Calendar\n[https://calendar.google.com/calendar/u/0/r?cid=Y19mbm10Z3VoNm5vbzZxZ2JuaTJncGVyaWQ0a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t],\nwith an emphasis on collecting feedback and generating ideas:\n\n * August 13th at 3pm ET / 7pm UTC\n * October 8th at 3pm ET / 7pm UTC\n * December 3rd at 3pm ET / 7pm UTC\n\nAll ideas from this thread and the calls will be added to our Internal DAB Idea\nTracker\n[https://plaid-cement-e44.notion.site/154a9eb882be4eb1b1f0752550f45b52?v=66578d8f14654a4e9e937e5bc04dc543]\nfor the team to process and work on. We’ll share updates here, as well as a full\nreport of the ideas we explored and our conclusions before the end of the\nSeason, which will inform an expanded Charter in Season 7.\n\nLooking forward to hearing your ideas!",
+  "views": 75,
+  "like_count": 5,
+  "word_count": 204,
+  "answer": [],
+  "created_at": "2024-07-15T18:19:17.415Z"
+}

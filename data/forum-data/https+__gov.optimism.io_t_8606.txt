@@ -1,0 +1,20 @@
+{
+  "title": "Voting Cycle Roundup #25",
+  "content": "Cycle #25 began on Thursday July 18th at 19:00 GMT and runs until Wednesday\nAugust 7th at 19:00 GMT. Additionally, the Citizens’ House will have a one-week\nperiod to veto any Upgrades approved by the Token House, immediately following\nthe conclusion of the Token House Voting Period.\n\nA snapshot of delegate voting weights will be taken at the time votes go live.\nVoting will take place at https://vote.optimism.io/ 6\n[https://vote.optimism.io/] starting on Thursday August 1st at 19:00 GMT. The\nCitizens’ House veto vote will take place via Snapshot from Thursday August 8th\nto Wednesday August 14th.",
+  "views": 97,
+  "like_count": 4,
+  "word_count": 151,
+  "answer": [
+    {
+      "content": "The following election will be going to vote during Voting Cycle 25. The budget\nto renew the Code of Conduct Council during Season 6 was approved during Special\nVoting Cycle 23b.\n\n * Code of Conduct Council S6 Election Town Hall\n   [https://gov.optimism.io/t/code-of-conduct-council-s6-election-town-hall/8627]",
+      "created_at": "2024-07-29T19:50:43.187Z",
+      "trust_level": 4,
+      "username": "system",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2024-07-19T18:56:25.104Z"
+}

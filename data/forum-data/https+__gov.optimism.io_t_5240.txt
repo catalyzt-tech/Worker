@@ -1,0 +1,60 @@
+{
+  "title": "Top 20% of delegates consolidate 82% of all delegated voting power. Is that concerning?",
+  "content": "The Constitution is an integral part of the Optimism Collective. Article 2 talks\nabout the importance to counteract “excessive consolidation of power”.\nSpecifically this addresses the balance of short-term (Token House) and\nlong-term (Citizen House) perspectives. However, while the Citizen House\nbalances power by giving one person one vote, the Token House does not seem to\nconsider the consolidation of power. While it remains clear that a single\nperson/entity can purchase as many tokens as they can afford, there is a decent\namount of delegates, that facilitate the governance process for individuals. Yet\nthe top 20% of delegates have power over 82% of the total OP delegations.\n\nOne could argue that this doesn’t matter because the total delegations (32M OP)\nare only a small fraction of the total supply (4,295B) which is true. However,\nIf over time the delegation rate rises, it would strengthen the current trend.\nLet me give you an example: The top 10% of our worlds population hold 85% of all\nwealth, while the remaining 90% own only 15% of all wealth. The rich get richter\nand the poor get poorer. The trend always starts somewhere and can manifests\nfrom there onwards. I am not saying that we are on a critical edge here but I do\nthink it is important to create systems that don’t manifest a trend towards\nconsolidation of power.\n\nIf I am an OP holder and I want to delegate but don’t know much about it, I will\nchoose one of the first 10-20 shown to me (analogy: the rich get richer). Why\nnot design a system that supports delegatees (that a word?) to choose a delegate\nbased on their believes, values and motivation to be a delegate? Instead of\npromoting to choose based on “Most voting power” or “Most delegates”. It would\nbe simply a matter of rearranging the delegates.\n\nCurious what you guys think about that.\n\nCheers\nTassilo",
+  "views": 2981,
+  "like_count": 76,
+  "word_count": 3759,
+  "answer": [
+    {
+      "content": "On some level I agree with this statement but I also understand how the\ngovernance works and how delicate balance can be in the beginning stage of the\nformation for the citizens house…\nAs well as delegating a huge responsibility for funds to be distributed to\nprojects that establish the ecosystem in the first place.\n\nIt is very hard for discovery of other members on the governance to be heard or\nbe seen.\n\nI must say the new voting platform Agora is being dialed in and I talked to\ntheir team to help with some UI/UX bugs this morning. They were very responsive\nand involved with the community one on one.\nWhich is great and exactly what is needed to adapt to the needs of the voters in\nthe system and here is some of the feedback you can also find in the Gov General\nchannel of the optimism discord server.\n\n“ I accidentally deleted my topic a few times while trying to write it. “\n\nDiscoverability was also made very difficult from the transition but they are\nfixing everything that I have addressed for the new delegates…\n\n“ I find this frustrating because it was not too long ago that I finally\nappeared on the delegates of the governance on snapshot after missing the\ndeadline last year when submitting my commitment in the last 24 hours of the\ncutoff. “\n\n@zcf [/u/zcf] a fair suggestion here for the filter that would sort delegate\nmembers in a more inclusive manner by adding a filtered search :mag:\n[https://emoji.discourse-cdn.com/twitter/mag.png?v=12] option for most proposals\nvoted :ballot_box: [https://emoji.discourse-cdn.com/twitter/ballot_box.png?v=12]\non, recent activity, or proposals created.\n\nThis is completely up to the team and decision of the leading members of the\nnetwork or governance and capabilities of the Agora platform to sort and index\nthis into the user interface on their website.\n\nAll in all what you are talking about has been a concern of other members in\ngovernance I have seen related to SNX Ambassadors but they have made it clear\nthat they will start to distribute the funds into the ecosystem from the self\ndelegations made before rules were set into place.\n\nAn attack on the DAO by obtaining power in a unethical or undermining way is\nalways a concern. The team of the governance and head foundation along with all\nthe rest of the members involved with governance are doing a good job so far of\nmitigation for this type of scenario.\n\nThe impact over profit model makes sure that each protocol is vision & mission\naligned with the values and ethos of the blockchain along with the extra\nemphasis on public goods funding for creative development teams.\n\nAs long as this incentive is made by those who have taken on such incredible\namount of token delegated to themselves I see nothing wrong with it in the early\ndays of the network. That could be beneficial for the way the newcomers are\ndelegated to in the coming years as more of these creators are attracted to the\nnetwork for the high value incentives builders are offered on the network. It\nfeels healthy to me!\n\n\n\nimage\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/4/475453c2326bda37d3133faedec18b34b43a1977_2_377x499.jpeg]\nimage1125×1489 125 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/4/475453c2326bda37d3133faedec18b34b43a1977.jpeg]\n\n",
+      "created_at": "2023-02-11T23:12:46.679Z",
+      "trust_level": 2,
+      "username": "FractalVisions",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "Well it look similar like elections in Africa or ex USSR countries, not the real\nDemocracy. But it can be more effective for governance at the same time -\ndepends on our goals.\n\nMaybe we need more delegates, so then ppl could more easy find the person to\ndelegate him votes. More from regular users, who will start to dive deeper in\ngovernance and well be also useful for future cause they will grow up… Some kind\nof delegators incubator.\n\nI would love to be one of them.",
+      "created_at": "2023-02-11T19:09:17.642Z",
+      "trust_level": 1,
+      "username": "Baliano",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "It will be interesting to see how the current governance will progress and\ninnovate. I like the first step and support.",
+      "created_at": "2023-02-12T04:29:21.524Z",
+      "trust_level": 0,
+      "username": "Emma",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "It is very delicate what you mention, I would mainly take into account that the\ngovernance process takes into account two votes, ours of the delegates and the\ncouncil of the recently chosen protocols.\n\nI don’t like it very much from the point of view that they are looking out for\ntheir own interests.",
+      "created_at": "2023-02-12T04:09:59.823Z",
+      "trust_level": 2,
+      "username": "Saludiego201",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "I agree, I think the end goal is probably to have more delegations and try to\ndecentralize the power than any specific delegate has. While it’s not perfect, a\ngood starting point could be to take a look at some democratic systems today and\nmodel delegation after that. I’m based in the US, so I understand that system\nthe best.\n\nYou have congress + senate, senate is set to 2 per state and congress is based\non population but has a max number. Of course the US has 300M people and 50\nstates, so there’s quite a few representatives. But this could be something to\nthink about as the governance structure matures.\n\nMy guess is that governance eventually evolves into a more decentralized system\nover time with many delegates that represent all sorts of view points. However,\ngiven that we’re so early and there probably aren’t THAT many differing opinions\nthat people can have on the trajectory of this protocol, a fewer number of\ndelegates might suffice.",
+      "created_at": "2023-02-12T04:03:37.905Z",
+      "trust_level": 1,
+      "username": "zk1t",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    }
+  ],
+  "created_at": "2023-02-11T12:08:57.915Z"
+}

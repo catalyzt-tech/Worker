@@ -1,0 +1,60 @@
+{
+  "title": "[READY][GF: Phase 1 Proposal] Biconomy",
+  "content": "Project Name: Biconomy\n\nAuthor Name: Rhic [https://twitter.com/0xRhic]\n\nBiconomy is a web3 infrastructure project that enables developers to deliver a\nfrictionless experience to end users of their dapp. We believe that a\nfrictionless experience is the key to onboarding the next billion users onto Web\n3. By abstracting away transaction layer complexities using our products -\nGasless & Hyphen - you can simplify transaction journeys, improving product love\nand user engagement & retention.\n\nNumber of OP tokens requested: 750,000\n\nL2 Recipient Address: 0x31B73B0549E0151b6233C5d179580B8A840B83fb\n\nRelevant Usage Metrics: (As of July 4th, 2022)\n\nGasless:\n\n * Total Volume relayed = $1.77B\n * Total transactions relayed = 19.54m\n * Total Gas Savings to users (in Q1 & Q2 2022) = $2.47m\n * Average Transactions relayed per day (in Q1 & Q2 2022) = 35k\n * Live dApp Integrations (in Q2 2022) = 186\n\nHyphen: TVL on Defillama [https://defillama.com/protocol/hyphen]\n\n * Total Volume = $158m\n * Total cross-chain transfers = 81k\n * Total Unique Users >25k (undercounted due to aggregator data being difficult\n   to capture)\n\nHyphen [https://hyphen.biconomy.io/bridge] launched on Optimism on 20th June,\n2022, and in the 14 days since has-\n\n * Volume bridged to & from Optimism = $800k\n * No of transactions =916\n * Liquidity on Optimism ~$575k\n * No of unique users on Optimism = 139\n\nOur relayers are waiting for the first Optimism project to delight their users\nwith a gasless experience, and this grant will help that cause.\n\nOptimism alignment (up to 200 word explanation):\n\nBiconomy is already on Optimism, and shares a similar vision in scaling for mass\nadoption as the Optimism Collective. Hyphen, the cross chain liquidity bridge\nbuilt by Biconomy, has been live on Optimism since 20th June. The\nmeta-transaction infrastructure for Gasless is also available for the network.\n\nHyphen is already integrated in-dapp on Optimism’s largest project, Perpetual\nProtocol, and we hope to help many more projects simplify user onboarding with\nan in-dapp bridge to Optimism. With more partnerships like Perp, Biconomy can\nmake Optimism the most user friendly EVM chain on the planet.\n\nProposal for token distribution (under 1000 words):\n\nHow will the OP tokens be distributed?\n\nExact distribution would depend on interest and suitability for the builders,\nbut our initial proposal is a 60/40 split between the two main stakeholders -\ndApp users & dApp Builders\n\nOP tokens will be distributed for liquidity mining on Hyphen, to help bootstrap\nliquidity for the network. Since Optimism is still one of the younger chains in\nterms of daily transactions & volumes, maintaining the deep liquidity needed for\nseamless bridging will require liquidity mining incentives as usage currently\ndoesn’t generate enough fees.\n\nLiquidity mining is a tried and tested way to bootstrap the initial liquidity\nneeded, but another way is by incentivizing usage itself, since that drives fees\nhigher. OP incentives will be given to users to bridge their funds over to\nOptimism\n\nGas Grants will be given to new projects looking to go gasless on Optimism. This\nwill allow younger projects to grow rapidly while bearing the cost of paying for\ntheir users’ gas fees on their dApp, as many of our partners previously have.\nAny project that wants to use our relayers on Optimism or seeks a gas grant to\nget started should reach out to our team.\n\nIn its capacity as an Infrastructure project, Biconomy will also give OP grants\nto Bicosystem projects (those using any part of our infra) to incentivise them\nto launch on Optimism. Projects building on or migrating to Optimism, and using\nBiconomy Infrastructure, will be eligible for these grants.\n\nHence we propose the following split:\nLiquidity mining + User incentives = 250k (33.33%)\nEcosystem grants + Gas grants = 500k (66.67%)\n\nThe immediate distribution will start with Liquidity mining, with 12-18k tokens\nper month being distributed to bootstrap liquidity on Hyphen.\n\nWe are happy to work with the Optimism community, if they want, on the\ndistribution of Ecosystem & Gas grants, as we want only deserving projects to\nget these.\n\nHow will this distribution incentivize usage and liquidity on Optimism?\n\nHyphen offers a simple token bridging mechanism to facilitate easy and cheap\nasset transfers to Optimism. It is the fastest bridge in the market and super\ngas efficient, making it the best low-cost bridge for regular users, but we need\nto incentivise more liquidity to make large transfers cheaper.\nOP incentives will be given directly to LPs in the bootstrapping phase, and\nslowly phased out. Direct user incentives to bridge to Optimism will also be\ngiven to drive users to Optimism, making Hyphen the go-to bridge for the\nnetwork. Bootstrapping via these methods, as adoption increases, the liquidity\nnetwork will become self-sustainable.\n\nGasless provides Optimism developers the ability to sponsor gas fees for users,\nwhich makes onboarding to Optimism even simpler without requiring end-users to\nacquire native gas tokens. New users in the space often have difficulty\nunderstanding gas management, and abstracting these complexities away, making a\ndApp as easy to use as web2, is crucial for real adoption.\n\nWhy will the incentivized users and liquidity remain after incentives dry up?\n\nLiquidity will remain, since the bridge fee itself will yield enough APYs to\nsustain the required amount of liquidity. This grant will be important for us to\nbootstrap enough liquidity to provide a seamless bridging service that becomes\nself-sustainable as adoption grows.\n\nGas grants will allow young projects to give users gasless transactions on their\ndApp and reap the benefits from a smoother UX. As they observe the growth &\nsavings that using our gas estimation & relayer services provide, these projects\nwill stay with Biconomy infrastructure to continue to provide the best\ntransaction layer experiences in web3.\n\nOver what period of time will the tokens be distributed?\n\nThe OP tokens will be distributed over a period of 12-24 months.\nWe’re here for the long term, thus grants or incentives will only be given where\nthey make sense for Optimism & Biconomy Communities.\n\nHow much will your project match in co-incentives?\n\nWe will match the OP contribution with 150k BICO in incentives for various\ninitiatives on Optimism, including liquidity mining, user incentives, gas\ngrants, and ecosystem grants to projects building on Optimism.\nWe’re already doing BICO incentives for Hyphen liquidity on Optimism, and have\ncommitted almost 10K BICO for the first month of those incentives.\n\nPlease note that we are a Multichain project with the ambition of providing our\nservices on all major chains; we are currently live on 9 EVM chains, expected to\nincrease further. As a result, we will not be able to match the entire grant and\npropose to match 20% of it.",
+  "views": 5305,
+  "like_count": 26,
+  "word_count": 3150,
+  "answer": [
+    {
+      "content": "Voted: Yes\n\n 1. Most of fund are going towards bridging and ecosystem growth on OP\n 2. Token distribution duration is good\n\n 3. > Liquidity mining + User incentives = 250k (33.33%)\n\nAssuming they will us 50% of this LP reward, they are matching co-incentives\nwith 150K Bico which is more in dollar value so happy to support this.",
+      "created_at": "2022-07-10T14:24:22.084Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "We’re internally evaluating the suggestions you’ve made here and in the discord,\nit’s really helpful.\n\nWe understand your concerns, so the update we’re thinking is to change the split\nto a 1:2 instead.\nThis would mean we allocate 500k OP to the different grants, and keep only 250k\nfor the liquidity mining, while keeping the matching amount same. Quite a large\nshift in terms of allocation, because we do understand concerns you have, and\nagree that grants overall go a longer distance in helping the ecosystem. Do you\nthink this change will make you more comfortable to support the proposal?",
+      "created_at": "2022-07-06T10:56:48.224Z",
+      "trust_level": 1,
+      "username": "rhic",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "I support this proposal.\n\nHyphen is my favorite solution when transferring assets.\n\nThe incentives mechanism sounds good to me",
+      "created_at": "2022-07-12T01:26:40.422Z",
+      "trust_level": 0,
+      "username": "crekto",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Generally very supportive of the proposal and particularly excited about the\ngasless bridging functionality.\n\nSome more clarification around User incentives would be great - I’m a bit\nskeptical around these being simply wash trading if you just incentivise\nbridging to protocols.\n\nI’d actually love to see more focus around gasless incentivisation given it’s a\nno brainer from a OP onboarding UX perspective",
+      "created_at": "2022-07-05T02:15:15.186Z",
+      "trust_level": 2,
+      "username": "tongnk",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "After that change, happy to support this proposal. This is overall in line with\nthe other two allocations to bridge protocols (Hop and Stargate)",
+      "created_at": "2022-07-06T11:07:08.682Z",
+      "trust_level": 2,
+      "username": "solarcurve",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2022-07-05T01:55:11.320Z"
+}

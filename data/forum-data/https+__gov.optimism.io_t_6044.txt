@@ -1,0 +1,60 @@
+{
+  "title": "[DRAFT] The Blockchain Gazette Proposal",
+  "content": "Failed to move to vote.\n\nMission aborted (at least for now) :wink:\n[https://emoji.discourse-cdn.com/twitter/wink.png?v=12]",
+  "views": 1825,
+  "like_count": 10,
+  "word_count": 1287,
+  "answer": [
+    {
+      "content": "Please update your proposal with these changes!",
+      "created_at": "2023-06-12T15:29:16.630Z",
+      "trust_level": 4,
+      "username": "vonnie610",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "I’m a believer in the value of content creation to raise awareness. It’s great\nto see people building alliances to deliver on our collective intents\n[https://gov.optimism.io/t/collective-intents/5874]\n\nJust noting that this would be Intent #3\n\nI’m concerned that incentivising minting an NFT, is easily gamed. Have you\nconsidered other metrics to quantify impact? imo this type of project is better\nsuited to RetroPGF as it difficult to quantify future Impact.\n\nThat said, if seeking future looking funding I would still recommend RFPG2\nresults\n[https://optimism.mirror.xyz/Upn_LtV2-3SviXgX_PE_LyA7YI00jQyoM1yf55ltvvI] as a\nbaseline for Impact and proportionate funding request. A couple of comparable\nexamples could include\n\n@Michael [/u/michael] YouTube content w view 300k\n[https://app.optimism.io/retropgf-discovery/0x6EdA5aCafF7F5964E1EcC3FD61C62570C186cA0C]\n\n@polynya [/u/polynya] Several years of blog & social content\n[https://app.optimism.io/retropgf-discovery/0x429F9aDA43e9F345CbB85EC88681BB70Df808892]\n\nAlso see Gov Grant cycle 10 The Optimistic Series\n[https://gov.optimism.io/t/draft-gf-phase-1-proposal-the-optimistic-series/4911]",
+      "created_at": "2023-06-08T00:36:31.491Z",
+      "trust_level": 2,
+      "username": "lee0007",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "@lee0007 [/u/lee0007] Thanks for your insight.\n\nI understand your concern about the potential for gaming the NFT minting\nprocess. While incentivizing minting can indeed be susceptible to gaming, there\nare alternative metrics that we are also exploring to quantify the impact and\nmitigate these issues. Here are a few approaches:\n\nFor example, incentives can instead be tied to users active engagement (eg\nparticipating in quizzes) or for providing valuable feedback.\n\nRegarding your suggestion about RetroPGF, while it may be difficult to quantify\nfuture impact accurately, we believe it’s essential to strike a balance between\nquantifiable metrics and subjective evaluations. By combining various metrics\nand approaches as an experiment, we can create a more comprehensive evaluation\nsystem that encompasses both tangible and intangible aspects of this mission and\nother subsequent missions impact.\n\nThanks again for sharing your insights.",
+      "created_at": "2023-06-08T07:22:16.146Z",
+      "trust_level": 1,
+      "username": "Blockford",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Thanks @vonnie610 [/u/vonnie610], they’ve been updated.",
+      "created_at": "2023-06-12T19:41:23.121Z",
+      "trust_level": 1,
+      "username": "Blockford",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Update:\n\nHello optimist!!! Based on feedback received (eg from @latruite.eth\n[/u/latruite.eth] ) and from the community, we’ve readjusted our requested OP\namount from 30,000 to 5,000.\n\nWhile the deadline for approvals is fast approaching, we solicit your support,\nplease.\n\nThank you.",
+      "created_at": "2023-06-27T08:58:14.360Z",
+      "trust_level": 1,
+      "username": "Blockford",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2023-06-05T00:08:07.254Z"
+}

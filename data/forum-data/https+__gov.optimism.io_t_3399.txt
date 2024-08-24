@@ -1,0 +1,20 @@
+{
+  "title": "Bridge $OP to ethereum mainnet",
+  "content": "PROPOSAL\n\n 1. Bridge $OP from optimism mainnet to ethereum mainnet.\n 2. Add $OP as supply asset in markdao, aave and so on.\n\n\nMOTIVATION\n\nIncrease the usage scenario and trade volume of $OP.",
+  "views": 1653,
+  "like_count": 5,
+  "word_count": 105,
+  "answer": [
+    {
+      "content": "The possibility of transferring OP to Ethereum Mainnet will have a negative\neffect on the Optimism Ecosystem, and will not provide value to the OP token.\nMore focus is now needed on growing the ecosystem, including exclusive\nOptimism-only projects that will connect to the real world and involve many\nusers and organizations.\nOP will soon be added as collateral in Aave v.3 on Optimism.\nhttps://snapshot.org/#/aave.eth/proposal/0x16d55ed730076b4f6ea09b9fcc62ea846b248a96f40fb3dbc6c1f193df013d6d\n[https://snapshot.org/#/aave.eth/proposal/0x16d55ed730076b4f6ea09b9fcc62ea846b248a96f40fb3dbc6c1f193df013d6d]",
+      "created_at": "2022-08-30T12:57:30.378Z",
+      "trust_level": 2,
+      "username": "diligit",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    }
+  ],
+  "created_at": "2022-08-30T11:15:02.398Z"
+}

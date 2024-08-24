@@ -1,0 +1,60 @@
+{
+  "title": "Advanced Delegation Rollout Plan",
+  "content": "Hey OP delegates :wave: [https://emoji.discourse-cdn.com/twitter/wave.png?v=12]\n\nKent from Agora here and I wanted to share some updates on the rollout of the\nadvanced delegation feature on vote.optimism.io [https://vote.optimism.io/].\n\nWanted to make a thread, place for feedback, and quick primer to the advance\ndelegation rollout plan!\n\n\nWHY DID WE BUILD ADVANCED DELEGATION?\n\nThe idea of a more powerful delegation functionality was brought up by many\nfolks in the Discord and forms asking for “split votes” or “re-delegation” over\nthe last few seasons. As a result, this request came up as a RPF during Season 4\nIntent to improve governance accessibility\n[https://github.com/ethereum-optimism/ecosystem-contributions/issues/64].\n\nAs governance builders, we believe this idea will help both:\n\n * Increase in votable supply, and\n * Increase the number and diversity of delegates in the ecosystem.\n\nUltimately, advanced delegation allows an OP token holder to delegate their vote\nto more than one address with the click of a few buttons. Instead of forcing\npeople to pick A or B to delegate to, we have a more fluid form of delegation\nhere.\n\nFunctionally, the advanced delegation enables:\n\n * Partial delegation - delegate to multiple addresses\n * And redelegation - allow delegates you delegate to, to delegate again or, in\n   turn delegate to multiple addresses.\n\nThis will help solve many of the issues brought forth in the forms and\ncommunity, enabling folks to not only delegate to multiple parties at once, but\nalso allow delegates to “retire” or “pass on the baton” gracefully without\nreducing the active votable supply or causing that chunk of tokens to be frozen\nas their tenure ends.\n\n\nHOW DOES ADVANCED DELEGATION WORK?\n\nAll of our code is open-sourced and you can see all the details on:\ngithub.com/voteagora/optimism-gov\n[https://github.com/voteagora/optimism-gov?tab=readme-ov-file#v6]. It’s also\nbeen audited by OpenZeppelin.\n\nBut here’s the quick summary:\n\n * First, you delegate to your own proxy via a contract called Alligator\n * From there, you are able to set allowances for others to receive voting power\n   and ultimately vote with that power\n * This means that your voting power now comes from two places, the standard OP\n   token contract and the advanced delegation voting power via Alligator.\n\nThe Governor has been upgraded to accept and count each of these when you vote,\nand https://vote.optimism.io [https://vote.optimism.io] has been upgraded to\nhandle all of this on the front-end to create a simple and smooth voting\nexperience for everyone.\n\nOnce delegated, it will look something like this on your delegate profile page!\n\n\n\nimage\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/0/036f175f87d25e648271765855502cbf5cb12e03_2_690x115.png]\nimage2000×335 57.6 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/0/036f175f87d25e648271765855502cbf5cb12e03.png]\n\n\n\n\nWHEN CAN I GET ACCESS TO ADVANCED DELEGATION?\n\nWe launched partial delegation back on December 18th, 2023 to a limited beta\ngroup. On January 18th, we had our first voting cycle with advanced delegation\nand advanced voting. On Feb 8th (today), we plan to expand that group to anyone\nwith over 100,000 OP, with the goal to progressively decentralize and battle\ntest this new functionality over the next several voting periods.\n\nGiven how big of a change this is both culturally and technically, we want to\nmake sure that we iron out all of the kinks before releasing to everyone. In\nfact, during our first round we identified a few edge cases are currently\nauditing a few changes to Alligator to make it even easier to vote in subsequent\nrounds.\n\n\nROLLOUT PLAN\n\nDate Voting Period Rollout details Jan 18th, 2024 Voting Cycle #17 Limited beta\ngroup :white_check_mark:\n[https://emoji.discourse-cdn.com/twitter/white_check_mark.png?v=12] Feb 8, 2024\nVoting Cycle #18 Delegates with over 100,000 OP Feb 29, 2024 Voting Cycle #19\nDelegates with over 10,000 OP ~April 2024 Delegates with over 1,000 OP ~May 2024\nDelegates with over 100 OP ~June 2024 All remaining delegates\n\n\nHOW TO GET INVOLVED\n\nIf you are interested in contributing and willing to fill out bug reports, we’d\nlove your support!\n\nJoin the #gov-general on the Optimism Discord and tag @kent or @yitong\n[/u/yitong] and we’ll will add you to the beta list. If you’re below the\nthreshold of the rollout plan and still want to participate, we’d love to hear\nfrom you as well, just DM us – we have a capacity cap of ~500 for this voting\nperiod’s advance delegation usage during this beta/rollout phase, but we love\nfolks willing to help us test and will try to get as many as we can in!\n:raised_hands: [https://emoji.discourse-cdn.com/twitter/raised_hands.png?v=12]\n\nPlease don’t hesitate to DM us or comment here directly. We look forward to\nbringing this feature to the masses and can’t wait to hear your thoughts and\nfeedback!\n\nBack to building :saluting_face:\n[https://emoji.discourse-cdn.com/twitter/saluting_face.png?v=12]\n\nBest,\n\nThe Agora Team",
+  "views": 743,
+  "like_count": 15,
+  "word_count": 1113,
+  "answer": [
+    {
+      "content": "Hey! Kent here from Agora.\n\nWe have just wrapped up our plans to get advanced delegation working with the\nInterop upgrade [https://github.com/ethereum-optimism/specs/pull/233] coming in\nlate 2024. Once that spec gets approved and merged into the mono-repo we will\nstart working on the implementation.\n\nAt that time it will become super clear what the best path forward is. There\nwill be two likely paths forward:\n\n 1. We delay large scale advanced delegation rollout until after the Interop\n    upgrade to make sure that the Interop upgrade and existing advanced\n    delegation state is as stable as can be.\n 2. We are confident that the Interop upgrade will not be a problem with rolling\n    out advanced delegation to more users.\n\nWe should have clarity on this by the middle of July if not sooner.\n\nWe will post here when the time comes to get feedback on paths forward as we\nwork with the protocol team.",
+      "created_at": "2024-06-18T01:14:05.963Z",
+      "trust_level": 1,
+      "username": "kent",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Hey Zcf!!\nThanks for the updates!!\n\nI´m curious, just one question, now everyone can do the advanced delegation? or\njust the delegates with more than 1k OP voting power?\n\nThanks in advance for your answer!!\nLiliop.eth",
+      "created_at": "2024-06-12T01:56:37.114Z",
+      "trust_level": 3,
+      "username": "Liliop.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "Really excited to see the Advanced Delegation feature rolling out. I think we\nall hope that redelegation will help decentralize voting power.\nFrom my understanding, Advanced Delegation also includes grants that are subject\nto a lock period. For instance, I have a locked grant, and I was able to\ndelegate its voting power for this Season 5.\nMy question is: Will there be a clear (visual?) distinction between votes\nredelegated by a delegate and those directly controlled by the delegate himself\nbut locked ? Or am I misunderstanding something here?",
+      "created_at": "2024-02-13T17:14:38.453Z",
+      "trust_level": 2,
+      "username": "latruite.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "This is an amazing opportunity to also decentralize the voting power, since we\ncan choose two or more delegates it’s incredibly.\nThank you for this intiiative.",
+      "created_at": "2024-02-13T22:25:40.835Z",
+      "trust_level": 2,
+      "username": "CryptoReuMD",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "That’s a great opportunity that would make the voting power gradually\ndecentralized.\nWhen do you expect to be available this function if it’s passed??",
+      "created_at": "2024-02-13T22:58:58.061Z",
+      "trust_level": 2,
+      "username": "DAODude_DAOASIA",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-02-08T15:36:09.200Z"
+}

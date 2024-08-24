@@ -1,0 +1,20 @@
+{
+  "title": "OP Unlock Update",
+  "content": "OP UNLOCK UPDATE\n\nMay 31st marks one year since the Optimism Collective was introduced, along with\nthe OP governance token, enabling our delegates to begin actively shaping the\nCollective’s governance system and driving towards Collective Intents\n[https://gov.optimism.io/t/collective-intents/5874/2]. It’s inspiring to reflect\non all that our delegates have accomplished in the past year. What a whirlwind!\n\nAs a reminder: on May 31st, OP circulating supply will increase. You can view\nestimated circulating supply allocations here\n[https://docs.google.com/spreadsheets/d/1qVMhLmmch3s6XSbiBe8hgD4ntMkPIOhc1WrhsYsQc7M].\nAs circulating supply increases, so does the opportunity to increase votable\nsupply within the Token House, a critical step towards increasing the resiliency\nof our governance system. Increasing votable supply is an ongoing goal of the\nCollective, evidenced by initiatives like the Protocol Delegation Program\n[https://gov.optimism.io/t/special-voting-cycle-9a-protocol-delegation-program/4200]\nand airdrop #2 [https://community.optimism.io/docs/governance/airdrop-2/], the\nimportance of which delegates have repeatedly highlighted. The upcoming unlock\npresents another opportunity to drive new delegations and further increase the\nvotable supply.\n\nWe recognize the importance of making sure these new delegations are driven to a\nbroad range of delegates and are actively discussing initiatives to improve\ndelegate discoverability\n[https://www.notion.so/Unlock-forum-post-draft-056c17bcf5b946319ed946e639d3efaf]\nwith the community. We hope to have a few of these initiatives in place before\nthe unlock (like the Delegate Spotlight\n[https://gov.optimism.io/t/delegate-spotlight/5985] list), but making continual\nprogress towards distributing voting power across a broad base of diverse\ndelegates is something that will require ongoing effort, experimentation, and\niteration over time.\n\nWhile some delegates may see a near term increase in voting power, Optimism’s\nbi-cameral governance system is designed to avoid the plutocratic pitfalls of\ngovernance that’s solely token-based. While token holdings will continue to\nfluctuate, the Citizens’ House provides an important check on the governance\npower of any one token holder. Accordingly, enabling joint House voting is a top\npriority for future Seasons.\n\nIt’s been an amazing first year for Optimism governance! We’re grateful to all\nthe delegates that are committed to building the Collective with us. Our work is\nfar from over and we’re excited to work with you to make Optimism governance\neven stronger in our next phase.",
+  "views": 1518,
+  "like_count": 12,
+  "word_count": 450,
+  "answer": [
+    {
+      "content": "How time flies! Well done :clap:\n[https://emoji.discourse-cdn.com/twitter/clap.png?v=12]:clap:\n[https://emoji.discourse-cdn.com/twitter/clap.png?v=12]:clap:\n[https://emoji.discourse-cdn.com/twitter/clap.png?v=12] to everyone who in one\nway or another helped in shaping the Collective; Foundation, delegates and forum\ndiscussants ( the Foundation often leave out the forum discussants in their\ncommunications - WHY? :sneezing_face:\n[https://emoji.discourse-cdn.com/twitter/sneezing_face.png?v=12]).\n\nAnyways, Congratulations to everyone. Great times ahead. And to the delegates,\nreward for hard work is more work :muscle:\n[https://emoji.discourse-cdn.com/twitter/muscle.png?v=12]. Well done all!",
+      "created_at": "2023-05-18T16:18:19.253Z",
+      "trust_level": 2,
+      "username": "theenlightened",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2023-05-17T19:56:20.125Z"
+}

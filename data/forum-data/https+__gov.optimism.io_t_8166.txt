@@ -1,0 +1,9 @@
+{
+  "title": "Optimize Optimism Development with GetBlock RPC Node Services",
+  "content": "GetBlock is a top flexible node provider, now including support for Optimism\namong over 60 networks. Developers can choose between shared and dedicated\nOptimism nodes and request custom-developed node clusters to meet their unique\nproject requirements. :pray:\n[https://emoji.discourse-cdn.com/twitter/pray.png?v=12]\n\n\n\nimage\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/2/2287457b1b03370d63cec0c18b094e85e83de3f7_2_569x500.png]\nimage1600×1404 242 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/2/2287457b1b03370d63cec0c18b094e85e83de3f7.png]\n\n\n\nBenefits for Web3 Developers\nWeb3 developers can leverage Optimism nodes through GetBlock, taking advantage\nof 24/7 support to relieve the stress and costs of blockchain development.\nWhether it’s for prototyping with shared nodes for testnet or scaling with\nOptimism mainnet dedicated nodes, GetBlock will always have something to offer!\n\n:point_right: [https://emoji.discourse-cdn.com/twitter/point_right.png?v=12]\nDiscover how you can leverage Optimism nodes for your web3 dApps by visiting\nOptimism RPC: Free API Endpoints for Connect to Nodes | GetBlock.io\n[https://getblock.io/nodes/op/]",
+  "views": 267,
+  "like_count": 1,
+  "word_count": 113,
+  "answer": [],
+  "created_at": "2024-05-17T16:28:18.187Z"
+}

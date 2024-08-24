@@ -1,0 +1,60 @@
+{
+  "title": "[DRAFT] [GF: Phase 1 Proposal] Mover",
+  "content": "Project Name: Mover\nLinks: Website [https://viamover.com], GitHub [https://github.com/viamover]\n\nAuthor Name: Anton Mozgovoy (mozgovoy.eth)\n\nNumber of OP tokens requested: 100,000\n\nL2 Recipient Address: 0xf4B03870807059042B98C7abe889d5E9ed787371\n\nRelevant Usage Metrics:\n\n * 1,500+ users have ordered and using the card.\n * $100,000+ settled since the card launch (this quarter).\n * 30+ protocols are already partnered with Mover.\n * The only multichain DAO-friendly crypto debit card.\n\nOptimism alignment (up to 200 word explanation):\n\n * First Optimism native debit card. Mover is currently live on Ethereum and\n   Polygon. Optimism support will allow the network to have the first native\n   off-ramp via the debit card.\n * Mover is supporting and connecting long term real world use cases: like\n   salaries, subscriptions, memberships, rentals, lending, yield aggregating and\n   more. Any project on Optimism benefits on a protocol and on a network level.\n * Mover focuses on DAOs, protocols and native web3 support. Open infrastructure\n   allows any project to plug-in and benefit from the payment rails. Open source\n   and open license project also aligns with Optimism values.\n\n\nPROPOSAL FOR TOKEN DISTRIBUTION (UNDER 1000 WORDS):\n\n\nHOW WILL THE OP TOKENS BE DISTRIBUTED?\n\n * 60% of the tokens will be used to subsidise legal, compliance and operations.\n   As a reminder, right now there is no debit card that natively supports\n   Optimism assets and supports all on-chain assets.\n * 40% of the tokens will be used on the development (including bug bounties).\n   As a reminder, all integration, contracts and infrastructure code will remain\n   open source and open license.\n\n\nHOW WILL THIS DISTRIBUTION INCENTIVIZE USAGE AND LIQUIDITY ON OPTIMISM?\n\n * Native off-ramp and native Optimism debit card attracts users and allows them\n   to stay on the network without bridging off the network.\n * Integration of streaming and lending protocols increases protocol/hence\n   network usage by adding real-world service use cases.\n * Mover is taking all off-ramp pain from projects allowing them to focus on\n   their web3 value and product offering. Easier to build = more projects\n   created\n\n\nWHY WILL THE INCENTIVIZED USERS AND LIQUIDITY REMAIN AFTER INCENTIVES DRY UP?\n\n * Payments is a real-world use case. It is a service that removes usage\n   friction and allows users to “stick” to a network. Transacting on L2,\n   settling on L2 makes it even easer for users creating a positive feedback\n   loop.\n * Users come for rewards, but stay for utility. Which only strengthens with\n   every new project added.\n\n\nOVER WHAT PERIOD OF TIME WILL THE TOKENS BE DISTRIBUTED?\n\n * 3 months\n\n\nHOW MUCH WILL YOUR PROJECT MATCH IN CO-INCENTIVES?\n\n * We cannot match with token co-incentives, but we can match with value-add to\n   all projects and protocols building on Optimism. Our open infrastructure will\n   allow for all Optimism projects to benefit from:\n\n 1. Native Optimism asset support on the card (every native token can be used on\n    the card)\n 2. Payment off-ramp rails: support creators, DAO contributors and users\n    directly on Optimism\n 3. Work with us to allow for custom payment flows, and allow tokens with\n    on-chain path to liquidity (not directly liquid e.g. vault, vested, wrapped\n    etc).\n\nProjects will have an open-source and on-chain friendly way to onboard\nthemselves and users will only benefit from the network effect with the more\nprojects are supported.",
+  "views": 1867,
+  "like_count": 5,
+  "word_count": 1081,
+  "answer": [
+    {
+      "content": "@Justin [/u/Justin] Justin, thanks for reading through the proposal! In this\nresponse I will try to clarify the question about the growth factor of our\nproposal.\n\nLet’s step away from Optimism. How do we onboard users on any network? The best\noption is to onboard developers. The logic is the following: developers create\nsomething → that something creates value → that value attracts users. All\nfeatures of the network, now specifically, the optimistic approach are\nadditional factors: speed, low costs, etc. are additional factors, but do not\ndefine the usage.\n\nMajor L1 networks started to focus on payment rails very early on: Solana - has\nan FTX card, BSC - has a Binance card, and Cronos - has a crypto.com\n[http://crypto.com] card. Payment rails are a standard “real-world use case”.\nBut, how does that service add value to builders? It doesn’t, to be honest.\nThere is no value-add and no integration path. Payment rails are typically a\nclosed-loop system. But our approach is 180 degrees different.\n\nWe say: let’s create an open infrastructure that will allow native\nprojects/protocols on the network to create new payment primitives that do not\nexist otherwise. Streaming contracts? Let’s stream transactions to a card.\nLending protocols? Let’s create a native credit card. Yield protocols? Let’s\nautomate interest rewards to the card and so on.\n\nOur approach is not as effective as printing immediate rewards. Immediate\nrewards provide immediate activity. But, rewards dry out, and capital moves\naway. So instead, we suggest focusing on building sustainable ways to attract\nusers, and it is through creating unique, new, crazy, and useful payment\nprimitives. Users come to Optimism to try that, and stay for the utility.\n\nHopefully, this explained my vision and approach a little bit better. Once\nagain, thank you for reading through this, Justin.",
+      "created_at": "2022-06-13T22:17:49.481Z",
+      "trust_level": 0,
+      "username": "niarbnotna",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Mover sounds very cool, but it is not clear how this incentives users and\nliquidity on Optimism. Can you elaborate a little more on that?",
+      "created_at": "2022-06-13T05:44:38.016Z",
+      "trust_level": 2,
+      "username": "Justin",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "I read in your proposal that OP tokens will be used to subsidize operations… but\nI don’t understand how this incentives users and liquidity on Optimism. Could\nyou elaborate more why users will remain after the incentives have dried up?",
+      "created_at": "2022-06-15T12:57:17.045Z",
+      "trust_level": 1,
+      "username": "Optimus",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "You want to spend 60% of the OP on subsidizing operations? This proposal is a\nstraight no from me.",
+      "created_at": "2022-06-18T07:45:32.219Z",
+      "trust_level": 1,
+      "username": "Oppa",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "That is not really a reason for why users would stay.\n\nAlso this entire proposal looks more like a proposal to fund your venture which\nis not the point of the grants!",
+      "created_at": "2022-06-19T11:37:02.183Z",
+      "trust_level": 1,
+      "username": "Cryptoz",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-06-12T22:08:46.954Z"
+}

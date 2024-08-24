@@ -1,0 +1,40 @@
+{
+  "title": "Delegate Resignation Process",
+  "content": "DELEGATION RESIGNATION PROCESS\n\n--------------------------------------------------------------------------------\n\nDelegates play a critical role in the development and ongoing operations of the\nCollective. It’s a very important role and we know it’s not easy. Optimism\ndelegates are asked to continuously experiment and constantly iterate; it’s\nnever easy to be the first to do something and delegates do it everyday.\n\nWhile the Collective depends on a community of high context, highly engaged\ndelegates, we also understand the realities of part-time contribution and the\ndemands of outside commitments. Part of designing a system resilient to churn\n[https://plaid-cement-e44.notion.site/DAO-Design-Principles-1a8f325a993948e185adf2fbc553e845],\nis having a well-defined resignation process that allows delegates to take a\nstep back from their commitment, whether short term or long term, with as little\ndisruption to the rest of the Collective as possible.\n\nOf course, our preference is for all contributors to remain within the\nCollective in one capacity or another, and delegates that need to step away\ntemporarily are always welcome back :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]:sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]\n\n\nTOKEN HOUSE RESIGNATION PROCESS\n\nDelegates resigning for any period of time should communicate their resignation\nin a delegate communication thread\n[https://gov.optimism.io/c/governance/delegate-updates/45]. It is suggested this\npost include:\n\n * Resignation period (whether short term or long term)\n * Reason for resignation\n * Any plans to remain active in the Collective in a different capacity\n * Please tag @lavande [/u/lavande], from the Optimism Foundation, and @zcf\n   [/u/zcf], from Agora, so we’re aware of your resignation\n\nIf you’re a large delegate, whose inactive voting power might block quorum,\nplease encourage your delegators to redelegate their tokens while you’re away.\nYou may suggest a specific delegate(s) towards which your delegators should\nconsider redelegating.\n\nAdvanced delegation allows a delegate to pass-through their delegation to\nanother delegate and would be an ideal feature to utilize in the case of\nshort-term absences. However, while Agora has begun rolling out advanced\ndelegation to select delegates, this feature only works on a go-forward basis\nand, therefore, isn’t applicable for delegations made before the feature was\nenabled. Broader roll-out and retroactive applicability of advanced delegation\nwould be subject to a one-time upgrade to the token contract, which comes with\nserious considerations.\n\nWe recommend sharing long-term resignation plans on additional platforms such as\nFarcaster or in the #gov-general or #delegate-discussion channel in Discord to\nbroaden the audience aware of your long-term resignation. Please also tag @kent\n[/u/kent] @zcf [/u/zcf] and/or @yitong [/u/yitong] from Agora in your\nresignation notice so that we may adjust your delegate profile to reflect your\nlong-term resignation and reduce the probability you receive new delegations\nafter you’ve resigned.\n\nIf you hold an elected or appointed position in the Collective, you’ll need to\nappoint a replacement and communicate this change on the forum at least 7 days\nprior to this change taking effect. Full details around resigning as a\nrepresentative can be found in the Collective Representative Structure\nFramework.\n[https://gov.optimism.io/t/collective-representative-structure-framework/5884]\n\n--------------------------------------------------------------------------------\n\nMore information on the resignation process for Citizens will be provided before\nthe start of Season 6.",
+  "views": 553,
+  "like_count": 19,
+  "word_count": 673,
+  "answer": [
+    {
+      "content": "GM thanks for initiating this @maxwell [/u/maxwell]. Please let us know so we\ncan help here :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]",
+      "created_at": "2024-05-10T22:56:12.544Z",
+      "trust_level": 2,
+      "username": "Agora",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "This is a very important process for informed and engaged community members for\ntheir involvement in the collect. Appreciate this.\n\nIts crucial for an engaged community member to have he know how on the latest\nlist of delegates to ensure they redelegate to the most involved delegate if he/\nshe has the information on resignations.",
+      "created_at": "2024-05-11T10:06:06.411Z",
+      "trust_level": 0,
+      "username": "Aryaman",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "This is a great initiative especially important for our big delegates to keep\ntheir voteable delegation active while on leave.\nA few months ago I was pretty burnt out with crypto related stuff and needed to\ntake a break. My main concern was missing a vote and not putting the small\namount of OP delegated to me to use. I did keep tabs on what was happening,\nfortunately the end of season 5 was very quite in terms of voting.",
+      "created_at": "2024-05-28T07:15:50.434Z",
+      "trust_level": 2,
+      "username": "Butterbum",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-05-10T20:10:22.425Z"
+}

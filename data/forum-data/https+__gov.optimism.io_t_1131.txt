@@ -1,0 +1,60 @@
+{
+  "title": "[GF: Phase 0 Proposal] Zipswap",
+  "content": "Project Name: Zipswap\n\nAuthor Name: Canti\n\nDefillama TVL (at snapshot): $9.5M\n\nTransactions/day (at snapshot): 74\n\nTier: 3\n\nOptimism native: Yes\n\nRevisions to metrics used: N/A\n\nNumber of OP tokens to claim: 900,000\n\nL2 Recipient Address: 0x8602EE2f8AaEb671E409b26d48E36DD8Cc3B7ED7\n\n\nPROPOSAL FOR TOKEN DISTRIBUTION:\n\n\nBACKGROUND:\n\nZipswap is a DEX designed to reduce gas fees on optimistic rollups by\ncompressing calldata. Development and incentives are currently active only on\nthe Optimism chain.\n\nWe are working to implement Optimism-native novel AMM mechanisms and innovative\ntokenomics, which seek to:\n\n * better enable market-driven price discovery\n * deepen liquidity across the network\n * assist new Optimism projects in bootstrapping liquidity\n * create new DeFi primitives\n * provide a fast, easy, and cheap means of swapping tokens\n\n\nHOW WILL THE OP TOKENS BE DISTRIBUTED?\n\n 1. 70% of our OP allocation (630,000 OP) will be distributed as gas fee rebates\n    to traders on Zipswap - fully or partially returning transaction fees. An\n    additional requirement of staking a small amount of ZIP tokens, and/or\n    minimum transaction size is also likely, as a way to eliminate the incentive\n    of spamming pointless transactions as an indirect way to “buy” OP tokens\n    with gas fees. At worst, with no minimum swap size, it would be equivalent\n    to buying OP at the spot price (paying with gas fees). With other\n    requirements (especially minimum swap size) it becomes equivalent to buying\n    OP above spot (mostly due to swap fees).\n\n 2. 30% of our OP allocation (270,000 OP) will be used to incentivize liquidity\n    alongside the introduction of revamped tokenomics, likely a veZIP\n    implementation, meaning participation in the new tokenomics grants boosted\n    rewards in the form of OP.\n\n\nHOW WILL THIS DISTRIBUTION INCENTIVIZE USAGE AND LIQUIDITY ON OPTIMISM?\n\nDuring the initial phase of the distribution, by temporarily eliminating gas\nfees, trading on Zipswap/Optimism becomes more attractive (especially for\nsmaller traders). Once the tokenomics refresh launches we’ll not only be\nincentivizing additional liquidity with ZIP emissions but we will be\ndistributing the remaining OP. ZIP emissions will continue well after the\nremaining OP is distributed.\n\n\nWHY WILL THE INCENTIVIZED USERS AND LIQUIDITY REMAIN AFTER INCENTIVES DRY UP?\n\nIn the optimistic case, more swaps due to incentives lead to → higher LP fees →\nhigher returns to LP → eventually, liquidity providing remains profitable even\nin the absence of incentives for users and liquidity providers. On the pure\nliquidity incentivization side, it’s likely a veCRV-esque model (using the ZIP\ntoken) will be introduced in the future after the initial OP distribution, which\nwill serve to attract stickier TVL to Zipswap (and therefore Optimism).\n\n\nOVER WHAT PERIOD OF TIME WILL THE TOKENS BE DISTRIBUTED?\n\nThe duration of the gas rebate distribution phase is impossible to predict due\nto the variable nature of the distribution method; daily spending depends on the\nlevel of gas fees, daily frequency of swaps fulfilling the criteria and the\nprice of OP tokens. The distribution schedule of the remaining 270,000 OP\nafterward is TBD as it will occur alongside the beginning of the revamped ZIP\ntokenomics. Current estimate is distribution over ~3 months, though this is\nsubject to change.\n\n\nHOW MUCH WILL YOUR PROJECT MATCH IN CO-INCENTIVES?\n\nAt the moment, ZIP tokens are continuously rewarded as an incentive to liquidity\nproviders. This will continue throughout the OP rebate process. Our\nco-incentives will greatly ramp up as we finish up our initial post-OP distro\nand enter the era of veZIP liquidity incentives.",
+  "views": 3088,
+  "like_count": 24,
+  "word_count": 903,
+  "answer": [
+    {
+      "content": "Looking forward to your work… Good proposal you have have here I must confess…",
+      "created_at": "2022-05-25T20:31:34.728Z",
+      "trust_level": 2,
+      "username": "pama01",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "I mentioned this before in the original discussion but i’ll reiterate it here.\nThe 3x multplier requires the protocol to be solely deployed on Optimism.\nZipSwap is also be deployed on Arbitrum, which makes it ineligible for the\nOptimism native multiplier",
+      "created_at": "2022-06-02T18:14:35.980Z",
+      "trust_level": 1,
+      "username": "Bodo",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Among the proposals, the gas rebate is unique. Given that gas is already\nrelatively low on optimism and will decline as the network grows, would the OP\ntokens last quite some time? If so - from a market positioning perspective, it\nwould be pretty compelling to create a marketing campaign for “Gas fee trades”\nand might be appealing to real users rather than rewards farmers which could\nmake it more enduring - and this positioning would also benefit Optimism.",
+      "created_at": "2022-05-31T05:00:40.774Z",
+      "trust_level": 2,
+      "username": "Justin",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "Zipswap is a dead project… devs abandoned there nyancoin and devs are none\nexistent…. Pretty much a soft rug… zipswap shouldn’t get any OP allocations\nsince there’s no development",
+      "created_at": "2022-06-25T12:02:58.487Z",
+      "trust_level": 2,
+      "username": "0xjason42069",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "love it. Lookin forward to zipswap ser",
+      "created_at": "2022-05-27T00:40:41.993Z",
+      "trust_level": 1,
+      "username": "shen",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-05-25T20:07:04.014Z"
+}

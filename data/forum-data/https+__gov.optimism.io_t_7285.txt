@@ -1,0 +1,60 @@
+{
+  "title": "Please make migrated Bedrock datadirs available as torrents",
+  "content": "Hi, I am trying to sync my own node and verify the network locally. But my\ndownload from the centralized HTTP source given in the “Running an OP Mainnet\nNode from Source” tutorial was somehow corrupted and does not hash correctly.\n\nNow I have do download the entire mainnet-bedrock.tar.zst again because there’s\nno way to know which part of the file was corrupted.\n\nIt would be great if these files were also provided as Bittorrent magnet links\nso that\n\n * I wouldn’t have to re-download everything\n * Download speeds are improved for other users (which right now are not optimal\n   for me either)\n * Server costs for Optimism are reduced because other people like me could also\n   seed and contribute our bandwidth\n\nPlease consider doing this!\n\nEdit: If any kind individual happens to have the mainnet-bedrock.tar.zst on hand\nand could make a torrent for it, I would really appreciate that too!",
+  "views": 660,
+  "like_count": 22,
+  "word_count": 405,
+  "answer": [
+    {
+      "content": "Working on getting a torrent up now. Will also start hosting torrents for more\nrecent snapshots.",
+      "created_at": "2024-01-02T19:45:44.123Z",
+      "trust_level": 2,
+      "username": "kelvin",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "Migrated datadir from the beginning of the Bedrock upgrade is now available\nhere:\nmagnet:?xt=urn:btih:0eea90fa3da8cd88bfa34c70ccef64f5e643c4c1&dn=mainnet-bedrock.tar.zst\n\nSeeders would be useful. I dumped the file onto a hosted seedbox so hopefully\nthat will help but it’s always useful to have more seeders. I’ll also start\nworking on creating snapshots at regular intervals and hosting via torrent.\n\n@dogsoup [/u/dogsoup] I checked the sha512sum and it does match what’s in the\ntutorial, not sure what happened with your download. Please try my torrent in\nthe meantime.",
+      "created_at": "2024-01-04T04:33:35.000Z",
+      "trust_level": 2,
+      "username": "kelvin",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "\n[https://avatars.discourse-cdn.com/v4/letter/d/3ab097/48.png] dogsoup:\n\n> Now I have do download the entire mainnet-bedrock.tar.zst again because\n> there’s no way to know which part of the file was corrupted.\n\nI suspect the hash in that tutorial may be wrong. Going to check it myself.",
+      "created_at": "2024-01-02T19:47:16.140Z",
+      "trust_level": 2,
+      "username": "kelvin",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Seems like it’s much needed, see this issue for a discussion and potential\nsolutions (there is a third party provider): [Feedback] Need more recent\nsnapshots · ethereum-optimism/developers · Discussion #44 · GitHub\n[https://github.com/ethereum-optimism/developers/discussions/44]",
+      "created_at": "2023-12-31T15:23:58.867Z",
+      "trust_level": 2,
+      "username": "norswap",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Sweet! Glad it’s useful. Also going to try to get a more recent snapshot up next\nweek.",
+      "created_at": "2024-01-25T16:57:43.419Z",
+      "trust_level": 2,
+      "username": "kelvin",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2023-12-25T21:49:48.674Z"
+}

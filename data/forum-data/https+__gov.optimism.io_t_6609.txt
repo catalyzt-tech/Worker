@@ -1,0 +1,60 @@
+{
+  "title": "Awesome Optimism",
+  "content": "In most other ecosystems there is a Github page that details all the projects\nbeing built. I can’t find anything for the OP stack.\n\nIf no-one is working on this, would everyone be cool if I took a crack at it?\n\nAnd if so, who wants to be featured?\n\nIt would be great if everyone could comment here on the projects they’re aware\nof and I can start pulling something together.",
+  "views": 888,
+  "like_count": 16,
+  "word_count": 615,
+  "answer": [
+    {
+      "content": "Hey, I think this might be what you’re looking for. Check out\nhttps://github.com/lucas-op/awesome-optimism\n[https://github.com/lucas-op/awesome-optimism]. We’ve been updating it for quite\na while. Feel free to contribute or suggest any changes you’d like!",
+      "created_at": "2023-10-20T19:15:53.266Z",
+      "trust_level": 1,
+      "username": "lucasmon",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "GM! I’ll tag some individuals who might find your GitHub page interesting:\n@joanbp [/u/joanbp] @latruite.eth [/u/latruite.eth] @dmars300 [/u/dmars300].\nLet’s hope for some fruitful collaborations!",
+      "created_at": "2023-10-23T03:40:40.852Z",
+      "trust_level": 4,
+      "username": "brichis",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 2
+    },
+    {
+      "content": "\n[https://avatars.discourse-cdn.com/v4/letter/h/34f0e0/48.png] hariseldon:\n\n> Like how do I filter between Base, Zora and/or PGN?\n\nThis sounds more like an addition rather than a whole separate\nproduct/endeavour, but I see your point. @latruite.eth [/u/latruite.eth] has\nbeen working on creating and maintaining the Optimistic Vision Reservoir\n[https://optimism-vision-reservoir.com/]. It’s at an early stage since it was\nrecently approved as a mission\n[https://gov.optimism.io/t/final-create-and-maintain-the-optimism-vision-reservoir/6102]\nin the context of season 4 but perhaps it’s closer to what you had in mind (and\ncloser to “Awesome Ethereum Resources” you shared above.",
+      "created_at": "2023-08-11T09:30:25.418Z",
+      "trust_level": 2,
+      "username": "Sinkas",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Hi Joan.\n\nAbhinav and our team independently worked on the same idea. In early September,\nAbhinav provided suggestions for additions to our list, as seen from the\ndiscussion on this GitHub issue: Certain additions · Issue #2 ·\nlucas-op/awesome-optimism · GitHub\n[https://github.com/lucas-op/awesome-optimism/issues/2]. We decided to\nincorporate his suggestions into our list, resulting in what Abhinav refers to\nas the “Merged Repo” in his application.\n\nWe know that the current situation is not ideal and we have already reached out\nto him to see if we can consolidate our applications.",
+      "created_at": "2023-10-23T21:57:38.583Z",
+      "trust_level": 1,
+      "username": "lucasmon",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "We have removed the Abhinav application and the only application of “Awesome\nOptimism” will be at Optimism Agora\n[https://vote.optimism.io/retropgf/3/application/0xe7dbc759d8e95884cef5cb0f710690abd5686297af6d90c7e48e0b624fce86d3].\n\nThanks for the input from @joanbp [/u/joanbp] !",
+      "created_at": "2023-11-02T16:11:43.386Z",
+      "trust_level": 1,
+      "username": "lucasmon",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2023-08-10T21:16:02.773Z"
+}

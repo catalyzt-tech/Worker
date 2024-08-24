@@ -1,0 +1,9 @@
+{
+  "title": "Season 4 Cycle 13 Draft Review Rubrics",
+  "content": "Consistent with Season 3, reviewers in Season 4 will use rubrics to review\ngrants proposals. The Grants Council is providing the Experiments and Builders\nsub-committee rubrics here for visibility and community feedback. Please provide\ncomment by Wednesday June 14 for your comments to be considered. Rubrics will be\nfinalized on June 15 at 19:00 GMT. Note that the rubric must relate to questions\nthat are on the proposal forms, which will be published in final form for Cycle\n13 on June 7 by 23:59pm PT. The draft proposal forms can be found here for\nExperiments [https://gov.optimism.io/t/draft-cycle-13-experiments-form/6045] and\nhere for Builders [https://gov.optimism.io/t/draft-cycle-13-builders-form/6046].\n\nLink to draft rubrics\n[https://docs.google.com/spreadsheets/d/1_R5LN4vu_ETNFKxuew8WwzzNA6Wzuk-zq2bQ2Ef8wcs/edit#gid=0]",
+  "views": 1021,
+  "like_count": 3,
+  "word_count": 139,
+  "answer": [],
+  "created_at": "2023-06-07T02:10:15.616Z"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Culture Blocks - Co-created memes that can be linked together to form complex cultures and social graphs",
+  "content": "I’m building an app summed up in the title. Did you know that dopamine rewards\nfor pro-social behavior are a biological feature over 500 million years old?\n\nThis post has two purposes. CB is up for a grant with a vote on Jokerace open to\nOP badgeholders\n[https://www.jokerace.io/contest/optimism/0x8ad4e45082f269deb9187a7d8262d448a055c9f9]\nuntil April 10. Each badgeholder gets four votes. That’s a lot of dopamine.\n\nIf you want another hit of the good stuff, you could provide feedback/criticism\non the title of this post (I’m working on my “one line” pitch) or any of the\nlarger picture laid out below. For either case I’m particularly interested in:\n\n * Do you understand what the project is?\n * Does it make sense as to why it’s worth building (or at least why I think\n   it’s worth building)?\n * What would you add?\n * What would you remove?\n\nNow then…\n\nA meme was originally defined as the cultural equivalent of a gene - a unit of\ninformation within a social group that can replicate, evolve, and undergo\nnatural selection. The theory gained some popularity in the 90’s but lost\nmomentum due to the difficulty of agreeing on what actually constitutes a meme\nand how to measure cultural information.\n\nInternet memes define a structure and are easily tracked. Know Your Memes\n[https://knowyourmeme.com/about] has been doing so since 2008 in a format\nsimilar to wikipedia. Internet memes don’t represent complete cultures of\ncourse, but it’s a significant step for the theory.\n\nIt seems like the next logical step in this progression is to create an app that\nallows memes to:\n\n * Be created, mutated, and replicated by groups\n * Form links to incubate and grow into complex cultures\n * Undergo selection processes\n\nWe could probably stop here and see some interesting results, but I think we can\ngo a step further to clean the cultural slate and initiate a Cambrian Explosion\nof memetic activity:\n\n * One human = one account at the gates to keep out bots and sybils\n * Anonymizing users at the gates removes the influence of previous cultural\n   links (friends, family, etc) on that user’s input. They still hold that\n   cultural information in their minds, but the social pressure of identity and\n   conformity is removed while in the app, so they are free to try on new hats\n   and express themselves authentically.\n   * As memes are co-created and cultures are formed, anonymous users can offer\n     to share (or revoke) pieces of information with those they have interacted\n     with, creating high value social data. Example: two parties offer to share\n     info with a group they just made a dope meme with; the exchange is made and\n     a new social connection is formed, anchored within a culture.\n * Memes can be minted to allow individuals to build their own cultural\n   narratives. This creates another opportunity for social connections to\n   happen. Example: when ten people mint the same meme give them an option to\n   form a new culture as a group with that meme as a genesis block.\n * Limiting how much time and data any individual can put into the system to\n   about what the bottom 20% of active users would naturally contribute spreads\n   the content more evenly, which means more diversely since every human has\n   unique experiences and perspectives to throw in the blender.\n\nIf it works right, this could allow us to rapidly discover and develop new\nfoundational layers of society that accurately represent the wants, needs, and\ndesires of the population. And because everyone is working together to create\nthese memes and cultures, they automatically start with a committed,\ndecentralized, and aligned community.\n\nSo, that’s the basic premise. Here are some more details about what I’ve built\nthe last month and plans for the future.\n[https://gov.optimism.io/t/hedgey-rpgf-grants-final-project-updates/7841/6]\nConsidering the idea is all about co-creation and shared perspectives, I’ll stop\nhere and curiously await some novel perspective from the OP cultural mind to\nmove the narrative forward.",
+  "views": 598,
+  "like_count": 1,
+  "word_count": 810,
+  "answer": [
+    {
+      "content": "Good luck on the Mission Request too!",
+      "created_at": "2024-04-05T18:01:00.276Z",
+      "trust_level": 2,
+      "username": "Sator",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Thanks :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]\n\nWould love to hear your thoughts on the limitations of decentralized governance.\n\nOriginally my idea was to make this a group decision making process\n(sociocracy/holocracy style) to build the structural pieces of organizations one\npiece at a time (name, purpose, roles, apps used, etc.). A group of us were\nplaying with it as a discord bot when AI took off last March or so and we\nstumbled into the idea of summarizing our conversations.\n\nOn the one hand it gets a little more difficult to be precise about the output\nyou want, but on the other it removes the need to propose and consent to final\nblocks. It also takes away ownership over that final block which makes it\nemergent and collectively owned. Very interesting.",
+      "created_at": "2024-04-05T20:17:12.550Z",
+      "trust_level": 2,
+      "username": "maenswirony",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-04-05T16:37:17.775Z"
+}

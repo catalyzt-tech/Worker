@@ -1,0 +1,60 @@
+{
+  "title": "Airdrop #2 Feedback Thread",
+  "content": "We would love to hear your thoughts on airdrop #2! In order to keep the feedback\nin one place, please reply to this thread with your thoughts and suggestions.\n\nGood feedback includes:\n\n * Suggestions for how to tune spam filters to reward real users.\n   * Includes sybil resistance as well as improving false sybil positives.\n * Positive sum behaviors you think contribute to the community.\n * Airdrop logistics (size, frequency, etc)\n\nPlease leave constructive feedback so we keep the signal to noise ratio high!\n\nThank you!!!",
+  "views": 2869,
+  "like_count": 101,
+  "word_count": 2815,
+  "answer": [
+    {
+      "content": "As a recipient, I cannot complain too much. But as suggested improvements,\nperhaps also factor in:\n\n1) Number of governance votes cast (either on Snapshot or Agora). I.e. This will\nreward real, regular governance participants irrespective of their delegated\nvote size/power. More votes cast (irrespective of voting power) = more impact on\nOptimism’s future, and thus according to Optimism philosophy should also equal\nmore profits accrued.\n\n2) Number of ‘completed Quest’ NFTs held. I don’t think this criteria should be\noverweight, but there should be a reward to testing new apps and possibly\nonboarding for regular use. Also, by counting this as a criteria it would\nvalidate, reassure and show follow-through to many who genuinely believed Quests\nwould be a major influence on AirDrop 2.\n\n3) While it’s clearly stated that, “participation in this governance forum will\nnever be used as a criterion for a future airdrop”, there are ways to reward\nforum participation without attracting spam, low quality posts. I.e. the blanket\nnon-consideration of Forum participation could be a false sybil positive. For\nexample, all of our Forum Profiles list the ‘number of hours read’ or the\n‘number of hearts received’, etc. Thus we could use high-quality, long term\nengagement in the Forum as a criteria or marker of positive sum behaviour.\n\nEDIT 4) POAPs collected at Community Governance Calls. The number of these POAPs\nheld can be a strong, clear indicator of those who are deeply involved in\nOptimism Governance. I’ve only been to a couple of these calls, but both times\nthe attendee list was a ‘whos who’ of Optimism leaders (real, real, real users,\nbuilders and ambassadors). Rewarding these POAP holders will inherently reward\nthe OP Community Leaders, but will also incentivise attendance and participation\nin these meetings.\n\nBut overall, I was very happy with the Airdrop, and really appreciated it.\nIncluding the ease of receipt, i.e. it just showing up in my wallet. This was a\ngreat surprise and better than having to run the gauntlet of have to ‘claim’ on\nany possibly dodgy website.\n\nFinal general comment: OP price hasn’t crashed post AirDrop 2, so it looks like\nmore recipients are holding onto their tokens and not just using the airdrop to\nmake a quick buck.",
+      "created_at": "2023-02-21T12:53:33.439Z",
+      "trust_level": 2,
+      "username": "Axel_T",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 16
+    },
+    {
+      "content": "There were cool mechanics in both airdrops to stop sybil farmers, but some other\nthings are jeopardizing the community.\n\nPeople always look back at how a token was distributed and use that to establish\nthe legitimacy of the different protocols/chains, and with all these gymnastics,\nsome of us are concerned that you might be messing it up.\n\nThe 2 problems with the mechanics established in the airdrops:\n\n1- Heavily skewed in favor of people already holding OP:\n\nLots of users might not be participating in governance because they did not get\nairdrop 1, or they simply do not care about it. But, are not these real OP users\ntoo, that should have the opportunity/invitation to participate in governance\nthat these airdrops represent?\n\nThis mechanic is favoring the accounts that already got airdrop 1, or the ones\nwho already have a lot of OP, heavily favoring centralization. This makes no\nsense.\n\n2- Great disparity in the amounts of OP received per account\nEven if were not true that not all accounts should have an equal invitation to\nthe governance of the optimism collective (wich is a very debatable assumption\nin itself), i dont see how its a good idea that, for example, some accounts get\nairdroped 5000x the governance power over others… which is exactly what airdrop\n2 did. (some users got 1, some selected few 5000x… most got < 20)\n\nI will put this in more practical terms, from my perspective:\nIm a real user, and optimism is my main chain, and have over 500 txs. I got 80\nOP, and I dont understand why some users have gotten 27k OP from the first\nairdrop, and those same got 5k from this second one now. Why do these people are\n400x more valuable than me as a user? I dont think they even use the chain as\nmuch as i do. And most casual users from op received even less than me…its\nobvious they will be mad.\n\nThe disparity and centralization you are creating from the start is huge. And\nwhat its more worrisome is that its done at discretion, without any valid\njustification for it.\n\nI dont know if “fairdrops” are the best, but at least you should be VERY\nclose/striving to it. To have a wide and equal distribution as possible. If,\nlets say, you gave equal ammounts of OP to users who had meet x criteria, these\nairdrops would have been a lot more legitimate. Maybe not a fairdrop, but\nsetting a 2x cap or whatever. I think both airdrops had good intentions from the\nteam, but in reality they are heavily centralizing the collective at discretion,\nand taking away legitimacy of the project in the process.\n\nMaybe its still early to fix the course, but that might imply, for example doing\nfairdrops from now on and not doing airdrops to any account that already\nreceived X ammount of OP… wich will make OP whales mad. lol.",
+      "created_at": "2023-02-24T15:49:22.025Z",
+      "trust_level": 1,
+      "username": "Suga",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": "I personally like a surprise AD. I mean, free $$… But I understand the\nperspective of those who completed Quests or performed certain transactions\nthinking they would qualify.\n\nI think the Quests were a novel idea targeting all users to assist in\nintroducing the OP Ecosystem and rewarding users immediately with an NFT. The\nNFT part was smart, as it “paid” out upon completion and incentivized behavior\nOP found important. Though it was possible that completing Quests helped you\nqualify. Ultimately just be active in the areas that interest you.\n\nI liked how transactions on Eth were not part of the eligibility. As the OP\necosystem grows, many users may not have the need to leave L2, so that part\nmakes total sense.\n\nA lot of the issues I am reading may stem from OP’s messaging. At the time,\nadding the Quest feature to the website and promoting it in Discord did make it\nappear very important, which it is. But Optimism’s style is simple and anything\nthat is created and launched by OP is a big deal. So when Quests launched only a\nfew months after AD#1, it had an AD eligibility aura that was never put to rest.",
+      "created_at": "2023-02-22T15:18:53.828Z",
+      "trust_level": 2,
+      "username": "Graciouseats",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "Overall innovative approach to filter the users.\n\nFew thoughts.\n\n 1. We are focused towards funding public good and building a better world, not\n    including public good funding, like gitcoin, clr fund and other, as a\n    criteria was a surprise to me.\n\n 2. Including power user was an excellent move. We need to push towards\n    encouraging users to keep the sequencer busy.\n\n 3. I understand why we choose to drop the reward directly to the eligible\n    address but, given a chance, I would change it to claim process just like\n    airdrop 1.",
+      "created_at": "2023-02-22T16:34:11.723Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "What I can say is that the reactions to this airdrop were quite strong. And\nthat’s understandable. This airdrop surprised us all : the timing, the low %\ndistributed and the very (too?) selective criteria.\n\nThis being said, if the goal of this airdrop was to disinterested the farmers, I\nbelieve that it is done!\n\nMore seriously, here are some ideas :\n\n * To reduce the sybills we saw several proposals like the Gitcoin passport, the\n   amount of fee or transactions, the duration of interactions with the\n   different apps etc… I think it’s a bit excessive. Especially for the\n   passport, which requires doxxing to be valid. Nobody has yet found effective\n   solutions to reduce bots. But use platform like Clique could be a thing.\n\n * About the good behaviors that contribute to the community I think you still\n   have to take into account the on-chain data. The number of quests made, the\n   number of transactions over the year, the governance votes… The goal is to\n   have a wide enough range of eligibility criteria to reward users properly.\n\n * I think that making an airdrop too small in terms of amount is not a good\n   thing in the long run. The idea is not to make only airdrop like season 1 but\n   to find a middle ground.\n   May be 2/3% of the supply per bach in order to keep it attractive.",
+      "created_at": "2023-02-22T14:17:34.584Z",
+      "trust_level": 2,
+      "username": "valosh",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    }
+  ],
+  "created_at": "2023-02-21T12:24:41.128Z"
+}

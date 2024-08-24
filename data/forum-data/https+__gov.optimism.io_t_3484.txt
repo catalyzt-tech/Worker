@@ -1,0 +1,60 @@
+{
+  "title": "We need to address Aelin Protocl GF Phase 0 Token Distribution",
+  "content": "Happy merge day, I hope you had fun collecting all those panda POAPs.\n\nWe all know that as part of GF Phase 0 Aelin protocol got 900K OP token which\nthey agreed to distribute as below\n\n * 40% to LP stakers (AELIN/ETH), distributed weekly over a 6 month period\n * 60% to a pool incentive program. Each new pool created on Optimism over\n   $100,000 will be eligible for OP rewards if not disavowed by the Aelin\n   council (see AELIP-21 [https://aelips.aelin.xyz/aelips/aelip-21/]). An amount\n   equivalent to 3% of the total value of the pool will be distributed at\n   pro-rata to investors who accepted the deal.\n\nAelin Proposal for reference\n[https://gov.optimism.io/t/gf-phase-0-proposal-aelin-protocol/1157]\n\n 1. 14h July they received their token from foundation\n    [https://twitter.com/op_whales/status/1547424225769803777?s=20&t=z38ulNIoaOMxq9bqQ0hhww]\n\n 2. 9th Sept, a AELIP [https://aelips.aelin.xyz/aelips/aelip-35/] was\n    introduced. This was intend to override their commitment mentioned in Phase\n    0 proposal and now its approved.\n    putting a paragraph from their AELIP\n    “The protocol is getting more and more traction every day and this because\n    of the amazing work done by the core contributors this year. Aelin is not at\n    a stage where development can be slowed down. For growth and better PMF, new\n    ideas need to be brought and implemented at a significant pace in order for\n    the protocol to offer more exciting features and functionalities to its\n    users.”\n\nSo what changed ?\n\nThey will dilute almost all the token OP(866,963.20) they got from GF Phase 0 to\ncover their development cost. Token was distributed by foundation in good faith\nthat the receiving team will hold to their agreement.\n\nIf they are \"getting more and more traction every day \" then why not reach out\nto foundation for more funding. This is one of the major reason we have\nfoundation funding, to support innovation and help grow OP ecosystem. With new\nguideline, even gov funding is also supporting dev funding. Of-course once funds\nare in their wallet we cant force them to stick their initial proposal and there\nis no legal binding. In Governance Update #2\n[https://gov.optimism.io/t/governance-update-2/3056] , foundation gave a clear\ninstruction that self-dealing is not expected.\n\nI also believe, once a proposal is approved, we should be little flexible and\ngive the recipient some freedom to change the distribution plan if its seem fit.\nBut this is complete u-turn.\n\nTo me this seems wrong, misuse of grant, trust and goes against DAO.\n\nWould love to hear your opinion on this. What can we do to avoid such scenario.\n\ncc @cb0x [/u/cb0x] from Aelin protocol.\n\nAELIP-35: Aelin Pool and OP incentives\n[https://aelips.aelin.xyz/aelips/aelip-35/]\n\nAelin\n[https://app.aelin.xyz/pool/optimism/0xe361ac500fc1d91d49e2c0204963f2cadbcaf67a]\n\nAelin Pool with $1.1M in OP incentives\n[https://mirror.xyz/aelingov.eth/k623TQ77Dxk4CTUFRbgj9AXXJaMFo36GNzLYmSIImP8]",
+  "views": 2164,
+  "like_count": 40,
+  "word_count": 1820,
+  "answer": [
+    {
+      "content": "Hi @alex1 [/u/alex1] , thank you sharing more light on this. I am also assuming\nyou are from Aelin team…\n\nAfter reading your comment I have more question than answers. What agreement you\nhad with OF is not public knowledge so I will refrain myself from commenting on\nthat but will address other points.\n\n> brings more liquidity to the Optimism network\n\nYou have mentioned this twice in your comment but I am not sure how giving\nsalary to dev team will bring liquidity to OP ecosystem.\n\nIts clearly written in your AELIP proposal that you need funding for next 18\nmonth for “new ideas need to be brought and implemented at a significant pace”\nand there are many different ways to raise fund for that. Few I have already\nmentioned above. Converting growth funding into Dev funding and spending 1M in\n18 month without any proper discussion. How is this normal ?\n\nThis whole processes also seem rushed to me, in two month and one change to your\ninitial distribution plan your priorities has changed from user ob-boarding and\necosystem building to team funding.\n\nI am not vilifying Aelin, I want to have a discussion as this is serious topic\nand need attention from all parties involved and on top of that, Aelin has a\nnon-binding written document with us. If such behavior are acceptable then whats\nthe point of submitting a proposal, voting and time investment from all parties\ninvolved. Simply submit a proposal to make all party happy and once you have the\nfund, proceed do all the shenanigans except the one mentioned in proposal and\nlater use “great community” as shield.\n\nWhy not do a temp check and brain-storming in our discord or on this forum\nbefore making such changes ?",
+      "created_at": "2022-09-16T10:33:18.777Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "I agree that the protocols are a critical piece of optimism (as are the\ndelegates, the foundation, all gov participants) and that, like everyone else,\nthey want the best for the network. But that doesn’t imply they are not handled\nwith transparency. When I refer to transparency is that they have to be\nforthcoming with governance so they don’t get into these debates.",
+      "created_at": "2022-09-19T20:44:32.434Z",
+      "trust_level": 2,
+      "username": "AxlVaz",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "The liquidity is from capital coming in to pursue the deal for AELIN tokens. OP\nhelps attract liquidity and more investors. It is simple.\n\nYou are a bit all over the place and unclear with your message. It is hard to\nfollow but here is my response. This is my last response as I have a lot of work\nto do. You are welcome to come engage with us in the Aelin discord, however, if\nyou are passionate about the topic.\n\nFirst, let me say that Optimism is not good at communicating with Aelin. We have\na very difficult time reaching the CCs. At times we are completely ignored,\nalthough sometimes we get responses several days later. And now you are being\nhostile about the situation in my view. It is really tough to work with Optimism\nin my opinion. The project has great tech though. Hopefully it can continue to\nimprove with communication.\n\nSecond, I already explained what happened from our side. Aelin submitted the\nproposal and went through Optimism governance. We got the OP tokens and no one\nwas using them. Literally they just all sat there, totally useless. We modified\nthe original proposal slightly and still no one used them. We modified it again,\nstill in line with the original proposal in our view. These modifications went\nthrough Aelin governance since we already had the tokens. That being said, we\nused the money for a rebate and will continue to use the proceeds to fund\nliquidity on VELO. I really don’t see too much of a deviation from the original\nproposal\n\nAelin did not deviate significantly from the original proposal. We are still\nusing the funds to incentivize LP and give a rebate to Aelin Pool users, we just\naccelerated the rebate so that we could make use of the OP tokens. If we did\nchange the usage of funds from the original proposal, we would have talked to\nOptimism more closely about the situation.",
+      "created_at": "2022-09-16T17:55:28.692Z",
+      "trust_level": 0,
+      "username": "alex1",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "I completely agree with @OPUser [/u/opuser]\n\nI understand Aelin’s situation and to some extent the reasons for the change.\nBut don’t you think they should have been more transparent with this governance\nand presented the drawbacks they were facing?\n\nThis is something that worries me too much that every protocol that receives\ngrants makes decisions without being transparent with the governance. We would\nhave to find a way to minimize this, I think that as time goes by this type of\nsituation will become more and more recurrent.\n\nWe already saw it with Perpetual Protocol and with the case of Synthetix, who\neven now announced through the discord channel that they are going to delegate\n2M OP tokens from grants.\n\nI am not against being flexible with this kind of situations, they are\nsituations that can happen, but I think both parties, Optimism government and\nprotocols, should be 100% transparent.",
+      "created_at": "2022-09-16T00:09:24.626Z",
+      "trust_level": 2,
+      "username": "AxlVaz",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Dear OPUser,\n\nThe deal has been finalized but I will explain what happened from the Aelin\nside. When we submitted our first proposal there was an agreement with Optimism\nto do a discounted sale of OP tokens using an Aelin Pool, where Aelin received\nthe proceeds, but it was blocked by the Optimism legal team so we changed our\nproposal to use a rebate system for other token sales (60%) and to incentivize\nLPs (40%) even though it did not show how Aelin can really be useful as a\nprotocol.\n\nUnder the new proposal, no new deals were created on Optimism as a result of the\nOP grant. Due to this, Aelin governance wrote an AELIP to modify the original\nproposal. We increased the rebate per pool and changed it to 75% instead of 60%.\nStill however, there was no interest in the program from the community. The OP\ngrant we created to please the Optimism legal team was effectively useless at\nhelping Aelin bring users and liquidity to Optimism. Lose-lose.\n\nAs a result, we decided to stay with the same type of rebate system, but simply\nupped the rebate again, this time more dramatically in a way that actually\nbenefits Aelin and also brings more liquidity to the Optimism network. We kept\nthe same underlying theme of a rebate, we just increased the amount and used it\nall in a single pool, while also selling AELIN tokens.\n\nIn my view, this aligns with the original agreement Aelin had with Optimism and\nalso satisfies the legal concerns. It seems like a good middle ground. We are\nstill committed to helping the Optimism ecosystem grow. I also don’t think its\nright to vilify Aelin, which has a great community and a lot of hardworking CCs.\nWe are here to help communities fundraise at the same terms as VCs. It seems\nlike a great goal and vision for web 3 in my view and I would hope that Optimism\nnetwork and community will continue to support Aelin moving forward.",
+      "created_at": "2022-09-15T22:45:04.252Z",
+      "trust_level": 0,
+      "username": "alex1",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    }
+  ],
+  "created_at": "2022-09-15T22:10:33.548Z"
+}

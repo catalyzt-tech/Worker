@@ -1,0 +1,60 @@
+{
+  "title": "Will there be any usecase of $OP beside voting",
+  "content": "Will there be any usecase of $OP beside voting.\n\nwill there be any usecase relate to sequencer? (i have seen this usecase\nsomewhere but i can’t not remember.)\n\nThank you",
+  "views": 1858,
+  "like_count": 10,
+  "word_count": 167,
+  "answer": [
+    {
+      "content": "Both are optimistic rollups but Optimism is striving for EVM equivalence instead\nof just EVM compatibility.\n\nI am sure there are other technical differences that I am unaware of at the\nmoment. The last and biggest difference is the focus on Public Goods Funding and\nthe general ethos around Optimism being a protocol for the people.",
+      "created_at": "2022-06-07T12:26:44.560Z",
+      "trust_level": 1,
+      "username": "escottalexander",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "I think more use cases will pop up as the governance and the ecosystem grows\n\nIt’s so early yet!",
+      "created_at": "2022-06-02T13:37:39.854Z",
+      "trust_level": 2,
+      "username": "NicoProducto",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "I think later when the governance starts in effect the use cases will come.",
+      "created_at": "2022-06-02T23:22:47.391Z",
+      "trust_level": 1,
+      "username": "ApePrince",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "thanks for the inputs…without IT background it’s still difficult to understand\n:smile: [https://emoji.discourse-cdn.com/twitter/smile.png?v=12]",
+      "created_at": "2022-06-07T17:32:13.689Z",
+      "trust_level": 2,
+      "username": "leumar",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Hi,what exactly is the difference between optimism and arbitrum? thanks for\ninputs",
+      "created_at": "2022-06-05T18:32:07.133Z",
+      "trust_level": 2,
+      "username": "leumar",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-06-02T06:52:30.035Z"
+}

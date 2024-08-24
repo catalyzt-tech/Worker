@@ -1,0 +1,60 @@
+{
+  "title": "[READY] [GF: Phase 1 Proposal] OptiChads NFT Project",
+  "content": "Project name: OptiChads\n\nAuthor name: Dicaso [https://twitter.com/dicaso5] on behalf of OptiChads\n[https://linktr.ee/optichads]\n\nL2 recipient address: 0x10850762bac0dc6660630c1effe188a7cbfddc88\n\nGrant category: NFTs & Gaming\n\nNumber of OP tokens requested: 50,000\n\nIs/will this project be open sourced? Yes. We are CC0.\n\nI understand that I will be required to provide additional KYC information to\nthe Optimism Foundation to receive this grant: Yes\n\nIs this proposal applicable to a specific committee? Yes\n[https://gov.optimism.io/t/draft-so2-committee-proposal-nfts-gaming-group-a/3364]\n\nProject description: A 10K PFP project encouraging Health & Wellness in Web3 and\nbeyond. 50% of mint / royalties donated to public goods funding! (Over 6E\n[https://twitter.com/OptiChads/status/1559441162498461696] so far!)\n\nProject links: https://linktr.ee/optichads [https://linktr.ee/optichads]\n\nAdditional team member info: Our dev, Distractionboy\n[https://twitter.com/DistractionBoy_], is the cofounder of Optimistic Bunnies\n[https://www.optimisticbunnies.com/] and is well known within the OP NFT\ncommunity.\n\nRelevant usage metrics:\n\n1,738 Unique Holders\n[https://optimistic.etherscan.io/token/0x9b9f542456ad12796ccb8eb6644f29e3314e68e1#balances]\n\n4,994 Trades [https://qx.app/collection/optichads]\n\n20E Trading Volume [https://qx.app/collection/optichads]\n\n6E+ Donated to Public Goods\n[https://twitter.com/OptiChads/status/1559441162498461696]\n\nSmart Contract:\n\nOptimistic Ethereum L2 Explorer\n[https://optimistic.etherscan.io/address/0x9B9F542456ad12796cCB8EB6644f29E3314e68e1]\n[https://optimistic.etherscan.io/images/brandassets/optimism.svg]\n\n\nCONTRACT ADDRESS 0X9B9F542456AD12796CCB8EB6644F29E3314E68E1 | OPTIMISM\n[https://optimistic.etherscan.io/address/0x9B9F542456ad12796cCB8EB6644f29E3314e68e1]\n\nThe Contract Address 0x9B9F542456ad12796cCB8EB6644f29E3314e68e1 page allows\nusers to view the source code, transactions, balances, and analytics for the\ncontract address. Users can also interact and make transactions to the contract\ndirectly on...\n\n\n\n\nOptimism native? Yes.\n\nDate of deployment: August 2, 2022\n[https://optimistic.etherscan.io/tx/0xbb8e8aa349ac60fed06df1d179b3aed19267891cd707c23f3065840a52bf6062]\n\nEcosystem Value Proposition:\n\nOur focus is improving Health & Wellness in Web3 through our art. We have a very\nactive and passionate community of Chads focused on self improvement in and out\nof the gym. Through community efforts such as giveaways and fitness challenges,\nwe have grown to be one of the top NFT projects on Optimism by trading volume\n[https://qx.app/stats]. As we scale we plan to introduce more and more benefits\nto our holders such as fitness and wellness/mental health counseling, discounts\non protein products, etc.The art was hand drawn by myself with attention to\ndetail in mind - with the goal of bringing more normal users, as well as\ndegenerates into Optimism. As far as street cred is concerned, Vitalik has liked\n[https://twitter.com/OptiChads/status/1539888345731440641] some of our posts\nregarding our donations to RPGF\n[https://twitter.com/OptiChads/status/1555417627052359682], and we are the only\nproject on Optimism followed by Opensea\n[https://twitter.com/BigCryptoAlert/status/1562141890144866306]. At our core we\nare a community of like minded fitness lovers and are working to bring more\nusers into Optimism with our existing relationships and by building new ones.\nOptimism cannot succeed without a vibrant NFT community. NFTs bring new entrants\ninto the ecosystem, hype, and stickiness. These are things we need to develop\nand foster together!\n\n\n\n9914\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/5/5c2c52bbeb61c95cf67f4cd871c53a574111bdde_2_500x500.webp]\n99141200×1200 149 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/5/5c2c52bbeb61c95cf67f4cd871c53a574111bdde.webp]\n\n\n\nProposal for token distribution:\n\nWe’ve partnered with https://quest3.xyz/ [https://quest3.xyz/] a Web3 Quest and\nevent platform, and will use their service to do a series of fitness related\ncontests where we can reward our NFT holders OP provided they completed the\ntasks. The Quest3 incentives would be the first of their kind, essentially the\nNFT community’s equivalent to DeFi’s incentivized liquidity mining as I see it.\nFor verification we are able to review submissions manually through the platform\nbefore rewards are dispersed.We plan to use some of the funds to set a reward of\n1 OP for users who follow our social media channels.This direct marketing\napproach is a more effective and efficient use of capital by leveraging Web3.\nThe result should be exponential growth and awareness, and a positive network\neffect. We would like to have a series of weekly quests over a period of 2\nmonths, beginning with a contest that rewards holders who have done a certain\namount of steps, followed by a pushup challenge the next week, etc.\n\nWe would allocate 100% of our OP allocation to these quests. We will be using\nour own NFTs and Eth from royalties after the incentives are complete to\ncontinue these challenges and keep our community swole.We already have a strong\nfollowing and track record of Discord and Twitter\n[https://twitter.com/OptiChads/status/1561394539117813760] challenges. So we\nhope to use the funds strategically, as we’ve done before to drive volume to\nOptimism. NFT projects such as OptiChads in turn benefit Public Goods funding\nand the ecosystem as a whole.\n\nco-incentives: 50 NFTs to the top addresses with the best completion rate",
+  "views": 7520,
+  "like_count": 135,
+  "word_count": 3969,
+  "answer": [
+    {
+      "content": "Thanks for the comment! I think rewarding active holders will be more\nadventageous because it will allow us to iterate based on participation and\nfeedback. We could airdrop OP to our users as many DeFi protocols have done, but\nwith what we are asking for (50,000 OP) we can only airdrop 31 OP between all of\nour holders before quickly depleting the funds. Getting this proposal passed\nwould be huge for the OP NFT Community like you said, so we wanted to be precise\nand realistic with what we were asking for and how it would be given out. I am\ncurious what other people think about this, but it’s not possible to do a\nmeaningfull airdrop with only 50,000 tokens and I am fine with that number for\nchallenges and to get the ball rolling for the NFT community. As far as “the\nteam holding all the funds” we kind of have to in order to disperse them to the\ncommunity with the Quests. With the donations we have already made to RPGF we\nhave established a lot of credibility in the Optimism community already, and we\naren’t exactly asking for a Lambo so the incentive is high for us to keep\nbuilding.",
+      "created_at": "2022-09-10T02:22:11.016Z",
+      "trust_level": 2,
+      "username": "Dicaso",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "Exciting! Can’t wait to get the communities reaction to this!",
+      "created_at": "2022-09-09T16:56:19.124Z",
+      "trust_level": 2,
+      "username": "Jrocki",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "I support it.\nThis can boost nft community on optimism.\nbut also, use this 50% of it to airdrop to the early believer in the project as\nwell.\n\nAs 90 percent to fitness challenges seems that team has motive to get hold of\nall the funds.",
+      "created_at": "2022-09-09T20:02:12.399Z",
+      "trust_level": 2,
+      "username": "mteoptimism",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "thanks for the comment, appreciate the support!",
+      "created_at": "2022-09-10T02:23:12.189Z",
+      "trust_level": 2,
+      "username": "Dicaso",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "thanks exciting what this can do for the nft community!",
+      "created_at": "2022-09-10T02:23:47.606Z",
+      "trust_level": 2,
+      "username": "Dicaso",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    }
+  ],
+  "created_at": "2022-09-09T12:39:28.416Z"
+}

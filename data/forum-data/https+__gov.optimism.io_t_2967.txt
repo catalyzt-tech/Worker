@@ -1,0 +1,60 @@
+{
+  "title": "[READY] [GF: Phase 1 Proposal] Beefy",
+  "content": "Beefy Incentive Proposal\n\nProject Name: Beefy\n\nAuthor Name: @frondoto [/u/frondoto]\n\nNumber of OP tokens requested: 650,000 OP\n\nL2 Recipient Address: 0x4ABa01FB8E1f6BFE80c56Deb367f19F35Df0f4aE\n\nDeployed on Optimism: Yes, on 27/06\n\nRelevant Metrics:\n\nTVL: $268,000,000 across 16 different blockchains\nTVL in Optimism $10,000,000 (Link [https://defillama.com/protocol/beefy-finance]\nto DeFi llama for the latest number)\nSite: https://app.beefy.com/ [https://app.beefy.com/]\n\nOptimism alignment (up to 200 word explanation)\nBeefy is the multi-chain yield optimizer known for its high security standards.\nEvery protocol that gets listed on Beefy passes strict safety checks to ensure\nthe platform where our users are depositing is safe. This frequently results in\nBeefy joining talks with these teams, helping them adjust their security\nmeasures, and most of the time partnering with the underlying protocol, making\nit known to our vast multi-chain audience.\n\nBeefy also has a multi-chain app. This means that the opportunities across 16\ndifferent chains can be compared side by side to choose the best place to put\nyour tokens to work.\n\nBeefy’s users are quite diverse, but what they all have in common is that they\nhave been priced out of Ethereum. Deploying Beefy on Optimism allows those users\nto enjoy the safety of Ethereum, without paying the high gas prices.\n\nWe gathered feedback from different delegates and they required us to deploy on\nthe chain and gain some traction, which we did. Currently Beefy has 23 different\nvaults auto-compounding more than $10,000,000 of TVL. We have vaults for\nBeethovenX, Velodrome, Stargate, Curve, just to name a few.\n\nAt the time of writing this we are in talks with 4 different protocols on\nOptimism to partner with them and multiply even more the effect of the\nincentives. One example of this is Qidao, their protocol utilizes mooTokens\n(interest bearing collateral) to allow users to mint MAI and leverage their\nposition. This will be possible since Chainlink is already deployed on the\nchain.\n\nProposal for token distribution (under 1000 words)\nHow will the OP tokens be distributed? & How will this distribution incentivize\nusage and liquidity on Optimism?\n\nAfter deploying on the chain and working with its protocols we encountered\nimpactful ways to get the incentives to work.\n\n35% of the OP tokens will be used to incentivize a BIFI-OP farm. Having this\nfarm is vital to offer our complete product to Optimism users. Beefy distributes\nthe earnings of the platform in the form of , and we have a BIFI Maxi vault\nwhich auto-compounds the ETH for BIFI daily. In order to offer that vault we\nneed liquidity on that pair. To do this we are considering bribing veVELO\nholders, or doing co-incentives with BeethovenX. We will distribute these in\nbetween 12 and 18 months. After this rewards run out we will bring to the DAO\nthe decision of continuing the rewards with Beefy Optimism treasury.\nEdited this bit to be the pair BIFI-OP as @OPUser [/u/opuser] suggestion. Having\nBIFI on an LP is enough, we don’t need it to be ETH, and having OP instead makes\na lot more sense. We are encouraging BIFI holders to research and learn about OP\n(which we will provide materials for), and provide liquidity. This will bring\nour communities much closer.\n\n50% of the incentives will be used to boost the farms of native Optimism\nprotocols. The strategy will be to “showcase” Optimism protocols to our users\nthrough our social media (Twitter, Discord, and Telegram) and boost the vault\ncontaining its native token. This is great to put those protocols in the\nspotlight and bring new investors.\n\nLiquidity in Beefy is very sticky. Based on our vast experience doing these\nkinds of activities, after the boost finishes, more than 70% of the TVL stays in\nthe vault, despite having others with better APY. TVL only moves if the\ndifference is significant. This might be since Beefy is kind of a “set and\nforget” platform since the only interactions you need to do with our contracts\nis to deposit and withdraw (No periodic claims, manually compound, etc). We\nexpect to use these incentives in around 12 months, boosting approximately 7\nOptimism protocols for 1,5 months each.\n\n15% strategist developer/team incentives. Building a Beefy vault is not a simple\ntask.\nEvery new vault has its unique challenges that the development team has to solve\nin order to offer our users the simple “Earn more of what you stake”, but in the\nback, there is a ton of work being done. We vaulted Stargate pools, bringing\nmore liquidity to their bridge/tokens to the chain. We are also showcasing our\nbrand new Velodrome vaults, making Beefy the first protocol to offer\nauto-compounding vaults for that protocol. We cannot wait for MakerDAO, Lido,\nand many other big names to deploy on Optimism so we can work with them to bring\nliquidity to their pairs. This means we will need to develop even more\nstrategies to fit these protocols.\n\nThese incentives will be used to reward new and existing collaborators that\ndevelop new strategies for Beefy Optimism. It is relevant to mention that our\nstrategies are open for everyone to see and use, many times being a stepping\nstone for other protocols to build upon.\n\nAll of the incentives will be distributed during long periods of time as\ndescribed above.\n\nWhy will the incentivized users and liquidity remain after incentives dry up?\nIncentives are an excellent way to welcome new users to try the chain, and stay\nfor their unique products and ecosystem. We will use the incentives to create\ndeep and meaningful partnerships with Optimism protocols, many of which we had\ngreat relations with from other chains. One blockchain CEO compared this kind of\nincentives to when Uber launched. Uber was giving free rides and discounts to a\nlot of users, and people stuck using Uber after those incentives run out. Those\nincentives were used to bring users to a superior ride-sharing service. We are\naiming for the same strategy here. Make users come for the opportunities, and\nmake them stay for the unique product ecosystem/community.\n\nAlso at the same time that we distribute the incentives, we are planning\neducation around Optimism, their technology, their unique structure of the\ngovernance of the chain, and also provide social events in which our multi-chain\nusers can get to know Optimism protocols, and hopefully bring their\nliquidity/invest on them.\n\nOver what period of time will the tokens be distributed?\nBetween 12 and 18 months. (Extended the period from last proposal)\n\nAlso since Delegates raised the concern of tracking the correct spending of\ngrants, we compromise to keep the delegates up to date with the spending/uses.\n\nHow much will your project match in co-incentives?\nBIFI has a max supply of 80,000 which is fully distributed, and the DAO holds\nvery little of the supply (less than 1%). That is the reason we can’t match in\nco-incentives.\n\nTo summarize:\nDeployed on the chain, locked $3M TVL in 2 weeks.\nRe-structure of OP distribution.\nAdded community-building activities to the proposal leveraging Beefy socials.\nCompromise to report the spending to the delegates in the Optimism Discord\nserver.",
+  "views": 6585,
+  "like_count": 45,
+  "word_count": 4013,
+  "answer": [
+    {
+      "content": "Hey thanks for the proposal. For reference the old proposal is here: [READY]\n[GF: Phase 1 Proposal] Beefy\n[https://gov.optimism.io/t/ready-gf-phase-1-proposal-beefy/2719]\n\nWhat are the main differences as a TL;DR?\n\nFrom a quick look it seems to be:\n\nAllocation got restructured.\nAmount is the same.\nDeployed on Optimism.\nAdded co-incentives\nGreatly increased the duration of incentives (12 to 18 months).\n\nIs this correct?\n\nAlso one thing that would be nice to see in the proposal is a bit more detail on\nhow you plan to distribute those funds over 12 to 18 months.",
+      "created_at": "2022-07-16T16:19:01.275Z",
+      "trust_level": 2,
+      "username": "lefterisjp",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Edited the proposal with @OPUser [/u/opuser] suggestion. The incentivized\nliquidity will be in the BIFI-OP pair instead of BIFI-ETH",
+      "created_at": "2022-07-20T14:46:04.493Z",
+      "trust_level": 2,
+      "username": "frondoto",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "I appreciate that feedback on the prior proposal was taken into account. This\nlooks like a much better proposal to me and I’ll happily support it. Credit to\nyou all for seeing such encouraging early traction after your deployment to\nOptimism.",
+      "created_at": "2022-07-21T17:36:33.445Z",
+      "trust_level": 2,
+      "username": "solarcurve",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "great to see updated proposal.\n\nBiFi is live on OP with good volume is just 2 weeks which does support your\nproposal.\n\nOne thing I am still skeptical about is duration, how are you planning to\ndistribute it over move than 1 year, do you have any plan ?\n\nOne suggestion, would it be possible to distribute the token as an incentives\nbased on TVL? From 3 to 4, distribute few percent , from 4 to 5 another few\npercent and so on…",
+      "created_at": "2022-07-15T22:30:01.068Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Hello @lefterisjp [/u/lefterisjp] Your TLDR is correct, what I would add is that\nwe plan to keep leveraging Beefy’s big community (Twitter with 280k followers,\nDiscord and Telegram) keep bringing TVL to Optimism (Currently we are sitting at\n$5M), and that the bribes for our liquidity will have to go through our DAO\nvoting.\n\nI will add some detail on how the funds will be distributed so the delegates\nhave a clear vision.\n\nThanks for your involvement, even on a Saturday :smile:\n[https://emoji.discourse-cdn.com/twitter/smile.png?v=12]",
+      "created_at": "2022-07-16T16:43:15.213Z",
+      "trust_level": 2,
+      "username": "frondoto",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2022-07-13T16:31:40.023Z"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "[DRAFT] [GF: Phase 1 Proposal] Optimism with Celestia for Data Availability",
+  "content": "Project Name: Celestia Labs\nAuthor Name: Aditi [https://twitter.com/adeets_22] with feedback from Mustafa\nAl-Bassam [https://twitter.com/musalbas], John Adler\n[https://twitter.com/jadler0], Nick White [https://twitter.com/nickwh8te], Yaz\nKhoury [https://twitter.com/Yazanator], Ismail Khoffi\n[https://twitter.com/KreuzUQuer], and Zaki Manian [https://twitter.com/zmanian]\nNumber of OP tokens to claim: 300,000\nL2 Recipient Address: [TBD]\n\nRelevant Usage Metrics\n\nCelestia [https://celestia.org/] is the marriage of Ethereum’s rollup centric\nroadmap, Cosmos’ sovereign interoperable zones, and shared security. Celestia is\na consensus and data availability layer and is currently poised to be a leading\necosystem (check out the current testnet here)\n[https://docs.celestia.org/nodes/mamaki-testnet/].\n\nOptimism Alignment\n\nA Celestium [https://blog.celestia.org/celestiums/] is an improvement on a\nvalidium that uses Celestia instead of a centralized and unaccountable data\navailability committee (DAC). Celestiums are not technically Ethereum rollups as\nthe data availability is off-chain to Ethereum, but are Ethereum sidechains with\nhigher data availability guarantees, or the “optimistic” version of validiums.\n\nCelestiums use Ethereum for settlement and dispute resolution, while using\nCelestia as a data availability layer. Optimistic and zero-knowledge sidechains\ncan leverage a Celestium to decrease calldata costs and still maintain\ncryptoeconomic security guarantees.\n\nCelestia Labs plans to deploy a Celestium Testnet, leveraging a fork of Optimism\nand the quantum gravity bridge\n[https://github.com/celestiaorg/quantum-gravity-bridge], a Celestia-to-EVM\nmessage relay. This testnet will be focused on cutting edge R&D experimentation,\nstarting with alternate data availability layers (referenced by the Optimism\nteam here\n[https://twitter.com/optimismPBC/status/1527339143629778944?s=20&t=hrUkVf47fPpbeCiQDqFJdA]).\nNo tokens/tokenomics are currently planned for the Celestium Testnet.\n\nCelestia Labs is requesting 300,000 OP tokens. Builders are crucial to any\necosystem and as such, 50% (150,000 tokens) will be allocated to grants which\nwill encourage the community to build on top of the testnet and add core\nfeatures. The remaining 50% (150,000 tokens) will be allocated to fund core\ndevelopment of this work.\n\nProposal for Token Distribution\n\n 1. How will OP tokens be distributed?\n    If this governance proposal is passed, Celestia Labs will allocate 150,000\n    OP to ecosystem grants funding builders building on top of the testnet.\n    Celestia Labs will retain the 150,000 OP as funding to build out the\n    Celestium Testnet.\n\n 2. How will this distribution incentivize usage and liquidity on Optimism?\n    This will help bootstrap the growth of the Optimism ecosystem and allow for\n    broader experimentation. This will also further contribute to core\n    development and improvement on the upstream Optimism codebase which will\n    ensure more usage as more builders test out new features and core\n    improvements to Optimism.\n\n 3. Why will incentivized users and liquidity remain after incentives dry up?\n    Funding builders to add features on the testnet can bring in more users.\n    Those users may become regular users of the Optimism ecosystem and may not\n    leave easily (as seen with other ecosystems like Polygon). With the\n    contributions brought by builders on the Optimism-fork, it can become an\n    R&D-focused testnet for Optimism where core-features and improvements can be\n    merged upstream to the Optimism codebase. As more core features are added,\n    builders are incentivized to test out those new features with their smart\n    contracts and dApps built on top of the Optimism-fork prior to deploying on\n    Optimism mainnet.\n\n 4. Over what period of time will the tokens be distributed?\n    6-12 months.\n\n 5. How much will your project match in co-incentives?\n    Celestia Labs is willing to match 50% of the Optimism grant, as 50% of the\n    asking amount will be distributed to ecosystem efforts. The co-incentive\n    match will be based on the USD amount at the time $OP is granted. Celestia\n    Labs will also fund the core developers working on this project beyond the\n    150,000 tokens allocated to core development.",
+  "views": 5274,
+  "like_count": 30,
+  "word_count": 2281,
+  "answer": [
+    {
+      "content": "Supporting alternative DA layers and giving users the choice (ala volition -\nthough I don’t know how it’ll work with fraud proofs) may be a worthwhile\nfeature in the long term - if, and very, very big if, there’s significant demand\nfor this blockchain stuff. However, I agree that in the here and now, focusing\non EIP-4844, as the Optimism team is doing, is the best approach.\n\nRegarding the proposal, I do not believe it fits the stated goals for Phase 1,\nand does not directly incentivize growth to Optimism & Optimism dApps\nimmediately. However, I’ll be happy to consider it for RPGF or a future Phase\nthat’s more aligned with goals for building out such infrastructure.",
+      "created_at": "2022-07-05T16:58:07.067Z",
+      "trust_level": 2,
+      "username": "polynya",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 9
+    },
+    {
+      "content": "Hi @adeets_22 [/u/adeets_22]. Celestia is a project that (at least within the\ncommunity I represent) is in our interest.\n\nNevertheless, governance funds allocated for phase 1\n[https://community.optimism.io/docs/governance/gov-fund/#phase-1] says\n\n> any project on Optimism can submit a forum proposal to request any amount of\n> OP tokens. The proposal must include a plan for how the tokens will\n> incentivize growth on Optimism.\n\nIn this sense, If Celestia devs/contributors wants to deploy a Optimism fork, I\ncan made some open questions (for all):\n\nIs this (Celestium idea) truly part of Optimism ecosystem? or would we be just\nsupporting a potential new ‘not at all/semi-L2’ chain?\n\nIs this responsibility of the OP governance about fund beyond proposals that\nwill surely not impact the primary network?.\n\nEthos on Optimism is closely aligned to Ethereum in many ways. By example, it’s\ndifferent from funding Ethereum DA roadmap initiative, because it positively\nimpacts the Optimism mainnet at some point in the future.\n\nAt the moment I don’t see that this proposal helps to grow the Optimism\necosystem in terms of greater use of the primary network (first goal in our\nvision).\n\nI expect this discussion is going to go on for a long while.",
+      "created_at": "2022-07-05T16:49:36.988Z",
+      "trust_level": 2,
+      "username": "Joxes",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Although I think R&D should always be encouraged, and every DA research (if open\nsource) will probably also help upon improving Ethereum’s L1 DA, I don’t think\nthe incentives align correctly here.\n\nIt kinda feels like a proposal to fund:\n\n * Possible competition.\n * Private parties where all possible profit in the future won’t go directly to\n   Optimism ecosystem.\n\nIn this sense, this seems more appropriate for a EF grant. Or, there might be a\ntime when this comes of as a retro-active public good.\n\nThere might be an iteration of this proposal that I’m not thinking right now,\nthat might align better. But that would mean Celestias lab to give up on some of\ntheir reward in this deal.",
+      "created_at": "2022-07-05T17:10:38.812Z",
+      "trust_level": 2,
+      "username": "0xged",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "\n[https://avatars.discourse-cdn.com/v4/letter/a/e56c9b/48.png] adeets_22:\n\n> The testnet ideally benefits the development of Optimism as a broader codebase\n> for R&D experimentation and bringing people into the Optimism ecosystem\n\nI think that realistically this proposal is maybe at least 6-12 months too early\nto be executed on effectively. I’m hoping that the Optimism codebase can\neventually turn into a base platform for other optimistic rollups and this\nproposal aligns with that idea. From a practical standpoint though, Bedrock,\nCannon, and EIP-4844 should be the primary focus right now and finishing these\ntasks will make it much easier to plug in alternative DA layers (I assume that\nimplementing EIP-4844 will be a good test for Bedrock’s modularity).\n\nSo for right now my opinion here is that this proposal too early right now but\nis worth considering at a later point in time and should probably be re-proposed\nin 6-12 months when Bedrock and EIP-4844 are live.",
+      "created_at": "2022-07-05T17:46:22.005Z",
+      "trust_level": 2,
+      "username": "optimist",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Agreed with this - the pragmatic opportunity is to expedite & focus on EIP-4844\nnow, and then revisit in ~12 months or so when hopefully 4844, Bedrock, Celestia\n& other DA layers are live. EIP-4844 development should absolutely be a top\ntarget for RPGF.",
+      "created_at": "2022-07-06T04:02:32.120Z",
+      "trust_level": 2,
+      "username": "polynya",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2022-07-05T14:01:03.992Z"
+}

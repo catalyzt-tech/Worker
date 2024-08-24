@@ -1,0 +1,60 @@
+{
+  "title": "OP as an MEV staking token",
+  "content": "Hi everyone, I wanted to make an alternate proposal than Enabling $OP as a gas\ntoken on Optimism Network!\n[https://gov.optimism.io/t/enabling-op-as-a-gas-token-on-optimism-network/2362].\nThis is an approach which mirrors PoS as well as Fuel Labs\n[https://maven11.substack.com/p/the-fuel-for-fast-execution?s=r].\n\nThis is not a token price scheme, please read the full post!\n\nEDIT: I found some relevant posts where implementation could be discussed: Use\nOP to decentralize the sequencer\n[https://gov.optimism.io/t/use-op-to-decentralize-the-sequencer/2626] and\nPragmatic first step towards decentralizing sequencer\n[https://gov.optimism.io/t/pragmatic-first-step-towards-decentralizing-sequencer/2767]\n(this one has recent activity). I apologize for any duplication, although I\nthink reviving the discussion of using $OP specifically (as a counter to less\npalatable proposals such as gas token) is still its own topic.\n\n\nMAJOR POINTS\n\n * $OP as a gas token does not create revenue for $OP, it only creates velocity.\n   Our objective is much more than to pump price via a monetary premium.\n * Buy-and-burn is too manual, we should reserve monetary policy for spending\n   needs.\n * The revenue of a blockchain, when scalability expands to infinity, is MEV.\n * Giving $OP tokenholders block-ordering rights directly securitizes the\n   revenue into the token, which, in tandem with seigniorage and treasury\n   diversification, allows the DAO to more flexibly fund public goods (real\n   revenue does not always line up with the quantity of good projects to fund -\n   we require monetary expansion and contraction of the treasury)\n * Another benefit of decentralizing MEV is that you get better censorship\n   resistance / liveness.\n * Public goods funding should not have a centralized dependency on Optimism\n   corporation. Although there are short-term gains to “double-dipping” by\n   selling a token and keeping revenue, it’s not good for the long-term brand /\n   ability to fundraise and attract projects\n\n\nTHE ECONOMICS\n\nThis may seem to reduce revenue for the ecosystem fund (what the team refers to\nas “public goods”), however it may actually increase fundedness since if the\necosystem fund holds e.g. 20% of the $OP supply then they go down from 100% to\n20% of current revenue but they can sell up to 20% of all future revenue and\neven print themselves a larger stake. Hence, if we believe the ecosystem to\ngenerate a lot of revenue in the long-term then securitization is the most\nsustainable and flexible way to keep the ecosystem fund wealthy.\n\n\nHOW CAN IT BE IMPLEMENTED?\n\nEDIT: The below was based on a mistaken assumption on my part that the current\niteration of MEVA\n[https://ethresear.ch/t/mev-auction-auctioning-transaction-ordering-rights-as-a-solution-to-miner-extractable-value/6788]\nwould be conducted off-chain and/or privately between proposer<->builder a la\nFlashbots. In fact, “we simply repurpose L1 miners and utilize them as block\nproposers” is a detail from the original MEVA post I had missed which simplifies\nthe implementation as now the L1 contract directly can collect and distribute\nstaking rewards, rather than a rotation of auctioneers. This also avoids\nrandomness of returns for small stakers. See also @polynya [/u/polynya] 's\ncomment [https://gov.optimism.io/t/op-as-an-mev-staking-token/3202/16].\n\n * sortition: give random $OP staker headstart in committing to L1\n   (get_beacon_proposer_index). should they also get an inactivity penalty?\n * delegation: in-protocol delegation or in-protocol staking derivatives\n * top-100 (Cosmos) vs slots (Ethereum)?\n * there could be a tool like mev-boost so that the $OP staker can receive MEV\n   blocks\n * progressive decentralization: e.g. centralized entity still sequences 50% of\n   the time",
+  "views": 2680,
+  "like_count": 30,
+  "word_count": 2061,
+  "answer": [
+    {
+      "content": "\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/llllvvuu/48/1544_2.png]\nllllvvuu:\n\n> What I’m describing is a realization of this vision.\n\nTo tell you the truth, you have your own goals that are aimed at your interests\nat the moment: more value and utility for the OP token.\n\nI have my own goals and interests, I develop my projects on Optimism, without\ngrants or other incentives, and I will never apply for grants because the grant\nis too much responsibility, and that’s why I understand and don’t propose ideas\nfor artificial value, and I expect the OP token will accumulate value with the\ndevelopment and growth of the ecosystem as normal, ethereum is not the most\nvaluable blockchain because every week adds a new utility to ETH, but due to\nit’s focus on development and growth of the ecosystem, getting any value takes\ntime and work. I don’t rule out that your idea will be implemented in the\nfuture, but at the moment I don’t see that, and again there are certain steps.",
+      "created_at": "2022-08-02T19:51:21.159Z",
+      "trust_level": 2,
+      "username": "diligit",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "This is certainly a pragmatic approach, however I believe PoS and staking is\nsub-optimal for rollups. Ideally, there should only be 1 sequencer live at a\ngiven time, or maybe 2 or 3. 100 or whatever is extremely wasteful.\n\nA better approach is simply block producing auctions - which can be held in $OP\nor $ETH. The winning sequencers need to put up a slashable $OP bond. With some\nblacklists (whitelists at first) by governance so malicious entities are slashed\nand ejected.",
+      "created_at": "2022-08-04T03:11:23.022Z",
+      "trust_level": 2,
+      "username": "polynya",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/raho/48/5314_2.png]\nraho:\n\n> Hello & gm @llllvvuu [/u/llllvvuu]!\n> I’d to apologize if I came off as rude or struck a nerve, as that was\n> certainly not my intention.\n\nHi @raho [/u/raho] no worries and I understand the defensiveness to any\n“tokenomics”.\n\n\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/raho/48/5314_2.png]\nraho:\n\n> It seems (based on your responses) that you’d be suggesting MEV Auctions\n> (MEVA), is that correct?\n\nYeah, I think building off that past work would be a promising route. In their\noriginal post\n[https://ethresear.ch/t/mev-auction-auctioning-transaction-ordering-rights-as-a-solution-to-miner-extractable-value/6788]\nthey mention the roles of “Block producers // Transaction Inclusion” (“Block\nproposers are most analogous to traditional blockchain miners.”) and “Sequencers\n// Transaction Ordering”. I think the “Block producers” role is a natural fit\nfor something PoS-like (actually it sounds like they intentionally leave that\npart open-ended as to who the block producers could be?) using Ethereum-like\nleader selection (I think get_beacon_proposer_index). Of course, we would have\nto figure out whether to do the 32 ETH thing or the top 100 thing\n(Cosmos-style), but either way delegation would be required, because “at-home\nstaking” might be challenging and not likely to get many blocks.\n\n\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/raho/48/5314_2.png]\nraho:\n\n> I am mostly curious if this implementation could have any negative effect on\n> users.\n\nIf someone stakes and is inactive, then the rollup root could get committed a\nbit late, but I actually think this would be fine because 1) there’s already a\n7-day dispute period, 2) could probably be discouraged with inactivity\npenalties. The broader risk is the $OP stakers produce worse blocks than the\nOptimism team. But I still think it’s good to decentralize it.\n\nFinally to be clear on the implementation difficulty resources, this is\ndefinitely a major research undertaking that is being worked on across Ethereum,\nOptimism, other rollups, Cosmos, etc in collaboration so it definitely wouldn’t\nbe production-ready for a while! For example, I can’t find any recent update\nfrom the team regarding MEVA but I trust that they are still working on it\n(since it is their plan for public goods funding). So that’s why I’m only\nstaging this to “Ideas & Feedback”. If I don’t start this discussion early, then\nmuch worse / less productive ideas will proliferate regarding what to do with\n$OP.",
+      "created_at": "2022-08-03T17:20:04.531Z",
+      "trust_level": 1,
+      "username": "llllvvuu",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/llllvvuu/48/1544_2.png]\nllllvvuu:\n\n> Sorry, can you be more specific?\n\nMore specifically: there are development stages of Optimism, some proposals\ncannot be technically implemented at the moment, about other roles for the OP\ntoken, the same is a process. At the moment the role for the OP token has been\nestablished, and it is a vision. But any proposal is good for an objective\ndiscussion, but such proposals are only for discussion because there is no such\nproposal type “Establishing the role for the OP token” in the OPerating Manual\n[https://gov.optimism.io/t/operating-manual-of-the-optimism-collective-v0-1-2/592].\n\n\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/llllvvuu/48/1544_2.png]\nllllvvuu:\n\n> joining the Citizens’ House?\n\n*joining the Token House",
+      "created_at": "2022-08-02T19:17:46.022Z",
+      "trust_level": 2,
+      "username": "diligit",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Optimism already plans to use MEVA, like you said, to generate revenue. The\nauction software can instead be made available for $OP stakers to run themselves\n(much like PBS and/or mev-boost). This securitizes the revenue into the $OP\ntoken and, when combined with seigniorage for public goods, allows the DAO\ntreasury to fund public goods more flexibly.\n\nIf you read the original post, this proposal is, unlike the gas token proposal,\nexplicitly about the long-term health of the DAO and not pumping the token\nprice. The token price is only relevant insofar as the DAO can issue more tokens\nto raise cash for public goods.",
+      "created_at": "2022-08-02T18:51:21.850Z",
+      "trust_level": 1,
+      "username": "llllvvuu",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2022-08-02T05:30:26.141Z"
+}

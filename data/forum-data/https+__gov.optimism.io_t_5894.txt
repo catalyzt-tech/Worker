@@ -1,0 +1,30 @@
+{
+  "title": "Optimism Newsletter",
+  "content": "Dear Optimism Community.\n\nI appreciate all the active delegators and participants in this forum and\ndiscord.\n\nThe biggest problem in DAOs like us, is voter apathy. We can do everything we\nwant here, but if only a tiny fraction of our tokens are being used for its sole\npurpose: governance, we are still not making big progress.\n\nMay I humbly suggest (will be happy to take lead too) the following:\n\n 1. Optimism Media House (Possibly in partnership with other media DAOs like\n    BanklessDAO)\n\n * Create a weekly “general” newsletter, and a “governance update” newsletter.\n   → This is for increased engagement, and to summarise topics for busy people.\n * From these newsletters, spin off 3 twitter threads per week.\n   → For increased reach\n * (Stretch Goal) Podcast / Video content.\n\n 2. Optimism Research House\n\n * We need to measure and collect data on voters apathy, and keep that as a key\n   DAO metric / KPI.\n * (Stretch Goal) Intervention studies\n   → Do A-B testing for specific interventions that increase voting\n   participation.\n\nPlease pardon me if I have repeated what other delegates have written, I\ndefinitely have not read ALL of the content here and in discord.",
+  "views": 3332,
+  "like_count": 12,
+  "word_count": 247,
+  "answer": [
+    {
+      "content": "This is an excellent idea. The governance on Optimism is interesting and we\nshould advocate that it is in the interest of everybody to participate.\n\nFor info, in my own newsletter (https://optimismbysublidefi.substack.com/\n[https://optimismbysublidefi.substack.com/]) i always cover governance news and\nupdates.\n\nI’m still thinking how to move forward from there.\n\nAny idea would be lovely to hear…",
+      "created_at": "2023-04-16T19:41:47.694Z",
+      "trust_level": 2,
+      "username": "Subli_Defi",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "wonderful! subscribed!",
+      "created_at": "2023-04-17T06:23:39.822Z",
+      "trust_level": 2,
+      "username": "angyts.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2023-04-16T01:14:10.663Z"
+}

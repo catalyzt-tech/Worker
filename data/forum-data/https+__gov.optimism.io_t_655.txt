@@ -1,0 +1,60 @@
+{
+  "title": "[GF: Phase 0 Proposal] 1inch Network",
+  "content": "Project Name: 1inch NETWORK\n\nAuthor Name: 1inch Labs\n\nDefillama TVL (at snapshot): N/A\n\nTransactions/day (at snapshot): 275+\n\nTier: N/A\n\nOptimism native: Yes\n\nRevisions to metrics used: N/A\n\nNumber of OP tokens to claim: 300,000\n\nL2 Recipient Address: 0x1bd315E3F029083DA8731a6b1c6F2959A0d15376\n\nBackground:\n\n1inch has been part of the Optimism chain since the initial launch of the\nnetwork and was one of the first dapps deployed.\n\n1inch is best described as a network of decentralized protocols designed to\nprovide the fastest and most efficient operations in the DeFi space. It was\nlaunched in tandem with the release of its Aggregation Protocol V1. Since then,\n1inch Network has developed additional DeFi tools such as the Liquidity\nProtocol, Limit Order Protocol, P2P transactions, and 1inch Mobile Wallet.\nOptimism chain is available natively in our wallet and we will keep on bringing\nthe adoption to it.\n\nSince the initial integration with Optimism, 1inch quickly became one of the\nfirst top 10 dApps on the chain.\n\nProposal for token distribution (under 1000 words):\n\nGoals:\n\n1inch Network plans to accelerate the development of Optimism native features\nand expand R&D for L2.\n\nBenefits:\n\n * As a market leader in the growing DEX aggregation field, 1inch Network has\n   the capacity to bootstrap further adoption of Optimism network.\n * Attract more developers and builders to the Optimism ecosystem and help them\n   bring their vision to the market.\n\nHow will the OP tokens be distributed?\n\n$300,000OP tokens would be used to incentivise usage and growth of Optimism on\n1inch Network thought the 1inch Wallet App.\n\nWith the amount for incentives, the team would:\n\n * Launch an AirDrop Campaign for top wallets that are funded in 1inch Wallet\n   App for iOS and Android in Ethereum or Optimism. The 1inch Labs will conduct\n   an airdrop on Optimism network.\n\nHow will this distribution incentivize usage and liquidity on Optimism?\n\nThe Airdrop will attract the users to explore the Optimism ecosystem, while the\n1inch Team will constantly improve and support the costs of the infrastructure\nfor 1inch Network on Optimism, including: TokenList API Service, Balances API\nService, GasPrice API Service, LimitOrderProtocol API Relayer (Introduction |\n1inch Network [https://docs.1inch.io/docs/limit-order-protocol/introduction]),\nTokenPrices API Service build on top of SpotPriceAggregator smart contract\n(Introduction | 1inch Network\n[https://docs.1inch.io/docs/spot-price-aggregator/introduction]). Moreover, the\nteam is working hard on Pathfinder (including algorithm impovements and\nLiquiditySources integrations) that searches deals across different DEXes,\nMarketMakers and LimitOrders. Another part of 1inch Network ecosystem on\nOptimism is Mobile Wallet for Android and iOS that allows users perform instant\nswaps and token transfers with their 1inch’s non-custodial mobile solution.\n1inch Wallet incorporates 1inch Aggregation Protocol API that gives the\nopportunity to perform swaps for hundreds or even thousands intergrations with\nOptimism through program code.\n\nThe team is doing its best to improve the Pathfinder Algorithm response time and\nadd as much Liquidity Sources to 1inch Aggregation Protocol API as possible.\nAlso, the team is trying to keep updated token prices by integrating onchain\nprice oracles to the 1inch Spot Price Aggregator smart contract.\n\nWithout builders, innovation and product development are impossible. We believe\nthat adoption and growth of usage and liquidity on Optimism starts with building\n- anything from Smart Contracts to dApps, but first — users need to find out\nabout the ecosystem, therefore we propose such an Airdrop, as part of the\ninitial strategy.\n\nHow will the incentivized users and liquidity remain after incentives dry up?\n\n1inch Foundation has vast experience with liquidity incentivization; therefore,\nit has been decided that the most popular user attraction mechanics, such as an\nAirdrop campaign would be the most efficient.\n\nOver what period of time will the tokens be distributed?\n\nFor over 1 month, the team will be responsible and engaged in the introduction,\nand search for larger growth opportunities on Optimism. These combined efforts\nwill lead to a greater partnership between Optimism and 1inch Network, and will\nimprove the utility of both ecosystems.",
+  "views": 4115,
+  "like_count": 18,
+  "word_count": 1107,
+  "answer": [
+    {
+      "content": "noble idea but isn’t OP Team doing the same, R&D and optimizing the OP\necosystem.\n\nsecond, if you are focusing on development then why not reserve some token for\nother developer(s) and team, something like a grant , who want to build\nsomething either on top of OP or on 1inch",
+      "created_at": "2022-05-18T16:49:00.318Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Row 25 “Oneinch”. is misspelled.",
+      "created_at": "2022-05-19T11:50:12.595Z",
+      "trust_level": 2,
+      "username": "AxlVaz",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Undeniably, builders are what makes any network grow.\n\nHowever unlike most other proposals, 1inch seeks to direct all the distribution\ntowards their team.\n\nThe Optimism community would like to know what features and Optimism specific\nproducts that 1inch could develop, and how the Optimism community can feel\nconfident that 1inch will continue to deliver on their goals towards furthering\nadoption and usage of the Optimism network.\n\nIn principle, I support this proposal - however some more transparency and\ndisclosure would be welcome!\n\nPS: A minor correction - Optimism native: Yes - 1inch being a multi-chain\naggregator is not Optimism specific.",
+      "created_at": "2022-05-27T18:08:12.475Z",
+      "trust_level": 2,
+      "username": "web3magnetic",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Great to see 1inch being a part of optimism eco…",
+      "created_at": "2022-05-27T16:15:45.968Z",
+      "trust_level": 1,
+      "username": "Piyush",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Happy to see participation in GF. Just curious whether 1inch is in eligible for\nGF Phase 0 as I did not see it in the list\n[https://docs.google.com/spreadsheets/d/1kiMnAKXTxrmoL7duvLrDlhMfa35HGE55QgUK0Rq2Sso/edit#gid=1014306106].",
+      "created_at": "2022-05-19T06:02:33.126Z",
+      "trust_level": 2,
+      "username": "karlyang",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-05-18T16:11:47.241Z"
+}

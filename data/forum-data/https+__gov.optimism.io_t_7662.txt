@@ -1,0 +1,20 @@
+{
+  "title": "Link for Office Hours was Deprecated or Wrong",
+  "content": "Hi Guys. Not sure where to put this one, but when I tried to join Office Hours\nyesterday this link at: CharmVerse - the all-in-one web3 space\n[https://app.charmverse.io/op-grants/optimism-grants-council-8323028890716944]\ndidn’t appear to go anywhere. I had to grab the current link from the discord.\n\nJust a small thing. Appreciate you guys doing the Office Hours.",
+  "views": 255,
+  "like_count": 1,
+  "word_count": 69,
+  "answer": [
+    {
+      "content": "Yes, we had 2 links fixed for next Monday! thank you!",
+      "created_at": "2024-02-14T13:00:30.344Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-02-13T19:12:02.859Z"
+}

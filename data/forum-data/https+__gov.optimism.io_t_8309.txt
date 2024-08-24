@@ -1,0 +1,30 @@
+{
+  "title": "Exploring the Future Impacts of Optimism's Latest Scaling Solutions",
+  "content": "Hello ,\n\nI am excited to hear your thoughts on the latest developments in Optimism’s\nscaling solutions. How do you think these advancements will impact the broader\necosystem in the coming months?\n\nLooking forward to your insights!\n\nThank you :slightly_smiling_face:\n[https://emoji.discourse-cdn.com/twitter/slightly_smiling_face.png?v=12]\nnathaniel",
+  "views": 227,
+  "like_count": 5,
+  "word_count": 178,
+  "answer": [
+    {
+      "content": "Hey, I’m Lili, OP delegate. Welcome to the Optimism Colective!!. :smiling_face:\n[https://emoji.discourse-cdn.com/twitter/smiling_face.png?v=12]\n\nOne of the many post that I found really interesting about growth is this:\n\n“There are three main economic levers on the Superchain:\n\nRetro Funding\nAirdrops\nGrants council\n\nGrowth on the Superchain = more contributions towards the OP Collective that\nfund the above three economic levers.” By Ryan Wyatt, part of the OP collective.\n\nYou can see it here: x.com\n[https://x.com/optimism/status/1801626317022236879?s=46]\n\nIf you want to know more about the next season (starting June 27th), you can\nread the intents: Season 6: Intents Ratification\n[https://gov.optimism.io/t/season-6-intents-ratification/8104]\n\nLet me know if it helps.\nLili",
+      "created_at": "2024-06-15T13:28:50.263Z",
+      "trust_level": 3,
+      "username": "Liliop.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Hello@Lili\n\nThanks for your reply ! Checked Season 6: Intents Ratification\n[https://gov.optimism.io/t/season-6-intents-ratification/8104] Thanks for\nsharing . :slightly_smiling_face:\n[https://emoji.discourse-cdn.com/twitter/slightly_smiling_face.png?v=12]",
+      "created_at": "2024-06-24T05:01:35.924Z",
+      "trust_level": 0,
+      "username": "nathaniel",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2024-06-15T10:22:16.316Z"
+}

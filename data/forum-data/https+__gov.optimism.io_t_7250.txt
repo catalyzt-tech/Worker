@@ -1,0 +1,9 @@
+{
+  "title": "Triple RPS Boost Update to Maximise dApp Performance in the Bull Market",
+  "content": "To all Optimism Devs,\n\nPlease be informed of a technical update on GetBlock RPC Node Provider. The rate\nlimit for all shared plans of Optimism Nodes\n[https://getblock.io/nodes/op/?utm_source=forum&utm_medium=refferal&utm_campaign=boostrps]\nwill be increased from 60 to 200 requests/second (RPS). This update is part of\nongoing service enhancements.\nIt is important to note that this RPS increase applies solely to users who have\nmigrated to access tokens. Users currently employing API keys and wishing to\nbenefit from the higher rate limit must migrate to access tokens.\nFor detailed instructions on the migration process, refer to the instructions\navailable in your account.\n\nRegards,\nGetBlock Technical Team",
+  "views": 425,
+  "like_count": 1,
+  "word_count": 112,
+  "answer": [],
+  "created_at": "2023-12-15T19:48:40.826Z"
+}

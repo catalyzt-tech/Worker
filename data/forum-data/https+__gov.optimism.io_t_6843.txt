@@ -1,0 +1,40 @@
+{
+  "title": "Michael (OPMichael.eth) Delegate Communication Thread",
+  "content": "Hey Everyone!\n\nI’m very excited that for the first time this season, my voting power has ended\nup above the 0.5% threshold has a delegate! For that reason I have decided to\nstart this delegate communication thread.\n\nFor simpler votes, I have used the “vote with reason” feature and you should be\nable to see all of the reasoning behind my votes in the Agora UI here\n[https://vote.optimism.io/delegate/opmichael.eth].\n\nBelow I will outline my reasoning for the votes where I didn’t use the “vote\nwith reason” feature, and for all future votes where the discussion is more\ncomplicated.\n\nFor Season 4 mission proposal requests, my main questions in my voting logic\nwere quite simple:\n\n * Is the team the correct team to lead this mission on a skills/community\n   level?\n * Is the mission directly contributing to the rise of Ether’s Phoenix?\n * Is this proposal a good faith attempto to improve the Collective, as opposed\n   to a bad-faith attempt to grab governance funds?\n * Does the requested amount of OP seem reasonable given the scope of the\n   mission?\n\nAll of my votes needed to answer “yes” on all 4 of these questions. I tried to\nlean towards giving the benefit of the doubt on these proposals in the case that\nI was on the fence on one of the questions.\n\nMy votes for Season 4 mission proposals were as follows:\n\nIntent #1:\n\n * Proposal 3B: Velodrome: Spread Awareness Through Direct Outreach and\n   Onboarding\n * Proposal 3D: Create and Maintain the ‘Optimism Vision Reservoir’\n * Proposal 3E: Optimistic Womxn Shinning in Blockchain\n * Proposal 3F: Let’s take the Optimistic Vision to LATAM with Espacio Cripto\n * Proposal 3G: Spread Optimistic values across Latam with Solow\n * Proposal 3I: ‘Thank Optimism - powered by ThriveCoin’\n * Proposal 3J: Web3xplorer - A curated web platform to discover useful web3\n   apps, resources and tools,\n * Proposal 3K: Rumbo Optimista - Hacia Ethereum Mexico The Event || Optimistic\n   Road in the way to Ethereum México\n\nIntent #3:\n\n * Proposal 1A: Superchain Governance Deepdive\n * Proposal 1B: Fully Decentralized and Independent Oracle and Data\n   Infrastructure\n * Proposal 1C: TechNERD Program\n * Proposal 1D: Extend the L1Block contract to store historical blockhash data\n * Proposal 1E: Future-proofing UI/UX of OP nodes\n * Proposal 1F: Spearbit + Immunefi Bug Bounty Program for Large Protocols on\n   Optimism\n\nIntent #4:\n\n * Proposal 4B: The RetroPGF Podcast ***\n * Proposal 4C: Delegate Corner Podcast\n * Proposal 4E: Improving Governance Accessibility through Praise and\n   Contribution Based Attestations\n * Proposal 4F: Pairwise: Tinder UX For Web3 Community Signaling\n * Proposal 4I: Velodrome: Fostering Inclusive Governance through Leading\n   Optimism Builders and Long-term Users\n * Proposal 4K: OP Governance Analytics Dashboard\n * Proposal 4L: OPdelegate.com [http://OPdelegate.com] ***\n * Proposal 4M: NumbaNERD Program\n\n*** These two proposals I am the alliance lead on. Due to the approval-based\nvoting and having no way to abstain, my interpretation was that it is OK to vote\nin favor of my own proposals. That said, I only had ~60k votes at the time and\nto be honest didn’t give this too much thought. Now that I have much more voting\npower, I will be sure to be more careful about votes like this in the future and\nsolicit community feedback for any gray areas.",
+  "views": 781,
+  "like_count": 17,
+  "word_count": 976,
+  "answer": [
+    {
+      "content": "Code of Conduct Council:\n\n * @Juanbug_PGov [/u/juanbug_pgov] - Active governance participant in Optimism\n   and good experience.\n * @juankbell [/u/juankbell] - His work with GravityDAO speaks for itself\n\nThese are the two members I feel strongly deserve a spot on the council and\ntherefore did not vote for others.\n\nLaw of Chains:\n\nAbsolutely yes. I am extremely excited to enact this, it provides a solid\nframework for chains looking to join the superchain.\n\nSeason 5 Intent Budgets:\n\nFor. I support these budgets and the modifications made.\n\nGrants Council, Builders:\n\n * Gonna.eth , @kaereste [/u/kaereste] , & @jackanorak [/u/jackanorak] - I’ve\n   seen first-hand the dedication and hard work these individuals have put into\n   Optimism & it’s grants program. They 100% deserve to maintain their spaces.\n   In addition, I am also casting a vote for @ethernaut [/u/ethernaut] who has a\n   very strong developer track record, and @mastermojo [/u/mastermojo] who has\n   great grants program experience (including the defi committee with Optimism).\n\nGrants Council, Metrics & Milestones:\n\n * @LauNaMu [/u/launamu] - Has done great work with impact metrics for RetroPGF\n * @v3naru_Curia [/u/v3naru_curia] - Curia has done awesome work for Optimism\n   Metrics\n * @raho [/u/raho] - NumbaNERDs & Messari contributions are a great context for\n   this position.\n\nGrants Council, Growth Experiments:\nI am voting for all previous council members, who I have seen first hand turn\nOptimism’s grants program into one that is being replicated across all of\ncrypto, and in addition @brichis [/u/brichis] who has shown her competence and\ncommitment to Optimism in the past few months.\n\nChain Delegation Program:\n\nFor. Provides great incentives for new chains joining, and any chain meeting the\nrequirements for delegation definitely deserve the representation.",
+      "created_at": "2023-11-03T15:04:55.616Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": "Voted “For” on every proposal, excepting the suspension for Carlos Melgar. Being\nunable to view any evidence in the case made it very difficult to support a\nsuspension, especially when Carlos has seemed to generally be a good actor in\nthe ecosystem. That said, I am glad the code of conduct council will be able to\nhandle these reviews with the evidence in front of them in the future.",
+      "created_at": "2023-11-03T15:04:44.129Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "LOTS of things to cover in this voting cycle, I will add to the list as we go.\n\nMission Reviewer Elections:\n\nThis one was very difficult. The first set was pretty easy, because I am\nre-electing members of the grants council I have worked with before. I’ve seen\ntheir dedication to Optimism first hand and have done a very good job so far\n(high NPS score, many proposals reviewed, etc).\n\n * MattL\n * Jackanorak\n * GFXLabs\n * Mastermojo\n * MoneyManDoug\n * Michael (myself)\n * Katie\n\nThe next set were based on background, dedication to the long term success of\nOptimism, and their responses in the self nomination questions.\n\n * Jrocki\n * Brichis\n * Tane\n * Boardroom\n * Habucuc.eth\n\nCandidates that I think are good and I hope get some other position in the DAO:\n\n * DanSingjoy\n * LiliOP",
+      "created_at": "2024-06-16T20:26:52.677Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2023-09-20T16:43:36.790Z"
+}

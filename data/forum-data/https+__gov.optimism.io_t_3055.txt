@@ -1,0 +1,60 @@
+{
+  "title": "Voting Cycle #4: Roundup",
+  "content": "Voting Cycle 4 begins Thursday (July 21) at 12pm PST / 7pm GMT and runs until\nWednesday (August 3) at 12pm PST / 7pm GMT.\n\nThis will be the last voting cycle for Season 1 of OP Governance. For more info,\nread Governance Update #2 here.\n\nVoting will take place in Snapshot. A snapshot of delegate voting weights will\nbe taken at the start of the Voting Cycle.\n\nFor a detailed breakdown of the governance and voting process, see the Operating\nManual.\n\n\nCONTEXT\n\nVoting Cycle 4 is officially underway, and includes 6 proposals for voting.\nThere are just a few notes that the Optimism Foundation would like to highlight\ngoing into this cycle:\n\n * This will be the last voting cycle for Season 1 of OP Governance, and a\n   3-week break will commence after this cycle. For more info, read Governance\n   Update #2 here.\n * As stated in the OPerating Manual, it is the recommendation of the Optimism\n   Foundation that at least one delegate (with >0.0005% of voting power) signals\n   their belief that the proposal is ready for a vote before passing. As in the\n   previous cycle, proposals which have not received explicit approval by a\n   delegate are still included. But, as a reminder—such proposals have not\n   correctly followed the rules laid out in the OPerating Manual, and this\n   behavior should be considered by delegates in voting**\n\n\nPROPOSALS\n\nAside from the approval/non-approval delineation, proposals are listed in order\nof first appearance on this forum.\n\n\nPROPOSALS WITH EXPLICIT DELEGATE APPROVAL\n\n * Proposal A: Rocket Pool\n   * Proposal: https://gov.optimism.io/t/ready-gf-phase-1-rocket-pool/2822\n     [https://gov.optimism.io/t/ready-gf-phase-1-rocket-pool/2822]\n   * Approval: https://gov.optimism.io/t/ready-gf-phase-1-rocket-pool/2822/5\n     [https://gov.optimism.io/t/ready-gf-phase-1-rocket-pool/2822/5]\n * Proposal B: Boardroom\n   * Proposal:\n     https://gov.optimism.io/t/ready-gf-phase-1-proposal-boardroom/2978\n     [https://gov.optimism.io/t/ready-gf-phase-1-proposal-boardroom/2978]\n   * Approval:\n     https://gov.optimism.io/t/ready-gf-phase-1-proposal-boardroom/2978/8\n     [https://gov.optimism.io/t/ready-gf-phase-1-proposal-boardroom/2978/8]\n * Proposal C: dHedge\n   * Proposal: https://gov.optimism.io/t/ready-gf-phase-1-proposal-dhedge/2982\n     [https://gov.optimism.io/t/ready-gf-phase-1-proposal-dhedge/2982]\n   * Approval: https://gov.optimism.io/t/ready-gf-phase-1-proposal-dhedge/2982/8\n     [https://gov.optimism.io/t/ready-gf-phase-1-proposal-dhedge/2982/8]\n * Proposal D: xToken Terminal and Gamma Strategies\n   * Proposal:\n     https://gov.optimism.io/t/ready-gf-phase-1-xtoken-terminal-and-gamma-strategies/3001\n     [https://gov.optimism.io/t/ready-gf-phase-1-xtoken-terminal-and-gamma-strategies/3001]\n   * Approval:\n     https://gov.optimism.io/t/ready-gf-phase-1-xtoken-terminal-and-gamma-strategies/3001/6\n     [https://gov.optimism.io/t/ready-gf-phase-1-xtoken-terminal-and-gamma-strategies/3001/6]\n * Proposal G: Beefy Finance\n   * Proposal: https://gov.optimism.io/t/ready-gf-phase-1-proposal-beefy/2967/\n     [https://gov.optimism.io/t/ready-gf-phase-1-proposal-beefy/2967/]\n   * Approval: https://gov.optimism.io/t/ready-gf-phase-1-proposal-beefy/2967/18\n     [https://gov.optimism.io/t/ready-gf-phase-1-proposal-beefy/2967/18]\n * Proposal E: Byte Mason Product Suite\n   * Proposal:\n     https://gov.optimism.io/t/ready-gf-phase-1-proposal-byte-mason-product-suite/2887\n     [https://gov.optimism.io/t/ready-gf-phase-1-proposal-byte-mason-product-suite/2887]\n   * Approval:\n     https://gov.optimism.io/t/ready-gf-phase-1-proposal-byte-mason-product-suite/2887/39\n     [https://gov.optimism.io/t/ready-gf-phase-1-proposal-byte-mason-product-suite/2887/39?]\n * Proposal I: QiDao\n   * Proposal:\n     https://gov.optimism.io/t/ready-gf-phase-1-proposal-qidao-protocol/2863\n     [https://gov.optimism.io/t/ready-gf-phase-1-proposal-qidao-protocol/2863]\n   * Approval:\n     https://gov.optimism.io/t/ready-gf-phase-1-proposal-qidao-protocol/2863/36\n     [https://gov.optimism.io/t/ready-gf-phase-1-proposal-qidao-protocol/2863/36]\n\n\nPROPOSALS WITHOUT EXPLICIT DELEGATE APPROVAL\n\n * Proposal H: BarnBridge\n   * https://gov.optimism.io/t/ready-gf-phase-1-proposal-barnbridge/2885\n     [https://gov.optimism.io/t/ready-gf-phase-1-proposal-barnbridge/2885]\n * Proposal F: GARD\n   * https://gov.optimism.io/t/ready-gf-phase-1-proposal-gard/3024\n     [https://gov.optimism.io/t/ready-gf-phase-1-proposal-gard/3024]",
+  "views": 6390,
+  "like_count": 86,
+  "word_count": 3087,
+  "answer": [
+    {
+      "content": "So When Season 2???",
+      "created_at": "2022-07-22T04:48:58.539Z",
+      "trust_level": 2,
+      "username": "leivey",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "\n[https://avatars.discourse-cdn.com/v4/letter/b/b5a626/48.png] ben-chain:\n\n> It’s definitely not ideal, and Season 2 should include a more rigorous (or\n> potentially automated) path forward so this doesn’t happen again.\n\nI suggest a small window between the Voting Cycle Roundup post (signaling\nprojects to include) and the start of the voting cycle. 2 or 3 days should be\nenough to confirm if all projects got included in the post.",
+      "created_at": "2022-07-25T17:26:17.491Z",
+      "trust_level": 2,
+      "username": "Prometheus",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "One clarification to original post above – the proposal from Byte Mason was\nincorrectly labeled as “without Explicit Delegate Approval,” but they did get\ndelegate approval just before the time window ended.\n\nThe post above has been updated to include Byte Mason with the set of proposals\nthat do have delegate approval to go to vote. Sorry for the mixup :pray:\n[https://emoji.discourse-cdn.com/twitter/pray.png?v=12]",
+      "created_at": "2022-07-23T19:43:39.700Z",
+      "trust_level": 4,
+      "username": "bobby",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 3
+    },
+    {
+      "content": "I generally agree–for what it’s worth, their inclusion is an attempt to abide by\nthe written rules as opposed to breaking them. In these cases, as well as those\nyou mentioned in previous cycles, the proposals which were included later did\nmeet the written criteria, with the authors having marked [READY] before the\ndeadline, etc. The problem is that they were missed in the initial roundup\nthreads/snapshot generation, an oversight by the Foundation, not the authors. In\nthese instances where authors did follow the rules, but the Foundation failed to\ninitially include, we’ve elected to include them late, with the same cutoff date\nas others, as opposed to pushing them to the next cycle.\n\nHopefully that makes sense and seems justifiable to you. It’s definitely not\nideal, and Season 2 should include a more rigorous (or potentially automated)\npath forward so this doesn’t happen again.",
+      "created_at": "2022-07-25T14:53:41.815Z",
+      "trust_level": 4,
+      "username": "ben-chain",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 3
+    },
+    {
+      "content": "My votes are in:\n\nA: Rocket Pool - For\nB: Boardroom - For\nC: dHedge - Against\nD: xToken - For\nE: Byte Mason Product Suite - Abstain\nF: GARD - Against\nG: Beefy - For",
+      "created_at": "2022-07-24T04:13:19.380Z",
+      "trust_level": 2,
+      "username": "polynya",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    }
+  ],
+  "created_at": "2022-07-21T18:26:43.450Z"
+}

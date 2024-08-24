@@ -1,0 +1,60 @@
+{
+  "title": "2nd Citizens' House community call [August 1st @ 9am PT / 12pm ET / 6pm CET]",
+  "content": "Hello Optimists!\n\nWe will have our 2nd Citizens’ House community call on Tuesday, August 1st, at 9\nam PT / 12 pm ET / 6 pm CET.\n\nThe Zoom link is here\n[https://us06web.zoom.us/j/89680770058?pwd=WG5hcUJwR1RabExXMytjaVVzTFl1QT09]\n\nAs always, everybody is welcome. Please add any agenda topics to this thread if\nyou’d like.\n\nSlides for the call are here (work in progress).\n\nSee you there!\nGonna\n\n--------------------------------------------------------------------------------\n\nCall recording here\n[https://drive.google.com/file/d/1tzOLIapbQLL0bNOZbwU7vo6tDMMParug/view?usp=sharing]",
+  "views": 1109,
+  "like_count": 14,
+  "word_count": 381,
+  "answer": [
+    {
+      "content": "I think your answer is here: RetroPGF 3: Voting badge distribution\n[https://gov.optimism.io/t/retropgf-3-voting-badge-distribution/6557]\n\nAnd it’s 100% on the topics of the day!",
+      "created_at": "2023-08-01T13:08:06.736Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 2
+    },
+    {
+      "content": "I would like to add the topic: “Future Citizenship Selection Criteria” – a brief\ndiscussion about what current citizens think about those criteria\n\nAlso more details are in a thread here: Future Citizenship Selection Criteria\n[https://gov.optimism.io/t/future-citizenship-selection-criteria/6558]",
+      "created_at": "2023-08-01T12:11:22.996Z",
+      "trust_level": 1,
+      "username": "maxsemenchuk",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Oh ok! I’ll hop onto the Token House call. I was actually going to ask the\ndifference between this call and the one right after.",
+      "created_at": "2023-08-01T16:02:10.489Z",
+      "trust_level": 1,
+      "username": "hen",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "I feel this is more for the Token House call wich is immediately after the\nCitizen House call. But I’m happy to give you the floor if you want to introduce\nthis topic.",
+      "created_at": "2023-08-01T15:46:30.439Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "Topic: Immunefi Matching Program for OP and OP Native projects.\n\nAn extension of the Spearbit+Immunefi program except creating a bucket of funds\nfor 10+ OP native projects to match critical bug payouts. Already engaged with\nOP Labs team and multiple OP native projects (e.g Synthetix, Velodrome, Sonne\nFinance, Extra Finance, etc). This would be the second phase of this initiative.\n\nWhat if the proposal could technically support more than 1 intent? Do I submit\nit under the strongest intent?",
+      "created_at": "2023-08-01T14:57:25.939Z",
+      "trust_level": 1,
+      "username": "hen",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2023-07-20T11:30:54.312Z"
+}

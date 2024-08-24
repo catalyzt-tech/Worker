@@ -1,0 +1,9 @@
+{
+  "title": "Bubli.eth - delegate communication thread",
+  "content": "Code of conduct Council: Code of conduct adherence is extremely crucial for\nsmooth and transparent functioning of the DAO. Each member as a contributor,\ncommunity member, builder, stakeholder, vendor have a common framework of\nbehavior, beliefs, work ethics, professionalism. A need for a separate\ncommittee, to handle a case of violation is required, so that there is a\nnon-biased and clinical process of evaluation, fact finding and adherence.\nTherefore, I support having a separate committee responsible for this.\n\nRatify Developer Advisory Board Members\n[https://vote.optimism.io/proposals/95102633290576253416299445955061077431090693890673037767791097228222587378331]:\nI do not know all of the listed members, but the few I know of are the best and\non that basis voting a yes to this proposal.\n\nDeveloper Advisory Board: I understand the need of experts with technical know\nhow to guide the protocol in the right path and I also believe that the selected\nindividuals will be the best and will do their best in all aspects. Voting a\nyes.\n\nGrant Council Advisory Board: Grant support to public goods is required and a\ncouncil to oversee the functioning with accountability and responsibility is\nmust. I believe the members chosen will do their best to evaluate and select the\nright ones.",
+  "views": 428,
+  "like_count": 1,
+  "word_count": 202,
+  "answer": [],
+  "created_at": "2023-10-30T08:42:46.510Z"
+}

@@ -1,0 +1,113 @@
+title: Withdrawal Flow
+lang: en-US
+description: Learn the withdrawal flow process for transactions sent from L2 to L1.
+
+import { Callout } from 'nextra/components'
+
+Withdrawal Flow
+
+In Optimism terminology, a withdrawal is a transaction sent from L2 (OP Mainnet, OP Sepolia etc.) to L1 (Ethereum mainnet, Sepolia, etc.).
+
+Withdrawals require the user to submit three transactions:
+
+Withdrawal initiating transaction, which the user submits on L2.
+Withdrawal proving transaction, which the user submits on L1 to prove that the withdrawal is legitimate (based on a Merkle-Patricia trie root that commits to the state of the L2ToL1MessagePasser's storage on L2)
+Withdrawal finalizing transaction, which the user submits on L1 after the fault challenge period has passed, to actually run the transaction on L1.
+
+Withdrawal initiating transaction
+
+On L2, a user, either an externally owned account (EOA) directly or a contract acting on behalf of an EOA, calls the sendMessage function of the L2CrossDomainMessenger contract.
+
+This function accepts three parameters:
+
+_target, target address on L1.
+_message, the L1 transaction's calldata, formatted as per the ABI of the target address.
+_minGasLimit, The minimum amount of gas that the withdrawal finalizing transaction can provide to the withdrawal transaction. This is enforced by the SafeCall library, and if the minimum amount of gas cannot be met at the time of the external call from the OptimismPortal -> L1CrossDomainMessenger, the finalization transaction will revert to allow for re-attempting with a higher gas limit. In order to account for the gas consumed in the L1CrossDomainMessenger.relayMessage function's execution, extra gas will be added on top of the _minGasLimit value by the CrossDomainMessenger.baseGas function when sendMessage is called on L2.
+
+
+sendMessage is a generic function that is used in both cross domain messengers.
+It calls _sendMessage, which is specific to L2CrossDomainMessenger.
+
+
+_sendMessage calls initiateWithdrawal on L2ToL1MessagePasser.
+This function calculates the hash of the raw withdrawal fields.
+It then marks that hash as a sent message in sentMessages and emits the fields with the hash in a MessagePassed event.
+
+The raw withdrawal fields are:
+
+nonce - A single use value to prevent two otherwise identical withdrawals from hashing to the same value
+sender - The L2 address that initiated the transfer, typically L2CrossDomainMessenger
+target - The L1 target address
+value - The amount of WEI transferred by this transaction
+gasLimit - Gas limit for the transaction, the system guarantees that at least this amount of gas will be available to the transaction on L1.
+Note that if the gas limit is not enough, or if the L1 finalizing transaction does not have enough gas to provide that gas limit, the finalizing transaction returns a failure, it does not revert.
+data - The calldata for the withdrawal transaction
+
+
+When op-proposer proposes a new output, the output proposal includes the output root, provided as part of the block by op-node.
+This new output root commits to the state of the sentMessages mapping in the L2ToL1MessagePasser contract's storage on L2, and it can be used to prove the presence of a pending withdrawal within it.
+
+Withdrawal proving transaction
+
+Once an output root that includes the MessagePassed event is published to L1, the next step is to prove that the message hash really is in L2.
+Typically this is done by the SDK.
+
+Offchain processing
+
+A user calls the SDK's CrossDomainMessenger.proveMessage() with the hash of the L2 message.
+This function calls CrossDomainMessenger.populateTransaction.proveMessage().
+
+
+To get from the L2 transaction hash to the raw withdrawal fields, the SDK uses toLowLevelMessage.
+It gets them from the MessagePassed event in the receipt.
+
+
+To get the proof, the SDK uses getBedrockMessageProof.
+
+
+Finally, the SDK calls OptimismPortal.proveWithdrawalTransaction() on L1.
+
+Onchain processing
+
+OptimismPortal.proveWithdrawalTransaction() runs a few sanity checks.
+Then it verifies that in L2ToL1MessagePasser.sentMessages on L2 the hash for the withdrawal is turned on, and that this proof has not been submitted before.
+If everything checks out, it writes the output root, the timestamp, and the L2 output index to which it applies in provenWithdrawals and emits an event.
+
+The next step is to wait the fault challenge period, to ensure that the L2 output root used in the proof is legitimate, and that the proof itself is legitimate and not a hack.
+
+Withdrawal finalizing transaction
+
+Finally, once the fault challenge period passes, the withdrawal can be finalized and executed on L1.
+
+Offchain processing
+
+A user calls the SDK's CrossDomainMessenger.finalizeMessage() with the hash of the L1 message.
+This function calls CrossDomainMessenger.populateTransaction.finalizeMessage().
+
+
+To get from the L2 transaction hash to the raw withdrawal fields, the SDK uses toLowLevelMessage.
+It gets them from the MessagePassed event in the receipt.
+
+
+Finally, the SDK calls OptimismPortal.finalizeWithdrawalTransaction() on L1.
+
+Onchain processing
+
+OptimismPortal.finalizeWithdrawalTransaction() runs several checks. The interesting ones are:
+
+Verify the proof has already been submitted.
+Verify the proof has been submitted long enough ago that the fault challenge period has already passed.
+Verify that the proof applies to the current output root for that block (the output root for a block can be changed by the fault challenge process).
+Verify that the current output root for that block was proposed long enough ago that the fault challenge period has passed.
+Verify that the transaction has not been finalized before to prevent replay attacks.
+
+If any of these checks fail, the transaction reverts.
+
+
+Mark the withdrawal as finalized in finalizedWithdrawals.
+
+
+Run the actual withdrawal transaction (call the target contract with the calldata in data).
+
+
+Emit a WithdrawalFinalized event.

@@ -1,0 +1,9 @@
+{
+  "title": "(Discussion) Approved Proposal Appeal Process",
+  "content": "The Appeal Process could be leveraged for any Proposal Type. For now, the\nAppeals Process is based within the Forum. As OP grows and becomes the most\ndecentralized and robust L2 chain (I’m OPtimistic), the Forums are going to get\nbusy.\n\nI suggest:\n\n 1. Incorporating the OP network overtime. Especially as the OP Society develops\n    and Proposals hit triple/quadruple digits, sifting through Forum text may\n    not be the best solution in deciding if an appeal is necessary.\n\n 2. Include language in each approved Proposal stating if there is not enough\n    votes or delegates for an appeal after X amount of time, the proposal will\n    be implemented.\n\n 3. You could leverage the claiming website. Though, I’m not sure what that will\n    look like.\n\n 4. Perhaps once a Proposal is approved and the appeal timeline has been met it\n    can be minted as an NFT on Etherscan. Or something along these lines.\n\nThe Forums may not be able to handle the project as it scales up. We will soon\nsee how the Citizens House plays a part (launching shortly).\n\nI am a firm believer in “t he idea that a decentralized ecosystem could reliably\nprovide for basic human needs at scale may seem idealistic today, but it will\nseem commonplace tomorrow ” – OP Vision\n\nThanks!",
+  "views": 1676,
+  "like_count": 6,
+  "word_count": 215,
+  "answer": [],
+  "created_at": "2022-05-20T16:40:25.678Z"
+}

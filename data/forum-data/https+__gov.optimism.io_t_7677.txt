@@ -1,0 +1,60 @@
+{
+  "title": "Upgrade Proposal #6: Multi-Chain Prep (MCP) L1",
+  "content": "EXECUTIVE SUMMARY\n\nHi I’m Diego, a protocol engineer at OP Labs. OP Labs is a software development\ncompany focused on the Optimism ecosystem and a core developer of the OP Stack.\nWe provide some services to, but do not represent or speak on behalf of, the\nOptimism Foundation.\n\nThis protocol upgrade strengthens the security and upgradeability of the\nSuperchain by enabling L1 contracts to be upgraded atomically across multiple\nchains in a single transaction. To achieve this, this proposal transitions\nchain-specific deployment configuration from immutable variables into smart\ncontract state. This allows multiple chains to point to a single smart contract\nimplementation, which dramatically simplifies the deployment process and\nstreamlines the upgrade process. This is particularly important for emergency\nupgrades, which would have previously required multiple upgrade transactions\nwhich increases the risk of exploitation in the event of a smart contract\nvulnerability.\n\nIn addition, this upgrade extends the SystemConfig to contain the addresses of\nthe contracts in the network. This improves developer experience by allowing\nusers to discover the system’s contract addresses programmatically using\nSystemConfig.\n\nIf this vote passes, we recommend the upgrade be deployed to OP Mainnet shortly\nafter the end of the veto period. The newly-formed Security Council will be\nresponsible for deploying this upgrade to OP Mainnet.\n\n\nSPECIFICATIONS\n\n\nCONTRACTS CHANGED\n\nThe following contracts would be changed as part of this upgrade. Each contract\nlinks to the pull request where the changes were made, and the bullet points\ncorrespond to the immutable variables moved into state (in format {type}\n{varName}):\n\n 1. OptimismPortal [https://github.com/ethereum-optimism/optimism/pull/8629]\n    * L2OutputOracle l2Oracle\n    * SystemConfig systemConfig\n 2. L1CrossDomainMessenger\n    [https://github.com/ethereum-optimism/optimism/pull/8631]\n    * OptimismPortal portal\n    * CrossDomainMessenger otherMessenger\n 3. L1StandardBridge [https://github.com/ethereum-optimism/optimism/pull/8632]\n    * CrossDomainMessenger messenger\n    * StandardBridge otherBridge\n 4. L1ERC721Bridge [https://github.com/ethereum-optimism/optimism/pull/8633]\n    * CrossDomainMessenger messenger\n    * StandardBridge otherBridge\n 5. OptimismMintableERC20Factory\n    [https://github.com/ethereum-optimism/optimism/pull/8700]\n    * address bridge\n 6. L2OutputOracle [https://github.com/ethereum-optimism/optimism/pull/8720]\n    * uint256 submissionInterval\n    * uint256 l2BlockTime\n    * address challenger\n    * address proposer\n    * uint256 finalizationPeriodSeconds\n 7. SystemConfig [https://github.com/ethereum-optimism/optimism/pull/8772]\n\n\nSECURITY CONSIDERATIONS\n\nConsistent with the OP Labs Audit Framework\n[https://gov.optimism.io/t/op-labs-audit-framework-when-to-get-external-security-review-and-how-to-prepare-for-it/6864],\nOP Labs had the code audited by Cantina, since the upgrade results in many\nchanges to storage layouts, and mistakes in that process can result in loss of\nassets due to e.g. a reinitialization bug.\n\nThe audit results only contained informational and low-severity issues. As such,\nwe will not be modifying the contracts further in order to keep the contracts\ncode-frozen. See the full audit report here\n[https://github.com/ethereum-optimism/optimism/blob/develop/docs/security-reviews/2024_02-MCP_L1-Cantina.pdf].\nAdditionally, given the low-severity nature of the issues and fixes, we decided\nnot to pursue a fix review.\n\nAny fixes that did not require redeploying contracts have been made and merged\n[https://github.com/ethereum-optimism/optimism/commit/3a8c1f866da1894e2da1ee1158fc22f4c290c675].\nThe remaining changes [https://github.com/ethereum-optimism/optimism/pull/9477],\nwhich do not affect security, will be proposed as part of a future upgrade.\n\nWe have also established monitoring systems for detecting events associated with\ninitializations and upgrades of the contracts, the code of which you can find\nhere [https://github.com/ethereum-optimism/optimism/pull/9416].\n\n\nIMPACT SUMMARY\n\nOP Labs does not anticipate any downtime due to this upgrade. Node operators are\nnot affected. Existing contracts retain their current interfaces in order to\nremain backward compatible with any existing integrations.\n\nThe primary new functionality is the movement of variables out of immutable\nstorage and into state. This is a change that will improve the upgradeability\nand incident response capacity of the Superchain.\n\n\nACTION PLAN\n\nIf approved by governance, the upgrade will be executed shortly after the veto\nperiod passes, pending coordination with the Security Council. The upgrade is\ncode complete as of commit e6ef3a900c42c8722e72c2e2314027f85d12ced5\n[https://github.com/ethereum-optimism/optimism/commit/e6ef3a900c42c8722e72c2e2314027f85d12ced5]\n(release\n[https://github.com/ethereum-optimism/optimism/releases/tag/op-contracts%2Fv1.3.0-rc.1]\nand tag\n[https://github.com/ethereum-optimism/optimism/tree/op-contracts/v1.3.0-rc.1])\nin the Optimism monorepo.\n\nThis upgrade was successfully deployed to op-sepolia on Jan 19, 2024.\n\nIf a critical security issue is discovered before upgrading, OP Labs will\ncollaborate with the community to extensively communicate that the upgrade will\nno longer occur.\n\n\nCONCLUSION\n\nThis proposal outlines the Optimism Collective’s MCP L1 upgrade. This upgrade\nenables atomic, cross-chain upgrades and mitigates potential exploitation risks\nduring emergency, multi-chain upgrades.\n\nAs this is a contracts-only upgrade, no action is required by node operators.",
+  "views": 3390,
+  "like_count": 29,
+  "word_count": 1282,
+  "answer": [
+    {
+      "content": "In future, consider limiting to one upgrade proposal per voting cycle. This is\nhow Ethereum upgrades have always worked, sequentially, one upgrade at a time,\nfor many good reasons.",
+      "created_at": "2024-03-06T09:20:04.055Z",
+      "trust_level": 2,
+      "username": "polynya",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "GM @diego [/u/diego]! Is there a specific reason why this upgrade needs to be\nreleased now? I don’t have a technical background so I would like to know why is\nbetter to launch this upgrade immediately and then issue another to address the\nlow-security issues later? It is about efficiency? Or do the benefits of this\nupgrade far outweigh the risks? Thanks! I’ve heard amazing things about your\nwork :sparkles: [https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]",
+      "created_at": "2024-03-03T18:08:47.109Z",
+      "trust_level": 4,
+      "username": "brichis",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 2
+    },
+    {
+      "content": "I’m an Optimism delegate\n[https://gov.optimism.io/t/pgov-delegate-communication-thread/6059]with\nsufficient voting power and I believe this proposal is ready to move to a vote.",
+      "created_at": "2024-02-23T05:15:03.222Z",
+      "trust_level": 3,
+      "username": "PGov",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Im happy to see upgrades that decrease the response time to address a\nbug/vulnerability.\n\nI’m an Optimism delegate [https://vote.optimism.io/delegates/butterbum.eth] with\nsufficient voting power and I believe this proposal is ready to move to a vote.",
+      "created_at": "2024-02-23T06:35:58.062Z",
+      "trust_level": 2,
+      "username": "Butterbum",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "We voted FOR this proposal.\n\nThe proposed upgrade, after reviewing it, we agree that its implementation\naccomplishes its goal of simplifying upgrade flows. It’s important to emphasize\nthat the proposal has already explained how it impacts sensitive aspects of\nchain security, based on the framework previously mentioned. We strongly believe\nthat any new issues identified before the implementation phase, not just the\ncritical ones, should be communicated transparently to the community. We\nadvocate for a maximalist and cautious approach before moving forward.",
+      "created_at": "2024-03-06T22:49:34.335Z",
+      "trust_level": 2,
+      "username": "Joxes",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2024-02-15T23:31:19.162Z"
+}

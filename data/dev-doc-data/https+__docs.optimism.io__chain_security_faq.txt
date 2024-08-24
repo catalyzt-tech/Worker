@@ -1,0 +1,75 @@
+title: OP Mainnet Security Model
+lang: en-US
+description: Learn about the OP Mainnet security model and answers to common questions.
+
+import { Callout } from 'nextra/components'
+
+OP Mainnet Security Model
+
+OP Mainnet is a work in progress.
+Constant, iterative improvement of the security mechanisms that safeguard OP Mainnet users is a top priority for the entire Optimism Collective.
+The Optimism Collective strives to be clear and transparent about the security of OP Mainnet and the OP Stack as a whole.
+
+Bottom Line
+
+The security model of any blockchain system is only as strong as its lowest common denominator.
+At the moment, it's important to understand that the security of OP Mainnet is dependent on a multisig managed jointly by the Optimism Security Council and the Optimism Foundation.
+OP Mainnet and the OP Stack in general may also contain unknown bugs that could lead to the loss of some or all of the ETH or tokens held within the system.
+
+OP Mainnet Multisig
+
+The security of OP Mainnet is currently dependent on a multisig managed jointly by the Optimism Security Council and the Optimism Foundation.
+This multisig is a 2-of-2 nested multisig which is in turn governed by a 4-of-13 multisig managed by the Optimism Security Council and a 5-of-7 multisig managed by the Optimism Foundation.
+
+This multisig can be used to upgrade core OP Mainnet smart contracts without upgrade delays to allow for quick responses to potential security concerns.
+All upgrades to the OP Mainnet system must be approved by both component multisigs and either can veto an upgrade.
+
+Fault Proofs
+
+Users can withdraw ETH and tokens from OP Mainnet to Ethereum by submitting a withdrawal proof that shows the withdrawal was actually included inside of OP Mainnet.
+Withdrawals are proven against proposals about the state of OP Mainnet that are published through the DisputeGameFactory contract.
+
+Proposals can be submitted to the DisputeGameFactory contract by any user and submissions do not require any special permissions.
+Each submitted proposal creates a FaultDisputeGame contract that allows any other user to challenge the validity of a proposal by participating in a "fault proof" process.
+A more detailed explanation of the fault proof game can be found in the Fault Proofs Explainer.
+
+Although the fault proof game is permissionless, the Optimism Security Council acting as the Guardian role provides a backstop in case of a failure in the fault proof game.
+Each proposal must wait for a delay period during which the Guardian can prevent invalid proposals from being used to withdraw ETH or tokens through a number of safety hatches.
+The Guardian can also choose to shift the system to use a PermissionedDisputeGame in which only specific PROPOSER and CHALLENGER roles can submit and challenge proposals.
+
+Bugs and Unknowns
+
+Please also keep in mind that just like any other system, the Optimism codebase may contain unknown bugs that could lead to the loss of some or all of the ETH or tokens held within the system.
+The OP Stack has been audited on many occasions, but audits are not a stamp of approval and a completed audit does not mean that the audited codebase is free of bugs.
+
+It's important to understand that using OP Mainnet inherently exposes you to the risk of bugs within the Optimism codebase, and that you use OP Mainnet at your own risk.
+
+Work in Progress
+
+Sequencer Decentralization
+
+The Optimism Foundation currently operates the sole sequencer on OP Mainnet.
+Although users can always bypass the Sequencer by sending transactions directly to the OptimismPortal contract, sequencer decentralization can still help mitigate the effect of short-term outages for users.
+
+Security Model FAQ
+
+Does OP Mainnet have fault proofs?
+
+Yes, OP Mainnet has fault proofs.
+It is important to note that fault proofs are not a silver bullet and that fault proofs provide limited improvements to the security of a system if the system still has a multisig or security council that can instantly upgrade the system.
+A system with fast upgrade keys, such as OP Mainnet, is fully dependent on the upgrade keys for security.
+OP Mainnet's goal is to be the first system that deploys fault proofs that can secure the system by themselves, without fast upgrade keys.
+
+How is Optimism planning to remove the multisig?
+
+Check out Optimism's detailed Pragmatic Path to Decentralization post for a detailed view into how the multisig may be removed in a way that makes OP Mainnet the first chain with true fault proof security.
+
+How can I help make OP Mainnet more secure?
+
+OP Mainnet has one of the biggest bug bounties (ever).
+You can earn up to $2,000,042 by finding critical bugs in the Optimism codebase.
+You can also run your own verifier node to detect network faults.
+
+Where do I report bugs?
+
+For details about reporting vulnerabilities and available bug bounty programs, see the Security Policy.

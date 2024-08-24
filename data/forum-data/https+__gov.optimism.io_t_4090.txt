@@ -1,0 +1,60 @@
+{
+  "title": "Rewards for those users who received Airdrop №1",
+  "content": "I think it’s worth thinking about the rewards of those users who sold their\ntokens into the glass after the first Airdrop.\n\nMany of those who received the first Airdrop sold the entire giveaway. I think\nthis is a bad indicator on their part, since such users are not interested in\nthe development of the project, but in the accumulation of their bags.\n\nIt is fair to assume that such users acted not even from one wallet, but from\nseveral. This has a very negative impact on the ecosystem. Since the money of\ninvestors and depositors goes into empty hands, who simply left the project.\n\nWe can safely assume that many users will explore the Optimism ecosystem\ndirectly from these same wallets. Therefore, it is worth disqualifying such\nwallets. They, as well as after the first time, will leave the project until the\nAirdrop pool runs out. Such users are not interested in the idea of blockchain,\nin the idea of cryptocurrency, in the idea of decentralization. Their minds are\nruled by money.\n\nI think it’s necessary:\nRemove the old wallets of those users who left the project after the first\nAirdrop.\n\n:white_check_mark:\n[https://emoji.discourse-cdn.com/twitter/white_check_mark.png?v=12] But I think\nthat it is worth boldly rewarding users who do this:\nOptimism Quests [https://app.optimism.io/quests]\n\nSo I agree with user @0xJohn [/u/0xjohn]\n\nWhat do you think? Write your opinion below :point_down:\n[https://emoji.discourse-cdn.com/twitter/point_down.png?v=12]",
+  "views": 1858,
+  "like_count": 11,
+  "word_count": 854,
+  "answer": [
+    {
+      "content": "This could be a good idea, but I think there’s a good chance that at least some\ngenuine OP users would suffer from this.\n\nI personally sold about half of my OP tokens, but I didn’t want to sell. I just\nknew it would make my life a little bit easier. I consider myself a genuine user\nand vocal supporter/advocate, so if I got punished for what I sold, then that\nwould probably demoralize me a bit.\n\nThat said, I also hate the mercenaries who dump everything.\n\n> It is fair to assume that such users acted not even from one wallet, but from\n> several.\n\nThe devs did manage to catch a lot of sybil accounts before releasing the first\nairdrop. Hopefully they got most of them.\n\nA good balance might be to err on the side of caution and only punish the worst\nand most obvious mercenaries. That combined with the dev’s own list of excluded\nSybil accounts could be effective.",
+      "created_at": "2022-11-27T23:14:18.064Z",
+      "trust_level": 2,
+      "username": "blairforce.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "As someone who did not receive any of the first airdrop, I think that we\nshouldn’t penalize those users. Instead, the Optimism team should do the best it\ncan to make the qualifying users actual users of the network.\n\nPeople from around the world in varying financial situations received the\nairdrop. Some people have situations come up where they need to be financially\nresponsible and that may include selling tokens. Also, what if they sold the\nairdrop but have since become a dedicated optimism user?\n\nI believe that the filtering non-users should happen in the construction of\nairdrop requirements, not in what people chose to do with their personal\nfinances at one point in time.",
+      "created_at": "2023-01-10T16:09:28.512Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Would it be difficult to differentiate those who sold their tokens from those\nwho transferred the tokens to another address?\nI transferred mine from my metamask wallet to cold storage.\nIt would be a shame to be penalized for that….",
+      "created_at": "2022-12-01T06:50:38.657Z",
+      "trust_level": 2,
+      "username": "G.GHANDI",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "I agree with you. I was holding my OP tokens from the beginning of the airdrop.\nBut due to some financial issues, I kept some tokens and decided to sell 90% of\nmy OP tokens. But when I got out of it, I cancelled to sell my tokens and\ndeposited back it to my wallet. But in the last, I needed some funds urgently\nand I had to sell almost my 90% OP tokens.\nIt doesn’t mean if someone is selling their tokens they are just an airdrop\nhunter or dumper. You get some situations when you have to do it even if you\ndon’t want to.\n\nIn this situation, developers should check who sold it immediately after the\nairdrop and who kept/ hold it for a long term. And then decide eligibility for\nthe 2nd airdrop. Also, They should check if those addresses are active or not on\nthe Optimism blockchain. If they are not contributing to the community in any\nway ( by holding OP or being active on the network), they should be excluded\nfrom the 2nd airdrop.",
+      "created_at": "2022-12-04T08:34:14.474Z",
+      "trust_level": 1,
+      "username": "devranjan",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Agreed a second airdrop should be given only to those who have kept 100% of\ntheir OP tokens. All the other hoop jumping just invites bounty hunters !!",
+      "created_at": "2022-12-03T15:09:17.913Z",
+      "trust_level": 0,
+      "username": "Noodles",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2022-11-27T14:17:17.561Z"
+}

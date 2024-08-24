@@ -1,0 +1,60 @@
+{
+  "title": "[FINAL] The RetroPGF Podcast",
+  "content": "S4 Intent: Governance Accessibility (Intent 4)\n\nProposed Mission: A weekly podcast on Twitter Spaces telling the stories of\nparticipants in RPGF2 with the goal to broaden awareness and understanding of\nhow to contribute to future rounds of RetroPGF.\n\n[Proposal Tier]: Phoenix\n\nPlease verify that you meet the qualifications for your Tier: 2x Member of the\nGrants Council and receiver of RPGF2 funding.\n\nBaseline grant amount: 8k OP\n\n% of total available Intent budget: 0.266%\n\nAlliance: The RetroPGF Podcast\n\nAlliance Lead: Michael Vander Meiden\n\nContact info: @Michael [/u/michael]\n\nL2 recipient address: 0x6EdA5aCafF7F5964E1EcC3FD61C62570C186cA0C\n\nPlease list the members of your Alliance and link to any previous work:\n\n * Michael Vander Meiden [https://gov.optimism.io/u/michael/summary] @Michael\n   [/u/michael]\n   * Delegate, Governance Community Call Host, 2x Grants Council Member, RPGF2\n     Recipient, Youtube Educator\n * Link to call posts [https://gov.optimism.io/u/michael/activity/topics]\n * “The Blockchain Guy”\n   [https://www.youtube.com/channel/UCf3gO7921XD3gp5npnL05hQ] youtube channel\n\nPlease explain how this Mission will help accomplish the above Intent:\n\n * Intent #4 description states that it includes “ Missions to educate the\n   broader community about Optimism governance and RetroPGF”. This podcast is a\n   direct attempt to educate the broader crypto community on RetroPGF.\n * One of the biggest hurdles to starting the RetroPGF flywheel is creating the\n   contributor base for RetroPGF. As it currently stands, many people who would\n   otherwise be contributors either 1) don’t know RetroPGF exists, 2) don’t\n   realize that RetroPGF would apply to them or 3) don’t understand the\n   mechanisms of RetroPGF confidently enough in order to do work with RetroPGF\n   funding as a goal.\n * This podcast will combat each of these things by drawing on a wealth of\n   stories from RPGF2 recipients. Every episode will interview a new recipient\n   of RPGF2 and allow them to tell their story, how they contributed, how\n   receiving funding changed their project, and how they are thinking about\n   their future contributions with respect to RetroPGF.\n * These episodes will be hosted on Twitter spaces for discoverability, and have\n   the recording published to podcast platforms & Youtube. Twitter spaces will\n   also allow audience interaction and Q&A during the episode.\n\nWhat makes your Alliance well-suited to execute this Mission?\n\n * Michael Vander Meiden [https://twitter.com/elblockchainguy]\n   * Michael has countless previous experience engaging with the community, from\n     being hosts in the delegate community calls for the Optimism Collective, to\n     Optimism-focused educational youtube channel. This project will allow him\n     to leverage his knowledge of Optimism and combine it with his hosting\n     abilities to illuminate and broadcast the stories of RPGF2 recipients and\n     expand the group of people who understand RetroPGF.\n\nPlease list a critical milestone\n[https://gov.optimism.io/t/token-house-grant-policies/5833]. The critical\nmilestone should be a measure of whether you’ve made best efforts to execute\nwhat is outlined in this proposal or not. If you fail to achieve your critical\nmilestone, your grant may be clawed back.\n\n * Host an average of 1 episode per week between now and September 20th\n * Publish recordings of these spaces on Youtube as well\n\nHow should Token House delegates measure progress towards this Mission:\n\n * Consistent averaging of 1 episode per week with meaningful attendance\n\nHow should badgeholders measure impact upon completion of this Mission?\n\n * Total playback on all platforms\n * Community engagement during and after (recordings) the interview\n * Participation in RetroPGF from the listeners of these twitter spaces\n\nBreakdown of Mission budget request:\n\nMission budget will go towards organization, research, scheduling, and promotion\nof the interviews. High quality promotional material will be published before\nevery episode in order to increase attendance.\n\nI confirm that my grant will be subject to clawback for failure to execute on\ncritical milestones: Yes\n\nI confirm that I have read and understand the grant policies\n[https://gov.optimism.io/t/token-house-grant-policies/5833]: Yes\n\nI understand that I will be required to provide additional KYC information to\nthe Optimism Foundation to receive this grant: Yes\n\nI understand that I will be expected to following the public grant reporting\nrequirements outlined here\n[https://gov.optimism.io/t/suggested-public-reporting-requirements-for-grantees/4176]:\nYes",
+  "views": 2270,
+  "like_count": 31,
+  "word_count": 2002,
+  "answer": [
+    {
+      "content": "Happy to report that we have been successful with the 1 episode per week cadence\nas outlined in the proposal!\n\nThat said, there were some issues with the recordings of certain episodes that\nwe believe were due to problems with twitters platform.\n\nThe good news is, we are just getting started and plan on continuing the podcast\ngoing into the future.\n\nThe playlist of recorded episodes can be found here\n[https://www.youtube.com/playlist?list=PLkNS7G9A9BfbiOTZLk7hJ-EoIkUi24RlR].",
+      "created_at": "2023-09-20T15:54:07.972Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "This is a great idea and I sign up to tell you how good RPGF1 was for\nEthernautDAO back in the day!\n\nI’m a delegate [https://gov.optimism.io/t/delegate-commitments-old/235/2] with\nenough voting power to approve this mission proposal.",
+      "created_at": "2023-06-22T14:41:51.459Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 2
+    },
+    {
+      "content": "Love this focused approach to showcase Retroactive Public Goods recipients and\nthat it recognises the need to not just create content but to actively promote\nand track engagement as a measure to inform impact. It would be great to see\nthis work also supported via FDN comms channels (email, twitter round up) is\nthat possible?\n\n\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/michael/48/2489_2.png]\nMichael:\n>  * Total playback on all platforms\n>  * Community engagement during and after (recordings) the interview\n>  * Participation in RetroPGF from the listeners of these twitter spaces\n\nIn terms of key performance indicators (KPIs) it would be great to see both a S4\nperformance target (estimates) as well as results. With content engagement\n(Engmt) reported for both the podcast as well as all Calls to Action [links]\nthat drive governance participation\n\nPerformance Measures S4 Target A. #Total playbacks 1000 B. #Total playback\nminutes/hours 10000 C. Engmt Playback = B/A 10 D. #CTA Link clicks 100 E.\nQualified Action = D/A 0.1\n\nNumbers are example only that show a podcast engagement that leads 10% of the\naudience (playbacks) to take further action.(direct response)\n\nRecommend the use of campaign tracking URLs\n[https://www.google.com/url?sa=t&source=web&rct=j&url=https://ga-dev-tools.google/campaign-url-builder/&ved=2ahUKEwivjuufptX_AhXobWwGHeAiC5gQFnoECBIQAQ&usg=AOvVaw22SQCezxwvJ3bOYchCs9SW]\nwhich can be tagged to show which episodes, channels and CTA are most effective\nto drive engagement and further action.\n\n\n[https://europe1.discourse-cdn.com/bc41dd/original/1X/391d6e71a279a9f881f75bfa7df5cdf3cf905b3f.png][OLD]\nCollective Intents: Season 4\n[https://gov.optimism.io/t/old-collective-intents-season-4/5874/1]\n\n> Increasing the votable supply and reducing the concentration of voting power\n> should be important bi-products of improved accessibility\n\nAdmittedly clicks can always be farmed but depending on where you choose to land\npeople via CTA it could then have positive impact on\n\n * RFPG3 nominations (how to measure?)\n * increased or diversified voteable supply (baseline the delegate profile(s) +\n   track CTA click throughs)\n\nIf you can quantify a strategic result engagement farming is largely negated\nbecause whether 1 or 100 click throughs the resulting change to i.e. voteable\nsupply informs impact.\n\nThis is a valuable investment of time, one I hope will can provide a data-driven\nbasis to continue the work beyond S4.",
+      "created_at": "2023-06-21T22:26:05.410Z",
+      "trust_level": 2,
+      "username": "lee0007",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "RPGF can certainly do with more education/information, and you’re a great fit.\nGrant request is also reasonable given the expected impact.\n\nI am an Optimism delegate with sufficient voting power\n[https://vote.optimism.io/delegate/polynya.eth], and I believe this proposal is\nready to move to a vote.",
+      "created_at": "2023-06-22T03:26:33.847Z",
+      "trust_level": 2,
+      "username": "polynya",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "I love this proposal! I hope there can be some coordination with this crew if\nboth pass: [DRAFT] Fueling RetroPGF Growth through Education, Collaboration, and\nActive Marketing - #9 by lavande\n[https://gov.optimism.io/t/draft-fueling-retropgf-growth-through-education-collaboration-and-active-marketing/6146/9]\n\nI am an Optimism delegate with sufficient voting power\n[https://vote.optimism.io/delegate/griff.eth], and I believe this proposal is\nready to move to a vote.",
+      "created_at": "2023-06-24T11:20:18.227Z",
+      "trust_level": 2,
+      "username": "Griff",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2023-06-21T17:20:17.817Z"
+}

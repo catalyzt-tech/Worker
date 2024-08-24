@@ -1,0 +1,60 @@
+{
+  "title": "Footprint Analytics - Builders Grant - Cycle 11 - Milestone Update",
+  "content": "Dear Optimism Community,\n\nHere is the updates for Milestone Completion which are detailed in the Footprint\nAnalytics’s builder grant\n[https://gov.optimism.io/t/footprint-analytics-optimism-builders-grant-cycle-11/5603/1]\nproposal:\n\nWe have completed all development types of milestones. Only the last roadmap for\nhosting a hackathon remains, and we are working on it now, and will finish it\nnext year (Will update when we complete).\n\nI updated all development types of milestone delivables in the Google Sheet\nFootprint Milestones Update for Optimism Grant - Google Sheets\n[https://docs.google.com/spreadsheets/d/1sjtzWr-Hid-iz0ZTqlF-Vm5GtOu3FXyC2LEINh8qMvE/edit#gid=0],\nplease check more details here or below.\n\nProject Milestone Milestone Type Delivered by Date Source of Truth Footprint\nAdoption Optimism chain NFT marketplace data footprint -\nOptimism chain NFT marketplace overview dashboard & structured table Critical\n6/26/2023 1. NFT Marketplace Dashboard: Link\n[https://www.footprint.network/research/nft/nft-marketplace/single-marketplace?series_date=past90days~&chain_filter=Optimism&marketplace_filter=opensea]\n2. NFT Marketplace Tables:\n- nft_transactions: filter ‘chain = Optimism’ Footprint API Adoption - Optimism\nchain NFT Marketplace on Data API\nAll the NFT Marketplace data are available on Data API Critical 7/10/2023 NFT\nMarketplace Data API:\n- getNFTTransactions\n[https://docs.footprint.network/reference/get_v2-nft-collection-transactions]:\nChain = Optimism, Contract Address = 0x52782699900df91b58ecd618e77847c5774dcd2e\nFootprint Adoption - Optimism chain NFT data on Footprint\nOptimism chain NFT overview dashboard & structured table Critical 8/10/2023 1.\nNFT Collection Dashboard: Link\n[https://www.footprint.network/@Higi/NFT-Collection-Dashboard-V1?collection_contract_address=0x5f1df154970bc139832842836ed4d006b0da689d&date-79715=past90days&series_date-83536=past90days]\n2. NFT Collection Tables:\n- nft_transfers: filter ‘chain = Optimism’\n- nft_collection_info: filter ‘chain = Optimism’\nFootprint API Adoption - Optimism chain NFT data on Data API\nAll the NFT data are available on Data API Critical 8/24/2023 NFT Collection\nData API:\n- getNFTTransfers\n[https://docs.footprint.network/reference/get_v2-nft-collection-transfers]:\nChain = Optimism, Contract Address = 0x52782699900df91b58ecd618e77847c5774dcd2e\n- getNFTCollectionMetadata\n[https://docs.footprint.network/reference/get_v2-nft-collection-info:]: Chain =\nOptimism, Contract Address = 0x52782699900df91b58ecd618e77847c5774dcd2e\nFootprint Adoption - Optimism chain GameFi data on Footprint\nOptimism chain GameFi overview dashboard & structured table Critical 5/12/2023\n1. Optimism GameFi Dashboard: Link\n[https://www.footprint.network/research/gamefi/game-overview/single-chain?chain=Optimism]\n2. Optimism GameFi Tables: Link\n[https://www.footprint.network/chart#eyJkYXRhc2V0X3F1ZXJ5Ijp7InR5cGUiOiJxdWVyeSIsInF1ZXJ5Ijp7ImxpbWl0IjoxMDAwLCJzb3VyY2UtdGFibGUiOjgwMiwiZmlsdGVyIjpbImFuZCIsWyI9IixbImZpZWxkIiw4MjY1LG51bGxdLCJPcHRpbWlzbSJdLFsidGltZS1pbnRlcnZhbCIsWyJmaWVsZCIsODI2OCxudWxsXSwtNjAsImRheSIseyJpbmNsdWRlX2N1cnJlbnQiOmZhbHNlLCJpbmNsdWRlLWN1cnJlbnQiOnRydWV9XV19LCJkYXRhYmFzZSI6M30sImRpc3BsYXkiOiJ0YWJsZSIsInZpc3VhbGl6YXRpb25fc2V0dGluZ3MiOnt9fQ==];\nData Dictionary\n[https://www.footprint.network/@Footprint/Footprint-Datasets-Data-Dictionary].\n- protocol_transactions: filter ‘chain = Optimism’\n- gamefi_protocol_daily_stats: filter ‘chain = Optimism’\n- protocol_active_address: filter ‘chain = Optimism’\n- protocol_daily_stats: filter ‘chain = Optimism’\n- protocol_info: filter ‘chain = Optimism’ Footprint API Adoption - Optimism\nchain GameFi data on Data API\nAll the GameFi data are available on Data API Critical 5/26/2023 GameFi Data\nAPI:\n- getProtocolMetadata\n[https://docs.footprint.network/reference/get_v2-protocol-info]: Chain =\nOptimism, Protocol Slug = gladiaxy(take this game as an example)\n- getProtocolMetadataByContract\n[https://docs.footprint.network/reference/get_v2-protocol-info-by-contract]:\nChain = Optimism, Contract Address =\n0x915d0d9e68cca951b3a0aed95f236fff912431da(take this game as an example)\n- getProtocolMetadataByName\n[https://docs.footprint.network/reference/get_v2-protocol-info-by-name]: Chain =\nOptimism, Protocol Name = Gladiaxy(take this game as an example)\n- getProtocolStats\n[https://docs.footprint.network/reference/get_v3-protocol-getprotocolstats]:\nChain = Optimism, Protocol Slug = galaxia-studios(take this game as an example)\n\nPlease check and leave your feedback.",
+  "views": 1110,
+  "like_count": 8,
+  "word_count": 1177,
+  "answer": [
+    {
+      "content": "Hi @Lynn [/u/lynn], thank you for your recent updates. We note that there are\nstill two critical milestones pending:\n\n * Maintenance Resolving issues and fixing bugs\n * Hackathon Event Co-organize an online hackathon to attract analysts,\n   developers contribute to Optimism\n\nLooking forward to hearing about your progress on these milestones. Keep us in\nthe loop!",
+      "created_at": "2024-02-28T13:35:22.991Z",
+      "trust_level": 2,
+      "username": "v3naru_Curia",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Hello team! Thanks for the updates. We have reviewed these milestones and have\nrecommended to the grants council to disburse your funds upon the one year\nlockup! Be on the look out for an email from the foundation soon.",
+      "created_at": "2024-04-17T12:50:03.481Z",
+      "trust_level": 3,
+      "username": "PGov",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Thanks for your following up and your feedback.\nFor the Maintenance - we will continue keep fixing bugs and keep the data update\nfor the Optimism.\nFor the Hackathon, we are preparing for the Hackathon event these days. Will\nupdate after we finish it.",
+      "created_at": "2024-02-29T02:36:27.911Z",
+      "trust_level": 1,
+      "username": "Lynn",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Hello @v3naru_Curia [/u/v3naru_curia] We are preparing for the hackathon and I\nwould like to submit a draft of the hackathon program in advance for Optimism\nteam review. We look forward to hearing your feedback and suggestions, and it\nwould be great to have the support from the ecosystem. Could you check your\npersonal massage?",
+      "created_at": "2024-03-12T13:04:35.600Z",
+      "trust_level": 1,
+      "username": "Lynn",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Dear Optimism Community,\n\nToday, we are thrilled to share the fantastic results of our Optimism Hackathon\n[https://twitter.com/Footprint_Data/status/1780538540549677112]! :tada:\n[https://emoji.discourse-cdn.com/twitter/tada.png?v=12] We have completed all\nmilestones.\n\nAfter an exciting period of innovation and collaboration, we’re proud to\nannounce the successful conclusion of the event. The hackathon has captured\nimmense attention across our community. We received a diverse array of 125\nprojects from enthusiastic participants in the GameFi, AI, and data sectors,\nshowcasing incredible creativity and commitment to enhancing the Optimism\necosystem.\n\nWe extend our deepest gratitude to all the developers and builders whose\noutstanding contributions have lit up this event. Your innovative projects not\nonly highlight the potential of the Optimism Ecosystem but also play a crucial\nrole in pushing the boundaries of what we can achieve together.\n\nLooking ahead, Footprint Analytics is more committed than ever to continue\nbuilding and contributing to the Optimism ecosystem. We are dedicated to\nfostering the mass adoption of Optimism, ensuring a vibrant and thriving\nenvironment for all users.\n\nThank you to everyone who participated, supported, and cheered on this journey.\nLet’s keep up the momentum and keep building amazing things on Optimism!\n:rocket: [https://emoji.discourse-cdn.com/twitter/rocket.png?v=12]",
+      "created_at": "2024-04-17T10:22:20.205Z",
+      "trust_level": 1,
+      "username": "Lynn",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2023-10-18T03:23:34.754Z"
+}

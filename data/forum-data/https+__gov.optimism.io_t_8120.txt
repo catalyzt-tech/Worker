@@ -1,0 +1,60 @@
+{
+  "title": "Season 6 Elections: Code of Conduct Council",
+  "content": "SEASON 6 ELECTIONS: CODE OF CONDUCT COUNCIL\n\n--------------------------------------------------------------------------------\n\nThose that would like to nominate themselves for these roles must fill out the\nbelow template and post here\n[https://gov.optimism.io/t/season-6-nominations-code-of-conduct-council/8118] by\nJuly 24th at 19:00 GMT.\n\nAnyone is able to self-nominate, and you can refer to the governance approved\nSeason 6 Code of Conduct Council Charter here\n[https://gov.optimism.io/t/final-v2-code-of-conduct-council-operating-budget-re-scope-for-season-6-cycle-23b/].\n\nThe Foundation will facilitate a town hall\n[https://calendar.google.com/calendar/u/0/r?cid=Y19mbm10Z3VoNm5vbzZxZ2JuaTJncGVyaWQ0a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t]\nwith all eligible candidates the following week, before elections take place.\n\nThere is no minimum voting power requirement to be a Member but all members are\nencouraged explore the GravityDAO’s conflict resolution training\n[https://gravitydao.org/course/graviton-introductory-course/] (online or live)\nby the start of Season 6.\n\nRepresentatives should only serve in one elected position per Season. There are\nno term limits for representatives, but they may be implemented in the future if\nthe need arises.\n\n--------------------------------------------------------------------------------\n\n\nCODE OF CONDUCT COUNCIL SELF-NOMINATION TEMPLATE\n\nPlease keep your answers as concise as possible while conveying all relevant\ninformation.\n\nIf you are a delegate, please provide the link to your delegate commitment:\n\nIf you are a delegate, please indicate what % of votable supply is delegated to\nyou: (voting power can be referenced here\n[https://dune.com/optimismfnd/optimism-op-token-house].)\n\nIf you are a delegate, please indicate your voting participation rate in OP\ngovernance to date: (You may link to your profile on Karma\n[https://optimism.showkarma.xyz/], if applicable.)\n\nPlease link to your voting history and any voting rationale you’ve shared: (You\nmay link to your Snapshot and/or Agora profile for voting history. You may link\nto your delegate communication thread, or any other medium you use to\ncommunicate with your delegators, to share your voting rationale.)\n\nHave you attended GravityDAO’s conflict resolution training?:\n\nIf so, what was the most impactful learning you took away from this training?:\n\nPlease demonstrate any non-Optimism experience you believe is relevant to this\nrole:\n\nHave you previously served in a representative (appointed or elected) role in\nthe Collective? If so, please specify which:\n\nPlease outline your contributions, and their impact, to the Optimism ecosystem\nto date:\n\nPlease disclose any anticipated conflicts of interest: If you are a top 25\ndelegate in another ecosystem, hold an elected position in another DAO, and/or\nare a multisig signer in another community please disclose here.\n\nPlease verify that you understand you may be removed from this role via the\nRepresentative Removal proposal type in the Operating Manual\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md]:\n\nPlease verify that you understand KYC will be required to receive Council\nrewards at the end of Season 6:\n\nPlease verify that you are able to commit ~5 hours / week to Council Operations:\n\n--------------------------------------------------------------------------------\n\n\nWHAT DOES THIS MEAN FOR DELEGATES?\n\nToken House Code of Conduct Council Members will be elected via approval voting\nin Special Voting Cycle #23b (full details in the Season 6 Reflection Period\nGuide [https://gov.optimism.io/t/season-6-reflection-period-guide/8130].)\nApproval voting is a mechanism that allows each delegate to vote for as many\nnominees as they choose with equal voting power. The nominees with the highest\npercentage of approval votes will be elected to the Council. Please note this\npolicy in Optimist Expectations:\n\n> In the case of approval/ranked choice elections, delegates may vote for\n> themselves, so long as they also cast votes for the remaining elected\n> positions.\n> \n> Example: I can vote for my own candidacy on the Growth Experiments committee,\n> so long as I also cast 4 additional votes (a total of 5 votes, as there are 5\n> open positions on the sub-committee.)\n\nPlease note the above outlined voting mechanism is subject to change depending\non Council structure and number of eligible candidates.",
+  "views": 629,
+  "like_count": 19,
+  "word_count": 2379,
+  "answer": [
+    {
+      "content": "The following reflects the views of L2BEAT’s governance team, composed of\n@kaereste [/u/kaereste] and @Sinkas [/u/sinkas], and it’s based on the combined\nresearch, fact-checking, and ideation of the two.\n\nAfter reviewing all applications and assessing each nominee’s relevant\nexperience, we decided to cast our vote for the following people:\n\n * Bubli.eth\n * CryptoReuMD\n * Oxytocin\n * Pumbi\n * fujiar\n\nUnfortunately, our vote was erroneously cast as ‘Abstain’ instead of in favor of\nthe people we wanted to vote for. We are not sure why that happened (when\ncasting the vote we thought all was good), but it seems it was some kind of an\ninterface glitch. We contacted Agora as soon as we found out, but it couldn’t be\nundone.\n\nWe suggested Agora two changes that could be implemented in the future to make\nsure that this does not happen again:\n\n * ideally, it should be possible to change the vote after it has been cast, but\n   we understand that this is a major change that requires further discussion\n * as a quick fix it might make sense to have a separate confirmation step after\n   all the choices and comments have been made but before the UI asks for\n   signing the transaction, that way the user would be presented with the exact\n   vote that he is going to cast and sign in the next step\n\nWe apologise to anyone affected by this error, it was not intentional.",
+      "created_at": "2024-08-08T12:29:10.970Z",
+      "trust_level": 2,
+      "username": "kaereste",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "Hey everyone,\n\nFirst of all, I wanted to thank all Token House delegates who decided to vote\nfor me this season, I really appreciate the confidence. I will work again in\nensuring transparent communications between Token House members and the Council,\nand if you have any questions about anything, feel free to shoot a DM and I will\nbe happy to respond.\n\nI’m saddened to hear about an Agora UX issue altering the final result of the\ncouncil, but as @lavande [/u/lavande] confirmed above that the on-chain result\ncannot be altered, I am trying to think of solutions on how we could go forward.\n\n@Bubli.eth [/u/bubli.eth] , the new council hasn’t assembled yet, but if\ninterested, I could propose to the council to have you as a potential help in\nfuture matters. Afterwards, the council could apply for Retro Funding to reward\nthe impact given. Let me know if you’d be up for this and I can bring it up on\nthe first meeting!",
+      "created_at": "2024-08-12T11:59:39.150Z",
+      "trust_level": 2,
+      "username": "Oxytocin",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Thanks @Oxytocin [/u/oxytocin].\n\nThanks @lavande [/u/lavande] for the reply.\n\nI never wanted to get the on-chain decision altered, but received many DM’s and\nwanted to highlight this for any new or future issues that may arise. Being part\nof multiple DAO’s for many years now, I did not face such issue, so learning\nfrom experts, how this kind of issue will be handled, as I believe Optimism has\nsome great experts in the industry and they ensure looking at things from all\naspects.\n\nI am happy to help the COCC and contribute to Optimism with my experience and\nexpertise.\n\nPlease keep me updated on this.",
+      "created_at": "2024-08-13T03:45:57.817Z",
+      "trust_level": 2,
+      "username": "Bubli.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Thanks for flagging! The dates have been adjusted to reflect the new time frame.",
+      "created_at": "2024-06-21T16:57:59.938Z",
+      "trust_level": 4,
+      "username": "maxwell",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "Please post your self-nomination here\n[https://gov.optimism.io/t/season-6-nominations-code-of-conduct-council/8118].",
+      "created_at": "2024-06-27T20:18:01.530Z",
+      "trust_level": 4,
+      "username": "system",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2024-05-10T13:03:49.651Z"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Is here any project on Gaming?",
+  "content": "Greetings,\nI was curious that is any Gaming project on Optimism. I remember there was one\nPuzzle kind of game, but nothing else was introduced. I checked the Optimism\nApps [https://www.optimism.io/apps/all] but did not find any. Any suggestions?",
+  "views": 1511,
+  "like_count": 6,
+  "word_count": 358,
+  "answer": [
+    {
+      "content": "Hey I’m Andy form Infinity Keys - let’s see about doing a promotion together to\nfunnel some of our players to Chaintrap!",
+      "created_at": "2023-04-24T15:17:40.922Z",
+      "trust_level": 1,
+      "username": "andyboyan",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "I know Chaintrap is in the making: [FINAL] Chaintrap Builders - Cycle 11\n[https://gov.optimism.io/t/final-chaintrap-builders-cycle-11/5526]\n\nNot Your Keys and EVM runners are also being built in Optimism.\n\nInfinity Keys it’s a puzzle game: Infinity Keys - Build Grant - Cycle 11\n[https://gov.optimism.io/t/infinity-keys-build-grant-cycle-11/5635]",
+      "created_at": "2023-04-24T11:42:23.463Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "Thanks for the Infinity Keys shoutout! We are probably the puzzle game thing you\nsaw!\n\nThere’s treasure everywhere…\n\nInfinity Keys is a game creation system to easily build and share puzzle games\nand link to any other connected game. Create missions to find secret codes,\nengage across socials, and collect digital keys & treasures.\nhttps://infinitykeys.io [https://infinitykeys.io]\n\nWould love to integrate with all of the games and NFT projects and DefI and\neducation on Optimism!",
+      "created_at": "2023-04-24T15:16:58.913Z",
+      "trust_level": 1,
+      "username": "andyboyan",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Thanks for the shout out Gonna. Yep, chaintrap is a “deathtrap dungeon” inspired\nfully on chain game. You can either be a dungeon keeper or a trialist. Dungeon\nkeepers make maps and run the game sessions. Trialists compete to be the first\nto complete the dungeon. The dungeon keepers lay treats and traps to tempt the\ntrialists to their doom.\n\nFor the optimism grant we are focused on the contracts and the infra specific to\noptimism. We are building out the contracts so that everything you make or win\nis yours as long as you can keep it :-). We are also looking for ways to make\nthe contracts interoperate with other things that are happening here.\n\nThis is our discord if you want more info Polysensus\n[https://discord.gg/S526ySEQ]",
+      "created_at": "2023-04-24T13:10:40.759Z",
+      "trust_level": 1,
+      "username": "robin0f7",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "That would be great, thanks. I really like the simplicity of the infinity keys\nexperience",
+      "created_at": "2023-04-24T15:20:19.373Z",
+      "trust_level": 1,
+      "username": "robin0f7",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2023-04-24T08:21:58.589Z"
+}

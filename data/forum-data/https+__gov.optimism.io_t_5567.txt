@@ -1,0 +1,9 @@
+{
+  "title": "Archived Post - GF Phase 1",
+  "content": "Post is archived to permit project to own post.",
+  "views": 1447,
+  "like_count": 1,
+  "word_count": 9,
+  "answer": [],
+  "created_at": "2023-03-10T15:27:09.635Z"
+}

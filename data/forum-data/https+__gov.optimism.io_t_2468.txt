@@ -1,0 +1,9 @@
+{
+  "title": "It is better to teach a man to fish than to give him a fish!",
+  "content": "I don’t know if you have thought about a question?\nWhat is our purpose when we propose all kinds of fantastic ideas to the project\nparty? I think all good advice is for the project to have a good future? So,\nwhat is the basis for the success of the project? I think there are the\nfollowing points:\n\n 1. Whether the field or sector of the project meets the needs of industry\n    development;\n 2. Excellent technical strength;\n 3. First-class marketing capabilities;\n 4. Reasonable development route;\n 5. Fair community governance.\n    No problem with No. 1; No. 2 and No. 3 are also qualified, but if the\n    community can have more counterparts to contribute to No. 2 and 3, it will\n    be more effective; only after this can it be the turn of the community to\n    make suggestions, discuss and formulate more Excellent development route and\n    management plan!",
+  "views": 1555,
+  "like_count": 1,
+  "word_count": 148,
+  "answer": [],
+  "created_at": "2022-06-05T02:19:25.667Z"
+}

@@ -1,0 +1,9 @@
+{
+  "title": "About the Collective  Strategy 🧭 category",
+  "content": "This category is for Collective Strategy relating to intents and roadmaps.",
+  "views": 2379,
+  "like_count": 0,
+  "word_count": 11,
+  "answer": [],
+  "created_at": "2024-05-09T16:39:51.344Z"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Governance Fund Discussion Thread",
+  "content": "We would love to hear your thoughts and answer any questions on Governance Fund:\nPhase 0 and Phase 1!\n\nGood discussion includes:\n\n * For Phase 0:\n   * Flagging any errors in our TVL, Transactions/day, or Optimism Nativity\n     metrics\n   * Discussion around how to craft a clear proposal for incentives\n * For Phase 1:\n   * Discussion around how to improve the Phase 1 proposal format\n   * Discussion around how Phase 1 can fill in the gaps left by Phase 0.\n\nPlease leave constructive feedback so we keep the signal to noise ratio high in\nhere! <3 Thank you!!!",
+  "views": 4335,
+  "like_count": 78,
+  "word_count": 1078,
+  "answer": [
+    {
+      "content": "Why the focus on TVL? This excludes OP native NFT marketplaces entirely.\nQuixotic should be included in this.",
+      "created_at": "2022-05-03T19:42:25.659Z",
+      "trust_level": 2,
+      "username": "Ricardo",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 8
+    },
+    {
+      "content": "This is a great callout - I personally agree that NFT project usage seemed the\nleast captured from these metrics, and I think it’s important to make note of\nthat for Phase 1. I would definitely encourage OP Collective governance to push\nto fill in this gap during Phase 1 and actively stimulate NFT ecosystem growth.",
+      "created_at": "2022-05-03T20:03:45.520Z",
+      "trust_level": 2,
+      "username": "kevin",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 8
+    },
+    {
+      "content": "Thank you all for the feedback!\n\nOn-chain metrics (like TVL) are only relevant for Phase 0, which makes up just\n15% of the overall Governance Fund / OP Stimpack. Phase 1 will distribute the\nremaining 85%.\n\nIn Phase 1, any project on Optimism can apply for funding. We expect this stage\nto be more flexible and, as Kevin mentioned, it should fill in the gaps left by\nPhase 0.",
+      "created_at": "2022-05-03T21:47:07.543Z",
+      "trust_level": 4,
+      "username": "bobby",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 7
+    },
+    {
+      "content": "Continuing with the discussion about the preponderance of TVL, for phase 1 it\nwould be interesting to take into account the WAU metric (weekly active users),\nwhich can help marketplaces, games, bridges and trading protocols to be eligible\nfor incentives in a fairer way.",
+      "created_at": "2022-05-22T23:12:13.146Z",
+      "trust_level": 2,
+      "username": "Joxes",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "Generally agree with the sentiment to consider metrics on a more subjective\nbasis from Phase 1. TVL and transactions/day both favour a certain type of\nprotocol. You can have a very valuable protocol that has no TVL and only\nrequires people to make transactions occasionally that could be very valuable.\nAt a later date, I’d like to see subjective ratings by OP citizens (and also\nmore empirical usage metrics by them).",
+      "created_at": "2022-05-05T16:56:14.167Z",
+      "trust_level": 2,
+      "username": "polynya",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    }
+  ],
+  "created_at": "2022-05-03T18:04:13.071Z"
+}

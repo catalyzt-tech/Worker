@@ -1,0 +1,9 @@
+{
+  "title": "About the Trust Tiers category",
+  "content": "Collective Trust Tiers are the very first step towards establishing a connection\nbetween one’s positive impact in the ecosystem and access to different types of\nwork, grants, and roles within the Collective.\n\nInitially, Trust Tiers will be used to:\n\n * Establish transparent standards for contribution and grant eligibility,\n   specifically:\n   * Determining appropriate grant sizes for grants made by the Grants Council\n   * Determining funding eligibility for different Alliances proposing Missions\n     [https://gov.optimism.io/t/token-house-missions/5881/2]\n   * Specifying which Alliances may apply for Foundation Missions (RFPs)\n     [https://github.com/orgs/ethereum-optimism/projects/31/views/1]\n * Help people understand the types of contributions (and, over time,\n   Attestations) we think are important for establishing the basis of reputation\n   in the Collective",
+  "views": 519,
+  "like_count": 1,
+  "word_count": 121,
+  "answer": [],
+  "created_at": "2023-04-13T19:41:27.234Z"
+}

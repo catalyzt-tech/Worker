@@ -1,0 +1,40 @@
+{
+  "title": "Allocate 1M OP tokens to independent Recovery Agents or Bounty Hunters to apprehend and recover from Perpetual Protocol scammers",
+  "content": "A functional DAO must have means and mechanism to enforce its interests incase\nparties to the DAO decide to scam the DAO. While it does not make any sense to\nengage law enforcement, nor are such actions in the interest of decentralised\ncommunities, that doesnt mean a DAO should not have the ability to enforce its\ncollective interests in the face of adversaries and bad faith actors who decide\nto scam the community.\n\nOne of the way this can be done is by putting up a public bounty so that\nindependent recovery agents or bounty hunters can be incentivised to deliver the\nbounty to the Optimism Collective, and in return they can collect their share of\nthe reward.\n\nIn this regard, it is now proposed to allocate 1M OP tokens as a public bounty\nfor the capture of Perpetual Protocol developers who have scammed the Optimism\nCollective.\n\nThe modus operandi of the scam perpetuated by the Perpetual Protocol developers\nand team is outlined here: Perpetual Protocol: Optimism Governance's First\nFailure\n[https://gov.optimism.io/t/perpetual-protocol-optimism-governances-first-failure/3029]\nIn summary,\n\n 1. The Perp v1 protocol suffered millions in losses due to volatile market\n    conditions that have nothing to do with Optimism Collective,\n 2. To offset the losses sustained by them, the Perpetual Protocol team have\n    used the grants provided by Optimism Collective to fill holes in their\n    pocket, despite promising they would use the OP token grants to increase\n    protocol liquidity.\n 3. An analysis of wallets that received the OP token shows that an overwhelming\n    majority of the tokens (>70%) were funnelled back to wallets owned by the\n    Perpetual Protocol team, and were dumped for stablecoins.\n\nAs per this proposal, the Optimism Collective will allocate a 1M OP token reward\nfor any bounty hunter or recovery agent who can recover the equivalent amount of\nOP tokens that the Perpetual Protocol have scammed the Optimism Collective.\n\nOnce the bounty proposal has passed the governance, the bounty will be\npublicised on asset recovery forums and groups, so that interested recovery\nagents can put forth their proposals to the Optimism Collective.",
+  "views": 1948,
+  "like_count": 3,
+  "word_count": 765,
+  "answer": [
+    {
+      "content": "While I do agree with the intention, I believe that there should be careful\nconsideration on the methods used to act on this (if at all), due to the fact\nthat it could bring legal issues to the OP Collective. The fact that this\nhappened is more of a learning lesson for the OP Collective, and I do not\nbelieve that there is a way to ‘take back’ what was given.\n\nAdditionally, I would recommend a stronger solution prior to requesting an\nallocation of this amount. Simply throwing OP tokens at issues does not really\ncount as a solution IMO, especially when there is not an actual ‘bug’.\n\nAgain, I do agree with you on the underlying topic, but I personally believe\nthat voters should be committed to voting on behalf of the longevity of the OP\ncollective. This does not include coordinating a ‘bug bounty’ to retrieve tokens\ndistributed at the fault of our collective governance decisions. Further, I\nstrongly encourage the rest of the voters to not fund or participate in anything\nborderline illegal as the actions suggested in this post.\n\nPerhaps we wait, as @OPUser [/u/opuser] has suggested, and find a more\ndiplomatic way of handling this situation… Worst case scenario, it will be a\n(very expensive) lesson for us going forward.",
+      "created_at": "2022-07-21T16:02:17.842Z",
+      "trust_level": 2,
+      "username": "raho",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Idea of bounty is welcomed in general but we should give them(Perp Team) to\nrespond to all these allegation. And you can ask the team here\n[https://gov.optimism.io/t/perpetual-protocol-optimism-governances-first-failure/3029/4]\n\nIn total 1.3M token was converted to stable, 500K was for grant and builder\nwhich was paid in stable, not ideal but it depends on their agreement, if they\nagreed to pay in $OP or in Stable\n\nThey need to give clarification on rest (800K) $OP token, and as they have\nmentioned in their proposal that they will match the incentives 1:1, we also\nneed to know if they dumped their native token as well or not ?\n\nOP Team is aware of this and they are working on getting all the facts, lets\njust give them some time.",
+      "created_at": "2022-07-21T10:27:38.307Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Obviously, the perpetual protocol airdrop OP event to users proves that the\nperpetual protocol is a bad team. Ostensibly to give back to the user. In fact,\nit is to use users to achieve the purpose of cashing out. Many users only got\n0.1 or 0.2 OP. A large number of OPs were airdropped into the project party’s\nown wallet.",
+      "created_at": "2022-07-22T08:52:18.015Z",
+      "trust_level": 2,
+      "username": "Jeremylau",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-07-21T10:00:20.977Z"
+}

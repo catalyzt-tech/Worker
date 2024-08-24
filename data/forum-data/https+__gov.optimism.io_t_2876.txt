@@ -1,0 +1,30 @@
+{
+  "title": "When will we open up to more delegates?",
+  "content": "Given that we’ve gained significant traction since the airdrop, I expect lots\nmore community members are considering putting themselves forward as a delegate.\nIt would be really helpful to reach an idea about how often this will be, and if\nany limits will be put in place on the number of delegates. This post is to\nprovide a space to discuss adding more delegates. I look forward to reading your\nthoughts.",
+  "views": 1611,
+  "like_count": 10,
+  "word_count": 139,
+  "answer": [
+    {
+      "content": "Seems like ASAP to me! As far as I can tell the current Delegates have quite a\nbit on their plates with all the Proposals and posts they are currently trying\nto review - adding more now - and also clarifying the roles/responsibilities\nwould be a good idea I think for sure.\n\nSeems a good time for this from my POV.",
+      "created_at": "2022-07-04T19:45:57.436Z",
+      "trust_level": 2,
+      "username": "0xWeston",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "Thanks for sharing Weston - glad you agree!",
+      "created_at": "2022-07-04T20:42:17.113Z",
+      "trust_level": 2,
+      "username": "jackgale.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2022-07-04T17:22:46.278Z"
+}

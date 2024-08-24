@@ -1,0 +1,60 @@
+{
+  "title": "Proposal to counter 0xJohn op initial claims",
+  "content": "0xJohn made a proposal here Users who sold the initial OP airdrop should become\nineligible for all future airdrops\n[https://gov.optimism.io/t/users-who-sold-the-initial-op-airdrop-should-become-ineligible-for-all-future-airdrops/2143]\nmaking a proposal that “Users who sold the initial OP airdrop should become\nineligible for all future airdrops”\n\nPlease i would start by saying that the crypto space and i believe Optimism\ncomprises of a Decentralized ecosystem 'What is decentralization?\nIn blockchain, decentralization refers to the transfer of control and\ndecision-making from a centralized entity (individual, organization, or group\nthereof) to a distributed network\"\n\nI would like to counter the 0xJohn claims due to the following reasons.\n\n° We really cant test the strength of $OP tokens if they all sit in the wallet\nwithout interractions with other dex and cex.\n\n° $OP token needs a heavy marketcap that way it attracts investors and the\nattraction we actually need it to gain. This attraction helps to not only grow\nthe $OP tokens but also creates awarenesses of the projects built within yhe\noptimism ecosystem\n\n° Advanced interractions:\nMost users (from research so far) would probably have less funds to interract\nwith other dexes within the optimisim ecosystem, and might deem it fit to also\nswap so that they get aquinted with other unused(uninterracted) projects living\nin the optimism ecosystem.\n\n° In summary as a crypto evangelist I swore to help build and promote justice\nwherever the need be and by doing so I believe 0xJohn claims should be counted\nvoid since it would counter the decentralization which Optimism as a community\ntends to promote.",
+  "views": 4723,
+  "like_count": 93,
+  "word_count": 2485,
+  "answer": [
+    {
+      "content": "I agree with you. It their token and they can do what ever they want, I read\nsomewhere someone saying, imagine punishing Bitcoin seller who sold at sub $1,\nprice appreciation is best lesson for them.\n\nThat being said, I do want to see some action to those address that claimed the\ntoken before the official announcement. I am not sure If OP Team can do anything\nto the CEX allowing the users to trade breaking their agreement but they can and\nshould do something about those address.",
+      "created_at": "2022-06-01T09:07:05.475Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 9
+    },
+    {
+      "content": "I took my airdrop and provided liquidity on Uniswap.\n\nthere are many ways to participate and explore. I get that people that needed\nthe cash are what we in the space call “hungry” and the whales that don’t care\nabout the airdrop are less likely to participate in anything other than\nproviding liquidity.\n\nhowever, there are also the airdrop hunters that will do nothing but collect,\nsell, and move on.\n\nthis is a good debate actually.",
+      "created_at": "2022-06-01T09:41:52.801Z",
+      "trust_level": 1,
+      "username": "Ceazor",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "I support @Khrispyshots [/u/khrispyshots] statement\nMost users which are low on funds will definitely want to participate and\ninteract with other dexes in the Optimistism Body.\n\nFunds will be need to do so",
+      "created_at": "2022-06-01T08:03:45.856Z",
+      "trust_level": 0,
+      "username": "Mavian",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "i sold half for eth and i put everything to lp. What abouy people like me?",
+      "created_at": "2022-06-01T10:43:41.178Z",
+      "trust_level": 0,
+      "username": "Andre",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "crypto policing has never been good , a strong project will always have users\nand attract other users. paraswap did the policing now look at the price and\nnumber of users which has dwindled. how many people lost fortunes through luna .\nits nice to let people be.",
+      "created_at": "2022-06-01T09:54:27.716Z",
+      "trust_level": 1,
+      "username": "oxelal",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    }
+  ],
+  "created_at": "2022-06-01T06:42:52.813Z"
+}

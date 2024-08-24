@@ -1,0 +1,60 @@
+{
+  "title": "Working Constitution of the Optimism Collective",
+  "content": "The Optimism Collective is a large-scale experiment in decentralized governance.\nOur Vision [https://www.optimism.io/vision] is to sustainably fund those public\ngoods that improve upon the well-being of the Collective and beyond. This\nWorking Constitution enshrines governing provisions and principles that, we\nhope, are calibrated to the ambition of this Vision. It lays the foundation for\na fair, democratic model of decentralized governance that’s built to last.\n\n_____________\n\n1. This is a “Working” Constitution. It is exceedingly unlikely that a fixed\nmodel of governing the Optimism Collective, defined at the outset of this\nexperiment, can appropriately navigate the Collective’s future challenges. The\nproblem space is too large. So we start from humility, beginning with a Working\nConstitution that is:\n\n * A commitment to experimentation. In its lifetime, the Collective will\n   undertake a series of governance experiments. These experiments should help\n   the Collective understand the balance and power dynamics within its\n   ecosystem, and allow the Collective to define itself, evolve, and grow\n   iteratively over time.\n * A transitory document. The Working Constitution will remain in effect no more\n   than four years from the date of its adoption. After that, authority over\n   governance will be ceded to a permanent Bedrock Constitution (that\n   incorporates the lessons of the Collective’s prior governance experiments).\n\n2. OP Citizens and OP Holders will equally coexist within the Collective. The\ngoverning structure of the Collective must balance short-term incentives with\nits long-term Vision. Too often today, simple token-based governance systems\ndeteriorate due to misaligned incentives or excessive consolidation of power.\nThe Optimism Collective will implement structural mechanisms to counteract those\nshortcomings, beginning with a bicameral governance system\n[https://community.optimism.io/docs/governance] that checks and balances the\npower of OP Holders and OP Citizens.\n\n3. The Optimism Foundation will be a steward of the Optimism Collective and its\nearly governance model. The Optimism Foundation is a Cayman Islands organization\nresponsible for guiding the growth and development of the Optimism Collective.\nActing through its Board of Directors, the Foundation may:\n\n * Facilitate the administration of Collective governance;\n * Allocate treasury assets to fund public goods, incentivize participants in\n   the Optimism ecosystem, or otherwise further its (and the Collective’s)\n   purpose;\n * Amend this Working Constitution; and\n * Take other actions that are conducive to its stewardship role.\n\nThe Foundation will undertake all these responsibilities in a manner that is\nconsistent with the mission of the Collective, and with a view towards\nincreasingly decentralizing its role over time.\n\n4. Rights of OP Citizens and OP Holders. Subject to the founding legal documents\nof the Optimism Foundation and the procedures outlined in the Collective’s\nOperating Manual:\n\n * Future OP Citizens may:\n   * Allocate Retroactive Public Goods Funding; and\n   * Exercise such additional rights as are provided to OP Citizens over time.\n * OP Holders may:\n   * Remove a director of the Optimism Foundation; and\n   * Veto changes to the founding documents of the Optimism Foundation, if those\n     changes would reduce the rights of OP Holders in a material way.\n\n5. Interpretation. In interpreting the scope, authority, and meaning of the\nprovisions of this Working Constitution, the following guiding principles apply:\n\n * Governance minimization. Minimal governance is at the heart of the Optimism\n   Collective. When multiple proposals achieve a similar outcome, the Collective\n   should prefer the proposal with the least overhead. We strive to boil down\n   governance to its essence and to avoid introducing regulation where freedom\n   can achieve the same result. We believe this is key to creating the fertile\n   soil for permissionless innovation.\n * Forking. The right to fork and the right to exit are critical to protect\n   individual freedoms. It’s expected and encouraged that if the governance of\n   the Optimism Collective is captured, members of the Collective fork the\n   system and reinstate a new Collective which better serves the people. All of\n   the core software and tooling required to run the Optimism network should be\n   made open source, freely available, and easy to use such that a fork is\n   always a viable alternative.\n * Anti-plutocracy. Influence in governance must extend beyond financial stake\n   to value humanhood and intelligent life. The centralizing force of\n   plutocratic token governance is a risk to the health and effectiveness of the\n   Collective, and must be balanced with Citizenship.\n * impact=profit. The primary function of the Collective is to minimize the\n   discrepancy between collective impact and individual profit. We believe this\n   to be the most important target in the pursuit of solving global coordination\n   problems and creating a better future. Our economy is an expression of our\n   collective needs, wants, and ethics. We harm ourselves when we do not\n   adequately, fairly, and consistently reward positive impact.\n\n6. Always. Stay Optimistic :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]:sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]",
+  "views": 51816,
+  "like_count": 3231,
+  "word_count": 16823,
+  "answer": [
+    {
+      "content": "Proud to be part of the Optimism Collective! Stay Optimistic, WAGMI!",
+      "created_at": "2022-04-26T17:36:03.391Z",
+      "trust_level": 1,
+      "username": "BigPPDAO",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 203
+    },
+    {
+      "content": "excited to see how it will work in practice!",
+      "created_at": "2022-04-27T06:20:54.348Z",
+      "trust_level": 1,
+      "username": "cp287",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 102
+    },
+    {
+      "content": "gm!\n\n> can someone explain to me how I can participate in Optimism governance\n> activities?\n\nBefore Airdrop #1 we’ll post a Discourse thread & docs which describes: how to\nmake proposals, vote on proposals, and commit to being a delegate. Before then\nthe best way to participate is to read the Discourse :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]\n\nDetails on the proposals – We’ll be rolling out proposal types slowly over time.\nAfter airdrop #1 is released, we will start voting on project incentives and\nthat will be a majority of the governance at first. The OP which is allocated in\nthis way is known as the “Governance Fund”. We’ll release a bunch of details\nabout the Governance Fund shortly!\n\nLater on we’ll start seeing new proposals roll out which include protocol\nupgrades and retroPGF. It’s important that we roll out new proposal types slowly\nover time so that everything we do end up governing is done so in a thoughtful\nand effective manor.\n\n> ps: the democratic model that has been devised is really original, cool!\n\nYay!!! Really glad you like it!",
+      "created_at": "2022-04-27T18:47:13.109Z",
+      "trust_level": 4,
+      "username": "karl",
+      "admin": true,
+      "moderator": false,
+      "staff": true,
+      "like_count": 84
+    },
+    {
+      "content": "gm OP friends! can someone explain to me how I can participate in Optimism\ngovernance activities? Where is it possible to vote on proposals? ps: the\ndemocratic model that has been devised is really original, cool! is very similar\nto the governance system of cooperatives",
+      "created_at": "2022-04-27T07:32:29.153Z",
+      "trust_level": 2,
+      "username": "Firstminister.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 77
+    },
+    {
+      "content": "This will be the beginning of a new season for Ethereum.\nI’m glad to be here today",
+      "created_at": "2022-04-27T18:26:29.417Z",
+      "trust_level": 1,
+      "username": "Masoud_msd",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 75
+    }
+  ],
+  "created_at": "2022-04-26T01:10:04.887Z"
+}

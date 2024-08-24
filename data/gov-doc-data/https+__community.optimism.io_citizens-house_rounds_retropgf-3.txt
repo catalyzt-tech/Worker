@@ -1,0 +1,52 @@
+title: RetroPGF Round 3
+lang: en-US
+description: RetroPGF 3 allocated 30m OP tokens to reward contributions that have supported the development and adoption of Optimism.
+
+Retro Funding Round 3
+
+The Optimism Collective’s third round of Retroactive Public Goods Funding (Retro Funding) took place in the fall of 2023. RetroPGF 3 allocated 30m OP tokens to reward contributions that have supported the development and adoption of Optimism.
+
+Process Overview
+
+Project Applications: September 19th - October 23rd
+Voting: November 6th - December 7th
+Results & Token Disbursement: January, 2024
+
+Results
+
+👉 You can view the Mirror post announcing the RetroPGF Round 3 recipients here and the official results on Agora.
+
+Retro Funding recipients must complete a KYC process with the Optimism Foundation. If you're a recipient, please direct questions or problems with the KYC & grant delivery process to &#99;&#111;&#109;&#112;&#108;&#105;&#x61;&#110;&#99;&#x65;&#64;&#x6f;&#112;&#x74;&#x69;&#109;&#105;&#x73;&#109;&#x2e;&#x69;&#x6f;.
+
+You can view the written retrospective with the learnings & reflections on RetroPGF 3 here.
+
+Voting
+
+👉 Voting was live from November 6th - December 7th. There were two applications badgeholders could use to vote in RetroPGF 3:
+
+West - https://round3.optimism.io/
+Agora - https://vote.optimism.io/
+
+In addition, there's useful tooling that has been built to support badgeholders:
+
+Pairwise - Gamifying list creation by categorizing applicants into small groups for experts' pairwise comparison.
+OpenSource Observer - An Analytics platform for impact metrics on Retro Funding applications
+
+Badgeholders can find all the information relevant for voting in the Badgeholder Manual 
+
+Project Applications
+
+👉 You can see applications on the voting applications from Agora and West
+
+Every type of contribution to the Optimism ecosystem is eligible for Retro Funding. Whether you’re a developer working on an Ethereum execution client or an educator creating Optimism-inspired video content, if you’re providing impact, you’re eligible!
+
+Retro Funding is open to all Optimism artists, creators, writers, builders, and evangelists.
+If you're looking for inspiration on what you could contribute to the Optimism Collective, check out the Ecosystem Contributions Board
+
+Badgeholders
+
+In RetroPGF 3, there were 146 badgeholders who were selected via a multitude of methods. Find out more details about this process here
+If you're a badgeholder, you can go to the badgeholder hub to find relevant resources and stay up to date.
+If you want to find out more about how voting in RetroPGF 3 works, check out the Round Design documentation
+
+FAQ

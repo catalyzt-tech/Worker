@@ -1,0 +1,60 @@
+{
+  "title": "[Mission Request] Marquee governance hackathon",
+  "content": "Delegate Mission Request Summary\n\nThis mission is designed to attract developers at a key juncture in their path\nas builders—the idea stage—by bringing on a trusted partner to host a hackathon.\nThis event would be a marquee recruitment event for new projects and emerging\ndevelopers, acting as a major marketplace for ideas and talent across the\nSuperchain.\n\nS6 Intent\n\nIntent 3: Grow application devs on the Superchain\n[https://gov.optimism.io/t/season-6-intents-ratification/8104]\n\nProposing Delegate\n\njackanorak\n\nGrant Amount\n\n50k OP total is requested for this program, which will be filled by one\napplicant\n\nShould this Mission be fulfilled by one or multiple applicants: Select from:\n“One,” “Up to X” or “Multiple”\n\nOne\n\nHow will this Mission Request help accomplish the above Intent?\n\nThe thesis here is that hackathons provide a crucial, fun marketplace to\nshowcase Optimism’s strengths as a network and to attract developers looking for\nideas, teams, or funding. An enduring focal point for developers, projects\nseeking products or talent, and funders could easily provide a currently lacking\nfunnel for grassroots developer interest.\n\nAlthough there have been several hackathons related to Optimism—both sponsored\nand not sponsored—there has as yet not been a major, central hackathon\nexplicitly geared toward the Superchain. There is a forthcoming one in August,\nco-led by EthGlobal, but there are opportunities to have more, co-led by other\nplayers in the space.\n\nBase recently announced a high-profile hackathon spotlighting some impressive\nsponsors, such as Stripe and Shopify\n[https://base.mirror.xyz/iYQH5yxgH976gUmrYfoeyVpe5SJtiR8r2t10Psr1_-U], which has\nattracted considerable support from builders\n[https://x.com/ljxie/status/1807803996201230604]. We can do the same.\n\nWhat is required to execute this Mission Request?\n\nAll of the following:\n\n * An applicant that is highly reputable and that has prior experience with\n   hackathons\n * This hackathon may be in-person or virtual; however, priority is given to\n   in-person programs, especially those that offer some means of administering\n   in-person or travel arrangements.\n * A credible commitment to growing maximum awareness of the hackathon\n * Openness to all participating superchains\n\nProposals should outline the basic logistics of this hackathon: how developers\nare selected, roughly how long the hackathon will take, judging structure, how\nsponsorships are handled, etc. Proposers with previous experience with\nhackathons should share details on their experience and results.\n\nHow should governance participants measure impact upon completion of this\nMission?\n\nMilestones\n\n * Development of more detailed logistics plan\n * Communication of announcement and updates on pending hackathon\n * Signed up applicants\n * Signed up sponsors\n\nMetrics:\n\n * Number of applicants\n\n * Number of participating projects\n\n * Amount of prize funds raised\n\n * Number of sponsors\n\n * Committed funding and funders\n\nImpact\n\n * Number of projects live six months from hackathon\n * Number of active developers new to Superchain\n * Open-source tooling resulting from hackathon\n\n:\n\nHas anyone other than the proposer contributed to this Mission Request?\n\nNo\n\n\nWHICH METRIC WILL THE SUCCESS OF THIS MISSION REQUEST BE EVALUATED AGAINST?\n\nThe North star metric against which this Mission Request should be evaluated is\nthe total amount of gas fees generated from the grantee’s contracts, because\nthis Mission Request sets out to increase the aggregate demand for blockspace on\nthe Superchain through a larger program. The total gas fees generated from this\nprogram act as a healthy indicator of its combined downstream performance. This\nmetric was suggested by the Foundation and approved by the Grants Council.",
+  "views": 279,
+  "like_count": 15,
+  "word_count": 953,
+  "answer": [
+    {
+      "content": "Hey @jackanorak [/u/jackanorak]\nI think this is a great proposal and I would love to see the Superchain gain\nmore mindshare among early-stage builders :clap:\n[https://emoji.discourse-cdn.com/twitter/clap.png?v=12]\n\nI would recommend that we make it a requirement that the hackathon asks\nparticipants to create a project at retrofunding.optimism.io\n[http://retrofunding.optimism.io] as part of their participation - this will\nenable us to track the success of the projects that participated after the end\nof the hackathon, and will allow them to later apply for Retro Funding rewards.\n\nCreating a project at retrofunding.optimism.io [http://retrofunding.optimism.io]\nallows teams to link verified contract addresses, GitHub repos and other\ncontributors. This can be used both to reward their impact in Retro Funding\nrounds with very little additional work from their side, but it can also enable\nus to measure the success/impact of this Mission Request. If the hackathon leads\nto the creation of many impactful projects, the Collective may choose to create\nsimilar Mission Requests in later seasons.\n\nYou can read more about the design of the project entity in the gov docs\n[https://community.optimism.io/docs/identity/project-and-individual-identity-in-the-collective/#projects].\n\nDisclaimer: I work for the Optimism Foundation but comments and views are my\nown.",
+      "created_at": "2024-07-10T12:09:42.366Z",
+      "trust_level": 4,
+      "username": "optimistic_emily",
+      "admin": true,
+      "moderator": false,
+      "staff": true,
+      "like_count": 6
+    },
+    {
+      "content": "Big fan of this mission request! We’ve studied how Arbitrum has hosted their\nGovHacks and see a lot of value in such Hackathons to attract talent, improve\ngovernance, and create a shared culture.\n\nAfter a successful Superchain Space\n[https://x.com/SuperchainSpace/status/1810945304004334043] - we’re eager to host\nmore conference and hackathons for the Superchain. We’re already cooking\nsomething up for Bangkok and could imagine adding a Governance Hackathon into\nthe program!",
+      "created_at": "2024-07-15T16:51:40.289Z",
+      "trust_level": 2,
+      "username": "SuperchainEco",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Hi @jackanorak [/u/jackanorak] ! I love this proposal; however, I think you’re\nusing the template from last season. You can find the new template for Season 6\nhere: Season 6: Mission Request Creation Guide\n[https://gov.optimism.io/t/season-6-mission-request-creation-guide/8123]",
+      "created_at": "2024-07-08T16:33:00.951Z",
+      "trust_level": 4,
+      "username": "brichis",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "A North Star Metric has been added at the bottom of this Mission Request in an\neffort to enable the Collective to make data-driven decisions. By using a single\nmetric for each Mission Request, the Collective is better able to evaluate the\nperformance of all the Season 6 missions in a standardized manner, which will be\ncritical when the Collective makes decisions about Intents, budgets, or other\ncritical components of governance.",
+      "created_at": "2024-07-19T20:02:17.995Z",
+      "trust_level": 4,
+      "username": "system",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "Thanks for this - changed",
+      "created_at": "2024-07-08T16:43:54.464Z",
+      "trust_level": 2,
+      "username": "jackanorak",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2024-07-08T16:17:23.931Z"
+}

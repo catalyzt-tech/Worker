@@ -1,0 +1,60 @@
+{
+  "title": "Voting Cycle #8: Roundup",
+  "content": "Voting Cycle 8 began on Thursday (October 20th) at 12pm PST / 7pm GMT and runs\nuntil Wednesday (November 9th) at 12pm PST / 7pm GMT.\n\nA snapshot of delegate voting weights was taken at the start of the Voting\nCycle. Voting will take place via Snapshot during Week 3 of the Voting Cycle.\nThe OP Votable Supply on the first day of this cycle was 24,736,433.\n\nFor a detailed breakdown of the governance and voting process, please see the\nOperating Manual\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md].\nProposals that are not included in this thread by the end of Week 1 will not be\nreviewed by Committees.\n\n\nCONTEXT\n\nVoting Cycle #8 is officially underway! This is the last Voting Cycle of Season\n2. Provided your proposal has received explicit approval comments from two\ndelegates with >0.5% voting power, as outlined in the Operating Manual\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md],\nplease use the below format to list your proposal in a reply to this post.\n\n * Proposal: [NAME]\n   * Proposal: [LINK]\n   * Committee to Review: (DeFi, NFT & Gaming, or Tooling)\n   * Delegate Approval 1: [LINK]\n   * Delegate Approval 2: [LINK]\n\nProposals will be reviewed by committees only if they (a) have two explicit\ndelegate approvals and (b) are added to this Voting Cycle Roundup thread by the\nend of Week 1 (October 26th at 7pm GMT/12pm PST.)\n\nPlease remember that all grant recipients will need to provide KYC information\nto the Optimism Foundation to receive this grant. Proposals that have not agreed\nto this by checking “Yes” to the related field in the grant proposal template\n[https://gov.optimism.io/t/grant-proposal-template/3233], will not be included.",
+  "views": 4455,
+  "like_count": 19,
+  "word_count": 1147,
+  "answer": [
+    {
+      "content": " * Proposal: Velodrome Finance\n   * Proposal:\n     https://gov.optimism.io/t/draft-gf-phase-1-proposal-velodrome-finance/3736\n     [https://gov.optimism.io/t/draft-gf-phase-1-proposal-velodrome-finance/3736]\n   * Committee to Review: DeFi\n   * Delegate Approval 1: [DRAFT][GF: Phase 1 Proposal] Velodrome Finance - #63\n     by mastermojo\n     [https://gov.optimism.io/t/draft-gf-phase-1-proposal-velodrome-finance/3736/63]\n   * Delegate Approval 2: [DRAFT][GF: Phase 1 Proposal] Velodrome Finance - #62\n     by katie\n     [https://gov.optimism.io/t/draft-gf-phase-1-proposal-velodrome-finance/3736/62]",
+      "created_at": "2022-10-25T18:16:48.757Z",
+      "trust_level": 2,
+      "username": "jackanorak",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Proposal: Optimism :handshake:\n[https://emoji.discourse-cdn.com/twitter/handshake.png?v=12] Tally Ho\n\n * Proposal: [REVIEW][GF Phase 1 Proposal] Optimism 🤝 Tally Ho\n   [https://gov.optimism.io/t/review-gf-phase-1-proposal-optimism-tally-ho/3517/1]\n * Committee to Review: Tooling\n * Delegate Approval 1: [REVIEW][GF Phase 1 Proposal] Optimism 🤝 Tally Ho - #3\n   by linda\n   [https://gov.optimism.io/t/review-gf-phase-1-proposal-optimism-tally-ho/3517/3]\n * Delegate Approval 2: [REVIEW][GF Phase 1 Proposal] Optimism 🤝 Tally Ho - #11\n   by mastermojo\n   [https://gov.optimism.io/t/review-gf-phase-1-proposal-optimism-tally-ho/3517/11]\n * Delegate Approval 3: [REVIEW][GF Phase 1 Proposal] Optimism 🤝 Tally Ho - #20\n   by quix\n   [https://gov.optimism.io/t/review-gf-phase-1-proposal-optimism-tally-ho/3517/20]",
+      "created_at": "2022-10-21T17:44:09.389Z",
+      "trust_level": 1,
+      "username": "mhluongo",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": " * Proposal: EthernautDAO\n   * Proposal: [Review] [GF: Phase 1 Proposal Cycle 8] EthernautDAO\n     [https://gov.optimism.io/t/review-gf-phase-1-proposal-cycle-8-ethernautdao/3800]\n   * Committee to Review: Tooling\n   * Delegate Approval 1: [Review] [GF: Phase 1 Proposal Cycle 8] EthernautDAO -\n     #7 by jackanorak\n     [https://gov.optimism.io/t/review-gf-phase-1-proposal-cycle-8-ethernautdao/3800/7]\n   * Delegate Approval 2: [Review] [GF: Phase 1 Proposal Cycle 8] EthernautDAO -\n     #8 by MattL\n     [https://gov.optimism.io/t/review-gf-phase-1-proposal-cycle-8-ethernautdao/3800/8]",
+      "created_at": "2022-10-25T18:12:52.643Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 2
+    },
+    {
+      "content": "Proposal: Socket\n\n * Proposal: [REVIEW] [GF: Phase 1 Proposal] Socket\n   [https://gov.optimism.io/t/review-gf-phase-1-proposal-socket/3647]\n * Committee to Review: Tooling\n * Delegate Approval 1: [REVIEW] [GF: Phase 1 Proposal] Socket - #3 by krzkaczor\n   [https://gov.optimism.io/t/review-gf-phase-1-proposal-socket/3647/3]\n * Delegate Approval 2: [REVIEW] [GF: Phase 1 Proposal] Socket - #4 by Exosphere\n   [https://gov.optimism.io/t/review-gf-phase-1-proposal-socket/3647/4]",
+      "created_at": "2022-10-22T13:29:02.202Z",
+      "trust_level": 2,
+      "username": "sraim",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": " * Proposal: Alchemix\n   * Proposal: LINK\n     [https://gov.optimism.io/t/ready-gf-phase-1-cycle-8-proposal-alchemix/3764]\n   * Committee to Review: DeFi\n   * Delegate Approval 1: LINK\n     [https://gov.optimism.io/t/ready-gf-phase-1-cycle-8-proposal-alchemix/3764/2]\n   * Delegate Approval 2: LINK\n     [https://gov.optimism.io/t/ready-gf-phase-1-cycle-8-proposal-alchemix/3764/3]",
+      "created_at": "2022-10-24T02:54:13.705Z",
+      "trust_level": 2,
+      "username": "Ov3rkoalafied",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2022-10-21T12:57:59.507Z"
+}

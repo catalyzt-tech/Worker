@@ -1,0 +1,9 @@
+{
+  "title": "Request for feedback: Grants Pathfinder, a guide to web3 grants",
+  "content": "We’re happy to share our latest guide: Grants Pathfinder\n\nThe Grants Pathfinder provides detailed information on grants available within\nEthereum’s ecosystem.\n\nAs of right now it includes multiple grants from 9 different protocols -\nOptimism Grants among them!\n\nOptimism Mission Requests\n[https://web3citizen.xyz/grants-guide/optimism-mission-requests]Optimism Partner\nFund\nOptimism RFP\n\n\nWHY?\n\nWe created the grants as a way to address the information accessibility on the\ntopic of grants. Our aim is to streamline the grant process, so projects can\nlearn how to get the funding they need to build and contribute.\n\nSo we gathered available information and resources on\n\n * current and upcoming grants and their scope,\n * application and review processes,\n * resources to check out before applying.\n\n\nYOUR FEEDBACK\n\nGrants Pathfinder is just starting. As part of our commitment to gather feedback\nand continuous improvement, we would love to hear your thoughts and comments on\nthe guide. Is any information missing regarding Optimism Grants in our guide?\n\nAre we missing any useful resources from Optimism Grants?\n\n\nWHAT IS WEB3 CITIZEN?\n\nWeb3 Citizen Guide is an open-source project that aims to serve as a public good\nby helping Web3 enthusiasts become well-versed in current topics in the Web3\necosystem.\n\nPlease feel free to share any suggestions on improving the guide.\n\nCheck the Web3 Citizen Pathfinder here [https://web3citizen.xyz/grants-guide]\n\nThank you!\n\nThe Web3 Citizen Team",
+  "views": 347,
+  "like_count": 3,
+  "word_count": 232,
+  "answer": [],
+  "created_at": "2024-02-15T20:28:18.547Z"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "[Mission Request] Grants Claiming Tool",
+  "content": "Delegate Mission Request Summary\n\nDevelop a tool for claiming grants in a way that drives delegation and supports\nthe governance process, enhancing the decentralization of the Collective. The\nsystem has to consider approvals from The Grants Council and The foundation and\nhave a clawback option.\n\nS6 Intent\n\n1: Progress Towards Decentralization\n\nProposing Delegate/Citizen\n\nGonna.eth\n\nTotal grant amount\n\n100.000 OP\n\nShould this Mission be fulfilled by one or multiple applicants\n\nUp to 2\n\nHow will this Mission Request help accomplish the above Intent?\n\nThis mission request will help accomplish the Progress Towards Decentralization\nintent by creating a tool for claiming grants that drives delegation and\nsupports the governance process. This tool will incentivize delegates to\nactively participate in the governance process and drive the delegation of\nvotable supply to a broad range of stakeholders, leading to greater\ndecentralization and transparency in the Collective.\n\nWhat is required to execute this Mission Request?\n\n 1. Define the requirements for the grants claiming tool, including user\n    interface, data storage, and data retrieval mechanisms.\n 2. Design and develop the tool architecture, including integration with\n    existing Collective infrastructure.\n 3. Implement the tool, including testing and quality assurance.\n 4. Deploy the tool and provide documentation and training/tutorials for users.\n 5. Monitor and evaluate the effectiveness of the tool in driving delegation and\n    supporting the governance process.\n\nHow should governance participants measure impact upon completion of this\nMission Request?\n\nGovernance participants can measure the impact of this mission request by\ntracking the following metrics:\n\n 1. Number of grants claimed using the new tool.\n 2. Increase in delegation driven by the tool.\n 3. Improved participation and engagement in the governance process.\n 4. Increase the number of unique delegators using the tool.\n\nMilestones\n\n 1. Requirements definition completed\n 2. Tool design and architecture completed\n 3. Tool implementation and testing completed\n 4. Tool deployed and integrated with Collective infrastructure\n 5. Evaluation and monitoring of the tool’s effectiveness completed\n\nImpact and Metrics\n\n 1. Number of grants claimed using the new tool.\n 2. Increase in delegation driven by the tool.\n 3. Improved participation and engagement in the governance process.\n 4. Increase in the number of unique delegators.\n 5. Number of clawbacks executed using the new tool.\n\nHas anyone other than the proposer contributed to this Mission Request?\n\n\nWHICH METRIC WILL THE SUCCESS OF THIS MISSION REQUEST BE EVALUATED AGAINST?\n\nThe North star metric against which this Mission Request should be evaluated is\ntotal amount of OP delegated from new addresses using the grantee’s protocol, as\nit helps assess the aggregated effect that this initiative has on the total\nvotable supply. This metric was suggested by the Foundation and approved by the\nGrants Council.",
+  "views": 654,
+  "like_count": 21,
+  "word_count": 1674,
+  "answer": [
+    {
+      "content": "Really like this initiative @Gonna.eth [/u/gonna.eth]. The increase in\ndelegation by grant recipients is something i’ve been hearing more requests for.\nFor background, I’m at Hedgey. We’ve managed grant distributions for Arbitrums\nSTIP/LTIPP using vesting grant distributions and created our own grants for\nprojects building on Optimism using the 50k OP we received from RPGF3.\n\nWe recently deployed a new delegated claims contract focused specifically on\nrecipients having to delegate as a prequisite to claiming their grant. It can be\nused for unlocked grant claims or vesting grant distributions (allowing the\nrecipient of a locked grant to delegate governance even on unvested tokens).\n\nThe solution would use a Merkle tree claim approach and require grant recipients\nto delegate as a part of the claim process. We already have grants UIs for\ncreating and claiming on our V1 product, but could easily spin up public\ndashboards and integrate the claim experience into existing Optimism solutions\nor make new ones with what we already have. The contracts are audited by\nConsensys Diligence, Audit One, and Resonance, w/ fuzzing by Consensys\nDiligence.\n\nWould love to dive in on this. What’s the best way to get started?\n\nSharing a link to the Github and audits: GitHub -\nhedgey-finance/DelegatedTokenClaims\n[https://github.com/hedgey-finance/DelegatedTokenClaims]",
+      "created_at": "2024-07-09T20:48:08.544Z",
+      "trust_level": 1,
+      "username": "Lindsey",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Hey Margaret!\n\n 1. Ideally but not mandatory\n 2. As long as it can be marked as complete we don’t need more tracking than\n    that\n 3. On go at the end\n 4. I have no idea",
+      "created_at": "2024-08-12T16:00:21.675Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 3
+    },
+    {
+      "content": "Hey, we’re a new team called FaceDancer [https://facedancer.xyz/]. Maybe I\nshouldn’t have said we are a new team… We started working together at POKT\nNetwork where we ran an optimism style Retro PGF (hi @LauNaMu [/u/launamu]\n:wave: [https://emoji.discourse-cdn.com/twitter/wave.png?v=12]) but the team\nhave also built DAO tooling at Aragon and run the ecosystem grants program at\nPolygon.\n\nFaceDancer is creating a set of composable “smart” experiences around grants and\ngovernance. We want to complete this mission and plan to propose the following\napproach:\n\n * User sign-in to FaceDancer which unlocks smart user flows based on wallet ID\n   and reputation\n * Smart Grant application within FaceDancer (smart because you don’t need to\n   complete the same application details across future OP grants or from other\n   programs like Gitcoin grants)\n * Approval flow through Grants Council and Foundation within FaceDancer from\n   whitelisted council/foundation wallets\n * Integration of KYC flow\n * Use of Smartinvoice.xyz [https://smartinvoice.xyz/] to fund the grant (this\n   means no clawback is required as the invoice is escrowed and release of funds\n   can go to arbitration if you’re not happy)\n * Funds could then be released into Hedgey for delegated claims as per @Lindsey\n   [/u/lindsey] message above (we have worked with Hedgey before and could\n   collab to build this flow)\n\n@goanna.eth can you share any thoughts or concerns on this approach? We spent a\nbit of time aligning around this already but the brief of work and the proposal\nprocess itself have been a bit confusing… we went through the whole github and\ncompleted our proposal before even seeing this thread! :weary:\n[https://emoji.discourse-cdn.com/twitter/weary.png?v=12]",
+      "created_at": "2024-08-09T08:43:32.578Z",
+      "trust_level": 1,
+      "username": "b3n",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Hmm never considered airdrops on this tool. The last airdrop OP did was pushed\nstraight into user’s addresses to avoid any scams.\n\nThis was more for the last step of the Grants Council process when all the\nmilestones were approved and ready to go. A claiming tool such as superfluid\nintegrated with a milestone tracking system that makes it mandatory to delegate\nduring the claiming process could be the target here.\n\nHappy to add anything you have in mind.",
+      "created_at": "2024-07-06T13:04:26.827Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 2
+    },
+    {
+      "content": "I don’t really see the reason to spend 100k here.\n\nGrants are by their nature payment for something and people would just sell\nimmediately or they would incur tax liabilities.\n\nThe only thing to change here would probably be a mechanism to make it so that\nvesting tokens can be used for voting.\n\nUnless I misunderstand what you are talking about.",
+      "created_at": "2024-07-18T10:58:53.519Z",
+      "trust_level": 2,
+      "username": "lefterisjp",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2024-07-05T15:19:16.992Z"
+}

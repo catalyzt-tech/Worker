@@ -1,0 +1,60 @@
+{
+  "title": "Security Council Nomination: Andrey Petrov",
+  "content": "Please indicate if you are running to be the Council Lead or a Council Member:\nCouncil Member\n\nDoes this nomination represent an individual or organization:\nIndividual\n\nCandidate country of residence (or, if an entity, incorporation and principle\nplace of business):\nCanada\n\nHave you previously served on Optimism’s Security Council:\nNo\n\nHave you previously served on any other Council or Board in the Collective:\nNo\n\nAre you a representative of OP Labs:\nNo\n\nAre you a representative of another OP Chain:\nNo\n\nIf you are a delegate, please provide the link to your delegate profile:\nN/A\n\nIf you are a member of the Citizens’ House, please link to your most recent\nattestation here:\nN/A\n\nPlease outline your contributions, and their impact, to the Optimism ecosystem\nto date:\n\n 1. Co-submitter of a $50,000 Optimism-Cannon bug bounty\n    [https://x.com/Optimism/status/1511795884291510272] in 2022\n 2. Recipient of RetroPGF Round 3 grant for WhatsABI\n    [https://round3.optimism.io/projects/0x0056608c46c8d39fe0433671112d2b657578f801379b16e62f2e910f72406745]\n    (An EVM static analysis tools that extracts the ABI and resolve proxies for\n    any contract, even if it’s not verified – used by Otterscan, Rivet,\n    monobase, and many others)\n\nWhile these achievements were impactful on the Optimism ecosystem, they also\ndemonstrate relevant expertise: Technical understanding of Ethereum in general\nand also Optimism’s rollup technology specifically.\n\nPlease demonstrate any non-Optimism experience you believe is relevant to this\nrole:\nI am an independent open source developer responsible for creating a variety of\npopular projects, like urllib3 [https://github.com/urllib3/urllib3] (most used\nthird-party package in Python), ssh-chat [https://github.com/shazow/ssh-chat],\nwhatsabi [https://github.com/shazow/whatsabi], and others.\n\nCollectively, code I’ve written and repositories I have write access to are\nrelied upon by millions of people. I am sensitive to this responsibility and\ntake security seriously.\n\nI have created, deployed, and migrated a number of high-value on-chain contracts\nwithout incident, such as the ThousandEtherHomepage\n[https://thousandetherhomepage.com/].\n\nI sit on the security committee as an active multisig signer of a private DAO\nwhere we manage six figures of assets across 60 members.\n\nPlease elaborate on your technical background, including your expertise score\n(more info on this shortly):\nI graduated with an Hon. B. Sc. specialist degree in Computer Science: Software\nEngineering from the University of Toronto in 2007.\n\nMy expertise includes a strong theoretical computer science foundation combined\nwith a track record of releasing high quality production code that is used by\nmany projects. My Github [https://github.com/shazow/] contains a variety of\nEthereum-specific projects dating back to 2018, and Bitcoin-related projects\nbefore then. I have also worked at Infura in 2019 on improving their internal\ninfrastructure.\n\nPlease elaborate on your experience with relevant member (or Lead) requirements:\n\nPlease describe your philosophy on what makes a good Security Council member:\nA good Security Council member should have understanding of the technical\ndetails of the security operations while also having practiced experience in\nexercising and auditing them.\n\nIt is important to recognize that it’s hard to translate abstract operational\nunderstanding into a diligent and reliable process without building good habits\nthrough experience.\n\nAdditionally, it helps to have a substantial public track record of serving the\ncommons and being relied upon.\n\nPlease disclose any anticipated conflicts of interest:\nN/A\n\nPlease verify that you understand you may be removed from this role via the\nRepresentative Removal proposal type in the Operating Manual\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md]:\nUnderstood\n\nPlease verify that you understand that election is subject to successful\ncompletion of a Foundation screen which may include KYC/AML, sanctions\nscreening, and a requirement to sign a standard contract: [No/Yes]\nYes\n\nPlease verify that you are able to commit ~5 active hours / month to fulfill the\nMember Responsibilities. Please note that there is an “on-call” aspect to this\nrole that is not fully encompassed in the active hours estimate: [No/Yes]\nYes",
+  "views": 114,
+  "like_count": 3,
+  "word_count": 1059,
+  "answer": [
+    {
+      "content": "I am an Optimism delegate [https://vote.optimism.io/delegates/jrocki.eth] with\nsufficient voting power and I believe this proposal is ready to move to a vote.",
+      "created_at": "2024-08-13T13:58:54.612Z",
+      "trust_level": 2,
+      "username": "Jrocki",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Although I’d like to see a larger record of participation in Optimism discussion\n(your forum history seems pretty bare), I think your credentials are enough to\nat least allow the collective to vote on you.\n\nOn behalf of Blockchain@USC:\nWe are an Optimism delegate\n[https://vote.optimism.io/delegates/0x995013b47ef3a2b07b9e60da6d1fff8fa9c53cf4]\nwith sufficient voting power and we believe this proposal is ready to move to a\nvote.",
+      "created_at": "2024-08-14T22:30:03.953Z",
+      "trust_level": 2,
+      "username": "chaselb",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Yeah. It’s not even necessarily that I think being involved in optimism\ndiscussions gives THAT much relevant experience, but it gives stronger\nassurances about your identity (for all I know you could be a random posing as\nshazow) and your alignment with the Optimism Collective (you probably aren’t\nspending free time arguing in forums unless you care).",
+      "created_at": "2024-08-15T02:25:40.315Z",
+      "trust_level": 2,
+      "username": "chaselb",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "I am an Optimism delegate [https://vote.optimism.io/delegates/anthiaslabs.eth]\nwith sufficient voting power and I believe this proposal is ready to move to a\nvote",
+      "created_at": "2024-08-16T13:09:11.011Z",
+      "trust_level": 2,
+      "username": "AnthiasLabs",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/chaselb/48/3530_2.png]\nchaselb:\n\n> Although I’d like to see a larger record of participation in Optimism\n> discussion (your forum history seems pretty bare), I think your credentials\n> are enough to at least allow the collective to vote on you.\n\nAppreciate the feedback, will keep that in mind for next time!\n\nI’ve been active over the years on other Ethereum-adjacent forums but I haven’t\nparticipated in Optimism governance until now. Someone recommended that I apply\nfor this role, so this is my first time on this forum. :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]",
+      "created_at": "2024-08-15T00:40:02.344Z",
+      "trust_level": 1,
+      "username": "shazow",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-07-31T18:04:58.387Z"
+}

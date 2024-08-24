@@ -1,0 +1,9 @@
+{
+  "title": "Retro Funding 4: Voting Feedback Thread",
+  "content": "A place for badgeholders to share their feedback on voting within Retro Funding\n4.\n\nRelevant resources\n\n * Retro Funding 4: Onchain Builders - round details\n   [https://gov.optimism.io/t/retro-funding-4-onchain-builders-round-details/7988]\n * Retro Funding 4: Badgeholder Manual\n   [https://gov.optimism.io/t/retro-funding-4-badgeholder-manual/8239]",
+  "views": 182,
+  "like_count": 1,
+  "word_count": 40,
+  "answer": [],
+  "created_at": "2024-06-27T14:27:50.455Z"
+}

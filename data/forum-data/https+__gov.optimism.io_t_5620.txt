@@ -1,0 +1,30 @@
+{
+  "title": "Voting Roundup Cycle 11",
+  "content": "FOR NON-GRANT PROPOSALS ONLY. ALL GRANT PROPOSALS WILL BE PROCESSED BY THE\nGRANTS COUNCIL ACCORDING TO THE PROCESS OUTLINED HERE\n[https://gov.optimism.io/t/grants-council-internal-operating-procedures/4832]\n\nCycle 11 began on Thursday (March 2nd) at 19:00 GMT and runs until Wednesday\n(April 5th) at 19:00 GMT.\n\nFor a non-grant proposal to proceed to Week 4, four delegates, each with >0.5%\nof the current votable token supply, must give explicit approval on the\ndiscussion thread. Delegates may not approve their own proposals. After a\nnon-grant proposal has received four delegate approvals, the proposal author\nshould update the proposal title from [Draft] to [Final] and add a link to their\nproposal in the Voting Cycle Roundup thread by the last day of Week 3 at 19:00\nGMT (12:00p PST). Proposals that may only be initiated by the Foundation do not\nrequire delegate approvals and will automatically move to a vote.\n\nA snapshot of delegate voting weights will be taken at the start of the vote\nwindow. Voting will take place via the Optimism Governance Portal during Week 4\nof the Cycle.\n\nFor a detailed breakdown of the governance and voting process, please see the\nupdated Operating Manual\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md]",
+  "views": 4244,
+  "like_count": 7,
+  "word_count": 239,
+  "answer": [
+    {
+      "content": "\n[https://avatars.discourse-cdn.com/v4/letter/b/b5a626/48.png] [FINAL] Upgrade\n#1: Bedrock Protocol Upgrade - v2\n[https://gov.optimism.io/t/draft-upgrade-proposal-bedrock-v2/5548] Protocol\nUpgrade [/c/other-proposals/protocol-upgrade/58]\n\n> Executive Summary In short, what is this upgrade proposal? Impacted\n> stakeholders & expected outcomes Why the Collective should upgrade The\n> Optimism Foundation is proud to propose the first protocol upgrade to the\n> Optimism Collective: Bedrock. The Bedrock release of the OP Stack represents\n> the culmination of years of research and development by the Ethereum scaling\n> community and is a complete rewrite of the core components of the Optimism\n> architecture. This upgrade offers a new level of modu…",
+      "created_at": "2023-03-17T10:39:17.546Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "\n[https://europe1.discourse-cdn.com/bc41dd/original/1X/391d6e71a279a9f881f75bfa7df5cdf3cf905b3f.png]\nDelegate Suspension: Fractal Visions\n[https://gov.optimism.io/t/delegate-suspension-fractal-visions/5710] Technical\nProposals 📃 [/c/technical-proposals/47]\n\n> Proposal Title: Delegate Suspension: Fractal Visions Proposal Type: Delegate\n> Suspension Executive Summary A community member has filed a report,\n> substantiated by documentation, against Fractal Visions Discord name: Fractal\n> Visions#7535 Delegation address: 0xC4FC57Dedd2463314A3fD2DBadB86B4404C257e5\n> Delegate Commitment\n> [https://vote.optimism.io/delegate/0xC4FC57Dedd2463314A3fD2DBadB86B4404C257e5]\n> Reported violation: Intentional doxxing Enforcement type: Suspension As\n> outlined in the delegate code of conduct\n> [https://gov.optimism.io/t/delegate-code-of-conduct/3943], suspensions are\n> appropriate when there has been ”Repeated…",
+      "created_at": "2023-03-21T20:25:51.623Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2023-03-14T18:16:10.735Z"
+}

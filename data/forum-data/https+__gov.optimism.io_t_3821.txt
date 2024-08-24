@@ -1,0 +1,60 @@
+{
+  "title": "Is it necessary to be on discord in order to participate?",
+  "content": "Hi,\nI self delegated my OP tokens so started to look into projects for cycle 8. Am I\nmissing some important feedback or discussion taking place on discord for this\nprojects?\n\nMy plan is to vote on those projects I have a good insight, and those for I lack\nof criteria, I’ll follow the committees or delegates recommendations.\n\nCheers",
+  "views": 1640,
+  "like_count": 4,
+  "word_count": 326,
+  "answer": [
+    {
+      "content": "The issue with Discord is that some discussions, specially back and forth become\neasier. All in all, I would say you are losing some useful information.",
+      "created_at": "2022-10-27T14:15:57.630Z",
+      "trust_level": 2,
+      "username": "Netrim",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Im sure there’s other means of communication one can do in order to obtain that\ninfo of the discussions or even having some spaces for those who aren’t really\ninto discord due to work of other things they might have going on dnt u think? I\nmean we knw conversations in discord can get lost within min if many r sending\nmessages at the same time n all talking bout dif things as well but there’s\nother alternatives to discord dnt u think?",
+      "created_at": "2022-10-30T11:02:24.494Z",
+      "trust_level": 2,
+      "username": "Pelon_ES",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Most of Proposal discussion going on this forum, we do use discord to get quick\nfeedback but you’re not missing anything as anything discussed on the discord\nwill reflect here as well, if it’s important for this governance",
+      "created_at": "2022-10-30T19:50:42.844Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Oh man… I hate social media haha",
+      "created_at": "2022-10-27T20:42:28.643Z",
+      "trust_level": 2,
+      "username": "DrChaos.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "Considering the length and information required, I am not sure how you can\nfunction in the current web3 landscape without discord",
+      "created_at": "2022-10-27T20:47:39.547Z",
+      "trust_level": 2,
+      "username": "Netrim",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-10-27T10:51:11.388Z"
+}

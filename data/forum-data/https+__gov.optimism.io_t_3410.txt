@@ -1,0 +1,40 @@
+{
+  "title": "[REVIEW][GF: Phase 1 Proposal] DOMANI Protocol",
+  "content": "DOMANI PROTOCOL INCENTIVE PROPOSAL\n\nProject Name: DOMANI Protocol\n\nAuthor name and contact info (please provide a reliable point of contact for the\nproject): DOMANIMike (Telegram: @michaelfeld)\n\nNumber of OP tokens requested: 550,000 OP\n\nL2 Recipient Address: 0xE2aB0c3AF51c71dbC5b9eE3b4bF2f6Fe8E86b07B\n\nGrant category: DeFi\n\nRelevant Usage Metrics: TVL - $165k (ATH $20M on Ethereum / 5500 - unique\naddresses).\n\nProject links:\n\n * Website: https://domani.finance/ [https://domani.finance/]\n * Twitter: https://twitter.com/DomaniProtocol\n   [https://twitter.com/DomaniProtocol]\n * Discord: https://discord.gg/B3U2dr5vpQ [https://discord.gg/B3U2dr5vpQ]\n\nAdditional team member info (please link): Team - DOMANI (formerly DEXTF)\nDocumentation [https://docs.domani.finance/other/team]\n\nIs/will this project be open sourced? In Future\n\nOptimism native?: Yes\n\n\nOPTIMISM ALIGNMENT (UP TO 200 WORD EXPLANATION):\n\nDOMANI Protocol is a cross-chain digital asset management infrastructure that\nallows oracle-minimized portfolio tokenization and portfolio management.\n\nThe dApp is deployed today on Ethereum, Avalanche, Algorand testnet, zkSync\ntestnet, and Klaytn testnet.\n\nEach has its distinctive community. We believe that the DeFi fervor in Optimism\njustifies a safe and flexible portfolio management protocol.\n\nDOMANI Protocol was the first project that successfully created and sold\nstructured products in the form of DEXST (Decentralized Structured Tokens).\n\nOptimism has all the suitable characteristics to build on a suite of digital\nasset management tools to accelerate the DeFi users’ safe nesting.\n\nWe are proposing an initial allocation of:\n\n * OP allocation of 550k tokens.\n\nDOMANI Protocol is a project developed by Memento Blockchain Pte Ltd based in\nSingapore. Memento is building proof of concepts under the supervision of the\nMonetary Authority of Singapore.\n\nThe current proof of concept we are working on involves a tier-1 financial\ninstitution. It explores how the platform can achieve interoperability and\nstreamline the fund management process end-to-end.\n\nThe Optimism network was selected to be appropriate from both a scalability and\ncost perspective.\n\nDeploying on Optimism is also part of our broader strategy to become the leading\ncross-chain asset management protocol. Allowing users to tokenize and manage\ntheir digital assets portfolio trustlessly and flexibly onchain. With onchain\nbeing synonymous of internet today.\n\n\nPROPOSAL FOR TOKEN DISTRIBUTION (UNDER 1000 WORDS):\n\nHOW WILL THE OP TOKENS BE DISTRIBUTED? HOW WILL THIS DISTRIBUTION INCENTIVIZE\nUSAGE AND LIQUIDITY ON OPTIMISM?\n\nThe OP tokens will be used to seed the DOMANI DAO (60%), aggregating the value\nof the DOMANI deployments.\n\nThe remaining 40% is split between the development of options and structured\ntokens to enhance the digital asset management tooling on Optimism and liquidity\nprovision for the DOMANI DAO token.\n\nHOW WILL THIS DISTRIBUTION INCENTIVIZE USAGE AND LIQUIDITY ON OPTIMISM?\n\nThe OP incentives will create the first protocol-owned digital asset manager,\nwhere holders of DOMANI DAO are directly exposed to the treasury’s underlying\nassets.\n\nDOMANI DAO holders will also vote on initiatives that foster growth in the DeFi\nportfolio management category by deliberating on grants, legal aid, and\nliquidity provisioning, among other operations.\n\nWHY WILL THE INCENTIVIZED USERS AND LIQUIDITY REMAIN AFTER INCENTIVES DRY UP?\n\nAfter the OP incentives have dried up, the protocol will still own the liquidity\nand the assets it has acquired. The ultimate objective is for it to be able to\ndispense incentives to other fledgling projects focused on augmenting the\ndigital asset management space or projects that are additive to the DOMANI\nProtocol suite of tools for digital asset management.\n\nOVER WHAT PERIOD OF TIME WILL THE TOKENS BE DISTRIBUTED?\n\nThe plan is to run a 12-month incentives program.\n\nHOW MUCH WILL YOUR PROJECT MATCH IN CO-INCENTIVES?\n\nDOMANI Protocol will provide DOMANI DAO token incentives that are locked for 6\nmonths to ensure alignment around the ultimate objective of creating a\nsustainable DAO that can foster and grow the digital asset management space on\nOptimism.",
+  "views": 2008,
+  "like_count": 4,
+  "word_count": 817,
+  "answer": [
+    {
+      "content": "Thanks for the proposal! If you plan to have this reviewed in Voting Cycle 6,\ncan you please specify which committee should review your proposal (NFTs and\nGaming, Tooling, or DeFi) under the grant category field in the updated proposal\ntemplate [https://gov.optimism.io/t/grant-proposal-template/3233/15] for Cycle\n6?",
+      "created_at": "2022-09-12T23:59:20.058Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 2
+    },
+    {
+      "content": "The core Dextf/Domani asset management product is a Set Protocol Fork. Initial\ntraction on Ethereum was not sustained as the core protocol & product was not\nmeaningfully developed since early 2021 while you deployed on Algorand,\nAvalanche for grant funding - yet did not achieve significant traction.\n\nThe amount asked is extremely high for the size of the Domani project. The\ndistribution to your internal development & the DAO for aggregating deployments\nwill likely not help Optimism grow.\n\nSome of the strucutured products are indeed very interesting and we’d welcome\nyour move to Optimism and making this your DeFi innovation hub. We’d like to see\na deployment & first traction on Optimism before requesting Op incentives and\nlook forward to an improved proposal :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]",
+      "created_at": "2022-10-14T11:40:24.750Z",
+      "trust_level": 2,
+      "username": "ScaleWeb3",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "@lavande [/u/lavande] Thanks for taking the time to go through the proposal. We\nhave added “DeFi” under the grant category field as per the updated proposal\ntemplate.",
+      "created_at": "2022-09-13T02:32:29.323Z",
+      "trust_level": 1,
+      "username": "DOMANIMike",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-09-05T12:37:34.376Z"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Optimism Community Governance Call [December 20th at 10am PT / 1pm ET / 7pm CET]",
+  "content": "SEE BELOW LINK FOR GOVERNANCE CALL\n\n\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/michael/48/2489_2.png]\n11th OP Community Governance Call [December 20th at 10am PT / 1pm ET / 7pm CET]\n[https://gov.optimism.io/t/11th-op-community-governance-call-december-20th-at-10am-pt-1pm-et-7pm-cet/4317]\nCommunity Calls [/c/updates-and-announcements/55-category/55]\n\n> Hello Optimists! We will be having a community call this Tuesday, December\n> 20th at 10am PT / 1pm ET / 7pm CET Thank you to @jrocki.bedrock\n> [/u/jrocki.bedrock] for hosting the last one! We will likely be switching off\n> hosting from now on. Zoom meeting link:\n> https://us02web.zoom.us/j/85046899696?pwd=azNrRDRDRmpGZm5TMjIwT3A1R1p3QT09\n> [https://www.google.com/url?q=https://us02web.zoom.us/j/85046899696?pwd%3DazNrRDRDRmpGZm5TMjIwT3A1R1p3QT09&sa=D&source=calendar&usd=2&usg=AOvVaw1G0geFYxymWfWofv0U-5m1]\n> Agenda will be posted here. If you’d like anything added to the agenda, post\n> it in this thread. Looking forward to seeing you all there! Michael red_circle\n> [https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12] sparkles\n> [https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]",
+  "views": 1717,
+  "like_count": 9,
+  "word_count": 32,
+  "answer": [
+    {
+      "content": "OP is the best of L2!",
+      "created_at": "2022-12-16T08:04:21.643Z",
+      "trust_level": 1,
+      "username": "6yeey.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2022-12-12T21:48:50.408Z"
+}

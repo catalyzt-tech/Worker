@@ -1,0 +1,60 @@
+{
+  "title": "[GF: Phase 0 Proposal] Uniswap",
+  "content": "Project Name: Uniswap\n\nAuthor Name: Ken Ng on behalf of the Uniswap Grants Program\n\nDefillama TVL (at snapshot): $45.8M\n\nTransactions/day (at snapshot): 1,886\n\nTier : 2\n\nOptimism native: No\n\nRevisions to metrics used: N/A\n\nNumber of OP tokens to claim : 1,000,000\n\nL2 Recipient Address: 0x0D162447B8dF47C2e7910441bF3C8c1b55b9B124\n\nProposal for token distribution (under 1000 words):\n\nIntroduction:\n\nThe Uniswap Grants Program was born out of UNI governance in Q1 2021. The\nmission of UGP is to provide valuable resources to help grow the Uniswap\necosystem. It has become one of the primary allocators of the UNI Treasury, and\none of the core institutions working to empower community members to advance the\nUniswap protocol. Since inception, UGP has granted ~$6.9M in funding to 122\nprojects and events, including onboarding efforts, community analytics,\ndeveloper tooling, new interfaces and integrations, and more. With the 1M $OP\ntokens, UGP will continue to support these projects and initiatives for the\nUniswap ecosystem on top of Optimism. To note, UGP has already been a supporter\nof Optimism, including sponsoring the Optimism Geth workshop in Paris.\n\nHow will OP tokens be distributed?\n\nOptimistic Uni Grants\n\nUGP will use 20% of the total 1M $OP allocation for grants focused on\nOptimistic-Uniswap builders. Grants will be decided at UGP’s discretion but for\nthe specific purposes of improving L2 usability, accessibility, ease of\nintegration and development of Uniswap on Optimism.\n\nLiquidity Mining\n\nUGP will hold the remaining 80% $OP allocation on behalf of the Uniswap\ncommunity and DAO in the UGP multisig (ugp.eth). When the funds are received,\nUGP will engage the community to best determine which pools will receive\nliquidity incentives. We will post on the Uniswap governance forums to source\nideas on how to best implement communal decision-making, and utilize Snapshot to\nformalize decisions on incentives. Through this process, UGP will act as\nfaithful community stewards to help organize, custody, and transfer funds once\ndecisions are made with community stakeholders as we have always done in the\npast.\n\nHow will this distribution incentivize usage and liquidity on Optimism?\n\nUniswap and Optimism have a long history of collaboration, from as early as\nunipigs, up until today where Uniswap is the largest DEX by market share. By\nhelping to facilitate community decisions on which pools to incentivize, we are\nexcited for swappers to be able to enjoy Uniswap on Optimism with the same deep\nliquidity and fair pricing that they enjoy on Ethereum mainnet.\n\nThrough grantmaking, UGP will be able to continue supporting existing developer\ntooling to launch projects on Optimism, but also increase the breadth of support\nfor core developer infrastructure. Specific events like hackathons and EVM\nworkshops, as well as bounties and matched funding rounds will be able to more\ncomfortably receive support from this allocation. Additionally, new projects and\nintegrations will have the ability to build freely and natively on top of\nOptimistic Uniswap.\n\nWhy will the incentivized users and liquidity remain after the incentives dry\nup?\n\nWe believe that this plan leads the way with proper financial incentives for\nusers of Uniswap on all sides, LPs and swappers. Providing incentives will kick\noff the liquidity flywheel – attracting LPs, which will attract more swappers,\nwhich will attract more LPs, and so on and so forth. Moreover, through grants,\nthe developer experience will finally become more accessible and open the door\nfor builders and hackers to start natively on Optimism, rather than building on\nmainnet and migrating afterwards.\n\nOver what period of time will the tokens be distributed?\n\nThe community will ultimately help to decide the time frame in which liquidity\nincentives will be distributed. For grants, UGP will aim to commit funding\nwithin a year of the $OP being received. However, should anything change, UGP\nwill engage the community to make any further decisions.\n\nHow much will your project match in co-incentives?\n\nThe Uniswap community has been supported by various other liquidity incentive\nprograms and will continue to see more come in the future. Although, we cannot\ncommit funds to match incentives, UGP will continue to provide ongoing support\non behalf of the community to help ensure the ecosystem becomes more robust and\neasier for all users.",
+  "views": 4445,
+  "like_count": 34,
+  "word_count": 1038,
+  "answer": [
+    {
+      "content": "isnt it too late to submit phase 0 proposal ?",
+      "created_at": "2022-05-31T22:55:37.933Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "So far it’s looking like uniswap isn’t gonna pass because they missed the\ndeadline and there prop is pretty vague IMO",
+      "created_at": "2022-06-09T20:43:40.303Z",
+      "trust_level": 2,
+      "username": "0xjason42069",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Go the snapshot page and from there you can cast your vote. url below.\nhttps://snapshot.org/#/opcollective.eth\n[https://snapshot.org/#/opcollective.eth]",
+      "created_at": "2022-06-10T11:49:56.186Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Yes:\n“Phase 0 is designed to reward existing projects that have driven growth of the\nOptimism ecosystem. This phase begins May 3 and stays open for proposals until\nMay 24.”\n\n[https://europe1.discourse-cdn.com/bc41dd/original/1X/64d9c981938076fc546a6d75d236c1279e313312.png]\nOptimism Docs [https://community.optimism.io/docs/governance/gov-fund/#overview]\n\n\nGOVERNANCE FUND OVERVIEW\n[https://community.optimism.io/docs/governance/gov-fund/#overview]\n\nTo discuss Phase 0 and Phase 1 of the Governance Fund, head to the Optimism\ngovernance forum. Notice: OP Airdrop #1 is now available to claim Click here to\nclaim Airdrop #1 does no\n\n\n",
+      "created_at": "2022-06-02T15:43:09.418Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 2
+    },
+    {
+      "content": "I realize this post is using Phase 1 proposal template. It is not a problem of\ndates, but of title. They should change Phase 0 to Phase 1 and that will be it.",
+      "created_at": "2022-06-03T12:59:05.083Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2022-05-31T20:10:41.776Z"
+}

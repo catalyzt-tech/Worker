@@ -1,0 +1,20 @@
+{
+  "title": "Optimism by Brelgin",
+  "content": "I want to create a unique collection of clothing (t-shirts and caps), combining\nmy creativity with Optimism.\n\nmy artist profile: ROYD (@brelginm) • Instagram photos and videos\n[http://instagram.com/brelginm]\n\nI only paint dinosaurs and my work is in bars and restaurants. I express my idea\nthrough bright colors and simple shapes. I think my style is a perfect match\nwith the concept of Optimism.\n\nJust imagine, painting and clothing combined.\n\nI would like to organize a public sale through Zora. Each NFT = recipient’s\nserial number, by owning an NFT - a user would be able to claim 1 set of\nclothes.\n\nPublic mint NFT price = 50$ / 1 NFT\nTotal supply NFT = 1 000 NFT\n\nA limited number would make the collection in demand and allow for scaling in\nthe future, due to increased demand.\n\nPlanned production run:\n\n * 500 t-shirts = $4,000 $OP\n * 500 caps = $3,000 $OP\n * My own time and work for this project = 1,500 $OP\n\n\n\nphoto_2024-03-01_00-57-09\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/5/50c6b21528c9742ff5a730f6a14224b7bdd7f9c3_2_690x416.jpeg]\nphoto_2024-03-01_00-57-091073×647 33.1 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/5/50c6b21528c9742ff5a730f6a14224b7bdd7f9c3.jpeg]\n\n\n\nIf the motion is seconded - I’d also like to get intros and comarketing from\nZora and Optimism on Twitter as well\n\nI need your help for do this idea",
+  "views": 541,
+  "like_count": 0,
+  "word_count": 203,
+  "answer": [
+    {
+      "content": "photo_2024-03-01_00-57-19\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/1/1dca8ceab0de900bf58e0af131578cceea6ba5cd_2_401x500.jpeg]\nphoto_2024-03-01_00-57-191029×1280 251 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/1/1dca8ceab0de900bf58e0af131578cceea6ba5cd.jpeg]\n\n",
+      "created_at": "2024-02-29T20:02:20.170Z",
+      "trust_level": 1,
+      "username": "rroydds",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-02-29T20:01:36.385Z"
+}

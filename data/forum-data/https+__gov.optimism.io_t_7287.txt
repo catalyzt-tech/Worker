@@ -1,0 +1,50 @@
+{
+  "title": "Request: Feedback on which forum features matter most",
+  "content": "I am a UX researcher looking into the tooling that DAOs use for operations and\ndecision making. Specifically, looking into what DAOs love about Discourse (the\nforum of choice) and what could be improved. :thinking:\n[https://emoji.discourse-cdn.com/twitter/thinking.png?v=12]\n\nI have created a small discord group here [https://discord.gg/5SCphEGwaM] to\nhelp me collect information from any volunteers who would be happy to help.\nQuestions will be usually quick and short, and if we do any long form\ninterviews, incentivize them in appreciation of the feedback.\n\nThe end goal is to provide better tooling to DAOs, but this can only be achieved\nby talking to them. If the Optimism community is willing to help, join, please\nfeel free to jump in and say hello.\n\nThere is only one channel there :sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12] General\n[/c/general/1], since we want to keep comms simple.\n\nThank you and Much Appreciated!",
+  "views": 585,
+  "like_count": 13,
+  "word_count": 731,
+  "answer": [
+    {
+      "content": "\n[https://avatars.discourse-cdn.com/v4/letter/d/3ab097/48.png] dogsoup:\n\n> DAO participants these days seem to be spineless spectators that do whatever\n> the biggest whale on twitter and whatever an official “devloper” or rando on\n> the discord tells them to since they do not have the slightest clue what they\n> are actually voting on\n\nHuman history on repeat mode, for more context:\n\n * The Peloponnesian War\n * Taxation in Revolutionary France (late 18th century)\n * The Enclosures in England (16th-19th centuries)\n\n@skyfoxx [/u/skyfoxx] About the tooling.\n\nAI integration with discourse could be helpful. A lot of rules and new stuff\nhappened on this forum last year and if you want to get immediately involved as\na new user, you need to spend about a week reading to understand where the help\nis needed. Anything that lowers that learning curve is beneficial. Lots of new\nusers come with their production ideas, and sometimes they dare to create a post\nthat gets lost because it’s not properly oriented (not everyone knows what a\nmission request is what template to use, or where to post it and the approval\nyou need to get to a vote). The lack of engagement from the community undermines\nthe proposer’s morality who usually lose interest in participating when they\ndon’t feel they are being heard (read).",
+      "created_at": "2024-01-02T10:39:51.184Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 4
+    },
+    {
+      "content": "Whatever you can do to get users off discord, a closed source spyware mismash of\nunmoderation, nonresponse, no SEO, and chaos, the better. Better tooling for\nDAOs is getting back to The DAO and give people actual open, autonomous controls\nover their own DAOs, not just “I trust you devs” thing but a “I agree to this\ncontract” thing. No DAO not even this one is anywhere near actually\ndecentralized, most DAO participants these days seem to be spineless spectators\nthat do whatever the biggest whale on twitter and whatever an official\n“devloper” or rando on the discord tells them to since they do not have the\nslightest clue what they are actually voting on, what any code is doing or where\nthe value they put into the DAO is actually going beneath the surface of public\nannouncements, and are only in the game because they are trying to profit.\nOptimism has a better structure than most DAOs but wherever you see people\ntrying to get absolutely everyone on board, that’s where you know they must be\nusing monetary dangling fruit to get people in the door.\n\nThere are actual decentralized networks out there for hosting content and maybe\ndoing the same for DAO forums would be an interesting thing to do.",
+      "created_at": "2023-12-27T16:58:20.603Z",
+      "trust_level": 1,
+      "username": "dogsoup",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/gonna.eth/48/3379_2.png]\nGonna.eth:\n\n> AI integration with discourse could be helpful.\n\nThis is one of the experiments we are testing\n[https://logos.sacredprotocol.com/digest?d5acc7f63a31a60cbb37b5240bef72c8=].\n\n\n[https://avatars.discourse-cdn.com/v4/letter/d/3ab097/48.png] dogsoup:\n\n> Better tooling for DAOs is getting back to The DAO and give people actual\n> open, autonomous controls over their own DAOs, not just “I trust you devs”\n\nYeah this is our goal. To do this, we need to hear from DAOs to understand what\nthey want.\n\nIf you can lend us some feedback/ thoughts, please join our small group of early\nfeedback users here [https://discord.gg/HKKDGpy7qM]",
+      "created_at": "2024-01-02T17:45:42.394Z",
+      "trust_level": 0,
+      "username": "skyfoxx",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "On a related note, we are running user interviews (which are compensated).\n\nTo get started, please give us your thoughts in this quick survey\n[https://blocksurvey.io/VqWc2vOTQay651CO9Lyp9w?v=lhttps://blocksurvey.io/VqWc2vOTQay651CO9Lyp9w?v=l].\n\nIt’s super important for us to get this information and your thoughts and ideas\nmake a huge contribution in this effort.",
+      "created_at": "2024-01-11T05:42:44.508Z",
+      "trust_level": 0,
+      "username": "skyfoxx",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2023-12-27T07:09:51.764Z"
+}

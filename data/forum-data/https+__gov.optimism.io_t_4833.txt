@@ -1,0 +1,60 @@
+{
+  "title": "Grants Council: Season 3 Launch",
+  "content": "We are excited to kick off the Grants Council for Season 3! The grants process\nfor Season 3 will be organized by two cycles: Cycle 10 and Cycle 11.\n\n--------------------------------------------------------------------------------\n\nIf you are looking to apply for a proposal, apply here\n[https://foul-porch-0eb.notion.site/Application-2d47da131a004e94a74e56af9438026b]\nbefore 19:00 GMT on February 1, 2023 for Cycle 10 and before 19:00 GMT on March\n8, 2023.\n\n--------------------------------------------------------------------------------\n\nTo refresh, the Grants Council serves by delegation from Token House. The Grants\nCouncil exists to:\n\n * create a more streamlined and consistent process for proposers\n * set a pace for grant distributions\n * define a clear scope, with clear differentiation from Partner Fund\n * create accountability via smaller grant sizes and milestone-based\n   distributions\n * reduce the workload on delegates\n\n--------------------------------------------------------------------------------\n\nThe Grants Council consists of two Sub-Committees: Builders and Growth\nExperiments. Each Sub-Committee has a mandate to fulfill a purpose of the\nGovernance Fund charter.\n\nTo learn more about the Sub-Committees, their missions, and the standards they\nwill apply to review proposals, visit:\n\nThe Builders Sub-Committee aims to maximize the number of developers building on\nOptimism.\n\n * More Information on the Builders Sub-Committee\n   [https://foul-porch-0eb.notion.site/Builders-Sub-Committee-02ba9da5b4534fbf955e6e4c8fcf1aa3]\n\nThe Growth Experimentation Sub-Committee aims to maximize the number of users\ninteracting with applications on Optimism.\n\n * More information on the Growth Experiments Sub-Committee\n   [https://foul-porch-0eb.notion.site/Growth-Experiments-Sub-Committee-270d2f75ff0f410a869b2ba6a8324006]\n\n\nEVERYTHING ELSE YOU NEED TO KNOW ABOUT THE GRANTS COUNCIL CAN BE FOUND ON OUR\nNEW LANDING PAGE\n[https://foul-porch-0eb.notion.site/Optimism-Grants-Council-090bb648d1854136b9630c608da7a8bc].\n\nThis page will serve to aid proposers in navigating the grants process and to\ninform the Optimism community of the procedures and activities of the Council.\n\n--------------------------------------------------------------------------------\n\nAs a key part of the Council’s launch, we invite the community to review the\nCouncil’s Internal Procedures\n[https://gov.optimism.io/t/grants-council-internal-operating-procedures/4832].\nThe Council will aim to improve the procedures on a cycle-by-cycle basis, while\nkeeping the process predictable for proposers during the course of a given\ncycle.\n\nThe Grants Council is an experiment in governance. At the end of Season 3, the\nGrants Council will be reviewed by Token House to determine if the Council is an\nimprovement to the grants process that should be retained. Please review\nAchieving Aims in Season 3\n[https://gov.optimism.io/t/grants-council-achieving-aims-in-season-3/4831] in\nthe Governance Forum to discuss how to assess whether the Grants Council\naccomplished its purpose at the conclusion of Season 3.\n\n--------------------------------------------------------------------------------\n\nWe look forward to engaging with proposers and the community throughout Season\n3.",
+  "views": 2914,
+  "like_count": 39,
+  "word_count": 479,
+  "answer": [
+    {
+      "content": "Very excited to see this in motion :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]",
+      "created_at": "2023-01-29T08:05:51.862Z",
+      "trust_level": 1,
+      "username": "madhavanmalolan",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "glad to see such growth",
+      "created_at": "2023-02-10T04:58:23.978Z",
+      "trust_level": 2,
+      "username": "moosekb",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Growth is always good! What is needed to participate in this?",
+      "created_at": "2023-02-10T06:06:00.579Z",
+      "trust_level": 2,
+      "username": "Fot63life2000val",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Thrilled to see this coming!",
+      "created_at": "2023-02-02T19:19:41.947Z",
+      "trust_level": 1,
+      "username": "JeanM",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Go Optimism…glad to hear this",
+      "created_at": "2023-02-10T00:25:59.915Z",
+      "trust_level": 1,
+      "username": "Madi",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2023-01-26T19:34:24.524Z"
+}

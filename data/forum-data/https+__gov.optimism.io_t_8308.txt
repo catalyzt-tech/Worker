@@ -1,0 +1,9 @@
+{
+  "title": "Joint House Call will be [Tuesday, June 18th @ 14:00 ET / 18:00 UTC / 20:00 CET]",
+  "content": "Hello beautiful Optimists! :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12] :sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]\n\nThis Tuesday we will be having our Joint House call.\n\nDiscussion will be about the deliberative process, token house elections, and\nmore!\n\nGoogle meet: https://meet.google.com/vme-ovto-jcn\n[https://www.google.com/url?q=https://meet.google.com/vme-ovto-jcn&sa=D&source=calendar&usd=2&usg=AOvVaw1AeMdMjvD-okXIK4fwasHk]\n\nSee you there.\n\nMichael\n\n\n\njh cc s6\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/8/82d709b0fd7449605b5f873dbff8b75fdcb1035d_2_690x388.jpeg]\njh cc s6960×540 144 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/8/82d709b0fd7449605b5f873dbff8b75fdcb1035d.jpeg]\n\n",
+  "views": 188,
+  "like_count": 2,
+  "word_count": 69,
+  "answer": [],
+  "created_at": "2024-06-14T23:43:19.517Z"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Latruite - Delegate Communication Thread",
+  "content": "Hello everyone,\n\nI’m a French-speaking Optimist from Belgium and the keeper of the little\nOptimism Vision Reservoir website. My background is not in tech. I’m a health\neducator during the day, and an optimist at night.\n\nAs a delegate, my commitment is to bring the Optimistic Vision to life & serve\nthe Collective by prioritizing its long-term goals that are dear to me :\n\n-Upgrade the way we humans allocate capital, thanks to a sustainable RPGF.\n\n-Develop a suite of tools to concretely address the major coordination failures\nof our era: erosion of truth (AI deepfakes and bots), climate change,crisis in\nthe governance of collective actions, …\n\nWhy Now ?\n\nMy journey in governance has been quiet until now, though I’ve been actively\nvoting on governance proposals for months (symbolically due to limited voting\npower.) My participation on the forum has also been discreet, a reflection of my\nhesitation to voice my opinions.\n\nBut today, after receiving a small grant and an RPGF allocation, I realize it’s\ntime to take a more active role. My voting power remains very modest, but it is\ngrowing. Now I feel it’s time to step up, engage more in discussions, and use\nthe knowledge and convictions I’ve developed to guide me forward.\n\nMethodology\n\nMy approach will be iterative and transparent. As a solo delegate, my primary\nfocus will be on areas I know best: the vision, ethos, topics related to RPGF,\neducation, and governance.\n\nFor more technical subjects, I’ll lean on the expertise and opinions of the many\ncompetent members of our collective. However, I will always maintain a critical\npersonal perspective.\nIn evaluating proposals, I place great importance on the background of the\ninvolved actors – understanding the context and perspective. Wherever\napplicable, my decisions will also be data-driven, and I will ensure that this\nis clearly articulated in my communications.\n\nTo learn more about my vision as a delegate, please read my Delegate Statement\nhttps://vote.optimism.io/delegates/latruite.eth\n[https://vote.optimism.io/delegates/latruite.eth]",
+  "views": 922,
+  "like_count": 31,
+  "word_count": 1390,
+  "answer": [
+    {
+      "content": "UPGRADE PROPOSAL #9: FJORD NETWORK UPGRADE : :green_circle:\n[https://emoji.discourse-cdn.com/twitter/green_circle.png?v=12] FOR\n:green_circle: [https://emoji.discourse-cdn.com/twitter/green_circle.png?v=12]\n\nThis upgrade introduces several “nice-to-have” features and optimizations, for\nreduced gas costs and security.These changes were well-explained during a recent\ncommunity call\n\n\nANTICAPTURE COMMISSION AMENDMENT : :green_circle:\n[https://emoji.discourse-cdn.com/twitter/green_circle.png?v=12] FOR\n:green_circle: [https://emoji.discourse-cdn.com/twitter/green_circle.png?v=12]\n\nThese amendments make the Anticapture Commission more efficient and ensure\nactive participation, which helps prevent any one group from taking over\ngovernance.\n\n\nCHAIN DELEGATION PROGRAM AMENDMENT : :green_circle:\n[https://emoji.discourse-cdn.com/twitter/green_circle.png?v=12] FOR\n:green_circle: [https://emoji.discourse-cdn.com/twitter/green_circle.png?v=12]\n\nI’m very enthusiastic about any initiatives that bring more chains into the\nSuperchain. This is where the real competition lies.\n\n\nSEASON 6: V2. CODE OF CONDUCT COUNCIL RENEWAL : :green_circle:\n[https://emoji.discourse-cdn.com/twitter/green_circle.png?v=12] FOR\n:green_circle: [https://emoji.discourse-cdn.com/twitter/green_circle.png?v=12]\n\nThis improved version incorporates previous feedback and establishes a\npersistent council\n\n\nGRANTS COUNCIL REVIEWER ELECTIONS: MISSION REVIEWER\n\nI support a diverse mix of candidates for the Grants Council Mission Reviewer\nelections, combining seasoned members of the Collective, varied profiles, and\nfresh faces :\n\n * Derbygold.eth\n   [https://gov.optimism.io/t/season-6-nominations-grants-council/8116/4]\n * katie [https://gov.optimism.io/t/season-6-nominations-grants-council/8116/5]\n * Jrocki [https://gov.optimism.io/t/season-6-nominations-grants-council/8116/6]\n * Michael\n   [https://gov.optimism.io/t/season-6-nominations-grants-council/8116/7]\n * mastermojo\n   [https://gov.optimism.io/t/season-6-nominations-grants-council/8116/9]\n * GFXlabs\n   [https://gov.optimism.io/t/season-6-nominations-grants-council/8116/11]\n * jackanorak\n   [https://gov.optimism.io/t/season-6-nominations-grants-council/8116/15]\n * MoneyManDoug\n   [https://gov.optimism.io/t/season-6-nominations-grants-council/8116/16]\n * Sov [https://gov.optimism.io/t/season-6-nominations-grants-council/8116/17]\n * DanSingjoy\n   [https://gov.optimism.io/t/season-6-nominations-grants-council/8116/38]\n * Tane [https://gov.optimism.io/t/season-6-nominations-grants-council/8116/39]\n * Zeugh [https://gov.optimism.io/t/season-6-elections-grants-council/8115/12]\n * Antoine\n   [https://gov.optimism.io/t/season-6-nominations-grants-council/8116/40]\n\n\nGRANTS COUNCIL REVIEWER ELECTIONS: MILESTONES AND METRICS REVIEWER\n\nI support the continuity of the current reviewers, but I also want to encourage\na quality fourth candidature\n\n * Juanbug_PGov\n   [https://gov.optimism.io/t/season-6-nominations-grants-council/8116/14]\n * mmurthy\n   [https://gov.optimism.io/t/season-6-nominations-grants-council/8116/22]\n * v3naru_Curia\n   [https://gov.optimism.io/t/season-6-nominations-grants-council/8116/28]\n * LauNaMu\n   [https://gov.optimism.io/t/season-6-nominations-grants-council/8116/43]\n\n\nGRANTS COUNCIL REVIEWER ELECTIONS: AUDIT REVIEWER\n\nI support the election of those security experts:\n\n * m4rio.eth\n   [https://gov.optimism.io/t/season-6-nominations-grants-council/8116/19]\n * Anthias Labs\n   [https://gov.optimism.io/t/season-6-nominations-grants-council/8116/34]\n\n\nDEVELOPER ADVISORY BOARD ELECTIONS\n\nmix of talented builders and experienced candidates :\n\n * wildmolasses\n   [https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/6]\n   / Ed Mazurek\n * wbnns\n   [https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/16]\n * Jepsen\n   [https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/4]\n * anika\n   [https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/20]\n * merklefruit\n   [https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/7]\n * shekhirin\n   [https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/12]",
+      "created_at": "2024-06-14T08:34:49.726Z",
+      "trust_level": 2,
+      "username": "latruite.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 12
+    },
+    {
+      "content": "Thank you for the vote!",
+      "created_at": "2024-06-14T14:21:07.109Z",
+      "trust_level": 3,
+      "username": "katie",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Appreciate the support!",
+      "created_at": "2024-06-14T14:45:15.107Z",
+      "trust_level": 2,
+      "username": "Zeugh",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "I feel honored to make your top 12… so many good candidates :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]",
+      "created_at": "2024-06-14T18:23:31.338Z",
+      "trust_level": 2,
+      "username": "Jrocki",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "PROTOCOL UPGRADE #5: ECOTONE NETWORK UPGRADE : :green_circle:\n[https://emoji.discourse-cdn.com/twitter/green_circle.png?v=12] FOR\n:green_circle: [https://emoji.discourse-cdn.com/twitter/green_circle.png?v=12]\n\nI’m voting for this update to signal our Blob readiness from day one (as our\ncompetitors will undoubtedly do the same.) EIP 4844 is the start of a new era of\nscalability for the Superchain.\n\n\nPROTOCOL UPGRADE #6: MULTI-CHAIN PREP (MCP) L1 : :green_circle:\n[https://emoji.discourse-cdn.com/twitter/green_circle.png?v=12] FOR\n:green_circle: [https://emoji.discourse-cdn.com/twitter/green_circle.png?v=12]\n\nI’m Voting for this proposal. This upgrade contributes to the seamless updating\nof different chains within the Superchain. This is another step towards\nrealizing the Superchain’s vision of unified approach to evolution and security.",
+      "created_at": "2024-03-01T09:46:18.995Z",
+      "trust_level": 2,
+      "username": "latruite.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2024-02-16T15:35:47.142Z"
+}

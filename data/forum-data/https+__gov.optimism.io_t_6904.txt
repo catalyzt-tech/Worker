@@ -1,0 +1,9 @@
+{
+  "title": "Transfer from Worldapp to crypto.com using Optimism network",
+  "content": "Yesterday I made a transfer from WorldApp to Crypto.com [http://Crypto.com]. I\nsold all the cryptocurrencies I had in Worldapp and tried to withdraw the money\nto my Crypto wallet using the Optimism network. When making the transfer to my\nwallet on crypto.com [http://crypto.com], I realized that something must have\ngone wrong because after 30 minutes, the transfer on WorldApp appeared to be\ncompleted, but I didn’t have any funds added to my Crypto wallet. Apparently, I\ntried to make a deposit using Optimism while the money in Worldapp is actually\nin USDC. I contacted Crypto Support, and they told me they could help if I paid\n$100 to complete the process. There seems to be a solution, but I’m struggling\nto resolve it. Is there any way to recover the money?",
+  "views": 590,
+  "like_count": 1,
+  "word_count": 133,
+  "answer": [],
+  "created_at": "2023-09-30T13:56:04.597Z"
+}

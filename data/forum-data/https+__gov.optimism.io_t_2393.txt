@@ -1,0 +1,60 @@
+{
+  "title": "Economic sustainability ideas for $OP",
+  "content": "Starting from first principles, this is my opinion for how $OP can be\neconomically sustainable. My general philosophy is elegance, simplicity and\nminimal friction. No lockups, staking rewards and similar mechanisms - $OP will\nalways be a frictionless, liquid token.\n\n\nREVENUES\n\nAssuming a MEVA/PBS-like setup, builders (sequencers) bid in ETH. Note:\ndepending on the implementation, users may pay fees in other tokens (e.g. OP,\nDAI) to dapps/builders, but this is abstracted away from Optimism Collective.\n\nETH revenues are a) contributed to treasury and/or b) used to buy back and burn\nOP, or a combination thereof. Governance will decide the exact proportion, and\ndynamically adjusted in response to market conditions, governance plans etc.\n\n\nISSUANCE\n\nThere’ll be a dynamic issuance per revenues earned. For example, if OP is\naccruing significantly more value than the issuance rate, then issuance can be\nramped up via governance vote. It could also be automated.\n\nAs always, governance (Token House + Citizens’ House) will direct issuance and\ntreasury reserves. E.g. X% to RPGF, Y% to ecosystem etc. Staking rewards are\npossible, but in spirit of simplicity the buyback-and-burn directly accrues\nvalue to the OP token.\n\n\nCONCLUDING\n\nPost EIP-4844, both L1 fees & sequencer costs will be trivial (of course, no\nissuance required for safety, unlike L1s), and congestion fees/MEV can be very\nlucrative if we attract top developers and their users to Optimism. I believe\n$OP can be a rare economically sustainable token in the space.",
+  "views": 2120,
+  "like_count": 14,
+  "word_count": 779,
+  "answer": [
+    {
+      "content": "Using OP to pay gas just adds an extra step in a transaction and would have to\nbe sold to cover the eth gas fee on mainnet. So no making OP a gas token is\nbackwards and pointless .",
+      "created_at": "2022-06-05T13:48:23.714Z",
+      "trust_level": 2,
+      "username": "0xjason42069",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Some valuable suggestion and if you are looking for info on MEVA/PBS, MEV and\nEIP-4844\n\nMEVA [https://medium.com/offchainlabs/meva-what-is-it-good-for-de8a96c0e67c]:-\nThe idea behind MEVA is rather simple: instead of trying to prevent\nfront-running, auction off the rights to order transactions, and allow the\nwinner (called the Sequencer) to front-run as much as they’d like. Users have\ntwo ways to submit transactions: pay the Sequencer a fee for inclusion in an\naggregated block or submit transactions directly to the miners. Either way, the\nSequencer chooses the order in which the transactions are executed.\n\nPBS [https://notes.ethereum.org/@vbuterin/pbs_censorship_resistance]:- Works by\nsplitting the block construction role from the block proposal role. A separate\nclass of actors called builders build exec block bodies (essentially an ordered\nlist of transactions that becomes the main “payload” of the block), and submit\nbids. The proposer’s job is only to accept the exec block body with the highest\nbid. Notably, the proposer (and everyone else) does not learn the contents of\nany exec block body until after they select the header (and hence the body) that\nwins the auction. This pre-confirmation privacy is needed to prevent “MEV\nstealing”, where sophisticated proposers detect builders’ MEV extraction\nstrategies and copy them without compensating the builder.\n\nEIP-4844\n[https://notes.ethereum.org/@vbuterin/proto_danksharding_faq#What-is-Danksharding]\naka proto-danksharding\nProto-danksharding (aka. EIP-4844) is a proposal to implement most of the logic\nand “scaffolding” (eg. transaction formats, verification rules) that make up a\nfull Danksharding spec, but not yet actually implementing any sharding. In a\nproto-danksharding implementation, all validators and users still have to\ndirectly validate the availability of the full data.\n\nOr simply put Danksharding turns Ethereum into a unified settlement and data\navailability layer [https://polynya.medium.com/danksharding-36dc0c8067fe].\n\nMEV [https://ethereum.org/en/developers/docs/mev/]: Maximal extractable value\n(MEV) refers to the maximum value that can be extracted from block production in\nexcess of the standard block reward and gas fees by including, excluding, and\nchanging the order of transactions in a block",
+      "created_at": "2022-07-05T16:47:28.714Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "How to control the amount of issuance will be the key. I don’t think it will be\neasy.:sweat_smile:\n[https://emoji.discourse-cdn.com/twitter/sweat_smile.png?v=12]",
+      "created_at": "2022-12-02T11:13:09.206Z",
+      "trust_level": 2,
+      "username": "hait",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "I have already replied that I do not think the use of OP for expenses is a good\nidea. We are after the masses and paying with ETH reduces friction to make the\nonboard process easier. Using OP to build value for token holders may be\nbeneficial for those with a short-term perspective but at this early stage we\nneed to optimize and future-proof the ecosystem.",
+      "created_at": "2022-08-06T00:18:55.768Z",
+      "trust_level": 1,
+      "username": "ALLIn",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "I would propose to pay the gas fees in OP. What happens with Polygon with the\nMatic token. Polygon is not a true layer2 like Optimism however it would\nincrease the demand for OP.",
+      "created_at": "2022-06-05T12:50:14.444Z",
+      "trust_level": 1,
+      "username": "BlackOmega",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-06-03T08:30:03.925Z"
+}

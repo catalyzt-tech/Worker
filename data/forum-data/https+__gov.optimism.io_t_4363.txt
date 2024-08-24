@@ -1,0 +1,50 @@
+{
+  "title": "Recap: Community Call #11 (December 20)",
+  "content": "Thanks for coming!\n\nCheck out the call recording here\n[https://drive.google.com/file/d/1iQRwqi1kqTFduSIdUCcHIfWI0OI8qfJL/view?usp=sharing].\n\nIt was a great call, mostly focused around what we’d like to see for season 3\ngrants.\n\nTopics discussed:\n\n * Season 3 grants\n   \n   * We might want to add more context on the grant proposal template\n   * The successful new proposals will likely look different than the proposals\n     in previous seasons\n   * This could definitely be something that the elected grants council puts out\n   * Lets see some education grants! Maybe a technical content competition\n   * Ideally the grants council will take the lead on this by publishing the\n     types of grants that they’d like to see\n   * One solution for them is to publish this and then have a community\n     discussion call for feedback\n\n * Grant council\n   \n   * Breakdown between Builders vs Growth Experiments subcommittees\n   * Do the stated for subcommittees goals make sense?\n   * Budget is split the way it is because we are expecting builder grants to\n     ramp up over time, eventually they should converge\n\n * Accountability thread\n   \n   * Anyone can contribute to the OP grants through Season 2: where has the OP\n     gone?\n     [https://gov.optimism.io/t/op-grants-through-season-2-where-has-the-op-gone/4025]\n     thread\n   * Could even turn this into a competition.\n\n * RetroPGF\n   \n   * Some Q&A here on some choices that were made and how it works\n\nIf I missed anything or if if you post any follow-up threads, feel free to post\nit below!\n\nAlso, those who attended to call recieved a POAP at the end thanks to @Gonna.eth\n[/u/gonna.eth]! Make sure to join next call if you want one. :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]\n\n-Michael :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]:sunny:\n[https://emoji.discourse-cdn.com/twitter/sunny.png?v=12]",
+  "views": 1760,
+  "like_count": 23,
+  "word_count": 339,
+  "answer": [
+    {
+      "content": "Thanks for the Recap and Recording Link.\n\nAs someone who’s been absent for a while it’s good to see these calls have\nbecome fixed in the calendar, beyond Katie’s initial push. So thanks for their\ncontinued organisation and delivery! Hope to catch up soon.",
+      "created_at": "2022-12-20T22:17:04.952Z",
+      "trust_level": 2,
+      "username": "Axel_T",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Awesome !\n\nWe love Optimism and are happy to contribute to such an amazing ecosystem.",
+      "created_at": "2022-12-20T22:13:49.063Z",
+      "trust_level": 2,
+      "username": "FractalVisions",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": ":grinning: [https://emoji.discourse-cdn.com/twitter/grinning.png?v=12] How to\njoin the next call?",
+      "created_at": "2023-02-01T08:16:50.857Z",
+      "trust_level": 0,
+      "username": "Pilenikus",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "great call, as always! thanks for hosting, Michael!",
+      "created_at": "2022-12-21T09:13:21.366Z",
+      "trust_level": 2,
+      "username": "revmiller",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-12-20T19:10:00.439Z"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "First OP Governance Call August 2nd",
+  "content": "We have our first OP Governance Call scheduled! The time is August 2nd at 10am\nPT/1pm ET, 7pm CET and will be biweekly. The meeting details and agenda are\nbelow. The call is open to anyone in the OP Community to join. I will facilitate\nuntil someone else can take over. Please reach out to me if you would like to be\nadded to the agenda. Looking forward to seeing everyone!\n\nAgenda\nPrevious Voting Cycle #3 Results\nCurrent Voting Cycle #4\nUpcoming Governance Cycle\nOpen Discussion - proposal feedback, governance issues and feedback, etc\n\ndocs.google.com\n[https://docs.google.com/presentation/d/1lmM7cGVbWNTRgdEy5cUi7L18U_bxiS4dpOCxQiSKMs8/edit#slide=id.p]\nhttps://docs.google.com/presentation/d/1lmM7cGVbWNTRgdEy5cUi7L18U_bxiS4dpOCxQiSKMs8/edit#slide=id.p\n\n\n2022/8/2 OPTIMISM BI WEEKLY GOVERNANCE CALL\n[https://docs.google.com/presentation/d/1lmM7cGVbWNTRgdEy5cUi7L18U_bxiS4dpOCxQiSKMs8/edit#slide=id.p]\n\nOptimism Bi Weekly Governance Call August 2, 2022\n\n\n\n\nMeeting Info\n\nJoin Zoom Meeting\n\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/2/25af1fbf8dc804c367872d9c4844b901c49aa1ef.png]\nZoom Video [https://zoom.us/j/96434174431?pwd=MG5qU2NXVTZUUnp6blQvNU9SQ1diZz09]\n\n\nJOIN OUR CLOUD HD VIDEO MEETING\n[https://zoom.us/j/96434174431?pwd=MG5qU2NXVTZUUnp6blQvNU9SQ1diZz09]\n\nZoom is the leader in modern enterprise video communications, with an easy,\nreliable cloud platform for video and audio conferencing, chat, and webinars\nacross mobile, desktop, and room systems. Zoom Rooms is the original\nsoftware-based conference...\n\n\n\n\nMeeting ID: 964 3417 4431\nPasscode: 368400",
+  "views": 2026,
+  "like_count": 45,
+  "word_count": 569,
+  "answer": [
+    {
+      "content": "Here you go!\n\ndrive.google.com\n[https://drive.google.com/file/d/1K9s5KFE6FgLgEw6GZ_UxSsUhz3kzsGOT/view?usp=sharing]\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/f/f06f66702005a1b3bd4920ca7d4361dcdc520c1a_2_690x362.jpeg]\n\n\nVIDEO1911010495.MP4\n[https://drive.google.com/file/d/1K9s5KFE6FgLgEw6GZ_UxSsUhz3kzsGOT/view?usp=sharing]\n\nGoogle Drive file.\n\n\n",
+      "created_at": "2022-08-04T15:49:48.492Z",
+      "trust_level": 3,
+      "username": "katie",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": "Thank you all for joining the very first OP Governance call!\nA short summary of issues discussed is below. The recording will be posted\nshortly.\n\nDelegate office hours\nVoting committees based on areas of interest and expertise (being worked on)\nMore detailed proposal template for projects (being worked on)\nGap between voting rounds\nModeration in Discord and Forum\nFoundation’s role in governance\nDelegate compensation\nDelegate approval process\nUse of funds differing from purpose in proposal\nHow project funds are granted based on milestones\nLocking proposal editing after going to Snapshot\nCap on proposal amounts",
+      "created_at": "2022-08-02T19:11:37.238Z",
+      "trust_level": 3,
+      "username": "katie",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Hey Katie, any idea when the call recording will be made available?\n\nCheers.",
+      "created_at": "2022-08-03T20:59:12.002Z",
+      "trust_level": 1,
+      "username": "Juan_Boardroom",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Wonderful! Yes, the calls will start next Tuesday then take place on Tuesdays\nevery other week. I totally understand family commitments, I will make sure the\ncall is recorded. Hope to see you there!",
+      "created_at": "2022-07-26T21:10:55.312Z",
+      "trust_level": 3,
+      "username": "katie",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Definitely! I will share the recording after the call :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]",
+      "created_at": "2022-07-27T04:39:24.109Z",
+      "trust_level": 3,
+      "username": "katie",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2022-07-26T17:57:52.904Z"
+}

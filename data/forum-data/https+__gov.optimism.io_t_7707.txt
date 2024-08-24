@@ -1,0 +1,9 @@
+{
+  "title": "Cycle 19 - Grants Submission Roundup",
+  "content": "The Cycle 19 submission has concluded. The heightened interest in building on\nOptimism it’s clear during the beginning of Season 5. The Council received 314\ntotal Mission Request applications during Cycle 19, surpassing the entire Season\n4 with 304 applications.\n\nThe future is Optimistic and each application has a reviewer assigned.\n\nThis is a new type of roundup report the Grants Council is experimenting with.\nWe are listing all the submissions with the link, grant size, mission request\nbudget, and intent. While many of these applications will probably be left\nbehind during the intake filter and preliminary review, we believe this document\ncan benefit those dedicated to analytics to find out what is on demand, where we\nneed more builders, or where should the budget be more focused given the demand\nof a mission request. I leave this sort of analysis to the experts and I’m only\nproviding raw data.\n\nIf you prefer a Google sheet link is here\n[https://docs.google.com/spreadsheets/d/1XxvfJABBhTGbOLexkBU2WAzLwlk4LXUwPfInQjfi0XY/edit?usp=sharing].",
+  "views": 424,
+  "like_count": 15,
+  "word_count": 1086,
+  "answer": [],
+  "created_at": "2024-02-23T17:02:16.556Z"
+}

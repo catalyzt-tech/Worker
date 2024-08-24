@@ -1,0 +1,9 @@
+{
+  "title": "33rd OP Delegate Call will be [Tuesday January 9th @ 10:00 PT / 13:00 ET / 18:00 GMT / 19:00 CET]",
+  "content": "Happy new year, Optimists!!!\n\nWe’re kicking of this years community calls on January 9th, be sure to by as we\ndiscuss Season 5 Governance, mission requests, and the upcoming voting cycle.\n\nAs always, if you’d like anything added to the agenda, feel free to post it\nhere!\n\nZoom link: Launch Meeting - Zoom\n[https://us02web.zoom.us/j/84087544843?pwd=cVpweHpEa2drYVRDZ1U0UklYSnR1QT09]\nSlides: January 9th, 2023 community call slides - Google Slides\n[https://docs.google.com/presentation/d/1SevoRmUxpK4DXpNGgeokWtwB_JaYZ2sBLCC_ZfpiUu0/edit?usp=sharing]\n\nMichael :sparkles: [https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]\n:red_circle: [https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]",
+  "views": 401,
+  "like_count": 8,
+  "word_count": 73,
+  "answer": [],
+  "created_at": "2024-01-03T19:00:39.003Z"
+}

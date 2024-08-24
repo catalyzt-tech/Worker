@@ -1,0 +1,9 @@
+{
+  "title": "Special Voting Cycle #12a Roundup",
+  "content": "SPECIAL VOTING CYCLE #12A ROUNDUP\n\nSpecial Voting Cycle 12 begins on Thursday (April 27th) at 19:00 GMT and runs\nuntil Wednesday (May 10th) at 19:00 GMT.\n\nFor a non-grant proposal to proceed to a vote, four delegates, each with >0.25%\nof the current votable token supply, must give explicit approval on the\ndiscussion thread. Delegates may not approve their own proposals. Proposals that\nmay only be initiated by the Foundation do not require delegate approvals and\nwill automatically move to a vote.\n\nA snapshot of delegate voting weights will be taken at the start of the voting\nwindow. Voting will take place via the Optimism Governance Portal\n[https://vote.optimism.io/].\n\nThe following proposals are eligible for voting in Special Voting Cycle #12a:\n\n * Protocol Delegation Program Renewal\n   [https://gov.optimism.io/t/protocol-delegation-program-renewal/5883]\n * Intent Budget Proposals [https://gov.optimism.io/t/collective-intents/5874]\n   (there will be 3 separate votes for the budget for Intent #1, #3, and #4)\n * Council Intent Budget Proposal\n   [https://gov.optimism.io/t/draft-season-4-council-intent-budget-proposal/5925]",
+  "views": 1603,
+  "like_count": 4,
+  "word_count": 184,
+  "answer": [],
+  "created_at": "2023-04-26T18:40:31.922Z"
+}

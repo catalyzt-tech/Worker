@@ -1,0 +1,60 @@
+{
+  "title": "Security Council Vote #2 – Initial Member Ratification",
+  "content": "> For full context on the implementation of the Security Council, please read\n> Intro to Optimism’s Security Council\n> [https://gov.optimism.io/t/intro-to-optimisms-security-council/6885]\n\nThe Foundation is proposing to appoint the following members to the Security\nCouncil, as per the Collective Council Framework\n[https://gov.optimism.io/t/collective-council-framework/5884].\n\nSecurity Council members will serve an initial term of 12 months (Cohort A) or\n18 months (Cohort B), after which point membership will be determined via\nstaggered elections. More detail is available in the Security Council Charter\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/Security%20Council%20Charter%20v0.1.md].\n\nThis initial cohort of Security Council members must pass a series of screens by\nthe Foundation and complete required rehearsals to confirm their membership. The\nCouncil may consist of a subset of the parties below if any fail to complete\nscreens or rehearsals.\n\nCohort A\n\n * Kris Kaczor (Phoenix Labs)\n * Layne Haber (Connext)\n * Jon Charbonneau (DBA)\n * Alejandro Santander (Independent, former Synthetix)\n * Mariano Conti (Independent, former MakerDAO)\n * Martin Tellechea (The Graph Foundation)\n * Yoseph Ayele (Borderless Africa)\n\nCohort B:\n\n * OP Labs PBC\n * Yoav Weiss (Ethereum Foundation)\n * Test in Prod\n * Coinbase Technologies, Inc. (Base)\n * Elena Nadolinkski (Ironfish)\n * L2Beat\n\n\nADDITIONAL NOTES\n\nSecurity Council Phase 0\n\nAs described in the Intro to Security Council\n[https://gov.optimism.io/t/intro-to-optimisms-security-council/6885] post, Phase\n0 of rollout will add the Security Council as one signer on a 2/2 multisig that\ncontrols protocol upgrades for OP Mainnet (with the other signer being the\ncurrent Foundation multisig). In Phase 0, the Council will require 4 signatures\nto approve an upgrade.\n\nPhase 0 only impacts the upgradability of the OP Mainnet, as other chains still\nneed to proceed through the Sequencer/Superchain governance process that will\ncome online in Season 5. This initial, interim step paves the way for the full\nSuperchain Security Council initiation in Phase 1, where the Council is\nsingularly responsible for all OP Chain upgrades.\n\nAddresses and “Upgrade” transaction\n\nMembers of the Security Council are still provisioning their hardware.\nAddresses, the final signing ceremony playbook, and the “upgrade” transaction\nthat adds the Security Council to the upgrade multisig will be added to this\npost when available.\n\nSecurity Council Lead\n\nThe Foundation has appointed Alisha.eth [https://twitter.com/futurealisha] as\nthe first Security Council Lead. The Lead is accountable for the\nresponsibilities outlined in the Security Council charter\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/Security%20Council%20Charter%20v0.1.md].",
+  "views": 3190,
+  "like_count": 124,
+  "word_count": 2217,
+  "answer": [
+    {
+      "content": "I’d like to see a clear roadmap with details on how governance will reelect the\nSecurity Council, as well as hold emergency votes for removal of Council\nmembers.",
+      "created_at": "2023-11-18T02:58:22.374Z",
+      "trust_level": 2,
+      "username": "polynya",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 12
+    },
+    {
+      "content": "I will be voting Against this proposal, for now. I left a conversation-starter\nreply here 7 days ago, but since there’s been a complete lack of response, let\nme elaborate.\n\nI think it was a significant missed opportunity to not have the security council\nbe decentralized from Day 1, something I’ve mentioned before - we have been\noperating as a DAO for well over a year now and are perfectly capable of\nelecting a security council from scratch, at least partially. Instead, we have a\nunilaterally selected security council body that from the looks of it will stay\nso for at least 12 months, effectively an expansion of the Foundation’s\nmulti-sig - welcome, but not good enough. I’m willing to accept the centralized\nselection as a pragmatic measure, however, I need some reassurances before I\nvote For:\n\n 1. Security council member removal / replacement proposal type explicitly added\n    to Operating Manual (just adding vague references in security council\n    charter not enough)\n 2. Reelection process clearly defined\n 3. The initial term shortened to 1 season (maybe 2) for at least one Cohort,\n    triggering reelection for the next season\n\nEcho concerns by fellow delegates above too.",
+      "created_at": "2023-11-25T02:17:41.102Z",
+      "trust_level": 2,
+      "username": "polynya",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 12
+    },
+    {
+      "content": "To address questions from @Joxes [/u/joxes] @GFXlabs [/u/gfxlabs] and @OPUser\n[/u/opuser]:\n\nIndividual versus Entity Membership\n\n * Only the listed entities (with no individual’s name next to them) would serve\n   on the Council as entities. That entity will decide - and are not required to\n   publicly disclose - the individuals within their organization that hold key\n   material. These individuals, however, will be disclosed to the other Council\n   participants, and subject to the same background and capacity checks as the\n   other individual signers.\n * The listed individuals (with entity names in parentheses following their\n   personal names) are holding keys in their personal capacities - meaning\n   either directly as individuals, or through single member entities that they\n   exclusively control. The entity name in the forum post is provided for\n   reference, to indicate the individuals’ most prominent external affiliation\n   (e.g. primary employer). As they are serving in their personal capacity,\n   these individuals cannot transfer their key material to any other party.\n * This mix of accountable individuals and entities, as described above, is\n   intended to increase the robustness of the Council’s security model.\n\nThreshold\n\n> So, in real terms, according to the Security Council Charter, the 75%\n> threshold is not met (yes for 2/2 but not for identified individuals:\n> Foundation multisig (5/7) + Security Council (4/14); Will we reach this\n> threshold once we transition to phase 1, right?\n\nYes, 75% is the threshold for Phase 1",
+      "created_at": "2023-11-28T10:44:33.903Z",
+      "trust_level": 4,
+      "username": "system",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 10
+    },
+    {
+      "content": "Bullish on having Mariano on the council! :raised_hands:\n[https://emoji.discourse-cdn.com/twitter/raised_hands.png?v=12]",
+      "created_at": "2023-11-22T18:10:11.459Z",
+      "trust_level": 3,
+      "username": "katie",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 8
+    },
+    {
+      "content": "Apologies for the delay in response @polynya [/u/polynya]\n\nDetails on how (re)elections will occur\n\nSeveral months before the end of a cohort, elections will be held to either\nre-elect members of the current cohort or elect new nominees. The 12 month\ninitial term for Cohort A is designed to span two Seasons, which are roughly 6\nmonths each, including Reflection Periods.\n\nNominations will occur as they do for other Councils, although nominees will be\nsubject to the eligibility criteria\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/Security%20Council%20Charter%20v0.1.md#eligibility]\noutlined in the Council Charter\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/Security%20Council%20Charter%20v0.1.md].\nThe Foundation may implement additional criteria over time, if deemed necessary.\n\nAll candidates that are elected must pass a Foundation screen that includes\ncompleting KYC, undergoing a background check, and completing technical\nrehearsals. If a candidate fails the screen after being elected, the runner up\nmay take their place.\n\nRemoval of Council members\n\nA new proposal type (Council and Board Member Removal) will be added to the\nOperating Manual before the start of Season 5. A valid Council or Board Member\nRemoval proposal must posted to the forum and must receive the required delegate\napprovals (which may be higher than the default for this proposal type) to\ninitiate a Token House vote in the next nearest voting cycle (a delay of 3 weeks\nmaximum). It was determined that it is not necessary to implement an emergency\nvoting procedure in this initial phase given the number of Council members and\nthe signing threshold required.\n\nThe Security Council or Foundation can also act unilaterally to remove a\nparticipant who fails to satisfy the requirements of the Charter if such failure\nfalls within the defined scope of emergency powers.\n\nIn either of the above removal scenarios, an election for a removed member’s\nreplacement should occur in the same, or next nearest, voting cycle as the\nremoval. The Foundation will maintain a shortlist of strong candidates that are\ninterested in joining the Council and could be nominated quickly, subject to the\neligibility requirements, if need be.\n\nAnswers to the questions subsequently raised will be provided shortly",
+      "created_at": "2023-11-27T22:17:07.453Z",
+      "trust_level": 4,
+      "username": "system",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 7
+    }
+  ],
+  "created_at": "2023-11-17T17:23:58.160Z"
+}

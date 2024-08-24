@@ -1,0 +1,9 @@
+{
+  "title": "A16z's Continued Participation in Optimism Governance",
+  "content": "In addition to our ongoing token delegation program, today a16z crypto is\nidentifying the wallets from which we will be directly voting on select Optimism\ngovernance proposals going forward.\nAs a reminder, we have previously delegated to a wide set of Optimism delegates.\nToday we have 17 Optimism delegates and we are always looking for more delegates\nwith the right qualities. More info on our delegates and their on-chain voting\nactivity can be found here\n[https://dune.com/usc-blockchain-club/a16z-optimism-delegates].\n\nGoing forward, we may also vote directly on select, strategic proposals. To do\nso, we will initially use the below two wallets, which collectively possess ~10M\nOP of voting power.\n1. 0xf11B6a8c3CB8bb7dbC1518A613b10CEb0BBfc06b\n2. 0xEff8d84e0fD304550DA242040CcD45bd44CE71f1\n\nPlease feel free to share your feedback or thoughts directly on this post. You\ncan always reach out to me individually via DM here, on Twitter/X (0xShuel), or\non Farcaster (shuel.eth).",
+  "views": 553,
+  "like_count": 11,
+  "word_count": 152,
+  "answer": [],
+  "created_at": "2024-01-29T22:18:31.376Z"
+}

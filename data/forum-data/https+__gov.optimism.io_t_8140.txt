@@ -1,0 +1,30 @@
+{
+  "title": "Forum Redesign Feedback",
+  "content": "Creating a thread for any feedback regarding the governance forum\n(gov.optimism.io [http://gov.optimism.io]). Feedback around accessibility, ease\nof finding information, and clarity/simplicity would be greatly appreciated.\n\nPlease leave constructive feedback so we keep the signal to noise ratio high!\nAll forum engagement is subject to the Forum Rules of Engagement\n[https://gov.optimism.io/t/rules-of-engagement/5].",
+  "views": 336,
+  "like_count": 5,
+  "word_count": 103,
+  "answer": [
+    {
+      "content": "Hi, after the change in the forum UI, it no longer notifies me of new posts or\nthose I haven’t read. Does the same thing happen to other people?",
+      "created_at": "2024-05-17T03:25:34.891Z",
+      "trust_level": 2,
+      "username": "AxlVaz",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "We have to keep going to the latest tab to find unread posts.",
+      "created_at": "2024-05-17T15:13:23.997Z",
+      "trust_level": 2,
+      "username": "FractalVisions",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-05-13T20:31:11.707Z"
+}

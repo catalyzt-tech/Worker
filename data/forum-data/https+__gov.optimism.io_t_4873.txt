@@ -1,0 +1,20 @@
+{
+  "title": "14th OP Community Governance Call is [January 31st at 10am PT / 1pm ET / 7pm CET]",
+  "content": "Hello Optimists!\n\nWe will be having our community call this Tuesday, January 31st at 10am PT / 1pm\nET / 7pm CET\n\nYou can attend via the link below. In addition, please feel free to comment any\ntopics you would like to discuss.\n\nhttps://us02web.zoom.us/j/81641455790?pwd=aHhMSzN4WWdMRmdvQjh6NEJ0dWdpdz09\n[https://www.google.com/url?q=https://us02web.zoom.us/j/81641455790?pwd%3DaHhMSzN4WWdMRmdvQjh6NEJ0dWdpdz09&sa=D&source=calendar&usd=2&usg=AOvVaw1-tY1N6yYMtq_QXDeOoNeB].\n\nSlides are here\n[https://docs.google.com/presentation/d/1eOwOCw34kDypY6alh68zj2jNpq6Y5ORY4rVuCN7F8iA/edit?usp=sharing]\nif you want to follow along.\n\nSee you there!\nMichael",
+  "views": 1641,
+  "like_count": 10,
+  "word_count": 138,
+  "answer": [
+    {
+      "content": "Hey Optimists!\n\nCall is starting in ~20 minutes. I also added the agenda/slides to the post\nabove.\n\nWe have a lot to talk about today including Season 3, Bedrock Upgrade, Grants\nCouncil Kickoff, New Operating Manual, and RPGF!\n\nSee you soon!\nMichael",
+      "created_at": "2023-01-31T17:38:21.130Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2023-01-29T18:28:16.380Z"
+}

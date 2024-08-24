@@ -1,0 +1,28 @@
+title: Contract Addresses
+lang: en-US
+description: This reference guide lists all the contract addresses for Mainnet and Testnet.
+
+import { Callout } from 'nextra/components'
+import { L1ContractTable } from '@/components/L1ContractTable'
+import { L2ContractTable } from '@/components/L2ContractTable'
+
+Contract Addresses
+
+This reference guide lists all the contract addresses for Mainnet and Testnet, as found on the superchain-registry. 
+See the Smart Contracts Overview for high-level details and access to the source code.
+
+Mainnet
+
+Ethereum (L1)
+
+Ethereum Legacy Contracts (L1)
+
+OP Mainnet (L2)
+
+OP Mainnet Legacy Contracts (L2)
+
+Testnet (Sepolia)
+
+Sepolia (L1)
+
+OP Sepolia (L2)

@@ -1,0 +1,9 @@
+{
+  "title": "Joint House Call *Retrofunding 5 Edition* will be [Tuesday, August 13th @ 11:00PT / 14:00 ET / 18:00 GMT / 19:00 CET]",
+  "content": "Hey Everyone!\n\nWe will be having our next Joint House call on Tuesday where the wonderful\n@Jonas [/u/jonas] will be giving an overview of Retrofunding Round 5!\n\n\n\nJointhcc17 (1)\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/b/b40b44bb8da10a8f29bf2b325ffa61d739563046.jpeg]\nJointhcc17 (1)960×540 52.2 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/b/b40b44bb8da10a8f29bf2b325ffa61d739563046.jpeg]\n\n\n\nSee you there!\nhttps://meet.google.com/vme-ovto-jcn [https://meet.google.com/vme-ovto-jcn]\n\nMichael",
+  "views": 24,
+  "like_count": 2,
+  "word_count": 43,
+  "answer": [],
+  "created_at": "2024-08-09T17:55:09.074Z"
+}

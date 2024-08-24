@@ -1,0 +1,30 @@
+{
+  "title": "Locate Delegated Tokens",
+  "content": "Hello all,\n\nI received the intial airdrop and I proceeded to delegate my coins (or that’s\nwhat I thought at the time). I see in the explorer that I received the airdrop\nand then delegated to the OP contract 0x4200000000000000000000000000000000000042\nI can’t for the life of me find these tokens. a check on balanceof for my wallet\nshows 0 tokens. I can’t find the delegate through agora to see tokens. Not sure\nif I messed up and sent my tokens to a scam address, if that’s the case i’d like\nto at least know. Can anyone here help me locate my tokens or assist in\nconfirming if I was duped? Thanks!",
+  "views": 572,
+  "like_count": 2,
+  "word_count": 202,
+  "answer": [
+    {
+      "content": "Hey @geehold.\n\nShare your address and I’ll happily take a look for you!",
+      "created_at": "2024-03-05T10:02:44.385Z",
+      "trust_level": 2,
+      "username": "Sinkas",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Hi there,\n\nI delegated to myself as an individual delegate, but from my understanding you\nshould still have your OP in your wallet. I.e. Delegation doesn’t take the OP\nfrom your wallet, so if your wallet balance is 0 tokens then I fear they may\nhave been lost or scammed.\n\nHappy for anyone with more experiencing of delegating to external parties to\ncorrect me here, if my understanding is wrong.",
+      "created_at": "2024-03-05T05:19:33.075Z",
+      "trust_level": 2,
+      "username": "Axel_T",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-03-05T04:00:39.252Z"
+}

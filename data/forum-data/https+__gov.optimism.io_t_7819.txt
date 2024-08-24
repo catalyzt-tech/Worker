@@ -1,0 +1,40 @@
+{
+  "title": "Let’s have a crypto meeting in Rio de Janeiro 🇧🇷",
+  "content": "Hey guys!\n\nI’ll be in Rio de Janeiro next week and I want to organise a meeting for\n#ETHSamba :muscle:t2:\n[https://emoji.discourse-cdn.com/twitter/muscle/2.png?v=12] If anyone want to\njoin in there, we can plan a meeting :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]\n\nSend me a DM :heart_hands:\n[https://emoji.discourse-cdn.com/twitter/heart_hands.png?v=12]\n\nGreetings!",
+  "views": 576,
+  "like_count": 7,
+  "word_count": 112,
+  "answer": [
+    {
+      "content": "Hi Lili, if you know the web3 community in Rio I’d love your thoughts on this\nidea for testing public goods funding in a favela there:\nhttps://www.noahchonlee.com/post/how-to-find-the-best-way-to-fund-public-goods\n[https://www.noahchonlee.com/post/how-to-find-the-best-way-to-fund-public-goods]",
+      "created_at": "2024-03-15T22:31:59.775Z",
+      "trust_level": 0,
+      "username": "noahchonlee",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "How I’d love to be there! Was last year in Brazil and loved it. Enjoy!",
+      "created_at": "2024-03-21T22:41:38.259Z",
+      "trust_level": 2,
+      "username": "artespraticas",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Hey Noah!\nLet’s have a meeting, this is my telegram: piurana_inblock , we can coordinate\non there :raised_hands:t2:\n[https://emoji.discourse-cdn.com/twitter/raised_hands/2.png?v=12]",
+      "created_at": "2024-03-16T15:58:24.183Z",
+      "trust_level": 3,
+      "username": "Liliop.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-03-15T02:24:45.342Z"
+}

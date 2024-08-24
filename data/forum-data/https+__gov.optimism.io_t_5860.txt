@@ -1,0 +1,9 @@
+{
+  "title": "Rubicon - Delegate Communication Thread",
+  "content": "This thread provides a record of Rubicon’s voting history and our reasoning for\neach voting decision. Future votes will be added to this thread over time.\n\n\nOVERVIEW\n\nRubicon became a delegate and was allocated voting power as part of the Protocol\nDelegation Program\n[https://gov.optimism.io/t/protocol-delegation-program-season-3-participants/4675].\n\nVoting Address: delegate.rubicon.eth (0xaa31CB426e2C83cDa9C850874D166d7fcA836B14\n[https://optimistic.etherscan.io/address/0xaa31CB426e2C83cDa9C850874D166d7fcA836B14])\n\n\nVOTING HISTORY\n\n\nSEASON 3 CYCLE 11 (2 VOTES)\n\nUpgrade Proposal Bedrock\n[https://vote.optimism.io/proposals/114732572201709734114347859370226754519763657304898989580338326275038680037913]\n\nRubicon voted For the Bedrock Upgrade Proposal.\n\nUpgrading a live network is a difficult task that presents coordination and\ntechnical challenges to the entire Optimism community. Throughout the Bedrock\ndevelopment process, security was of paramount importance and the Collective\ndevised good practices for future upgrades. We’re excited to see the Bedrock\nimprovements in production!\n\nDelegate Suspension: Fractal Visions\n[https://vote.optimism.io/proposals/27878184270712708211495755831534918916136653803154031118511283847257927730426]\n\nRubicon voted For the suspension.\n\nIn this case, the delegate’s behavior was a clear violation of the Code of\nConduct [https://gov.optimism.io/t/delegate-code-of-conduct/3943].",
+  "views": 1247,
+  "like_count": 3,
+  "word_count": 181,
+  "answer": [],
+  "created_at": "2023-04-11T21:06:00.106Z"
+}

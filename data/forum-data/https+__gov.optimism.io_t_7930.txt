@@ -1,0 +1,60 @@
+{
+  "title": "Bootcamp Women in Web3 by Women Biz",
+  "content": "Hello, dear Optimism Collective.\n\nAbout me:\nI’d like to introduce myself: I am Briguit Reinaldo, also known as CriptoMommy\n[https://twitter.com/criptomommy], founder of Women Biz\n[https://twitter.com/HiWomenbiz], an active contributor to the Optimism\ncommunity as Speaker in different universities\n[https://www.youtube.com/@DiloconOptimismo], currently wanna - be-ambassador\nOptimism, and a beneficiary of retropgf3.\n\nSince 2023, I have been actively learning, participating, and sharing about and\nwithin our community.\n\nAbout Bootcamp “Women in Web3”\nThis year, I decided to promote our community through my passion: education. To\nthis end, together with the Women Biz community, we have launched the “Women in\nWeb3” bootcam [https://hiwomenbiz.com/women-in-web-3-bootcamp]p, a 6-week\ntraining program designed to attract more users to our ecosystem. The bootcamp\nis free in Spanish.\n\n\n\narte-bootcamp-web3-14marz_post twitter bootcamp\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/c/c634070eb43a07caacf6af899e9cd65164d4ec2f_2_690x388.jpeg]\narte-bootcamp-web3-14marz_post twitter bootcamp1920×1080 212 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/c/c634070eb43a07caacf6af899e9cd65164d4ec2f.jpeg]\n\n\n\nIn this project, we have integrated tools from our community such as:\n\n * Mirror\n * Praise\n * 1inch\n * Charmverse\n * Thirdweb3\n * Unlockprotocol\n * Zora.\n\nEach week, participants undertake practical cases and face weekly challenges to\nsolidify their learning, creating a gamified educational experience in the world\nof web3.\n\nExamples: Propuesta de tokenización de libros u obras literarias 📚 — Valeria\nValentina\n[https://mirror.xyz/0x9ae9E33BF83e7c64Fa62a509A6934f7404A9b52f/wv-gp7PlIfcbkfCrNULXxtnDxgRNpFV3tE5GvUc1Fb0]\n\nThis week we focused on Governance, taking our Optimism community as a case\nstudy. During this session, we are teaching about the Optimism forum and how to\nadd value to our community.\n\nThe project will culminate in a hackathon aimed at supporting the retrofunding\n[https://twitter.com/optimism/status/1772664308599758854?s=46] goals, seeking to\nattract new projects, especially in the areas of 1) governance and 2) onchain\ndevelopment.\n\nThe hackathon will take place on Saturday, April 27, in Lima, Peru, with 200\nattendees and the expected participation of 17 teams. 190 women from 16 LATAM\ncountries are participating in this bootcamp.\n\nI would like to invite other members of our community to collaborate on this\nproject. We are still looking for allies, judges, and prizes for the winners of\nthe hackathon.\n\nFor more details or to collaborate, you can contact me through my Telegram:\n@criptomommy [/u/criptomommy].\n\nclass attendance 1: Contract Address 0xa67fd38596712c972648b9220d5c447fc9ab482d\n| OP Mainnet\n[https://optimistic.etherscan.io/address/0xa67fd38596712c972648b9220d5c447fc9ab482d]\nClass 2: Contract Address 0x34a0f796ae96bfb7def1b9c0e6c2561f82698860 | OP\nMainnet\n[https://optimistic.etherscan.io/address/0x34a0f796ae96bfb7def1b9c0e6c2561f82698860]\nClass 3: Contract Address 0xa9a6cac293ac8d6f945d996ba0157366d2993838 | OP\nMainnet\n[https://optimistic.etherscan.io/address/0xa9a6cac293ac8d6f945d996ba0157366d2993838]\nClass 4: Contract Address 0xb7b97e62da62df7e51652abd6ea339b2506d95db | OP\nMainnet\n[https://optimistic.etherscan.io/address/0xb7b97e62da62df7e51652abd6ea339b2506d95db]\n\nI also attach links to the project’s social networks.\n\nTwitter [https://twitter.com/hiwomenbiz]\nInstagram [https://www.instagram.com/hiwomenbiz/]\nLive class in youtube [https://www.youtube.com/@hiwomenbiz/streams]\n\nThank you for your attention and I hope to have your support.",
+  "views": 1819,
+  "like_count": 167,
+  "word_count": 8640,
+  "answer": [
+    {
+      "content": "While I’m a huge fan of bringing new people into the space, I don’t understand\nthe need to focus on any specific subset of people. Crypto is inherently open,\npermissionless, borderless, etc. Creating events that exclude people is really\ncounterintuitive to the whole idea of crypto imo. I’m a huge supporter of anyone\nbuilding in the space, and I don’t understand why we would focus on any\nparticularly identity based group when really, anyone can come and build.\n\nI would love to hear the counterargument on why these types of initiatives are\nnecessary and what the intended benefit is here.\n\nObviously I am female and support other females in the space, but really, I\nsupport anyone here that’s here and contributing in a positive way.",
+      "created_at": "2024-04-06T19:16:58.319Z",
+      "trust_level": 3,
+      "username": "katie",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": "Awesome work @criptomommy [/u/criptomommy] ! We need more such programs for\nWomen in Web3 and especially to educate women about governance so that they can\nbecome leaders in such communities.\n\nI’m not a Spanish speaker but please let me know if I can help in any way\npossible. I’ve been an active member of the DAO and can contribute towards\ndesigning curriculum/learning sessions.\n\nStay Optimistic! :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]:sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]",
+      "created_at": "2024-04-06T15:01:09.020Z",
+      "trust_level": 2,
+      "username": "Hirangi_Pandya",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": "Hello everyone! I’m Lali :grinning:\n[https://emoji.discourse-cdn.com/twitter/grinning.png?v=12]\n\nI’m glad to share my experience as part of the Women in Web3 bootcamp. As a\ncurrent participant, I can confidently say that I am not only captivated by the\ncontent but also deeply impressed by the supportive network and sense of\ncommunity we’ve built together.\n\nCurrently, I am studying programming at university, and this bootcamp has\nignited a newfound excitement within me. Beyond the exceptional content, what\ntruly sets this program apart is its well-organized structure, engaging\nchallenges, and gamification elements, which have propelled all of us to learn\nat an accelerated pace.\n\nFor me, this bootcamp has become a springboard for delving deeper into the world\nof blockchain every day. However, what’s most significant to me is the\nopportunity to connect with other women who share my passion for using\ntechnology for a purpose beyond monetary gain. This aspect is particularly\nimportant to me. While we could certainly study this independently, I am\nconfident that many of us would not have had the courage to do so if this\nprogram hadn’t been specifically tailored for women.\n\nDespite progress in reducing the gender gap, it’s important to acknowledge that\nin Latin America, these processes often unfold more slowly. The majority of us\n(with exceptions, of course) feel more comfortable starting our journey in a\nwomen-centered environment. Unfortunately, we still feel very insecure about\nthis type of knowledge, perhaps because of imposter syndrome.\nI celebrate every step we take forward, and I am grateful for this opportunity.\nThere was so much new knowledge that I have that it would be impossible to list\nthem. From the most basic of opening a wallet, to creating a smart contract,\nmining an NFT, staking, and getting to know wonderful communities like these.\nA part of me now wakes up each day with excitement, knowing that I’ll be\nlearning something new, eagerly anticipating our next session every Saturday.\n\nThanks @criptomommy [/u/criptomommy] and all the beautiful people that are\nactually help us to know more about web3!",
+      "created_at": "2024-04-07T22:34:44.657Z",
+      "trust_level": 0,
+      "username": "LaliYa",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": "The reason I asked about harm is because if we can’t find anything potentially\nharmful about it, then why suppress it? To me “not doing good” isn’t enough to\njustify trying to stop or change something that someone else wants to do.\n\nTo continue with the token gating example, yes, anyone that owns the token can\nparticipate, but that’s a filter all on its own, isn’t it? Not everyone has\ndisposable income for participation tokens, not everyone can navigate crypto\nwell enough to figure out how to buy a token, not everyone has a phone with\ninternet access. Every group seems to have some kind of filter, whether\nintentional or not.\n\nBased on your last comment I’m wondering if you are pointing at the difficulty\nfor an individual to overcome a filter being where the issue could lie. Like,\nit’s easier to earn some money to buy a token to join a group than to change\nyour DNA.\n\nDoes that resonate for you? Is there something still missing?\n\nI’m very interested in this problem of exclusion and appreciate the dialogue\nhere. I think it would be incredible to have a single app or interface where\nevery human on Earth is participating somehow.",
+      "created_at": "2024-04-07T18:38:02.240Z",
+      "trust_level": 2,
+      "username": "maenswirony",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "Really like this project because it lets women to access from zero to the next\nlevel of web3. The main reason with this project is to massive the number of\nwomen in the ecosystem, also I’d like to collaborate with they to prepare them\nto participate in the next hackathons.\n#latinwomenhaspower & potential :rocket:\n[https://emoji.discourse-cdn.com/twitter/rocket.png?v=12]",
+      "created_at": "2024-04-05T04:10:25.099Z",
+      "trust_level": 3,
+      "username": "Liliop.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    }
+  ],
+  "created_at": "2024-04-04T22:56:13.825Z"
+}

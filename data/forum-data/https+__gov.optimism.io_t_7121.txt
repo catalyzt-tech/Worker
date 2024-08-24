@@ -1,0 +1,9 @@
+{
+  "title": "OPDelegate.com Update (Season 4 Grant)",
+  "content": "Hey Everyone!\n\nThis post is long overdue and I apologize for that. I am making this post to\nupdate everyone on the status of the OPDelegate website which received a grant\nin Season 4.\n\nHere\n[https://drive.google.com/file/d/1fSqZ4nyV9UHOmx_QPsiTmwK4hrg1kpde/view?usp=sharing]\nis a recent demo of how the website is looking. We also have a lot more work\nfinished on backend data streams/compute. I’m happy to share that code with\nanybody interested (dm me) but it would need to be hardened for security before\npublishing to the public.\n\nWe had an issue where a backend developer decided to leave the project. I made\nthe dumb decision to take on that role myself, which led to the delays due to my\ntime being taken by other responsibilities.\n\nThat said, work is continuing in earnest and I am incredibly excited to make\nthis a tool that becomes a home-base for delegates in the OP Collective! I’m\nhappy to answer any questions anyone might have.\n\nMichael",
+  "views": 460,
+  "like_count": 4,
+  "word_count": 171,
+  "answer": [],
+  "created_at": "2023-11-18T11:55:24.588Z"
+}

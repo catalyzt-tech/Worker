@@ -1,0 +1,9 @@
+{
+  "title": "Recap: Community Call #8 (November 8th)",
+  "content": "Hey Everyone!\n\nGreat discussion today. Here is the recording of the call: November 8 2022\ncommunity call 8.mp4 - Google Drive\n[https://drive.google.com/file/d/1qGhSZB0cZ148liIIoqWUf6bs27pjG80O/view?usp=share_link].\n\nNotes from the call:\n\n * Lots of new governance posts dropped! Best place to find them is here: Guide\n   to Season 3: Course Correcting\n   [https://gov.optimism.io/t/guide-to-season-3-course-correcting/3942]\n * We will be distributing committee funds using a hybrid approach, 1/2\n   distributed equally and 1/2 in proportion to the # of proposals reviewed.\n * In response to Messari asking about the appropriate place for the proposal,\n   look at the new posts & we may have some kind of “service provider” proposal\n   type in the future.\n * Lots of discussion happening already in this thread\n   [https://gov.optimism.io/t/season-2-feedback-thread/3818/34] but we discussed\n   improvements on committees, participation, and effectiveness of grants\n * Idea: have a delegate sponsor a proposal\n * Proposers getting feedback from multiple committees was confusing\n * Idea: Maybe have a single bigger committee\n * Idea: Don’t limit the # of committees, accept all who pass.\n * Committees did seem help out delegates as far as effort to vote goes.\n * Idea: send survey to proposers to see how the process was for them.\n * Idea: have scaling vote threshold for amount of OP requested. For example,\n   4mil OP grants should have more buyin than 100k grants\n * General consensus that we would love having the committee recommendations\n   directly in the snapshot description for voting.\n\nIf I missed anything let me know and I’ll add it!\n\n-Michael :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]",
+  "views": 1813,
+  "like_count": 6,
+  "word_count": 246,
+  "answer": [],
+  "created_at": "2022-11-08T22:32:17.770Z"
+}

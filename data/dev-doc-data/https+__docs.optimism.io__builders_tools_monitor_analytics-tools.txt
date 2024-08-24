@@ -1,0 +1,52 @@
+title: Analytics Tools
+lang: en-US
+description: Learn about platforms you can use to gather analytics and setup customizations about OP Mainnet.
+
+import { Callout } from 'nextra/components'
+
+Analytics Tools
+
+The following guide lists platforms you can use to gather analytics and setup customizations about OP Mainnet.
+
+Blocknative
+
+Blocknative lets you decode and analyze OP Stack Batches submitted to the Ethereum L1. You can inspect, analyze, decode, and download the data of any batch – confirmed on-chain or not – via public APIs or visually through the Ethernow Explorer. Below you can find links to the different resources:
+
+Batch Decoding API: decode OP Stack Batch transactions into its human-readable, JSON format.
+Blob Archive API: take any versioned hash of an OP Stack Blob and receive the blob data (even beyond the 4096 epoch window of storage).
+Mempool Archive: Analyze any OP Stack transaction that was in the Ethereum mempool to see detection time, time pending, gas, etc.
+Ethernow explorer: Visually see transactions and batches enter the mempool and get organized into blocks. Use this filter to see OP Stack Batches enter the mempool and land on-chain.
+
+Tenderly
+
+Tenderly monitoring stack lets you inspect any transaction execution on OP Mainnet or OP Sepolia.
+
+You can inspect the state of your verified contract in any step of the transaction's execution, as well as step into or over function calls.
+The level of detail the Tenderly dashboard presents will reduce your development time as well as help you understand the execution flow of transactions.
+It helps you to inspect states at every instance of transaction and gives a platform to trace transactions. You can also simulate pending (or any other historical) transactions and see their exact outcomes.
+
+monitor wallets
+setup real-time alerts for smart contracts
+automate your responses to alert triggers with custom webhooks
+
+Dune Analytics
+
+Dune Analytics allows anyone to create dashboards that present information about OP Chains (OP Mainnet, Base, and Zora are available). See Dune Docs for more info.
+You can find a list of community created dashboards for OP Chains here, or create your own dashboard.
+
+Here are some of our favorite dashboards so far:
+
+OP Chains / Superchain - L2 Activity, Chain Economics
+OP Chains / Superchain - Popular Apps & Project Usage Trends
+By OP Chain - L2/L1 Chain Economics
+OP Token House Delegates
+Superchain NFTs
+
+Additional Tools and Resources
+
+Here are some additional tools and resources for OP Mainnet analytics and development:
+
+DeFi Stats: OP Mainnet's DeFiLlama Page
+L2 Usage and Comparison: growthepie
+OP Analytics (Incentive Tracking, Helper Functions, Public Analysis): OP Analytics on GitHub
+Contribute to NumbaNERDs: Issues on GitHub

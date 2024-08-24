@@ -1,0 +1,60 @@
+{
+  "title": "[Mission Request] Optimism as base for LRTs",
+  "content": "OPTIMISM AS THE PRIMARY L2 FOR LRTS\n\nDelegate Mission Request Summary: Bolster presence of LRTs on Optimism as the\nprimary L2 for hosting LRT liquidity. LRTs cumulatively have a TVL of $11Bn+,\nmostly concentrated on Mainnet.\n\nS6 Intent [https://gov.optimism.io/t/season-6-intents-ratification/8104]: Intent\n3a: grow application devs on OP Mainnet\n\nProposing Delegate/Citizen: Boardroom (Grants council)\n\nTotal grant amount: 600,000\n\nShould this Mission be fulfilled by one or multiple applicants: Upto 6 (Maximum\n120K OP for each applicant)\n\nHow will this Mission Request help accomplish the above Intent?\n\n * Currently more than $10 Billion in liquidity is locked as LRTs on Mainnet.\n   Shifting even a fraction of this liquidity to Optimism from Mainnet will be\n   significant.\n * LRT liquidity is still nascent on most of the L2s, which means they are still\n   in process to expand to L2s, giving Optimism an opportunity to be an early\n   mover L2 in this space.\n * Increased liquidity on Optimism, will help for further structured product\n   integrations within Optimism, increasing developer concentration.\n * Mission funding specifically for LRT projects with staking tokens, and not\n   defi protocols that use the tokens of these projects\n\nWhat is required to execute this Mission Request?\n\n * Grantees must launch their proposed project by the half time mark of the\n   Mission period, which in this case is 3 months.\n * The grant to the project should be used to incentivize users to use the\n   project and not for development/deployment to Optimism.\n\nHow should governance participants measure impact upon completion of this\nMission?\n\n * Milestones: Milestones should represent tangible progress towards the\n   deployment of the tool or application, and also also clearly define the\n   features that will be complete and useable by the end of the grant period.\n   * Active Restaking infrastructure from the grantee project along with the\n     rewards/incentives/points system that is also available on mainnet\n   * Milestones tied to the total liquidity that the projects bring on Chain\n * Metrics: Did the project succesfully deploy? Is the project useable\n   end-to-end as described in the application? Is the project reaching it’s\n   desired users?\n   * Metrics to be measured in terms of the verifiable Token supply and number\n     of users, using Optimism block explorer as a source of truth\n * Impact: How many users did the grantee bring on with their project? How large\n   is the design-space in applications unlocked by this project? How has this\n   project contributed to developer growth?\n\nHas anyone other than the proposer contributed to this Mission Request? No\n\n\nWHICH METRIC WILL THE SUCCESS OF THIS MISSION REQUEST BE EVALUATED AGAINST?\n\nThe North star metric against which this Mission Request should be evaluated is\nTVL, because the initiatives outlined above aim to attract an influx of\nadditional assets. This metric was suggested by the foundation and approved by\nthe Grants Council.",
+  "views": 519,
+  "like_count": 6,
+  "word_count": 1235,
+  "answer": [
+    {
+      "content": "A North Star Metric has been added at the bottom of this Mission Request in an\neffort to enable the Collective to make data-driven decisions. By using a single\nmetric for each Mission Request, the Collective is better able to evaluate the\nperformance of all the Season 6 missions in a standardized manner, which will be\ncritical when the Collective makes decisions about Intents, budgets, or other\ncritical components of governance.",
+      "created_at": "2024-07-19T19:50:52.071Z",
+      "trust_level": 4,
+      "username": "system",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "Great Mission Request, we definitely need to tap into the LRTs.\n\nDoes this mission intends to help launch a new LRT protocol or aims at\nattracting the existing ones on L1 to OP Mainnet?\n\nWhat type of applicant would successfully complete this mission?",
+      "created_at": "2024-07-08T22:43:17.322Z",
+      "trust_level": 2,
+      "username": "Chain_L",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Hey @Chain_L [/u/chain_l] interesting question. Our intent is to attract\nexisting LRT projects on mainnet to OP Mainnet. The requirement is for\napplicants to have sizeable liquidity on Mainnet, regardless of the fact that\nthey have launched on OP Mainnet or not.\n\nThe Grant should only be used to incentivise users of the Grantee projects to\nmint those tokens on OP Mainnet. We see that happening in two ways\n\n 1. Projects are already live on both ETH and OP Mainnet: High liquidity on ETH\n    Mainnet, Infrastructure already exists on OP Mainnet as well, initial\n    traction is also there.\n 2. Projects Live on ETH Mainnet but not on OP Mainnet: Project still eligible\n    for Grants, but they have to carry out the deployment to Optimism on their\n    own resources or apply for builders grants separately. They will require to\n    link deployment as one of the initial milestones for grant payout and give a\n    detailed plan of deployment of incentives for the Mission period\n\nWould love to hear your thoughts on anything that we can add here to make it\neven better for the performance of this mission.",
+      "created_at": "2024-07-09T12:55:26.825Z",
+      "trust_level": 2,
+      "username": "Boardroom",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "thank you @Deelabs [/u/deelabs] for the feedback on the mission. We are\nconfident that OP will be at the forefront of capturing the latest DeFi\nnarrative which will ultimately help in growing the superchain.",
+      "created_at": "2024-07-16T16:29:12.407Z",
+      "trust_level": 2,
+      "username": "Boardroom",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "Hey @pete [/u/pete] thank you for the question, this mission request was\npartially inspired by the previous Grants council request for LSTs\n[https://gov.optimism.io/t/ready-to-vote-making-optimism-a-primary-home-of-liquid-staked-eth/7456]\nby @jackanorak [/u/jackanorak]\n\nSo in that aspect we would like to fund the LRT category that has not been\nfocused on before for grant funding. LST projects will still be eligible to\napply for the Growth Experiments grants which award up to 250K OP to projects.\n\nWe welcome any community suggestions regarding this Mission request scope.",
+      "created_at": "2024-07-17T16:02:31.453Z",
+      "trust_level": 2,
+      "username": "Boardroom",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-07-07T06:19:18.220Z"
+}

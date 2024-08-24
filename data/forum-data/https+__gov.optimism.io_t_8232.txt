@@ -1,0 +1,9 @@
+{
+  "title": "How is blockchain being appllied in supply chain management and logistics?",
+  "content": "In supply chain management and logistics, blockchain provides clarity by\nenabling real-time tracking of goods from production to delivery. It ensures\ntraceability by assigning unique digital identifiers to products, combating\ncounterfeiting, and verifying authenticity. Blockchain\n[https://www.bsetec.com/blockchain-development-company] streamlines processes\nwith smart contracts, automating tasks like payments and compliance checks, and\nreducing paperwork and errors. Moreover, it improves efficiency by eliminating\nintermediaries and facilitating faster decision-making through real-time data\nsharing.",
+  "views": 217,
+  "like_count": 0,
+  "word_count": 77,
+  "answer": [],
+  "created_at": "2024-05-30T03:06:06.886Z"
+}

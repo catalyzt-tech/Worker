@@ -1,0 +1,30 @@
+{
+  "title": "Token House Call will be [Tuesday, June 4th @ 11:00PT / 14:00 ET / 18:00 GMT / 19:00 CET]",
+  "content": "Hey Everyone!\n\nWe have our token house call coming up Tuesday, June 4th!\n\nIf you’d like to add anything to the agenda, comment below.\n\nAlso, new delegates, if you’d like to introduce yourself to the collective,\nthere will be a time for a quick intro at the start of the call!\n\nSee you there!\nMichael\n\n\n\ntk cc s6 m4\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/d/d8b2c86a2b4a1fd9eb5f7e9f867aefa6317f13b0_2_690x388.jpeg]\ntk cc s6 m4960×540 140 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/d/d8b2c86a2b4a1fd9eb5f7e9f867aefa6317f13b0.jpeg]\n\n",
+  "views": 301,
+  "like_count": 7,
+  "word_count": 85,
+  "answer": [
+    {
+      "content": "I am very excited to talk BRIEFLY about the plans for Pairwise this round\n:smiley: [https://emoji.discourse-cdn.com/twitter/smiley.png?v=12]",
+      "created_at": "2024-06-04T17:54:41.283Z",
+      "trust_level": 2,
+      "username": "Griff",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Thanks for coming on Griff!",
+      "created_at": "2024-06-04T19:30:17.721Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-05-29T23:28:34.532Z"
+}

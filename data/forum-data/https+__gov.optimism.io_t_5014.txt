@@ -1,0 +1,60 @@
+{
+  "title": "[DRAFT] Upgrade Proposal: Bedrock",
+  "content": "EXECUTIVE SUMMARY\n\n> In short, what is this upgrade proposal?\n> Impacted stakeholders & expected outcomes\n> Why the Collective should upgrade\n\nThe Optimism Foundation is proud to propose the first protocol upgrade to the\nOptimism Collective: Bedrock. The Bedrock release of the OP Stack represents the\nculmination of years of research and development by the Ethereum scaling\ncommunity and is a complete rewrite of the core components of the Optimism\narchitecture. This upgrade offers a new level of modularity, simplicity, and\nEthereum equivalence for Layer 2 solutions, providing unprecedented performance\nand functionality.\n\nMost users will not be impacted by the upgrade as the current mainnet is already\nEVM-equivalent. Users and projects that run both full and archive nodes, make\nuse of deposits and withdrawals, and make assumptions about the block time on\nOptimism Mainnet will need to take action to prepare for the upgrade. To help\nensure a smooth transition, a thorough changelog and stakeholder-specific\nrequirements can be found below.\n\nIn addition to these technical improvements, the Bedrock upgrade is a\nsignificant step towards the multi-chain future. By creating a shared standard,\nthe OP Stack\n[https://optimism.mirror.xyz/fLk5UGjZDiXFuvQh6R_HscMQuuY9ABYNF7PI76-qJYs],\nBedrock sets the stage for a Cambrian explosion of aligned L2s. This is an\nopportunity for leadership in the Ethereum ecosystem.\n\nWe are confident that the post-Bedrock experience will be a positive change for\ndevelopers in the Optimism ecosystem and have received consistent excitement for\nthe upgrade from our partners. We are committed to making this upgrade a success\nand are eager to see the results in the months and years to come.\n\n\nTECHNICAL SUMMARY\n\n> Overview of architectural changes\n> Link to all protocol/API/tech specifications\n> Overview of ongoing security considerations incl. all audits and findings\n\nAt the highest level, the Bedrock release implements a modular architecture,\nseparating the OP Stack into 3 components: consensus, execution, and settlement.\nThese designs borrow heavily from the Engine API introduced for the Merge, and,\nas a result, an Ethereum execution client can be converted into an Optimism\nexecution client in <2,000 lines of code [https://op-geth.optimism.io/]. This is\na huge win, paving the way for a multi-client future\n[https://medium.com/ethereum-optimism/our-pragmatic-path-to-decentralization-cb5805ca43c1],\nand allowing for maximal use of Ethereum’s battle-tested code.\n\nTechnical documentation for Bedrock is split into 3 main parts:\n\n * An explainer\n   [https://community.optimism.io/docs/developers/bedrock/explainer/] detailing\n   Bedrock and its major architectural choices.\n * Protocol specifications\n   [https://github.com/ethereum-optimism/optimism/tree/develop/specs] for all\n   major components of the codebase.\n * Developer documentation\n   [https://community.optimism.io/docs/developers/bedrock/differences/] for\n   those using any APIs affected by the release.\n\nAdditionally, a summary of the security measures and considerations for Bedrock\ncan be found in this blog post by OP Labs\n[https://dev.optimism.io/bedrock-security/], which includes links to security\naudits and testing measures. Notably, the Bedrock release introduces a 2-phase\nwithdrawal process, doubling down on bridge security, which proved to be a\nprimary risk factor for chains in 2022. There is also a community security\ncontest currently live [https://app.sherlock.xyz/audits/contests/38]. This\nprogram provides strong incentives for high-severity bugs, so it’s possible that\nthe program uncovers new findings. Results will be known on February 6, before\nany voting starts.\n\n\nIMPACT SUMMARY\n\n> Changes in performance characteristics\n> Time-of-upgrade considerations (downtime, etc)\n> Links to exhaustive upgrade documentation for impacted stakeholders\n\nThe Bedrock release enables performance improvements across the board, including\ntransaction costs, throughput characteristics, and sync speeds. A detailed list\nof performance metrics for the release will be published by next week, with a\nlink updated here when ready.\n\nWe estimate that the upgrade to Bedrock will take <4 hours. Unlike previous\nupgrades to Optimism, this release will not require a “regenesis,” and historic\nchain data will still be accessible after the upgrade. As such, little action is\nrequired from end-users of Optimism other than being aware of that timing,\nduring which deposits and transactions will be paused.\n\nWhile the upgrade strictly improves on EVM equivalence, some application\ndevelopers may be affected. While we have been in active touch with major\npartners, the developer community has also been actively notified over the past\nfew months in 1:many communications. We maintain the following documentation\npages for impacted developers:\n\n * A guide by persona\n   [https://community.optimism.io/docs/developers/bedrock/differences/#guide-by-persona]\n   on what most developers need to prepare for the upgrade.\n * A guide specifically for node operators\n   [https://community.optimism.io/docs/developers/bedrock/node-operator-guide/],\n   which are impacted most by the upgrade.\n * A general FAQ page\n   [https://community.optimism.io/docs/developers/bedrock/upgrade-guide/#] for\n   the upgrade.\n\n\nACTION PLAN\n\n> Mainnet Upgrade Timing\n> Contingency plans in case of last-minute bugs or issues\n> Plan for communication and education to the community\n\nIf this vote passes, the Bedrock upgrade will be scheduled for execution 2 weeks\nafter the vote passes, on March 15, at 9:00 AM PST.\n\nThe upgrade overview\n[https://community.optimism.io/docs/developers/bedrock-temp/upgrade-guide/#upgrade-overview]\ndocumentation page describes mechanically how the upgrade will be executed if\napproved by the Token House, and the code here\n[https://github.com/ethereum-optimism/optimism/tree/develop/op-chain-ops]\nimplements the migration logic from the old chain to Bedrock.\n\nOptimism’s Goerli testnet has already been successfully upgraded, with major\npartners following suit, without significant setbacks. However, in the event\nthat substantial new information comes to light between a successful vote and\nexecution of the upgrade, this proposal includes two fallback scenarios:\n\n * In the event that a specific application has not prepared for the upgrade,\n   and doing so would pose significant risk of end-users being negatively\n   misled, then we will delay the execution of the upgrade by approximately 1-2\n   weeks in order to provide additional preparation time.\n * In the event that a significant, new security risk is discovered, we may\n   cancel the upgrade, requiring a new vote once the community has had time to\n   react.\n\nThe Optimism Foundation and OP Labs will continue public communication efforts\naround the upgrade, including public communications and tweets reminding\nstakeholders of the upgrade in the weeks, days, and hours leading up to the\nupgrade.\n\n\nCONCLUSION\n\nThis proposal outlines the Optimism Collective’s first Protocol upgrade of\nOptimism Mainnet to the Bedrock release. This upgrade aims to provide\nunprecedented modularity, simplicity, and Ethereum equivalence to the L2\nnetwork, with positive impacts on performance and security. Bedrock is the\ncodebase which will help Optimism stand the test of time, and is also\npreparatory step towards the multi-chain future.\n\nWe expect the upgrade will take around 4 hours, with no loss of historical data.\nDetailed technical specifications and impact summaries are available for the\nupgrade.\n\nWe strongly believe that the Collective should upgrade Optimism Mainnet to the\nBedrock release, take advantage of the benefits it brings, and to continue to\nplay a leadership role in the scaling community.\n\nFor any further questions or concerns, we will be hosting an AMA on February 8th\nat 18:30 GMT in Discord\n[https://discord.com/events/667044843901681675/1071089483891621928] to go over\nthe proposal with team members from the Optimism Foundation and OP Labs.",
+  "views": 18262,
+  "like_count": 408,
+  "word_count": 4092,
+  "answer": [
+    {
+      "content": "This is so exciting to read, and I think the potential this could unlock - if\nall goes to plan here - is tremendous for enabling global adoption. This\npotential here of mass on-boarding…perhaps for the first time becoming real.\n\nLooking forward to following the progress!",
+      "created_at": "2023-02-01T23:43:46.602Z",
+      "trust_level": 2,
+      "username": "0xWeston",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 18
+    },
+    {
+      "content": "A milestone, congrats to the OP Labs and OF teams! I’d recommend information\nabout and links to third-party audits being in the main proposal itself; instead\nof being behind a link - as it is critical information.",
+      "created_at": "2023-02-02T02:13:23.434Z",
+      "trust_level": 2,
+      "username": "polynya",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 17
+    },
+    {
+      "content": "what a fantastic moment in Ethereum scaling history- I’m excited beyond belief\nand incredibly grateful for the team pouring energy into co-ordinating this\nreality. values win, persistence is key.",
+      "created_at": "2023-02-02T00:14:42.062Z",
+      "trust_level": 2,
+      "username": "cjh",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 12
+    },
+    {
+      "content": "The upgrade guide is a very nice way to explain exactly what is happening\nthrough the hard fork and find the process very intriguing.\nWe will make sure our community is aware of the upgrade prior to the event.",
+      "created_at": "2023-02-02T00:04:09.268Z",
+      "trust_level": 2,
+      "username": "FractalVisions",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 11
+    },
+    {
+      "content": "good,Looking forward to following the progress!",
+      "created_at": "2023-02-02T01:27:43.384Z",
+      "trust_level": 0,
+      "username": "shaw",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 9
+    }
+  ],
+  "created_at": "2023-02-01T20:59:03.044Z"
+}

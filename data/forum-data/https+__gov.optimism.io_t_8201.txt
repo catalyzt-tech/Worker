@@ -1,0 +1,30 @@
+{
+  "title": "Discussion OP token on all Superchain",
+  "content": "We’re growing from 0 to 13 superchains and 38 OP Stack chains, yet the OP token\nis only available on the OP Mainnet.\n\nThe integration of OP tokens across all superchains is essential for maximizing\nthe potential of these blockchain networks. By ensuring that OP tokens are\navailable on every superchain, we can significantly boost overall awareness and\nadoption. This uniformity will create a seamless user experience.\n\nFurthermore, without the presence of OP tokens on every superchain, there’s a\nlost opportunity for OP, as some chain users, like Base and Mode users, may\nremain unaware or underutilized in relation to OP. This fragmentation can hinder\nthe growth and effectiveness of the superchain network as a whole. By\nstandardizing OP tokens across all chains, we ensure that every participant,\nregardless of the specific chain they use, has equal access to the benefits and\nfunctionalities offered by OP. This will not only drive engagement and\ninnovation within the network but also establish OP as a central, unifying asset\nin the blockchain community.\n\nWhen more developers and users know about the OP token, they will likely adopt\nthe Optimistic vision, OP Stack, and retroPGF.\n\nIn conclusion, making OP tokens available on all superchains is a strategic move\nthat will elevate the entire ecosystem. It will enhance interoperability,\nincrease user engagement, and ensure that the advantages of OP are universally\nrecognized and utilized. This approach will create a more integrated and dynamic\nblockchain environment, ultimately driving greater success and innovation across\nall superchains.",
+  "views": 442,
+  "like_count": 11,
+  "word_count": 678,
+  "answer": [
+    {
+      "content": "Hi there - I am a contributor at OP Labs, and my opinons are my own.\n\nThe vision for native interoperability (interop) is to grow the Superchain by\nmaking liquidity and users fungible and quickly portable across chains. With\ninterop, any user or app in the Superchain is always just a block away. Interop\nwill enhance Ethereum’s scalability through a network of interoperable L2s,\nbuilt with industry-leading teams such as Base, Zora, and Worldcoin.\n\nNative interoperability enables any app or asset in the Superchain to be\naccessed through low latency, secure, cross L2 messaging. End users benefit with\nquick, intuitive cross chain transactions that don’t require bridging or network\nswitching. Interoperability can be as low-latency as the involved sequencers can\nfacilitate, theoretically down to intra-block messaging latency, thanks to\noptimistic execution and low overhead cross L2 verification.\n\nThe Optimism Collective is rolling-out interop in a phased approach:\n\n 1. Later this month, launching an intent-based fast bridging solution in\n    partnership with an ecosystem partner that brings 50% faster and 99% cheaper\n    bridging transactions for modest ETH sends, enabling effortless gas\n    transfers between chains in the Superchain.\n 2. Later in the year (tentative), launch low latency, native interop secured by\n    permissionless fault proofs. This means any user in the Superchain can\n    migrate assets to any other chain in the Superchain in 1-block.\n\nAs it relates to OP - OP is a governance token and our goal is to enable users\nto move OP (and other tokens in the Superchain) to chains in the Superchain\nwhile still participating in governance. With governance approval, we expect\nthis to ship alongside native interop secured by permisonless fault proofs.\n\nInterop is actively in development by core developers from OP Labs, Agora and\nexternal contributors including Wonderland. The interop spec\n[https://specs.optimism.io/interop/overview.html] is public and the Optimism\nCollective is building in the open - including sharing overviews of the design\non YouTube [https://warpcast.com/zain/0x71bc6e76] and creating a forum to get\nfeedback from developers\n[https://github.com/ethereum-optimism/specs/discussions/128#discussion-6511488],\nand discussing design documents\n[https://github.com/ethereum-optimism/design-docs/pull/9] for key components.\n\nTLDR - Thank you for your feedback! Your suggestion is part of the core interop\nroadmap and if you have any other feedback on the interop technical spec please\njoin the discussion on GitHub!",
+      "created_at": "2024-06-03T18:57:54.010Z",
+      "trust_level": 1,
+      "username": "zainbacchus",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Great take! Totally agree.\n\nIMO this should be for all chain tokens, not only OP, as a more holistic and\nSuperchain-aligned approach.\n\nPS: first comment on the forum :sweat_smile:\n[https://emoji.discourse-cdn.com/twitter/sweat_smile.png?v=12]",
+      "created_at": "2024-05-31T16:32:19.554Z",
+      "trust_level": 1,
+      "username": "pcbo",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2024-05-25T09:51:47.152Z"
+}

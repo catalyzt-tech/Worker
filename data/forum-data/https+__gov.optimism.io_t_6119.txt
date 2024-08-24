@@ -1,0 +1,50 @@
+{
+  "title": "How to Get a Grant",
+  "content": "Get a Grant [https://community.optimism.io/docs/governance/get-a-grant/#]\n\nIf the process is still confusing after reviewing this guide, please leave\nfeedback or ask unanswered questions here\n[https://gov.optimism.io/t/how-to-get-a-grant-feedback/6057].",
+  "views": 2525,
+  "like_count": 17,
+  "word_count": 230,
+  "answer": [
+    {
+      "content": "We should not only teach how to obtain a grant but also emphasize the importance\nof transparency in managing grant finances.\n\nAs a community, we can collaborate by sharing templates for effective financial\nreporting and utilizing on-chain tools that enhance visibility of the impact,\nbeyond just relying on Optimism’s impact metric.\n\nIt’s essential to instill these practices regardless of whether they are\nRetroPGF; integrating accountability measures with grants is crucial.\n\n> “With great power comes great responsibility,”\n\nand in the realm of grants, it translates to great accountability.\n\nAs Margaret Mead wisely said,\n\n> “Never doubt that a small group of thoughtful, committed citizens can change\n> the world; indeed, it’s the only thing that ever has.”\n\nLet us ensure that with every grant, there is a commitment to transparency and\nresponsible management.",
+      "created_at": "2024-06-19T22:36:31.107Z",
+      "trust_level": 2,
+      "username": "awstian",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Hello\nAm in to please to understand for what are the process for one grand to sucess\nor access of have it\nSo appreciate for your respond",
+      "created_at": "2024-03-24T20:13:44.065Z",
+      "trust_level": 1,
+      "username": "1311832119",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "(post deleted by author)",
+      "created_at": "2024-08-16T14:54:55.772Z",
+      "trust_level": 2,
+      "username": "awstian",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "I would like to know how to get this grant would like to create community social\ngrant on onchain education and digital identity",
+      "created_at": "2024-07-11T06:04:45.221Z",
+      "trust_level": 1,
+      "username": "Tufa",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2023-06-16T10:11:36.248Z"
+}

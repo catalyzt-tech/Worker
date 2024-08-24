@@ -1,0 +1,60 @@
+{
+  "title": "Committees: Next Steps for Season 2",
+  "content": "We’ve made it through Special Voting Cycle #5 and we’re excited to welcome 4 new\ncommittees for Season 2! This post will provide committees with the information\nthey need to get up and running in Season 2. If you have additional questions,\nplease comment in this thread or reach out to @lavande [/u/lavande]#3900 in\nDiscord.\n\nCommittees: Next Steps for Season 2:\n\n * Please reference Introducing Committees\n   [https://gov.optimism.io/t/introducing-governance-committees/3238] regarding\n   committee operations and expectations\n   \n   Please note that DeFi Committee A and C will need to decide how they will\n   define their areas of focus to minimize overlap, as specified below:\n   \n   “In the event that two DeFi committees are approved, each committee should\n   handle proposals related to distinct focus areas. If >1 DeFi committee\n   proposal is submitted, each committee should specify an area of\n   specialization so that there would not be a case where two committees are\n   making recommendations on the same proposal. While committees may provide\n   recommendations for proposals that fall outside their domain, only the\n   recommendation of the most directly relevant committee will be surfaced and\n   included on Snapshot. In the event that there is a proposal that does not\n   fall clearly within any of the approved committees, it will be up to the\n   committees to decide which committee will provide a recommendation.”\n\n * Meet with your committee!\n   \n   Remember, Committee Leads will be responsible for general coordination of the\n   committee but it is up to each committee how they choose to operate\n   day-to-day. Committees will determine their own decision making frameworks\n   and processes by which they come to consensus but are expected to make these\n   public. Any updates to committee formation proposals should be noted in a\n   comment within the proposal thread.\n\n * Establish clear communication channels\n   \n   Committees may use private channels to coordinate basic committee operations\n   but committees are expected to operate as transparently as possible by\n   communicating with proposers and delegates in open channels and sharing\n   information in public forums. If you would like a Discord channel for your\n   committee, please DM vonnie610 :red_circle:\n   [https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]:sparkles:\n   [https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]#5927.\n\n * Provide feedback on proposals during Voting Cycles\n   \n   Proposers must indicate which committee they are submitting their proposal to\n   in the grant proposal template\n   [https://gov.optimism.io/t/grant-proposal-template/3233/16]. While committees\n   may choose to provide recommendations for proposals that fall outside their\n   domain, committees should primarily focus on recommendations that fall within\n   their scope. Only the recommendation of the most directly relevant committee\n   will be surfaced and included on Snapshot.\n   \n   Committees should consider whether proposals are aligned with the near term\n   goals of the Governance Fund:\n   \n   Target L1 applications with PMF: To the extent that people use crypto\n   applications, they should be using those apps on Optimism. The Governance\n   Fund should support the migration of trusted, proven applications currently\n   deployed on L1s.\n   \n   Grow population of values-aligned builders: To be the home for the next wave\n   of novel applications, the Governance Fund should support developers\n   launching novel applications that will draw new users to Optimism.\n   \n   If the grant does not help the Governance Fund achieve either of the above\n   goals, delegates should provide that feedback to proposers and consider not\n   approving the proposal.\n\n * Committees should publicly post the list of proposals they plan to review,\n   preferably in their discord channel, at the start of Week 2 so proposers are\n   aware of whether or not their proposal is being considered\n\n * Committee Leads should post committee recommendations in the Proposal\n   Discussion [https://gov.optimism.io/c/proposals/38] section of the forum\n   \n   Threads should be titled [Committee NAME + LETTER: Season X Recommendations].\n   Recommendations should be posted on a regular schedule for each Voting Cycle.\n   It is up to each committee when they post these recommendations, but they\n   should be posted, in writing by the last day of Week 2\n\n * Committee members will execute their own votes as usual\n   \n   Committee members may vote against the recommendation of their own committee,\n   but recommendations should include a list of any dissenting committee members\n   along with their reasoning.\n\n * Committees will be expected to publish a report on their process, learnings,\n   and outcomes no later than one week after the end of the Season 2.\n\n * Compensation will be distributed at the end of Season 2. This will include a\n   process to distribute $40k across committees based on contributions\n   throughout the Season. Please remember that delegates receiving compensation\n   will need to complete a KYC process conducted privately by the Foundation.",
+  "views": 2679,
+  "like_count": 36,
+  "word_count": 833,
+  "answer": [
+    {
+      "content": " * Post has been updated to specify that committees should publicly post the\n   list of proposals they plan to review on the first day of Week 2, so\n   proposers know if their proposal is being considered\n\n * Update has also been made to reflect the change that committee\n   recommendations need to be posted by the last day of Week 2",
+      "created_at": "2022-10-13T13:14:07.274Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 5
+    },
+    {
+      "content": "good job,keep building",
+      "created_at": "2022-10-31T16:03:27.220Z",
+      "trust_level": 0,
+      "username": "mcw",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "I think the project is going in a really constructive direction. I will always\nsupport you",
+      "created_at": "2022-10-31T17:12:51.794Z",
+      "trust_level": 2,
+      "username": "hait",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "good job :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12] I so\nexcited…:slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]",
+      "created_at": "2022-11-04T15:50:55.354Z",
+      "trust_level": 1,
+      "username": "andmus22",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "All good keep going we are go and develop together !",
+      "created_at": "2022-11-07T02:22:01.474Z",
+      "trust_level": 1,
+      "username": "homelukai",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2022-09-09T21:23:35.390Z"
+}

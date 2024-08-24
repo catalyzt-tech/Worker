@@ -1,0 +1,50 @@
+{
+  "title": "Recap: Community Call #6 (October 11th)",
+  "content": "Thank you to for joining this week’s delegate community call! For those of you\nthat couldn’t make it, a full recording of the meeting can be found here\n[https://drive.google.com/file/d/1ETcfMI_CdHggzQvtfJttI5X0uQkSjywx/view].\nBrief recap below!\n\nPrevious action items:\n\n * On the topic of guidance on funding development through a proposal and a\n   governance fund charter: Stay tuned, this is being worked on by the\n   Foundation!\n\nTopics of discussion\n\nA few proposals have been changed after receiving delegate approval. Some\ndelegates have later removed their approval after changes were made, but it’s\nhard to constantly monitor whether or not proposals are changing. Suggested ways\nto address this were:\n\n * Foundation could add language to the operating manual that specifies what\n   constitutes a material change or what type of changes require a proposal to\n   be re-submitted. However, it may be challenging to fully define what\n   constitutes a material change.\n\n * Proposers could specify that a proposal is in its final form and only then\n   seek delegate approval. The thread could be locked once they receive\n   approvals.\n\n * There is a setting on Discourse that allows changes to be highlighted\n   (redlining). We could turn that setting on and then a committee could alert\n   approving delegates if there have been notable changes made since approval.\n\n * It’s important to consider who would be responsible for monitoring whether\n   changes have been made. The proposer? The approving delegate? The committees?\n\n * The Foundation will consider all of the options above and request feedback on\n   a suggested solution\n\nWho has decision making authority when something is not clearly specified by the\nFoundation or in the Operating Manual?\n\n * When the Foundation is not the decision maker, it has been unclear who is.\n   It was suggested that the Foundation sets guidelines and then committees have\n   decision making authority when something pertaining to their operations is\n   ambiguous.\n\n * This would imbue committees with more decision making power than is\n   explicitly outlined at the moment.\n\n * Committee responsibilities are currently outlined in the Introducing\n   Committees\n   [https://gov.optimism.io/t/introducing-governance-committees/3238/37] post.\n   Any updates to clarify decision making authority will be highlighted on the\n   Forum and in Discord.\n\n * When something is defined in the operating manual, but needs to be updated or\n   changed, delegates can submit a pull request to suggest a change on Github:\n   (OPerating-manual/manual.md at main · ethereum-optimism/OPerating-manual ·\n   GitHub\n   [https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md])\n\nThe Foundation is aware that a delegate code of conduct is needed and is\nsomething to be considered during the next Reflection Period.\n\nFeedback on Cycle 7\n\n * It’s been an improvement over Cycle 6\n\n * There are still some proposals falling through the cracks because proposers\n   are unsure of the process. There may be more room for committees and\n   delegates to be more involved in bringing proposers up to speed and pointing\n   them towards the Gov Docs\n   [https://community.optimism.io/docs/governance/proposals/]\n\n * From a proposer’s perspective, one thing that would help would be if all\n   committees can post the list of proposals they are going to review so\n   proposers know if their proposal has been included or not.\n\nAction items\n\n * Join the convo here\n   [https://gov.optimism.io/t/community-mottos-brainstorm/3681] to create\n   community mottos for navigating tough governance discussions\n\n * Make sure to provide your input on the Uniswap RFC\n   [https://gov.uniswap.org/t/rfc-the-optimism-uniswap-protocol-liquidity-mining-program/17820]\n   regarding liquidity mining incentives for their OP grant. This is a great way\n   to engage as an Optimism delegate outside our own community\n\n * For those of you at Devcon, stay on top of this thread and hopefully you can\n   all meet up and talk gov stuff: Devcon Community Governance Meetup!\n   [https://gov.optimism.io/t/devcon-community-governance-meetup/3573]\n\n * If your committee is not already posting a list of proposals that will be\n   reviewed in your Discord channel at the start of Week 2, please do so!\n\nWe’re back to delegate hosted calls next week, thank you in advance to Duncan!\nSign up to host future calls here\n[https://docs.google.com/spreadsheets/d/1-r1X2gNtP4UqbnJ9ELlHf0lVHeXdXUy5_JMAxP9lERs/edit#gid=0]\nand in the meantime, stay Optimistic :star2:\n[https://emoji.discourse-cdn.com/twitter/star2.png?v=12] :sparkling_heart:\n[https://emoji.discourse-cdn.com/twitter/sparkling_heart.png?v=12]",
+  "views": 1958,
+  "like_count": 8,
+  "word_count": 721,
+  "answer": [
+    {
+      "content": "Thank you @lavande [/u/lavande]!!! :slightly_smiling_face:\n[https://emoji.discourse-cdn.com/twitter/slightly_smiling_face.png?v=12]",
+      "created_at": "2022-10-19T20:17:54.382Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "This is concise and in-depth :+1:\n[https://emoji.discourse-cdn.com/twitter/+1.png?v=12]\n\nThanks!",
+      "created_at": "2022-10-12T00:26:39.518Z",
+      "trust_level": 2,
+      "username": "theenlightened",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "Thank you so much for the notes!!!",
+      "created_at": "2022-10-12T00:36:12.937Z",
+      "trust_level": 2,
+      "username": "Jrocki",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "Thanks! Appreciate this comprehensive summary.",
+      "created_at": "2022-10-15T13:57:00.490Z",
+      "trust_level": 2,
+      "username": "wcc",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-10-11T21:45:40.285Z"
+}

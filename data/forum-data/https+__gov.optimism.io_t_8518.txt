@@ -1,0 +1,60 @@
+{
+  "title": "[Mission Request] Farcaster social graph",
+  "content": "Delegate Mission Request Summary\n\nAnalyze social graphs and attestation data to output a probability that any one\nFarcaster account is a Sybil, contributing to the progress towards\ndecentralization by improving the accuracy of Sybil detection.\n\nIntent 1: Progress Towards Decentralization\n\nProposing Delegate/Citizen\n\ngonna.eth\n\nTotal grant amount\n\n25.000 OP\n\nShould this Mission be fulfilled by one or multiple applicants\n\nup to 2\n\nWhat is required to execute this Mission Request?\n\n 1. Define the requirements for the Sybil detection algorithm, including data\n    inputs and outputs and how accuracy will be evaluated.\n 2. Design and develop the algorithm architecture, including integration with\n    existing Collective infrastructure.\n 3. Implement the algorithm, including testing and quality assurance.\n 4. Deploy the algorithm and provide documentation, training for users, API, or\n    another method for third-party applications to integrate the tool…\n 5. Monitor and evaluate the effectiveness of the algorithm in detecting Sybils.\n\nHow should governance participants measure impact upon completion of this\nMission Request?\n\nGovernance participants can measure the impact of this mission request by\ntracking the following metrics:\n\n 1. Accuracy rate of the Sybil detection algorithm.\n 2. Increase in the adoption of the Sybil detection algorithm.\n\nMilestones\n\n 1. Requirements definition completed\n 2. Algorithm design and architecture completed\n 3. Algorithm implementation and testing completed\n 4. Algorithm deployed and integrated with Collective infrastructure\n 5. Evaluation and monitoring of the algorithm’s effectiveness completed (\n\nMetrics\n\n 1. Accuracy rate of the Sybil detection algorithm.\n 2. Increase in the adoption of the Sybil detection algorithm.\n\nImpact\n\nThis mission request will have a positive impact on the progress towards\ndecentralization by improving the accuracy of Sybil detection, leading to a more\nsecure and resilient governance process. This will result in a reduction of\nSybil attacks and increased trust in the governance process, as evidenced by the\nfollowing measurable outcomes:\n\n * Number of Sybil accounts detected and flagged\n * Accuracy rate of the Sybil detection algorithm\n * Improvement in the overall security and resilience of the governance process\n * Increase in the adoption of the Sybil detection algorithm\n\nHas anyone other than the proposer contributed to this Mission Request?\nno\n\n\nWHICH METRIC WILL THE SUCCESS OF THIS MISSION REQUEST BE EVALUATED AGAINST?\n\nThe North star metric against which this Mission Request should be evaluated is\n# of addresses delegating for the first time, as it reflects how this effort\nlowers the barriers to governance participation. This metric was suggested by\nthe foundation and approved by the Grants Council.",
+  "views": 551,
+  "like_count": 10,
+  "word_count": 893,
+  "answer": [
+    {
+      "content": "I’m very excited to see this Mission Request, I think it will add a lot of value\nboth to the Retro Funding and Citizenship processes and also to other builders\nin the space who are increasingly using the Farcaster Protocol as the social\nlayer of their apps :clap:\n[https://emoji.discourse-cdn.com/twitter/clap.png?v=12]\n\nDisclaimer: I work for the Optimism Foundation but comments are my own",
+      "created_at": "2024-07-10T17:14:09.097Z",
+      "trust_level": 4,
+      "username": "optimistic_emily",
+      "admin": true,
+      "moderator": false,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "RetroPGF started asking for signups with Farcaster to the project that\nparticipated. Grants Council is doing the same for grants. You want to consider\nthe attestation architecture we have with Farcaster. @optimistic_emily\n[/u/optimistic_emily] can guide you.",
+      "created_at": "2024-07-26T13:41:56.764Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/gonna.eth/48/3379_2.png]\nGonna.eth:\n\n> integrated with Collective infrastructure\n\nhey @Gonna.eth [/u/gonna.eth] – what do you mean by Collective infrastructure\nhere?",
+      "created_at": "2024-07-24T20:25:45.878Z",
+      "trust_level": 1,
+      "username": "mendesfabio",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "QUESTIONS ON SYBIL DETECTION PROJECT\n\nHi everyone,\n\nI’m Stefi, and I’m new on this forum. I’m a data scientist with two years of\nexperience dedicated to Sybil detection. Currently, I work on Gitcoin Passport\nand have previously been a steward in the Open Data Community founded by Gitcoin\nto detect Sybil attacks during their rounds.\n\nI have some questions about the project and its scope. I’ll post a few here to\nget a general sense, but I have more technical ones as well.\n\n 1. Accuracy Metric for Classification Algorithm: The project mentions\n    evaluating accuracy as a metric for the Sybil detection algorithm: “Define\n    the requirements for the Sybil detection algorithm, including data inputs\n    and outputs and how accuracy will be evaluated.”\n\n * Question: Is there any classified dataset available? Or is building the\n   training dataset part of the project’s scope? If not, is there any previous\n   analysis of Sybil attacks in this context with significant findings?\n\n 2. Public Availability of the Final Code:\n\n * Question: Should the final code for the algorithm be made public?\n\n 3. Milestone 4 Clarification: Although more information was provided on\n    Milestone 4, I would like to understand the expectations better to evaluate\n    the potential need for hiring a developer for this task.\n 4. Dedicated Team for Sybil Attacks:\n\n * Question: Is there a dedicated team working on Sybil attacks within the\n   project?\n\nAdditionally, I’m willing to jump on a call to understand the project better. I\nlook forward to your insights and contributions.\n\nIf you guys want to contact me , you can do it through discord : @stefi_says\n\nThank you!\n\nBest regards,\nStefi\n\n@Gonna.eth [/u/gonna.eth]",
+      "created_at": "2024-07-26T18:59:20.409Z",
+      "trust_level": 0,
+      "username": "stefi",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "A North Star Metric has been added at the bottom of this Mission Request in an\neffort to enable the Collective to make data-driven decisions. By using a single\nmetric for each Mission Request, the Collective is better able to evaluate the\nperformance of all the Season 6 missions in a standardized manner, which will be\ncritical when the Collective makes decisions about Intents, budgets, or other\ncritical components of governance.",
+      "created_at": "2024-07-22T19:23:49.108Z",
+      "trust_level": 4,
+      "username": "system",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-07-06T17:02:52.594Z"
+}

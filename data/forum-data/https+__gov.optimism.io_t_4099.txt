@@ -1,0 +1,9 @@
+{
+  "title": "I hope to give additional benefits",
+  "content": " 1. I hope you use the new channel to expand your community. There are Telegram,\n    Discord, etc., and I think OP members can have more active conversations and\n    discussions by using these.\n\n 2. I hope to give additional benefits according to the percentage of the 1st\n    airdrop recipients who did not sell the airdropped tokens. If this rule is\n    applied to the 2nd, 3rd, or subsequent airdrops, I think more users will use\n    the airdrops they received and more to activate the ecosystem.",
+  "views": 1484,
+  "like_count": 1,
+  "word_count": 83,
+  "answer": [],
+  "created_at": "2022-11-28T18:19:07.595Z"
+}

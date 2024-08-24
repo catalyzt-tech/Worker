@@ -1,0 +1,60 @@
+{
+  "title": "Incentives for people who don't sell immediately",
+  "content": "I know its not as extensive as many of the talented people in our collective,\nbut i feel its something that should be considered. I purpose that Holders of\n$OP that don’t instantly sell back for ETH right away should be rewarded.\nWeather its access to new apps on Op or possibly a bonus drop of $OP for the\ntrue members of the collective. The same issue with airdrops seems to be\nconsistent and people instantly dump who dont even stay long enough for us as\nmembers and the team to actually execute what’s purposed. The people who just\nquickly sold are impatient and just want a quick buck. So i feel an incentive\nbased purpose for members who truly care about the growth of OP should be given\na small bonus for their efforts and support. I truly believe in what optimism is\ndoing and the integration of L2 is going to be MASSIVE! Qucker and cheaper is\ngoing to make a mark in this space once people see the true value. If someone\nhas more in depth suggestions id love to hear em. I read a ton last night but im\nreally new to L2 and its capabilities and what optimism truly can do.",
+  "views": 2368,
+  "like_count": 31,
+  "word_count": 981,
+  "answer": [
+    {
+      "content": "\n[https://avatars.discourse-cdn.com/v4/letter/d/65b543/48.png] Dprice2413:\n\n> I purpose that Holders of $OP that don’t instantly sell back for ETH right\n> away should be rewarded\n\nRewarding people for doing nothing besides claiming a free token isn’t exactly\nsomething impactful or meaningful. I don’t see any reason for something like\nthat.\n\nMy suggestion is to just stop assuming airdrop #1 recipients should\nautomatically be eligible for airdrop #2.",
+      "created_at": "2022-06-02T02:14:55.525Z",
+      "trust_level": 2,
+      "username": "Prometheus",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "This seems like a healthier approach rather than penalizing those who elect to\nsell.\n\nIt also limits the liquidity of the token - which can be both good and bad.\n\nAfter what time period do users get rewarded? 3 months? 6 months? A year?\n\nIn crypto, a normal time frame is condensed and months feel like years…",
+      "created_at": "2022-06-03T16:51:27.764Z",
+      "trust_level": 2,
+      "username": "fig",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Thats fair i mean ive been in L1 for 2 years but need more knowledge on L2 and\nits full capabilities but i mean the true members of our collective should have\ncontrol and voting power on the direction were going overall. I mean let the\nsellers sell the true members will continue to innovate and build on L2 :pray:\n[https://emoji.discourse-cdn.com/twitter/pray.png?v=12]",
+      "created_at": "2022-06-02T02:39:54.988Z",
+      "trust_level": 0,
+      "username": "Dprice2413",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "once they claimed it, its totally their call what they want to do with it. You\ndont know why they sold it, may be they were expected a dip in price and wanted\nto buy more later.\nThere might be tax reason.\nfor some, the airdrop amount might be worth something, they sold it to make\ntheir ends meet.\nthey moved to different wallet for privacy reason.\n\nthere are many other reason but I guess i have made my point",
+      "created_at": "2022-06-02T09:33:43.129Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "1- I think this idea does not solve any problem. Users can wait a while and sell\nall the tokens.\n\n2- I also don’t think it is a topic to discuss in this section.\n\nThis would be the appropriate section:\n\n\n💌 IDEAS & FEEDBACK [/c/feedback/2]\n\nOpen-ended discussion category for new ideas, suggestions for improvement, or\nfeedback on governance.\n\n",
+      "created_at": "2022-06-02T20:24:34.535Z",
+      "trust_level": 2,
+      "username": "AxlVaz",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2022-06-02T01:59:30.412Z"
+}

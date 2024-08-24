@@ -1,0 +1,9 @@
+{
+  "title": "Introducing Moss - A New Social File Storage Platform on Optimism! Share Your Feedback with Us",
+  "content": "Moss officially launched on January 9th, unveiling its fully functional\ndecentralized social file storage platform. In essence, Moss enables\ndecentralized storage of your data/files on IPFS/Arweave, delivering a Web2 file\nstorage experience with features such as upload, download, share, and preview.\n\nMoss also incorporates a community-driven sharing space where users can package\nand upload their desired content. Other users can access and unlock these spaces\nby purchasing access keys, enabling entry and chat room access.\n\nThe access keys feature a robust economic model with a minimum price mechanism.\nUsers can participate in key trading to earn price differentials and profits.\n\nWe invite all community members to visit www.mymoss.io [http://www.mymoss.io],\nexperience the platform, and share your feedback and suggestions with us. We\nvalue your input!",
+  "views": 283,
+  "like_count": 2,
+  "word_count": 128,
+  "answer": [],
+  "created_at": "2024-01-16T09:30:09.381Z"
+}

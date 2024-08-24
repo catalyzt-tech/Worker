@@ -1,0 +1,60 @@
+{
+  "title": "Proposal to Include Liquidity Providers in Governance Process",
+  "content": "Summary: Liquidity Providers to the Optimism $OP token should have voting power\n\nCurrently, only $OP Optimism tokens are recognised to have voting power and can\nbe delegated. Over time, there will be a drop in governance participation from\nwhat we observe in other DAOs.\n\nIt is crucial to include liquidity providers (LPs) in the governance process\nfrom the start. Liquidity providing is an important part of the ecosystem to\nallow a liquid market for the token to trade in. Liquidity Providers also tend\nto be vested in the community and would love to see the collective succeed.\n\nBenefits we can see out from this proposal would be: increased token\nparticipation and ability to meet voting quorum as time goes on. LPs would also\nbe more incentivised to participate in the governance process and contribute\nideas to the ecosystem.\n\nCons are that the developers need to upgrade the snapshot mechanism.\n\nThanks for reading this. Happy to receive criticisms and feedback.",
+  "views": 1883,
+  "like_count": 14,
+  "word_count": 621,
+  "answer": [
+    {
+      "content": "Strongly agree with this. If we don’t include LPs in governance over the long\nterm, we’ll force a hard distinction for holders between governance and\nliquidity. Hopefully both will be stronger if we allow them to be implemented at\nthe same time.",
+      "created_at": "2022-07-04T20:45:25.287Z",
+      "trust_level": 2,
+      "username": "jackgale.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Agreed 100%, because having only OP on your wallet to be delegated takes away\ncomposability than can be garnered from OP being an ERC-20 token standard",
+      "created_at": "2022-07-16T02:06:41.432Z",
+      "trust_level": 2,
+      "username": "Netrim",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "I’m in agreement with this for the above reasons - but also for the reason that\nit lends a key incentive for the token swap initiative Velodrome have outlined\nfor the ecosystem, detailed here\n[https://gov.optimism.io/t/draft-gf-meta-proposal-to-reserve-a-share-of-gf-distribution-for-liquidity-backstopping-and-stronger-governance/2969/31].\n\nLPs are absolutely stakeholders, and enabling governance rights provides a\ncompelling additional value to those weighing the risks of providing liquidity\nin the first place.",
+      "created_at": "2022-07-19T19:47:47.863Z",
+      "trust_level": 2,
+      "username": "jackanorak",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Including representation of liquidity providers is something I agree with,\nrecently at the ParaSwap DAO we’ve gone as far as to propose to users who stake\nan LP token with 2x vote power + long-term holding Social Escrowed boost\n[https://gov.paraswap.network/t/psp-ip-22-psp-2-0-revised-voting-edition/1207?u=0xytocin],\nso it makes sense I would suggest something similar here.\n\nThe only challenge of this idea would be how to trustlessly whitelist all LPs as\nopposed to only the most common liquidity pools for OP.\n\nWe’d want every liquidity source to be counted ideally, which would mean\nwhitelisting dozens of tokens (and with Uni V3 positions I’m not even sure if\nthis is easily possible).\n\nSome ideas on how to address this:\n\n * Allow protocols to whitelist a ‘governance pool’ where the OP in pool is\n   counted: It keeps control for the owner, but limits pool variety. Would\n   probably need to be paired only with ETH/USDC to avoid volatile tokens. Some\n   TVL floor for the DEX would be required. DEXes with unusual strategies (Uni\n   v3 for instance) might not be counted.\n\n * Delegate voting power to DEXes relative to OP TVL: Assumes that pooling\n   assets in that DEX counts as a soft delegation. Less whitelisting required.\n   Maximum pool variety ensured. Might be biased towards DEXes that received\n   grants.\n\n * Onboard liquidity providers to the Citizens house in the future : I admit\n   this is the most hands-off solution, but since governance is bicameral, users\n   that want to pool all their OP could simply become a citizen and not have to\n   worry?",
+      "created_at": "2023-01-19T15:13:15.899Z",
+      "trust_level": 2,
+      "username": "Oxytocin",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "Strongly agree with this as well. LPs provide a great amount of token utility,\nenable new dao members and have a vested interest in the token.",
+      "created_at": "2022-07-11T16:15:06.488Z",
+      "trust_level": 1,
+      "username": "briguy",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-07-04T20:31:54.046Z"
+}

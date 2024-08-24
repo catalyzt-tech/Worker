@@ -1,0 +1,60 @@
+{
+  "title": "Proposals Are Difficult To Track On The Forum Due To Large Numbers Of Posts",
+  "content": "The Optimism Collective forums sees a lot of traffic – which is wonderful! But\nthe sheer volume of activity combined with the large number of posts in [DRAFT]\nor [REVIEW] stages means that it can be difficult to ensure delegates and voters\nfind all upcoming proposals.\n\nSpecifically, there is not an easy way to sort posts to consistently and quickly\nsee all proposals that are seeking feedback or coming up for a vote. Even\nsorting by “latest” or by a category often returns mostly threads that are\ndated, locked, or simply not active proposals.\n\nWe would like to request that some solution is created for this. One possibility\nis simply a separate forum where all grant applications can live and be\ndiscussed. This would help delegates monitor input from others and track\nchanges. Non-grant proposals could be either marked differently or in a second\narea.\n\nAnother possibility could be to maintain an independent “bulletin board”\nsomewhere that simply lists and links to the threads of any active proposals or\ndrafts seeking feedback. Ideally it would track or report when the text of a\ngrant proposal had changed.\n\nThis is also a good opportunity to make it highly visible that there are\ndifferent categories of governance in whatever solution is adopted (grants being\nthe most common at the moment, but not the only responsibility of Token House).\n\nThere are likely other solutions, but we wanted to bring this pain point to the\nattention of the OP team. Please let us know if there’s any way we can assist\nwith whatever solution you deem best.\n\nCC: @lavande [/u/lavande]",
+  "views": 1882,
+  "like_count": 16,
+  "word_count": 539,
+  "answer": [
+    {
+      "content": "I think this is a great call out for Messari Governor\n[https://messari.io/governor/proposal-tracker] product:\nhttps://messari.io/dao/optimism/proposals\n[https://messari.io/dao/optimism/proposals]. It already tracks proposal\ndiscussions for Optimism which solves this problem significantly. Happy to\ndiscuss further if there is something we miss or ways we can improve our\ncoverage. Tagging my colleagues @tnorm [/u/tnorm] and @raho [/u/raho] who helped\nassessed the Optimism governance recently.",
+      "created_at": "2022-11-16T10:04:25.400Z",
+      "trust_level": 1,
+      "username": "Karo",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Thanks for flagging this! We had planned to re-organize the forum a while ago\nbut that initiative was delayed for various reasons (one of them being the\npotential move to a Grants Council.) We will absolutely address these concerns\nand revamp the forum before Season 3 starts!",
+      "created_at": "2022-11-17T14:24:16.012Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 2
+    },
+    {
+      "content": "This makes a lot of sense as the volume can be hard to navigate. As a short term\nstop-gap, maybe we could separate the “Pending Proposals” into their own\ncategory until they are voted on.",
+      "created_at": "2022-11-15T21:44:25.014Z",
+      "trust_level": 2,
+      "username": "Ovetta",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "\n[https://avatars.discourse-cdn.com/v4/letter/k/e36b37/48.png] Karo:\n\n> I think this is a great call out for Messari Governor\n> [https://messari.io/governor/proposal-tracker] product:\n> https://messari.io/dao/optimism/proposals\n> [https://messari.io/dao/optimism/proposals]\n\nThis is helpful. Any way it can also have a column that says the last date the\noriginal post was edited?",
+      "created_at": "2022-11-16T15:51:25.450Z",
+      "trust_level": 2,
+      "username": "GFXlabs",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Certainly, we have that on our roadmap.",
+      "created_at": "2022-11-17T08:23:02.756Z",
+      "trust_level": 1,
+      "username": "Karo",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2022-11-15T20:31:35.157Z"
+}

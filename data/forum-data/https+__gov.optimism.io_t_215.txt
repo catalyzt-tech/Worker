@@ -1,0 +1,9 @@
+{
+  "title": "Governance Fund Phase 0: How to Create a Proposal",
+  "content": "> We will stop accepting Phase 0 proposals on May 24, 2022 at 23:59:00 UTC\n\nFor more details on Governance Fund Phase 0, please read our overview here\n[https://community.optimism.io/docs/governance/gov-fund].\n\nCreate a new forum post with a title of [GF:Phase 0 Proposal] PROJECT_NAME. The\nbody of your post should match the following template with project specific\ndetails filled out:\n\nProject Name:\n\nAuthor Name:\n\nDefillama TVL (at snapshot):\n\nTransactons/day (at snapshot):\n\nTier: 1/2/3\n\nOptimism native: Yes/No\n\nRevisions to metrics used: (optional field for requesting an update to the\nmetrics used for the project - under 200 words)\n\nNumber of OP tokens to claim:\n\nL2 Recipient Address:\n\nProposal for token distribution (under 1000 words):\n\nHow will the OP tokens be distributed?\n\nHow will this distribution incentivize usage and liquidity on Optimism?\n\nWhy will the incentivized users and liquidity remain after incentives dry up?\n\nOver what period of time will the tokens be distributed?\n\nHow much will your project match in co-incentives?",
+  "views": 4196,
+  "like_count": 14,
+  "word_count": 178,
+  "answer": [],
+  "created_at": "2022-05-03T18:39:36.852Z"
+}

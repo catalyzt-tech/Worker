@@ -1,0 +1,60 @@
+{
+  "title": "EasyRetroPGF.xyz - Run your own Optimism-style RPGF Round",
+  "content": "Hi Optimism Collective,\n\nWEST Software Services (entity through which I contribute to public goods\nprojects like Gitcoin + Optimism) built one of the two frontends for Optimism\nRPGF Round 3 => https://round3.optimism.io/ [https://round3.optimism.io/]\n\nThe software was originally developed for this RFP\n[https://github.com/ethereum-optimism/ecosystem-contributions/issues/104], but\nwe are now open sourcing it and releasing it for others’ use.\n\nThat means it’s now easy to run an Optimism-style RPGF Round. We are calling\nthis tool stack EasyRetroPGF, and it is available now.\n\n 1. Demo https://easy-retro-pgf.vercel.app/ [https://easy-retro-pgf.vercel.app/]\n 2. Code: GitHub - gitcoinco/easy-retro-pgf\n    [https://github.com/gitcoinco/easy-retro-pgf/]\n 3. Deploy: Deploy on Vercel\n    [https://github.com/gitcoinco/easy-retro-pgf/blob/main/docs/01_setup.md]\n 4. Configure: Checkout the configuration variables to see all the diff ways\n    this can be configured to run on diff chains + configuration variables here.\n    [https://github.com/gitcoinco/easy-retro-pgf/blob/main/.env.example]\n 5. Product/Research Design: telegram group [https://t.me/+wknfJtfyiYcyNDkx]\n 6. Technical Support: telegram group [https://t.me/+0oycDCvX3QY1NjEx]\n\nIf this EasyRetroPGF.xyz tool is strongly embraced by the OP Collective, we will\ncontinue to maintain it + upgrade it for OP RPGF 4 + beyond.\n\n\nGITCOIN <3S RPGF\n\nIn addition to maintaining the above software suite, Gitcoin has been doing more\nRetroactive Public Goods Funding Rounds on Grants Stack\n[https://www.gitcoin.co/grants-stack/rpgf]. We view RPGF as being complementary\nto Quadratic Funding - which we have historically been known for.\n\nOne of our core beliefs about grants is that they’re both necessary for\nsustainable growth, and also incredibly early. This even applies to QF and RPGF.\nWe’ve been talking to other ecosystems who want to launch their own version of\nRPGF and aren’t sure how to set it up for success. With that in mind, we’re\nopen-sourcing not just the app but our product development process for RPGF. If\nyou’d like to be a design partner or beta tester of our RPGF efforts, join our\ntelegram group here [https://t.me/+wknfJtfyiYcyNDkx].\n\nWhether you’ve run grants programs before or are just getting started, we’d love\nto learn about your goals and work with you to bring RPGF to your ecosystem.\nWe’ll work with our design group to capture our learnings and share publicly to\nhelp grow + expand RPGF usage.\n\n\nGITCOIN/OPTIMISM ALIGNMENT :green_circle:\n[https://emoji.discourse-cdn.com/twitter/green_circle.png?v=12]:handshake:\n[https://emoji.discourse-cdn.com/twitter/handshake.png?v=12]:red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]\n\nWe have always felt very mission aligned with Optimism. Here are a couple data\npoints.\n\n 1.  OP/GC have similar missions regarding public goods.\n 2.  Plasma Group (the corporate predecessor to Optimism) raised money on\n     Gitcoin Grants during round 1, 2, and 3.\n 3.  Plasma Group were some\n     [https://decrypt.co/16334/ethereums-plasma-group-shuts-down-passes-funds-to-gitcoin]\n     of the earliest funders of the Gitcoin Grants Matching Pool.\n 4.  Gitcoin donors were rewarded in OP Airdrop 1\n     [https://community.optimism.io/docs/governance/airdrop-1/].\n 5.  Optimism was one of the first L2s that Gitcoin Grants Stack supported.\n 6.  I’ve done a handful of greenpill episodes with members of Optimism\n     [https://www.youtube.com/results?search_query=optimism+greenpill].\n 7.  https://publicgoods.network/ [https://publicgoods.network/] (a L2 for\n     supporting public goods which Gitcoin has helped to seed) was built on top\n     of OP Stack + is part of the superchain.\n 8.  I’ve participated\n     [https://owocki.com/onchain-summit-panel-funding-public-goods/] in the OP\n     Onchain summit in Istanbul, and we’ve also done public speaking together at\n     Schelling Point\n     [https://www.youtube.com/watch?v=sYKHnYSChEs&list=PLvTrX8LNPbPlLNcFPuWiac3W19cUSaKFF&index=13]\n     (on multiple occasions\n     [https://x.com/schellingpoint_/status/1725407705257374014?s=20]).\n 9.  We’ve commissioned custom art about Ethers Phoenix\n     [https://twitter.com/owocki/status/1519735747024240646].\n 10. In RPGF Round 3, we build the round3.optimism.io\n     [http://round3.optimism.io] interface for the OP collective.\n\nI hope that we are not stepping on any toes by open sourcing the RPGF tool we’ve\nbuilt for yall. I’ve shopped this idea around a few people in the OP collective\nwho are close to RPGF and they said they wanted to see it happen (and that it\nhelps build the meme of RPGF to have more orgs doing it). But if I missed the\nmark in any way feel free to comment below or email me kevin@gitcoin.co\n[kevin@gitcoin.co] or DM me twitter.com/owocki [http://twitter.com/owocki]\n\nPublic Goods are Good :saluting_face:\n[https://emoji.discourse-cdn.com/twitter/saluting_face.png?v=12]\n\nOwocki",
+  "views": 1052,
+  "like_count": 44,
+  "word_count": 988,
+  "answer": [
+    {
+      "content": "Stoked about this and grateful for everybody involved in making this a reality.\n\nI’m currently part of the Celo Public Goods team working on a Public Goods\nStrategy for Celo\n[https://forum.celo.org/t/draft-celo-governance-guidelines-and-public-goods-funding-strategy-h1-2024/7200]\nand aim to leverage Easy RetroPGF later this year if the proposal passes.\n\nAs Celo is also evaluating the potential of migrating to the OP-stack\n[https://forum.celo.org/t/framework-for-selecting-an-l2-stack/6992/2], there is\ntremendous room for collaboration.",
+      "created_at": "2024-01-15T15:12:02.313Z",
+      "trust_level": 2,
+      "username": "LuukDAO",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "Looks great @owocki [/u/owocki] :clap:\n[https://emoji.discourse-cdn.com/twitter/clap.png?v=12] waiting for search\nfunctionality.",
+      "created_at": "2024-01-13T19:18:50.699Z",
+      "trust_level": 1,
+      "username": "hid",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "This is amazing! Thank you @owocki [/u/owocki] and team for continuing the\nopen-source gwei. Bless.",
+      "created_at": "2024-01-12T23:50:54.908Z",
+      "trust_level": 2,
+      "username": "0xR",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Kudos to owocki and WEST Software Services for rocking the blockchain world with\ntheir open-source EasyRetroPGF tool! This is a game-changer for RPGF, bringing\nmore fun, collaboration, and innovation to the community. Big cheers for pushing\npublic goods funding to new heights!",
+      "created_at": "2024-01-14T03:37:20.902Z",
+      "trust_level": 2,
+      "username": "0xDonPepe",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Search functionality is on the roadmap!\n\nThe more people use this, the more we will be pouring more dev resources into\nbuilding on the roadmap.\n\nYou can help! Please use easyretropgf.xyz and tell us what u think either via\ncomments below, telegram [https://t.me/+0oycDCvX3QY1NjEx], or github issues\n[https://github.com/gitcoinco/easy-retro-pgf/issues]!",
+      "created_at": "2024-01-13T19:34:17.891Z",
+      "trust_level": 1,
+      "username": "owocki",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    }
+  ],
+  "created_at": "2024-01-12T16:26:30.658Z"
+}

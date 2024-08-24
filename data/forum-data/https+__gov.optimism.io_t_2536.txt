@@ -1,0 +1,60 @@
+{
+  "title": "[READY] [GF: Phase 1 Proposal] DexGuru",
+  "content": "Project Name: DexGuru\n\nAuthor Name: Maxim (@maksdizzy [/u/maksdizzy])\n\nNumber of OP tokens requested: 300,000\n\nL2 Recipient Address:\n\n0x04e1699A825238DD80AD0080f9d8b438C925cB92\n\nRelevant Usage Metrics: (TVL, transactions, volume, unique addresses, etc.)\n\nMonthly users: 700k (SimilarWeb)\n\nTrading Volume on 0x API (7d): $3M (Metabase dashboard\n[https://metabase.spaceship.0x.org/public/dashboard/e79bb86a-6777-4655-88fd-6453fdbefe0f?affiliate_address=0x720c9244473dfc596547c1f7b6261c7112a3dad4&start_date=2022-01-01])\n\nIncluding $1M on Optimism (39.38% of total volume)\n\nOptimism alignment (up to 200 word explanation):\n\nDexGuru, as a data-providing platform, aligns itself with the Optimism vision -\nhelping users leverage the essence of cyberspace and information to profit\nthrough meaningful trading decisions.\n\nThe DexGuru platform provides on-chain analytics, a swap tool, multiple chains,\nand DEXs, leaving a lot to grasp for any level trader. Put simply, DexGuru\noffers data. We work hard to gather all relevant on-chain data to present it to\nDexGuru users in a helpful and efficient way. Data is collected from eight EVM\ncompatible chains so DeFi traders on Optimism, Avalanche, Ethereum, Arbitrum,\nand others can enjoy the same trading experience when analyzing their favorite\ntokens. We monitor many unique DEXs and their pools for liquidity changes,\ntrades, and price movements.\n\nWith our primary focus on building in the open, DexGuru provides an instant API\nwith the most reliable on-chain market data for Ethereum, Optimism, Binance\nSmart Chain, Polygon, Fantom, Arbitrum, Celo, and Avalanche blockchains.\nDevelopers can use the API to find information about tokens’ prices, trading\npairs, traders, AMMs, on-chain transactions, etc.\n\n\n\nimage\n[https://europe1.discourse-cdn.com/bc41dd/optimized/1X/503f48258af5b5f4e190ae41e49d0b45ba491d8b_2_502x500.png]\nimage1131×1126 200 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/1X/503f48258af5b5f4e190ae41e49d0b45ba491d8b.png]\n\n\n\n\nPROPOSAL FOR TOKEN DISTRIBUTION (UNDER 1000 WORDS):\n\nDexGuru is governed by GuruDAO, which is at the moment at the pre-DAO stage and\nlooking forward to TGE of $GURU token.\n\nHow will the OP tokens be distributed?\n\n100% GuruDAO grants for the community\n\nGuruDAO encourages contributors to create new tools and protocols within the\nGuruDAO ecosystem and would like to provide grants to the most prominent\nproposals that will be beneficial to DexGuru and Optimism.\nOur grant program will be based on supporting projects are using our Public API.\nDexGuru provides API for developers with reliable on-chain market data for\nEthereum, Optimism, Binance Smart Chain, and other chains about tokens’ prices,\ntrading pairs, traders, AMMs, on-chain transactions, etc.\nFull support of the Optimism chain will be a requirement for such projects.\nSince we are providing multichain capabilities, it won’t be tied just\nspecifically to Optimism and may support other chains as well. We had previous\nexperience with the hackathon event during ETHDenver2022 and went very well - as\na team, we distributed several grants to projects (more info can be found in our\nblog).\nDecisions on grant distribution will be under GuruDAO control and go through the\ngeneral governance process ( GuruDAO Bootstrap Phase proposal: [PROPOSAL]\nGovernance process (snapshot.org)\n[https://snapshot.org/#/thegurudao.eth/proposal/0x1c2192eb6fe46d33e3603a7eaffa46f48dfffa3a376ca035e9c41e9bcf423b33])\nWe open to include an OP representative in the GuruDAO multisig. But it will be\nup to GuruDAO voting though.\n\nHow will this distribution incentivize usage and liquidity on Optimism?\n\nThe goals of DexGuru and GuruDAO are to provide the most relevant on-chain data\nand analytics along with the education for users on how to make meaningful\ntrading decisions. The growth of our user base encourages new and existing DeFi\nusers to advance and become well-informed, letting them use Optimism comfortably\nand bring more liquidity to the protocol.\n\nWhy will the incentivized users and liquidity remain after incentives dry up?\n\nBuilding the product and growing the DexGuru user base provides a long-lasting\neffect on protocol usage. More experienced traders well-equipped with advanced\nanalytics extend the market and make it more sustainable in the long term\nperspective.\n\nOver what period of time will the tokens be distributed?\n\nThe incentive period will be between 6-12 months.\n\nHow much will your project match in co-incentives?\n\nGuruDAO is still in a pre-DAO stage and the $GURU token is not yet issued. $GURU\ntoken may be added upon a decision from GuruDAO .",
+  "views": 5439,
+  "like_count": 45,
+  "word_count": 3890,
+  "answer": [
+    {
+      "content": "To be honest I’m completely disagree, for some reason…\n\n 1. me and many people don’t trust DexGuru because of their dictatorship, you\n    (DexGuru) formed a DAO (in your imagination) but you evem don’t listen to\n    any member of your community and you block(Twitter)/ban(Discord) any opinion\n    that you do not like!!\n    I can list AT LEAST 50 people who have been blocked/banned for no apparent\n    reason!!!\n    (for Optimism team, not you, cause you will find their wallet and it is not\n    good for that blocked members)\n\n 2. You get a huge percentage of that budget for yourself!!!, can say about 70%,\n    because your marketing and conferences do not have a large audience and\n    practically very very very few attend…\n    And of course that few participants in your events are because of your\n    upcoming airdrop, otherwise you are much worse than Paraswap.\n\n 3. The Optimism team can give the budget to real projects that treat their\n    community well, projects that don’t see just their own pockets, but really\n    care about the other projects, decentralization and web3.0 world.\n\nHonestly, These words do not come from personal enmity, I just care about\nOptimism and don’t like them to spend their tokens for bad projects.\n\nI can prove all my words, just let me know if you want any evidence to prove!\n\nWe are Optimistic :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]:sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]",
+      "created_at": "2022-06-09T15:46:58.399Z",
+      "trust_level": 0,
+      "username": "OptimisticGuy",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": "I do like DexGuru, quality project indeed, but the token distribution seems a\nlittle weak. Not sure how this split 50/30/20 really benefits the OP ecosystem\nspecifically. Would prefer a more even distribution and some more consideration\nof catalysts / drivers specific to OP personally. Good to have the project\ninvolved though as it’s a high quality project / team",
+      "created_at": "2022-06-07T09:24:27.922Z",
+      "trust_level": 2,
+      "username": "Robor2b102",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "You are right, but I’m not able to share all of them publicly, It may cause them\nlost their the possible airdrop.\nBut I’m def on my word to share all of them to Optimism team if they want me to\nshare it (on private)\n\nFor a bit prove their dictatorship, let’s have some reason:\n\n\n\nIMG_20220608_062636_899\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/1/122487a4df96508f2cdd958ecf7dfd5022037c86_2_248x500.jpeg]\nIMG_20220608_062636_899576×1159 117 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/1/122487a4df96508f2cdd958ecf7dfd5022037c86.jpeg]\n\n\n\n 1. About the screenshot which I attached, He keeps posting it for anyone who\n    asks about the airdrop and its value. While the initial phase of the\n    proposals is about the airdrop and he asked his community to talk about the\n    airdrop, tokenomic, etc!!\n\n * *I know he asked a bad question, but Nick (founder of DexGuru) send the same\n   gif to much people, I’m also banned from their discord so I’m not able to\n   share more screenshots :slight_smile:\n   [https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]\n   but you can check the rest in their discord server if he didn’t delete them.\n   *\n\nAlthough, he bans or blocks them most of time, So lets have some searchs on\ntwitter with keywords to prove it better:\n\ndexguru + blocked:\nhttps://twitter.com/search?q=dexguru%20blocked&t=1MEnB7UAF406AYGasXS2xA&s=09\n[https://twitter.com/search?q=dexguru%20blocked&t=1MEnB7UAF406AYGasXS2xA&s=09]\n\nDexguru + ban:\nhttps://twitter.com/search?q=dexguru%20ban&t=6RgoXEKc8aVReDAceMM5eA&s=09\n[https://twitter.com/search?q=dexguru%20ban&t=6RgoXEKc8aVReDAceMM5eA&s=09]\n\n*I’m new user so unfortunately I’m not able to send more than 2 links, you can\nhave some more search yourself *\n\nI think it’s enough to prove my words for now, I still can share much strongest\nreasons to prove them but as I said it is able to have some bad resaults about\ntheir privacy their possible airdrop cause it contains a bit personal\ninformation and it can be traceable…\nThey only allowed me to share with the Optimism team because we all trust the\nOptimism team.",
+      "created_at": "2022-06-10T10:27:11.123Z",
+      "trust_level": 0,
+      "username": "OptimisticGuy",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Well, any point made without a valid citation is just word, please provide some\nsource supporting your words.",
+      "created_at": "2022-06-10T09:21:49.133Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Thank you for sharing, I appreciate that.\n\nI am not following them so cant comment on how they are treating community and\nalso, this is not the right place to discuss that. If users/community has some\nproblem, I am sure that there are different platform to raise their concern, I\nbelieve they work on DAO so that would be the first place.\n\nI would like to request you to keep your biased aside and provide your input on\nthe proposal, I see you have already done but how they can improve it, what is\nthat you like to change in the proposal.",
+      "created_at": "2022-06-10T10:40:17.168Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2022-06-06T22:16:56.859Z"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "[Deprecated] Grants-as-a-Service (GaaS)",
+  "content": "DELEGATE MISSION REQUEST SUMMARY\n\nWe propose establishing a Grants-as-a-Service (GaaS) Provider Network to\nstreamline grant processes, enhance fund distribution, and accelerate\napplication development across the Superchain. This network will consist of\nexperienced Program Managers offering comprehensive grant management services to\nvarious Superchain ecosystems.\n\nS6 Intent\n\nIntent 3: Grow application developers on the Superchain\n\nProposing Delegate/Citizen\n\nGonna.eth\n\nTotal grant amount\n\n250,000 OP tokens\n\nShould this Mission be fulfilled by one or multiple applicants\n\nMultiple (Up to 5 programs per ecosystem for the initial MVP phase)\n\nHow will this Mission Request help accomplish the above Intent?\n\nThe GaaS Provider Network will directly support growing application developers\non the Superchain by:\n\n 1. Streamlining grant processes to lower barriers for projects seeking funding\n 2. Ensuring efficient fund distribution to accelerate development\n 3. Providing expert support throughout the grant lifecycle\n 4. Enhancing the overall efficiency and effectiveness of grant programs across\n    Superchain ecosystems\n\nWhat is required to execute this Mission Request?\n\n 1. Establish a network of skilled Program Managers who can:\n\n * Design and implement efficient grant application processes\n * Evaluate proposals based on ecosystem-specific criteria\n * Manage fund distribution in line with milestone achievements\n * Monitor project progress and provide regular reports\n * Offer support to grant recipients throughout their project journey\n\n 2. Implement a performance-based reward system for Program Managers\n 3. Develop and execute a phased implementation strategy, including RFP,\n    approval, and launch processes\n 4. Set up monitoring and reporting mechanisms to track the success of grant\n    programs\n\nHow should governance participants measure impact upon completion of this\nMission?\n\nMilestones:\n\n 1. RFP issuance and GaaS provider selection (End of S6)\n 2. First round of grant programs launched across selected Superchain ecosystems\n    (Within three months of selection)\n 3. Mid-term review of initial grant programs (6 months after launch)\n 4. Comprehensive report on first-year outcomes (12 months after launch)\n\nMetrics:\n\n 1. Number of grant programs successfully launched and managed across OP Stack\n    Chains\n 2. Total amount of funds distributed through these programs\n 3. Number of projects funded\n 4. Increase in developer activity across the Superchain (e.g., new applications\n    deployed, growth in daily active addresses)\n\nImpact:\n\n 1. Growth in the number and quality of applications built on Optimism and\n    Superchain ecosystems\n 2. Increased adoption of Optimism’s technology stack\n 3. Enhanced interoperability across the Superchain\n 4. Improvement in the efficiency and effectiveness of grant distribution\n    processes\n\nHas anyone other than the proposer contributed to this Mission Request?\n\nThis mission request was developed in collaboration with members of the Grants\nCouncil, drawing on their collective experience with grant programs and\necosystem development.\n\nAdditional Information\n\nEligibility for Program Managers\n\nProgram Managers must meet specific criteria, including:\n\n * Proven track record in grant management, preferably within Web3\n * Solid technical awareness of the Superchain/OP Stack\n * Commitment to Optimism’s values and community-driven development\n * Experience in managing multi-stakeholder projects\n * Strong financial acumen and communication skills\n\nImplementation Strategy\n\n 1. Request for Proposals (RFP)\n 2. GC GaaS Provider’s Approval\n 3. Superchain Engagement\n 4. Budget Approval\n 5. Program Implementation\n 6. Reporting\n 7. Milestone and Metrics Review\n\nResource Allocation\n\n * Up to 50,000 OP tokens per program, maximum of five programs per ecosystem\n   for MVP phase\n * OP tokens for GaaS provider rewards are locked for one year\n * User distribution tokens from “Superchain the chain get on intent 3A”\n   allocation\n * Focus on overhead minimization, flexible structure, and ecosystem caps",
+  "views": 258,
+  "like_count": 7,
+  "word_count": 697,
+  "answer": [
+    {
+      "content": "After talking to some of the grant council members and designing how this will\nwork. We decided that it is easier to include this on the Superchain application\nby just asking\n\n * Who’s your grant service provider or grants lead of your chain?\n * What amount of locked OP will be assigned for this?\n\nThis way the GaaS gets embedded as a part of the superchain application and we\ndon’t overcomplicate the application process of other chains.",
+      "created_at": "2024-07-10T21:43:17.410Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 3
+    },
+    {
+      "content": "It means it will not be included in the token house vote. But the idea remains\nembedded in the Superchain grants applications.",
+      "created_at": "2024-07-11T08:05:14.674Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "Does including the GaaS idea on the Superchain application mean that this\nmission request itself is going away? Or is it that it is still going forward\nand will just be integrated with the Superchain applications?",
+      "created_at": "2024-07-10T22:03:02.886Z",
+      "trust_level": 1,
+      "username": "gideonro",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-07-06T20:00:14.722Z"
+}

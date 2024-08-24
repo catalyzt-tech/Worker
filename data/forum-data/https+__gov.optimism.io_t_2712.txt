@@ -1,0 +1,60 @@
+{
+  "title": "[READY] [GF: Phase 1 Proposal] WardenSwap",
+  "content": "Project Name : WardenSwap\n\nAuthor Name: Panas\n\nNumber of OP tokens requested: 300,000\n\nL2 Recipient Address: 0xc146a672c85b408a9a7bc00f74ad567b7684134c\n\n\nOVERVIEW OF WARDENSWAP:\n\nWardenSwap is the real-time best rate DEXes aggregator using AI Power to deliver\nthe very best swap rates and lowest gas price from all markets in one place on\nwardenswap.finance\n[https://www.wardenswap.finance/#/best-rate-swap?network=bsc].\n\nWardenSwap is proposing the idea of a sustainable ecosystem alongside the pillar\nof creating a strong community. WardenSwap launched MetaWarden, a NFT project\nwhich is aimed to boost the circular economy and community around the WardenSwap\necosystem. Furthermore, with 3 types of SDK for dApp developers to operate\nWardenSwap elsewhere.\n\nWardenSwap is live on Optimism, building on top of the concept of Data\noptimization method to pull out smaller data stored on Ethereum which causes\nlower gas cost by introducing compression techniques to make the Calldata\nsmaller using “Address Table” and “Data Serialization”. ( WardenSwap 2.0 on\nOptimism\n[https://medium.com/wardenofficial/the-tech-behind-wardenswap-2-0-on-optimism-72a32516a1eb])\n\n\nRELEVANT USAGE METRICS\n\nHere are our metrics, all number is on the time of writing (17 June)\n\nTransaction\nTotal Transaction: 1,113,100 tx\nTotal Optimism Transaction: 11,097 tx (Since 19 April, 60 days)\n\nVolume\nTotal trading volume: $4,276,184,771 (All Chains)\nTotal Optimism volume: $3,392,877 (Since 19 April, 60 days)\n\nUnique address\nTotal unique address: 70,119 addresses\nUnique address on Optimism: 2,293 addresses\n\n\nOPTIMISM ALIGNMENT\n\nWardenSwap hopes to encourage growth within the Optimism ecosystem by using\nsubsidies, we hope to support the integrations and developments within L2. In\naddition, we want to sustainably boost Optimism and run with a good level of\nliquidity in order to migrate more of our activities to Optimism in the future.\n\n * WardenSwap will automatically locate the best swap rates and best gas across\n   multiple pools for swappers on the Optimism network, providing them the best\n   pricing. With the WardenSwap 2.0 Bloodstone upgrade, our splitting feature\n   can split the trading volume to be as small as 1% in trading size in order to\n   get a better price (the previous minimum trading size was 10%). This means\n   the more it splits, the better price users will get\n\n * WardenSwap allows for community integrations by providing SDK which can\n   freely integrate with WardenSwap by using our open-source (See gitbook for\n   more information\n   [https://docs.wardenswap.finance/warden/wardenswap-sdk/profit-sharing-program]).\n   3 types of SDK we provided effortless and friendly to our community\n\n 1. Library For developers\n 2. Customizable UI Kits that we ensure it is easy to implement\n 3. Referral link program for both dApp and users\n    These 3 SDK construct as another monetization strategy to earn the profit\n    sharing from trading fees.\n\n * WardenSwap is supporting the Optimism ecosystem including NFT collection and\n   product. We propose the use case of NFT on Optimism through a discount of\n   trading fee. It is now shown that 40% of users on the Optimism chain in\n   WardenSwap owned Optipunk.\n\nTo summarize:\nWardenSwap aims to build a community by providing both of the best trading\nexperience for users on Optimism and adopt the ecosystem of Optimism at the same\ntime.\n\n\nPROPOSAL FOR TOKEN DISTRIBUTION\n\nHow will the OP tokens be distributed? Currently, the following distribution\nwill be proposed:\n\n\nBUILDERS (25%) :building_construction:\n[https://emoji.discourse-cdn.com/twitter/building_construction.png?v=12]\n\nOn top of WardenSwap, we have shown what can be done with our SDK tool for dApp\ndevelopers, WardenSwap will create a thriving Optimism ecology and encourage the\nbuilders who successfully integrate WardenSwap in the Optimism ecosystem, with\nall support and a bonus plan depending on the metrics. Further by the Grants\nProgram or Hackathon, WardenSwap aims to back up dApp developers to fund the\nproject, selecting by community which is Optimism related. These are examples of\nour vision to dedicate ourselves for public goods that benefit the entire\ncommunity and align with the Optimism ideal.\n\n\nTRADERS (20%) :money_with_wings:\n[https://emoji.discourse-cdn.com/twitter/money_with_wings.png?v=12]\n\n$OP will be incentive directly to the users of WardenSwap on Optimism as an\nopportunity to early adopter, active users, along with new users to increase the\nactivity of trading in WardenSwap on Optimism. However, we believe that\nexperience that traders will get from Optimism is absolutely valuable, and it\nwill attract more activity on its own.\n\n\nREFERRAL PROGRAM (10%) :link:\n[https://emoji.discourse-cdn.com/twitter/link.png?v=12]\n\nWardenSwap will also distribute $OP to referral programs users which benefit\nreferrers who use referral link programs on Optimism through WardenSwap to\nspread the power of Optimism.\n\n\nMARKETING: ECOSYSTEM & OPTIMISM REPRESENTING (35%) :studio_microphone:\n[https://emoji.discourse-cdn.com/twitter/studio_microphone.png?v=12]\n\n$OP will be used as a part of marketing campaigns targeted on Optimism,\nincluding the events for the WardenSwap community that make impact on Optimism,\nthe competition which can take in many forms for different contributors such as\nresearchers, and content creators. Also incentive to influencers that help the\nWardenSwap community on Optimism to create marketing programs and promotion.\n\n\nDEVELOPMENT & MAINTENANCE (10%) :houses:\n[https://emoji.discourse-cdn.com/twitter/houses.png?v=12]\n\n$OP will be dedicated to cover the development and maintenance cost of Optimism\nrelated project\n\n\nHOW WILL THIS DISTRIBUTION INCENTIVIZE USAGE AND LIQUIDITY ON OPTIMISM?\n\nMore users will be enticed to join WardenSwap as a result of these\ndistributions, giving the protocol more usage. In combination with the developer\nsubsidies it would strongly encourage developers to switch to Optimism.\n\n\nWHY WILL THE INCENTIVIZED USERS AND LIQUIDITY REMAIN AFTER INCENTIVES DRY UP?\n\nWe build things that last long\nWardenSwap knows that incentive programs will never last long, but we have\nabsolute trust in smart contracts that are built on Optimism will be long\nlasting.WardenSwap always carry on our mission to deliver the best swap rates\nand best gas across multiple pools, which will stay to benefit WardenSwap users\non Optimism to brings about a better outcome (Yes, save users’ money).\n\n\nHOW MUCH WILL YOUR PROJECT MATCH IN CO-INCENTIVES?\n\nWe are currently unable to co-incentivize, but we may work on it in as a\ncampaign that is related to Optimism, also we do believe in the future of\nOptimism that there is a lot of opportunity, WardenSwap will move along forward\nto work with other Optimism’s partners which help Optimism to strengthen their\ncommunity.\n\n\nOVER WHAT PERIOD OF TIME WILL THE TOKENS BE DISTRIBUTED?\n\nAccording to WardenSwap’s plan, the $OP tokens will be distributed within a 1\nyear period.",
+  "views": 9602,
+  "like_count": 167,
+  "word_count": 4498,
+  "answer": [
+    {
+      "content": "Thank you, Panas, for putting this proposal together. WARDEN’s spirit of\nboosting the Optimism ecosystem and incentivizing the users is admirable.\n\nHowever, I propose that the budget for incentivizing users and builders be\nseparated in order to preserve the “Public Good Funding” ethos of Optimism and\ntransparency. A high priority should be given to the projects that build on top\nof WARDEN’s SDK. Optimism’s ecosystem will be more sustainable as a whole.",
+      "created_at": "2022-06-17T17:43:37.037Z",
+      "trust_level": 1,
+      "username": "investgineer",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 8
+    },
+    {
+      "content": "I second this. I think the distribution for traders and builders should be\nseparated. Builders should be prioritized in order to expand Optimism ecosystem\nas well as Warden itself.\n\nFor Metawarden, not sure if the team has plan to release a collection\nspecifically on Optimism network? Perhaps providing a privilege for the original\nMetawarden like a whitelist for minting would be a good idea to attract those\nNFT holders to Optimism. An idea to be able to bridge Metawarden to OP is\ninteresting as well.",
+      "created_at": "2022-06-18T10:07:56.956Z",
+      "trust_level": 2,
+      "username": "maykung",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "\n[https://avatars.discourse-cdn.com/v4/letter/p/f08c70/48.png] Panas:\n\n> 55% of $OP incentive directly to the users of WardenSwap as an opportunity to\n> users which onboarded in the early phase along with new users to increase the\n> activity of trading in WardenSwap on Optimism and also benefit to referrers\n> who use referral link program on Optimism through WardenSwap. We likewise\n> encourage the builders such as dApp developers who successfully integrate\n> WardenSwap in the Optimism ecosystem with a bonus plan depending on the\n> metrics\n\nIs it possible to break this into two section? one for users and other for dev?",
+      "created_at": "2022-06-19T11:39:36.110Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "great, I agree with this idea.",
+      "created_at": "2022-06-18T01:49:58.110Z",
+      "trust_level": 0,
+      "username": "PSN",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "I always swap here every chain",
+      "created_at": "2022-06-20T16:36:40.309Z",
+      "trust_level": 1,
+      "username": "mcbonton",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2022-06-17T17:02:05.652Z"
+}

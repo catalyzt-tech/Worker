@@ -1,0 +1,20 @@
+{
+  "title": "Https://gov.optimism.io/t/enabling-op-as-a-gas-token-on-optimism-network/2362",
+  "content": "Continuing the discussion from Enabling $OP as a gas token on Optimism Network!\n[https://gov.optimism.io/t/enabling-op-as-a-gas-token-on-optimism-network/2362]:\nit s very good idea but\nmy opinion is that we have to pay with both eth and op, they will both need to\nbe in your wallet for the transaction.",
+  "views": 1655,
+  "like_count": 3,
+  "word_count": 79,
+  "answer": [
+    {
+      "content": "Please try to reply on the same topic you just linked, there’s no need for a new\nforum post.",
+      "created_at": "2022-12-19T21:23:03.816Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2022-12-19T14:42:37.196Z"
+}

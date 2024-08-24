@@ -1,0 +1,30 @@
+{
+  "title": "We would love to hear your thoughts on airdrop #1!",
+  "content": "We would love to hear your thoughts on airdrop #1! In order to keep the feedback\nin one place, please reply to this thread with your thoughts and suggestions.\n\nGood feedback includes:\n\n * Suggestions for how to tune spam filters to reward real users.\n   * Includes sybil resistance as well as improving false sybil positives.\n * Positive sum behaviors you think contribute to the community.\n * Airdrop logistics (size, frequency, etc)\n\nPlease leave constructive feedback so we keep the signal to noise ratio high in\nhere! <333\n\nThank you!!!",
+  "views": 1578,
+  "like_count": 3,
+  "word_count": 327,
+  "answer": [
+    {
+      "content": "I would like to see Airdrop #2 take place in January 2023, at the close of the\nNFT quest window. I also believe this airdrop should be fairly significant in\nsize with lower value but more frequent airdrops to follow monthly/quarterly as\nto incentivize user participation.\n\nHere are some thoughts for spam filters and other considerations:\n\nConsecutive Optimism Bridge Uses\n\nA Minimum Average Of OP Tokens Held Or Utilized Within The Optimism Ecosystem\n\nConsecutive Daily Or Cumulative Forum Visits\n\nNumber Of ‘Constructive’ Forum Posts\n\nAverage Voting Season Participation\n\nNFT Quests Completed\n\nGovernance Call Participation (This May Be Challenging Without A Roll Call)\n\nDelegate Participation\n\nCommittee Participation\n\n> Blockquote",
+      "created_at": "2022-11-24T08:18:05.102Z",
+      "trust_level": 2,
+      "username": "Ovetta",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": " 1. Rather than spam, I think it’s hard to catch the person who left. So, I\n    think that those who have been active after receiving the OP airdrop before,\n    but have withdrawn all the coins, should be excluded from the reward.\n\n 2. I wish there was a form submission form for people doing PR activities. It\n    would be nice to promote through various SNS such as blog, YouTube,\n    Telegram, and Twitter, and give rewards considering the quality of the\n    article and the effect of publicity.\n\n 3. Airdrops want to distribute the amount by dividing it periodically over a\n    period of about a month and about 1 to 2 years. I think people will work\n    harder and steadily if sweet rewards are steadily given until OP and OP’s\n    community get back on track.",
+      "created_at": "2022-11-27T00:34:42.204Z",
+      "trust_level": 2,
+      "username": "hait",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-11-23T19:42:15.371Z"
+}

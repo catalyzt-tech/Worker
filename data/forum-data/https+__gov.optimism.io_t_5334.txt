@@ -1,0 +1,40 @@
+{
+  "title": "[PROPOSAL] Media and Marketing Partnership",
+  "content": "Hi there!\nLet me introduce our crypto marketing agency ICODA - https://icoda.io/\n[https://icoda.io/] and the ways how we could benefit you.\n\nWho are we? It is a cryptocurrency and blockchain agency that operates in\ndifferent parts of the world. The company supplies its customers with turnkey\nmarketing strategies and innovative technologies created according to the goals\nand peculiarities of autonomous organizations.\n\nWe are a team of experts who accompany your firm and deliver crypto leads at all\nstages of platform creation and promotion. Our experience allows us to guarantee\nthat your company will get high-professional comprehensive assistance and\nadvancement.\n\nWe at ICODA are always ready to help you. Book a free consultation right now,\nand our experts will find the most suitable way to promote your organization in\nthe most effective way. The team will define every step carefully and meet the\nrequirements. Check out our cases accessible here: https://icoda.io/cases/\n[https://icoda.io/cases/]\n\nLet’s get to know each other! We would like to propose a meeting to discuss how\nwe can assist you in creating a DAO and building an effective strategy for it.\nMoreover, we’ll discuss the plan, costs as well as the timeline needed for it.\nJust drop me a line below.\n\nKind regards,\nDanaya",
+  "views": 3860,
+  "like_count": 10,
+  "word_count": 260,
+  "answer": [
+    {
+      "content": "Is this a Dapp on optimism or another blockchain or are you looking to fill out\na grant proposal?",
+      "created_at": "2023-02-24T09:55:25.934Z",
+      "trust_level": 2,
+      "username": "FractalVisions",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "I agree with @FractalVisions [/u/fractalvisions] . I cannot grasp the intention\nof the proposal.",
+      "created_at": "2023-02-24T12:28:58.956Z",
+      "trust_level": 2,
+      "username": "CryptoKachu",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "This is too short! We need more details of the project and useful and valid\napplications of this project.",
+      "created_at": "2023-02-26T00:03:43.278Z",
+      "trust_level": 2,
+      "username": "Luckymonkey",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    }
+  ],
+  "created_at": "2023-02-24T09:37:18.634Z"
+}

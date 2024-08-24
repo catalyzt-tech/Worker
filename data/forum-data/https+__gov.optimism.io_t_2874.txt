@@ -1,0 +1,50 @@
+{
+  "title": "Ways to engage more average users in governance",
+  "content": "Here’s what I post in #suggestions channel on Discord. I’ll post it here to\nfacilitate more serious and constructive discussions:\n\nHey team, one big thing that draws me to Optimism is its promise of governance\ninnovation, but currently, i’m not seeing a lot of effort, especially in terms\nof engaging average users in governance. A voting cycle is a big deal right? But\nI’m seeing little to no discussion around the proposals from average users (this\nobservation is largely based on my native language channel which is relatively\nactive). I think one factor that discourages average users from participating is\nknowledge. It’s not realistic to expect the majority of users(voters) to be\ntechie or financially literate, but imo there’s still a lot that can be done to\nlower the barrier. For example, educate the community about some frequently used\nterminology in the proposal (like \"matching incentives - i have some vague idea\nbut don’t quite understand what it means exactly). Also, maybe share with the\ncommunity some important criteria when making decisions. Another thing is that\nthe proposals submitted by many projects are not considerate of the average\nvoters at all - “GYSR is a platform for on-chain incentives that’s compatible\nwith any ERC-20 or ERC-721 tokens.” - wtf does this mean? (again speaking from\nthe perspective of an average user, not techie, not patient, not dumb) This is\nnot the team’s fault but I think there’s still a lot that can be done to hold\nthose projects to a higher standard in terms of proposals submitted. Another\nidea is maybe starting an Optimism Governance podcast, inviting the project\nteams, especially those without a final product, to discuss their efforts and\nvisions (like Optimistic Railway in this voting cycle), or invite two delegates\nwith strong and opposing opinions to debate, etc. There’s no guarantee that\nthese measures will entail better decision-making, but imo these efforts could\nbe a good start and more importantly, demonstrate to the whole Web3 world that\nOptimism is passionate and optimistic about governance.\n\nRegarding the facilitation of a more understandable and average voter friendly\nproject proposal, discord user@PaperImperium seems to have good ideas, and the\nteam could reach out and collaborate:\n\n\nScreen Shot 2022-06-30 at 1.17.23 PM\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/9/921c98945b433fc509faec9d7d31bcad21191c6a_2_389x500.png]\nScreen Shot 2022-06-30 at 1.17.23 PM1054×1352 201 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/9/921c98945b433fc509faec9d7d31bcad21191c6a.png]\n\n\n\nDiscord user @diligit :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]:sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]#2389 pointed out\nthat podcast might not be a good idea because “Nobody listens to podcasts.” I\ndon’t disagree. As I said it’s just my rough thoughts and I rarely listen to\npodcasts myself lol. It just occurs to me that podcast appears to be a thing on\nCT (Zero Knowledge,Bankless etc., even CityDao has a podcast dedicated to the\nproject). I guess it’s more of an attention game than the actual number of\nactive listeners.\n\nAnd attention game is worth playing. On one hand there need to be concrete\nsolutions to educate and lower the barrier to governance participation, on the\nother hand the team needs to put up a show, actively promoting to the wider Web3\nworld that there’re efforts being made and interesting governance happening here\n(The recent Maker Dao episodes is actually a good example, ppl discuss it on\nTwitter. It doesn’t always have to be that dramatic ofc - it can be optimistic).\nImo spectatorship is a hidden crucial component of governance. With the show\ncomes the spectators, who are also likely to turn into participants.",
+  "views": 1706,
+  "like_count": 8,
+  "word_count": 1081,
+  "answer": [
+    {
+      "content": "Hi @chloeee [/u/chloeee] - just wanted to quickly mention that I know the team\nis for sure working on this…much to be done of course, but that for sure the\nOptimism Team is aware of this and involved in iterating to keep improving and\nmaking things become more effective! :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12] :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12] :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]",
+      "created_at": "2022-07-04T19:05:49.886Z",
+      "trust_level": 2,
+      "username": "0xWeston",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "\n[https://avatars.discourse-cdn.com/v4/letter/c/2bfe46/48.png] chloeee:\n\n> This is not the team’s fault but I think there’s still a lot that can be done\n> to hold those projects to a higher standard in terms of proposals submitted.\n\nYou are right its not teams faults, its our fault. Let me ask you this, did you\nask the team for clarification if you didnt understand any line/statement from\ntheir proposal.\nI know, writing the proposal is like writing a user story and sometime we miss\nthings or just assume some terms as we are quite familiar with those, its hard\nto look from others perspective.\n\nAnd that is why we have 3-4 weeks of time to ask such question from the team,\nget those doubt clarify, it not their faults, its ours if we are saying that\nthose lines are too technical or not clear.\n\n> educate the community about some frequently used terminology in the proposal\n> (like \"matching incentives\n\nFor queries like this, this gov forum along with discord channel is there. all\nyou need is motivation and interest to ask\n\nImo, its not the resource that we are lacking, its the motivation to participate\nand that you cant teach. You can lead a horse to water, but you can’t make it\ndrink.",
+      "created_at": "2022-07-04T09:18:39.305Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "The average voters, myself included, are impatient and lazy. I agree that it’s a\nproblem that cannot be solved, as you implied, but it’s a reality that needs to\nbe dealt with or improved.\n\nAn average voter went to snapshot, opened the proposal, found it difficult to\nunderstand and gave up, not bothered to go to the right place and ask the right\nquestion - this is the reality. How about the moderators in general and language\nchannels collect some frequently asked questions and make a post to address them\nor some periodic reminder to average voters that “you have 3-4 weeks of the time\nto ask questions in xx channel?” I’m not looking for magic solutions.\n\nAlso imo the twitter account @OptimismGov is not being utilized effectively.\nWhat I expect to see when I decided to follow that account is something like a\ntwitter thread of the lessons learned from the last voting round and the\nimprovements made.\n\nCurrently there’s no “vibe”, both within the community (except among a very\nsmall group of dedicated ppl) and to the larger Web3 audience.",
+      "created_at": "2022-07-04T10:04:27.171Z",
+      "trust_level": 1,
+      "username": "chloeee",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Just to be clear when I say “and attention game is worth playing,” I’m not\ndoubling down on the podcast idea. My point here is that make the effort AND\ncommunicate/show it to both the community and the larger audience",
+      "created_at": "2022-07-04T10:42:03.436Z",
+      "trust_level": 1,
+      "username": "chloeee",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-07-04T08:28:32.112Z"
+}

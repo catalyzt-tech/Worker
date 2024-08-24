@@ -1,0 +1,60 @@
+{
+  "title": "What it takes to become a Delegate?",
+  "content": "Greetings,\n\nI wonder what I have to do to become a delegate. I read the article on Optimism\nand followed up on all the steps. I added the Voting OP tokens to my account and\nI voted for this recent voting day. Just wondering do I have to do anything? or\nif I just need to wait. Thanks for your help.",
+  "views": 1501,
+  "like_count": 16,
+  "word_count": 461,
+  "answer": [
+    {
+      "content": "Hey There,\n\nglad you are interested in being part of this collective as a delegate. You can\ncreate a delegate profile on Optimism Agora [https://vote.optimism.io/create],\njust connect your wallet, fill your delegate profile details and you are set on\ndelegate journey. Welcome aboard.",
+      "created_at": "2023-04-18T09:40:32.746Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "There is a lot to do and I recommend you read already existing\narticle/documentation on Optimism and DAO in general.\n\nWhat to expect from season 4 and changed expected to be implemented. Get\nyourself familiarized and, possibility, provide feedback. Topics tagged season-4\n[https://gov.optimism.io/tag/season-4] , I wrote a noob version here\n[https://gov.optimism.io/t/opuser-delegate-communication-thread/2777/31]\n\ncode of conduct - Delegate Code of Conduct\n[https://gov.optimism.io/t/delegate-code-of-conduct/3943]\n\nsingle source of truth for DAO proposal process is mentioned in Optimism\nOperating Manual Operating Manual v0.3.5: The Token House and Citizens’ House\n[https://gov.optimism.io/t/operating-manual-v0-3-5-the-token-house-and-citizens-house/5868]\n,\nGitHub - ethereum-optimism/OPerating-manual: OPerating Manual of the Optimism\nCollective. https://optimism.io/vision\n[https://github.com/ethereum-optimism/Operating-manual]\n\nMajor protocol upgrade till date - [FINAL] Upgrade Proposal: Bedrock - v2\n[https://gov.optimism.io/t/final-upgrade-proposal-bedrock-v2/5548]\n\nRead on Citizen house and RPGF - Introducing the Citizens’ House: 10m OP to\nPublic Goods — The Optimism Collective\n[https://optimism.mirror.xyz/wqk1Yeyn2OhV9paDzbRXvQ0m0JYDu2npbSkMClwk1rY]\n\nOptimism Super chain with Base Optimism Goes m̶u̶l̶t̶i̶ Superchain — The\nOptimism Collective\n[https://optimism.mirror.xyz/2jk3D1Y8-hid8YOCUUa6yXmsyzNCYYyFJP0Nhaey9x0]\n\nFollow Optimism Gov twitter handle and join Discord and follow the conversation\nthere as well Discord\n[https://discord.com/channels/667044843901681675/968498307913637919]\n\nDAO is working on iteration which bring new changes each season depending on\nfeedback so I encourage you to read final roundup announcement of each season.\nSeason 2 was particularly important as it was more chaotic, full of unnecessary\nnoise and confusion for everyone involved and could be seen as one step forward,\ntwo steps back but changes were implemented in season 3 to overcome those\nchallenges.\n\nThose links will give you a head start but its only 20% of full picture, so\nread, understand and contribute where you can. No one has knowledge of\neverything, which is jut fine.",
+      "created_at": "2023-04-18T23:08:14.289Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Greetings,\nI already submitted my information and filled up the form accordingly. I have no\nidea what else I should do.",
+      "created_at": "2023-04-18T20:26:26.095Z",
+      "trust_level": 2,
+      "username": "cryptoAYA",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Oh, even with the knowledge of what I can do, there’s still useful information\nhere for me hah\nThanks for putting it all into one post for easy reference",
+      "created_at": "2023-04-20T22:21:10.661Z",
+      "trust_level": 2,
+      "username": "Mark.eth_De.Fi",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Thank you for such a profound reply. I have now lots of articles to read. You\ngot me fully occupied :smiley:\n[https://emoji.discourse-cdn.com/twitter/smiley.png?v=12]. Appreciate that. It\nwas a great help.",
+      "created_at": "2023-04-20T19:55:36.593Z",
+      "trust_level": 2,
+      "username": "cryptoAYA",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2023-04-17T17:28:22.988Z"
+}

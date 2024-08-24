@@ -1,0 +1,13 @@
+title: Translators
+lang: en-US
+description: Helping localize Optimism documentation.
+
+Translators
+
+At Optimism, we know that we can never truly decentralize if we do not embrace the diversity of our community. As such, we take translations seriously. 
+
+If you can speak a second language and want to contribute to the collective, please do! 
+
+You can help translate our User Docs to your local language. We use CrowdIn (you will need to make an account, but its free!).
+
+CrowdIn translators for the Optimism Collective have previously received RetroPGF! Find out more about RetroPGF here.

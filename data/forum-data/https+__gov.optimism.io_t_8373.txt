@@ -1,0 +1,9 @@
+{
+  "title": "Call for Interviews: Share your experience building on/for Optimism",
+  "content": "Dear Optimism Community,\n\nAs a recently approved recipient of the Builder Grant, I’m excited to announce\nthat we’re conducting preliminary research to ensure our project aligns with the\nneeds and expectations of the Optimism builder community. We want to hear from\nyou!\n\nWe are seeking to connect with Optimism builders across various fields—whether\nyou’re involved in tech, education, design, or communications—who have applied\nfor grants of any tier. Your insights are invaluable to us.\n\nWhat We’re Looking For:\n\n• Builders who have had their grant applications approved by the Grant Council.\n\n• Builders who have applied but not received grant approval.\n\nInterview Details:\n\n• Duration: Approximately 30 minutes.\n\n• Anonymity: Available\n\n• Interview Questions: Can be shared in advance if preferred.\n\n * Location: Online meeting\n\nThe interviews will cover topics related to funding, security, and your\nexperiences within the Optimism builder community. Your feedback will help us\nunderstand the community better and shape our project to serve you effectively.\n\nIf you’re interested in participating, please comment below or reach out via\nTelegram at @OxRussel.\n\nFor more information about our project and the Builder Grant we received, check\nout our approved grant link: Optimistic Crowdstaking: Funding More Builders on\nOptimism.\n[https://app.charmverse.io/op-grants/optimistic-crowdstaking-funding-more-builders-on-optimism-8173089535454674]\n\nThank you for your time and contribution. I look forward to hearing from you!\n\nBest regards, 0xR",
+  "views": 151,
+  "like_count": 2,
+  "word_count": 231,
+  "answer": [],
+  "created_at": "2024-06-24T13:09:57.725Z"
+}

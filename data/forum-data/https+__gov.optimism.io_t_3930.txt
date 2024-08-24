@@ -1,0 +1,9 @@
+{
+  "title": "RE: [DRAFT][GF: Phase 1 Proposal] Apetimism Launchpad",
+  "content": "\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/opuser/48/179_2.png]\n[DRAFT][GF: Phase 1 Proposal] Apetimism Launchpad\n[https://gov.optimism.io/t/draft-gf-phase-1-proposal-apetimism-launchpad/3852/3]\nGrants Council [/c/proposals/grants-council/51]\n\n> Thank you for this proposal. We do need some boost in NFT and Metaverse\n> domain. Few point from my side:- Do you have any dashboard/record on past\n> project created using launchpad. I would suggest reduce the distribution time\n> to 4-6 months. Hopefully by next season we will have more info on dev support,\n> if not then please provide more info on 30% use. Are you also including dev\n> work, buying new infra, if server cost then for how many months ? Would you\n> able to provide a cost analysis for this i…",
+  "views": 1654,
+  "like_count": 0,
+  "word_count": 14,
+  "answer": [],
+  "created_at": "2022-11-07T06:04:35.259Z"
+}

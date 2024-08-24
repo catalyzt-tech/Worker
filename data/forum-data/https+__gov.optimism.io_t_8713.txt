@@ -1,0 +1,60 @@
+{
+  "title": "Security Council Nomination: Everett Hildenbrandt (Runtime Verification)",
+  "content": "SEASON 6 SECURITY COUNCIL NOMINATION TEMPLATE - COHORT A\n\n\nPLEASE PASTE YOUR COMPLETED NOMINATION HERE, FOLLOWING THE INSTRUCTIONS AT THE\nTOP.\n\n\nSECURITY COUNCIL MEMBER SELF-NOMINATION TEMPLATE\n\nPlease keep your answers as concise as possible while conveying all relevant\ninformation.\nAll nominations will require 8 Top 100 delegate approvals.\n\nPlease indicate if you are running to be the Council Lead or a Council Member:\n\nCouncil Member\n\nDoes this nomination represent an individual or organization:\n\nOrganization\n\nCandidate country of residence (or, if an entity, incorporation and principle\nplace of business):\n\nUSA\n\nHave you previously served on Optimism’s Security Council:\n\nNo\n\nHave you previously served on any other Council or Board in the Collective:\n\nNo\n\nAre you a representative of OP Labs:\n\nNo\n\nAre you a representative of another OP Chain:\n\nNo\n\nIf you are a delegate, please provide the link to your delegate profile:\n\nNo\n\nIf you are a member of the Citizens’ House, please link to your most recent\nattestation here:\n\nNo\n\nPlease outline your contributions, and their impact, to the Optimism ecosystem\nto date:\n\nWe have worked with the OP Labs team on integrating Kontrol\n[https://kontrol.runtimeverification.com/] —our formal verification tool for\nSolidity and EVM smart contracts—into their CI. Within the course of our most\nrecent engagement, we verified the pausability mechanism (Improving Superchain\nIncident Response Capabilities\n[https://blog.oplabs.co/improved-superchain-incident-response/]) of Optimism L1\ncontracts. Being a part of Optimism’s CI, Kontrol continuously proves that the\npausability mechanism works correctly as code evolves.\n\nKontrol proofs and a detailed description of the project can be found in the\nOptimism monorepo: optimism/packages/contracts-bedrock/test/kontrol at develop ·\nethereum-optimism/optimism · GitHub\n[https://github.com/ethereum-optimism/optimism/tree/develop/packages/contracts-bedrock/test/kontrol],\n\nand our blogpost: Kontrol Integrated Verification of the Optimism Pausability\nMechanism\n[https://runtimeverification.com/blog/kontrol-integrated-verification-of-the-optimism-pausability-mechanism].\n\nPlease demonstrate any non-Optimism experience you believe is relevant to this\nrole:\n\nRuntime Verification [https://runtimeverification.com/] specializes in formal\nverification of software systems, providing the highest level of assurance for\nthe correctness and security of smart contracts and other critical software. Our\nmission is to deliver open-source formal verification and developer tooling to\nreduce the costs of auditing and enable continuous formal verification and\ntesting on each commit.\n\nSince 2018, we have provided formal verification and security services to\nnumerous blockchain foundations and dApps, such as EigenLayer, Uniswap, Ethereum\nFoundation, Lido, Gnosis, Morpho, Polkadot, and many others.\n\nHere you can find a complete list of our previous engagements.\n[https://github.com/runtimeverification/publications]\n\nPlease elaborate on your technical background, including your github handle\n(this will be used to calculate your github expertise score and will be added to\nyour nomination before it goes to a vote by the Foundation):\n\nOur technical expertise is rooted in the development and maintenance of\nindustry-leading tools such as the K Framework, Kontrol, Simbolik, and KEVM.\nThese tools are central to our formal verification processes, which have been\napplied to a wide range of blockchain ecosystems.\n\nOur GitHub Organization [https://github.com/runtimeverification/] hosts all of\nRuntime Verification’s open-source tools and projects, designed to improve the\nsecurity and reliability of blockchain and software systems through formal\nverification.\n\nWe are currently building and maintaining the following projects:\n\n 1. K Framework: A rewrite-based executable semantic framework that allows\n    formal definition of programming languages and VMs.\n 2. Kontrol [https://github.com/runtimeverification/kontrol]: Combines KEVM and\n    Foundry to enable developers to perform formal verification without learning\n    new languages or tools.\n 3. Simbolik\n    [https://marketplace.visualstudio.com/items?itemName=RuntimeVerification.simbolik&ssr=false#review-details]:\n    VSCode-compatible Solidity debugger with built-in symbolic execution engine\n    designed to assist in debugging and verifying smart contracts.\n 4. KEVM: An executable formal specification of the Ethereum Virtual Machine\n    (EVM) in the K framework.\n 5. KWasm: A formal semantics of WebAssembly in the K framework, allowing formal\n    analysis and verification of WebAssembly programs.\n 6. KMIR: A formal semantics of the Rust MIR (Mid-level Intermediate\n    Representation) in the K framework.\n 7. Kasmer: A formal verification tool for WebAssembly, based on KWasm.\n 8. KaaS: CI Integrated Cloud-Based Symbolic Execution.\n\nYou can learn more about our tools from Runtime Verification docs\n[https://docs.runtimeverification.com/index].\n\nPlease elaborate on your experience with relevant member (or Lead) requirements:\n\nRV brings a unique combination of formal verification expertise, deep technical\nsecurity knowledge, and a strong track record of contributing to high-profile\nblockchain ecosystems. Our team is well-versed in secure key management,\ngovernance processes, and the operational aspects of blockchain security. We\nhave successfully integrated formal verification and security tools into CI\npipelines of several projects, demonstrating our ability to manage complex\nsecurity requirements and deliver robust, secure solutions. Our alignment with\nthe Optimistism vision and our technical competency make us a strong candidate\nfor the Security Council.\n\nPlease describe your philosophy on what makes a good Security Council member:\n\nA good Security Council member should embody technical expertise, a commitment\nto transparency, and a strong ethical foundation. At Runtime Verification, we\nbelieve that members must possess deep knowledge in cybersecurity, especially\nweb3 security, enabling them to make decisions that safeguard the network’s\nintegrity. Our previous contributions to the Optimism ecosystem, particularly\nour work with OP Labs, have given us a deep understanding of the ecosystem’s\nethos, which we fully share and support. Collaboration, accountability, and a\nfocus on security are essential to our philosophy, ensuring that decisions\nreflect the community’s best interests while advancing the goals of\ndecentralization within the Optimism ecosystem.\n\nPlease disclose any anticipated conflicts of interest:\n\nRuntime Verification does not anticipate any conflicts of interest in serving on\nthe Optimism Security Council. If any potential conflicts arise, we are\ncommitted to full transparency and will take measures to address them on the\nOptimism forum or under this post.\n\nPlease verify that you understand you may be removed from this role via the\nRepresentative Removal proposal type in the Operating Manual:\n\nYes, understood.\n\nPlease verify that you understand that election is subject to successful\ncompletion of a Foundation screen which may include KYC/AML, sanctions\nscreening, and a requirement to sign a standard contract:\n\nYes\n\nPlease verify that you are able to commit ~5 active hours / month to fulfill the\nMember Responsibilities. Please note that there is an “on-call” aspect to this\nrole that is not fully encompassed in the active hours estimate:\n\nYes",
+  "views": 94,
+  "like_count": 4,
+  "word_count": 1310,
+  "answer": [
+    {
+      "content": "We are impressed with the experience and contributions to the Optimism technical\nfoundation and other ecosystems.\n\nWe are an Optimism delegate [https://vote.optimism.io/delegates/tanegov.eth]\nwith sufficient voting power and believe this candidate is ready to move to an\nelection.",
+      "created_at": "2024-08-14T18:22:39.661Z",
+      "trust_level": 2,
+      "username": "Tane",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Who would be the point person from RV for this role? Regardless, I think this\norganization has sufficient technical background to allow the collective to\nvote. I would, however, like to see this organization have a larger presence\nwithin the optimism community, lending their technical expertise to relevant\ndiscussions.\n\nOn behalf of Blockchain@USC:\nWe are an Optimism delegate\n[https://vote.optimism.io/delegates/0x995013b47ef3a2b07b9e60da6d1fff8fa9c53cf4]\nwith sufficient voting power and we believe this proposal is ready to move to a\nvote.",
+      "created_at": "2024-08-14T22:39:41.020Z",
+      "trust_level": 2,
+      "username": "chaselb",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "I am an Optimism Delegate\n[https://vote.optimism.io/delegates/delegate.chomtana.eth] with sufficient\nvoting power and I believe this proposal with experience on integrating Kontrol\nis ready to move to a vote.",
+      "created_at": "2024-08-15T03:52:28.246Z",
+      "trust_level": 2,
+      "username": "chom",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Main point person would be myself, Everett Hildenbrandt, CEO.\n\nNext point person would be Gregory Makodzeba, Developer Relations.\n\nLet us know how we can get more involved. I’m happy to do technical review of\ngrants/proposals, offer general advice, and will start attending relevant calls\n(eg. DAG).",
+      "created_at": "2024-08-15T01:14:13.851Z",
+      "trust_level": 0,
+      "username": "ehildenb",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "I am an Optimism delegate [https://vote.optimism.io/delegates/anthiaslabs.eth]\nwith sufficient voting power and I believe this proposal is ready to move to a\nvote.",
+      "created_at": "2024-08-15T20:40:46.217Z",
+      "trust_level": 2,
+      "username": "AnthiasLabs",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-08-13T20:57:42.074Z"
+}

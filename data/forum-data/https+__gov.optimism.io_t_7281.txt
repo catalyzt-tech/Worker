@@ -1,0 +1,30 @@
+{
+  "title": "ParaSwap Appeal",
+  "content": "The paraswap team acknowledges that they are taking user funds wrongfully and\neven so they create barriers and refuse to refund users or give any appropriate\ninformation about it.\n\n\nimage\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/9/90b73b7b08c9d95fb757c000021f6dcc82441bfc_2_690x158.png]\nimage1156×266 84.1 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/9/90b73b7b08c9d95fb757c000021f6dcc82441bfc.png]\n\nIt is not common at all a team making a mistake like this and after taking user\nfunds as hostage and demand users to make a governance vote to the DAO\nrequesting a refund. ( not doable as it would require owning their token).\n\n\n\nWhat happened is that paraswap augustus swapper is taking users slippage set and\ntaking that % as a fee that they collect to the DAO. The team also implies it\nwas a “surplus”, the surplus refers to positive slippage in a swap, which is\ndef. not the case here.\nIn the following example they took a bit over 30% of the user swap to their fee\ncollector (Arbitrum Transaction Hash (Txhash) Details | Arbiscan\n[https://arbiscan.io/tx/0xfd4bf5c9a39549b83be3509a172c5a1825d6b6aa8a40d969b4adf88145ca2e3c])\n.\n\nI don’t think its normal for a team at this stage and level to low tier-scam\nusers out of their funds, specially after acknowledging the error is on their\nend. as i am writing this post has been over 5 days the team is reviewing my tx\nand muted/blocked me from contacting them, which leads me to believe this is a\npure scam with intention.\nAll users complaining in their community are left unanswered or in my case muted\nor blocked. It’s not okay for a team to steal user funds and puts all their\neffort in shuting down user, not fixing the problem. (the team even tried to\nfool users with fake explanations of what slippage and surplus are, which not\ncoincide to their docs). They claim the surplus is the positive slippage but\nthey are charging any amount of slippage user sets. (like the trade where they\ngobbled 30% of user funds on swap)\n\nPlease take a deeper look and i am ready to provide a lot more information about\nthis and evidences that support my appeal.\n\nHow many users have been rolled by them and scammed by it without noticing\nreally?",
+  "views": 689,
+  "like_count": 5,
+  "word_count": 461,
+  "answer": [
+    {
+      "content": "overall the team is stealing from users on swaps and after creating barriers and\nrefuse to refund those who noticed the scam.\nimage\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/a/a05af55db2dcae80f94b504004186759cbf566bc.png]\n\nTheir excuse of unusual token movement is simply bullshit, anyone that can check\na tx can see that they are just taking it into their fee collector, there was\nnot really any market movement.",
+      "created_at": "2023-12-23T15:57:40.053Z",
+      "trust_level": 0,
+      "username": "Mummy",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "and nop, this is no irregular market movement. its simply paraswap team scamming\nwtv slippage % users have\n\n\nimage\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/4/47d330325753c968782cbd202a6c78c43192e4e8_2_690x103.png]\nimage1805×270 54.2 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/4/47d330325753c968782cbd202a6c78c43192e4e8.png]\n\n4rd line they take 30%+ of user swap to their fee collector and call it a\n“surplus”, idk what is worst scamming or pretend we all dumb and gonna eat the\nscam\n\n",
+      "created_at": "2023-12-23T16:03:08.191Z",
+      "trust_level": 0,
+      "username": "Mummy",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2023-12-23T15:42:56.783Z"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Security Council: Vote #1 - Change to Security Model",
+  "content": "FOR FULL CONTEXT ON THE IMPLEMENTATION OF THE SECURITY COUNCIL, PLEASE READ\nINTRO TO OPTIMISM’S SECURITY COUNCIL\n[https://gov.optimism.io/t/intro-to-optimisms-security-council/6885]\n\n\nSECURITY COUNCIL: VOTE #1 - CHANGE TO SECURITY MODEL\n\nThe proposal that follows requests Token House approval for a change to the\nsecurity model of OP Mainnet. This change does not constitute a Protocol\nUpgrade.\n\n--------------------------------------------------------------------------------\n\n\nSUMMARY\n\nThis is a proposal to turn proxy admin keys for OP Mainnet over to a public,\ndecentralized set of individual actors (“participants”) accountable to Optimism\nGovernance: i.e., the Security Council.\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/Security%20Council%20Charter%20v0.1.md]\n\nSpecifically, for this initial Security Council proposal (Vote # 1), Governance\nwill vote to approve the addition of the Security Council as one signer (of two)\non a 2/2 multisig that controls protocol upgrades for OP Mainnet. The other\nsigner on the multisig will be the current Foundation multisig.\n\nIf this proposal passes, it will approve a change similar to this illustrative\nexample\n[https://github.com/ethereum-optimism/superchain-ops/blob/zchn/multisig-2-of-2-example/eth/1-proxyadmin-2-of-2-example/proxyadmin.json].\n\nThere will be an on-chain change of the ProxyAdmin’s owner from\n0x9ba6e03d8b90de867373db8cf1a58d2f7f006b3a to a new 2 of 2 multisig\n(0xdc53b1d440b8a56dd50a6d69312dac903d3aa48b, in the example provided above).\n\nThe state diff for the above example can be found here.\n[https://dashboard.tenderly.co/public/safe/safe-apps/simulator/346038ec-661c-405e-af7f-a524487bb789/state-diff]\n\n\nSECURITY CONSIDERATIONS\n\n * The Security Council will operate a Gnosis Safe multisig wallet.\n * Participants will carry out their roles in accordance with the Charter\n   [https://github.com/ethereum-optimism/OPerating-manual/blob/main/Security%20Council%20Charter%20v0.1.md]\n   including the following key points:\n   * During normal operations\n     [https://github.com/ethereum-optimism/OPerating-manual/blob/main/Security%20Council%20Charter%20v0.1.md#normal-operation],\n     the Security Council will implement the protocol upgrade and role\n     designation decisions (such as designations for the sequencer, proposer,\n     and challenger roles, as well as designating the composition of the\n     participants on the Security Council multisig) made by Optimism Governance.\n     The Security Council simply does as Governance directs. It does not\n     directly evaluate the “merit” of the accompanying proposed code (e.g., for\n     security purposes); that evaluation is the responsibility of Governance.\n   * During defined emergency situations\n     [https://github.com/ethereum-optimism/OPerating-manual/blob/main/Security%20Council%20Charter%20v0.1.md#emergency-response],\n     the Security Council is empowered to act preemptively, without direct\n     Governance approval, in order to keep the network safe and secure. Each\n     participant may also take actions they or the Optimism Foundation believes\n     to be necessary to comply with applicable law.\n   * Dysfunctional participants, either individually or acting as a quorum, can\n     be effectively checked, without undermining the security advantages\n     motivating the formation of the Council in the first place.\n\n\nCONCLUSION\n\nYou can read the complete Security Council Charter here\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/Security%20Council%20Charter%20v0.1.md].\nTechnically, neither the existence of a Security Council nor its Charter needs\nto be approved via governance. However, since the implementation of this\nproposed Security Council\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/Security%20Council%20Charter%20v0.1.md]\nrepresents a fundamental change to OP Mainnet’s security model, the Optimism\nFoundation is requesting approval to implement the change.\n\nIf this proposal passes with a 76% approval threshold (30% quorum), the Optimism\nFoundation will move forward with the implementation of the Security Council.\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/Security%20Council%20Charter%20v0.1.md]\n\n--------------------------------------------------------------------------------\n\nNote: Through subsequent Governance proposals and votes, it is intended that\nthis Security Council will eventually extend beyond OP Mainnet, to secure all\nother OP Chains within the Superchain (read more). The ultimate goal is\npreventing any single party from being able to upgrade the system, modify rollup\nstate, or censor transactions.\n\n--------------------------------------------------------------------------------\n\n\nWHAT DOES THIS MEAN FOR DELEGATES?\n\nThis proposal will go to a vote in Special Voting Cycle #16a.",
+  "views": 2701,
+  "like_count": 83,
+  "word_count": 3663,
+  "answer": [
+    {
+      "content": "Glad to see Security Counci on the horizon. This will be my last vote for these\n“giving Foundation full autonomy” type proposals. In future, I’d like to see the\nexact code payload for protocol upgrade proposals. In fact, I’d recommend an\nadditional proposal in a future voting cycle, once the code is ready, with the\nexact code to show the Foundation’s commitment (which is what I assume Vote #1\nimplies). Of course, this should soon be an automated process like in many DAOs,\nwhere the payload is trustlessly executed after the vote, which would minimize\nthe SC’s role only to emergency situations. That should then evolve to only\npause rights (all execution by governance itself) and eventually complete\ndissolution of the SC.",
+      "created_at": "2023-09-29T00:00:47.051Z",
+      "trust_level": 2,
+      "username": "polynya",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 11
+    },
+    {
+      "content": "Hi Polynya, thank you for the feedback.\n\n> In future, I’d like to see the exact code payload for protocol upgrade\n> proposals.\n\nI agree.\n\nThere will not be any execution of transactions before Vote #2, as the final set\nof Security Council members is still being finalized and will be voted on by the\nToken House in Vote #2. Votes #1 and #2 will be executed together by submitting\na transaction that adds Security Council members’ addresses to the upgrade\nmultisig. The Foundation will share the proposed transaction to change signers\nas part of the Vote #2 milestone once the final set of Security Council members’\naddresses is available.\n\nAs noted from your previous feedback on the Bedrock protocol upgrade, all future\nprotocol upgrades submitted by OP Labs or the Foundation will include a commit\nhash with a specific code payload for voters to review. This requirement will\nalso be included in the forthcoming template for protocol upgrade proposals.\n\n> this should soon be an automated process like in many DAOs […] which would\n> minimize the SC’s role only to emergency situations. That should then evolve\n> to only pause rights (all execution by governance itself) and eventually\n> complete dissolution of the SC.\n\nThis is the intended future for the Security Council and protocol upgrades going\nforward. We recognize this initial Security Council structure is a good first\nstep, but in further iterations, the Collective can make additional trust\nminimizing improvements.\n\nThank you for your support of this first step, and thank you for pushing for\nfurther progress.",
+      "created_at": "2023-10-02T18:49:28.624Z",
+      "trust_level": 4,
+      "username": "bobby",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 10
+    },
+    {
+      "content": "We are supportive of the Security Council. Once live and approved by Governance,\nthe Security Council will help secure and decentralize OP Mainnet, Base, and\nother chains that will be built on the OP Stack and participate in the\nSuperchain.\n\nThough we would like to show our support in this voting cycle, we do not\ncurrently have the technical ability to vote (working on making it happen!) and\nare still listening and refining our overall strategy around our governance\ninvolvement (give us feedback here\n[https://gov.optimism.io/t/how-base-will-participate-in-optimism-governance]).\nWe will share more updates with the Community as we progress.",
+      "created_at": "2023-10-25T18:27:09.804Z",
+      "trust_level": 3,
+      "username": "Base",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 10
+    },
+    {
+      "content": "We’re happy to see Optimism governance introduce the Security Council this\nseason. We agree that the council should be made up of ethical, committed people\nwith expertise in the area to carry out its activities minimizing the risks that\nstill imply having the power to update the entire chain with the acceptance of a\nfew parties.\n\nOne point to highlight is the region considerations, both geographic and more\nimportantly time zone, I think are critical to have.\n\nSome questions:\n\n 1. About delayed upgrades, maybe the docs are not clear enough; does all\n    upgrades have ALL a 14 delay period or is there a method to execute them\n    immediately for, by example, emergency purposes?\n\n 2. Deleting an output for any reason other than OP Mainnet bugs/invalid outputs\n    is considered a violation of the Law of Chains?\n\n 3. A little more clarity here, can the Security Council act in an emergency if\n    the sequencer, batcher or proposer acts maliciously (let’s say, massive\n    censorship that not even governance can operate)?\n\n 4. What is the method that will be used to check reaction times (also\n    liveness)?\n    Idea: carry out drills in a completely random way in groups and\n    individually.\n\n 5. From the Security Council Charter v0.1: \"If the number of signers is reduced\n    below 8, then a safety mechanism is activated which hands control of the\n    Security Council to the Foundation.\n    \"What is this mechanism and how does the Foundation intend to enforce it?\n\nThank you!",
+      "created_at": "2023-10-11T14:47:41.811Z",
+      "trust_level": 2,
+      "username": "Joxes",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "Thank you so much @bobby [/u/bobby] for the explanation. Nothing more to add,\nnow is more clear for us.\n\nWe vote FOR this proposal.\n\nThe eventual introduction of the Security Council is an obvious step in the\nright direction and we are happy that it’s happening now. The details provided\nin the documentation and clarifications in this thread lead us to believe that\nSecurity Council Charter\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/Security%20Council%20Charter%20v0.1.md]\ncover all the necessary points to achieve its effectiveness and reduce the\nprevious risks as well as the new ones with this change.",
+      "created_at": "2023-10-25T15:10:11.576Z",
+      "trust_level": 2,
+      "username": "Joxes",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    }
+  ],
+  "created_at": "2023-09-28T20:12:05.598Z"
+}

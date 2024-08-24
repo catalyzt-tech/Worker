@@ -1,0 +1,60 @@
+{
+  "title": "Questions on Wintermute's mistake, and Wintermute - are you ready to make an offer offer to the attacker? They send you 19M OP, you send them USDC. Problem solved",
+  "content": "Question 1:\n\nAccording to OP’s tweet:\n\ntwitter.com\n[https://twitter.com/optimismPBC/status/1534631769261191168?s=20&t=YGU4YXE2zVV_uau9kfTJzg]\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/e/ef667355953a31f06c93dcc8a549e7cec44b607e.jpeg]\n\nOPTIMISM (✨🔴_🔴✨)\n[https://twitter.com/optimismPBC/status/1534631769261191168?s=20&t=YGU4YXE2zVV_uau9kfTJzg]\n\n@optimismFND\n[https://twitter.com/optimismPBC/status/1534631769261191168?s=20&t=YGU4YXE2zVV_uau9kfTJzg]\nThe Optimism Foundation sent two separate test transactions, and upon\nWintermute’s confirmation for each, sent the rest.\n8:21 PM - 8 Jun 2022\n[https://twitter.com/optimismPBC/status/1534631769261191168?s=20&t=YGU4YXE2zVV_uau9kfTJzg]\n100 7\n\n\n\n> The Optimism Foundation sent two separate test transactions, and upon\n> Wintermute’s confirmation for each, sent the rest.\n\nWhat exactly did you test and confirm, Wintermute? Please provide transparency\non this.\n\nQuestion 2:\n\nNow the attacker has 19 M OP tokens in his wallet.\n\nYou claim you will buy an equivalent amount whenever the attacker sells.\n\nWhy dont you make an open offer to the attacker - Attacker sends you 19 M OP,\nyou send them equivalent USDC/ETH whatever they want.\n\nSolves this issue at once.\n\nPlease let us know.",
+  "views": 2766,
+  "like_count": 6,
+  "word_count": 384,
+  "answer": [
+    {
+      "content": "Please reference Message to Optimism community from Wintermute\n[https://gov.optimism.io/t/message-to-optimism-community-from-wintermute/2595]",
+      "created_at": "2022-09-13T16:45:33.343Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 0
+    },
+    {
+      "content": "It is better to open an op2, replace the op one by one, and exclude the hacker’s\nop. the problem will be solved",
+      "created_at": "2022-06-09T02:45:32.720Z",
+      "trust_level": 1,
+      "username": "zzz",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "\n[https://avatars.discourse-cdn.com/v4/letter/0/848f3c/48.png] 0xJohn:\n\n> Why dont you make an open offer to the attacker - Attacker sends you 19 M OP,\n> you send them equivalent USDC/ETH whatever they want.\n\nAgreed. Actually I’m not sure that you will buy back when they dump.",
+      "created_at": "2022-06-09T14:37:07.774Z",
+      "trust_level": 1,
+      "username": "toranit",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "I suppose you made this proposal out of trust issues with Wintermute. Not that I\nknow the Wintermute’s team like I know that of Optimism and I still question\nWintermute’s transparency on the 2 separate test tx confirmed but one thing is\nfor sure, If Optimism itself confirms and announces that Wintermute will be\ndoing just that anytime he sells and has done that when he sold 1M $OP, then if\nI can’t believe Wintermute, I can at least give Optimism a chance.\n\nTelling the Wintermute to offer an equivalent amount of the OP in USDC or ETH\nwill only be writing off the “IF” in the statement “If he eventually sells”. The\ntruth is, no one prays he dumps them all and draining liquidity, it can cause\nprice volatility. He sold 1M $OP already and I think it’s a win for him also.\nPressing this idea into his skull(who knows if he’s reading) would be a total\nloss on both Optimism and Wintermute when in fact, what they want is a win-win.",
+      "created_at": "2022-06-10T14:55:47.222Z",
+      "trust_level": 1,
+      "username": "Princecrypto.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "Are you out of your mind? @admins [/groups/admins]",
+      "created_at": "2022-06-09T02:58:55.369Z",
+      "trust_level": 0,
+      "username": "Gaurav",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-06-08T21:12:12.201Z"
+}

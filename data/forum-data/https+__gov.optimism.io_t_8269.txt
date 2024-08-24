@@ -1,0 +1,60 @@
+{
+  "title": "Developer Advisory Board S6 Election Town Hall",
+  "content": "Congratulations to all the self-nominees! The following folks have officially\nself-nominated for the Season 6 Developer Advisory Board (note that any OP Chain\nor Citizenship affiliation is highlighted):\n\nOps Leads\n\n@devtooligan [/u/devtooligan] (link to self-nomination\n[https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/5])\n\n@wildmolasses [/u/wildmolasses] / Ed Mazurek (link to self-nomination\n[https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/10])\n- Citizen\n\n@wbnns [/u/wbnns] (link to self-nomination\n[https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/16])\n- Base affiliate\n\n@bytes032 [/u/bytes032] (link to self-nomination\n[https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/18])\n\nUpgrade Czar\n\n@Jepsen [/u/jepsen] (link to self-nomination\n[https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/4])\n\n@blockdev [/u/blockdev] (link to self-nomination\n[https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/14])\n\n@anika [/u/anika] (link to self-nomination\n[https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/20])\n- Base affiliate\n\nAdditional Member\n\n@bayardo [/u/bayardo] (link to self-nomination\n[https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/6])\n- Base affiliate WITHDRAWN\n\n@merklefruit [/u/merklefruit] link to self-nomination\n[https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/7])\n\n@gmhacker [/u/gmhacker] (link to self-nomination\n[https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/8])\n\n@jtriley.eth [/u/jtriley.eth] (link to self-nomination\n[https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/11])\n\n@shekhirin [/u/shekhirin] (link to self-nomination\n[https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/12])\n\n@philogy [/u/philogy] (link to self-nomination\n[https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/13])\n\n@noah.eth [/u/noah.eth] (link to self-nomination\n[https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/15])\n\n@chom [/u/chom] (link to self-nomination\n[https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/17])\n\n@0xleastwood [/u/0xleastwood] (link to self-nomination\n[https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/21])\n\n@alextnetto.eth [/u/alextnetto.eth] (link to self-nomination\n[https://gov.optimism.io/t/season-6-nominations-developer-advisory-board/8117/22])\n\n\nTHE DEVELOPER ADVISORY BOARD TOWN HALL WILL BE HOSTED ON TUESDAY, JUNE 11TH FROM\n2PM - 3PM ET / 6PM - 7PM GMT.\n\nYou can find the invite via the public Governance Calendar\n[https://calendar.google.com/calendar/u/0/r?cid=Y19mbm10Z3VoNm5vbzZxZ2JuaTJncGVyaWQ0a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t].\n\nAs of now, the structure of the Town Hall will be each nominee will have 60\nseconds to answer one question from the Foundation:\n\n * What unique skills or habits will you bring to the Developer Advisory Board\n   to ensure it delivers measurable impact towards the approved KPIs?\n\nUser Experience KPIs:\n\n * Did 100% of Protocol Upgrades have a non-technical summary posted within 72\n   hours and get approval or comments from the DAB?\n * What NPS score would the Grants Council reviewers provide (answering: “On a\n   scale from 1-10, if it were up to you, how likely would you be to renew the\n   DAB next season?”)\n * What NPS score would the Citizens give the DAB (answering: “On a scale from\n   1-10, how much value do you feel the DAB provided the community this\n   season?”)\n\nPerformance KPIs:\n\n * Did voting participation on Protocol Upgrades increase (including abstains)\n   since the non-technical summaries were implemented?\n * Did the number of milestones missed by grant recipients decrease on\n   DAB-approved grants relative to grants before the DAB?\n * Did the quality of technical grants chosen increase, as evaluated by members\n   of the OP Labs engineering team?\n\nSelf-nominees who aren’t able to attend live may share a <60 second video\nanswering the question above.\n\nIf you’re a delegate, and you’re interested in asking a question to all\nself-nominees during the Town Hall please comment it below. If time allows one\nquestion at random will be picked from the list of delegate questions in this\nthread.\n\nIf you have specific questions for specific nominees, please comment them below\nas well and council nominees may answer the questions async.\n\nAs a reminder, candidate assessments will take place until June 12th, and the\nVoting Period for elections will take place from June 13th - June 20th.",
+  "views": 594,
+  "like_count": 14,
+  "word_count": 1209,
+  "answer": [
+    {
+      "content": "Hi, due to my involvement in a different OP council I feel it’s best to withdraw\nmy application for this season to avoid the overlap. I look forward to\nparticipating in a future iteration!\n\nRoberto",
+      "created_at": "2024-06-13T19:36:08.540Z",
+      "trust_level": 2,
+      "username": "bayardo",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Hello,\n\nIn a shocking coincidence, I lost my house electricity for 4 hours in the\nprecise moment I was called to present my case. I apologize for that…\n\nI’m sending here what I was going to say in my 60 seconds:\n\n“”\"\n\nI’m Gonçalo, I’m the Head of Security over at Immunefi.\n\nI have extensive and multi-faceted dev experience both outside the space -\nembedded systems, finance - and inside the blockchain ecosystem, as well as web3\nsecurity research experience and organizational and infrastructure-level\ncybersecurity expertise.\n\nI am a former whitehat scholar and then Immunefi triager, so I had to both\ndeeply understand complex bug reports and assess their impact as well as\naccurately describe it to the different parties involved.\n\nA similar balance is required in teaching advanced blockchain topics which I’ve\nbeen doing for the last 2 years and am currently doing at RareSkills. The\nmixture of technical expertise combined with these soft skills and business\nknowledge is why I believe I’d be of value to the Developer Advisory Board.\n\n“”\"\n\nI hope I can still be considered for the DAB.\n\nCheers,",
+      "created_at": "2024-06-12T07:40:54.000Z",
+      "trust_level": 0,
+      "username": "gmhacker",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Thank you to all the self-nominees who attended the Developer Advisory Board\nSeason 6 Town Hall, and for those who submitted their statements ahead of time.\n\nHere you’ll find an audio recording from the call\n[https://drive.google.com/file/d/1s0I_mBqKuyNsUKJUwxQtJxqzvRlcF-FR/view?usp=sharing].\n\nYou can also find a Feedback Thread\n[https://gov.optimism.io/t/developer-advisory-board-season-6-nomination-election-process-feedback/],\nwhere any feedback about the Developer Advisory Board self-nomination process,\nelection town hall, or overall process would be much appreciated.",
+      "created_at": "2024-06-11T20:50:34.338Z",
+      "trust_level": 4,
+      "username": "maxwell",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "No worries at all! Thanks so much @gmhacker [/u/gmhacker] for sharing your\ncandidate statement here.\n\nEveryone who self-nominated will still be considered for the DAB by delegates,\nregardless of whether they attended the election town hall or submitted a\ncandidate statement.",
+      "created_at": "2024-06-12T15:01:22.014Z",
+      "trust_level": 4,
+      "username": "maxwell",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "An invite was just sent out to all self-nominees with a calendar hold for the\nDeveloper Advisory Board Election Townhall next week that includes the meeting\nlink :pray: [https://emoji.discourse-cdn.com/twitter/pray.png?v=12] - the\nmeeting information can also be found via the public Governance Calendar\n[https://calendar.google.com/calendar/u/0/r?cid=Y19mbm10Z3VoNm5vbzZxZ2JuaTJncGVyaWQ0a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t].",
+      "created_at": "2024-06-06T18:29:56.817Z",
+      "trust_level": 4,
+      "username": "maxwell",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-06-06T14:39:54.815Z"
+}

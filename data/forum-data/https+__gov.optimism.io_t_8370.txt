@@ -1,0 +1,20 @@
+{
+  "title": "Why I am getting this error?",
+  "content": "Hello\n\nI recently posted a query on this forum, But now it is showing this error- “\nHello\n\nI recently posted a query on this forum, But now it is showing this error- “ Our\nautomated spam filter, Akismet [https://akismet.com/], has temporarily hidden\nyour post\n[https://gov.optimism.io/t/what-metrics-should-we-use-to-measure-the-effectiveness-of-airdrops-in-the-superchain/8368/1]\nin What metrics should we use to measure the effectiveness of airdrops in the\nSuperchain? for review.”\nhttps://gov.optimism.io/t/what-metrics-should-we-use-to-measure-the-effectiveness-of-airdrops-in-the-superchain/8368/1\n[https://gov.optimism.io/t/what-metrics-should-we-use-to-measure-the-effectiveness-of-airdrops-in-the-superchain/8368/1]\n\n\n\nimage\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/6/6ddd82477ef4f526c0a32641d708e82877680ba8.png]\nimage852×342 17.4 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/6/6ddd82477ef4f526c0a32641d708e82877680ba8.png]\n\n\n\nI need solution for this . I have followed all community guidelines. pls restore\nmy post .\n\nThank you",
+  "views": 207,
+  "like_count": 0,
+  "word_count": 145,
+  "answer": [
+    {
+      "content": "GM! Just a heads up, your post is visible. Akismet marked it as spam, but the\nflag was rejected.",
+      "created_at": "2024-06-29T19:02:17.801Z",
+      "trust_level": 4,
+      "username": "brichis",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-06-24T05:40:00.582Z"
+}

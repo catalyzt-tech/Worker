@@ -1,0 +1,60 @@
+{
+  "title": "Message to Optimism community from Wintermute",
+  "content": "Hi Optimism Community. On behalf of Wintermute I wanted to explain the recent\nevents surrounding wallet 0x4f3a120E72C76c22ae802D129F599BFDbc31cb81. I’ll aim\nto be as factual as possible, focusing on full transparency and making sure\nevery Optimism stakeholder is on the same page with the current situation as\nwell as making it clear what our actions are going forward.\n\nTimeline of events\n\nTwo weeks ago, Wintermute was engaged by the Optimism Foundation to provide\nliquidity in the OP token upon its listing on centralized exchanges. As part of\nthe agreement Wintermute received a 20 million loan in OP.\n\nInitially the loan was to be deployed on one of the Wintermute’s wallets on\nOptimism. As we communicated the wallet address to the Optimism team, we made a\nserious error. We had a Gnosis safe deployed on mainnet for a while and due to\nan internal mistake, we’ve communicated the very same wallet as the receiving\naddress. As some of you may know, this is not a smart thing to do - having\ncontrol over mainnet Safe doesn’t guarantee control on other EVM compatible\nchains (unlike ordinary wallets).\n\nWe notified the Optimism team on the 30th of May. Since the launch next day was\na clear priority we agreed on receiving additional 20 million tokens (providing\n$50 million USDC as collateral), all while exploring ways to retrieve the funds.\nAt the same time we got in contact with the Gnosis Safe team, asking them for\nassistance with retrieving the funds. After consulting with the Optimism and\nSafe teams, Wintermute made the assessment that the funds were potentially\nretrievable, and that nobody other than Wintermute could recover those funds.\nThe assessment was also that it was a high risk retrieval that could only be\nattempted once and required Safe to support. Retrieval was scheduled for 7th of\nJune. However, the assumption that the funds can only be recoverable by\nWintermute proved to be false.\n\nExploit\n\nSomebody has done their homework well, however. In less than 24 hours after we\nnotified Safe and Optimism about the situation, wallet\n0x8BcFe4f1358E50A1db10025D731C8b3b17f04DBB has been funded via tornado cash\ntransfer\n[https://optimistic.etherscan.io/address/0x8bcfe4f1358e50a1db10025d731c8b3b17f04dbb#internaltx].\nIt proceeded with performing a replay attack by replaying the Gnosis Safe\nMasterCopy 1.1.1 deployment from Eth mainnet. They then used the previously\ndeployed contract 0xE7145dd6287AE53326347f3A6694fCf2954bcD8A to deploy vaults\nper batches of 162. The hacker then proceeded with selling 1m OP tokens for ETH\nand withdrew back to L1 via Synapse and Hop bridges to then use tornado cash on\nmainnet.\n\nWhat we are planning to do about it\n\nAs of the time of this writing, the attacker still has 19 million OP tokens in\ntheir possession. We are not sure why they chose not to liquidate all of it at\nonce. There is hope that it is a whitehat exploit, in which case the remaining\nfunds are potentially recoverable. However we are currently operating under the\npremise that it is not the case, since we haven’t received any communication\nfrom them and our message on the chain was left unanswered.\n\nWe want to make one thing clear - the initial error is 100% Wintermute’s fault\nand as such we will proceed to buy OP every time the attacker sells it to make\nthe protocol whole eventually (we did initiate buying the first million OP\ntokens yesterday already). We understand that it can potentially create price\nvolatility in the token and will make best efforts to smoothen the effect.\n\nMessage to the exploiter\n\nWe expect the exploiter to read this as well (eventually). This is our message\nto you:\n\nWe are open to see this as a white hat exploit. Moreover, the way the attack has\nbeen performed has been rather impressive and we can even consider consulting\nopportunities or other forms of cooperation in future. We are also content with\nthe scenario where the remaining 19 million tokens are returned to Optimism\nwallet:\n\n0x2501c477d0a35545a387aa4a3eee4292a9a8b3f0\n\nYou have one week to consider being a whitehat. In case the above doesn’t\nhappen, we are 100% committed to returning all the funds, tracking the person(s)\nresponsible for the exploit, fully doxxing them and delivering them to the\ncorresponding juridical system. Remember that robbers need to get lucky every\ntime. Cops only have to get lucky once. This is not a “code is law” theoretical\nargument. This is you taking a bag with cash that was left behind by a\n(careless) person. Us being careless still leaves you a criminal. We already\nstarted investigating the potential leads, in certain cases stopping short of\ninforming respective law enforcement agencies. Consider your options and choose\nto be good and optimistic instead of living in fear :upside_down_face:\n[https://emoji.discourse-cdn.com/twitter/upside_down_face.png?v=12]",
+  "views": 23073,
+  "like_count": 212,
+  "word_count": 3973,
+  "answer": [
+    {
+      "content": "why is everyone thanking these guys!?This should have been mentioned to the\ncommunity way before this and this is not how transparency works. As the\ncommunity is very disappointed in the teams and how things were handled up to\nthis point. Market makers dumping the price in order to buy back ( the reality\nof what is happening so far) is not a great thing for a project. Optimism was a\ngreat concept and we had high hopes for this; the community have now lost the\ntrust. Now there will be plenty of guys from both teams coming here and slamming\nthis message saying this and that. Go for it! - Reality is the teams should have\nbeen transparent before this! They should have communicated this within 48 hrs\nmax. Those who knew already cashed out of the air drop and now talking about\ngetting the next one. unbelievable ! Keep in mind the market makers are not here\non goodwill. They will make their money one way or another. This is just wrong\non so many levels.",
+      "created_at": "2022-06-09T01:43:55.656Z",
+      "trust_level": 1,
+      "username": "ApePrince",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 12
+    },
+    {
+      "content": "Thanks @wishful_cynic [/u/wishful_cynic] for the transparency and\naccountability, we appreciate it.",
+      "created_at": "2022-06-08T20:36:42.378Z",
+      "trust_level": 4,
+      "username": "ben-chain",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 11
+    },
+    {
+      "content": "kudos for taking the responsibility and for being transparent.",
+      "created_at": "2022-06-08T20:48:18.594Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": "Thank you for the transparency. I really hope the owner will act as a white hat\nand both parties settle this problem quickly in the interest of both.\n\nIn any case, this is a persistent debt on the part of the Wintermute company. Is\nthere any ongoing aggrement to guarantee that even after the years and the\nmarket stage, Wintermute will meet its obligations? For example by providing\nmore additional collateral to the Optimism Foundation for this purpose.\n\nIf there is information in this regard that can be shared, to continue with\ntransparency in procedures, it would be appreciated.\n\n(In the same way we expect the governance&community can follow more closely this\ntype of agreements in the future [for provision of liquidity and similar] to\nensure that everything is OK if possible).",
+      "created_at": "2022-06-09T00:33:16.925Z",
+      "trust_level": 2,
+      "username": "Joxes",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": "Thank you for the transparency, for accepting responsibility, and for the\nbuyback commitment.\n\nWishing your team the best with the recovery.",
+      "created_at": "2022-06-08T20:38:50.386Z",
+      "trust_level": 2,
+      "username": "forrest",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    }
+  ],
+  "created_at": "2022-06-08T20:15:36.401Z"
+}

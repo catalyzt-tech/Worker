@@ -1,0 +1,60 @@
+{
+  "title": "TECHNICAL GRANT APPLICATION - WEB3 Game rocket Rocket",
+  "content": "TECHNICAL GRANT APPLICATION - WEB3 Game :rocket:\n[https://emoji.discourse-cdn.com/twitter/rocket.png?v=12] Rocket - TIER 1\n\nAPPLICATION INTRODUCTION\nWe found https://philand.xyz/ [https://philand.xyz/] startup and they had raised\ncapital few days ago. The world of games is back again. Our goal is to create a\nsimple game for all users, marketplace of items and earnings system. We already\nhave a community in eastern Europe and Southeast Asia\n\nThe basic idea is that we sell rockets at the launch of the game, and you move\naround the planets. Every time you can buy fuel tanks, the flight range depends\non it. Also, at each stop - in our case, this is a planet, buy your own gas\nstation, and receive income from it. Users can sell and buy fuel, rockets, tanks\n\n\n\nrocket1\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/5/5dcbef9f346d5ee94226703dfce0417072fd045e_2_690x490.png]\nrocket11440×1024 3.17 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/5/5dcbef9f346d5ee94226703dfce0417072fd045e.png]\n\n\n\nInitially, the application will be released in web format, that is, the game in\nthe browser, but we want to release a version on ElectronJS. We also want to\ndraw tokens to attract new users and attention to the ecosystem\n\nTEAM\n\nYakushev Hermann - CEO, I live in Kuala Lumpur, Malaysia, was born in Europe.\nNextJS, HTML, CSS, Solidity, NodeJS, Vue, React. instagram.com/yakushevhk\n[http://instagram.com/yakushevhk]\n\nVenedeev Vladimir - Design, live in Bangkok, Thailand. Figma, AdobeXD, Protopie,\nIllustrator\n\nTOTAL BUDGET AND FUNDING TIER\n\nWe need 4-5k USD or more, and 3 weeks to release first version of the game.\n\nCURRENT FUNCTIONALITY\n\nOnly prototype and design system, next stage - smartcontracts and frontend and\nbackend\n\nTECHNICAL PROPOSAL\n\nNew community to Conflux, nice Web3 Game and promotion for the network\n\nSYSTEM MODEL\n\nThe working product will be released in March 2023 if we will start development\nnow. And play the game in your browser\n\nDEVELOPMENT ROADMAP\n\n2023 Q1-Q2 Release first Version\n2023 Q1-Q2 Promotion\n2023 Q3 List Tokens on DEX\n\nHow many users does your project have currently?\n300 in telegram\n\nMAINTENANCE CONSIDERATIONS\n\nDifferent modules will be added one by one, main functions will be not affected.\nOther projects from Optimism ecosystem are welcome and will be supported\naccordingly\n\nSend us an email to h@y7.hk or contact directly in Discord yakushev#3724\n\nI confirm that I have read the landing pages for the Builders\n[https://foul-porch-0eb.notion.site/Builders-Sub-Committee-02ba9da5b4534fbf955e6e4c8fcf1aa3]\nand Growth Experiments\n[https://foul-porch-0eb.notion.site/Growth-Experiments-Sub-Committee-270d2f75ff0f410a869b2ba6a8324006]\nSub-Committees and that I have determined my proposal is best suited to be\nreviewed by the Growth Experiments Sub-Committee: YES\n\nI understand that Growth Experiments grants are subject to a “no sale rule,” as\nexplained in this post [https://gov.optimism.io/t/grant-proposal-template/3233],\nand I have read the terms of the rule: YES\n\nI understand that I will be required to provide additional KYC information to\nthe Optimism Foundation to receive this grant: YES\n\nI understand that I will be expected to following the public grant reporting\nrequirements outlined here\n[https://gov.optimism.io/t/suggested-public-reporting-requirements-for-grantees/4176]:\nYES\n\nADDRESS 0xBEfe4C9961CF95771f64D5976D8673bC89b204d2",
+  "views": 2055,
+  "like_count": 11,
+  "word_count": 598,
+  "answer": [
+    {
+      "content": "rocket8\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/5/534de77930e7b5196b6b440e932453631b610732_2_690x490.png]\nrocket81440×1024 21.8 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/5/534de77930e7b5196b6b440e932453631b610732.png]\n\n",
+      "created_at": "2023-02-23T08:02:50.051Z",
+      "trust_level": 1,
+      "username": "yakushev",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "rocket2\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/c/cc3f090a0773be6770f11988a577a3edf5fcec72.png]\nrocket21440×1024 20.1 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/c/cc3f090a0773be6770f11988a577a3edf5fcec72.png]\n\n",
+      "created_at": "2023-02-23T07:58:31.292Z",
+      "trust_level": 1,
+      "username": "yakushev",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "rocket3\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/e/eb0b67a9cdd47bfac03cd27331278fe5ffff6b29.png]\nrocket31440×1024 24.9 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/e/eb0b67a9cdd47bfac03cd27331278fe5ffff6b29.png]\n\n",
+      "created_at": "2023-02-23T07:59:04.133Z",
+      "trust_level": 1,
+      "username": "yakushev",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "rocket4\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/8/8ade12dcee48d594f41d2097d967d1b943e23126.png]\nrocket41440×1024 27.5 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/8/8ade12dcee48d594f41d2097d967d1b943e23126.png]\n\n",
+      "created_at": "2023-02-23T07:59:36.088Z",
+      "trust_level": 1,
+      "username": "yakushev",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "rocket5\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/7/769c312d8aaf848537bcc9ad15f9f670c5a570a3_2_690x490.png]\nrocket51440×1024 25.3 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/7/769c312d8aaf848537bcc9ad15f9f670c5a570a3.png]\n\n",
+      "created_at": "2023-02-23T08:00:09.206Z",
+      "trust_level": 1,
+      "username": "yakushev",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2023-02-23T07:54:29.085Z"
+}

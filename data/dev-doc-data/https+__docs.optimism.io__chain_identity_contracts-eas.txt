@@ -1,0 +1,37 @@
+title: Contracts (EAS)
+lang: en-US
+description: Learn the basics of contracts for EAS, EAS contract addresses, and how to read and write attestations.
+
+EAS Contracts
+
+This guide covers Ethereum Attestation Service ("EAS"), an open-source public good that is included as a predeploy in the OP Stack.
+It also covers EAS contract addresses, how to read and write attestations, and indexing.
+
+EAS Contract Addresses
+
+The Ethereum Attestation Service is deployed on these addresses:
+
+Network Attestation Contract Schema Registry Contract
+OP Sepolia 0x4200000000000000000000000000000000000021 0x4200000000000000000000000000000000000020
+OP Mainnet 0x4200000000000000000000000000000000000021 0x4200000000000000000000000000000000000020
+
+How to Read and Write Attestations
+
+You can read and write attestations in several ways:
+
+EAS scan user interface (OP Mainnet)
+EAS scan user interface (OP Sepolia)
+JavaScript SDK
+Access directly onchain (if you need to attest from a smart contract)
+
+Indexing
+
+Indexing is available via:
+
+GraphQL endpoint
+Ponder graph
+Open source indexer
+
+Next Steps
+
+For more information on working with attestations, see Build Decentralized Identity Apps with Attestations.

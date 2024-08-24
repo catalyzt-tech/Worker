@@ -1,0 +1,50 @@
+{
+  "title": "Superchain Discussion on Discord! March 7th [10am PT / 1pm ET / 7pm CET]",
+  "content": "Hey Everyone!\n\nWe will be having a community discussion on discord about (⌐■_■) SUPERCHAIN\n(⌐■_■).\n\nThe discussion will take place March 7th in the gov-chat channel on Discord at\nthe at the normal time of the community call (10am PT / 1pm ET / 7pm CET).\n\nIf there is anything you’d like to talk about, feel free to comment below or\njoin the conversation.\n\nHope to see you there!\nMichael :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]",
+  "views": 1568,
+  "like_count": 14,
+  "word_count": 128,
+  "answer": [
+    {
+      "content": "We will have a delegates call (open to everyone) at the same time next week and\npotentially we can do another discussion 2 weeks from now on Discord.",
+      "created_at": "2023-03-08T20:57:23.007Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "missed joining this. when will the next discussion be coming up?",
+      "created_at": "2023-03-08T20:42:57.311Z",
+      "trust_level": 0,
+      "username": "Ifeolayeni",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "great. i’d mark my calendar now. looking forward to it",
+      "created_at": "2023-03-08T20:59:09.475Z",
+      "trust_level": 0,
+      "username": "Ifeolayeni",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Nice, cant wait for this epic event",
+      "created_at": "2023-03-13T00:12:23.853Z",
+      "trust_level": 0,
+      "username": "n1kanor",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2023-03-07T03:44:11.111Z"
+}

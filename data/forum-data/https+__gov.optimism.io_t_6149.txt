@@ -1,0 +1,50 @@
+{
+  "title": "Ecosystem Onboarding & Education",
+  "content": "S4 Intent: Spread Awareness of the Optimistic Vision (Intent 3)\n\nProposed Mission: Sponsor content & promote Optimism\n\nProposal Tier: Ember\n\nPlease verify that you meet the qualifications for your Tier: I am a new\ncommunity member that has not worked with or for the Optimism Collective before\n\nBaseline grant amount: 25.7k OP\n\n% of total available Intent budget: 2.57%\n\nAlliance name: MetaFam\n\nAlliance Lead: peth\n\nContact info: @peth [/u/peth] here, @petheth on telegram, discord & twitter)\n\nL2 recipient address: 0xb9EC370A07FC0B1f01d55a832B027D036fD54574\n\nPlease list the members of your Alliance and link to any previous work:\n\n * peth - founder of MetaGame [https://metagame.wtf/] & organizer of MetaFest\n   [https://metafest.wtf/]\n * eowulia - editor of MetaRadio & organizer of MetaFest\n * Vanessa - writer & shiller at MetaGame\n * Hhh - writer & developer at MetaGame\n\nWTF is MetaGame & why Optimism should give us a grant\n\nPlease explain how this Mission will help accomplish the above Intent:\n\n * We have a newsletter & a podcast that goes out to >12,000 people interested\n   in learning about Web3, DAOs & the bigger picture\n * The conference we’re organizing is likewise focused on “coordination,\n   regeneration & the bigger picture”, its a gathering trying to bridge related\n   web3 communities with their non-web3 counterparts as well as bring at least\n   10% of complete newcomers to learn about DAOs & ReFi\n * The latter will also feed into the former, all the content will get recycled\n   into posts & the full “DAO Design Track” will be turned into an online course\n * The full DAO Design online course will feature Optimism as the main or only\n   sponsor & encourage people to launch DAOs on DAOhaus on Optimism\n * Optimism & the Optimistic Vision will get featured in all of this content,\n   consumed by >3000 people, twice a week for 3 months\n * Optimism will get everything that comes with the top tier sponsorship package\n   for MetaFest (Logo on the website, all promo materials, media & aftermovie,\n   logo in swag bags & at the venue, logo on the livestreams, workshop slot,\n   private chamber & a table in the dungeon (coworking) for your org, promo\n   booth for your project (only one), 16 ticket NFTs (worth $2400) and epic swag\n   bags.\n * Also everything that comes with the top tier guild membership in MetaGame\n   (your news regularly in our newsletter, your news on our dashboard, a twitter\n   thread, podcast interview etc. etc.)\n * There will be a playbook about building on Optimism, written & distributed\n   through our channels\n * We would also create a page for Optimism inside MetaGame to permanently stay\n   visible for discovery by newcomers\n\nWhat makes your Alliance well-suited to execute this Mission?\n\n * We’ve been doing this for 3 years so we have a proven track record of\n   shipping content, organizing events & onboarding newcomers into the ecosystem\n * Everything we do at MetaGame is geared towards onboarding new people into the\n   ecosystem, helping people start DAOs & teach them about the bigger picture\n * Philosophical alignment: like Optimism, we are very much focused on DAOs &\n   Regenerative projects. We’re building a public good & our long term goal is\n   to build a decentralized society\n\nPlease list a critical milestone. The critical milestone should be a measure of\nwhether you’ve made best efforts to execute what is outlined in this proposal or\nnot. If you fail to achieve your critical milestone, your grant may be clawed\nback.\n\nMilestone #1: Put on a great conference\n\n * Finish organizing MetaFest & make sure everyone has a great experience\n\nMilestone #2: Optimism up\n\n * Write & distribute the Optimism playbook\n * Create the Optimism page\n\nMilestone #3: Launch-a-DAO\n\n * Produce a full DAO course from the DAO Design Track content\n\nMilestone #4: Regular publishing\n\n * Publish 12 newsletters & 12 podcast episodes\n\nHow should Token House delegates measure progress towards this Mission: These\nshould focus on progress towards completion. Including expected completion dates\nfor each is recommended.\n\n * Milestone #1: All sessions recorded & up on youtube, attendance surveyed with\n   90% respondents saying “it was awesome!” (August 26th)\n * Milestone #2: Playbook & page both accessible on the website (September 10th)\n * Milestone #3: Content turned into a course & available online (September\n   20th)\n * Milestone #4: Published all 12 newsletters & podcast episodes with a minimum\n   of 2000 views each or making it up on more successful ones (September 20th)\n\nBreakdown of Mission budget request:\n\n * Organizing MetaFest = 10000 OP\n * 12 podcast episodes = 6000 OP\n * 12 newsletters = 6000 OP\n * DAO Design course = 2000 OP\n * Promoting all of it = 1000 OP\n * An Optimism playbook = 500 OP\n * Grant & PM = 200 OP\n * A project page = 0 OP\n\nI confirm that my grant will be subject to clawback for failure to execute on\ncritical milestones: Yes\n\nI confirm that I have read and understand the grant policies: Yes\n\nI understand that I will be required to provide additional KYC information to\nthe Optimism Foundation to receive this grant: Yes\n\nI understand that I will be expected to following the public grant reporting\nrequirements outlined: Yes",
+  "views": 1383,
+  "like_count": 6,
+  "word_count": 958,
+  "answer": [
+    {
+      "content": "Hi @peth [/u/peth]! Wanted to make sure you were aware of the Optimism Season 4\nPitching Sessions to help find the 4 delegate approvals you’ll need by this\nWednesday at 19:00 GMT for your proposal to move to a vote.\n\nThese sessions are happening in Discord on Monday, 26.06 2pm ET / 6pm GMT / 8pm\nCET and Tuesday, 27.06 11am ET / 3pm GMT / 5pm CET.\n\nYou can sign-up here\n[https://docs.google.com/spreadsheets/d/1DH_rVTT1Uk33DTYQW5vnr_Phe_H-S3NglN_5PBWRI0g/edit#gid=0]!",
+      "created_at": "2023-06-26T08:19:38.973Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "I am an Optimism delegate with sufficient voting power\n[https://vote.optimism.io/delegate/griff.eth], and I believe this proposal is\nready to move to a vote",
+      "created_at": "2023-06-27T15:46:23.204Z",
+      "trust_level": 2,
+      "username": "Griff",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Awesome, thank you for the heads-up!",
+      "created_at": "2023-06-26T09:25:24.545Z",
+      "trust_level": 1,
+      "username": "peth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "I am a Lyra representative and Optimism delegate\n[https://gov.optimism.io/t/delegate-commitments-old/235/174] , with sufficient\nvoting power, and I believe this proposal is ready to move to a vote",
+      "created_at": "2023-06-28T18:47:22.138Z",
+      "trust_level": 2,
+      "username": "ksett",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2023-06-20T21:36:21.399Z"
+}

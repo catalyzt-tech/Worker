@@ -1,0 +1,9 @@
+{
+  "title": "Voting Cycle Roundup #26",
+  "content": "Cycle #26 began on Thursday August 8th at 19:00 GMT and runs until Wednesday\nAugust 28th at 19:00 GMT. Additionally, the Citizens’ House will have a one-week\nperiod to veto any Upgrades approved by the Token House, immediately following\nthe conclusion of the Token House Voting Period.\n\nA snapshot of delegate voting weights will be taken at the time votes go live.\nVoting will take place at https://vote.optimism.io/ [https://vote.optimism.io/]\nstarting on Thursday August 22nd at 19:00 GMT. The Citizens’ House veto vote\nwill take place via Snapshot from Thursday August 29th to Wednesday September\n4th.",
+  "views": 50,
+  "like_count": 0,
+  "word_count": 105,
+  "answer": [],
+  "created_at": "2024-08-09T19:08:16.300Z"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "[FINAL] Enable aOP as A Votable Token in Optimism's Governance",
+  "content": " * S4 Intent\n   [https://gov.optimism.io/t/collective-intents/5874#intent-1-progress-towards-technical-decentralization-2]:\n   Governance Accessibility\n * Proposed Mission: Enable aOP as A Votable Token in Optimism’s Governance\n * Proposal Tier: Fledging\n * Baseline grant amount: N/A\n * Alliance Lead: Fig / Flipside Crypto\n * Contact Info:\n   * Twitter: https://twitter.com/francisgowen\n     [https://twitter.com/francisgowen]\n   * Discord: fig | Flipside Crypto#6582\n   * Email: fig@flipsidecrypto.com [fig@flipsidecrypto.com]\n * L2 recipient address: N/A\n\n[Please note this post is in-progress and pending risk changes from partner\ncommunitites.]\n\nPlease list the members of your Alliance and link to any previous work:\n\n@Fig [/u/fig] - a Governance Contributor and Ecosystem Lead at Flipside Crypto\n\nFig has served on the first iteration of the Grants committee at Optimism, DeFi\nCommittee A\n[https://gov.optimism.io/t/defi-committee-a-season-2-recommendations/3522], and\nwas nominated and elected by the token house to serve as a “Badgeholder.” He and\nthe Flipside team holds various roles across the EVM ecosystem including Aave\nGrants DAO and dYdX Operations Trust.\n\nWhat makes your Alliance best suited to execute this Mission?\n\n * Fig and Flipside Crypto has invested across a myriad of projects and\n   protocols and are committed to helping blockchain succeed\n * Fig and Flipside are leading delegates and stewards of Aave, currently\n   focused on creating outcomes that benefit both communities and attract new\n   users of each protocol\n * Flipside Crypto has deeply contributed to the Optimistic future, developing\n   data science tools, [https://science.flipsidecrypto.xyz/optimist/]\n   contributing Governance expertise, and building a data warehouse\n\nPlease describe your proposed solution based on the above Solution Criteria (if\napplicable):\n\nThis proposal hopes to extend the TAM of governance power beyond native OP, an\nERC20 token on Optimism, to receipt tokens in DeFi which are regarded as 1:1.\n\nThis Mission works to integrate aOP (Aave’s receipt token for depositing OP) as\nan acceptable proposing, delegating, and voting power – paving the way for\nfuture integrations\n\nThis proposal unlocks 227.29K OP supplied in Aave V3 optimism – supplied by\n1,186 unique users\n[https://flipsidecrypto.xyz/jfo/q/h56Rr0BKojEG/op-token-aave-unique-depositors-on-op]\n– further activating the original power and utility of OP’s governance token.\n\nThis proposal addresses the current problem in DeFi where users lose the utility\nof Governance tokens by depositing the token (OP) into a smart contract\n\nBenefits:\n\nWhile mostly symbolic, this mission creates a wider user journey for OP token\nholders across DeFi. If approved, a more modern experience may look something\nlike this:\n\n 1. Buy OP on an exchange\n 2. Deposit OP on Aave V3 Optimism\n 3. Receive aOP as a receipt token\n 4. Vote, delegate, or create proposals in the Optimisms Collective\n\nThis mission encourages OP token-holders to do more with their Governance\nTokens, without fear of forefitting the agency and power it may hold.\n\nFurthermore, this proposal greater aligns the Aave and Optimism community, a\npremier protocol that has deployed on Optimism and has more than $100mm TVL.\n\nPlease outline your step-by-step plan to execute this Mission, including\nexpected deadlines to complete each piece of work:\n\nHere is our step-by-step plan.\n\n 1. Identity and query the aOP contract:\n    0x513c7E3a9c69cA3e22550eF58AC1C0088e918FFf\n 2. Integrate and add the aOP token into the current Governance infrastructure,\n    including Agora, Snapshot, Tally, Boardroom, and Discord\n 3. Analyze the effectiveness of added voting power within Optimism’s governance\n 4. Report on the change in participation and explore future integrations\n\nPlease define the critical milestone(s)\n[https://gov.optimism.io/t/grant-policies/5833] that should be used to determine\nwhether you’ve executed on this proposal:\n\n 1. We will give a clear specification for the integration Aug 4th.\n 2. We will educate and notify key stakeholders before Aug 25th AOE.\n 3. We will implement aOP as Governance Asset before September 15th\n 4. We will do analyses and advise teams about the benefit before September 29.\n\nPlease list any additional support your team would require to execute this\nmission (financial, technical, etc.):\n\n * Ideally, we hope to gain support from existing infrastructure providers and\n   tooling (i.e. iSnapshot, Agora, and future builds) to integrate and reflect\n   this change via the UI. We have relationships we hope to lean on — but this\n   mission (and others) may be greater thanks to the cohesiveness within\n   Optimism.\n * A second area of support is if accepted, properly relaying and sharing the\n   importance of this opportunity to Aave and other DeFt builders.\n\nGrants are awarded in OP, locked for one year. Please let us know if access to\nupfront capital is a barrier to completing your Mission and you would like to be\nconsidered for a small upfront cash grant:\n\n * N/A — we are not requesting OP funding.\n\nPlease check the following to make sure you understand the terms of the Optimism\nFoundation RFP program:\n\n:heavy_check_mark:\n[https://emoji.discourse-cdn.com/twitter/heavy_check_mark.png?v=12] I understand\nmy grant for completing this RFP will be locked for one year from the date of\nproposal acceptance.\n:heavy_check_mark:\n[https://emoji.discourse-cdn.com/twitter/heavy_check_mark.png?v=12] I understand\nthat I will be required to provide additional KYC information to the Optimism\nFoundation to receive this grant\n:heavy_check_mark:\n[https://emoji.discourse-cdn.com/twitter/heavy_check_mark.png?v=12] I understand\nmy locked grant may be clawed back for failure to execute on critical\nmilestones, as outlined in the Operating Manual\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md#valid-proposal-types]\n:heavy_check_mark:\n[https://emoji.discourse-cdn.com/twitter/heavy_check_mark.png?v=12] I confirm\nthat I have read and understand the grant policies\n[https://gov.optimism.io/t/token-house-grant-policies/5833]\n:heavy_check_mark:\n[https://emoji.discourse-cdn.com/twitter/heavy_check_mark.png?v=12] I understand\nthat I will be expected to follow the public grant reporting requirements\noutlined\n\nDisclaimer:\n\nThe information provided above about Aave and Optimism is from public sources\nand Flipside Crypto cannot guarantee that it is or will stay accurate.\n\nWe are doing this because we believe that the partnership and integration would\nbe in the best interest of Optimism and the Aave protocol.",
+  "views": 2363,
+  "like_count": 52,
+  "word_count": 3329,
+  "answer": [
+    {
+      "content": "While this is an interesting proposal, is this not just inflating the votable\nsupply of OP tokens? I am trying to wrap my head around the idea.\n\nBy counting aOP, you are double-counting tokens deposited into Aave because\nother users can borrow the OP.\n\nThere is also a glaring case where this could cause some disruption in\ngovernance. If a user wanted an outsized governance impact, they could loop\ndeposits and borrows. By depositing OP and using that as collateral to borrow\ntheir own OP, they could repeat this loop until they have an order of magnitude\nmore voting power.",
+      "created_at": "2023-06-23T15:42:23.819Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": "Hello all,\n\nWhile I think improving governance accessibility across composable elements is\nimportant, this proposal cherrypicks one protocol, and one composability lego,\nwith considerably less use, TVL and presence in the ecosystem than its\ncompetitors.\n\nIf we want to include tokens in use across the ecosystem, this proposal should\ninclude a coherent generalised framework that enables ALL protocols holding pure\nOP (for example, Sonne, Exactly), or other legos (tokens in Uniswap, Velodrome\nLPs) to meet a defined standard and apply for inclusion in governance.\n\nThe narrow scope of this proposal, is, frankly, disappointing.",
+      "created_at": "2023-06-29T17:19:52.211Z",
+      "trust_level": 2,
+      "username": "nickbtts",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": "If the OP market on Aave is in isolation mode and the OP isn’t being actively\nborrowed by end users, then build out the ability for the contract custodying\nthe OP tokens to delegate it on behalf of the users that put it there, at the\nsmart contract level! Don’t compromise the base of governance to double count\ntokens for an arbitrary dapp because they don’t want to build delegation into\ntheir contracts. This is a line that absolutely should not be crossed imo. If\nthis proposal goes through, there’s no reasonable argument to disallow OP tokens\nheld in Velodrome and Uniswap LP positions (there is much more $OP in these\ncontracts than there is in Aave, so it’s arguably more justifiable) from also\nbeing used as votable tokens in governance.",
+      "created_at": "2023-06-29T17:08:12.460Z",
+      "trust_level": 2,
+      "username": "ZoomerAnon",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "Much needed to improve Token House voter participation. I hope to see similar\nintegrations across more DeFi protocols. Assuming 0 OP mission proposals are OK\n(otherwise, you can always go with a symbolic 1 OP or so),\n\nI am an Optimism delegate with sufficient voting power\n[https://vote.optimism.io/delegate/polynya.eth], and I believe this proposal is\nready to move to a vote.",
+      "created_at": "2023-06-22T03:21:45.984Z",
+      "trust_level": 2,
+      "username": "polynya",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "Hey all,\n\nI’m Smit, I lead DeFi at OP Labs. Overall, I agree with the sentiments of\neveryone here. At this time, the risk to gov is minimal due to the market being\nin isolation made and having caps. I think we’re all on the same page about\nmaking sure the vectors for a gov attack are thought out and we should monitor\nthem as it progresses. Our goal should also be to constantly increase the cost\nof attack by continually growing votable supply! I’m on board with moving the\nproposal to a vote",
+      "created_at": "2023-06-28T22:15:31.581Z",
+      "trust_level": 1,
+      "username": "smit",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    }
+  ],
+  "created_at": "2023-06-21T18:56:00.409Z"
+}

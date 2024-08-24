@@ -1,0 +1,60 @@
+{
+  "title": "Token House Community call will be [Tuesday, February 13th @ 10:00 PT / 13:00 ET / 18:00 GMT / 19:00 CET]",
+  "content": "Hey Optimists!\n\nWe will be having a Token House meeting to talk about all things token house\ngovernance!\n\nFeel free to comment below on any topics you’d like covered.\n\nZoom link: Launch Meeting - Zoom\n[https://us02web.zoom.us/j/84087544843?pwd=cVpweHpEa2drYVRDZ1U0UklYSnR1QT09]\n\nBest,\nMichael",
+  "views": 457,
+  "like_count": 15,
+  "word_count": 287,
+  "answer": [
+    {
+      "content": "@maurelian [/u/maurelian], are you or someone from the engineering team able to\ngive a quick summary and answer questions for Upgrade Proposal #4\n[https://gov.optimism.io/t/upgrade-proposal-4/7534]?\n\n@brockelmore [/u/brockelmore], are you or someone from the Developer Advisory\nBoard willing to do an intro to the token house?\n\n@CoCCouncil [/u/coccouncil], is someone available from the Code of Conduct\nCouncil available to do an intro to the token house?",
+      "created_at": "2024-02-11T18:30:08.378Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Hello! Thanks, @Michael [/u/michael], I´ll be there! And I´m sure other members\nof the CoCC will be there too!",
+      "created_at": "2024-02-12T16:54:41.558Z",
+      "trust_level": 2,
+      "username": "teresacd",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "GM @Michael [/u/michael]! Could you add a quick reminder for the next ACC Office\nHours on February 29th, please?",
+      "created_at": "2024-02-12T16:55:06.852Z",
+      "trust_level": 4,
+      "username": "brichis",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "I appreciate it! Looking forward to it.",
+      "created_at": "2024-02-12T00:25:55.026Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Yes, it is on there now!",
+      "created_at": "2024-02-12T15:01:33.655Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2024-02-11T18:24:38.323Z"
+}

@@ -1,0 +1,9 @@
+{
+  "title": "The State of Optimism Governance",
+  "content": "Hey Optimism Collective! :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]:sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]\n\nOur first guide, The State of the DAOs 2023 [https://web3citizen.xyz], launched.\nIt focuses on DAO governance, providing a comprehensive guide to DAO governance.\n\n[https://assets.super.so/961d1140-e898-49f6-874f-713bda6c18a9/uploads/favicon/8a3c72ec-fa8d-429a-a494-57a490ffb045.png]\nOptimism [https://web3citizen.xyz/optimism]\n\n\nOPTIMISM [https://web3citizen.xyz/optimism]\n\nOptimism is a Layer 2 blockchain protocol that uses optimistic rollups to scale\nEthereum and achieve fast, secure, and low-cost transactions. Optimism has an\nexplicit \"public goods\" vision for its Layer 2 solutions. It aims for\ncontinuing...\n\n\n\n\nAs we’re committed to the continuous improvement and development of the report,\nwe’d love to hear the community’s feedback. We’re especially interested to hear\nif we missed any ways to contribute in Optimism.\n\nWeb3 Citizen Guide is an open-source project that aims to serve as a public good\nby helping Web3 enthusiasts become well-versed in current topics in the Web3\necosystem.\n\nPlease feel free to share your thoughts and suggestions on improving the guide.\n\nThank you!\nThe Web3 Citizen Guide Team",
+  "views": 538,
+  "like_count": 2,
+  "word_count": 119,
+  "answer": [],
+  "created_at": "2023-11-10T14:24:46.572Z"
+}

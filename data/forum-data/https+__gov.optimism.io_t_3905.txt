@@ -1,0 +1,60 @@
+{
+  "title": "A badge for Season two committee member(s)",
+  "content": "Committee member are going through KYC and I was thinking it would be great if\nwe get a SBT from OP Foundation to prove that our address is KYCed. Well idea is\nto build on-chain identity, one address one soul, and this might be a start.\n\nI created this badge because you can mint it on a new address and still hold the\n“verified” tag, its free and fun. Only drawback is that sample size is quite\nsmall, just 18 delegates between 4 committees. So if you are part of any\ncommittee, you can mint a zk badge on Simso platform.\n\nLink :- optimism-governance-committee-member\n[https://playground.sismo.io/optimism-governance-committee-member]",
+  "views": 1818,
+  "like_count": 29,
+  "word_count": 880,
+  "answer": [
+    {
+      "content": "While I like the concept (since people can “display” this badges on OS/whatever)\nI like it more wen the eligibility criteria is broader for privacy reasons\n(unless people don’t care about that, after all the eligibility list exposes the\norigin).\n\nFrom an identity perspective the best so far is Gitcoin Passport\n[https://passport.gitcoin.co/]. Aggregating credentials can be great if privacy\nis preserved and if there’s regular validations and updates (adding more\ncredentials and so on).",
+      "created_at": "2022-11-04T15:32:35.982Z",
+      "trust_level": 2,
+      "username": "Prometheus",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "Thing is, if it’s a small sample (18 addresses\n[https://sismo-playground-hub-data.s3.eu-west-1.amazonaws.com/available-group-store/0x03aca8c7aa25b0f35458e3c15d88b916ce5376c55f9877ded3edeebdb9ecdf41.group.json]\nas eligible criteria to claim) it doesn’t matter if you claim the badge using a\ndifferent address. You somehow connect this destination with the origin (it’s a\n1:18 relation - assuming everyone claims without using their origin, if there’s\n10 claims using the origin then it becomes a 1:8 relation). If the eligibility\ncriteria is broad enough (let’s say 10k wallets) you kind of preserve your\nprivacy (assuming the claim is done using a different destination).\n\nMeanwhile from an Identity perspective, it’s not a great idea to only use\nSoulbound NFTs because accounts can be compromised or lost. That’s my point, I\nsee badges more like achievements and less like an identity tool (they shouldn’t\nbe the only/main way but they can complement an identity).\n\nIf you want to understand a bit more how Gitcoin Passport works, you should\ncheck this\n[https://decentralized-id.com/web-standards/w3c/wg/vc/verifiable-credentials/]\nand this [https://www.youtube.com/watch?v=MP4VnlcjDhk].",
+      "created_at": "2022-11-04T18:19:29.928Z",
+      "trust_level": 2,
+      "username": "Prometheus",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "\n[https://avatars.discourse-cdn.com/v4/letter/p/df788c/48.png] Prometheus:\n\n> I like it more wen the eligibility criteria is broader for privacy reasons\n\nEven if a wallet is connected to KYCed user ? What other criteria could be\nincluded here ?\n\nGitcoin passport is definitely making some move in right direction to build a\ndigital identity in more decentralized way by connecting different pieces\ntogether.\n\nBut either by KYC based SBTs or gitcoin approach your wallet is exposed to\npublic, they all need a zk based layer.\n\nTake an example of Binance SBTs [https://www.binance.com/en/news/top/7164231],\nonce you authenticate on their platform, you get a SBT which proves that your\naddress is verified. Binance or any app could possibly block your address by\nchecking this SBT by its ID or with some meta-data,but here sample size is\ninsane, in millions, and then if you build a zk base layer on top their\nSBT(similar to SISMO badge), you can still prove that you are a verified user by\nBinance and it will be impossible for anyone to target an individual user.\n\nBoth approach has some drawback, Gitcoin approach is good from regulation side\nand nightmare from user privacy side.",
+      "created_at": "2022-11-04T17:33:18.458Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "That was a pretty smooth user experience",
+      "created_at": "2022-11-04T19:01:32.269Z",
+      "trust_level": 2,
+      "username": "Jrocki",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Indeed but as Prometheus has mentioned, sample size is very small so treat the\nbadge as more of fun experiment.\n\nWill create one more once sample size is beyond 1000 address",
+      "created_at": "2022-11-04T20:07:56.959Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2022-11-04T13:04:35.642Z"
+}

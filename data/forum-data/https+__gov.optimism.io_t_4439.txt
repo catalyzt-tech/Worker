@@ -1,0 +1,60 @@
+{
+  "title": "New year and why you should stay optimistic",
+  "content": "Happy New Year,\n\nThis is a charge to let you know that things will pick up in this new year,I\nalways prefer to stay Optimistic always. The optimism Ecosystem has paved way\nfor us all to learn and earn,also be a part of the community, how to start is\nvery important, there is a review tutorials to learn about different apps on\nOptimism.After each tutorial, complete a quest testing what you’ve learned.when\nall this is done you earn by Minting a badge for every quest you complete to\ncommemorate your exploration.This is how to stay informed on what is happening\nwith the ecosystem.\nSTART YOUR JOURNEY WITH A BANG; link:Optimism Gateway\n[https://app.optimism.io/quests#learnMore]\n\nPlease note these are independent service providers that Optimism is linking to\nfor your convenience - Optimism has no responsibility for their operation.\n\nStart your Journey for a good year ahead and have the best year while you stay\nOptimistic!!!",
+  "views": 1592,
+  "like_count": 17,
+  "word_count": 242,
+  "answer": [
+    {
+      "content": "I totally agree with you it really easy to get unborad new users to optimism\necosystem through the Optimism quest it better we all stay safe and be\noptimistic :sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12] :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]_ :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]:sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]",
+      "created_at": "2023-01-04T16:15:05.436Z",
+      "trust_level": 2,
+      "username": "Sheikhrahyan",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "@Sheikhrahyan [/u/sheikhrahyan] Thank you acknowledging, it will be a great\nyear.Cheers",
+      "created_at": "2023-01-05T06:29:35.869Z",
+      "trust_level": 2,
+      "username": "pheyyex",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Better believe it :100: [https://emoji.discourse-cdn.com/twitter/100.png?v=12]\nwe always stay optimistic :sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]",
+      "created_at": "2023-01-05T07:38:36.218Z",
+      "trust_level": 2,
+      "username": "Sheikhrahyan",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "I agree to this too thanks buddy.",
+      "created_at": "2023-01-20T20:59:48.069Z",
+      "trust_level": 2,
+      "username": "pheyyex",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "You should stay optimistic, because there is no other way around it. Positive\nenergy attracts positive things in life",
+      "created_at": "2023-01-20T12:30:11.905Z",
+      "trust_level": 1,
+      "username": "John1989",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2023-01-04T13:26:56.201Z"
+}

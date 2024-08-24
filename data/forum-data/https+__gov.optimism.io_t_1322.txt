@@ -1,0 +1,60 @@
+{
+  "title": "[GF: Phase 0 Proposal] Clipper",
+  "content": "Project Name: Clipper\n\nAuthor Name: Austin\n\nDefillama TVL (at snapshot): $2.5M\n\nTransactions/day (at snapshot): 253\n\nTier: 3\n\nOptimism native: No\n\nNumber of OP tokens to claim: 300,000\n\nL2 Recipient Address: 0x1Dd174bF2e090d0F1b1360Ac8905780429B2642B\n\nProposal for token distribution (under 1000 words):\n\nBackground on Clipper\n\nClipper is a decentralized exchange for retail traders built by Shipyard\nSoftware and customized for Optimism. Since launching on Optimism at the\nbeginning of February, Clipper has had more than $30 million in volume. Shipyard\nSoftware is an exchange group that develops specialized DEXes. Soon, Shipyard\nSoftware will be releasing a second DEX on Optimism for derivatives.\n\nGoals\n\nClipper has the following goals in mind:\n\n 1. Bring more developers and builders into the Optimism ecosystem\n 2. Increase TVL (for Clipper Coves which allows for permissionless trading\n    between any two assets)\n 3. Increase number of daily transactions\n 4. Increase number of Optimism project collaborations through community\n    initiatives (e.g., Clipper’s Adventure Series\n    [https://blog.clipper.exchange/polygon-isles-recap/])\n\nHow will the OP tokens be distributed?\n\n1. Trader Mining 35%\n\nGiven Clipper’s architecture (capped liquidity pools), Clipper believes the\noptimal use of OP tokens would be to incentivize trading. Clipper would be able\nto attract new users to trade on the DEX and increase volumes, which in turn\nwould give Optimism CLPs extremely competitive yields.\n\nTo prevent sybiling/wash trading, Clipper plans on using a whitelisting process\nto validate user authenticity. Additional measures include:\n\n * 3 Months Vesting (based on Gro Model)\n * Discord Verification flow currently built on Clipper’s Website\n\n2. Limited Liquidity Mining 20%\n\nClipper does not require significant amounts of liquidity to offer competitive\nprices to its target users. Instead, it caps contributions per person to ensure\nretail traders aren’t diluted by whales. That being said, Clipper’s current\nliquidity pool only supports short tail assets (ETH, WBTC, USDT, USDC, DAI). In\na few weeks, Clipper will be launching Coves, which will allow the trading of\nany asset. OP tokens will be used to incentivize the creation of new pools with\nthese assets.\n\n3. Builder Acquisition 15%\n\nClipper is composable and looks to incentivize builders to integrate and support\nClipper’s pioneering formula market maker architecture.\n\n4. Clipper’s Adventure Series 20%\n\nClipper’s Adventure Series is a community initiative launched whenever Clipper\nlaunches a new product or on a new chain. Users participate in various steps to\nconfirm identity (to minimize bots/ fake accounts) and complete educational and\ncollaborative steps to encourage usage of projects on the Optimism ecosystem.\nParticipants that complete all stages of the adventures get rewarded with OP\ntokens. Clipper’s current adventure has 22,000 participants.\n\n5. Retroactive Airdrop/Gas Reimbursement 10%\n\nAirdrop OP tokens to users that have previously made transactions or deposited\nliquidity into Clipper’s CLP on Optimism.\n\nHow will this distribution incentivize usage and liquidity on Optimism?\n\n 1. Additional Users\n    Trader mining will naturally encourage users to bridge to Optimism and make\n    more trades on both Optimism and Clipper.\n\n 2. High Yields\n    Trader mining will increase volume, which will drive yields higher and\n    attract more LPs. Reminder: liquidity pools and deposit amounts are capped,\n    so new LP entrants won’t dilute pool share.\n\n 3. Liquidity Migration\n    Clipper will soon offer trading for long-tail tokens and provide comparable\n    prices to mainnet without massive liquidity migration. Optimism will further\n    become a more viable alternative to trade more easily.\n\nWhy will the incentivized users and liquidity remain after incentives dry up?\n\nClipper has the best prices for small trades even without incentives, so once we\nbring traders to Clipper for the first time, they will stay to benefit from the\ngreat prices.\n\nClipper already has some of the best yields in DeFi, but only on capped pools\nwhere deposits are limited per user. Users who come to deposit will stay because\nthe organic yields are so high and they won’t want to give up their spot.\n\nThere is a track record of this - When Clipper did the last Community Liquidity\nprogram, 1,700 NEW users bridged to Optimism, deposited and kept their liquidity\nlocked for over a month. This made Clipper the #3 protocol by addresses (18% of\nall first-time OP users in the period).\n\nAs of May 6, the Clipper Optimism LP pool is yielding at a 20+% annualized rate\nover the past month, including all loss/impermanent loss and without any\nexternal incentives, spiffs, or mining. In comparison, yields on Compound on\nsimilar assets are under 2%.\n\n\n\n[https://europe1.discourse-cdn.com/bc41dd/optimized/1X/5838b26bc51cca655aba88f20c218d9b128c17d4_2_624x247.png]\n733×290 48.2 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/1X/5838b26bc51cca655aba88f20c218d9b128c17d4.png]\n\nOver what period of time will the tokens be distributed?\n\n\n\nClipper will target distribution over 9 months. The exact rate at which tokens\nare distributed will be left to AdmiralDAO council with input from the Optimism\ncommunity.\n\nHow much will your project match in co-incentives?\n\nClipper doesn’t currently have a token and as a US company can’t make\nforward-looking statements about what Clipper would do with any hypothetical\ntokens.\n\nNote\n\nThis proposal is subject to approval by AdmiralDAO. Specific allocations within\neach category are yet to be finalized, and may be adjusted once OP price is\ndetermined.",
+  "views": 13881,
+  "like_count": 451,
+  "word_count": 9621,
+  "answer": [
+    {
+      "content": "This is a great chance for both projects! Clipper is the best of all!\nRasandinv#8916",
+      "created_at": "2022-05-26T20:57:00.335Z",
+      "trust_level": 0,
+      "username": "Rasandinv",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 13
+    },
+    {
+      "content": "This is great chance for both project.clipper is the best :ok_hand:\n[https://emoji.discourse-cdn.com/twitter/ok_hand.png?v=12] crossing clipper is\nthe best of all\n\nAbolfazlx6.eth#7700",
+      "created_at": "2022-05-26T21:03:08.565Z",
+      "trust_level": 0,
+      "username": "Abolfazlx6.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "Clipper has a large and real community and this is so important for both\nproject.\n\nHo$eiN#3528",
+      "created_at": "2022-05-26T21:01:39.289Z",
+      "trust_level": 1,
+      "username": "hbisheh",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Very good idea for the distribution of the OP\n\nDiscord: MaiioONickoO#8468",
+      "created_at": "2022-05-26T21:08:25.263Z",
+      "trust_level": 0,
+      "username": "AdriMO23",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "the best of distribution in the op Government.\nRb. z#5490",
+      "created_at": "2022-05-26T21:08:04.714Z",
+      "trust_level": 1,
+      "username": "rez67231",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2022-05-26T16:45:24.034Z"
+}

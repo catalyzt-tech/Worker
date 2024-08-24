@@ -1,0 +1,60 @@
+{
+  "title": "GovNFT Help and FAQ",
+  "content": "Have any question about GovNFTs, the incentive program, or the points system?\n\nPost them below!",
+  "views": 80,
+  "like_count": 4,
+  "word_count": 296,
+  "answer": [
+    {
+      "content": "Hey @Michael [/u/michael] !\n\nMaybe you can put the link with the details of the program on here, so we have\nit at hand and can make any questions on here directly.\n\nThanks!!",
+      "created_at": "2024-07-21T07:12:20.119Z",
+      "trust_level": 3,
+      "username": "Liliop.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Hey @Liliop.eth [/u/liliop.eth], sure! Here is the guide: Notion – The\nall-in-one workspace for your notes, tasks, wikis, and databases.\n[https://pyrite-mangosteen-494.notion.site/GovNFT-Incentives-Guide-7ca5d93379324c94a44cfed3a72837de].\n\nAnd here is the mission request: [READY TO VOTE] Incentivize and increase\ngovernance participation\n[https://gov.optimism.io/t/ready-to-vote-incentivize-and-increase-governance-participation/7414]\nAnd here is the actual grant application on charmverse: CharmVerse - The Network\nfor Onchain Communities\n[https://app.charmverse.io/op-grants/velodrome-finance-governance-participation-23531902138656102]\n\nKeep in mind the current state of the program is just a test-batch for\nrecipients of previous velodrome incentives in the form of GovNFTs. So they only\npeople that will actually have the GovNFT’s at this point are those velodrome\nusers/partners.\n\n-Michael",
+      "created_at": "2024-07-25T16:50:03.138Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Thanks @Michael [/u/michael]!! I’ll be reading it :saluting_face:\n[https://emoji.discourse-cdn.com/twitter/saluting_face.png?v=12]\n\nAccording to the little I read, one of the benefits for those who have their\ntokens in Velodrome, now with the govNFT they will be able to delegate those\ntokens and participate in the governance, is that correct?\n\nThanks in advance!\nLili",
+      "created_at": "2024-07-25T19:13:45.834Z",
+      "trust_level": 3,
+      "username": "Liliop.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Velodrome got a grant where part of the incentives were distributed in the form\nof these locked OP tokens inside of GovNFTs. So this program is for the rewards\nrecipients in the previous Velodrome program, not necessarily current users of\nthe Velodrome.",
+      "created_at": "2024-07-29T17:16:48.724Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "ahh ok, I understand, but it would be for this pilot, right? Depending on what\nthey are pivoting at and experimenting with, more options could emerge to obtain\nthe govNFT.\n\nThanks for your explanation!\nLili",
+      "created_at": "2024-07-31T05:20:58.212Z",
+      "trust_level": 3,
+      "username": "Liliop.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-07-19T16:43:32.703Z"
+}

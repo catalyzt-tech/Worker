@@ -1,0 +1,60 @@
+{
+  "title": "Polynya - Delegate Communication Thread",
+  "content": "I have finished my votes for Gov Fund Phase 1 Season 1.\n\nMy general impression thus far is that most proposals are a mixed bag, with very\nfew high-quality projects I’d be excited to support without reservations. Since\nOptimism is a new collective & ecosystem, I have been very lenient as I’ve\nthought it’s OK to give mediocre or unproven protocols the benefit of doubt. Of\ncourse, over the 4 cycles I have become gradually more strict about my votes.\nFor Season 2, I’ll only be voting for proposals by a) protocols that have proven\nthemselves over a reasonable period of time (e.g. >1 year); b) have a very clear\ncase for incentivizing usage directly on Optimism, and c) a co-incentives\nprogram with an amount you can safely match (I don’t want to see a $5M market\ncap project asking for 500,000 OP). Of course, there can be exceptional\nproposals which contribute to the Optimism ecosystem another way. I realize this\nis going to be unpopular, and I’m going to receive some hate mail, but that’s\nOK. I believe granting of $OP tokens through Gov Fund must be earned, rather\nthan being a bet. There are other funds like the Seed Fund or RPGF that may be\nmore appropriate for a lot of proposals.\n\nI also continue to be very uncomfortable granting OP tokens and building an\necosystem while Optimism is a de-facto centralized sidechain, just with 7 days\nof social disputes available. I’d like to see Optimism urgently have a)\npermissionless fraud proofs, b) decentralized contract upgradability\n[https://gov.optimism.io/t/pragmatic-steps-forward-to-decentralize-contract-upgradability/2492],\nincluding emergency.\n\nI’d only be truly comfortable when we also have decentralized sequencers\n[https://gov.optimism.io/t/pragmatic-first-step-towards-decentralizing-sequencer/2767]\nand economic sustainability for $OP\n[https://gov.optimism.io/t/economic-sustainability-ideas-for-op/2393].\n\nI’m not going to do anything drastic like protest by voting everything Against,\nhowever I’ll be much more careful with my votes until Optimism itself is in an\nacceptable place. I’d like to see the OP Labs and Optimism Foundation teams\nprovide a detailed roadmap update on where they are with the above-mentioned\ndecentralization goals.\n\nI generally agree with the learnings and steps being taken\n[https://gov.optimism.io/t/governance-update-2/3056/] for Season 2 and look\nforward to participating in the discussions during the Reflection Period ™. I\nalso hope to see some accountability and results data for previously approved\nproposals around this time.",
+  "views": 5855,
+  "like_count": 154,
+  "word_count": 6923,
+  "answer": [
+    {
+      "content": "I have completed voting on Cycle 7. Things were quite smooth this cycle, and\nhopefully it’ll be perfect next one with timely recommendations from the Tooling\ncommittee. I voted with committee recommendations, except for Overtime. I also\nabstained from Dope Wars and Safe.\n\nWe’re going through a quiet time in the industry right now, and the incentives\naren’t having much of an effect in incentivizing user growth. On the bright\nside, this has also calmed my fears of too much growth with centralization\nconcerns - for now. Nevertheless, even without growth, it’s still a useful\nmechanism for distributing OP to enthusiast users and decentralizing the token\nhouse.\n\nNow that we are 7 cycles and over a quarter in, I’d request commitees to start\nconsidering the results of previous incentives in greater depth. E.g. we don’t\nwant to be approving the same type of incentives and/or same type of protocols\nif they are proving to be ineffective.",
+      "created_at": "2022-10-18T05:38:35.557Z",
+      "trust_level": 2,
+      "username": "polynya",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 9
+    },
+    {
+      "content": "These are some of the guidelines I’ll follow for Season 2:\n\n * Doesn’t directly increase TVL and related economic metrics, to minimize\n   regulatory and security risk\n   [https://gov.optimism.io/t/proposal-to-pause-governance-fund-voting-cycles-till-minimum-viable-decentralization-is-achieved/3215].\n   Note: this will likely disqualify most DeFi proposals.\n * Related to the above, projects should not come with significant regulatory\n   risk.\n * Been live for over 1 year on other networks and has demonstrated adequate\n   product-market fit, no dodgy history and such\n * Live on Optimism and seen some initial traction\n * Directly incentivizes lasting usage of the Optimism network, and onboarding\n   new users\n * Temporary incentives attracting mercenary farmers and the like are\n   discouraged\n * Co-incentives are a huge bonus, but the amount asked must be at most ~1% of\n   the project’s token’s market cap. So, projects should request an amount of OP\n   commensurate with their market cap.\n * Not all projects fit these criteria, so subjective judgment will be used -\n   but the project must directly benefit the Optimism ecosystem in some way or\n   other",
+      "created_at": "2022-08-09T06:01:15.475Z",
+      "trust_level": 2,
+      "username": "polynya",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 8
+    },
+    {
+      "content": "I’ll definitely update this as we go through the reflection period, but my\ninitial guidelines for supporting Gov Fund projects from Season 2 onwards are\nsuch:\n\n * Been live for over 1 year on other networks and has demonstrated adequate\n   product-market fit, no dodgy history and such\n * Live on Optimism and seen some initial traction\n * Directly incentivizes lasting usage of the Optimism network, and onboarding\n   new users\n * Temporary incentives attracting mercenary farmers and the like are\n   discouraged\n * Co-incentives are a huge bonus, but the amount asked must be at most ~1% of\n   the project’s token’s market cap. So, projects should request an amount of OP\n   commensurate with their market cap.\n * Not all projects fit these criteria, so subjective judgment will be used -\n   but the project must directly benefit the Optimism ecosystem in some way or\n   other\n\nIf Optimism grows too big without proofs and decentralized contract\nupgradability, I might consider proposing a longer pause. Something like, say,\n$XB in TVL is unreasonable for today’s Optimism’s de-facto centralized setup.",
+      "created_at": "2022-07-30T02:17:54.572Z",
+      "trust_level": 2,
+      "username": "polynya",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": "As the voting is now live, I’ll be following the guidelines I mentioned above;\nhowever I’ll be more lenient as the TVL growth has cooled down. This is in part\ndue to a less valuable $OP, but also many blockbuster incentives like Uniswap,\nSynthetix or Rocket Pool taking longer than I had anticipated to roll out. I’ve\nalso seen positive reaction from the Optimism teams about prioritizing\ndecentralization. I’ll be focusing more on the type of applications that\ngenerate sticky user activity without affecting TVL much, and take the TVL\nintensive proposals on a case-by-case basis. Needless to say, I’ll defer to\ncommittees’ opinion on most projects.",
+      "created_at": "2022-09-23T02:24:45.065Z",
+      "trust_level": 2,
+      "username": "polynya",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": "For projects that have already received a grant before (whether through Gov or\nPartners Fund) - the repeat proposal has to be exceptional IMO. I don’t think\nthe second proposal basically repeating the first one makes much sense. Here are\nmy thoughts on the exceptions where a second grant may work:\n\n * The first grant was wildly successful and the protocol continues to grow with\n   no slowdown: in this case, a substantially smaller grant (let’s say, <50% of\n   the first) to continue incentives might be justified\n * Some amount of time has passed since the first grant, and there’s a strong\n   reason to restart incentives (something like - the protocol managed to retain\n   most of the growth the incentives brought, but there are new opportunities on\n   the horizon worth capitalizing on for more growth)\n * A new approach with new methods & goals. E.g. the first grant was about\n   liquidity incentives. With that bootstrapped, the second grant can be about\n   achieving something different, e.g. improving the user experience, direct\n   marketing to onboard users to Optimism, etc.\n\nLikewise, as I mentioned previously, committees should also consider the\neffectiveness of similar types of proposals. E.g. if DEX A & DEX B ran some type\nof liquidity mining, and it was of limited benefit, then it doesn’t make sense\ngranting DEX C with the same type of grant. At Cycle 8, 9, and going forward, we\nhave to start being more selective about the grants, and targeting the types of\nprograms that lead to sustained adoption and activity across a diversity of\nusecases. Also, being mindful of what the bottlenecks are. E.g. there’s plenty\nof liquidity on Optimism now given it’s early state, but not enough users &\nother usecases to leverage this.",
+      "created_at": "2022-11-04T16:19:46.991Z",
+      "trust_level": 2,
+      "username": "polynya",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    }
+  ],
+  "created_at": "2022-07-24T04:29:10.452Z"
+}

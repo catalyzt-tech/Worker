@@ -1,0 +1,9 @@
+{
+  "title": "Messari Governance Alerts for the Optimism Community",
+  "content": "Hello OP Community!\n\nMessari is happy to announce that today we’ve launched our governance alerts for\nboth on and off-chain votes and forum discussions! These alerts are available\nfor 100+ DAOs!\n\nIn addition to the free coverage of proposals (for all users), our Pro &\nEnterprise users can now set up real-time Daily, or Weekly digests for the DAOs\nthey want to track and receive Gov Alert emails for!\n\n\nWHERE CAN YOU USE IT?\n\n * Click the “Notify Me” button on a DAO Profile page\n   [https://messari.io/dao/optimism].\n * Add or edit bulk alerts on the new Governor Alerts management area under a\n   user’s profile here [https://messari.io/account/alerts?tab=governor].\n   \n   Screenshot 2023-05-04 at 12.50.59 PM\n   [https://europe1.discourse-cdn.com/bc41dd/optimized/2X/6/64511b64aff51b7b32ea3d0a25b2f5b67ac0c132_2_628x499.jpeg]\n   Screenshot 2023-05-04 at 12.50.59 PM1725×1372 94.3 KB\n   [https://europe1.discourse-cdn.com/bc41dd/original/2X/6/64511b64aff51b7b32ea3d0a25b2f5b67ac0c132.jpeg]\n\nWe’ve also set up a special 15% pro-tier discount code [https://messari.io/pro]\nexclusively for the community, making it more accessible for you to try our\nservices: OPTIMISM.\n\nEnjoy, and feel free to share it with your community!",
+  "views": 1079,
+  "like_count": 1,
+  "word_count": 170,
+  "answer": [],
+  "created_at": "2023-05-04T18:45:35.168Z"
+}

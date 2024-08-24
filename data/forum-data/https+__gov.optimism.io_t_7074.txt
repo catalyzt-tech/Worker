@@ -1,0 +1,9 @@
+{
+  "title": "RetroPGF 3: kick off call - recording",
+  "content": "The recording of the RetroPGF 3 kick off call has been uploaded to YouTube.\n\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/3/3e6185882a737538dc1039d200ed702437531697.jpeg]\nhttps://www.youtube.com/watch?v=hfavfTGq6yI",
+  "views": 509,
+  "like_count": 9,
+  "word_count": 20,
+  "answer": [],
+  "created_at": "2023-11-07T14:40:06.359Z"
+}

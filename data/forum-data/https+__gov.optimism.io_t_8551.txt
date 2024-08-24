@@ -1,0 +1,60 @@
+{
+  "title": "[MISSION REQUEST] Startup Support - Optimism as Venture Studio",
+  "content": "DELEGATE MISSION REQUEST SUMMARY\n\nThis mission aims to provide new business support for projects within the\nOptimism ecosystem, including projects with approved grants in previous\ngovernance seasons. This program will focus on delivering support for major\nback-office and dev concerns faced by new startups, things such as legal\ncounseling, dev agency work, business formation, tax prep, and so on.\n\n\nS6 INTENT 22 [https://gov.optimism.io/t/season-6-intents-ratification/8104]:\nINTENT 3\n\n\nPROPOSING DELEGATE/CITIZEN:\n\nJackanorak\n\nTotal grant amount\n100k OP\n\nShould this Mission be fulfilled by one or multiple applicants:\nMultiple\n\nHow will this Mission Request help accomplish the above Intent?\n\nImagine the kind of support a startup incubator provides to startups; startups\nneed this support, and the incubator has the size and resources to offer it. We\ncan offer this kind of model.\n\nTake a highly promising project led by a handful of independent builders. They\nhave some funds but not much—and, more importantly, they lack time and other\nresources to build out their project beyond what they are individually capable\nof managing.\n\nThere’s a lot they have to take care of or fund: audits, RPC costs, deployment\ncosts, yes, but also business formation; legal preparation; payroll;\nfundraising. If they are deploying a token, there’s liquidity, treasury\nmanagement, regulatory concerns, etc. The list goes on, but what unites these\nareas is that they are essential to new projects and often prohibitively\nresource-consuming. Audits, for example, are essential and expensive enough that\nmany projects turn to fundraising specifically to afford them.\n\nThere are also business concerns that could, under the right circumstances, be\naddressed as part of this Mission: new venture strategy; business development;\nhiring; marketing, etc. Our bar is especially high for service providers in this\nsphere; there are many who claim to offer these services, but few can at the\nlevel we’d hope to be able to offer, which is at the top of our industry. It is\nof course also very difficult for a DAO to oversee this kind of service.\n\nAll of this is to say that proposals should consider, in concrete terms: who is\nthe builder we’re targeting with our offer? How would our in-kind support help\nthis kind of builder? What about this service we are offering is important or\nhelpful enough for this builder to come deploy on Optimism or consider Optimism\nthe best place to build? Do we have evidence that many new projects need help\nwith this service? And, finally: are we the demonstrably the best at what we do?\n\nWhat is required to execute this Mission Request?\n\nApplicants should provide a commitment to providing some high-quality service in\nexchange for granted OP. These will include but are not limited to:\n\n– Free RPC coverage\n\n– Back office help, e.g., taxes, business formation, legal assistance, banking\n\n– Short-term agency development work\n\n * Plans should provide a well-defined mechanism for compensation: for 50k OP,\n   we will provide X, Y, Z.\n   Distribution of these subsidized services to selected project grantees\n\n * Applicants must be understood to be at the top of their respective fields. It\n   is essential that we offer through them the kind of professional support that\n   is time efficient and longitudinally beneficial for us as an ecosystem.\n\n\nHOW SHOULD GOVERNANCE PARTICIPANTS MEASURE IMPACT UPON COMPLETION OF THIS\nMISSION?\n\nMilestones:\n\n * Number of projects supported\n * Number of external parties (e.g., lawyers) engaged\n\nMetrics\n\n * Number of projects successfully deployed and resulting transactions + users\n   from them\n * Market value of services provided\n * NPS from projects\n\nImpact\n\n * Depends on what service is provided, but in general this should relate to\n   some sort of expected market-based service that has been defrayed, enabling\n   the use\n * Number of projects not requiring investor funding\n\n\nHAS ANYONE OTHER THAN THE PROPOSER CONTRIBUTED TO THIS MISSION REQUEST?\n\nNo\n\n\nWHICH METRIC WILL THE SUCCESS OF THIS MISSION REQUEST BE EVALUATED AGAINST?\n\nThe North star metric against which this Mission Request should be evaluated is\nthe total amount of gas fees generated from the grantee’s contracts, because\nthis Mission Request sets out to increase the aggregate demand for blockspace on\nthe Superchain through a larger program. The total gas fees generated from this\nprogram act as a healthy indicator of its combined downstream performance. This\nmetric was suggested by the Foundation and approved by the Grants Council.",
+  "views": 399,
+  "like_count": 9,
+  "word_count": 1253,
+  "answer": [
+    {
+      "content": "Exciting idea! It might be key to identify some verticals which we want to cover\nand split the budget between 2-3 teams that cover most of these vertical\ntogether!\n\nAs Superchain Eco [https://www.superchain.eco/] / Kolektivo Labs\n[https://kolektivo.co/] we have significant Design, Strategy, Product and Events\nresources available - which we would love to offer to OP chains and OP projects\nat a reduced / free rate.",
+      "created_at": "2024-07-15T16:55:23.516Z",
+      "trust_level": 2,
+      "username": "SuperchainEco",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "I think this is a much-needed project, I´m only afraid that if it’s centralized\nin one sole “venture studio” a lot of the OP would you to its administrative\nsupport, or will be for the on-top fees over the actual service providers, would\nlove to see what the community sees as top priorities from the ones mentioned\nabove and see collectives apply. ex. a non-big law firm can’t see all the\nrequired jurisdictions projects may need.",
+      "created_at": "2024-07-15T19:49:48.659Z",
+      "trust_level": 2,
+      "username": "teresacd",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "A North Star Metric has been added at the bottom of this Mission Request in an\neffort to enable the Collective to make data-driven decisions. By using a single\nmetric for each Mission Request, the Collective is better able to evaluate the\nperformance of all the Season 6 missions in a standardized manner, which will be\ncritical when the Collective makes decisions about Intents, budgets, or other\ncritical components of governance.",
+      "created_at": "2024-07-19T19:59:38.878Z",
+      "trust_level": 4,
+      "username": "system",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 0
+    },
+    {
+      "content": "Should governance of a L2 network involve itself in providing advisory to\nexternal projects?\n\nStuff like legal counseling, tax are external to Optimism L2’s functionality.\nWhy should L2 dedicate its resources towards this?\n\nEven if projects need this, they should not depend on the L2’s treasury for\nfunding these activities. The comparison with a venture capital firm offering\nthis is not accurate IMO as VC firms are looking to build the valuation of their\nportfolio companies, while OP is looking to get more users, developers and\nactivity on its network.\n\nMoreover some of the proposed services like legal would cost way above the\nearmarked funds of 100k OP.\n\nThis can potentially open up OP to unwanted liabilities down the road.",
+      "created_at": "2024-07-22T13:45:27.000Z",
+      "trust_level": 1,
+      "username": "Takeshi",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "Is Venture Studio looking for specialists functions or general business\n(advisory)? Wrt to say legal structuring, an example of specialist would be an\nentity generator like KaliDAO where you can form an separate entity for cost of\ngas (effectively ten’s of dollars). However, this requires a one-off capital\ncharge to craft the docSet (cf TechStars seed docs) for the major jurisdictions\n(US, EU, UK-commonlaw, perhaps CN/IN?). Whereas a generalist is basically an\nongoing service charge/fee (hundreds to thousands). So the budget is quite\ndifferent for a capital investment (eg special-purpose vehicles for digital\nasset holding … input parameters and turn the crank=factory) vs business\noverhead (incl monitoring regulatory shifts\n[https://youtu.be/3EYT2alRWG0?feature=shared]).\n\nPS having mentored at JFDI (singapore’s premier accelerator) I’d point out the\nskill in selection (opportunity costs) way outweighs the back-end office\nfunctions unless you do a portfolio approach where statistically if you punt on\nhundreds of ventures, then it approaches unity of not losing $$ and a certain\nchance of getting 2-3x).\nCoop-capital\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/0/05b12175f3d5f72c006f2b9c7990c0a624540a47.png]",
+      "created_at": "2024-07-19T21:55:52.331Z",
+      "trust_level": 0,
+      "username": "drllau",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-07-08T18:15:54.817Z"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Signaling intention to become a Badgeholder",
+  "content": "A lot of people ask how they can become a badgeholder and I think some existing\nbadgeholders do not know who to give the voting badge to. I’m opening this\nthread for anyone who wants to signal their intention to become a badgeholder.\n\nI’m adding a format to keep it civilized and I ask everyone to keep it SHORT.\nThis is introductory and if someone is interested will surely contact you.\n\nYou can reply to this post with this form:\n\nWho are you?\n\nWhy do you want to become a badgeholder?\n\nWhat are your areas of expertise?\n\nContact point:\n\nRelevant info you think should be here (leave it empty if not):\n",
+  "views": 6144,
+  "like_count": 354,
+  "word_count": 14892,
+  "answer": [
+    {
+      "content": "Thanks for the thread @Gonna.eth [/u/gonna.eth].\n\nWho are you?\nPumbi, Researcher for Optimism Español [https://twitter.com/OptimismESP] and\nContent/Community for Solow [https://twitter.com/solowcripto]\n\nWhy do you want to become a badgeholder?\nI would like to contribute my time and experience to build and continue shaping\nthe future of Citizens’ House. I am aware that becoming a badgeholder represents\na great responsibility and I am ready to take on the challenge.\n\nAs part of the Optimism en Español team and a contributor to SEED Latam\n[https://gov.optimism.io/t/seed-latam-general-communication-thread/6469], I do\nnot feel it is honest or to receive a badge from Delegate @Joxes [/u/joxes] or\n@CryptoChica [/u/cryptochica], considering the new rules for badgeholders in\nRPGF3.\n\nThat is why I am submitting my nomination to become a badgeholder supported by a\nmember of the Collective who considers that my contributions could be valuable.\n\nWhat are your areas of expertise?\nWeb3 Education, Digital Marketing, and a broad knowledge of the Optimism\necosystem.\n\nContact point:\n\n * Telegram: Pumbi [https://t.me/pumbi]\n * Twitter: 0xPumbi [https://twitter.com/0xPumbi]\n\nRelevant info you think should be here (leave it empty if not):\nHere you can see some of what I have been working on and leading at OP Español:\n\n * Workshops\n   [https://gov.optimism.io/t/optimism-espanol-general-communication-thread/6383]\n * Activities\n   [https://gov.optimism.io/t/optimism-espanol-general-communication-thread/6383/4]\n\nI am aligned with the Optimism ethos and this is what we try to replicate at OP\nEspañol.",
+      "created_at": "2023-08-09T20:17:38.086Z",
+      "trust_level": 2,
+      "username": "Pumbi",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 18
+    },
+    {
+      "content": "What a great idea @Gonna.eth [/u/gonna.eth]. Here is my contribution:\n\nWho are you?\nI’m Subli_Defi, a (Super) Optimism Ambassador, content creator and leading\nThe🔴Optimist media platform (ex-The Optimistic Series) that includes Podcast,\nNewsletter (translated in 11 languages) & Research database all freely available\nfor public goods\n\nWhy do you want to become a badgeholder?\n\nAs being a recipient to RPGF #2, i’m the proof of the power of Ether vision\n(Impact=Profit). By becoming a delegate i feel that i can participate in the\nproject assessment, sharing my own experience & expertise in Education.\n\nAnd as i’m deeply involved in the Optimism collective, i’d like to continue\nbeing more active and help when my expertise could be useful to others.\n\nWhat are your areas of expertise?\n\nEducation\nDEFI\nUser Experience & Onboading\n\nContact point:\n\nTwitter: https://twitter.com/Subli_Defi [https://twitter.com/Subli_Defi]\nDiscord: Subli#0257\n\nRelevant info you think should be here (leave it empty if not):\n\nWebsite to The Optimist Media: https://optimismbysublidefi.substack.com/\n[https://optimismbysublidefi.substack.com/]\n\nThis media platform is run by a team of 17 persons (contributors & translators)\nand aims to become as good as The Defiant Media, focusing on the OP Superchain.",
+      "created_at": "2023-08-08T21:12:14.162Z",
+      "trust_level": 2,
+      "username": "Subli_Defi",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 12
+    },
+    {
+      "content": "Hey @Gonna.eth [/u/gonna.eth], thanks for the thread.\n\nWho are you?\nTetranome, Design Lead @ Bankless Academy\n\nWhy do you want to become a badgeholder?\nI’d like to offer some of my time to the early days of the Citizen House,\nlooking into potential grant recipients, sharing my perspective, and going\nthrough badgeholder process to provide feedback where necessary. As a public\ngoods builder and member of a RPGF recipient party, I offer my discernment and\nexperience to the existing body of badgeholders, and the builder community.\n\nWhat are your areas of expertise?\n\n * Web3 education, from my experience in researching, building, writing, and\n   running workshops for Bankless Academy.\n * DAO projects/products/governance, from my time at BanklessDAO.\n * 3d artwork/game design, I’ve worked in the game/animation industry for a\n   number of years.\n\nContact point:\n\n * Discord: Tetranome\n * Telegram: Tetranome",
+      "created_at": "2023-08-08T15:01:45.952Z",
+      "trust_level": 2,
+      "username": "Tetranome",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 11
+    },
+    {
+      "content": "Gm gm!\n\nWho I Am\nI’m Hiro, a writer and project champion at Bankless Publishing (RPGF #2\nrecipient :pray: [https://emoji.discourse-cdn.com/twitter/pray.png?v=12]), the\npublishing arm of BanklessDAO. I’ve wanted to participate in the Citizen’s House\nsince I learned about it while writing an article on the Collective in June\n2022. I’ve been active on Optimism since September 2021, and have written\nextensively about the Collective and its Vision. In addition to voting with my\nown OP tokens, I’m also active in DAOstewards, BanklessDAO’s meta-governance\ngroup.\n\nWhy I Want to Hold a Badge\nThere is no better place to be than Optimism for those interested in working in\nthe web3 governance sandbox, which I believe is working to design coordination\nsystems that may just change the world. As a long-time governance nerd, I just\nget stoked by this stuff.\n\nAreas of Expertise\n\n 1. I’m a long-time fiat-space governance nerd, an active governatooor, and have\n    crafted or advised on dozens of Forum proposals.\n 2. Writer, editor, shipper of educational web3 content, with particular\n    expertise in making complex topics easy to understand.\n 3. Decentralized/distributed social systems, project management.\n\nContact Info\nTwitter or Telegram\n@HiroKennelly [/u/hirokennelly]\nDiscord\nHiroKennellyᵍᵐ🏴#0001",
+      "created_at": "2023-08-09T01:07:13.575Z",
+      "trust_level": 2,
+      "username": "hirokennelly",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 11
+    },
+    {
+      "content": "Hello Everyone! :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]\n\nWho are you?\nBilly191, Support-NERDs and Ambassador of Optimism (Collective) :nerd_face:\n[https://emoji.discourse-cdn.com/twitter/nerd_face.png?v=12]\n\nWhy do you want to become a badgeholder?\nI stay in the Optimism since the governance is not born until the collective is\nbuilt up, I saw many projects, educators, and builders that make a good impact\non Optimism whether sharing a vibe in the Optimism collective or developing the\necosystem better and better, I would like to support those of them via a grant\nthrough RetroPGF process like good impact should be rewarded. As I ever am one\nof the recipients in previous RetroPFG rounds and might be the OG of Optimism, I\nwant to share my perspective and opinion and expect that I would be beneficial\nto other badgeholders and the collective. :houses:\n[https://emoji.discourse-cdn.com/twitter/houses.png?v=12]\n\nWhat are your areas of expertise?\n\n * DAO Governance / Web3 Space / Supporter :balance_scale:\n   [https://emoji.discourse-cdn.com/twitter/balance_scale.png?v=12]\n * Blockchain Education (especially about Optimism via Twitter) :teacher:\n   [https://emoji.discourse-cdn.com/twitter/teacher.png?v=12]\n * Web Developer (Frontend) (currently, I am making site about RetroPGF\n   :red_circle: [https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]\n\nContract\n\n * Discord: Billy191\n * Twitter (X): Billy191\n\n> Any comments or feedback are really appreciated! Thank you!",
+      "created_at": "2023-08-08T16:07:08.133Z",
+      "trust_level": 2,
+      "username": "Billy191",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 10
+    }
+  ],
+  "created_at": "2023-08-08T11:45:39.545Z"
+}

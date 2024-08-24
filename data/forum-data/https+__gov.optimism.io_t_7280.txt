@@ -1,0 +1,20 @@
+{
+  "title": "NowNLater309 observation of C.O.C. violation",
+  "content": "I have a issue that needs attention. I am surprised by the nature it entails and\nconclude it’s fairly new. I want attention brought to delegate statement by\nkuso.eth. The topic puts us in the negative spotlight and I’m sure it’s been\noverlooked. Please advise the delegate to amend the statement to align with our\npoint of view. I feel these situations require attention. The impact of that\ntopic puts negative light on the whole community. Thank you and stay Optimistic.",
+  "views": 658,
+  "like_count": 5,
+  "word_count": 157,
+  "answer": [
+    {
+      "content": "I agree. I’ve reported this to the code of conduct council on your behalf\n:slight_smile: [https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]\nThere are official forms to report this stuff, on this page: Code of Conduct\n[https://gov.optimism.io/t/code-of-conduct/5751] . So if you come across further\nviolations in future, I think these forms are probably quicker :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]\nI’m not entirely sure which rules apply to delegate statements, but I agree the\nissue should be raised.",
+      "created_at": "2023-12-30T11:50:07.646Z",
+      "trust_level": 2,
+      "username": "Milo",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2023-12-22T23:16:41.382Z"
+}

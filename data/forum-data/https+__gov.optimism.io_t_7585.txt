@@ -1,0 +1,9 @@
+{
+  "title": "Delegation of voting powers to off-chain contributors",
+  "content": "Why are off-chain activities not so much effective for becoming a delegator? I\nwonder how Optimism Collective treats Offchain contributors.\nIf they don’t have many tokens but have a lot of contributions, would it be\npossible to have an opportunity to be delegated? Or currently, wouldn’t it have\nany use cases of badges, amount of contribution time/likes among other things?\n\n\nScreenshot 2024-02-02 at 3.11.02 PM\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/3/3e52988e39b70b1688470a37e6ae588ce92fc4ae_2_490x500.png]\nScreenshot 2024-02-02 at 3.11.02 PM1804×1840 276 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/3/3e52988e39b70b1688470a37e6ae588ce92fc4ae.png]\n\n",
+  "views": 305,
+  "like_count": 1,
+  "word_count": 77,
+  "answer": [],
+  "created_at": "2024-02-02T06:12:57.441Z"
+}

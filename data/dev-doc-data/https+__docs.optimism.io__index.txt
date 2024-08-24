@@ -1,0 +1,45 @@
+title: Welcome to the Optimism Docs
+lang: en-US
+description: Learn about the Optimism Collective, the Optimism Docs, and how to get started building with Optimism.
+
+import { Cards, Card } from 'nextra/components'
+
+Welcome to the Optimism Docs
+
+Welcome to the Optimism Docs, the unified home of the Optimism Collective's technical documentation and information about the OP Stack.
+Information about the Optimism Collective's governance, community, and mission can be found on the Optimism Community Hub.
+
+Guides for Builders
+
+Whether you're a developer building a app on OP Mainnet, a node operator running an OP Mainnet node, or a chain operator launching your own OP Stack chain, you'll find everything you need to get started right here.
+
+  <Card title="Chain Operators" href="/builders/chain-operators/self-hosted" icon={} />
+
+  <Card title="Node Operators" href="/builders/node-operators/rollup-node" icon={} />
+
+  <Card title="Wallets & CEXs" href="/builders/cex-wallet-developers/wallet-support" icon={} />
+
+  <Card title="Developer Tools" href="/builders/tools/overview" icon={} />
+
+
+Featured Tools
+
+Check out these amazing tools, so you can get building with Optimism.
+
+  <Card title="Scaffold-OP" href="/builders/app-developers/quick-start" icon={} />
+
+  <Card title="Superchain Dev Console" href="https://console.optimism.io/?utm_source=docs" icon={} />
+
+  <Card title="Open-Source Repo" href="/builders/app-developers/tools/ecosystem-overview" icon={} />
+
+
+Learn About Optimism
+
+OP Mainnet is an EVM equivalent Layer 2 blockchain connected to Ethereum.
+The OP Stack is the standardized, shared, and open-source development stack that makes it easy to spin up your own production-ready Layer 2 blockchain just like OP Mainnet.
+The Superchain is a network of OP Stack chains that share a bridging protocol, governance system, and more.
+We've got you covered with these detailed guides to help you learn all about Optimism's tech stack.
+
+  <Card title="About the OP Stack" href="/stack/getting-started" icon={} />
+
+  <Card title="About the Superchain" href="/stack/explainer" icon={} />

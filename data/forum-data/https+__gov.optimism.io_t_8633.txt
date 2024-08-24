@@ -1,0 +1,20 @@
+{
+  "title": "Season 6 Feedback Thread",
+  "content": "Creating a place for delegates and gov participants to provide feedback on\nSeason 6.\n\nPlease leave constructive feedback so we keep the signal to noise ratio high in\nhere! All forum engagement is subject to the Forum Rules of Engagement\n[https://gov.optimism.io/t/rules-of-engagement/5]",
+  "views": 33,
+  "like_count": 4,
+  "word_count": 162,
+  "answer": [
+    {
+      "content": "It would be useful to include verifications for a user’s twitter, wallet\naddress, etc., for users who are running for councils. A lot of people in their\nnominations link to their twitter/github/attestation score/etc. in order to\nprovide some background or proof of expertise. However, there is currently no\nverification mechanism, so it’s trivial for an impersonator to get through.\n\nIn the short term, the foundation could just verify claims and release in\ndiscrepancies to the collective, but ideally there’s a long term solution not\ninvolving the foundation. For example, nominees have to provide signatures and\npost from any linked accounts that they are running in the election.",
+      "created_at": "2024-08-15T02:40:15.334Z",
+      "trust_level": 2,
+      "username": "chaselb",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2024-07-26T16:17:08.825Z"
+}

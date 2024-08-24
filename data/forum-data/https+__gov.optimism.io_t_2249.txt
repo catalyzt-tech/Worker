@@ -1,0 +1,60 @@
+{
+  "title": "Extended ineligibility for future airdrops",
+  "content": "I recently saw this proposal on the Optimism forum: Users who sold the initial\nOP airdrop should become ineligible for all future airdrops\n[https://gov.optimism.io/t/users-who-sold-the-initial-op-airdrop-should-become-ineligible-for-all-future-airdrops/2143].\n\n> Have seen enough wallets collect the OP airdrop, swap it straight to Uniswap.\n> \n> These accounts are not playing a constructive role in Optimism governance.\n> Instead of contributing to governance, they are maximising for profit. Nothing\n> wrong with that, as per the airdrop criteria the coins are theirs and they are\n> free to do as they wish. However, from Optimism governance’s perspective, such\n> accounts are counter-productive for our stated goals.\n\nI was extremely pleased to see this proposal. Canceling the future airdrops of\nthose that have sold their initial OP airdrop seems sensible, well-considered\nand targets the heart of any crypto protocol: the price of its token.\n\nHowever, I am unable to support this proposal in its current form.\n\nMy lack of support for this proposal is not because I disagree with the\nsentiment. On the contrary, it is because this proposal does not go far enough.\nIn order to support this proposal, I believe it needs to be significantly\nextended in scope (who is punished) and severity (what the punishment is).\n\nI have included my extended suggestions:\n\n 1. Increase the scope of the proposal.\n\nIn addition to canceling the airdrops of OP sellers, we should also consider a\nwider net of eligibility for airdrop slashing.\n\nI propose that we, Optimism Collective, cancels the future airdrops of anyone\nthat has sold any token in the last 6 months. These people have a pattern of\nundesirable behaviour, we can consider them “potential future sellers”. I think\nI speak for everyone when I say: do we really want people that might sell one\nday in the governance group? No, we don’t.\n\nOptimism governance should be a group that you can never leave: until death do\nus part.\n\nI will note that the 6-month mark may be too short. I have selected this as I\nbelieve that people can find the error of their ways and move forwards as a\nbetter person. But perhaps we should check if they have sold any tokens ever? Or\ninclude non-crypto assets too? Have they sold a used car before? Could be\npredictive of undesirable “seller” behaviour.\n\n 2. Increase the severity of the punishment.\n\nIs cancelling a future airdrop good enough?\n\nI propose that the punishment for disrespecting Optimism’s governance token\nprice should be significantly harsher in order to dissuade future bad actors.\nTwo ideas I have:\n\na) We issue a debt token to the sellers, and instruct local debt collection\nagencies to collect the debt money from these people. Bonus: added revenue for\noptimism.\n\nb) We consider physical violence against sellers. Nobody will take us seriously\nunless we are willing to fight for what we believe in. There is precedent here,\nmost governance groups have an active army eg. US Government.\n\nI think this is a good area to get creative, so I would request of my fellow\nOptimism Collective governance group colleagues to also suggest preferred\npunishment ideas.\n\n 3. Also cancel the airdrops of everyone that bought OP since the airdrop.\n\nEveryone that has bought the airdrop has also sinned.\n\nFirstly, they have interacted with the sellers. That is bad enough by itself.\nThe OP tokens they hold are tainted ‘sold’ tokens.\n\nYet, additionally, they have purchased OP, potentially with a market buy! This\nmakes OP more expensive and harder to participate in for the common man. By\nbuying OP, and making it more expensive, not only do you encourage people to\nsell since they are in profit, but you also make OP governance only accessible\nto a16z and other rich whales.\n\nIn many ways, buyers are just enabling the sellers, while making selling more\ndesirable, and increasing the price to make membership to this group harder to\nachieve. I believe they should have equal (if not harsher) treatment as the\nsellers.\n\n 4. Cancel the governance power of any token that has been sold.\n\nTokens that have been sold on the market should lose all governance power. The\nairdrop was gifted to people with the goal of participating in governance, not\nto be sold! Sellers have effectively stolen money from the Optimism Collective.\n\nTherefore, owning sold OP tokens is isomorphically similar to owning stolen\nproperty, or accepting money from proceeds of crime. Sold tokens should be\nconsidered void and potentially a criminal act.\n\n--------------------------------------------------------------------------------\n\nI did consider some additional ideas, including:\n\n * Cancel the future airdrops of anyone that posted on the forum so far (they\n   clearly do not need additional incentive to govern)\n * Cancel the future airdrops of anyone that commented on the price (since they\n   are focused on the wrong metric, the important metric is number of governance\n   proposals)\n * Instead of mass physical violence against sellers in general, could instead\n   have one large horrific outsized violent event (eg. but more like the\n   crucifixion of Jesus rather than a terrorism-type event) in order to dissuade\n   sellers\n\nHowever, I thought these ideas were impractical because Jesus’ message travelled\nlong beyond his death and making a martyr of a seller might not be a good idea.",
+  "views": 32718,
+  "like_count": 355,
+  "word_count": 10378,
+  "answer": [
+    {
+      "content": "Forgive me, Father, for I have sold.\n\nConsidering of OP’s popularity and status, I would propose Cobie as one and only\nseller we are to crucify. He will suffer for our sins and we could proceed with\nselling drops as true good Optimians.",
+      "created_at": "2022-06-01T14:25:00.560Z",
+      "trust_level": 0,
+      "username": "cavkie",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 14
+    },
+    {
+      "content": "Thank you for your important contributions.",
+      "created_at": "2022-06-01T14:30:22.296Z",
+      "trust_level": 1,
+      "username": "cobie",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 8
+    },
+    {
+      "content": "wonder if the green lil shid will extend this far\n\ni summon inversebrah",
+      "created_at": "2022-06-01T14:21:57.219Z",
+      "trust_level": 0,
+      "username": "Gio",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "Anyone in favor say “Ayo”.",
+      "created_at": "2022-06-01T14:27:50.528Z",
+      "trust_level": 0,
+      "username": "Craftor",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "Well, apparently the account is legit:\nhttps://twitter.com/cobie/status/1531999706452267008\n[https://twitter.com/cobie/status/1531999706452267008]\n\nre-listing",
+      "created_at": "2022-06-01T14:18:16.452Z",
+      "trust_level": 4,
+      "username": "smartcontracts",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    }
+  ],
+  "created_at": "2022-06-01T14:00:53.829Z"
+}

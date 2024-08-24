@@ -1,0 +1,118 @@
+title: Viewing Deposits and Withdrawals by Address
+lang: en-US
+description: Learn how to use the Optimism SDK to view all deposits and withdrawals triggered by a given address.
+
+import { Callout, Steps } from 'nextra/components'
+import { WipCallout } from '@/components/WipCallout'
+
+In this tutorial, you'll learn how to use the Optimism SDK to view all of the Standard Bridge deposits and withdrawals triggered by a given address.
+
+Dependencies
+
+node
+pnpm
+
+Create a Demo Project
+
+You're going to use the Optimism SDK for this tutorial.
+Since the Optimism SDK is a Node.js library, you'll need to create a Node.js project to use it.
+
+{Make a Project Folder}
+
+mkdir op-sample-project
+cd op-sample-project
+
+{Initialize the Project}
+
+pnpm init
+
+{Install the Optimism SDK}
+
+pnpm add @eth-optimism/sdk
+
+{Install ethers.js}
+
+pnpm add ethers@^5
+
+Add RPC URLs to Your Environment
+
+You'll be using the getDepositsByAddress and getWithdrawalsByAddress functions from the Optimism SDK during this tutorial.
+These functions use event queries to retrieve the deposits and withdrawals made by a given address.
+Since these functions use large event queries, you'll need to use an RPC provider like Alchemy that supports indexed event queries.
+Grab an L1 and L2 RPC URL for Sepolia and OP Sepolia, respectively.
+
+export L1_RPC_URL=... # Sepolia RPC URL
+export L2_RPC_URL=... # OP Sepolia RPC URL
+
+Start the Node REPL
+
+You're going to use the Node REPL to interact with the Optimism SDK.
+To start the Node REPL run the following command in your terminal:
+
+node
+
+This will bring up a Node REPL prompt that allows you to run javascript code.
+
+Import Dependencies
+
+You need to import some dependencies into your Node REPL session.
+
+{Import the Optimism SDK}
+
+
+
+{Import ethers.js}
+
+
+
+Set Session Variables
+
+You'll need a few variables throughout this tutorial.
+Let's set those up now.
+
+{Import RPC URLs}
+
+
+
+{Set the address to query}
+
+Here you'll be querying over an address that has already made some deposits and withdrawals.
+You can replace this address with your own address if you'd like.
+
+
+
+{Create the RPC providers}
+
+
+
+Create the CrossDomainMessenger
+
+The Optimism SDK exports a CrossChainMessenger class that makes it easy to interact with the Standard Bridge contracts.
+
+Create an instance of the CrossChainMessenger class:
+
+
+
+Query for Deposits
+
+You'll first query for all of the deposits made by the target address.
+The CrossChainMessenger has a convenient function called getDepositsByAddress that makes this easy.
+
+{Grab all deposits}
+
+
+
+{Display the deposits}
+
+
+
+Query for Withdrawals
+
+You'll next query for all of the withdrawals made by the target address.
+The CrossChainMessenger has a convenient function called getWithdrawalsByAddress that makes this easy.
+
+{Grab all withdrawals}
+
+
+
+{Display the withdrawals}

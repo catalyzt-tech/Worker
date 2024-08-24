@@ -1,0 +1,20 @@
+{
+  "title": "Inflation Adjustment Proposal Template",
+  "content": "BACKGROUND\n\nInflation of the OP token is set to a default % each year. This inflation takes\nplace via the MintManager contract calling the mint() function on the OP token\ncontract at 0x4200000000000000000000000000000000000042.\n\nThis inflation parameter can be adjusted by Optimism Collective Governance.\nWhile the Citizens’ House is still in early stages, inflation adjustment will be\ndetermined via vote from the Token House, as specified in the Operating Manual\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md].\n\nNote that this may not be the final governance process for inflation; the system\nmay evolve as additional governance rights and capabilities come online.\n\nInflation accrues to the “Unallocated” portion of the OP token allocations. The\nUnallocated portion of the token supply is held in reserve for future programs.\nFor now, the Collective is focused on building healthy processes around the\nexisting active portions of the token supply.\n\n\nHOW THE INFLATION ADJUSTMENT VOTE WORKS\n\nIn the Voting Cycle that ends closest to and before May 31st, the Token House\nmay vote to set inflation to any value between 0% and 2%, inclusive. If no\nproposal passes, inflation will remain at the rate last approved by governance.\n\nIn 2024, an Inflation Adjustment Vote may take place in Special Voting Cycle\n#23a, which runs from May 23 - May 29, 2024. If more than one Inflation\nAdjustment Proposal is passed by governance, the proposal with the highest ratio\nof yes votes to total votes cast will pass.\n\nInflation Adjustment should follow the template provided below and will need 4\ntop 100 delegate approvals by May 22nd at 19:00 GMT to proceed to a vote in\nSpecial Voting Cycle #23a, as outlined in the Operating Manual\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md].\n\n\nINFLATION ADJUSTMENT PROPOSAL TEMPLATE\n\nInflation Adjustment Proposals should follow the template below:\n\n\n> SUMMARY\n> \n> What is this inflation adjustment proposal?\n> \n> \n> MOTIVATION\n> \n> Why should the Collective adjust inflation?\n> \n> \n> SPECIFICATION\n> \n> This proposal would set an inflation rate for [YEAR] of [X%].\n> \n> If approved, and if not superceeded by another Inflation Adjustment Proposal\n> with higher approval, this proposal will result in a one-time mint of OP of\n> [X]% of the current total supply (4,294,967,296 OP) equal to [Y] tokens. This\n> inflation will occur on or shortly after May 31 and accrues to the\n> “unallocated” portion of the token supply.\n> \n> If not approved, and unless another Inflation Adjustment Proposal is approved,\n> inflation will remain at the rate last approved by governance, which was 0%.\n> Inflation will occur on or shortly after May 31 and accrues to the\n> “unallocated” portion of the token supply.\n> \n> \n> IMPACT SUMMARY\n> \n> Expected effects resulting from inflation adjustment\n> Expected impact to key stakeholders in the Collective",
+  "views": 1812,
+  "like_count": 12,
+  "word_count": 483,
+  "answer": [
+    {
+      "content": " * Updated to reflect 2024 dates\n\n * Updated to reflect inflation will remain at the rate last approved by\n   governance, unless another proposal is put forward, rather than returning to\n   the original 2% default.",
+      "created_at": "2024-05-09T10:34:04.304Z",
+      "trust_level": 4,
+      "username": "system",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 4
+    }
+  ],
+  "created_at": "2023-04-25T21:45:37.715Z"
+}

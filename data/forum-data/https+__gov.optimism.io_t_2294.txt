@@ -1,0 +1,9 @@
+{
+  "title": "OP Should Focus on NFTs in Subsequent Drop",
+  "content": "OP should promote itself as a smart chain for trading NFTs.\n\n * OP should fund projects to allow bridging of NFTs from Eth Main to OP.\n * OP should fund existing values aligned NFT projects to promote bridging their\n   NFTs to OP.\n * OP should fund OP projects that make trading NFTs on OP easier.\n * OP should promote the security and cost savings applicable to shifting NFT\n   marketplace activities to OP.\n   - OP should issue guidance on a future OP drop so that interested users can\n   target OP NFT engagement goals to help support the above.",
+  "views": 1602,
+  "like_count": 2,
+  "word_count": 92,
+  "answer": [],
+  "created_at": "2022-06-01T15:18:38.863Z"
+}

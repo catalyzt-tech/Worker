@@ -1,0 +1,9 @@
+{
+  "title": "An RPG type game as form of living in Optimism environment",
+  "content": "Greetings,\n\nJust something that came in mind. As we are behaving same like a real country,\nin term of citizens and voters, stewards, Governances, and delecates, how we can\nimprove this experience to something more visualistic? One idea is to create an\nRPG type game and include the houses(Governance, Token, Citizen) in it, have\ndiscussion rooms, and many other places where people can participate and\ncontribute in different forms. Somehow bringing the Optimism discord there too.\nIt was just an idea, might sound too complicated. Any thoughts?",
+  "views": 910,
+  "like_count": 1,
+  "word_count": 88,
+  "answer": [],
+  "created_at": "2023-05-28T11:19:03.741Z"
+}

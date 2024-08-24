@@ -1,0 +1,31 @@
+title: Optimism Community Hub
+lang: en-US
+description: desc
+
+import { Cards, Card } from 'nextra/components'
+
+Welcome to the Optimism Collective
+
+The Optimism Collective is a band of companies, communities, and citizens working together. The Collective and the Superchain take an experimental and agile approach to governance, relentlessly iterating towards a system which stands the test of time.
+Whether you're a builder curious about how to get a grant, a prospective delegate interested in beginning to vote, or looking for ways to contribute to the Collective, you'll find everything you need to get started right here.
+
+FAQs
+
+Frequently asked questions, in quick links.
+
+  <Card title="How do I delegate my OP tokens?" href="/token-house/how-to-delegate" icon={} />
+
+  <Card title="What are Missions?" href="/grant/grant-overview#mission-grants" icon={} />
+
+
+Dive In
+
+  <Card title="Token House" href="/token-house/token-house-overview" icon={} />
+
+  <Card title="OP Token" href="/op-token/op-token-overview" icon={} />
+
+  <Card title="Citizens House" href="/citizens-house/citizen-house-overview" icon={} />
+
+  <Card title="Identity" href="/identity/identity-overview" icon={} />
+
+  <Card title="Contribute" href="/contribute/contribute-overview" icon={} />

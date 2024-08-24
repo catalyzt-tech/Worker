@@ -1,0 +1,60 @@
+{
+  "title": "Delegation Questions & Feedback Thread",
+  "content": "Thread for any questions or feedback that you may have on the delegation\ncommitment process [https://gov.optimism.io/t/delegate-commitments/235].",
+  "views": 3222,
+  "like_count": 58,
+  "word_count": 1305,
+  "answer": [
+    {
+      "content": "I notice that we seem to have the same core of people or blockchain student\nsocieties applying to be delegates here, alongside their roles at other\nprominent infrastructural DAOs (ENS, Gitcoin, etc.).\n\nWhile I have believe their motivations are good I wonder whether we are\nsleepwalking into a new type of centralisation, delegate centralisation across\nDAOs. I would make a small appeal to these users and societies to consider\nallowing for new voices into these positions, rather than dominating them across\nthe board. It also seems it would be difficult to be a delegate across so many\nprotocols.",
+      "created_at": "2022-05-17T21:02:32.036Z",
+      "trust_level": 2,
+      "username": "polarpunklabs",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 14
+    },
+    {
+      "content": "\n[https://avatars.discourse-cdn.com/v4/letter/j/3ab097/48.png] Justin:\n\n> But then i tried to vote on a test vote on snapshot and it did not recognize\n> my OP tokens\n\nYou can ignore that snapshot test.\n\nIf you want to check if everything is fine just go to the contract: $2.29 |\nOptimism (OP) Token Tracker | Optimism\n[https://optimistic.etherscan.io/token/0x4200000000000000000000000000000000000042]\nUse the “read contract” tab, under “6. delegates” put your address, execute\n“query”. If it returns your address then everything is how you want.",
+      "created_at": "2022-06-02T22:01:25.534Z",
+      "trust_level": 2,
+      "username": "Prometheus",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "PLEASE extend the cutoff date for Delegate submissions by another day ! The\nphase 0 teams have until may 27th to get their submittal in.\n\nI know of multiple people still working on their delegate proposal.",
+      "created_at": "2022-05-26T15:30:30.283Z",
+      "trust_level": 1,
+      "username": "Optimism.Goverance",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Early adopters. Diversity.\n\nIt would be good to know if there are others commitments of the delegators in\norder to evade overlapping with significant commitments to other project.\n\nSome kind of interviewing is probably good to have into consideration.\n\nAnalyzing history of one’s ETH adress can say very much about the experience and\ndepth one has in crypto so would be one of important critera I suppose.",
+      "created_at": "2022-05-28T08:18:21.864Z",
+      "trust_level": 2,
+      "username": "darwin",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Hi! I just posted a proposal to be a delegate. I’m a founder of an Optimism (and\nLayerZero) native protocol- Tapioca. While not a well established name, I’m\nextremely passionate about web3, defi, and layer 2. Pleasure to be here!",
+      "created_at": "2022-06-01T00:49:20.055Z",
+      "trust_level": 1,
+      "username": "NicoleTapioca",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    }
+  ],
+  "created_at": "2022-05-03T22:36:28.155Z"
+}

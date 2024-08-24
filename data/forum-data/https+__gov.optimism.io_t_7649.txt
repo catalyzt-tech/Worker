@@ -1,0 +1,60 @@
+{
+  "title": "Season 5, Rubrics Feedback Thread",
+  "content": "Consistent with Season 4, reviewers in Season 5 will use rubrics to review\nMission applications. The Grants Council is providing a rubric for each intent\nGrowth Experiments and each intent Builders sub-committee rubrics here for\nvisibility and community feedback. Please provide comments by Wednesday, March\n25th for your comments to be considered. Rubrics will be finalized on March 28\nat 19:00 GMT. Note that given the number of different mission requests (43) the\nGrants Council decided to create standard rubrics for each intent and each\nsubcommittee and make edits based on the substance of the mission request.\n\nCategories marked as (optional) could be removed from a specific mission request\nif it does not apply to the specific mission request.\n\nThe intake filter incorporated a few new points.\nIntake review for Growth Experiments submission can be declined if:\n\n 1. The project is not deployed\n 2. Out of scope: Not incentivizing user growth\n 3. Circumventing the No Sale rule\n 4. It’s a grant program within a grant\n 5. Determination of OP recipient (end user) is not organic\n 6. underdeveloped\n\nA second reviewer approval is needed if the intake is declined for any of these\nreasons.\n\nLink to draft rubrics\n[https://docs.google.com/spreadsheets/d/14PCmw2VeXgKT7qyNTBL6cCWfHQMCW0nurMZnPjsH6XE/edit?usp=sharing]",
+  "views": 1134,
+  "like_count": 6,
+  "word_count": 735,
+  "answer": [
+    {
+      "content": "\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/blocklogica/48/8451_2.png]\nBlocklogica:\n\n> Layerwide new project support mission\n\nWe have taken:\n\n * Insights for ui/ux\n * Accessibility\n * Non-defi user attraction\n * Opensource\n * Sybil detection\n * User draw (This one can be replaced with Builder draw)\n * Builder Commitment (Service provider is providing service for the locked\n   token)\n\nAs suggested we added:\n\nBuilders long-term support\n\n 0. No support\n 1. Mercenary support (stays until benefits end)\n 2. Some Commitment support (1 to 3 months after rewards end )\n 3. Commitment support (1 year after rewards end)\n 4. Strong Commitment support (2+ years after rewards end)\n\nEase of bootstrap\n\n 0. Getting assistance will be hard and complicated\n 1. Normal path to get assistance\n 2. Straightforward process to get assistance\n\nWe consider\n\n\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/blocklogica/48/8451_2.png]\nBlocklogica:\n\n> Receivers potential assessment (How the proposer examines the innovative\n> value, quality, novelty and feasibility of the projects that want to support\n> and how can make it clarified)\n\nTo be included on multiple questions of the rubric like “novelty” and\n“likelihood of success”\n\nThank you for your active participation in the rubric design process.",
+      "created_at": "2024-04-16T14:44:20.585Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "Hi @Gonna.eth [/u/gonna.eth] here is our suggestion :\n\n * Builder Draw\n * Builders long-term support\n * Ease of bootstrap (How the proposer can assist and provide essential business\n   needs for early and mid stage startups to bootstrap in the market)\n * Receivers potential assessment (How the proposer examines the innovative\n   value, quality, novelty and feasibility of the projects that want to support\n   and how can make it clarified)",
+      "created_at": "2024-04-02T21:32:13.028Z",
+      "trust_level": 0,
+      "username": "Blocklogica",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Thank you for the feedback!\n\n\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/bob/48/7797_2.png]\nBob:\n\n> Perhaps they should be included in the ‘get a grant’ sections, or maybe I\n> missed it?\n\nYes! They probably will once they pass the token house vote that ends today!\nThank you for your suggestion.",
+      "created_at": "2024-02-14T12:12:15.936Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 0
+    },
+    {
+      "content": "What do you think could be relevant? I agree we can remove some of these\ncriteria but we still need to score an application here.",
+      "created_at": "2024-03-26T19:07:33.930Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 0
+    },
+    {
+      "content": "I actually find the rubrics to be very useful. I first noticed them on the right\nhand margin as I was adding the content to the grant proposal. My only\nsuggestion would be that I only found out about the grant proposal charmverse\nlinks through a nice gov member pointing me to the link. Perhaps they should be\nincluded in the ‘get a grant’ sections, or maybe I missed it? Otherwise I found\nthe information very accessible. Obviously the tiers, teams/alliances and things\nlike that can be a little confusing at first, but so far I’d say the system\nseems successful at guiding people to the proper intents.",
+      "created_at": "2024-02-13T19:18:45.837Z",
+      "trust_level": 1,
+      "username": "Bob",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-02-12T11:28:27.162Z"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "30th OP Community Call will be [Tuesday October 31st @ 10:00 PT / 13:00 ET / 17:00 GMT / 19:00 CEST]",
+  "content": "Hi everyone! :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]\n\nWe will be having our next community call on October 31st! :ghost:\n[https://emoji.discourse-cdn.com/twitter/ghost.png?v=12] :jack_o_lantern:\n[https://emoji.discourse-cdn.com/twitter/jack_o_lantern.png?v=12]\n\nAs always, feel free to post any topics you’d like to dicuss.\n\nCan’t wait to see you there!\n\nZoom Link: Launch Meeting - Zoom\n[https://us02web.zoom.us/j/84087544843?pwd=cVpweHpEa2drYVRDZ1U0UklYSnR1QT09]\n\nMichael :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12] :sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]",
+  "views": 542,
+  "like_count": 13,
+  "word_count": 82,
+  "answer": [
+    {
+      "content": "This one worked for me: Launch Meeting - Zoom\n[https://us02web.zoom.us/j/84087544843?pwd=cVpweHpEa2drYVRDZ1U0UklYSnR1QT09]",
+      "created_at": "2023-10-31T17:04:57.218Z",
+      "trust_level": 4,
+      "username": "brichis",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 3
+    },
+    {
+      "content": "Call is passcode-protected. Perhaps share the passcode or remove it?",
+      "created_at": "2023-10-31T17:02:51.610Z",
+      "trust_level": 2,
+      "username": "Sinkas",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Bumping this as we’ll have the call soon!",
+      "created_at": "2023-10-31T15:28:46.205Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2023-10-17T19:41:23.621Z"
+}

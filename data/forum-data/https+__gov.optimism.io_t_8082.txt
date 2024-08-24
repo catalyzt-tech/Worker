@@ -1,0 +1,50 @@
+{
+  "title": "Season 6: Grants Council Operating Budget",
+  "content": "SEASON 6: GRANTS COUNCIL OPERATING BUDGET\n\n--------------------------------------------------------------------------------\n\nA Grants Council was created\n[https://gov.optimism.io/t/guide-to-season-3-course-correcting/3942] in Season 3\nto aid the Collective in making grants from the Governance Fund. In Season 4,\nthe Grants Council made grants under Intent #2 and piloted a Request for Grants\n(RFG) program. In Season 5, the Grants Council was responsible for evaluating\ngrant for delegated-authored Mission Requests, under all Intents.\n\nYou can find the retrospective of the Season 5 Grants Council here\n[https://gov.optimism.io/t/grants-council-internal-operating-procedures-for-season-5/7351].\n\n--------------------------------------------------------------------------------\n\nThe Grants Council is considered a persistent Council, as outlined in the\nupdated Collective Representative Framework\n[https://gov.optimism.io/t/collective-representative-structure-framework/5884].\nThat means the Grants Council will be assumed to be renewed each Season, unless\na Council Dissolution proposal, outlined in the Operating Manual\n[https://github.com/ethereum-optimism/OPerating-manual/tree/main/src], is\npassed.\n\nAll prospective Leads may propose a Grants Council Operating Budget for Season\n6. Delegates should only vote to approve one Grants Council Operating Budget.\nThe budget proposal with the highest proportion of “Yes” votes will be approved.\nDelegates are effectively electing the Lead that has authored an approved\nbudget. Reviewers on the Grants Council will be elected, according to the\nprocess outlined here\n[https://gov.optimism.io/t/season-6-elections-grants-council/8115].\n\nProposal drafts, with 4 delegate approvals, are due by May 22nd at 19:00 GMT.\n\nPlease see the Collective Reward Framework\n[https://gov.optimism.io/t/season-6-collective-reward-framework/8112] for help\nevaluating budget requests.\n\n--------------------------------------------------------------------------------\n\n\nGRANTS COUNCIL OPERATING BUDGET TEMPLATE\n\nIt is recommended that you add a poll to the bottom of your proposal asking the\ncommunity if they believe your proposal is ready to move to a vote.\n\nProposed Council Lead: Name\n\nProposed Council Operating Budget: X OP (+/- relative to previous Season)\n\nContact Info: Email\n\nPlease link to any previous work or qualifications to be Council Lead:\n\n * Link to community contributions (Forum posts, voting history, delegate\n   communication threads, attestations, etc.)\n * Link to relevant work experience\n\nCouncil Charter:\n\n * Link to Last Season’s Charter:\n   https://github.com/ethereum-optimism/OPerating-manual/blob/main/Grants\n   Council Charter v0.1.md\n   [https://github.com/ethereum-optimism/OPerating-manual/blob/main/Grants%20Council%20Charter%20v0.1.md]\n * Link to proposed Season 6 Charter - Please note all persistent Charters are\n   binding, as ratified governance documents, and are maintained on github as\n   pages under the Operating Manual\n   [https://github.com/ethereum-optimism/OPerating-manual/tree/main]\n   * Please note that the Charter of the Council will need to be expanded to\n     account for the following changes in scope in Season 6:\n     * The Grants Council will be responsible for proposing Mission Requests\n       under Intent #3\n     * The Grants Council will be responsible for processing violations of the\n       Collective Grant Policies\n       [https://gov.optimism.io/t/collective-grant-policies/5833], subject to\n       optimistic approval from the Token House.\n     * All members will be accountable to governance as they remain removable\n       via the Representative Removal proposal type outlined in the Operating\n       Manual\n       [https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md]\n     * [to reflect any other material changes outlined by proposal authors, as\n       necessary and permitted]\n\nBreakdown of Council Operating Budget:\n\n * Please note, regular Voting Cycles will be 3 weeks long in Season 6 but the\n   Grants Council may choose to process grants over multiple cycles. However, it\n   is strongly recommended to keep cycles as short as possible to improve the\n   velocity of the Collective.\n\nExample:\n\n * Number of Reviewers = XXXX OP (+/- from last Season)\n   * Please break down # by sub-committee, if applicable\n   * Please indicate any leadership roles to be designated among Reviewers (ie.\n     Ops Lead, Comms Lead, etc.)\n   * Please explain any increase or decrease since last Season\n   * It is strongly recommended that teams not exceed 7 members, but may support\n     up to 14 if split into smaller teams\n * Lead = XXXX OP (+/- from last Season)\n   * Please explain any increase or decrease since last Season\n\nHow should governance participants measure the Council’s impact?\n\nBuilder Experience KPIs:\n\nThe Foundation suggests the below measures, or similar:\n\n * NPS of applicants\n * Drop off rate of applicants (what percentage of builders interested in apply\n   for a grant actually submit an application?)\n * Number of times the Foundation’s Growth Team is contacted by partners\n   confused about application process\n * Number of quality applicants the Grants Council is unable to support\n\nGrant Performance KPIs:\n\nThe Foundation suggest the below measures, or similar:\n\n * Increase in target metric under Intent 1\n * Increase in target metric under Intent 3 (even if not fully measurable within\n   6 months, an estimated impact can be deduced from grants made)\n * Number of OP Chain grants programs launched\n * Number of grants that have to be clawed back for failure to meet milestones\n\n--------------------------------------------------------------------------------\n\nConsistent with other reward allocations, all rewards will be subject to a KYC\nand claims flow process.\n\n--------------------------------------------------------------------------------\n\n\nWHAT DOES THIS MEAN FOR DELEGATES?\n\nDelegates will vote to approve a Grants Council Operating Budget in Special\nVoting Cycle #23a. Approving a Grants Council Operating Budget elects the\nproposal author as Grants Council Lead. Delegates will vote to elect Reviewers\nin Special Voting Cycle #23b as outlined here\n[https://gov.optimism.io/t/season-6-voting-guide/8130].",
+  "views": 557,
+  "like_count": 8,
+  "word_count": 1058,
+  "answer": [
+    {
+      "content": "Voting for the proposal as it’s the only grants council proposal and a grant\ncouncil is needed",
+      "created_at": "2024-05-26T08:15:47.212Z",
+      "trust_level": 2,
+      "username": "lefterisjp",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "As part of the Path to Open Metagovernance\n[https://gov.optimism.io/t/the-path-to-open-metagovernance/7728], we’ll be\nexperimenting with polls this Reflection Period.\n\n\nARE THERE ANY ASPECTS OF THE GRANT COUNCIL’S SCOPE EXPANSION THAT YOU ARE NOT\nSUPPORTIVE OF?\n\nPlease provide additional feedback in the comments if you select any answers\nbelow\n\n * The Grants Council will be responsible for processing violations of the\n   Collective Grant Policies, subject to optimistic approval from the Token\n   House\n * The Grants Council will be responsible for proposing Mission Requests under\n   Intent #3\n\n0 voters",
+      "created_at": "2024-05-13T12:49:10.422Z",
+      "trust_level": 4,
+      "username": "system",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "Potential Leads interested in putting forward a Grants Council budget proposal\nmay consult the open source charter\n[https://gov.optimism.io/t/season-6-opensource-draft-charter/8146], created by a\nformer Grants Council Lead.",
+      "created_at": "2024-05-16T22:42:55.242Z",
+      "trust_level": 4,
+      "username": "system",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "Bumping this post for more visibility so hopefully other delegates will follow\nsuit and vote in the poll here.",
+      "created_at": "2024-05-17T15:15:45.315Z",
+      "trust_level": 2,
+      "username": "FractalVisions",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-05-08T13:29:15.889Z"
+}

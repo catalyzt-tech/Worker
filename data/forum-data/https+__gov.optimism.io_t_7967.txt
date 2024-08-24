@@ -1,0 +1,9 @@
+{
+  "title": "Voting Cycle Roundup #21",
+  "content": "Cycle 21 began on Thursday (March 28th) at 19:00 GMT and runs until Wednesday\n(April 17th) at 19:00 GMT. Additionally, the Citizens’ House will have a\none-week period to veto any Upgrades approved by the Token House, immediately\nfollowing the conclusion of the Token House Voting Period.\n\nA snapshot of delegate voting weights will be taken at the time votes go live.\nVoting will take place at https://vote.optimism.io/ [https://vote.optimism.io/]\nstarting on April 11th at 19:00 GMT. The Citizens’ House veto vote will take\nplace via Snapshot from April 18th to April 24th.\n\nThe following proposals have received the required delegate approvals and will\nmove to a vote in Cycle #21:\n\n * Governor Update #1: Improve advanced delegation voting\n   [https://gov.optimism.io/t/proposal-improve-advanced-delegation-voting/7932]\n * Season 5: Intents Budget Proposal #2\n   [https://gov.optimism.io/t/season-5-intents-budget-proposal-2/7937]\n * The Code of Conduct Council did not make any enforcement decisions during\n   Cycle #21 so there will be not optimistic approval of their actions during\n   this cycle",
+  "views": 631,
+  "like_count": 2,
+  "word_count": 179,
+  "answer": [],
+  "created_at": "2024-04-11T18:54:15.925Z"
+}

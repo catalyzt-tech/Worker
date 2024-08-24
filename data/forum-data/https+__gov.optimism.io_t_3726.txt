@@ -1,0 +1,60 @@
+{
+  "title": "Synthetix Ambassadors Phase 0 Delegation - 2M OP tokens",
+  "content": "The Synthetix Ambassadors will soon receive a delegation of 2m OP tokens\n(Optimism governance power) from the SNX Treasury Council. We would like to\nensure that there is advanced notice of this delegation because of anticipated\ncommunity feedback.\n\nIt is important to note that there is a blog post detailing all of this\n[https://mirror.xyz/snxambassadornews.eth/SL-9Apki26ey9qlpWmbr6ZdlDRdIbmaPlFe8GtUpV6c],\nbut I’ll quickly summarize the reasons for doing this in this thread by taking\nsome pts from the blog post\n\n1) OP Delegation Included in original SNX Ambassadors Proposal\n\nIf you look at the initial OP distribution that the SNX Ambassadors at the time\n(Matt, Mojo, Millie) wrote, it makes clear that there was intent (at the time)\nfor this Optimism to be delegated to the Ambassadors.\n\nThis delegation was something Synthetix Ambassadors had initially pushed for\nunder its internal proposal and was approved by the Spartan Council at\nSynthetix. Furthermore, these tokens were directed to be held by the Synthetix\nTreasury council, as they were deemed the best fit to handle distributions for\nincentives and so on.\n\nMembers of the Optimism community have stated that phase 0 delegations are only\nacceptable if it is adequately disclosed, and this disclosure was given. While\nit wasn’t correctly carried over to the Optimism forums, this was because of the\nlack of contentiousness surrounding this topic at the time because Synthetix’s\nphase 0 proposal came long before any drama in OP governance (proposal was\nposted in May)\n\n2) Ecosystem Support - Overtime Markets scare\n\nThe Synthetix ecosystem is vast; it is a major part of Optimism and helps to\nonboard countless users onto Optimism. It is important to support this ecosystem\nas they request Optimism tokens, and because of the lack of governance power\nbecause of the inaccessibility of Ambassador voting power, Synthetix Ambassadors\nhaven’t been able to support its ecosystem properly.\n\nThe most notable example is when Overtime Markets requested OP tokens to\nincentivize users and compete with centralized competitors. They received a NO\nrecommendation for their proposal from Optimism DeFi Committee C. For context,\nwhen a committee typically issues a recommendation there has been a 100% chance\nof losing their upcoming Optimism vote.\n\nWe’ve also rallied support in conversations in the Thales Discord, Optimism\nForums, on twitter, and are also using our current voting power to support\nOvertime. As of right now, this support has helped put Overtime on the path of\nbeing the first proposal to overcome a NO recommendation.\n\nThe Synthetix Ambassadors can’t rely on this sort of outpouring of support each\nand every-time. Which is why it is essential for this delegation of Optimism to\noccur, as it will ensure that the Synthetix Ecosystem is properly supported.\n\n3) Inaccessibility of Ambassador Voting Power - Lost committee vote, inability\nto support ecosystem\n\nMost Optimism governance power held by the SNX Ambassadors is inaccessible for\nvoting. Our original wallet faced multisig issues when being used on L2, which\nmade 1.4m OP tokens inaccessible for voting. We believe that this has created\nsituations where Synthetix Ambassadors have been unable to support the Synthetix\ncommunities interests properly.\n\nOne of the major situations is when the Synthetix Ambassadors lost their vote to\nbe selected as an official committee in Optimism governance by far less than the\n1.5m votes that were inaccessible for voting due to this issue.\n\nSupport for the future of Optimism Governance\n\nAs Synthetix ambassadors we feel that we are well equipped to contribute to the\nimprovement and maintenance of Optimism via governance, and represent the\nSynthetix ecosystem in the Optimism ecosystem as well. We are not going away,\nand we want to see Optimism flourish for many years to come",
+  "views": 3844,
+  "like_count": 170,
+  "word_count": 8601,
+  "answer": [
+    {
+      "content": "I’m not the delegation police or anything, but personally I would like to see\nself delegation specified in a proposal and voted in with that component being\nmade clear to everyone. But self delegation is a bit murky at the moment so I\nunderstand where you’re coming from.",
+      "created_at": "2022-10-18T04:50:52.875Z",
+      "trust_level": 3,
+      "username": "katie",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": "I think, if their main wallet is not accessible and they are not able to vote\nwith that, doing a self-delegation equal to amount of OP delegated should be a\nlogical thing to do. Synthetix has a huge ecosystem and they mush have their\nvoice in gov.\n\nBut self-delegation was not mentioned in the proposal so their internal document\ndoes not hold value. Doing the self delegation until issue is resolved with\nsnapshot should be fine.",
+      "created_at": "2022-10-18T12:45:38.179Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": "Hey States of Nature, welcome :slightly_smiling_face:\n[https://emoji.discourse-cdn.com/twitter/slightly_smiling_face.png?v=12]\n\n\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/states_of_nature1651/48/2059_2.png]\nstates_of_nature1651:\n\n> @katie [/u/katie] re-reading your post, this is kind of what you were saying\n> too?\n\nNot exactly, it sounds like you’re advocating for a separate voting stream\nspecifically for self delegation. I’m fine with self delegation being a part of\nthe current grant proposal process, as long as it is specified within the\nproposal. The only issue I have with self delegation is if a project uses tokens\nreceived via the grants program for self delegation without being transparent\nabout that in the proposal and voting process. I’m fine with it as long as the\nexpectation is set and everyone can vote accordingly.\n\nThe issue with Synthetix is a little different because they have tokens that\nhave been delegated to them that they are unable to use. My understanding is\nthat they are using self delegation as a temporary solution to not being able to\nvote with their current delegated tokens.",
+      "created_at": "2022-10-19T17:54:48.471Z",
+      "trust_level": 3,
+      "username": "katie",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "Nice writeup.\n\n * Self-delegation: While not being a fan of “self-delegating grant funds”, it\n   was clearly mentioned in the beginning that this portion will be used by SNX\n   ambassadors until funds run out. (Not sure if the Op foundation has changed\n   their official stance since then.)\n\nEdit: It was only mentioned on SNX forum, not in the Op forum - which makes this\na diff case.\n\n * Overtime: We felt there was quite a bit of unnecessary drama around the\n   Overtime proposal as we all largely supported it to pass this or next cycle -\n   but we understand your intentions.\n\n * Inaccessible Voting Power & Delegations: We’re also very much looking forward\n   to a solution to the inaccessible Op, to more active governance engagement\n   (not only grants!), and improvements on stale delegations (power).\n\nOverall, we expect the Op ecosystem will continue to benefit from closely\ncollaborating with the SNX ecosystem. We hope that other, similarly aligned\nprojects also a) accumulate Op tokens on the free market and b) join this\ngovernance for a flourishing Op ecosystem future. It will be important to find a\ngood middle ground between self-interests of stakeholder groups & general,\nlong-term, sustainable Op ecosystem growth initiatives.\n\nThe last point might be especially important for SNX ambassadors & the Op team\nto consider as the SNX ecosystem in aggregation will have a lot of voting power\n(-> responsibility) in the Op ecosystem and we don’t see many teams/communities\nas professional, aligned & outspoken as Synthetix.",
+      "created_at": "2022-10-18T00:17:26.717Z",
+      "trust_level": 2,
+      "username": "ScaleWeb3",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "Hey MattL, this is a bit concerning.\nCurrently the 2M are delegated and SNX Ambassadors controls both addresses. This\nmeans that potentially have 3.4M voting power as per the dune dashboard and are\nby far one of the biggest delegate.\n\nAre you guys going to be using BOTH, supposing the issues relating to the msig\nare solved?",
+      "created_at": "2022-10-23T16:17:16.887Z",
+      "trust_level": 2,
+      "username": "Netrim",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    }
+  ],
+  "created_at": "2022-10-17T19:38:37.510Z"
+}

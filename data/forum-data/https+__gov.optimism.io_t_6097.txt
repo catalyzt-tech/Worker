@@ -1,0 +1,50 @@
+{
+  "title": "April 26 Outage: Synthetix Impact And Alignment",
+  "content": "Hello, Optimism!\n\nFollowing the events of April 26th, I wanted to make the Optimism team and\ncommunity aware of the impacts that degraded network performance had on\nSynthetix, as the event and the subsequent lack of communication left a lot to\nbe desired with respect to alignment between Optimism and its ecosystem.\n\nI am writing this post not as a representative of the Synthetix protocol, as I\nhave no active role as a core contributor, but rather as a community member and\nambassador who would like to see much clearer communication in the future.\n\n\nEVENT RECAP\n\nOn April 26th, Optimism experienced a significant downgrade in performance. As\nstated in the event post-mortem\n[https://github.com/ethereum-optimism/optimism/blob/develop/technical-documents/postmortems/2023-04-26-transaction-delays.md],\nthis was caused by a large uptick in ‘eth_sendRawTransaction’ requests. While\nthe sequencer technically remained online, performance with respect to user\ntransactions, node syncs, etc. caused the chain to be essentially unusable.\n\nSynthetix relies on Optimism’s infrastructure and liveness to function properly.\nUser transactions, oracle updates, keeper activities, debt positions, and much\nmore rely on continuous uptime from Optimism. Without it, as in the case of\nApril 26th, Synthetix is likely to experience protocol and user losses.\n\nDuring this outage, losses were incurred due to liquidations caused by market\nvolatility, leading to imbalanced market skew that couldn’t be arbitraged. This\nskew directly led to losses being absorbed by Synthetix stakers.\n\nPublic communication from the Optimism team regarding the event, its causes and\nimplications, was not given until May 9th, approximately 13 days following the\nevent. The initial response to the outage was that it was caused by\ninfrastructure providers. This initial information was later revealed to be\nincorrect. Incorrect information and delays in providing an accurate post mortem\nhave large consequences for the protocols and users that depend on the network.\nPoor and untimely communication erodes confidence in the network.\n\n\nIMPACT ON SYNTHETIX\n\n\nREGULAR MARKET CONDITIONS\n\nUnder normal circumstances, the ETH market may be balanced, with equal positions\non both the long and short sides, e.g. $1M. This balance ensures that for every\n$1 in profit there is $1 in losses to offset it, making the market delta neutral\nfor the liquidity providers.\n\nConsider a scenario where a large $500k short position gets liquidated. The\nmarket composition changes to $1M long and $500k short, creating a $500k long\nskew…\n\nArbitrage incentives built into Synthetix Perps, such as dynamic funding rates\nand price impact, encourage arbitrageurs to close this skew.\n\nExperience shows these incentives work as expected, returning the market to a\nbalanced state, (i.e. $1M long and $1M short) very quickly. Stakers only\ntemporarily assume skew from imbalanced markets\n\n\n\nimage1\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/6/607eaa0b273c05518f6cc3381132e7fc0e5c133b_2_690x264.png]\nimage1714×274 77.5 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/6/607eaa0b273c05518f6cc3381132e7fc0e5c133b.png]\n\n\n\n\nNETWORK DOWNTIME\n\nDuring chain-wide downtime or congestion, traders are unable to open or close\ntheir positions, which prevents arbitrage. If market prices shift, stakers lose\nfunds while traders gain, or vice versa.\n\nIn summary, the mechanisms in place effectively manage skew under normal market\nconditions, but network downtime presents a unique challenge, locking traders\nand stakers in their current positions exposing stakers to price volatility\nrisk.\n\nThe incident on April 26th led to approximately $1M in PnL losses for stakers.\n\nSNX staking is 16.8% of Optimism’s entire TVL. Therefore losses to Synthetix\nstakers due to network downtime represent a large threat to the Optimism\necosystem TVL and market share. Synthetix Perps also represent 70% of all perps\nvolume on Optimism over the last seven days.\n\n\nALIGNING INCENTIVES\n\nThe event highlighted what I believe to be a need for improved and continued\nincentive alignment between the network and its largest ecosystem partner. The\nsuccess of Optimism is tied to the success of the Synthetix ecosystem. It’s\ntherefore important Optimism strives to remain aligned with the success of its\nlargest protocols.\n\nGoing forward, Optimism should make it a priority to take actions that align the\nincentives of its ecosystem to put the network in the best position to succeed.\nThis means more active communication regarding upgrades or downgrades in the\nnetwork’s performance. As a big fan of both Optimism and Synthetix, I hope this\ncan serve as a starting off point towards continued but improved ecosystem\nalignment that leads to the success of the wider Optimism ecosystem.",
+  "views": 1204,
+  "like_count": 5,
+  "word_count": 845,
+  "answer": [
+    {
+      "content": "Gretings,\nThanks for this excellent post. I strongly agree with the impact of downgrade in\nthe Optimism network and the negativities that it can bring.",
+      "created_at": "2023-06-12T16:57:22.596Z",
+      "trust_level": 2,
+      "username": "cryptoAYA",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Disclosure: I’m currently part of Synthetix Ambassadors\nEven if you are not Synthetix user, the fact that Optimism response is\nembarrassingly slow, blaming third party first, then release post-mortem week\nlater on @OptimismStatus (which then got low-quality response from another\ncampaign). As an user we deserved better communication and responsiveness to\noutage.\n\nThis was my tweet from around that time\n\ntwitter.com [https://twitter.com/0xgunboats/status/1656851939441905669]\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/a/a8a5c7dd8bc7a84b2b82ffe4f320c500cd756f60.jpeg]\n\nGUNBOATS 🦇🔊 [https://twitter.com/0xgunboats/status/1656851939441905669]\n\n@0xgunboats [https://twitter.com/0xgunboats/status/1656851939441905669]\nyour guys were having issues last week, shrugging it off as infura issue, then\ndo post-mortem after a week then not post it on the main account? do better\nplease. twitter.com/OptimismStatus…\n[https://twitter.com/OptimismStatus/status/1656035804974825472]\n\nOptimism Status @OptimismStatus\n\n[https://twitter.com/OptimismStatus/status/1656035804974825472]\nOn April 26 OP Mainnet experienced degraded service due to a 10x increase in\neth_sendRawTransaction requests. While the issue ultimately resolved itself, our\ncommunication &amp; mitigation efforts were slower than they could have been.\n2:40 AM - 12 May 2023\n[https://twitter.com/0xgunboats/status/1656851939441905669] 9\n\n",
+      "created_at": "2023-06-13T13:46:10.979Z",
+      "trust_level": 2,
+      "username": "gunboats",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "great one… trhanks for contributing ser…",
+      "created_at": "2023-06-13T17:12:24.326Z",
+      "trust_level": 2,
+      "username": "Derbygold.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "Greetings,\n\nwell yes I am experiencing the same issure on Optimism. I hope this isuse gets\nresolves soon. There is a stiff competition in web 3.0.",
+      "created_at": "2023-06-14T17:18:23.012Z",
+      "trust_level": 2,
+      "username": "cryptoAYA",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2023-06-12T15:35:56.103Z"
+}

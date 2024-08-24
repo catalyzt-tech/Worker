@@ -1,0 +1,20 @@
+{
+  "title": "Launching the OP Citizen Dashboard | Superchain Eco",
+  "content": "Hi OP Collective,\n\nWe’re excited to announce the launch of the Citizens Database\n[https://www.superchain.eco/citizens] on the Superchain Eco platform.\n\nThis new platform maps all current OP Citizens, detailing their roles in\nprojects and their retrospective rewards for reviewing RetroPGF3.\n\nOur analysts will use the created Citizen database to gain relevant insights for\nimproving RPGF and Collective Governance.\n\n\nOP Citizens\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/8/8fe1c074778e17a789cdcd7b44c3a59b73f59d21_2_690x432.png]\nOP Citizens1301×815 50.4 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/8/8fe1c074778e17a789cdcd7b44c3a59b73f59d21.png]\n\n\n\nWe would love to hear your feedback and appreciate any help spreading the word\nabout this launch. [https://x.com/SuperchainEco]\n\nNext Steps\nWe’re working on applications for the Foundation Mission Requests, focusing on\nmeasuring concentration in the collective and voting design tradeoffs for Retro\nfunding. We plan to complete these to further enhance Governance Analytics in\nthe Collective.\n\nYou can follow us on our social media accounts for more updates :raised_hands:\n[https://emoji.discourse-cdn.com/twitter/raised_hands.png?v=12]\n:bird: [https://emoji.discourse-cdn.com/twitter/bird.png?v=12] X\n[https://x.com/SuperchainEco]\n:chains: [https://emoji.discourse-cdn.com/twitter/chains.png?v=12] Warpcast\n[https://warpcast.com/superchaineco]\n:globe_with_meridians:\n[https://emoji.discourse-cdn.com/twitter/globe_with_meridians.png?v=12] LinkedIn\n[https://www.linkedin.com/company/superchain-eco/]",
+  "views": 352,
+  "like_count": 8,
+  "word_count": 176,
+  "answer": [
+    {
+      "content": "Actions like these from the community collectively enhance OP governance. Kudos\nto Superchain Eco!",
+      "created_at": "2024-06-24T10:00:39.208Z",
+      "trust_level": 1,
+      "username": "jaymayday.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-05-29T14:01:30.729Z"
+}

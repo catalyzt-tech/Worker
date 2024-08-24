@@ -1,0 +1,60 @@
+{
+  "title": "[Recap] 19th OP Community Governance Call will be [April 25 at 10am PT / 1pm ET / 7pm CET]",
+  "content": "Hey Everyone!\n\nZoom Link:\nhttps://us02web.zoom.us/j/84087544843?pwd=cVpweHpEa2drYVRDZ1U0UklYSnR1QT09\n[https://www.google.com/url?q=https://us02web.zoom.us/j/84087544843?pwd%3DcVpweHpEa2drYVRDZ1U0UklYSnR1QT09&sa=D&source=calendar&usd=2&usg=AOvVaw22TnqMjK_BYeCshiVu5GCw]\n\nThank you everyone for coming to the call! We had a good turnout this week and\nsome new participants as well as some good discussion. The good news is that it\nwas a great call, the bad news is that I forgot to hit the record button. Sorry\nabout that :smiling_face_with_tear:\n[https://emoji.discourse-cdn.com/twitter/smiling_face_with_tear.png?v=12].\nLesson learned and will be more careful in the future.\n\nHere is the recap but if I missed anything be sure to comment below and I will\nadd it!\n\nOn to the recap:\n\n * People are excited about the Season 4 structure!\n\n * Intent 3 discussion\n   \n   * Some talk about making the intent so it can encompass OP tokenomics\n   * Discussion on making it broad enough to include the possibility of some\n     kind of legal defense fund (i.e. sushiswap)\n   * Make sure to submit suggestions by Wednesday, April 26th! The intent will\n     created by the OP Foundation as a synthesis of suggestions from the\n     community.\n\n * Missions & Alliances\n   \n   * OP Foundation team will be putting out 5-8 Foundation Proposed Missions\n     (RFPs [https://github.com/orgs/ethereum-optimism/projects/31/views/1]) but\n     are in the process of getting these ready internally.\n   * We have our first community-proposed mission by @Frisson [/u/frisson] and\n     Tally! Check it out on the forums Superchain Governance Deep Dive\n     [https://gov.optimism.io/t/superchain-governance-deep-dive/5920]\n   * Feedback on missions by delegates should include whether the intent is the\n     correct one, and social verification that the leader of the alliance meets\n     the trust tier required.\n\n * Be sure to vote in the upcoming proposal cycle\n\n * There was general Q&A about trust tiers, alliances, etc. Most of the things\n   discussed can probably be learned by reading through this document:\n\n * There was a suggestion for a central place to hold community + foundation\n   call recording\n\n * Also a suggestion to have a glossary of OP governance terms.\n\n * The two above things could potentially be part of a mission for intent 4!\n\n * Next call is in two weeks!\n\nRemember, this is a community call and it’s open to everyone! If you have any\ntopics you’d like to see discussed, feel free to drop a comment in this thread.\n:slight_smile: [https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]\n\nSee you there!\nMichael :sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]:red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]",
+  "views": 1700,
+  "like_count": 36,
+  "word_count": 810,
+  "answer": [
+    {
+      "content": "Heads up everyone, this post was edited as we are now skipping the April 11th\ncall (rest week for governance) and will pick up again two weeks later as normal\non April 24th!\n\nIn the meantime, check out the governance calendar because it looks like we will\nbe having a Season 4 AMA next week.",
+      "created_at": "2023-04-10T20:08:31.579Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "Just want to bump this post! Feel free to contribute any topics of discussion.",
+      "created_at": "2023-04-24T19:27:38.884Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "post has been edited to include the recap!",
+      "created_at": "2023-04-25T21:02:04.623Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "My AI friend took some notes of the call, I hope it helps! :blush:\n[https://emoji.discourse-cdn.com/twitter/blush.png?v=12]\n\nSummary:\n\n * Alliances submit proposals for missions based on attestations\n * Attestations increase trust and budget for proposing missions\n * The call discussed accessing AMA videos and upcoming deadlines for feedback\n * Anyone can join or form an alliance, which can be a single person or a group\n * Trust tiers determine the budget and eligibility for missions\n * Foundation missions and proposed missions have different approval processes\n * Trust tiers are assessed through a socially enforced system for now\n\nQuestions and Answers:\n\nQ: What is the mission proposal submitted by Tally?\nA: The mission proposal is a research project diving deep into Superchain and\npossible implementations of Superchain Governance via the Optimism Collective.\nThey aim to solicit feedback from the Optimism Foundation and Optimism\nCollective and synthesize recommendations for a general path forward.\n\nQ: Who can join alliances and participate in missions?\nA: Anyone can join or form an alliance, which can be a single person, a group of\ncontributors, or even an incorporated entity.\n\nQ: Are the trust tiers criteria public?\nA: Yes, you can search for “collective trust tiers” in the forum to find the\ncriteria.\n\nQ: What is the process for approval of a mission?\nA: Foundation missions are similar to RFPs and are approved by the foundation.\nProposed missions are funded by the Foundation and voted on by the token house\nin the next voting cycle.\n\nQ: How are trust tiers assessed?\nA: Trust tiers are assessed through a socially enforced system, where proposals\nneed to provide proof of their tier qualifications.",
+      "created_at": "2023-04-26T01:14:55.254Z",
+      "trust_level": 4,
+      "username": "brichis",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "this is awesome! Love it!!!",
+      "created_at": "2023-04-27T16:09:12.853Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2023-04-09T03:10:41.342Z"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Change the use of OP tokens from a governance token to the main network token for gas payment",
+  "content": "Do you agree with changing the use of OP tokens from a governance token to a\nmain network token to pay the gas fee?",
+  "views": 11738,
+  "like_count": 482,
+  "word_count": 8258,
+  "answer": [
+    {
+      "content": "I’m strongly against this proposal. One of the unique strengths of Optimism is\nEthereum Equivalence, it isn’t just EVM compatible, but is designed to operate\nalmost exactly like mainnet. This means porting smart contracts across is as\nsimple as possible, gas works the same, opcodes work the same, it means Optimism\ncan adopt all the same EIPs as Ethereum with minimal extra work. Basically it’s\nan amazing advantage over just about everything else.\n\nIf we stopped using Ethereum for gas and switched to using OP we would be\nsacrificing all of that to what gain? The OP collected as gas would need to be\nsold for ether in order to pay the mainnet fees anyway so all it would really do\nis add an extra step to that process.\n\nFor anyone who is for this proposal, what advantage do you see to it that I’m\nmissing?",
+      "created_at": "2022-06-01T17:55:06.446Z",
+      "trust_level": 2,
+      "username": "MinimalGravitas",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 56
+    },
+    {
+      "content": "I think what you’re maybe missing is that most of the fees you pay on Optimism\nare used directly to pay for gas to post proofs/data onto Ethereum L1. For\nexample about $260,000 in ETH fees were paid by Optimism users on the rollup in\nthe last 24 hours [https://cryptofees.info/ [https://cryptofees.info/]], of\nthat, about $225,000 was spent on Ethereum L1 [Dune\n[https://dune.com/hildobby/Gas]].\n\nIf Optimism were to collect gas fees in OP, they would still need to pay the L1\nfees in ether, so they would have to sell the OP they just collected and buy\nETH… so what would be the gain?\n\nOn the other hand, we’d lose some of the advantages of Ethereum Equivalence\nwhich make Optimism stand out over other rollups. It just doesn’t make sense as\na sacrifice for no benefit!",
+      "created_at": "2022-06-01T22:11:19.152Z",
+      "trust_level": 2,
+      "username": "MinimalGravitas",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 24
+    },
+    {
+      "content": "yeah its good, i think its better for OP in long time",
+      "created_at": "2022-06-01T14:06:10.021Z",
+      "trust_level": 1,
+      "username": "chaosen",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 18
+    },
+    {
+      "content": "yeah - i have to agree with you on this. I’m not sure all of these people that\nare blindly in favor of this silly idea have taken a moment to really think\nabout this at all and are just thinking somewhat selfishly and narrowly about\nthe price of OP going up. I’m no expert on optimistic rollups but I have to\nassume that the current eth fees we are paying are collectively used to pay for\non-chain transactions which is how the L2 network is able to utilize the\nadvanced security and functionality of the ethereum network. So, if the native\ntoken to pay fees on Optimism is OP, then what is the exact process for paying\nthe eth fee for those on-chain benefits exactly? Do you also have to add a\nclunky and unecessary process in which the OP paid for fees is swapped for ETH\nin order to remain being an L2 network with the benefits of L1 ethereum? Fairly\nsure this is a simple issue to be addressed with this completely pointless\nproposal which has the main benefit of adding complexity to this process.\n\nNow, to address this claim, which is the backbone of this boneheaded suggestion,\nthat governance tokens have no value or real use is just an indication that this\nperson and those agreeing with them have absolutely no ability think about the\nfuture of this space 5 or 10 years down the road. It has yet to really take hold\nvery well, but eventually a decentralized governance program and the token that\nenables it is going to be incredibly valuable with further adoption as this\nspace, DeFi and Web3 continue to mature. Having voting power in multiple major\nprojects with a robust history which helps to prove longevity of the biggest\nplayers in DeFi will be similar to the power of a wall street bank.\n\nIn closing - this is a terrible idea unless someone can correct me on the fee\nissue i described above. That seems like a pointless cash grab in the short term\nfrom a bunch of WSB moon boys which is a major change for this L2 system/network\nthat hasn’t been considered.\n\nEdit: i replied to someone making the same fee point i was - Sorry for\nduplication of info.",
+      "created_at": "2022-06-01T23:23:15.744Z",
+      "trust_level": 0,
+      "username": "megaguirus",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 14
+    },
+    {
+      "content": "strongly support this, let’s burn OP, not eth as gas",
+      "created_at": "2022-06-01T14:10:48.816Z",
+      "trust_level": 1,
+      "username": "Ruby",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 10
+    }
+  ],
+  "created_at": "2022-06-01T13:55:45.127Z"
+}

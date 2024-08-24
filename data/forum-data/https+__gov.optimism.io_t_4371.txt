@@ -1,0 +1,9 @@
+{
+  "title": "Grant Applicant Update",
+  "content": "The Token House is currently in Special Voting Cycles.\n\nGovernance Fund grant applications will be processed again starting on January\n26th for Season 3!\n\nA Grants Council has been approved for Season 3 and Council members will be\nelected in early January. Stay tuned for an operating framework from the Council\nthat will outline exactly how to submit grant proposals once Season 3 starts.\n\nPlease note: participation in this governance forum will never be used as a\ncriterion for a future airdrop.",
+  "views": 1619,
+  "like_count": 4,
+  "word_count": 82,
+  "answer": [],
+  "created_at": "2022-12-21T18:49:12.552Z"
+}

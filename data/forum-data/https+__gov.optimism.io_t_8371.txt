@@ -1,0 +1,60 @@
+{
+  "title": "Bleu Assistant AI",
+  "content": "The bleu [https://bleu.builders/] team is thrilled to be selected to execute the\nmission of building an AI-powered assistant designed to generate guidance and\ndigested information about the Optimism Collective, more details here\n[https://app.charmverse.io/op-grants/bleu-assistant-ai-6926133139021808].\n\nAs outlined in our proposal, we’re creating this forum post to keep you updated\non our progress and seek your valuable input every two weeks by posting a\ncomment on this thread. Your feedback is crucial for us!\n\nbleu is committed to transparency and open-source development. If you’d like to\ntrack our progress, feel free to check out our work on this GitHub Repository\n[https://github.com/bleu/op-ai-tools].",
+  "views": 359,
+  "like_count": 18,
+  "word_count": 1650,
+  "answer": [
+    {
+      "content": "BLEU UPDATE #2\n\n\nMILESTONES\n\n * :bar_chart: [https://emoji.discourse-cdn.com/twitter/bar_chart.png?v=12] Data\n   Understanding (done)\n * :robot: [https://emoji.discourse-cdn.com/twitter/robot.png?v=12] Model\n   Development (in progress)\n * :memo: [https://emoji.discourse-cdn.com/twitter/memo.png?v=12] Reporting Tool\n   (in progress)\n * :rocket: [https://emoji.discourse-cdn.com/twitter/rocket.png?v=12] Assistant\n   AI Launch (upcoming)\n * :hammer_and_wrench:\n   [https://emoji.discourse-cdn.com/twitter/hammer_and_wrench.png?v=12]\n   Post-Launch Support (to-do)\n\n\nLATEST ACTIVITIES\n\n\nCHAT BOT MODEL DEVELOPMENT\n\nWe’ve been experimenting with various data pipelines and models for our chatbot.\nEach approach has been evaluated using our previously mentioned dataset. You can\nfind a detailed breakdown of our experiments and results here: Project Overview\n- First Milestone\n[https://github.com/bleu/op-ai-tools/blob/main/docs/Project%20Overview%20-%20First%20Milestone.md].\n\n\nUI DESIGNS\n\nWe’ve created a design for the chatbot’s user interface, aiming for an intuitive\nuser experience. You can view the design here: Chatbot UI Design\n[https://www.figma.com/design/TuQQU1u6ZnwjnlCDYbSCBS/OP-GovGPT-UI?node-id=0-1&t=ZvDMHc012bnHlP31-1].\n\nFor the reporting tool, we’re leaning towards using an existing product analyzer\nlike Posthog. The post summaries UI is still in development and will be shared\nin our next update.\n\n\nPROJECT ARCHITECTURE\n\nTo illustrate the overall structure of the project, we’ve created a\ncomprehensive diagram\n[https://www.figma.com/board/7WMyh1SecgHvq33VXD4WEd/op-ai-tools-tech-architecture?node-id=0-1&t=ufG0Uow5qhgRpxS7-0].\nThis outlines how our AI tools integrate into the final products: the Reporting\nTool, Forum Summaries, and Chatbot.\n\n\nBASELINE CHATBOT LAUNCH\n\nWe’re excited to share that our baseline model is now available for community\ninteraction. While it’s still a work in progress, you can access and test it\nhere: Baseline Model Interface [https://op-chat.bleu.builders/].\n\n\nFORM SUMMARY EXPLORATION\n\nWe’re in the early stages of developing models to summarize forum posts. Our\ncurrent focus includes:\n\n * Categorizing forum post types\n * Developing pipelines for each post type\n * Integrating Snapshot data where relevant\n * Testing forum summaries as input for our main RAG model\n\n\nREPORTING TOOL\n\nWe have defined the key metrics to track across properties to be shown in the\nreporting tool. These metrics aim to help Optimism to analyze user behavior and\ngather valuable governance insights. Our preliminary list of metrics includes:\n\n * User Behavior\n   \n   * Total Page Visits.\n   * Unique Page Visits.\n   * Average Session Duration.\n   * Tool Satisfaction (survey, randomly sampled across users).\n\n * Content Quality\n   \n   * Content/Response Quality (thumbs down %).\n\n * Governance Insights:\n   \n   * Most Searched Topics.\n   * Unanswered Questions.\n\n\nHOW YOU CAN HELP\n\n * UI Design Feedback: We welcome your thoughts on our current designs.\n * Chatbot Testing: Your input here is crucial. Please test our chatbot here\n   [https://op-chat.bleu.builders/] and use the :-1:\n   [https://emoji.discourse-cdn.com/twitter/-1.png?v=12] feedback button to\n   report any issues!\n * Reporting Tool Input: We’re open to suggestions on additional metrics or\n   insights that would be valuable to track.",
+      "created_at": "2024-07-11T16:12:55.436Z",
+      "trust_level": 1,
+      "username": "bleu_builders",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "For the ones who will test the chatbot here is a feedback form as well: bleu's\nOP Govgpt Feedback Survey | Formbricks\n[https://app.formbricks.com/s/clygb59h5019r7ayxfrkmo7of]",
+      "created_at": "2024-07-15T18:32:34.838Z",
+      "trust_level": 1,
+      "username": "bleu_builders",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "BLEU UPDATE #4\n\nHey folks! Coming up with another update here.\n\n\nMILESTONES\n\n * :bar_chart: [https://emoji.discourse-cdn.com/twitter/bar_chart.png?v=12] Data\n   Understanding (done)\n * :robot: [https://emoji.discourse-cdn.com/twitter/robot.png?v=12] Model\n   Development (in progress)\n * :memo: [https://emoji.discourse-cdn.com/twitter/memo.png?v=12] Reporting Tool\n   (closing)\n * :rocket: [https://emoji.discourse-cdn.com/twitter/rocket.png?v=12] Assistant\n   AI Launch (upcoming)\n * :hammer_and_wrench:\n   [https://emoji.discourse-cdn.com/twitter/hammer_and_wrench.png?v=12]\n   Post-Launch Support (to-do)\n\n\nLATEST ACTIVITIES\n\nEnhancing the chatbot model is proving more challenging than initially\nanticipated in the grant proposal. While we’ve exceeded the project budget\nalready, delivering good results remains our priority. We are committed to\ncontinuing work on this project and addressing community feedback until we feel\nsatisfied with what we’ve delivered.\n\n\nFORUM SUMMARY APPLICATION DEVELOPMENT\n\nWe’ve embedded the post summarizer within our app. It’s currently running on a\nforum snapshot, as real-time database updates are still in progress. View it\nhere [https://op-chat.bleu.builders/forum/latest-topics?category=all]\n\n\nREPORTING TOOL\n\nWe’ve also created product dashboards to track usage and identify improvement\nareas:\n\n * Chatbot reporting tool: PostHog\n   [https://us.posthog.com/shared/3ZGI_7G3YCe2m0AL93x7ajwFgmjKVw]\n * Forum summary reporting tool:\n   https://us.posthog.com/shared/9gGMFebSaszmg72Izyk2QCFRDEpY1g\n   [https://us.posthog.com/shared/9gGMFebSaszmg72Izyk2QCFRDEpY1g]\n\n\nCHATBOT MODEL ENHANCEMENT\n\nWe acknowledge our initial chat model fell short of expectations. However, this\nearly release provided invaluable feedback for us to keep improving. Thank you\nfor your continued support!\n\nSince our last update, we’ve substantially refactored the chatbot model\narchitecture. Here’s what we’ll be shipping in the next days:\n\n * Added conversation memory\n * Indexed common questions\n * Enhanced time understanding\n * Refined prompt strategies for different types of questions\n   (factual/abstract/time-bound)\n\nThus here’s what you should expect (to be live soon!) from this iteration:\n\n * More accurate and contextual responses to time-related queries\n * Improved handling of frequently asked questions\n * More reliable and precise answers to factual questions\n\n\nHOW YOU CAN HELP\n\n * Chatbot Testing\n   * Continue testing at https://op-chat.bleu.builders/\n     [https://op-chat.bleu.builders/]\n   * Use the :-1: [https://emoji.discourse-cdn.com/twitter/-1.png?v=12] to\n     report malformed/wrong answers\n * Forum Summaries Feedback:\n   * Test and provide UI/summary feedback\n   * Use :+1: [https://emoji.discourse-cdn.com/twitter/+1.png?v=12] and :-1:\n     [https://emoji.discourse-cdn.com/twitter/-1.png?v=12] to react to summaries\n     :slight_smile:\n     [https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]\n   * Share feedback in this post or via Telegram @yvesfracari\n * Reporting Tool Feedback:\n   * General feedback welcome!",
+      "created_at": "2024-08-08T23:51:52.993Z",
+      "trust_level": 1,
+      "username": "bleu_builders",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Hi Bleu team! I’ve been answering some of the questions and leave the link here\nand keep doing it on my free time 81 from 231 question so far.\n\nLink\n[https://docs.google.com/spreadsheets/d/10yNDO06rKlJRV-lquuxLVScLrZmxbXpKUaDQIfuGgnw/edit?usp=sharing]",
+      "created_at": "2024-07-10T12:01:16.034Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 2
+    },
+    {
+      "content": "BLEU UPDATE #1\n\n\nMILESTONES TRACKER\n\n * :bar_chart: [https://emoji.discourse-cdn.com/twitter/bar_chart.png?v=12] Data\n   Understanding (in progress)\n * :robot: [https://emoji.discourse-cdn.com/twitter/robot.png?v=12] Model\n   Development (in progress)\n * :memo: [https://emoji.discourse-cdn.com/twitter/memo.png?v=12] Reporting Tool\n   (to-do)\n * :rocket: [https://emoji.discourse-cdn.com/twitter/rocket.png?v=12] Assistant\n   AI Launch (to-do)\n * :hammer_and_wrench:\n   [https://emoji.discourse-cdn.com/twitter/hammer_and_wrench.png?v=12]\n   Post-Launch Support (to-do)\n\n\nLATEST ACTIVITIES\n\n\nREFERENCE DOCUMENTS\n\nWe compiled a list of references, including documents crucial for training our\nmodel, primarily focusing on governance-related materials. The list of\nreferences is:\n\n * Governance Docs [https://github.com/ethereum-optimism/community-hub]\n * Governance Forum [https://gov.optimism.io/]\n * Snapshot Proposals [https://snapshot.org/#/opcollective.eth]\n * RetroPGF Blog [https://app.optimism.io/retropgf]\n * Ecosystem Contributions\n   [https://github.com/ethereum-optimism/ecosystem-contributions]\n * Optimism Agora [https://vote.optimism.io/]\n * Developer Docs [https://github.com/ethereum-optimism/docs]\n\n\nDATA COLLECTION\n\nWe developed Python scripts\n[https://github.com/bleu/op-ai-tools/tree/main/scripts] to collect data from\ngovernance documents and the forum. For the first model, we are focusing on\nthese two sources, but we plan to collect data from additional sources in future\niterations.\n\n\nQ&A DATABASE\n\nUsing language models, we generated a collection of questions and answers based\non the data collected previously. This Q&A database\n[https://docs.google.com/spreadsheets/d/1irIGXf3Kbvxh7qos5pZ-djo_J6frV8kV0DNDCqbZMXQ/edit?pli=1&gid=1638174687#gid=1638174687]\nwill be used for evaluating our model’s performance.\n\n\nINITIAL MODEL\n\nWe are developing our first AI chatbot model using the OpenAI API. This model\nwill generate answers and utilize Retrieval-Augmented Generation (RAG) methods\nto effectively consult the reference documentation.\n\n\nHOW YOU CAN HELP\n\n\nREVIEW THE DOCUMENT REFERENCE LIST\n\nCheck if all the documents listed above are relevant and suggest any missing\nones. As mentioned before, we’re mainly looking for documents related to the\nOptimism Governance.\n\n\nVALIDATE THE Q&A DATABASE\n\nEnsure each question is relevant and the answers are accurate. You can access\nthe Q&A database here\n[https://docs.google.com/spreadsheets/d/1irIGXf3Kbvxh7qos5pZ-djo_J6frV8kV0DNDCqbZMXQ/edit?pli=1&gid=1638174687#gid=1638174687].\nIf you want to help us, please make a copy of the document, fill it out with\nyour feedback, and share it here in the forum. If an answer is incorrect, please\nprovide the correct one. Any additional feedback on the questions and answers,\nsuch as missing topics, is welcome.",
+      "created_at": "2024-06-24T13:24:58.664Z",
+      "trust_level": 1,
+      "username": "bleu_builders",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2024-06-24T12:52:19.026Z"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Security Council Nomination: Waylon Jepsen",
+  "content": "Please indicate if you are running to be the Council Lead or a Council Member:\nCouncil Member\n\nDoes this nomination represent an individual or organization:\nIndividual.\n\nCandidate country of residence (or, if an entity, incorporation and principle\nplace of business):\nUnited States of America.\n\nHave you previously served on Optimism’s Security Council:\nNo.\n\nHave you previously served on any other Council or Board in the Collective:\nYes. I have served on the Developer Advisory Board.\n\nAre you a representative of OP Labs:\nNo.\n\nAre you a representative of another OP Chain:\nNo.\n\nIf you are a delegate, please provide the link to your delegate profile:\nNo.\n\nIf you are a member of the Citizens’ House, please link to your most recent\nattestation here:\n\nPlease outline your contributions, and their impact, to the Optimism ecosystem\nto date:\n\nAs a member of the Developer Advisory Board I evaluated the technical merit of\nproposals in the OP ecosystem.\n\nPlease demonstrate any non-Optimism experience you believe is relevant to this\nrole:\n\nAs a systems engineer I have made contributions to a wide array of software\nincluding EVM execution clients, data availability clients, automated market\nmakers, security tooling, and security audits of cryptographic hash functions\nand additional primitives.\n\nPlease elaborate on your technical background, including your expertise score\n(more info on this shortly):\n\nExpanding the information above. I initially studied pure mathematics and\nphilosophy where my studies were oriented around epistemology and cryptography.\nI then pursued graduate degrees in computer science where I broke VPNs by\nmodeling TCP congesting with a tropical algebraic model. After this I spent a\nfew years building automated market makers designed to replicate specific\npayoffs to liquidity providers and EVM security tools to evaluate their security\nand performance. Now I spend my time working on applied cryptography for\nsecurity and privacy solutions. Anyone is welcome see proof of my technical work\nand open source contributions over the years on my Github\n[https://github.com/0xJepsen]\n\nPlease elaborate on your experience with relevant member (or Lead) requirements:\n\nPlease describe your philosophy on what makes a good Security Council member:\n\nI believe a good security council member possesses a deep technical skill set,\nstrong communication skills, and a high degree of agency. These qualities should\nbe used together to quickly asses security attack surfaces, responsibly handle\nkey management and communicate precisely and timely with other council members\nabout all relevant information to coordinate to serve the OP ecosystem.\n\nPlease disclose any anticipated conflicts of interest:\n\nPlease verify that you understand you may be removed from this role via the\nRepresentative Removal proposal type in the Operating Manual\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md]:\nI understand.\n\nPlease verify that you understand that election is subject to successful\ncompletion of a Foundation screen which may include KYC/AML, sanctions\nscreening, and a requirement to sign a standard contract: [No/Yes]\nYes.\n\nPlease verify that you are able to commit ~5 active hours / month to fulfill the\nMember Responsibilities. Please note that there is an “on-call” aspect to this\nrole that is not fully encompassed in the active hours estimate: [No/Yes]\nYes.",
+  "views": 131,
+  "like_count": 15,
+  "word_count": 947,
+  "answer": [
+    {
+      "content": "I am an Optimism delegate [https://vote.optimism.io/delegates/gonna.eth] with\nsufficient voting power and I believe this proposal is ready to move to a vote.",
+      "created_at": "2024-08-04T07:56:26.014Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "I am an Optimism delegate [https://vote.optimism.io/delegates/brichis.eth] with\nsufficient voting power and I believe this proposal is ready to move to a vote.",
+      "created_at": "2024-08-09T17:19:38.103Z",
+      "trust_level": 4,
+      "username": "brichis",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "I am an Optimism delegate\n[https://gov.optimism.io/t/delegate-commitments/235/18] with sufficient voting\npower and I believe this proposal is ready to move to a vote.",
+      "created_at": "2024-08-06T18:27:34.779Z",
+      "trust_level": 3,
+      "username": "katie",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "I’m an Optimism delegate\n[https://gov.optimism.io/t/pgov-delegate-communication-thread/6059]with\nsufficient voting power and I believe this proposal is ready to move to a vote.",
+      "created_at": "2024-08-07T01:36:26.555Z",
+      "trust_level": 3,
+      "username": "PGov",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "I am an Optimism delegate [https://vote.optimism.io/delegates/opmichael.eth]\nwith sufficient voting power and I believe this proposal is ready to move to a\nvote",
+      "created_at": "2024-08-08T02:48:47.015Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2024-07-30T19:00:12.566Z"
+}

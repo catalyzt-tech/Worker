@@ -1,0 +1,60 @@
+{
+  "title": "Coinbase + OP = BASE",
+  "content": "https://www.coinbase.com/blog/introducing-base\n[https://www.coinbase.com/blog/introducing-base]\n\nCoinbase is collaborating with Optimism to create something called Base? This is\none of the most bullish things I’ve read lately! Can we get some more details\nabout this partnership?",
+  "views": 2690,
+  "like_count": 75,
+  "word_count": 913,
+  "answer": [
+    {
+      "content": "I’m not tech expert, but I have heard mentioned that the Bedrock upgrade will\nallows other organisations to build their own L2s using the Optimism tech stack.\n\nWhy this is profitable to Optimism and the wider ecosystem is that Optimism will\nearns fees from these ‘add on’ L2s by them using the Optimism Sequencer. This is\nwhat @MinimalGravitas [/u/minimalgravitas] was mentioning, I think. The fees\nearned by the Sequencer (Coinbase using it) will in turn fund future OP Grants\nand Public Goods infrastructure.\n\nSo, if I’ve heard the news correctly, Coinbase will be building one of these\n‘add on’ L2s. A Coinbase L2, Base, that’s built with Optimism tech stack.\n\nAs I’m not a tech expert, don’t quote me, ha! I’ve only read the news on the\nCryptoCompare Newsletter, and just got my Bedrock/OP Tech Stack/Sequencer info\nfrom a single YouTube video produced by @Michael [/u/michael]\n\nBut overall, it does sound exciting, and I look forward to hearing more.\n\nEDIT: After just reading it myself, have a look at the Mirror article linked by\nMinimalGravitas. And please replace my mentions of “OP tech stack” with ‘OP\nStack’, which appears to be the official jargon.",
+      "created_at": "2023-02-24T16:37:40.645Z",
+      "trust_level": 2,
+      "username": "Axel_T",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "Sounds like it will be a contributor to the public goods fund.\n\n> Add value to the Superchain: We will provide a percentage of the fees earned\n> through transactions to the Optimism Collective to be a part of the\n> Superchain, contributing back to funding the core public goods infrastructure\n> of both the Superchain and the broader cryptoeconomy.\n\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/d/dbc4f5e1ea7ebe058ac72609eb69f2425ea7948b.png]\nbase.mirror.xyz\n[https://base.mirror.xyz/H_KPwV31M7OJT-THUnU7wYjOF16Sy7aWvaEr5cgHi8I]\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/7/7884ec3ecdb99645f79bdbb3e11d3dc86d475aa8_2_690x345.png]\n\n\nDECENTRALIZING BASE WITH THE OP STACK AND OPTIMISM\n[https://base.mirror.xyz/H_KPwV31M7OJT-THUnU7wYjOF16Sy7aWvaEr5cgHi8I]\n\nTl;DR We believe that decentralization is critical to an open cryptoeconomy.\nThat’s why we will be deploying Base as the second L2 on the open-source OP\nStack, following Optimism Mainnet, and joining as the second core developer of\nthe OP Stack to...\n\n\n",
+      "created_at": "2023-02-23T21:28:25.857Z",
+      "trust_level": 2,
+      "username": "MinimalGravitas",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "> lets see how this benefits the optimism ecosystem\n\nIf you’ve got an hour over the weekend then I think today’s Bankless interview\nwith the Optimism founders is worth a listen:\nhttps://www.youtube.com/watch?v=qk4JfDur9TY\n[https://www.youtube.com/watch?v=qk4JfDur9TY]",
+      "created_at": "2023-02-24T20:16:43.420Z",
+      "trust_level": 2,
+      "username": "MinimalGravitas",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "It won’t be confusing for newbies… Coinbase will hand hold them. They may have\nbuilt their own L2, but they’ve built it upon the standardized OP Stack\nframework. In the not too distant future Optimism, Base, and every other OP\nchain will feel like one unified chain to the end user.",
+      "created_at": "2023-02-27T16:20:00.610Z",
+      "trust_level": 0,
+      "username": "Majin",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Here are resources on the OP Stack you may enjoy.\n\nBase / Superchain Blog is live: Optimism Goes m̶u̶l̶t̶i̶ Superchain — The\nOptimism Collective\n[https://optimism.mirror.xyz/2jk3D1Y8-hid8YOCUUa6yXmsyzNCYYyFJP0Nhaey9x0]\nDecentralization blog is live: Optimism’s Path to Technical Decentralization\n[http://dev.optimism.io/decentralization-roadmap/]\nTechnical Explainer is live: Superchain Explainer | OP Stack Docs\n[https://stack.optimism.io/docs/understand/explainer/]\nOP Stack docs are live: http://stack.optimism.io/ [http://stack.optimism.io/]",
+      "created_at": "2023-02-24T23:19:12.699Z",
+      "trust_level": 2,
+      "username": "FractalVisions",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    }
+  ],
+  "created_at": "2023-02-23T17:41:59.040Z"
+}

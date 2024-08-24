@@ -1,0 +1,9 @@
+{
+  "title": "About the Intents category",
+  "content": "The entire community aligns around Collective Intents\n[https://gov.optimism.io/t/collective-intents/5874/2]. Intents are directional\ngoals. You can think of an Intent as a near term target.\n\nSeason 4:\n\n * Intent 1: Progress Towards Technical Decentralization\n * Intent 2: Innovate on Novel Applications\n * Intent 3: [Request for Community Input]\n * Intent 4: Governance Accessibility\n\nAll work supported or executed by the Collective should be in pursuit of our\nCollective Intents.",
+  "views": 598,
+  "like_count": 0,
+  "word_count": 71,
+  "answer": [],
+  "created_at": "2023-04-13T19:40:44.575Z"
+}

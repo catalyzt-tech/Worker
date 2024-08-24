@@ -1,0 +1,60 @@
+{
+  "title": "Season 6 Elections: Grants Council",
+  "content": "SEASON 6 ELECTION: GRANTS COUNCIL\n\n--------------------------------------------------------------------------------\n\nGrants Council Reviewers will be elected by the Token House in Special Voting\nCycle #23b, which runs from June 13th - June 19th at 19:00 GMT.\n\n--------------------------------------------------------------------------------\n\nThose that would like to nominate themselves for these roles must fill out the\nbelow template and post here\n[https://gov.optimism.io/t/season-6-nominations-grants-council/8116] by June 5th\nat 19:00 GMT.\n\nAnyone is able to self-nominate at any point, but there is no guarantee to be an\nelection until a budget renewal proposal passes a Token House vote on May 29th.\n\nThe Foundation will facilitate a town hall with all eligible candidates the\nfollowing week, before elections take place.\n\nRepresentatives should only serve in one elected position per Season. There are\nno term limits for representatives, but they may be implemented in the future if\nthe need arises.\n\nThere is no minimum voting power requirement to be a Member but the Foundation\nhas recommended the following considerations:\n\n * There is strategic value in there being a Reviewer that has expertise in DeFi\n   and that is able to advise the Grants Council on the emerging trends within\n   DeFi\n * There is strategic value in there being a Reviewer that has expertise and\n   connections in Gaming\n\nHere you’ll find the governance-approved Season 6 Grants Council Operating\nBudget\n[https://gov.optimism.io/t/season-6-grants-council-operating-budget-proposal/].\n\n--------------------------------------------------------------------------------\n\n\nGRANTS COUNCIL SELF-NOMINATION TEMPLATE\n\nPlease keep your answers as concise as possible while conveying all relevant\ninformation.\n\nCouncil sub-committee: (if applicable)\n\nIn Season 6, per the approved Grants Council operating budget\n[https://gov.optimism.io/t/season-6-grants-council-operating-budget-proposal/],\nthere will be 18 spots in the council - 12 reviewers, 3 Milestones and Metrics\nsubcommittee members, 2 Audits reviewers and the Grants Council Lead. The Lead\nwas already elected via the operating budget passing, so there are 17 spots\nremaining to be elected.\n\nIf you are a delegate, please provide the link to your delegate profile:\n\nIf you are a delegate, please indicate what % of votable supply is delegated to\nyou: (voting power can be referenced here\n[https://dune.com/optimismfnd/optimism-op-token-house])\n\nIf you are a delegate, please indicate your voting participation rate in OP\ngovernance to date: (You may link to your profile on Karma 7\n[https://optimism.showkarma.xyz/], if applicable.)\n\nPlease link to your voting history and any voting rationale you’ve shared: (You\nmay link to your Snapshot and/or Agora profile for voting history. You may link\nto your delegate communication thread, or any other medium you use to\ncommunicate with your delegators, to share your voting rationale.)\n\nDo you have a technical background?: If so, please elaborate\n\nPlease demonstrate any non-Optimism experience you believe is relevant to this\nrole and/or your sub-committee:\n\nHave you previously served in a representative (appointed or elected) role in\nthe Collective? If so, please specify which:\n\nPlease outline your contributions, and their impact, to the Optimism ecosystem\nto date:\n\nPlease describe your philosophy on what makes a good Mission Application:\n\nWhat types of Mission Requests do you think will help achieve the Season 6\nIntents?:\n\nPlease disclose any anticipated conflicts of interest: If you are a top 25\ndelegate in another ecosystem, hold an elected position in another DAO, and/or\nare a multisig signer in another community please disclose here.\n\nPlease verify that you understand you may be removed from this role via the\nRepresentative Removal proposal type in the Operating Manual\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md]:\n\nPlease verify that you understand KYC will be required to receive Council\nrewards at the end of Season 6:\n\nPlease verify that you are able to commit ~20 hours / week to reviewing grant\napplications and other Council operations:\n\n--------------------------------------------------------------------------------\n\n\nWHAT DOES THIS MEAN FOR DELEGATES?\n\nReviewers will be elected via approval voting in Special Voting Cycle #23b.\nApproval voting is a mechanism that allows each delegate to vote for as many\nnominees as they choose with equal voting power. The nominees with the highest\npercentage of approval votes will be elected to the Council. Please note this\npolicy in Optimist Expectations:\n\n> In the case of approval/ranked choice elections, delegates may vote for\n> themselves, so long as they also cast votes for the remaining elected\n> positions.\n> \n> Example: I can vote for my own candidacy on the Growth Experiments committee,\n> so long as I also cast 4 additional votes (a total of 5 votes, as there are 5\n> open positions on the sub-committee.)\n\nPlease note the above outlined voting mechanism is subject to change depending\non Council structure and number of eligible candidates.",
+  "views": 9793,
+  "like_count": 12,
+  "word_count": 4997,
+  "answer": [
+    {
+      "content": "Hey @Derbygold.eth [/u/derbygold.eth] exciting that you’re self-nominating.\nCould you please move your self-nomination to the Grants Council Self-Nomination\nthread [https://gov.optimism.io/t/season-6-nominations-grants-council/8116]?\nThank you!",
+      "created_at": "2024-05-16T16:40:26.915Z",
+      "trust_level": 4,
+      "username": "maxwell",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 3
+    },
+    {
+      "content": "Hey Alex, the Grants Council budget\n[https://gov.optimism.io/t/season-6-grants-council-operating-budget-proposal/8171]\nis still being voted on, there are a few subcommittees to apply and you need to\nspecify which one do you want to participate in. Please post your nomination\nhere [https://gov.optimism.io/t/season-6-nominations-grants-council/8116]",
+      "created_at": "2024-05-27T14:36:46.191Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "@Antoine [/u/antoine] and @suckmydiscoteque.eth [/u/suckmydiscoteque.eth] -\nexciting that you’re self-nominating! Could you please move your self-nomination\nto the Grants Council Self-Nomination thread\n[https://gov.optimism.io/t/season-6-nominations-grants-council/] by the deadline\n~3 hours from now (June 5th, 19:00 GMT)? Thank you!",
+      "created_at": "2024-06-05T16:04:38.946Z",
+      "trust_level": 4,
+      "username": "maxwell",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "Hey no worries! If you’re able to send a video of your answer to the question\nfrom the Grants Council S6 Election Town Hall\n[https://gov.optimism.io/t/grants-council-s6-election-town-hall/8268] post to\nthe email where you received the calendar invite, that would be amazing :pray:\n[https://emoji.discourse-cdn.com/twitter/pray.png?v=12]\n\nLet me know if you have other questions. Thank you!",
+      "created_at": "2024-06-11T13:29:42.086Z",
+      "trust_level": 4,
+      "username": "maxwell",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "GRANTS COUNCIL SELF-NOMINATION\n\nAlex Soto / @alexsotodigital [/u/alexsotodigital]\n\nCouncil sub-committee: N/A\nIf you are a delegate, please provide the link to your delegate profile: N/A\nIf you are a delegate, please indicate what % of votable supply is delegated to\nyou: N/A\nIf you are a delegate, please indicate your voting participation rate in OP\ngovernance to date: N/A\n\nPlease link to your voting history and any voting rationale you’ve shared: I\nhave no history of voting on OP, but my rationale would be to pay attention to\nthe opposing opinions and dig deeper to understand which of the criticisms can\nbe integrated into the proposal to make it even better. I also think it is\nimportant to analyze which initiatives need a grant and which would benefit but\ncan still happen without it.\n\nDo you have a technical background?: I do not have a technical background but\nrather a more human approach (social sciences, communication, governance, etc.).\n\nPlease demonstrate any non-Optimism experience you believe is relevant to this\nrole and/or your sub-committee:\n\n * I worked at Socialab, a social innovation incubator where I analyzed the\n   impact potential of early stage projects.\n * I worked as a facilitator in organizational development, with a focus on\n   dynamic governance in DAOs.\n * I worked as a consultant in impact measurement and social entrepreneurship.\n * I co-founded a consulting unit at RnDAO where we offer support to DAOs in\n   processing tensions, solving growth problems and building a culture of\n   well-being.\n * My experience leads me to look for common points, and win-win-win scenarios,\n   that contribute to systemic changes and address the needs of stakeholders.\n\nHave you previously served in a representative (appointed or elected) role in\nthe Collective? No, I haven’t.\n\nPlease outline your contributions, and their impact, to the Optimism ecosystem\nto date:\n\n * My contributions to the ecosystem have been indirect, but come from:\n * Generating content in Spanish about governance.\n * Designing induction processes for DAOs.\n * Co-creating collaboration tools.\n * Promoting care work in the community.\n\nPlease describe your philosophy on what makes a good Mission Application:\nI believe that a good mission application requires to:\n\n * Understand the context of those who apply for the grant\n * List the underlying needs that are required for the initiative to be\n   successful.\n * Define metrics that can be used to keep the project on track.\n * Promote team accountability during and at the end of the process.\n\nWhat types of Mission Requests do you think will help achieve the Season 6\nIntents?:\nI think that the mission requests will be those that:\n\n * Understand decentralization as both a social and technological process.\n * That they seek to strengthen relationships with a long-term perspective\n   rather than achieving superficial and short-term numbers.\n * That promote the induction of users, developers and allies from a perspective\n   of diversity and inclusion.\n * That they exemplify the vision of the collective, inspiring people outside\n   the ecosystem.\n\nPlease disclose any anticipated conflicts of interest: I don’t think there is\n\nPlease verify that you understand you may be removed from this role via the\nRepresentative Removal proposal type in the Operating Manual\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md]:\nYes, I understand.\n\nPlease verify that you understand KYC will be required to receive Council\nrewards at the end of Season 6: Yes, I understand.\n\nPlease verify that you are able to commit ~20 hours / week to reviewing grant\napplications and other Council operations: Yes, I am able.",
+      "created_at": "2024-05-20T21:39:09.123Z",
+      "trust_level": 2,
+      "username": "alexsotodigital",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2024-05-10T12:53:27.743Z"
+}

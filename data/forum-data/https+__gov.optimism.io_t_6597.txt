@@ -1,0 +1,50 @@
+{
+  "title": "What happened with staked OP tokens?",
+  "content": "Hi,\ndidn’t know where to put this:\n\nI’ve staked OP tokens with lindajxie.eth but now they are missing from my\nwallet.\nIs it possible that the scammer undelegated them and then stole them? I can see\nthe transfer in TX.\nAren’t tokens protected on a Ledger or something?\n\nThanks,\nregards!",
+  "views": 685,
+  "like_count": 2,
+  "word_count": 217,
+  "answer": [
+    {
+      "content": "Hi @Caffe [/u/caffe]!\n\nAccording to the Optimism Docs\n[https://community.optimism.io/docs/governance/howto-delegate/#], you maintain\nthe ownerships of your OP when you delegate to someone.\n\n> “This delegate will vote on your behalf. You will not hold any voting power or\n> execute your own votes but you will retain 100% ownership of your tokens, and\n> can use them however you want.”\n\nI recommend you to check revoke.cash and see your approvals. Sorry about this!",
+      "created_at": "2023-08-08T19:25:46.466Z",
+      "trust_level": 4,
+      "username": "brichis",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "Hello @Realrobwood [/u/realrobwood]\nI’m sorry to hear that.\n\nIf you submitted a fraudulent signature, your tokens have been stolen by the\nscam and cannot be recovered.\n\nAs this is a governance forum, if you have any questions, I recommend going to\nthe Discord channel through the link in the footer of the official page\n[https://www.optimism.io/].",
+      "created_at": "2024-08-16T17:17:11.627Z",
+      "trust_level": 1,
+      "username": "hashigo",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "That same person took all mine as well and put them in a safepal wallet address.",
+      "created_at": "2024-08-16T17:08:01.793Z",
+      "trust_level": 1,
+      "username": "Realrobwood",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "She stole all of mine as well lindaje or whatever her name is.",
+      "created_at": "2024-08-16T17:08:50.359Z",
+      "trust_level": 1,
+      "username": "Realrobwood",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2023-08-08T17:45:39.429Z"
+}

@@ -1,0 +1,50 @@
+{
+  "title": "5th Citizens’ House community call [October 31st, 4 PM UTC]",
+  "content": "Hello Collective!\n\nWe will have our 5th Citizens’ House community call on Tuesday, October 31st, at\n4 PM UTC.\n\nThe Zoom link is here\n[https://us06web.zoom.us/j/82918330505?pwd=wi6fyboxRQSnhijINWnWC7opQpaHn8.1]\n\nAdded to the governance calendar\n[https://calendar.google.com/calendar/u/0/r?cid=Y19mbm10Z3VoNm5vbzZxZ2JuaTJncGVyaWQ0a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t].\n\nAs always, everybody is welcome. Please add any agenda topics to this thread if\nyou’d like.\n\nSee you there!\nGonna\n\n--------------------------------------------------------------------------------\n\nThis is the link\n[https://drive.google.com/file/d/12XtdABVvUMypjsilfdhVskZcgVa7-aRP/view?usp=drive_link]\nto the recorded call",
+  "views": 630,
+  "like_count": 21,
+  "word_count": 441,
+  "answer": [
+    {
+      "content": "5th Citizens’ House Community Call Summary\n\nSlides\n[https://docs.google.com/presentation/d/1mXAQz2kstQ9CHBnu8mEKT_r5IW5GguovSyQifFWv64Q/edit#slide=id.g2542d46421b_0_0]\n\nApplication Review Process:\n\n * Over 850 RetroPGF3 applications were reviewed in the first round; 147 are\n   pending in the second.\n * An appeals process\n   [https://gov.optimism.io/t/retropgf-3-application-review-appeals/7051] is in\n   place for projects that were removed.\n\nBadgeholder Manual:\n\n * Feedback is sought on the Badgeholder Manual\n   [https://plaid-cement-e44.notion.site/RetroPGF-3-Badgeholder-Manual-d580fdd0c91c4647853f92a62cd967a5]\n   to guide the voting cycle.\n * Recognition of the quorum issue for project voting thresholds and whether\n   badgeholders should vote 0 or not vote at all for projects they believe have\n   an impact gap of 0. Each application needs a minimum quorum of votes from 17\n   badgeholders to receive funding.\n * Concerns and confusion about the voting weights and token distribution\n   process. The Badgeholder Manual is referenced for clarity, with promises to\n   add illustrative examples.\n\nImpact=Profit Framework\n\n * An Impact=Profit Framework\n   [https://gov.optimism.io/t/retropgf-impact-profit-framework/7034] has been\n   developed to assess impact across various categories. It’s designed to aid\n   badgeholders in evaluating projects by providing high-signal impact\n   indicators.\n * Discussion about balancing projects that extract more profit than have\n   generated impact. A proposal is suggested to implement a threshold. Concerns\n   about setting profitability thresholds are raised that might disincentivize\n   exceeding allocated amounts.\n\nImpact Evaluation Framework:\n\n * Impact Evaluation Framework\n   [https://gov.optimism.io/t/retropgf-3-impact-evaluation-framework/7037] to be\n   used for projects, stressing meaningful metrics.\n * Importance of evaluating projects on performance, security, resilience, and\n   metrics, especially in impact to the Optimism Collective.\n\nWorkshops:\n\n * Jonas and Griff will be at Devconnect. Onchain Summit Workshop\n   [https://lu.ma/onchainsummit.istanbul]\n * Meeting preparations for gathering RetroPGF folks in Istanbul, seeking\n   volunteers for hosting.\n * Upcoming impact evaluation workshops for badgeholders, with content to be\n   available on YouTube.",
+      "created_at": "2023-11-02T19:16:14.707Z",
+      "trust_level": 2,
+      "username": "ethdaily",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "Two items for the agenda I’d like to pitch in :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]\n\n 1. 5 min intro to the Impact Evaluation Framework\n 2. Shout-out to the categorization initiative for List creation\n\nThanks @Gonna.eth [/u/gonna.eth] !",
+      "created_at": "2023-10-31T15:14:50.736Z",
+      "trust_level": 3,
+      "username": "LauNaMu",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Thanks for the summary Ethdaily!",
+      "created_at": "2023-11-03T11:35:31.980Z",
+      "trust_level": 2,
+      "username": "mastermojo",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Thank you @Gonna.eth [/u/gonna.eth] for notice🙌🏻",
+      "created_at": "2023-10-31T03:11:54.957Z",
+      "trust_level": 2,
+      "username": "fujiar",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2023-10-30T15:23:08.774Z"
+}

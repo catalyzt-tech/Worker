@@ -1,0 +1,30 @@
+{
+  "title": "[DRAFT] [GF: Phase 1 Proposal] Scry Protocol - Permissionless High Scale Oracles",
+  "content": "PROJECT NAME:\n\nScry\n\n\nAUTHOR NAME:\n\nPR0\n\n\nNUMBER OF OP TOKENS REQUESTED:\n\n200,000\n\n\nL2 RECIPIENT ADDRESS:\n\n0x9d31e30003f253563ff108bc60b16fdf2c93abb5\n\n\nRELEVANT USAGE METRICS: (TVL, TRANSACTIONS, VOLUME, UNIQUE ADDRESSES, ETC.)\n\nGrant will be used to bootstrap feeds and pay gas costs to allow for usage. Key\nKPIs include, feeds live, contracts using feeds, unique data and feed requests\nby projects, TVL using the feeds\n\n\nOPTIMISM ALIGNMENT (UP TO 200 WORD EXPLANATION):\n\nScry allows for devs to easily access data from offchain sources either by self\ndeploying oracles or using the reference oracle and requesting a new feed. This\nallows for projects on Optimism to access data they need to power their systems\nwithout much resource use.\n\n\nPROPOSAL FOR TOKEN DISTRIBUTION (UNDER 1000 WORDS):\n\nWe have been busy developing a platform for arbitrary oracles and scalable\nonchain data feeds to be created using our custom oracle framework. You can have\n100s-1000+ data feeds using any API you may want with high scale design,\nhistorical lookup, developer self deployment and more. The oracles were designed\nwhen we were trying to create a permissionless synthetic assets platform and we\nwanted to demo by creating a banana synth, but the oracle solutions out there\nwere all low quality or not easy to get new feeds up. So we made our own.\n\nWe believe that these tools will help to secure the space, offer solutions to\nproblems which heavily affect development in the space (especially getting data\non chain externally, without needing a buncha help from oracle projects to try\nget the feeds up + resources + other costs + time).\n\nWe have completed almost all actual development and have operational contracts,\nnodes, docs, guides and front end with data explorer.\n\n\nORACLES KEY FEATURES\n\n * Autonomous oracle system where devs can self deploy own feeds/oracles and use\n   custom signers for permissionless, decentralized and secure deployment with\n   self-controllable feed creation using custom APIs for rapid development.\n * 200+ different feed updates with 1 tx (high scale data). Scaled with Layer\n   2s.\n * Use any API with a highly robust parse engine, controlled by a simple\n   spreadsheet, just put the URL, the parse for the json to be expected and\n   basic info and the feed will be ready to use and submitted on chain by all\n   signers.\n * Data lookup for historical data for all feeds natively, allows for both\n   immutable data access, TWAP construction and onchain analytics.\n * Allows for various monetization structures at a feed level, oracle providers\n   can charge for certain feeds to earn revenue as well as provide others for\n   public use, subscription models for data requests at the feed level and\n   oracle level.\n\n\nHOW WILL THE OP TOKENS BE DISTRIBUTED?\n\nWe will uae the tokens to pay gas feeds to maintain the reference oracle as well\nas develop tools for devs to create, deploy and maintain their oracles.\n\n\nHOW WILL THIS DISTRIBUTION INCENTIVIZE USAGE AND LIQUIDITY ON OPTIMISM?\n\nWill allow large datasets and high scale date to be accessed by projects easily.\nThis will allow new systems, contracts, concepts to be executed easily. Data\nfuels almost all financial systems and the more data accessble the more use\ncases we can serve.\n\n\nWHY WILL THE INCENTIVIZED USERS AND LIQUIDITY REMAIN AFTER INCENTIVES DRY UP?\n\nOnce projects have adopted the free and public feeds as well as create own, we\nplan to deploy a small fee model on some feeds / sell licences for the tools we\nprovide to fund growth. We are still looking at optimal models\n\nOver what period of time will the tokens be distributed?\nUnknown. Based on gas fees on Optimism to run the feeds reliably. The dev will\ncost a much smaller amount as that’s just me and can work for free, though may\nuse some for operational and development costs.\n\n\nHAS YOUR PROJECT PREVIOUSLY RECEIVED AN OP TOKEN GRANT? IF YES, WHAT’S THE\nSTATUS OF THESE TOKENS?\n\nNo.\n\n\nHOW MUCH WILL YOUR PROJECT MATCH IN CO-INCENTIVES?\n\nWe may distribute tokens once a model has been finalized to projects that use\nthe feeds or have oracle / devs on Optimism",
+  "views": 1945,
+  "like_count": 4,
+  "word_count": 714,
+  "answer": [
+    {
+      "content": "Just checking in to see if you would like this proposal to be evaluated in\nVoting Cycle #6 according to the updated grant proposal template\n[https://gov.optimism.io/t/grant-proposal-template/3233/15]?",
+      "created_at": "2022-09-13T21:37:17.999Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "Yes that’d be amazing ty.",
+      "created_at": "2022-09-14T05:21:22.747Z",
+      "trust_level": 2,
+      "username": "Pr0",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2022-07-04T17:55:53.955Z"
+}

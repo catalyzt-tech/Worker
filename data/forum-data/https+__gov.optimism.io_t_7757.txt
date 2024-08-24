@@ -1,0 +1,9 @@
+{
+  "title": "Which platform is the best for me to use for NFT deployment directly mintable on Optimism?",
+  "content": "Im developing couple unique 3D NFTs & animations videos\nWant to know which platform would be the best to deploy, if I want them to be\nmintable directly with Optimism token\n\nI have own contracts on Manifold ETH main-chain\nAnd some collections on Foundation & Opensea minted on IPFS or frozen metadata\nand Non-Frozen 0nes too\nNot all platforms allow to select specific token\nAnd any particular recommendation from experience for Metadata, if I deploy\ntokens on Optimism?\nSome tokens are huge size and quality & some will be more easier, so peeps can\nuse them In Games directly.\n\nThank you",
+  "views": 495,
+  "like_count": 0,
+  "word_count": 100,
+  "answer": [],
+  "created_at": "2024-03-06T04:53:08.034Z"
+}

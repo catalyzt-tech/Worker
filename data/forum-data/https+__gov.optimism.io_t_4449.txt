@@ -1,0 +1,40 @@
+{
+  "title": "Ideas for Meetups, Hangouts, Etc",
+  "content": "I got into crypto in the Spring of 2020 and started to spend a lot of my time\naround everything Ethereum not long after. I genuinely enjoy learning about all\nthe tech, trying out new protocols, speculating on the future, and so on.\n\nThe problem is that I’ve had essentially zero interaction in real-life or online\nwith anyone in this space. Living in the Greater Boston Area, I’m surprised at\nthe lack of events and other activity going on around here. As for online\ncommunities, conversations seem hard to come by if you’re not a developer.\n\nI think it would be cool to have our own regional gatherings, whether it be for\nEthereum in general or for our Optimism community.\n\nObviously online gatherings are much easier. Let me know if you have any ideas\noutside of Twitter Spaces or your typical Discord server. Any decent on-chain\nonline games maybe?\n\nI know I’m far from the only one experiencing this, so feel free to speak up!",
+  "views": 1774,
+  "like_count": 10,
+  "word_count": 313,
+  "answer": [
+    {
+      "content": "Hey!\nI have a Latin community who seeks to learn English in a different way,\nDuolingo, meetings and crypto. Would you like to organise something?\n:sweat_smile: [https://emoji.discourse-cdn.com/twitter/sweat_smile.png?v=12]\n\nMy DM is always open :raised_hands:t2:\n[https://emoji.discourse-cdn.com/twitter/raised_hands/2.png?v=12]\n\nLili.eth",
+      "created_at": "2024-02-09T04:49:03.494Z",
+      "trust_level": 3,
+      "username": "Liliop.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Yes! That sounds like a great idea. I’ll DM you.",
+      "created_at": "2024-02-12T15:18:51.377Z",
+      "trust_level": 2,
+      "username": "blairforce.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Hey @blairforce.eth [/u/blairforce.eth], thanks for introducing yourself and\nsharing your thoughts. You’re welcome to join Optimism Fractal weekly events,\nwhich provide a great place to learn about tech, have conversations with all\nkinds of optimists, and try out our protocols with fun onchain games. I think it\ncan provide exactly what you’re seeking.\n\nYou can find more information at the Optimism Fractal website\n[https://optimismfractal.com/] and you’re welcome to RSVP\n[https://lu.ma/optimismfractal] at the event page. Let me know if there are any\nquestions. Hope to see you there :slight_smile:\n[https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]",
+      "created_at": "2024-07-04T02:26:21.860Z",
+      "trust_level": 2,
+      "username": "Rosmari",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2023-01-05T20:24:13.249Z"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "[Request for Comment] Protocol Upgrade Proposal Information",
+  "content": "Hi all,\n\nOn behalf of the Optimism Foundation, I’d like to get the conversation with the\ncommunity started about Optimism’s first ever protocol upgrade vote. With the\nBedrock release [https://dev.optimism.io/introducing-optimism-bedrock/]\napproaching, the first ever protocol upgrade is within reach. We’re super\nexcited.\n\nWhile the Goerli testnet upgrade is already scheduled for Thursday\n[https://twitter.com/OPLabsPBC/status/1612899977961017345?s=20], any Mainnet\nupgrade needs to go through the Token House. This is a call for feedback on the\ntype of information the Token House would like included in the default protocol\nupgrade proposal type.\n\nWe’ve put together a starting point for consideration below. We’d love to hear\nany and all thoughts from the community on what other info would be good to\ninclude.\n\n--------------------------------------------------------------------------------\n\n * Executive Summary\n   * In short, what is this upgrade?\n   * Impacted stakeholders & expected outcomes\n   * Why the Collective should upgrade\n * Technical Summary\n   * Overview of architectural changes\n   * Link to all protocol/API/tech specifications\n   * Overview of ongoing security considerations incl. all audits and findings\n * Impact Summary\n   * Changes in performance characteristics, economics, …\n   * Time-of-upgrade considerations (downtime, etc)\n   * Links to exhaustive upgrade documentation for impacted stakeholders\n * Action Plan\n   * Upgrade Timing, Staging, & Go-live\n   * Contingency plans in case of last-minute bugs or issues\n   * Links to any orchestration code used specifically at the time of migration",
+  "views": 5050,
+  "like_count": 127,
+  "word_count": 1040,
+  "answer": [
+    {
+      "content": "Thanks for bring this conversation to the forum and congrats by deploying\nBedrock upgrade on testnet.\n\nAbout impact summary, I would like to see two specific clarifications and then\nrelevant notes: 1. how this update would affect the active protocols in\nOptimism, such as due to changes in blocktime, timestamps? and any other one\nthat entails that the protocols have to update or deprecate of their deployed\ncontracts, if applicable. The idea here is to have a complete prevention picture\nthat should be resolved before any update; so if there are relevant conditions\nlike this, I would explicitly like to know about it.\n\nAnd 2. metrics and analytics pertaining specifically to Bedrock’s performance at\nGoerli, and let us know if you need help with things like stress testing with\nthe community.\n\nAdditional questions: any procedure in case of severe delays during the update\nand the fact that said downtime affects time-sensitive smart contracts? from\ncontacting teams to avoid risks to allocation for compensation, if applicable.\n\nThat’s all for now. Thank you.",
+      "created_at": "2023-01-18T06:13:06.870Z",
+      "trust_level": 2,
+      "username": "Joxes",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 17
+    },
+    {
+      "content": "I would like to see a couple topics addressed in the summary:\n\n1 Will Zero Knowledge Proofs be a part of this upgrade? (If not, are they coming\nin the future)?\n\n 2. Will users need to perform two separate activities in order to withdraw or\n    do the two steps (proof and week later the unlock) happen behind the scenes\n    after the user requests the funds",
+      "created_at": "2023-01-12T12:22:35.698Z",
+      "trust_level": 2,
+      "username": "Ovetta",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 10
+    },
+    {
+      "content": "Those are good topics and I think they’ll help provide clarity for the\ncommunity. This is my understanding:\n\n 1. No zk-proofs at the moment. Optimism is an optimistic rollup, so that means\n    it uses a fault (formerly called “fraud”) proof system. From what I\n    understand, Bedrock makes architectural changes that are more modular. In\n    the future, if Optimism wants to migrate to a zk proving system, Bedrock’s\n    architecture allows for a more simple swap between proving components\n    without impacting the rest of the system. I believe when zk tech is more\n    battle tested, this system will eventually replace fault proofs on optimism.\n    It should be noted that Optimism’s proving system, Cannon\n    [https://github.com/ethereum-optimism/cannon/], will not be live with\n    Bedrock, but will come in a later release.\n 2. I believe it’s one action on the user’s end, but I’m not 100% sure. There is\n    a week long challenge period. If a user is trying to break the rules, a\n    fault proof can be submitted to block the malicious activity. I think if\n    that period passes then you have your withdraw on L1 without further action\n    required. More info high-level rollup protocol\n    [https://community.optimism.io/docs/protocol/2-rollup-protocol/#moving-from-optimism-to-ethereum]\n    and technical withdraw specification\n    [https://github.com/ethereum-optimism/optimism/blob/develop/specs/withdrawals.md].",
+      "created_at": "2023-01-14T06:04:24.949Z",
+      "trust_level": 2,
+      "username": "soyboy",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 8
+    },
+    {
+      "content": "Thank you for your detailed and concise answers. They are most helpful, Sir!",
+      "created_at": "2023-01-14T10:48:50.889Z",
+      "trust_level": 2,
+      "username": "Ovetta",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "just a question that whether you are working on something to reduce gas fees as\nlike arbitrum working on sharding…",
+      "created_at": "2023-01-13T04:49:24.966Z",
+      "trust_level": 1,
+      "username": "afshan1190",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    }
+  ],
+  "created_at": "2023-01-11T18:08:34.961Z"
+}

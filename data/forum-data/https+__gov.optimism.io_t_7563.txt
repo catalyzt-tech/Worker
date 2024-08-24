@@ -1,0 +1,50 @@
+{
+  "title": "S5 Grants Council Lead Appointment",
+  "content": "This post is to confirm the appointment of @Gonna.eth [/u/gonna.eth] as Lead of\nthe Grants Council for the remainder of Season 5, effective Feb 5. Lund Ventures\nwill resign from the position in support of @Gonna.eth [/u/gonna.eth]’s\nappointment. The Grants Council is now operating at a level that far exceeds\nexpectations, and this is a logical transition point to provide another\ncommunity member the chance to lead. Lund Ventures will provide support Gonna\nduring the transition to ensure that the Council runs.\n\nIt has been an honor to lead the Council. On a personal note, I am planning\nprofessional and personal transitions that will require more focus and time than\nexpected at the outset of this Season. I am grateful to remain a member of the\nOptimism community, and I look forward to this next chapter.",
+  "views": 630,
+  "like_count": 49,
+  "word_count": 490,
+  "answer": [
+    {
+      "content": "I’m grateful to have had Dane as a mentor during his time as Lead of the Grants\nCouncil. His guidance has been invaluable, and I appreciate his ongoing support\nas I step into this new role. Looking forward to continuing the positive\nmomentum within the Optimism community. You leave a high bar of fairness and\nprofessionalism that I wish to perpetuate. Thank you :heart:\n[https://emoji.discourse-cdn.com/twitter/heart.png?v=12].",
+      "created_at": "2024-01-30T11:55:09.082Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 13
+    },
+    {
+      "content": "The Grant Council wouldn’t be what it is without Dane. I hope the Collective\nrecognizes the extraordinary amount of work and insight he’s delivered by\nrunning (up to literally today) this project, which is now leaps ahead of all of\nits peers and in my opinion one of the best things to come out of any DAO.\nPersonally, I know I’ve gotten much better at my job here because of his\ninfluence. And this season is going to succeed because of the framework he’s\nalready laid out for it.\n\nAnd Gonna’s obv going to do a phenomenal job carrying on his work. I think we\nall know that. And funny enough, I think now is a natural time for this\ntransition, with much of the structural work having been done and the admin work\nabout to go live.",
+      "created_at": "2024-01-31T14:57:52.964Z",
+      "trust_level": 2,
+      "username": "jackanorak",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": "Thank you @danelund.eth [/u/danelund.eth] for being the first Council Lead and\nsetting much of the foundation that the current Council will continue to build\non :heart: [https://emoji.discourse-cdn.com/twitter/heart.png?v=12]\n\nThe procedure outlined in the Collective Council Framework\n[https://gov.optimism.io/t/collective-council-framework/5884] stipulates that a\nCouncil Lead may appoint a replacement with 7 days notice, so this change will\nbe assumed to go into effect 7 days from today unless clarified to occur at a\nlater date.\n\nWelcome @Gonna.eth [/u/gonna.eth] as the new Council Lead! You’ve already been\nvery involved in Council operations for multiple seasons, so I’m confident\nyou’ll be able to manage the transition smoothly but please let us know if you\nneed any additinoal support",
+      "created_at": "2024-01-30T21:31:34.450Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 6
+    },
+    {
+      "content": "Job well done Dane. You have done amazing work until now for the Collective\nGrant Council.\n\nAnd congrats on your new role Gonna.",
+      "created_at": "2024-02-06T09:01:22.140Z",
+      "trust_level": 2,
+      "username": "ayohtunde",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2024-01-30T01:52:25.628Z"
+}

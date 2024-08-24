@@ -1,0 +1,60 @@
+{
+  "title": "[READY] [GF: Phase 1 Proposal] BarnBridge 2nd Swing",
+  "content": "Project Name: BarnBridge\n\nAuthor Name: Tyler Ward\n\nOptimism Native: Yes\n\nNumber of OP tokens requested: 500,000 OP\n\nTimeline for distribution: 6 - 12 months\n\nL2 Recipient Address: 0xC60BeE6eACDB4dFA9a616AE7cb3872de2b02cb52\n\nGrant Category: DeFi\n\nRelevant Usage Metrics: (TVL, transactions, volume, unique addresses, etc.)\n\n * 10k BOND holders\n * 1,000 DAO members\n * $15M in TVL across the BarnBridge protocol\n\nOptimism alignment (up to 200 word explanation):\n\n * BarnBridge deployed its Smart Alpha product on Optimism in October 2021.\n   Since then, Smart Alpha has had about $30m in volume across all networks and\n   Optimism was among the first L2 networks we launched on. In August 2022, the\n   BarnBridge DAO voted to move governance to Optimism and will deploy\n   Barnbridge v2 on Optimism. . We believe Optimism will drastically reduce\n   friction associated with using Smart Yield v2 and enable a far wider range of\n   our users to participate in governance (i.e., vote on proposals at far\n   cheaper gas prices). Currently there is no place on Optimism where users can\n   lock in a fixed interest rate on their deposited funds. We believe providing\n   this to the Optimism ecosystem is important especially during a period when\n   rates are fluctuating significantly due to the various rewards being emitted\n   throughout the ecosystem. Additionally our DAO recently approved partnering\n   with Velodrome to establish deep liquidity for the BOND token on Optimism.\n   Finally, we have a close relationship with the Synthetix ecosystem and have\n   had early discussions around closer collaboration and opportunities for\n   integrations on Optimism.\n\nProposal for token distribution:\n\nDistribute OP tokens to BarnBridge Council Multisig to help grow BarnBridge and\nOptimism.\n\nRationale:\n\nBarnBridge v2 Incentives\n\nBarnBridge was one of the first major fixed income providers in decentralized\nfinance and grew to a protocol that at one time held over $600m in TVL. In 2021\nour DAO determined yields propped up by significant reward emissions was\nunsustainable so we ended our incentivized yield program which resulted in a\nsignificant reduction in TVL. We have spent the past year completely rebuilding\nour entire system in a way that prioritizes sustainability and is one of the\nfirst protocols to offer what is now coming to be called “real rates”.\n\nSince our first proposal, we have shown our commitment to the ecosystem by\nmoving our DAO to Optimism, launching BarnBridge v2 on Optimism, and integrating\nit with Aave v3, making our protocol the only place where users can lock in a\nfixed rate of return for sUSD (or any stablecoin) deposits.\n\nVelodrome LP\n\nAs a part of our DAO’s final vote on Ethereum mainnet, we approved moving the\nlarge majority of our liquidity on Ethereum mainnet to Optimism. To accomplish\nthis, we are working with Velodrome to incentivize a BOND/ETH liquidity pool\nwhich we expect to be the highest APR available for BOND deposits anywhere.\n\nBuilder Rewards\n\nBarnBridge has created a council that can allocate this 10% of incentives to\ncompensate builders who help us build more integrations into protocols on\nOptimism.\n\nBarnBridge V2 can sustainably turn ANY fixed rate into a variable rate so one of\nour biggest limitations is developer time.\n\nWe are already working on a Velodrome AMM integration for a fixed rate of return\nto pair with our AAVE offering. We want to invite other builders to help us\nbuild integrations into more Optimism protocols.\n\nHow will the OP tokens be distributed?\n\n500,000 OP tokens:\n\n80% to Barnbridge v2 (Fixed rates on Optimism)\n\n10% to the Velodrome LP\n\n10% to Builders Rewards\n\nHow will this distribution incentivize usage and liquidity on Optimism?\n\nWhile Luna/Terra can be seen as a ponzi & disaster at this point, we should at\nleast address that fixed income deposits were what drove many users to test the\nbridge, bridge funds, and deposit into the Terra/Luna ecosystem. We believe\nthere is product market fit for fixed rates in DeFi and we spent the last year\nbuilding a mechanism that provides sustainable yield. We released this in August\nand call it BarnBridge V2.\n\nYou can read more about BarnBridge V2 here: [Link\n[https://docs.google.com/document/d/1efRJZ3MdKoLm9uLlzwXAu4_BHbatEnhGLalsfT0Qmdo/edit#heading=h.l8emr2a2grv5]].\n\nUnlike other less sustainable mechanisms, BarnBridge V2 aims to offer users\n“real yield” as we are only pushing forward already earned yield from the DAO\ndeposits. Speaking from a strictly financial perspective, it’s virtually\nimpossible for users to lose funds unless AAVE was to become insolvent or\nBarnBridge V2 were to be hacked.\n\nWe believe our system to generate fixed rate returns paired with OP incentives\nwill be a strong motivation for users to bridge their funds to Optimism and\nstart using BarnBridge and the protocols we integrate with resulting in\nincreased activity and liquidity on Optimism.\n\nPlease list the milestones/KPIs you expect to achieve for each initiative,\nconsidering how each relates to incentivizing sustainable usage and liquidity on\nOptimism. Please keep in mind that progress towards these milestones/KPIs should\nbe trackable.\n\nBB v2: These are very conservative as we build out our application and\ndiminishing smart contract risk is slowly priced in (increasing deposits).\n\n$1M in deposits in 1 month\n\n$3M in deposits after 2 months\n\n$10M in deposits after 6 months\n\nBuilder\n\nBuild BB v2 to integrate with Velodrome and another integration partner on\nOptimism by end of 6 month period\n\nVelodrome LP\n\nBOND/WETH liquidity on Velodrome to be at approximately $1m in 6 months\n\nWhy will the incentivized users and liquidity remain after incentives dry up?\n\nWe don’t plan to juice our rewards to the same degree that other protocols have\n- something we believe was unsustainable and detrimental to the health of the\noverall ecosystem… BarnBridge V2 creates market driven rates, so we really\nshould shy away from incentivizing much above what is “market driven.” Users\nbeing expected to settle on staying for sustainable market driven rates is a\npretty existential question for the industry. If they won’t accept market driven\nrates, they are either unsustainable in the long run and will cause a crash in\nTVL at a point in the future OR are a result of the user taking on additional\nrisk they may or may not know about.\n\nFurther, another point of stickiness around BarnBridge V2 is that they are fixed\nterm deposits. This makes our liquidity inherently less inclined to a short term\nexodus and we can review with the Optimism community in real time while we\nexplore how we view this long term.\n\nIf this is successful and it’s bringing A TON of users and liquidity to\nOptimism, we want to be careful that we don’t turn on the gas for incentives.\nThe closer we keep the rewards to being a deviation above “market driven rates”\nthe more sticky those users will be; therefore, we will be structuring our usage\nof OP rewards to optimize for that…\n\nOver what period of time will the tokens be distributed?\n\nOptimism Grants: 6 to 12 months depending on OP price (at current prices, these\nrewards would last closer to 12 months).\n\nHow much will your project match in co-incentives?\n\nBarnBridge DAO acts as the LP in BarnBridge V2. This ensures we don’t go\ndownstream for risk by requiring us to “underwrite” the system and provide our\nown protocol owned liquidity to the pools. We then “earn” yield over the\nduration and push that forward in a clearing house auction allowing users to\nlock in a fixed rate of return for a set duration. Additionally we will be using\nBOND to incentivize our liquidity on Velodrome.",
+  "views": 2216,
+  "like_count": 9,
+  "word_count": 1491,
+  "answer": [
+    {
+      "content": "This proposal should be updated to reflect all of the sections of the Grant\nProposal Template v2 [https://gov.optimism.io/t/grant-proposal-template/3233]\nsince I’m noticing there are some areas missing.\n\nRegarding the proposal itself, I think fixed rates is an important area for\nOptimism and DeFi. However, I’m feeling that the amount requested is a bit high\ngiven that 80% of the 500k OP tokens will be used to bootstrap Barnbridge v2 and\nwhen I look at TVL it’s at $1.1m with 34 users ((I believe the link is\nBarnBridge - A DeFi Risk Tokenizing Protocol\n[https://app.barnbridge.com/fixed-yield/pools/] but let me know if this is\nincorrect). Since these are early metrics for a new product, I think a smaller\nrequested amount to prove traction and milestones would make sense.",
+      "created_at": "2022-09-21T04:46:42.194Z",
+      "trust_level": 2,
+      "username": "linda",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Thanks for the proposal! Under the ‘Grant category:’ field, please specify which\ncommittee should review your proposal (NFTs and Gaming, Tooling, or DeFi).",
+      "created_at": "2022-09-12T23:58:13.262Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "\n[https://avatars.discourse-cdn.com/v4/letter/l/9de053/48.png] lordtylerward:\n\n> Relevant Usage Metrics: (TVL, transactions, volume, unique addresses, etc.)\n> \n>  * 10k BOND holders\n>  * 1,000 DAO members\n>  * $15M in TVL across the BarnBridge protocol\n\nCan you provide metrics of Optimism? links?",
+      "created_at": "2022-09-26T18:12:49.396Z",
+      "trust_level": 2,
+      "username": "AxlVaz",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Fixed and changed to Defi.",
+      "created_at": "2022-09-13T14:26:43.514Z",
+      "trust_level": 1,
+      "username": "lordtylerward",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    },
+    {
+      "content": "Sorry - I was hit by a hurricane so stalled on answering.\n\nI think we will likely show higher TVL in coming months. It was the first\nissuance on the platform so it will take some time to rebuild to where we were\nbefore.",
+      "created_at": "2022-09-26T17:33:27.131Z",
+      "trust_level": 1,
+      "username": "lordtylerward",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-08-22T19:47:49.789Z"
+}

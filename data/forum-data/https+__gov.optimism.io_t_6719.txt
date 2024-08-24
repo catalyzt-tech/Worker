@@ -1,0 +1,60 @@
+{
+  "title": "Optimism Grants Changelog",
+  "content": "> Info: Every Friday, a weekly summary of the information compiled on\n> optimismgrants.io [http://optimismgrants.io/] is posted here in this thread.\n\n> Update: Since Sep 21, the site now also includes a grants calendar\n> [https://optimismgrants.io/calendar] and FAQ section.\n\nI’m excited to share that the Optimism Grants Changelog (optimismgrants.io\n[http://optimismgrants.io]) is now live!\n\n\n\npika-1695384419799-1x\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/f/f2547c9323fe49bd370be18f2796b8b4e87ed7d6_2_690x413.jpeg]\npika-1695384419799-1x1616×968 128 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/f/f2547c9323fe49bd370be18f2796b8b4e87ed7d6.jpeg]\n\n\n\nI’ve recently been reading through the Season 4 Feedback Thread\n[https://gov.optimism.io/t/season-4-feedback-thread/6303] and some of the\nmessage history on Discord, and got the impression that many find it difficult\nto stay up to date when it comes to information about grants.\n\n\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/brichis/48/6760_2.png]Season\n4 Feedback Thread [https://gov.optimism.io/t/season-4-feedback-thread/6303/6]\n\n> adhering to the deadlines often required navigating a maze of forum posts.\n\nTo improve the user experience for (prospective) grantees and other\ncontributors, I’ve consolidated announcements/changes/deadlines from the various\nCollective Grants into a single page. I will keep the site updated at least\nuntil the end of the year, and of course beyond that date if there is a lot of\ninterest.\n\nHopefully this will help some of you find relevant details more efficiently:\n\n * Which grant programs are open for applications?\n * What are the deadlines?\n * What have been the latest changes/updates?\n\nThe design and page structure is loosely inspired by status/uptime monitoring\npages like status.optimism.io [http://status.optimism.io].\n\nPlease let me know if you have any feedback, and keep in mind that this is only\na first initial version which is far from perfect.",
+  "views": 2317,
+  "like_count": 51,
+  "word_count": 3749,
+  "answer": [
+    {
+      "content": "Below is a summary of recent changes and upcoming deadlines related to the grant\nprograms of the Optimism Collective. For more detailed information, visit\noptimismgrants.io [http://optimismgrants.io/].\n\n\nOCT 28 - NOV 3, 2023\n\n * Nov 2, 2023 → Grants Council Elections are currently taking place!\n   Until Nov 15, the Token House can vote on Grants Council Reviewer Elections:\n   Builders\n   [https://vote.optimism.io/proposals/13644637236772462780287582686131348226526824657027343360896627559283471469688]\n   for which there are 10 nominees (5 open roles), Grants Council Reviewer\n   Elections: Growth Experiments\n   [https://vote.optimism.io/proposals/87355419461675705865096288750937924893466943101654806912041265394266455745819]\n   for which there are 11 nominees (5 open roles) and Grants Council Reviewer\n   Elections: Milestones and Metrics\n   [https://vote.optimism.io/proposals/96868135958111078064987938855232246504506994378309573614627090826820561655088]\n   for which there are 9 nominees (3 open roles).\n\n * Nov 2, 2023 → Season 5 Intent Budgets can now be voted on!\n   In Season 4, the Grants Council only processed grants under Intent #2,\n   whereas in Season 5 it will process grants under all Intents. As a result of\n   this change, the Grants Council Lead is now also responsible for proposing\n   budgets for all Intents. See the Season 5 Intent Budgets proposal here\n   [https://vote.optimism.io/proposals/11595556248137084019024264942104169821784001997050285438055123196153848845549].\n\n * Nov 3, 2023 → Application Review Appeals Deadline has passed!\n   RetroPGF 3 applicants who believed their application was wrongfully excluded\n   (see the list here\n   [https://docs.google.com/spreadsheets/d/1fce2jQXUbofsSffb694wygsSKqfN8c25x8xmHX-ftow/edit#gid=30409172])\n   were able to file an appeal until Nov 3, 2023 20:00 GMT. The appeals are now\n   reviewed by a dedicated group of badgeholders on Nov 4 and Nov 5.\n\n\nUPCOMING:\n\n * Nov 6, 2023 → RetroPGF 3 voting begins",
+      "created_at": "2023-11-03T23:49:51.368Z",
+      "trust_level": 2,
+      "username": "danftz",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/danftz/48/6119_2.png]\ndanftz:\n\n> Sep 23, 2023 → Deadline for publication of Cycle 15: Final Grant Decisions\n> Roundup\n\n\n[https://avatars.discourse-cdn.com/v4/letter/g/eb9ed0/48.png] Season 4 Grants:\nRFG Roundup [https://gov.optimism.io/t/season-4-grants-rfg-roundup/6859]\n\n> The Season 4 grants process included a novel application of its own, the\n> development of the Requests for Grants (RFG) process. RFGs were born of a\n> desire to create a new dimension to the grants program, demand-based granting.\n> The bulk of Web3 grants programs are supply-based, meaning that protocols\n> provide grants to the projects that show up and ask for grants. This can be\n> limiting for an ecosystem that requires consistent innovation to achieve its\n> vision. Some excellent projects may show up fo…\n\n\n[https://avatars.discourse-cdn.com/v4/letter/g/eb9ed0/48.png] Cycle 15 Final\nGrants Roundup [https://gov.optimism.io/t/cycle-15-final-grants-roundup/6858]\n\n> We have reached the end of Season 4. Season 4 has been an inflection point for\n> the grants program, during which the review process went from a system that\n> worked in theory to a system that is strengthened by practice. The Grants\n> Council has by no means perfected the art of reviewing proposals, but it has\n> continuously refined a process for honing community review and reaching\n> consensus between elected reviewers. Season 4 has been a story of growth. On\n> average, the Cycles in Season 4 saw a 34% …",
+      "created_at": "2023-09-24T18:02:36.196Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 4
+    },
+    {
+      "content": "[I’ve decided to post a weekly summary of the information compiled on\noptimismgrants.io [http://optimismgrants.io] here in this thread. This means\nthat every Friday you can expect a post about upcoming deadlines, as well as the\nlatest updates and changes related to the Collective Grants.]\n\n\nAUG 25 - SEP 1, 2023:\n\n * Aug 25, 2023 → Request for Grant (RFG) 5 is now live!\n   The Grants Council “believes that Optimism benefits from a strong RPC\n   network. RFG 5 is designed to subsidize RPC node providers who provide\n   services to Optimism grant recipients.” The specifications of RFG 5 are here:\n   https://app.charmverse.io/op-grants/page-9116034554979993\n   [https://app.charmverse.io/op-grants/page-9116034554979993]\n\n * Aug 25, 2023 → Request for Grant (RFG) 6 is now live!\n   The Grants Council is “looking for Optimistic academics. If you are working\n   on a paper, running a club, or putting together a forum on topics relevant to\n   Optimism, submit a proposal”. Learn more about RFG 6 here:\n   https://app.charmverse.io/op-grants/page-6976336922155557\n   [https://app.charmverse.io/op-grants/page-6976336922155557]\n\n * Aug 29, 2023 → Request for Grant (RFG) 7 is now live!\n   The Grants Council is “looking for projects that will make token-bound\n   accounts under ERC-6551 easier for builders to experiment with and users to\n   access.” You can find more about the RFG here:\n   https://app.charmverse.io/op-grants/page-19222850954688742\n   [https://app.charmverse.io/op-grants/page-19222850954688742]\n\n * Aug 31, 2023 → Submissions for Cycle 15 are now closed!\n   The Submission Period for Cycle 15, the last Cycle of Season 4, has come to\n   an end on Aug 31 19:00 GMT. This deadline only applied to Builders and Growth\n   Experiments Grants funded through the Grants Council; applications are still\n   open for RFGs.\n\n\nUPCOMING:\n\n * Sep 4, 2023 → Deadline for applying to RFP: RetroPGF List Creation UI\n   [https://github.com/orgs/ethereum-optimism/projects/31/views/1?pane=issue&itemId=35848404]",
+      "created_at": "2023-09-01T17:46:22.189Z",
+      "trust_level": 2,
+      "username": "danftz",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Below is a summary of recent changes and upcoming deadlines related to the grant\nprograms of the Optimism Collective. For more detailed information, visit\noptimismgrants.io [http://optimismgrants.io/].\n\n\nOCT 21 - OCT 27, 2023\n\n * Oct 23, 2023 → Submissions for RetroPGF 3 are now closed!\n   Applications for RetroPGF closed on Oct 23. A total of 1596 applications were\n   received, which are now being reviewed\n   [https://docs.google.com/spreadsheets/d/1o1AZNEPiESrluvTEUBJgFqFWwI6G9xihGy3VL1ecNaQ/edit#gid=692135326]\n   to determine whether they comply with the application guidelines\n   [https://plaid-cement-e44.notion.site/RetroPGF-3-Application-Guidelines-6942e743b28e4cc1a53a5e7d781f2bf4].\n\n * Oct 25, 2023 → Grants Council has been renewed for Season 5!\n   The Grants Council Operating Budget proposed by Lund Ventures (Dane Lund) was\n   approved by the Token House\n   [https://vote.optimism.io/proposals/47864371633107534187617995773541299064963460661119440983190542488743950169122],\n   which means that the Council is renewed for another season and the author of\n   the proposal is elected as Council Lead.\n\n\nUPCOMING:\n\n * Nov 1, 2023 19:00 GMT → Deadline for self-nomination for Council election\n   (Grants Council Reviewers\n   [https://gov.optimism.io/t/council-election-info-season-5/6881#grants-council-elections-1]\n   and Token House Code of Conduct Members\n   [https://gov.optimism.io/t/council-election-info-season-5/6881#token-house-code-of-conduct-council-elections-4])\n\n * Nov 6, 2023 → RetroPGF 3 voting begins",
+      "created_at": "2023-10-27T22:20:38.027Z",
+      "trust_level": 2,
+      "username": "danftz",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "See below this week’s summary of the information compiled on optimismgrants.io\n[http://optimismgrants.io/]:\n\n\nSEP 30 - OCT 6, 2023\n\n * Oct 3, 2023 → Deadline extension for RFP: Optimism Ecosystem Investment\n   Network\n   The submission deadline for Foundation Mission Request (RFP) – Optimism\n   Ecosystem Investment Network\n   [https://github.com/ethereum-optimism/ecosystem-contributions/issues/110] was\n   extended by 17 days to allow for more applicants and interested parties. The\n   new deadline is Oct 20 19:00 GMT.\n\n\nUPCOMING:\n\n * Oct 11, 2023 19:00 GMT → Deadline for submitting operating budget proposals\n   [https://gov.optimism.io/t/grants-council-operating-budget-template/6891],\n   and thereby running for election as Grants Council Lead\n\n * Oct 20, 2023 19:00 GMT → Deadline for applying to RFP: Optimism Ecosystem\n   Investment Network\n   [https://github.com/orgs/ethereum-optimism/projects/31/views/1?pane=issue&itemId=38371526]\n\n * Oct 23, 2023 → Deadline for RetroPGF 3 project sign-up\n   [https://app.optimism.io/signup]\n\n * Nov 1, 2023 19:00 GMT → Deadline for self-nomination for Council election\n   (Grants Council Reviewers\n   [https://gov.optimism.io/t/council-election-info-season-5/6881#grants-council-elections-1]\n   and Token House Code of Conduct Members\n   [https://gov.optimism.io/t/council-election-info-season-5/6881#token-house-code-of-conduct-council-elections-4])",
+      "created_at": "2023-10-06T21:57:19.046Z",
+      "trust_level": 2,
+      "username": "danftz",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    }
+  ],
+  "created_at": "2023-08-29T11:07:32.578Z"
+}

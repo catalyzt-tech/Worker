@@ -1,0 +1,40 @@
+{
+  "title": "Mean Finance Grant Update 1",
+  "content": "Summary\n\nAs a TLDR for those who don’t know us: Mean Finance aims to become the go-to hub\nfor accessing decentralized finance by abstracting the inherited complexity of\ndecentralized tools of investment. Our first product enables users to dollar\ncost average from any ERC20 into any ERC20 with their preferred period frequency\nwithout the user having to pay gas costs for each trade, while still being\ndecentralized, open and traceable.\n\nMean Finance proposal\n[https://gov.optimism.io/t/ready-gf-phase-1-proposal-mean-finance/2537/13] to\nget a total of 300,000.00 OP tokens for incentivizing subsidies, builders,\ngrowth and early adopters was passed at July 6th, 2022 through this snapshot\nvote\n[https://snapshot.org/#/opcollective.eth/proposal/0x0f3592ac3e437870affacc5fc64ce3c266b5041e24a3a31e490021d00d8dbd7f].\nFunds were sent on October 19th, 2022. which can be seen in this transaction\n[https://optimistic.etherscan.io/tx/0x37f43782d414eb09136ae487e81c3f97315682cf5f1c68638225bd799d3b7724].\n\nThis post aims to updates Optimism governance on how those tokens have been used\nand the results seen so far.\n\nUsage of $OP & Results:\n\n * Builders: We’ve paid out a grant of 2,136.75 OP tokens for Murathan, a member\n   of our community that built a dune dashboard where you can look up the amount\n   of depositors, positions created, total volume transacted, which pairs are\n   the most used, etc. You can view the payment transaction here\n   [https://optimistic.etherscan.io/tx/0x318b9491ff108f8d3f6ba8c6f4e81a140c766f1d967c9ee5dd5595164c5445ad]\n   and access the dashboard here [https://dune.com/murathan/mean-finance].\n * Growth strategies and community engagement: A campaign\n   [https://beta.layer3.xyz/quests/mean-finance] was created through Layer3\n   [https://beta.layer3.xyz/] that allowed users to earn 1 OP token when\n   finishing up their quests. Quests consisted in creating a DCA position to buy\n   daily ETH while earning yield on AaveV3, and withdrawing swapped funds some\n   days later. If you want to check the impact that this quest had on Mean\n   Finance, you can check Layer3’s report, here\n   [https://dune.com/l3wizard/mean-finance/43e892ba-023f-4aef-a8b9-8d797b1e4e66].\n\nLooking Forward:\n\nThe community has expressed interest in Subsidies and Early Adopters airdrop\nthrough our discord server (so we know everyone is waiting for it) and we are\nexcited to deliver on these requests. Necessary user interfaces have been\ndesigned and implemented, and we are in the process of completing the coding of\na smart contract that will enable us to perform the retroactive airdrop of\nOptimism tokens, as well as start offering subsidies and other exciting\nfeatures.\n\nFinishing thoughts:\n\nAlthough this update may be brief, we believe it is important for all projects\nto be accountable to the community. We would like to extend a special thanks to\n@Leighton [/u/leighton], who recently posted a Pool Together grant update\n[https://gov.optimism.io/t/pooltogether-grant-update/3531], and to @netrim\n[/u/netrim] and @lavande [/u/lavande] for requesting an update from us.",
+  "views": 1869,
+  "like_count": 10,
+  "word_count": 552,
+  "answer": [
+    {
+      "content": "Thank you for the update.",
+      "created_at": "2023-01-08T10:03:50.020Z",
+      "trust_level": 2,
+      "username": "teaser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Hey everyone!\n\nWe just wanted to keep updating the post – we’ve deployed the Early Adopters $OP\nairdrop today!\n\nAnnouncement: https://twitter.com/mean_fi/status/1663231135760158720\n[https://twitter.com/mean_fi/status/1663231135760158720]\n\nTransaction that moved the 15k $OP from multisig to claiming contract:\nOptimistic L2 Transaction Hash (Txhash) Details | Optimism\n[https://optimistic.etherscan.io/tx/0xc7fd7dc0c8ed9b1a92f9350f128468000479277a5ed09869cb205f81f6c12545]\n\nWe will keep working on deploying the $OP given to Mean by the Optimism\nGovernance.\n\nDo not hesitate on sending us a DM if there are any questions.",
+      "created_at": "2023-05-29T17:56:04.047Z",
+      "trust_level": 2,
+      "username": "0xged",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Thank you for sharing update and keeping us in loop.",
+      "created_at": "2023-05-30T09:02:38.323Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2023-01-06T20:20:47.157Z"
+}

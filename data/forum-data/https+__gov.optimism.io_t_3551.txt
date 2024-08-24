@@ -1,0 +1,60 @@
+{
+  "title": "Tooling Committee: Season 2 Recommendations",
+  "content": "As per guidelines mentioned here\n[https://gov.optimism.io/t/committees-next-steps-for-season-2/3436], Tooling\nCommittee will use this thread to share their recommendations.",
+  "views": 4930,
+  "like_count": 46,
+  "word_count": 807,
+  "answer": [
+    {
+      "content": "Hello all!\n\nAs we announced on our discord channel\n[https://discord.com/channels/667044843901681675/1019310579984371842/1036691692708958289]\n#tooling-committee, we are requesting to add the following proposals to the\ncycle 8 voting round [https://gov.optimism.io/t/voting-cycle-8-roundup/3742]:\n\n * Agora [https://gov.optimism.io/t/review-gf-phase-1-proposal-agora/3752]\n * Ambire Wallet\n   [https://gov.optimism.io/t/draft-gf-phase-1-proposal-ambire-wallet/3806]\n * DefiLlama\n   [https://gov.optimism.io/t/review-gf-phase-1-proposal-defillama/3562]\n\nThis means that we are working on issuing recommendations for this cycle:\nSocket, EthernautDAO, Tally Ho, Messari, DefiLlama, Agora and Ambire Wallet.\n\nWaiting for confirmation from governance controllers.\n\nThank you!",
+      "created_at": "2022-11-01T15:32:05.350Z",
+      "trust_level": 2,
+      "username": "Joxes",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": " * Agora [https://gov.optimism.io/t/review-gf-phase-1-proposal-agora/3752/21]",
+      "created_at": "2022-11-05T18:31:22.938Z",
+      "trust_level": 2,
+      "username": "krzkaczor",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "Hey All! I would also add Mochi and EthernautDAO to this list, which have\ncompleted review and two formal approvals from stewards + reviews which have\nbeen posted below:\n\n * [REVIEW] [GF: Phase 1] Mochi - #8 by ceresstation\n   [https://gov.optimism.io/t/review-gf-phase-1-mochi/3427/8]\n * [Review] [GF: Phase 1 Proposal Cycle 8] EthernautDAO - #12 by ceresstation\n   [https://gov.optimism.io/t/review-gf-phase-1-proposal-cycle-8-ethernautdao/3800/12]\n\nThey’ve been sitting for a few cycles (I think originally from cycle 5 or 6) and\nit’d be good to get them through before the season is done.",
+      "created_at": "2022-11-02T13:51:54.970Z",
+      "trust_level": 2,
+      "username": "ceresstation",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Today delivering recommendations for the following proposals:\n\n * EthernautDAO\n   [https://gov.optimism.io/t/review-gf-phase-1-proposal-cycle-8-ethernautdao/3800/12]\n * Mochi [https://gov.optimism.io/t/review-gf-phase-1-mochi/3427/8]",
+      "created_at": "2022-11-05T03:05:47.225Z",
+      "trust_level": 2,
+      "username": "Joxes",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Thanks for getting these out, I was just going through voting. You had loads\nthis time!",
+      "created_at": "2022-11-08T21:48:35.233Z",
+      "trust_level": 2,
+      "username": "MinimalGravitas",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    }
+  ],
+  "created_at": "2022-09-25T12:27:56.618Z"
+}

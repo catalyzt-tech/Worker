@@ -1,0 +1,60 @@
+{
+  "title": "How do you feel about a Conflict Committee",
+  "content": "As of now, OPerating manual does not have any guideline on handling conflict of\ninterest and I want to hear your opinion on this.\n\nChallenge:-\n\n 1. Lets say a project feels that an entity is voting against their proposal or\n    giving someone a favor for some reason.\n\n * They can raise their voice but once voting is done, no one can do anything\n   and foundation will act on the final result.\n\n 2. What if some one feels that I am acting and voting unethically.\n\n * Again, we dont have any thing in OPerating manual on how to handle this.\n\n 3. What to do if I see bias\n\n * I would appreciate if we can discuss this on this forum but what if other\n   party is not willing to listen.\n\n--------------------------------------------------------------------------------\n\nSuggestion:-\n\nCreate a committee to handle such scenario, we can reach out to this committee\nwith these type request and their decision would be final.\n\nWho Would be on this committee:-\n\n 1. Person/Team raising the request will choose 2 person*\n 2. Other party involved, if chooses to, can also choose 2 person\n\n * One delegate(for simplicity we will keep any delegate with 0.5% voting power)\n   and one OP Citizen\n\nHow I see it in work:-\n\n 1. 3 out of 4 vote is needed to reach final decision.\n 2. Keeping it small will help the committee would be trivial at initial steps\n 3. It is MANDATORY to have OP Citizen in this committee.\n\n--------------------------------------------------------------------------------\n\nChallenge:-\n\nGenerally, I am not a big fan of creating many committee as I believe this makes\nthings complicated and increase bureaucracy. But as we are doing and learning\nthings iteratively, I am in favor of this. We should try and see how things\nworks out, if not needed, we can decommission this committee.\n\nHappy to hear your thoughts on this.\n\nEdit:-1\n\nAdding some context with an example.\n\nI submitted a proposal and was voted by Token House but I am not happy with how\nX entity has voted on my proposal. So, here i will invoke the Conflict committee\nand submit my case.\n\nToken house is and will be deciding pillar, what will change, if the Conflict\ncommittee approve my request, only vote of X will be removed from the final\nresult. Votes and result from rest of the Token will still apply. We are not\nover-riding Token house, we are just removing conflict.",
+  "views": 2321,
+  "like_count": 23,
+  "word_count": 2361,
+  "answer": [
+    {
+      "content": "Valid point, I do see adding a committee might slow us down but what other\noption we have. I am sure, we will face conflict of interest issue in coming\ndays.\n\n> what I don’t understand is the presence of one delegate in this committee,\n> what will be their role handling this conflicts\n\nOkey, so lets say Bob has a conflict of interest with Alice. Here, Bob will\nsubmit a conflict of interest report in front of this committee including all\nthe evidence supporting his side, ofcourse Alice will do the same too. Then,\nthis committee will hear both side of story and take a decision.\n\nWhy a Delegate, I think they are involved this our gov process from start and\nthey might the right person to for this task.\n\n> OP Citinzenship is “live” we could have someone from OP Foundation in the\n> committee\n\nThis is tricky thought, Including someone from foundation will complicate\nthings, main goal of this suggestion is to remove Bais and we dont want someone\ncalling foundation Bias because of their decision.\nMy goal would be to keep the foundation from gov as far as possible. We should\nresolve things internally, they have the Veto power anyway so if we act on\nsomething complex or critical, they can Veto it.",
+      "created_at": "2022-07-26T15:38:19.362Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "It would be better to propose rules that will prevent conflict of interest and\ncan be written in the Operating Manual.",
+      "created_at": "2022-07-26T17:59:30.365Z",
+      "trust_level": 2,
+      "username": "diligit",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Make me a permanent member of this committee and all will be fair.\nI don’t agree with this proposal, in every proposal a conflict of interest can\nbe found, and then we exclude Token House votes and the final decision is made\nby 3-4 people.\nHow do we verify that the entities that initiated this committee and elected the\nmembers of this committee do not have preemptive collusion… let’s create another\ncommittee that will verify this committee). And if this committee decides to\ncancel the votes then the Optimism Foundation does not have to execute the Token\nHouse decision just from the committee vote (3 people).\nMy opinion: It is Token House (the decisive part), decentralized, and if we\nemphasize that Token House consists of many parties then 1-2 parties do not have\nthe majority vote and do not decide the final result. And if we mention that\nprojects still have to have voting power in the Optimism Collective then there\ncan be certain conflicts, and for such cases rules can be set in the OPerating\nManual proposed by the Token House, (without the need for a committee).",
+      "created_at": "2022-07-26T16:18:58.567Z",
+      "trust_level": 2,
+      "username": "diligit",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Hello! Optimism Collective community!\n\nThis topic of conflict management is something we’ve been working a lot in\nGravity DAO, and I want to share some of the things we’ve been doing, in case\nany of them could be of use or interest.\n\nGuide to manage conflict in DAOs GRAVITON GUIDE - Google Slides\n[https://docs.google.com/presentation/d/1IfkX70RczxzyX4bjSGabFhOWNF3eLQ1_3LtyMIajXhs/edit?usp=sharing]\n\nscale of conflict and transformational actions Scale of conflicts - Graduated\nsanction Guideline - ⚛ Community - Token Engineering Commons\n[https://forum.tecommons.org/t/scale-of-conflicts-graduated-sanction-guideline/234]\n\n\n\nDispute-continuum\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/b/bf65e73ae6dfea42587087e538de637db6e04ad3_2_690x435.jpeg]\nDispute-continuum1105×697 37.7 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/b/bf65e73ae6dfea42587087e538de637db6e04ad3.jpeg]\n\n",
+      "created_at": "2022-10-06T15:40:11.012Z",
+      "trust_level": 2,
+      "username": "juankbell",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/diligit/48/1328_2.png]\ndiligit:\n\n> Make me a permanent member of this committee and all will be fair.\n\nlol…where can i sign this proposal.\n\n> we exclude Token House votes and the final decision is made by 3-4 people\n\nThis need some clarification, will update the main post. One example, I\nsubmitted a proposal and was voted by Token House but I am not happy with how X\nentity has voted on my proposal. So, here i will invoke the Conflict committee\nand submit my case.\n\nToken house is and will be deciding pillar, what will change, if the Conflict\ncommittee approve my request, only vote of X will be removed from the final\nresult. Votes and result from rest of the Token will still apply. We are not\nover-riding Token house, we are just removing conflict.\n\nDoes this help ? happy to comment on any other thought.\n\n> How do we verify that the entities that initiated this committee and elected\n> the members of this committee do not have preemptive collusion\n\nYou are right here and unfortunately, I dont have perfect solution for this but\nI do have a idea to counter this too.",
+      "created_at": "2022-07-26T16:55:26.498Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2022-07-26T13:56:03.901Z"
+}

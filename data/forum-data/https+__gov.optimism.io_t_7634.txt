@@ -1,0 +1,30 @@
+{
+  "title": "Let’s create a new way to learn English and get immersive in crypto world 🔴",
+  "content": "Hello Optimism community!!! :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]:fire:\n[https://emoji.discourse-cdn.com/twitter/fire.png?v=12]:red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]\n\nI’m excited to share our new way to learn, teach and practice English that\ncombines learning on Duolingo with cryptocurrency rewards, with a special focus\non the Latin community.\n\n…We recognize the importance of mastering English to enter the tech or crypto\nworld, and many Latin people face challenges in this regard. Over the past 3\nweeks, we’ve been diligently using Duolingo as a key tool to overcome these\nlanguage barriers and we’re achieving. :muscle:t2:\n[https://emoji.discourse-cdn.com/twitter/muscle/2.png?v=12]\n\nThe idea of rewarding effort with cryptocurrencies not only makes learning more\nappealing but also opens up opportunities for massive user growth/builder on\nOptimism or more protocols.\n\nI appreciate your feedback and suggestions as we continue on this exciting\njourney toward a more inclusive and technologically empowered future.\n\n\n\nIMG_5581\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/d/d0bb842a42b843ec4fb02233c6ad90b2009f81f2_2_231x500.png]\nIMG_55811170×2532 305 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/d/d0bb842a42b843ec4fb02233c6ad90b2009f81f2.png]\n\nIMG_5572\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/d/d48519f625fb50f034f3ec87ed61d7760196e164_2_231x500.png]\nIMG_55721170×2532 306 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/d/d48519f625fb50f034f3ec87ed61d7760196e164.png]\n\nIMG_5556\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/9/977bb7b5cceaf3cbdac9e41cfc5bc4f3dea30303_2_231x500.jpeg]\nIMG_55561170×2532 289 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/9/977bb7b5cceaf3cbdac9e41cfc5bc4f3dea30303.jpeg]\n\nIMG_5443\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/8/80166341c7577203941c860a38ec4e9fe0b61947_2_231x500.jpeg]\nIMG_54431170×2532 254 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/8/80166341c7577203941c860a38ec4e9fe0b61947.jpeg]\n\nIMG_5365\n[https://europe1.discourse-cdn.com/bc41dd/optimized/2X/f/f6ef615c11ada6bd1531651e862f0d8ffe87500a_2_231x500.png]\nIMG_53651170×2532 300 KB\n[https://europe1.discourse-cdn.com/bc41dd/original/2X/f/f6ef615c11ada6bd1531651e862f0d8ffe87500a.png]\n\n\n\nLet’s move forward together towards success! :heart_hands:\n[https://emoji.discourse-cdn.com/twitter/heart_hands.png?v=12]:heart_hands:\n[https://emoji.discourse-cdn.com/twitter/heart_hands.png?v=12]\n\n#StayOptimistic :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]:fire:\n[https://emoji.discourse-cdn.com/twitter/fire.png?v=12]:red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12]",
+  "views": 348,
+  "like_count": 5,
+  "word_count": 340,
+  "answer": [
+    {
+      "content": "Hey! We have discussed this a bit in some communities. Our approach was more of\na conversational group, where we can chat about Web3: new protocols, intro to\ntechnical/experimental stuff (EIPs/ERCs, new models, Farcaster Frames), etc.\n\nOur idea is to have a more approachable conversation for newcomers, and\nexperimented Web3 users who want to polish their English, can “exchange” the\nknowledge for practice.\n\nThe cool thing is, anyone can fallback to Spanish in case their having trouble\nfinding the words. Other participants can provide quick feedback on how to\nexpress the idea properly in English. You know, it’s all about practice.\n\nLet me know if that resonates with you, maybe we can find a cool structure to\nstart. Saludos!",
+      "created_at": "2024-02-09T17:56:00.876Z",
+      "trust_level": 1,
+      "username": "mel",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Sounds good!\nWe started with Duolingo because seems it is a good way to start learning\nEnglish, most of us are recently starting with basic English so it’s a good way,\nbut also it’s a good way to start teaching about web3. Do you know any web3\ngaming apps?? It could help us too. :muscle:t2:\n[https://emoji.discourse-cdn.com/twitter/muscle/2.png?v=12]",
+      "created_at": "2024-02-09T22:22:03.164Z",
+      "trust_level": 3,
+      "username": "Liliop.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2024-02-09T04:02:14.742Z"
+}

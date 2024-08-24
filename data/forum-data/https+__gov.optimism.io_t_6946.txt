@@ -1,0 +1,9 @@
+{
+  "title": "Special Voting Cycle #16a Roundup",
+  "content": "Special Voting Cycle #16a begins on Thursday (October 12th) at 19:00 GMT and\nruns until Wednesday (October 25th) at 19:00 GMT.\n\nIn Season 5, for a non-Foundation proposal to proceed to a vote, four delegates\n- each part of the top 100 delegates - must give explicit approval on the\ndiscussion thread. Delegates may not approve their own proposals. Proposals that\nmay only be initiated by the Foundation do not require delegate approvals and\nwill automatically move to a vote.\n\nA snapshot of delegate voting weights will be taken at the start of the voting\nwindow. Voting will take place via the Optimism Governance Portal\n[https://vote.optimism.io/].\n\nThe following proposals are eligible for voting in Special Voting Cycle #16a:\n\n * Anticapture Commission\n   [https://gov.optimism.io/t/anticapture-commission/6889]\n\n * Developer Advisory Board Budget and Ratification of Members\n   [https://gov.optimism.io/t/developer-advisory-board/6892]\n\n * Grants Council Operating Budget Proposal\n   [https://gov.optimism.io/t/draft-season-5-grants-council-operating-budget/6941]\n\n * Code of Conduct Council Budget\n   [https://gov.optimism.io/t/code-of-conduct-councils/6888]\n\n * Security Council: Vote #1 - Change to Security Model\n   [https://gov.optimism.io/t/security-council-vote-1-change-to-security-model/6886]\n\n * Code of Conduct Violation: Carlos Melgar\n   [https://gov.optimism.io/t/code-of-conduct-violation-carlos-melgar/6882]",
+  "views": 582,
+  "like_count": 5,
+  "word_count": 222,
+  "answer": [],
+  "created_at": "2023-10-11T19:48:27.126Z"
+}

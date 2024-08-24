@@ -1,0 +1,49 @@
+title: Block Explorer
+lang: en-US
+description: Learn how to deploy a Blockscout block explorer for your OP Stack chain.
+
+import { Callout } from 'nextra/components'
+
+Deploying a Block Explorer
+
+Blockscout is an open source block explorer that supports OP Stack chains.
+Keep reading for a quick overview on how to deploy Blockscout for your OP Stack chain.
+
+Dependencies
+
+Docker
+
+Create an Archive Node
+
+Blockscout needs access to an archive node for your OP Stack chain to properly index transactions, blocks, and internal interactions.
+If using op-geth, you can run a node in archive mode with the --gcmode=archive flag.
+
+Installation
+
+Blockscout can be started from its source code on GitHub.
+
+git clone https://github.com/blockscout/blockscout.git -b production-optimism
+cd blockscout/docker-compose
+
+Configuration
+
+Review the configuration files within the envs directory and make any necessary changes.
+In particular, make sure to review envs/common-blockscout.env and envs/common-frontend.env.
+
+Starting Blockscout
+
+Start Blockscout with the following command:
+
+DOCKER_REPO=blockscout-optimism docker compose -f geth.yml up
+
+Usage
+
+Explorer
+
+After Blockscout is started, browse to http://localhost to view the user interface.
+Note that this URL may differ if you have changed the Blockscout configuration.
+
+API
+
+Blockscout provides both a REST API and a GraphQL API.
+Refer to the API documentation for more information.

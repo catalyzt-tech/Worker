@@ -1,0 +1,60 @@
+{
+  "title": "Badgeholder Conflict of Interest Disclosures",
+  "content": "All badgeholders are subject to the Code of Conduct\n[https://gov.optimism.io/t/code-of-conduct/5751]. This code of conduct includes\na no self-dealing section that stipulates:\n\n * Mandatory (Violation 2): Optimists must avoid conflicts of interest where\n   possible and mitigate their impact when not possible. We recommend\n   over-communicating and disclosing potential conflicts of interest even when\n   they do not warrant abstaining from a vote.\n * 2a. Any actual or reasonably anticipated conflicts of interest must be\n   disclosed in writing and prominently displayed ahead of any voting. (see 10d\n   for the definition of affiliated projects for badgeholders)\n * 2d. Badgeholders should not vote for organizations where they expect any\n   portion of funds to flow to them or any projects from which they derive\n   income\n * Mandatory (Violation 11): Badgeholders must not use private voting to obscure\n   self-dealing.\n   * After RetroPGF Rounds end, the Foundation or Code of Conduct Council may\n     randomly sample 55 ballots to check for conflicts of interest.\n   * If a suspected self-dealing violation is filed\n     [https://docs.google.com/forms/d/1Vl3FcH3UVBzSI-7Rsz6WBkxhB3RbbrrOXOKCjosJRjg/edit?pli=1],\n     the Foundation may also review the ballot of the reported badgeholder to\n     check for conflicts of interest.\n\nThe thread below is where badgeholders should disclose any conflicts of interest\nprior to voting in Round 2 & Round 3.",
+  "views": 6439,
+  "like_count": 288,
+  "word_count": 5362,
+  "answer": [
+    {
+      "content": "GM\n\nMy Disclosures:\n\nI founded:\nGiveth\nCommons Stack\nPraise\nPairwise\n\nSo I won’t be voting for any of the above projects.\n\nI hold tokens in\nBanklessDAO\nGitcoin\n\nSo I will give them both a smaller allocation than I other wise would because of\nmy bias\n\nI am good friends with people on the teams of:\nRotki\nTE Academy\nTrueblocks\nGoerli\nGashawk\nKernal\nOptimism DAppNode Package\nWeek in Ethereum News\nErigon\ndm3\nLodestar\nNimbus\nBlobscan\n\nI have no direct financial stake in the orgs mention above in this section, but\nI also have insight into the value they provide, so I will be careful to check\nmy bias and only give these projects the rewards they deserve.",
+      "created_at": "2023-03-18T02:22:12.405Z",
+      "trust_level": 2,
+      "username": "Griff",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 12
+    },
+    {
+      "content": "I will NOT be voting for:\n\n * EthernautDAO (founder)",
+      "created_at": "2023-03-13T22:44:25.511Z",
+      "trust_level": 4,
+      "username": "Gonna.eth",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 8
+    },
+    {
+      "content": "For the RPGF2, I currently have some degree of involvement for the following\nprojects nominated:\n\n * Smock: built by Wonderland, currently occupying as researcher for the\n   company.\n\n * SEED LATAM: being part of the core team and delegate for this governance in\n   behalf of the whole community.\n\n * Optimism en Español: as an external contributor.\n\nTherefore, I will not vote for these projects.\n\n--------------------------------------------------------------------------------\n\nFor retroPGF3, I will not vote for:\n\n * Wonderland\n\n * SEED LATAM\n\n * Optimism en Español",
+      "created_at": "2023-03-13T20:56:01.456Z",
+      "trust_level": 2,
+      "username": "Joxes",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 8
+    },
+    {
+      "content": "I will NOT be voting for:\n\n * L2Beat (investor)\n * Polynya (obviously)\n\nPS, Nov 2023: Same applies for RPGF#3",
+      "created_at": "2023-03-13T06:11:24.059Z",
+      "trust_level": 2,
+      "username": "polynya",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": "I will not vote for diligit (myself)",
+      "created_at": "2023-03-14T18:57:14.641Z",
+      "trust_level": 2,
+      "username": "diligit",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    }
+  ],
+  "created_at": "2023-03-10T23:57:51.811Z"
+}

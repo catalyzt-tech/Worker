@@ -1,0 +1,30 @@
+{
+  "title": "Pika Protocol RugPull and Optimism Funds",
+  "content": "So @optimismFND gave 900k $OP to unverified #delegator’s application with a\nnever created wallet, and @PikaProtocol did #rugpull on.\n\nDeveloper @EthanDev6 ENS-address never existed, yet in August 2022 Pika Protocol\nreceived 900,000 $OP tokens as part of the OptimismDAO’s governance funding\nprogram.\n\nSo what @optimismFND did about this? Really they never checked dev’s existence,\nyet gave 900k token?\n\n:page_facing_up:\n[https://emoji.discourse-cdn.com/twitter/page_facing_up.png?v=12] Delegate:\nDelegate Commitments [OLD] - #186 by ethan0\n[https://gov.optimism.io/t/delegate-commitments-old/235/186]\n:pill: [https://emoji.discourse-cdn.com/twitter/pill.png?v=12] Proposal: [GF:\nPhase 0 Proposal] Pika Protocol\n[https://gov.optimism.io/t/gf-phase-0-proposal-pika-protocol/1103]\n:money_with_wings:\n[https://emoji.discourse-cdn.com/twitter/money_with_wings.png?v=12] OP Rewards:\nOP Rewards Impact Analysis: Pika Protocol\n[https://gov.optimism.io/t/op-rewards-impact-analysis-pika-protocol/6746]\n\nYet #PikaProtocol generously explaining their #rug on social media, while\nprotocols v4 trap is still pinned. #L2’s are racing for adoption, but those who\ndo not protect its #userbase will loose in the long run for sure.\n\nWe need more @zachxbt alike peoples within protocols, and more transparent\nprotocol approach about those issues. Lectures need to be taken, and announced!\n\nPossible related users:\n\n[https://avatars.discourse-cdn.com/v4/letter/e/e19b73/288.png]\n\n\n@ETHAN0 [https://gov.optimism.io/u/ethan0]\n\nEthan\nJoined May 25, 2022\n\n[https://avatars.discourse-cdn.com/v4/letter/k/9fc29f/288.png]\n\n\n@KIT [https://gov.optimism.io/u/Kit]\n\n\nJoined September 7, 2023\n\n[https://avatars.discourse-cdn.com/v4/letter/f/c68b51/288.png]\n\n\n@FREEMARTIAN [https://gov.optimism.io/u/freemartian]\n\nkian khorsandi\nJoined May 26, 2022\n\n[/user_avatar/gov.optimism.io/satomiss/288/3143_2.png]\n\n\n@SATOMISS [https://gov.optimism.io/u/satomiss]\n\n\nJoined January 18, 2023\n\n\nps. this was a tweet in first place, don’t want to put more time since I already\ncannot take my funds from v3 and feeling the rug pain. I really wanted to see a\nprotocol that cares about those issues. You can name me QQ, that’s ok. Just\nwanted to put my tweet into more visible scene for future conversation.",
+  "views": 611,
+  "like_count": 5,
+  "word_count": 387,
+  "answer": [
+    {
+      "content": "OP rewards we received have been distributed to our users over the past year.\nAll our users can verify this.\nhttps://twitter.com/PikaProtocol/status/1566675088946057216…\n[https://twitter.com/PikaProtocol/status/1566675088946057216]\nhttps://twitter.com/PikaProtocol/status/1565250782319894528…\n[https://twitter.com/PikaProtocol/status/1565250782319894528]\nThe remaining OP are for bounties grants according to the proposal. The team has\nnot taken a single OP out of the rewards.",
+      "created_at": "2023-11-23T10:57:41.702Z",
+      "trust_level": 2,
+      "username": "ethan0",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Developer contacted me and explained the details of the issue, including\nregarding to v3 and v4 changes of the platform. I want to clarify the followup\ninformation, and wish to explain my sorry for being highly vocal about the\nissue. All my concerns was focused on community, and after many rugpulls I\ndecided to put time to note those things down rather than being silent. Thanks\nfor detailed information.",
+      "created_at": "2023-11-23T13:03:42.152Z",
+      "trust_level": 1,
+      "username": "bparlan",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2023-11-23T10:13:59.974Z"
+}

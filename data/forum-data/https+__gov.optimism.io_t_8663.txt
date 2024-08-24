@@ -1,0 +1,60 @@
+{
+  "title": "From COSTA RICA to the SUPERCHAIN",
+  "content": "8 new fantastic MVPs to the Superchain!\n\nWe are thrilled to announce that the first university-level blockchain module in\nCosta Rica has been successfully completed. I want to personally congratulate\nevery single one of the 25 graduates! more info on this mission request\n[https://gov.optimism.io/t/optimism-university-module-in-costa-rica/8338] S5\n\nAs a final requirement for graduation, students must present their final\nprojects in the form of a video pitch.\n\nEach team will record a short video in English, demonstrating their project and\nshowcasing their development and learning. A post will be made for each team,\npresenting a total of 8 unique projects.\n\nLets give them Exposure.\n\nProjects:\n\n * 1. Merkle Tree Airdrop\n * 2. Web3 Affiliate Marketing\n * 3. Web3 Grades manager\n * 4. Fitness Dapp\n * 5. Web3 Bets\n * 6. Decentralized WAZE\n * 7. Superchain Donations\n * 8. Web3 Game\n\nSubmission Guidelines:\n\n * Title of the Post/Project: Clearly state the name of the project.\n * Brief Description: Provide a concise description of the project’s goals and\n   objectives.\n * Team Members: Include the names and blockchain addresses used during the\n   course for each member. (only 1 post per team)\n * Video Pitch Link: Attach the link to the recorded pitch, either via Loom or\n   any drive, and share the link in the post.\n\nExample Format:\n\nDecentralized Voting System for National Elections\n\nTeam:\n\nAlberto Galán: 0x0263E43c0dE253a0fe354b60d35D2855c514a887\nMaría Pérez: 0x1A23B45cD6E253a0fe354b60d35D2855c514a123\n\nVideo Pitch: [Link to video pitch]\n\nDescription:\nThis project aims to address global election issues, such as those seen in\nVenezuela, by providing a public, transparent, and secure tool. It allows anyone\nto verify the results and ensure they have not been tampered with. The project\nutilizes two distinct smart contracts. (add anything you consider important)\n\nContract #1 (Voting): [Link to deployed contract #1]\nContract #2: [Link to deployed contract #2]\n\nBest Regards.\nAlberto Galan",
+  "views": 146,
+  "like_count": 70,
+  "word_count": 1642,
+  "answer": [
+    {
+      "content": "Guys, you can also participate in this superchain global hackathon:\n\n\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/jacob/48/359_2.png]\nSuperhack, the largest Superchain Hackathon Begins Tomorrow!\n[https://gov.optimism.io/t/superhack-the-largest-superchain-hackathon-begins-tomorrow/8664]\n\n> Hey all! Wanted to share with the governance forum as well (in case any devs\n> are watching!) that Superhack [https://ethglobal.com/superhack] kicks off\n> tomorrow. We’ll be hosting nearly 1,000 developers with support from dozens of\n> Superchain Eco members for two weeks to create the future of what’s possible\n> on the Superchain. Here’s the hackathon TLDR: people_hugging\n> [https://emoji.discourse-cdn.com/twitter/people_hugging.png?v=12] Hundreds of\n> likeminded builders moneybag\n> [https://emoji.discourse-cdn.com/twitter/moneybag.png?v=12] Over $200,000 in\n> prizes and access to future Retro Funding opportunities ring_buoy\n> [https://emoji.discourse-cdn.com/twitter/ring_buoy.png?v=12] Support to build\n> from the Supe…\n\nYou’re doing big things!\nCongrats!!\nLili",
+      "created_at": "2024-08-02T20:07:34.966Z",
+      "trust_level": 3,
+      "username": "Liliop.eth",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 8
+    },
+    {
+      "content": "Fit Dapp: Move&Mint\n\nTeam:\n\nLindsay Morales [https://github.com/lindsaymoralesb]:\n0xE2007c18Dbd65F335aB1B5752Ceb3fc6Aa099b01\nMarianela Montoya [https://github.com/n3la88]:\n0x1B04132D7F2427cB160AB57d0829C48D93e3fc91\nNémesis Alfaro [https://github.com/nemealfaro]:\n0x1F0222F3fEdb5a36faBCF47F9E52bEd9C9D946C4\n\nVideo Pitch: Move&Mint.mov - Google Drive\n[https://drive.google.com/file/d/1qjYNGlEfLjBJ1YcocxtucWHEZ1Y_eqXi/view?usp=sharing]\nPresentation: move&mint.pdf - Google Drive\n[https://drive.google.com/file/d/1xCyCnUWDWGdZ92F-HHqiS-lRY3bEndH6/view?usp=sharing]\n\nDescription:\nMove&Mint is an innovative fitness DApp that blends physical activity with\nblockchain technology. Users track their workouts and daily activities to earn\nrewards in the form of NFTs. These unique digital collectibles not only serve as\nincentives but can also be traded or used to unlock special features and\nbenefits within the app. With Move&Mint, every step you take brings you closer\nto reaching your fitness goals while building a valuable digital portfolio. Get\nmotivated, stay active, and reap the rewards in a whole new way!\n\nContract #1 FitnessTracking\n[https://sepolia-optimism.etherscan.io//address/0x570af86dF99361eA6Ab2Ea2256c523184695F31e#code]\nContract #2: DynamicNFT\n[https://sepolia-optimism.etherscan.io//address/0x545699E9Ae72a9d2371D83aADd6C45be0C313F9d#code]\n\nCodebase:\nContracts: GitHub - NebulaForce/fitness-app-contract\n[https://github.com/NebulaForce/fitness-app-contract]\nUI: GitHub - NebulaForce/fitness-app-frontend\n[https://github.com/NebulaForce/fitness-app-frontend]",
+      "created_at": "2024-08-02T03:24:56.726Z",
+      "trust_level": 1,
+      "username": "lindsaymoralesb",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 8
+    },
+    {
+      "content": "On Chain Game :chains: [https://emoji.discourse-cdn.com/twitter/chains.png?v=12]\n:space_invader: [https://emoji.discourse-cdn.com/twitter/space_invader.png?v=12]\n\nTeam:\n\nFabricio Robles: (@fab [/u/fab] ) 0x3B70EFeB2ebe4351e07462448951627DDB172F91\nBryan Ramirez (@BRACR10 [/u/bracr10] ):\n0xE3b3326b2c695e38BD3eF1F851A0974a78EC35BA\nLuis Diego Mora (@LuisDi98 [/u/luisdi98] ):\n0xd7A26b562aaC3Bbdcb71d7Ec114A6a44aD2c848B\n\nVideo Pitch here [https://www.loom.com/share/596a1f5e90184ceb9ec114d04f99faee]\n\nDescription: Game where every character is a NFT where they can battle other\ncharacters thus leveling up and improving stats such as Attack, Defense and\nAgility.\n\nContract: Battle | Address 0xe12b48502dCFe0F24208F90F62327D8B2A49f301 | OP\nSepolia\n[https://sepolia-optimism.etherscan.io/address/0xe12b48502dCFe0F24208F90F62327D8B2A49f301]\n\nGithub: GitHub - OptimisticCRTeam/on_chain_game: This on-chain game on the\nOptivision blockchain uses ERC721 NFTs for unique characters. The project\ncombines blockchain technology with interactive gameplay, offering a\ndecentralized and engaging gaming experience.\n[https://github.com/OptimisticCRTeam/on_chain_game]",
+      "created_at": "2024-08-02T17:18:37.270Z",
+      "trust_level": 1,
+      "username": "fab",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": "Superchain Donations\n\nTeam:\nManuel Macías - @jmaciasr [/u/jmaciasr] - (jmaciasr\n[https://github.com/jmaciasr]): 0x5DF685095135361f1b71c016eF3CA7214730b137\nKevin Latino - @KevinLatino [/u/kevinlatino] - (KevinLatino\n[https://github.com/KevinLatino]): 0x2a6e090de158c97fa26f9cb55936858996a9ab00\nAdrián Serrano (adriansb3105 [https://github.com/adriansb3105]):\n0x5770146155afB39E7751c69eB0018AD6FC0e1B22\n\nVideo Pitch: Link to video\n[https://drive.google.com/file/d/1HjHHt5oKSM-Zo2NjMsRdnHSOifBGA7--/view]\n\nDescription:\nDonation System is an innovative donation application built on the Ethereum\nblockchain platform. Our goal is to facilitate and make transparent donor\ncontributions to various projects through the implementation of smart contracts.\nWith this solution, we seek to increase trust and efficiency in the donation\nprocess, ensuring that funds reach the beneficiary projects safely and directly.\n\nContract: DonationSystem | Address 0x62D02b483b816476be983b8c1dfb52Da8240f4c6 |\nOP Sepolia\n[https://sepolia-optimism.etherscan.io//address/0x62D02b483b816476be983b8c1dfb52Da8240f4c6#readContract]\n\nCode Repo: https://github.com/KevinLatino/Solidity-Project\n[https://github.com/KevinLatino/Solidity-Project]",
+      "created_at": "2024-08-02T03:26:00.397Z",
+      "trust_level": 0,
+      "username": "adriansb3105",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": "Decentralized WAZE: Drive Alerts :world_map:\n[https://emoji.discourse-cdn.com/twitter/world_map.png?v=12] :warning:\n[https://emoji.discourse-cdn.com/twitter/warning.png?v=12]\n\n:people_holding_hands:\n[https://emoji.discourse-cdn.com/twitter/people_holding_hands.png?v=12] Team:\n\nLiseth González: [https://github.com/Mgonzalez06]\n0xa6a2d0e8b62AC621D1Cd57347722dd382B14fea1\nJeremy Villegas: [https://github.com/Villegas2003]\n0x9Ca6F41211eB6CF5CB111DfF22809772E857b597\nJosías Hidalgo: [https://github.com/Ppixelbro]\n0x475B761f6c2A557aE104E1267393Fd85AADd2696\n\n:movie_camera: [https://emoji.discourse-cdn.com/twitter/movie_camera.png?v=12]\nVideo Pitch: Drive Alerts Overview\n[https://drive.google.com/file/d/1uKSqstT4LvtninKe-8gon_PbwBciemWn/view?usp=sharing]\n\n:memo: [https://emoji.discourse-cdn.com/twitter/memo.png?v=12] Description\nThis project is a decentralized platform for real-time traffic reporting,\nleveraging blockchain technology to ensure transparency and security. Users can\nsubmit and verify traffic reports.In the future, this will allow to earn tokens\nas incentives for accurate contributions. A point-based reputation system\nensures the reliability of the information shared. The platform’s decentralized\nnature makes it resistant to censorship and manipulation. Overall, it aims to\nimprove traffic conditions and help drivers make informed decisions.\n\n:bookmark_tabs: [https://emoji.discourse-cdn.com/twitter/bookmark_tabs.png?v=12]\nContract: TrafficData\n[https://sepolia-optimism.etherscan.io/address/0x72A2a5106cFdfC55D2BADC4e3cea3B7E3484027B#code]\n\n:books: [https://emoji.discourse-cdn.com/twitter/books.png?v=12] Github\nSmart Contract: drive-alerts-contract\n[https://github.com/Mgonzalez06/drive-alerts-contract]\nFront-end: drive-alerts-front-end\n[https://github.com/Mgonzalez06/drive-alerts-contract]",
+      "created_at": "2024-08-02T14:26:00.536Z",
+      "trust_level": 1,
+      "username": "Mgonzalez06",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    }
+  ],
+  "created_at": "2024-08-02T00:27:42.424Z"
+}

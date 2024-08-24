@@ -1,0 +1,60 @@
+{
+  "title": "Voting Cycle #6: Roundup",
+  "content": "VOTING CYCLE #6: ROUNDUP\n\nVoting Cycle 6 began on Thursday (September 8th) at 12pm PST / 7pm GMT and runs\nuntil Wednesday (September 28th) at 12pm PST / 7pm GMT.\n\nA snapshot of delegate voting weights was taken at the start of the Voting\nCycle. Voting will take place via Snapshot during Week 3 of the Voting Cycle.\n\nFor a detailed breakdown of the governance and voting process, please see the\nupdated Operating Manual\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md].\n\n\nCONTEXT\n\nVoting Cycle 6 is officially underway! Provided your proposal has received\nexplicit approval comments from two delegates with >0.5% voting power, as\noutlined in the Operating Manual\n[https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md],\nplease use the below format to list your proposal in a reply to this post.\n\n * Proposal A: [NAME]\n   * Proposal: [LINK]\n   * Delegate Approval 1: [LINK]\n   * Delegate Approval 2: [LINK]\n\nProposals will be included in the Snapshot vote only if they (a) have explicit\ndelegate approval and (b) are added to this Voting Cycle Roundup thread.\n\nPlease remember that all grant recipients will need to provide KYC information\nto the Optimism Foundation to receive this grant. Proposals that have not agreed\nto this by checking “Yes” to the related field in the grant proposal template\n[https://gov.optimism.io/t/grant-proposal-template/3233], will not be included\nin the Voting Roundup.",
+  "views": 4912,
+  "like_count": 22,
+  "word_count": 1130,
+  "answer": [
+    {
+      "content": "Proposal A: Otterspace\n\n * Proposal: [REVIEW] [GF: Phase 1 Proposal] Otterspace\n   [https://gov.optimism.io/t/review-gf-phase-1-proposal-otterspace/3445]\n * Delegate Approval 1: Juanbug\n   [https://gov.optimism.io/t/review-gf-phase-1-proposal-otterspace/3445/8]\n * Delegate Approval 2: NathanVDH\n   [https://gov.optimism.io/t/review-gf-phase-1-proposal-otterspace/3445/9]",
+      "created_at": "2022-09-16T09:57:59.250Z",
+      "trust_level": 2,
+      "username": "Lukas",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Proposal A: Tarot\n\n * Proposal: [REVIEW] [GF: Phase 1 Proposal] Tarot\n   [https://gov.optimism.io/t/review-gf-phase-1-proposal-tarot/3002]\n * Delegate Approval 1: jackanorak\n   [https://gov.optimism.io/t/review-gf-phase-1-proposal-tarot/3002/50]\n * Delegate Approval 2: solarcurve\n   [https://gov.optimism.io/t/review-gf-phase-1-proposal-tarot/3002/51]",
+      "created_at": "2022-09-20T01:25:33.007Z",
+      "trust_level": 2,
+      "username": "TigrisOfGaul",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": " * Proposal A: Bankless Academy\n   \n   * Proposal: [READY][GF: Phase 1 Proposal] Bankless Academy v2\n     [https://gov.optimism.io/t/review-gf-phase-1-proposal-bankless-academy-v2/3353]\n   * Delegate Approval 1: katie\n     [https://gov.optimism.io/t/ready-gf-phase-1-proposal-bankless-academy-v2/3353/34]\n   * Delegate Approval 2: mastermojo\n     [https://gov.optimism.io/t/review-gf-phase-1-proposal-bankless-academy-v2/3353/33]",
+      "created_at": "2022-09-20T17:41:06.112Z",
+      "trust_level": 2,
+      "username": "Tetranome",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Proposal A: Kromatika Finance\n\n * Proposal: [Review] [GF: Phase 1 Proposal Cycle 6] Kromatika\n   [https://gov.optimism.io/t/review-gf-phase-1-proposal-cycle-6-kromatika/3306]\n\n * Delegate Approval 1: @katie [/u/katie] ([Review] [GF: Phase 1 Proposal Cycle\n   6] Kromatika - #12 by katie\n   [https://gov.optimism.io/t/review-gf-phase-1-proposal-cycle-6-kromatika/3306/12])\n\n * Delegate Approval 2: @OPUser [/u/opuser] ([Review] [GF: Phase 1 Proposal\n   Cycle 6] Kromatika - #17 by OPUser\n   [https://gov.optimism.io/t/review-gf-phase-1-proposal-cycle-6-kromatika/3306/17])",
+      "created_at": "2022-09-22T03:12:25.051Z",
+      "trust_level": 2,
+      "username": "Kromatika",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Proposal A: OptiChads\n\n * Proposal: [READY] [GF: Phase 1 Proposal] OptiChads NFT Project\n   [https://gov.optimism.io/t/review-gf-phase-1-proposal-optichads-nft-project/3430]\n * Delegate Approval 1: OPUser\n   [https://gov.optimism.io/t/review-gf-phase-1-proposal-optichads-nft-project/3430/41]\n * Delegate Approval 2: MoneyManDoug\n   [https://gov.optimism.io/t/review-gf-phase-1-proposal-optichads-nft-project/3430/43]",
+      "created_at": "2022-09-22T17:46:39.141Z",
+      "trust_level": 2,
+      "username": "Dicaso",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2022-09-15T16:25:25.911Z"
+}

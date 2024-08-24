@@ -1,0 +1,60 @@
+{
+  "title": "[DEPRECATED][GF: Phase 1 Proposal] MakerDAO",
+  "content": "Project Name: MakerDAO\n\nAuthor Name: @Facundo [/u/facundo] @JenSenhaji [/u/jensenhaji]\n\nNumber of OP tokens requested: 500,000\n\nL2 Recipient Address: TBD\n\nRelevant Usage Metrics: (TVL, transactions, volume, unique addresses, etc.)\n\nYou can see an overview of MakerDAO’s metrics at @SebVentures’s Dune here\n[https://dune.com/SebVentures/maker---accounting_1]\n\nHighlights:\n\nCurrently, Maker has +6 billion Dai in circulation with +$8 billion of total\nvalue locked as collateral across hundreds of thousands of loans. MakerDAO is #1\nin TVL on Mainnet and DAI is the most used stablecoin in terms of on-chain\nvelocity [https://dune.com/queries/865988]\n\nSince July 21’, Dai is supported in the Optimism ecosystem through the Optimism\nofficial bridge. Dai is one of the most used stable-coins in Optimism with over\n~$20M liquidity and it was the first stablecoin to reach 1M and 50M in TVL on\nOptimism.\n\nDai is supported across almost all the dApps in the Optimism ecosystem. For\nexample, users could lend Dai in Aave v3, swap in Uniswap/Curve and leverage LPs\npositions into Arrakis Finance, to mention some use-cases.\n\nUSDC/DAI is the pair with the highest TVL across Uniswap and WETH/DAI has over\n~$12M 7d volume, being this the 2º highest WETH pair with a stable-coin.\n\nIn Aave v3, Dai is the most lended stable-coin behind USDC with ~$1.1M.\n\nOptimism alignment (up to 200 word explanation):\n\nAt the end of July/August, Maker is planning to launch a fast-withdrawals bridge\nfor Dai to allow users to withdraw Dai near-instant and skip the 7 days lockup\nperiod.\n\nThe Maker protocol is uniquely positioned to provide a solution to the 7 days\nperiod problem while preserving trustlessness and decentralization. The\nfast-withdrawal bridge will allow locking up L1 DAI to mint L2 DAI as well as\nallowing L2 DAI to be burned in exchange for near-instant access to L1 DAI.\n\nThis will attract a constant flow of users and liquidity towards Optimism since\nusers will have the possibility to constantly move Dai between L1 and L2\ninstantly. The average user will not want to wait a week to get their assets\ninto L1. The Optimism Dai Bridge can serve as the go-to service for exiting L2\nin a timely manner.\n\nMoreover and regarding Maker’s Multichain Strategy, the Maker protocol is going\nto launch ‘Maker Teleport’ (previously Wormhole\n[https://forum.makerdao.com/t/introducing-maker-wormhole/11550]), a path for\nteletransporting Dai between supported Layer 2 and Ethereum.\n\nAs the Layer 2 ecosystem evolves and DAI liquidity grows within these domains,\nit will become important for users to be able to move DAI between them in a\ntrustless manner. This initiative to Teleport Dai across Layer 2 ecosystems,\nstarting with Optimism and Arbitrum, will become an integral feature of the\nfungibility of Layer 2 Dai.\n\nThe Optimism and MakerDAO communities have the same goal: to scale Ethereum.\nThis is a game changer not only for Maker, but the Ethereum ecosystem at large\nas we can finally offer a fast, trustless, decentralized off-ramp for optimistic\nrollups.\n\nMoving forwards, the launch of MCD in Optimism is targeted to be released on Q4\n2022.\n\nProposal for token distribution (under 1000 words):\n\nHow will the OP tokens be distributed?\n\nAs a full DAO, any distribution would need to be approved by MKR holders, but\nthe team making this proposal (Maker Growth Core Unit) will be recommending the\nfollowing:\n\n * Once MCD is launched in Optimism (expected on Q4 2022), a great way to\n   incentivize users to take a Dai loan will be to allocate OP rewards to Maker\n   vaults.\n * Incentivize LPs Dai pairs\n\nHow will this distribution incentivize usage and liquidity on Optimism?\n\n * MakerDAO is a tier 1 protocol battle-tested and users will want to take\n   advantage of it as it represents a safe place to put their crypto holdings to\n   take a Dai loan and use it across the Optimism ecosystem.\n\nWhy will the incentivized users and liquidity remain after incentives dry up?\n\n * Low transaction fees on Optimism will attract users who are price sensitive\n   to using Maker Vaults on L1, bringing more liquidity and users to Optimism.\n * Maker has never relied on rewards for usage and has consistently been a top\n   ranked protocol by TVL over the years.\n\nOver what period of time will the tokens be distributed?\n\n * 6 months.\n\nHow much will your project match in co-incentives?\n\n * Up to discussion within the Maker community (DAO).",
+  "views": 2785,
+  "like_count": 104,
+  "word_count": 2987,
+  "answer": [
+    {
+      "content": "What took you so long…welcome to the party.",
+      "created_at": "2022-06-23T19:07:54.247Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 8
+    },
+    {
+      "content": "Hey @Facundo [/u/facundo] welcome! Very nice to see you post here. Big user of\nmakerdao on L1 and would love to see you on Optimism too.\n\n\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/facundo/48/167_2.png]\nFacundo:\n\n> Once MCD is launched in Optimism (expected on Q4 2022), a great way to\n> incentivize users to take a Dai loan will be to allocate OP rewards to Maker\n> vaults.\n\nCan you provide more details on how this would look like? Would it be OP per\nday? Allocaed at creation? Accrued along with the DAI payback debt?\n\n\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/facundo/48/167_2.png]\nFacundo:\n\n> As the incentives to scale Ethereum are aligned between MakerDAO and Optimism,\n> it’ll be a great deal for both communities to save a % (up to Optimism’s\n> governance) so that the Maker governance gains voting power in the governance\n> decisions.\n\nI am not sure I understand what you mean by this point. Could you elaborate a\nbit?",
+      "created_at": "2022-06-23T20:54:19.659Z",
+      "trust_level": 2,
+      "username": "lefterisjp",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": "Thanks for support.You can read about Maker Multichain Strategy\n[https://forum.makerdao.com/t/a-multichain-strategy-and-roadmap-for-maker/8380?u=jenn]\nhere.\n\nWe will need to work with the Maker community (via a governance vote) to\ndetermine the specific design of the incentives but the idea is that users who\nopen a Maker Vault and mint DAI on Optimism (once we deploy MCD contracts there\n- targeting Q4 2022), will earn OP tokens. There is already huge demand for\nminting DAI on L2s to save on gas costs, and by adding in an incentive to this\naction will bring a lot of usage to Optimism.",
+      "created_at": "2022-06-23T22:18:20.068Z",
+      "trust_level": 2,
+      "username": "JenSenhaji",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 6
+    },
+    {
+      "content": "This is very good for the Optimsim ecosystem. However, I would like to know more\ndetails about the incentives they are going to give for the DAI loan.\nIf you have a more detailed proposal on how you are going to distribute the\nincentives and more specifics of the MCD launch in the Optimsim network it would\nbe good for all participants to know.",
+      "created_at": "2022-06-23T19:23:58.966Z",
+      "trust_level": 2,
+      "username": "AxlVaz",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Interesting thank you!\n\n\n[https://dub1.discourse-cdn.com/bc41dd/user_avatar/gov.optimism.io/facundo/48/167_2.png]\nFacundo:\n\n> But again, this is just a proposal from Growth, not MakerDAO as a whole. This\n> would have to be approved by MKR holders.\n\nI see. So how should this proposal eventually go?\n\n 1. You see the general feeling of OP governance and any feedback we give?\n 2. Go back to MakerDAO for a concrete proposal on numbers?\n 3. Come back here put in the numbers and the details and change it to READY and\n    then it gets included in the next round of votes?",
+      "created_at": "2022-06-24T20:29:06.528Z",
+      "trust_level": 2,
+      "username": "lefterisjp",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    }
+  ],
+  "created_at": "2022-06-23T19:03:06.108Z"
+}

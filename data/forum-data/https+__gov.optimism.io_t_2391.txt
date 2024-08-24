@@ -1,0 +1,40 @@
+{
+  "title": "The best of both worlds ($OP/$ETH)",
+  "content": "There seems to have been quite the debate lately on whether or not to use $OP as\nthe token for gas payments.\n\nWhile this may look like the most uniform and best way to go, some users have\nrightfully pointed out that this mechanism is terrible for value accrual towards\nthe $OP token itself.\nThe reason for this is because Optimism’s security still comes from Mainnet\nEthereum. Hence the fees for this security need to be paid in Ether.\n\nThis means that the protocol becomes a perpetual seller of its token to capture\n$ETH in order to pay for this security. I’m sure you can see why it’s not the\ngreatest idea to have consistent selling pressure from the protocol itself.\n\nOkay so how do we go about this? How can we increase demand for the $OP token if\nit’s not going to be used for gas? How do we make sure that $OP does not just\nbecome another worthless governance token?\n\nHere’s an idea:\n\nA token that generates $ETH for stakeholders (or stakers) while simultaneously\nburning itself EIP-1559 style with every transaction. Here’s how it would work\nin theory:\n\nUsers transact on Optimism > Gas fees are paid in $ETH > L1 Fees are subtracted\n> Leftover fees get added to the treasury > the treasury uses 20-30% of $ETH\ngenerated to buy and burn $OP > 70-80% of the $ETH fees that’s left gets spread\nacross staked $OP tokens.\n\nThis way, the Optimism economy is perpetually rewarding itself as usage grows,\nwhile being able to incentivize growth with a token that has created a “value”\nloop as antidote to the worthless governance token sickness.\n\nAssets that generate $ETH for their holders will significantly outperform in the\nlong run imo. $OP can either become one of these assets or eventually be vampire\nattacked by an anon team.\n\nThis only concerns “revenue” generated from transaction fees and what to do with\nit. Not related to the community fund of $OP tokens that reward projects or\ncharities etc.\n\nWhat do you guys think?",
+  "views": 1760,
+  "like_count": 8,
+  "word_count": 383,
+  "answer": [
+    {
+      "content": "its a clever ldea, especially fee capture and burning,. keeping eth as\nsettlement token is the move in my opinion.",
+      "created_at": "2022-06-04T13:30:12.514Z",
+      "trust_level": 0,
+      "username": "whitewater1",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "I can get behind this !",
+      "created_at": "2022-06-03T10:42:38.827Z",
+      "trust_level": 2,
+      "username": "0xjason42069",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Nice! thank you for this post :grin:\n[https://emoji.discourse-cdn.com/twitter/grin.png?v=12]",
+      "created_at": "2023-01-30T11:45:24.140Z",
+      "trust_level": 0,
+      "username": "Tr1rvy",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-06-03T07:39:14.106Z"
+}

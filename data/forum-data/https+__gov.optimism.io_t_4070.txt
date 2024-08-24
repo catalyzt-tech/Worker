@@ -1,0 +1,60 @@
+{
+  "title": "Possible criteria for Airdrop Round 2",
+  "content": "Are there any official statements on what criteria will be used for Airdrop\nRound 2?\n\nIf not, what are you all’s educated guesses on such criteria?\n\nI think there should be at least a few different criteria that make users\neligible that do not require a person to have funds to begin with. I think\nallowing people without initial funds to become eligible will increase the\nnumber of people who would subsequently join the community. It seems unfair for\nthe only criteria to involve users to spend/have $100 or more to begin with.",
+  "views": 2742,
+  "like_count": 53,
+  "word_count": 1128,
+  "answer": [
+    {
+      "content": "There are a lot of simple missions, so shouldn’t we just carry out what’s\npossible?",
+      "created_at": "2022-11-22T06:23:51.761Z",
+      "trust_level": 2,
+      "username": "hait",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "In my opinion, the criteria for an airdrop should not be obvious and the goal\nbehind it is clearly to reward real supporters of the blockchain. After we had a\nlot of airdrops on other platforms lately, a community emerged that uses the new\nblockchains solely for collecting airdrops, so the motivation behind most of the\nparticipants in the Optimism-Quest is just t farm a potential airdrop. Therefore\nI would rate the interaction done during this time less than the subsequent one,\nsince only people who really use the blockchain are rewarded and will also not\nmake a quick profit out of the airdrop put rather hold it for the long term.",
+      "created_at": "2023-01-27T09:55:27.238Z",
+      "trust_level": 1,
+      "username": "eliasmarquar",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "yes! right. There are so many things you can do with just 30 USDC. Let’s do\neverything possible.",
+      "created_at": "2022-11-24T04:40:32.926Z",
+      "trust_level": 2,
+      "username": "hait",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "In fact, I think now is a great opportunity to participate in all the events\nthat are just announced from the team like OP Quests, which are likely to be\nadded more\n\nAnd any activity that will positively affect the development of the ecosystem\nand its popularization will be noticed and eventually rewarded\n\nSo my opinion, now need to participate in the development of the ecosystem,\nwhich in any case will increase the chances of getting the next drop",
+      "created_at": "2023-01-25T21:14:20.245Z",
+      "trust_level": 2,
+      "username": "Mark.eth_De.Fi",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "It’s actually a great idea\n\nSince essentially the first airdrop was to get more attention, and now Optimism\nis already quite popular\n\nSo the idea that only users who are really involved and interested in developing\nOptimism will get airdrop sounds great",
+      "created_at": "2023-01-27T16:40:09.562Z",
+      "trust_level": 2,
+      "username": "Mark.eth_De.Fi",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2022-11-22T01:26:54.183Z"
+}

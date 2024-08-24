@@ -1,0 +1,9 @@
+{
+  "title": "Fight against phishing",
+  "content": "Request to create a centralized reporting site to combat fake sites and phishing\nattempts. maybe it already exists.",
+  "views": 264,
+  "like_count": 1,
+  "word_count": 18,
+  "answer": [],
+  "created_at": "2024-01-17T21:16:47.314Z"
+}

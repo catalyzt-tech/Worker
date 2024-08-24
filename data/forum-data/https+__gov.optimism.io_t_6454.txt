@@ -1,0 +1,50 @@
+{
+  "title": "Cycle 13: Final Grants Roundup",
+  "content": "The Grants Council has finished its review of Experiments and Builders Grants\nfor Cycle 13. Cycle 13 presented an opportunity to behold, and add to, the\ncompounding effect of having an operating system that works. While the number of\nproposals for Cycle 13 was ~34% higher than for Cycle 11, the Council was able\nto manage Intake, Preliminary, and Final Reviews within the allotted time, all\nwhile participating in the Missions process that is separate from the Council.\n\nDuring Cycle 13, the Grants Council evaluated projects on the merits of their\nsubmissions and reviewers conducted methodical analysis of the proposals. There\nwas a marked improvement in the quality of proposals on average, making this a\nvery competitive Cycle. The increase in proposals paired with an increase in\nnovel Web3 applications and use cases.\n\nOf the 106 proposals, the Council voted in favor of 26 (24.5% grant rate vs\n33.8% for S3). The Experiments Sub-Committee has voted in favor of 10 projects\n(a 21% grant rate vs 27% for S3). The Builders Sub-Committee has voted in favor\nof 16 projects (a 33% grant rate vs. 46% for S4). Some qualified projects were\nnear-misses and are encouraged to submit again within Cycles 14 or 15. As a\nreminder, proposals are now open until July 27 for Cycle 14 on CharmVerse\n[https://app.charmverse.io/op-grants/page-701220845245208].\n\nAs we move into the remainder of the Season, the Council will focus on\ninitiating more Requests for Grants (RFGs) and on improving the quality of\ninteractions between reviewers and proposers. The Grants process is working well\nand we are looking forward to making improvements for the rest of Season 4.\n\nHere are the Finalists.\n\nBuilders\n\nAragon [https://app.charmverse.io/op-grants/page-26434470823516043] (40k OP)\n\nAtlantis World [https://app.charmverse.io/op-grants/page-002013077512341477]\n(50k OP)\n\nCannon [https://app.charmverse.io/op-grants/page-5416832246367627] (50k OP)\n\nConcrete [https://app.charmverse.io/op-grants/page-6441697637715833] (35k OP)\n\nDAOstar [https://app.charmverse.io/op-grants/page-31849314357430236] (37.5k OP)\n\nDeSci World [https://app.charmverse.io/op-grants/page-05034117397967264] (20k\nOP)\n\nDRPC.ORG [https://app.charmverse.io/op-grants/page-060395295736737964] (25k OP)\n\nEAS: Supercharged [https://app.charmverse.io/op-grants/page-4929520669085159]\n(50k OP)\n\nevm-runners [https://app.charmverse.io/op-grants/page-04904066108713878] (25k\nOP)\n\nHildr [https://app.charmverse.io/op-grants/page-4923039239406415] (25k OP)\n\nKarma Grantee Accountability Platform\n[https://app.charmverse.io/op-grants/page-8610956286418354] (30k OP)\n\nOpensource Observer [https://app.charmverse.io/op-grants/page-37085606550601957]\n(50k OP)\n\nPyth Network [https://app.charmverse.io/op-grants/page-5841556062470414] (40k\nOP)\n\nRedstone [https://app.charmverse.io/op-grants/page-472203923295754] (40k OP)\n\nsimple-op-stack-rollup\n[https://app.charmverse.io/op-grants/page-3173529621090243] (45k OP)\n\nUnruggable Names [https://app.charmverse.io/op-grants/page-010385540509752822]\n(30k OP)\n\nExperiments\n\nAura Finance [https://app.charmverse.io/op-grants/page-28011280168279695] (150k\nOP)**\n\nDeBridge [https://app.charmverse.io/op-grants/page-7188606653226921] (100k OP)\n\nExtra Finance [https://app.charmverse.io/op-grants/page-6021070241317961] (104k\nOP)\n\nLayerswap [https://app.charmverse.io/op-grants/page-11715414130871094] (145k OP)\n\nMetronome [https://app.charmverse.io/op-grants/page-22897584240822377] (149k OP)\n\nOmniBTC [https://app.charmverse.io/op-grants/page-036539591588051756] (90k OP)\n\nOP Podcast NFTs [https://app.charmverse.io/op-grants/page-044553172544991915]\n(500 OP)\n\nPendle [https://app.charmverse.io/op-grants/page-6124470947029701] (112k OP)\n\nTide Protocol [https://app.charmverse.io/op-grants/page-20375805288244586] (40k\nOP)\n\nVelodrome [https://app.charmverse.io/op-grants/page-22736248798191516] (150k\nOP)**\n\nRFG\n\nWakeUp Labs [https://app.charmverse.io/op-grants/page-03682508781749161] (30k)\n\nThe finalists can expect outreach from the Foundation to handle KYC,\ndistribution of the grants, and other details in the near term. As always, you\ncan reach out to the Council with any questions at grants@optimism.io\n[grants@optimism.io]. Final milestones will be added as a comment to this post\nduring the week of July 24 or sooner.\n\nThe conferral of a grant is not an explicit or implicit promotion or endorsement\nof the projects, their representations, or their underlying products but rather\nan acknowledgement that the projects’ applications were deemed most suited to\nreceive a grant given the parameters applied by the mandate of Season 4\ngovernance.\n\n**Note that the Grants Council held a vote regarding projects requesting more\nthan 150k and resolved to grant only 150k in line with the Season 4 charter,\nprimarily based on budget considerations and to favor availability for more\nprojects.",
+  "views": 3609,
+  "like_count": 14,
+  "word_count": 968,
+  "answer": [
+    {
+      "content": "GM @Peter [/u/peter] !\nThe Builders Sub-Committee aims to maximize the number of builders (developers\nand visionaries) building novel applications on Optimism.\n\nThe Growth Experimentation Sub-Committee aims to maximize the number of users\ninteracting with novel applications on Optimism.\n\nYou can find more information here: CharmVerse - the all-in-one web3 space\n[https://app.charmverse.io/invite/5e28cc] And if you have any questions left,\nyou can ask in the grants [/tag/grants] channel within the Discord Server\n[https://discord.gg/optimism].",
+      "created_at": "2023-07-24T16:59:28.833Z",
+      "trust_level": 4,
+      "username": "brichis",
+      "admin": false,
+      "moderator": true,
+      "staff": true,
+      "like_count": 1
+    },
+    {
+      "content": "Gm!\n\nA couple of questions:\n\n 1. Will attestations be issued to Grants finalists by the OP Grants Council?\n    If so: what kind of information will be included in the attestations or\n    would be valuable to include for it to be used by the grants committee? (if\n    this has been thought out and a schema selected please share the number)\n 2. Is there a showcase space (beyond the forum) or “show and share” call\n    between where selected grant recipients can interact with each other? As an\n    EF grant recipient who has participated in such an effort, it has been a\n    very efficient method to identify how grantees can leverage what other\n    grantees have been building.\n\nThanks!",
+      "created_at": "2023-08-23T01:20:47.868Z",
+      "trust_level": 3,
+      "username": "LauNaMu",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "What are the differences between Buidlers and Experiments categorization?",
+      "created_at": "2023-07-21T03:58:03.611Z",
+      "trust_level": 1,
+      "username": "Peter",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Milestones for the Cycle can be viewed here\n[https://docs.google.com/spreadsheets/d/165QHm7ffaPsV2-_6zKEBsb8tDwUc1W61PxQn_nVTVac/edit?usp=sharing].",
+      "created_at": "2023-07-25T04:02:27.629Z",
+      "trust_level": 4,
+      "username": "GrantsOps",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2023-07-16T03:17:16.764Z"
+}

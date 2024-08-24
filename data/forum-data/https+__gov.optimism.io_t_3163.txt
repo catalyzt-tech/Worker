@@ -1,0 +1,60 @@
+{
+  "title": "[Original post] [GF: Phase 1] Across Protocol",
+  "content": "IMPORTANT NOTE: Optimism governance has taken a Reflection Period, during which\ntime they implemented changes to their proposal process. As a result, this\nproposal will be updated to the new format in a NEW post. That post will include\na link to this proposal in order to preserve the discussion in comments below.\nYou can read the new post here\n[https://gov.optimism.io/t/review-gf-phase-1-proposal-across-protocol-updated-template/3401].\n\n\nOVERVIEW\n\nProject Name: Across Protocol\n\nAuthor Name: Across community + Risk Labs\n(Britt is the author of this post, and the best point of contact. She is the\ncommunity lead for Across, employed by Risk Labs. Risk Labs is the foundation\nthat built and supports Across)\n\nNumber of OP tokens requested: 1,000,000 $OP\n\nTimeline for distribution: until they run out. We hope to see these rewards\ndistributed over a 9-12 month period.\n\nL2 Recipient Address:\n0x8180d59b7175d4064bdfa8138a58e9babffda44a\n\n\nRELEVANT USAGE METRICS: (TVL, TRANSACTIONS, VOLUME, UNIQUE ADDRESSES, ETC.)\n\n * Total Bridge Volume: $448,940,817\n * TVL: $71,290,836 in total\n * Total Bridge Users: 70,331\n * Total Transfers: 161,586\n\n\nOPTIMISM ALIGNMENT:\n\nAcross is the fastest, cheapest and most secure bridge between L1 and L2s.\nAcross protocol is a novel bridging method that combines an optimistic oracle,\nbonded relayers and single-sided liquidity pools to provide decentralized\ninstant transactions from rollup chains to and from Ethereum mainnet.\nAcross Protocol supports bridging to and from Optimism from Ethereum mainnet and\nL2s. UMA launched Across Protocol in early November 2021. Across is a bridging\nsolution which uses UMA’s Optimistic Oracle.\n\n\nPROPOSAL FOR TOKEN DISTRIBUTION:\n\nWe have two planned mechanisms for the distribution of $OP tokens. We aim to use\n75% of the tokens to subsidize bridge fees for users that would like to transfer\nassets to Optimism. Currently, we support USDC, ETH, DAI, WBTC, and UMA. The\nremaining 25% of the tokens will be used to reward anyone outside of Risk Labs\n(the team who builds and supports Across) who runs a relayer on Optimism.\n\n\nHOW WILL THE OP TOKENS BE DISTRIBUTED?\n\nBridge Users\nFor any user going to Optimism, we will rebate their bridge fee 105% (so they\nwill earn 5% to bridge to Optimism). The composure of this rebate depends on\nwhether or not the user is already earning $ACX rewards on their transaction. If\nthere is no $ACX reward, the bridge fee will be rebated back 80% $OP and 25%\n$ACX. If there is an $ACX reward, the $OP amount will be (105%-$ACX%). All of\nthis will be computed on the bridge fee component of a transfer and capped at 12\nbasis points (which covers the entire fee during periods of low to moderate\nbridge utilization.\n\nNote: Across differentiates between the bridge fee and the gas fee. This\ndistribution is only applied to bridge fees, so network conditions that cause an\nincrease in gas fees should not make an impact in this program. For more\ninformation on our bridge fees, you can see this\n[https://docs.across.to/v2/how-does-across-work/fees] section of our docs site.\n\nRelayers\nWe will direct 25% of this grant towards rewarding non-Risk Labs relayers that\nfacilitate transfers to Optimism. This will be dispersed as 0.01% (1bp) on the\namount transferred in each relay. For context, this is equal to a 33% bonus for\nrelayers operating on Optimism. This incentive will last until the 25% is\nexhausted.\n\nNote: This was an addition to the original proposal, which only rewarded bridge\nusers. It was decided that this would serve to enhance the overall bridge\nexperience for Optimism users, making it a worthwhile investment. Having a\nrobust relayer network strengthens the security mechanism of the bridge, and\nreduces transaction times during high traffic events.\n\n\nHOW WILL THIS DISTRIBUTION INCENTIVIZE USAGE AND LIQUIDITY ON OPTIMISM?\n\nUsers will only receive the tokens if they bridge assets to Optimism or run a\nrelayer on Optimism. Both of these require people to move their funds to\nOptimism.\n\n\nWHY WILL THE INCENTIVIZED USERS AND LIQUIDITY REMAIN AFTER INCENTIVES DRY UP?\n\nBecause they will find all the great dapps on Optimism and want to stay!\n\n\nOVER WHAT PERIOD OF TIME WILL THE TOKENS BE DISTRIBUTED?\n\nThis depends on bridging volume we see to Optimism. Hopefully it is large and\ntokens are all used within 1 year.\n\n\nHAS YOUR PROJECT PREVIOUSLY RECEIVED AN OP TOKEN GRANT? IF YES, WHAT’S THE\nSTATUS OF THESE TOKENS?\n\nNo\n\n\nHOW MUCH WILL YOUR PROJECT MATCH IN CO-INCENTIVES?\n\nFor bridge users, we will match between 31% to 320% depending on the type of\ntransaction as explained above. Here is how that math works out. If a bridgooor\nuses a ref link and is Platinum then they get 80% rebate in $acx and 25% in $op.\n80/25 = 320%. If a bridgooor doesn’t use ref link, they get 80% $op and 25%\n$acx. 25/80 = 31%.",
+  "views": 4979,
+  "like_count": 118,
+  "word_count": 5059,
+  "answer": [
+    {
+      "content": "Proposal looks great and would definitely bring value to OP!",
+      "created_at": "2022-07-29T15:59:36.031Z",
+      "trust_level": 1,
+      "username": "scarlet",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 7
+    },
+    {
+      "content": ":blush: [https://emoji.discourse-cdn.com/twitter/blush.png?v=12] In general I\nlike the proposal, for bridge the form of user incentive is correct, but it\nwould probably be better if the refundable fee would be 80-90% max.99% but not\n105%. Just my opinion.",
+      "created_at": "2022-07-29T18:45:07.245Z",
+      "trust_level": 2,
+      "username": "diligit",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Fair point! I’m the community lead for Across, employed by Risk Labs. I can add\nthat context in that section if it helps :slightly_smiling_face:\n[https://emoji.discourse-cdn.com/twitter/slightly_smiling_face.png?v=12]",
+      "created_at": "2022-07-29T18:27:54.381Z",
+      "trust_level": 1,
+      "username": "britt",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "There are 2 things that make it less gameable:\n\n 1. they only get paid the incentive going to optimism. so they would have to\n    pay the proper fee to leave optimism.\n 2. We are only subsidizing the bridge fee component, not the destination gas\n    fee. so the user will not immediately profit a full 5% in going to optimism.\n    (Destination gas fee may be pretty small though, so this point is less\n    meaningful than the first).\n\nIn theory, you still have to want to be going to Optimism for this to be\nmeaningful.",
+      "created_at": "2022-07-29T18:50:16.765Z",
+      "trust_level": 1,
+      "username": "britt",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "Looks like a sound idea and the execution looks straightforward.\n\nDo you have a way to prevent users who bridge funds from cycling the funds\nrepeatedly to game the incentive program?",
+      "created_at": "2022-07-29T18:23:18.588Z",
+      "trust_level": 2,
+      "username": "FantomFunhouse",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2022-07-29T15:36:01.880Z"
+}

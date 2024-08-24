@@ -1,0 +1,60 @@
+{
+  "title": "Season 5 Feedback Thread",
+  "content": "Creating a place for delegates and gov participants to provide feedback on\nSeason 5.\n\nPlease leave constructive feedback so we keep the signal to noise ratio high in\nhere! All forum engagement is subject to the Forum Rules of Engagement\n[https://gov.optimism.io/t/rules-of-engagement/5]",
+  "views": 1394,
+  "like_count": 51,
+  "word_count": 2203,
+  "answer": [
+    {
+      "content": "Wanted to float an idea:\n\nRequire that the grants council has at least 1 new member every season.\n\nPros: prevents capture & entrenchment, encourages new participation\nCons: adds complexity to governance, may end up with a less qualified candidate\n\nWith ~10 reviewers, I think it’s a fairly low bar to hit and is likely to happen\nnaturally. But if it’s something that isn’t happening on it’s own, I think\nadding a little entropy to the system would make it more robust.\n\nCurious to hear other peoples thoughts!\n\nAlso for context; I’ve served on the grants council since it’s inception. I\nthink the current council is doing an amazing job, but I also see that getting\nelected may seem like an impossible task for a newcomer who might otherwise\napply.\n\nedit: Adding that two advantages this has over term limits is that 1) the best\nmembers will theoretically stay on the council and 2) lower risk of the majority\nof the council churning at the same time (which would lose a lot of\nprocess/knowledge in the transition).",
+      "created_at": "2024-05-10T02:04:13.088Z",
+      "trust_level": 3,
+      "username": "Michael",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 11
+    },
+    {
+      "content": "Now that we’re in the second half of Season 5, I have crafted some feedback to\nconsider during the upcoming reflection period and the next season.\n\n\nPROCEDURES\n\n * On Protocol upgrades:\n\n 1. In line with the suggestions made by Polynya here\n    [https://gov.optimism.io/t/upgrade-proposal-6-multi-chain-prep-mcp-l1/7677/10],\n    in the future, any protocol upgrade proposals should be voted on at a more\n    measured pace, for instance, a maximum of one per voting cycle. Unless they\n    are deemed critical upgrades or subjected to a one-package release, users\n    should not be subjected to multiple changes to their systems, regardless of\n    the nature of those changes. It can be argued that from the perspective of a\n    developer or operator, implementing multiple changes simultaneously is more\n    convenient. However, from a security and monitoring standpoint, addressing\n    changes one at a time is more prudent. Nonetheless, it’s worth noting that\n    our pace of implementation remains significantly faster than Ethereum\n    already.\n\n * On Mission Requests and grants:\n\n 1. Now that we all have passed the first crafting mission requests experience,\n    there’s significant room for improvement in the scope, quality, and breadth\n    of future proposed mission requests, moving beyond those tailored to very\n    specific tasks. The Grants Council has performed excellently during cycle\n    19, ensuring the approval of suitable proposals, and we’re doing our best\n    for cycle 20 and so on. As delegates, our focus now shifts towards devising\n    more impactful mission requests, as well as more professional description\n    structures.\n\n 2. I’ve received feedback indicating confusion regarding the continuation of\n    the Builder and Growth & Experiments as mission requests. Some individuals\n    were under the impression that these programs had concluded. Specifically,\n    the Builder and Growth & Experiments grants programs should be\n    categorized/communicated better, either under the existing mission requests\n    program or another designed in the future. Therefore, I recommend clarifying\n    the distinction between “tailored/tematic” mission requests and these are\n    more like “freestyle” programs.\n\n 3. Considering that badgeholders/citizens become involved towards the end of\n    the process, where they assess the impact of the missions conducted, it\n    seems prudent to encourage their participation or discussion during the\n    preparation of mission requests. However, I am unsure of the best method to\n    facilitate this, beyond acknowledging them as recognized community members.\n\n 4. The term ‘baseline grant amount’ was not always well understood among MR\n    proposers and applicants. It is clearer to discuss in terms of ‘maximum\n    budget available’ and ‘maximum team applicants’ only.\n\n\nSTRATEGY\n\n 1. Competence among Layer 2’s chains is getting bigger, my feeling is that the\n    pace of the current Grants conducted by the Governance is too slow for\n    protocols to move properly, especially when it comes to user incentives,\n    such as in DeFi. Thorough reviews are necessary, but opportunities for\n    applications like these only arise a few times during the year (currently 4\n    periods, extrapolating Season 5 timeline into Season 6).This is not good.\n    Surely, more continuous application periods would be beneficial. I hope to\n    expand more on this case in the coming weeks.\n\n 2. Aligned marketing services are crucial here, in many cases we need to get\n    the most competent teams for mission requests. Retro Funding alone does not\n    appear to be a sufficient incentive to undertake such dedicated activities.\n    One alternative approach to alignment is to grant greater ownership to\n    proposers and encourage them—through attestations, rewards, points,\n    whatever—to disseminate information themselves.\n\nI hope the Collective Feedback Commission\n[https://gov.optimism.io/t/introducing-the-collective-feedback-commission/7863/6]\ntakes these thoughts into consideration. I’m open to discussing them further\nbelow. I will add any additional points to the thread later on.",
+      "created_at": "2024-04-16T01:47:36.204Z",
+      "trust_level": 2,
+      "username": "Joxes",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 8
+    },
+    {
+      "content": "As we just discussed in the first token + citizen house call we should think a\nbit on the quorum needed for citizen vetoing and the rules around it.\n\nBeing a citizen (badgeholder) comes with a set of responsibilities such as\nparticipating in RPGF and participating in the very few votes needed for the\ncitizens.\n\nTo that end I believe we should:\n\n 1. Add a YES/NO to vetos. So that we can have an active voting citizenship set.\n 2. Make it a requirement to have a minimum voting participation. Missing a\n    number of votes all the time without any actual excuses should have\n    penalties which could eventually lead to loss of citizenship. May sound\n    harsh but the reality is that this the badge/citizenship is not a status\n    symbol. It’s a responsibility. And if it’s not exercise the entire citizen\n    house would be in danger due to inaction and inability to vote or reach\n    quorum.\n 3. If a citizen votes to veto something, they should absolutely accompany it\n    with a post explaining why.",
+      "created_at": "2024-01-30T18:37:35.848Z",
+      "trust_level": 2,
+      "username": "lefterisjp",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 5
+    },
+    {
+      "content": "Agree that turnover, or the ability for new entrance, is very important! There\nare a few initiatives we’re currently working on to promote the possibility of\nturnover:\n\n * This Season there will be a full week for delegates to review candidates and\n   the Foundation will host a Town Hall for candidates to answer questions from\n   delegates\n\n * We are thinking through the concept of delegate profiles, which would include\n   attestations, that can help voters make more informed decisions about\n   candidates’ skill sets and experience. First, we have to build up the base of\n   attestations though :slight_smile:\n   [https://emoji.discourse-cdn.com/twitter/slight_smile.png?v=12]\n\n * We’re working on building a pipeline of qualified candidates by sharing\n   proactive information about the ability to nominate with our partners, comms\n   team, etc. but open to more suggested here! Get in touch with @maxwell\n   [/u/maxwell] if you have ideas\n\n * We’ll be comparing the lead of incumbents vs. new entrants in this set of\n   elections relative to the previous two seasons to track and measure the\n   possibility of new entrance. If it remains limited, we’ll consider policy\n   options (like term limits, requiring new entrance, etc.) among other options\n   to support competitive elections in the Collective as this is very important",
+      "created_at": "2024-05-15T13:58:14.770Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 4
+    },
+    {
+      "content": "The below response reflects the views of L2BEAT’s governance team, composed of\n@kaereste [/u/kaereste] and @Sinkas [/u/sinkas], and it’s based on the combined\nresearch, fact-checking and ideation of the two.\n\nOne learning that we acquired while reviewing Mission Requests is that the whole\nprocess didn’t adequately address how specific or vague Mission Requests had to\nbe when it came to the approach through which each mission would be\naccomplished.\n\nOur understanding is that, given their higher context, top 100 delegates would\nidentify specific problems or areas in which the collective can improve, and\nthen craft mission requests asking for proposals addressing those areas. A\ncommon theme we noticed while reviewing Mission Requests, was confusion in\nregards to how well-defined the deliverables and the approach should be.\n\nFor example, a Mission Request might be about researching alternative RPGF\ndistribution methods. Should the Mission Request specify how that will be\nachieved (e.g. badgeholder interviews, academic research, creative thinking &\ndesign, experimental initiatives, etc), or should that be up to each applicant\nto propose?\n\nOftentimes, there’s more than 1 way to address a problem, and we should probably\nlet the individuals or groups applying to Mission Requests propose the best way.\nThat would also open up more opportunities for people to contribute in different\nways while also helping get competitive proposals from people looking to fulfill\ndifferent missions — as opposed to a simple “raise of hand” from people capable\nof delivering the exact thing outlined in the mission request.\n\nHaving said that, we do understand the need for some Mission Requests to be very\nspecific in terms of what the deliverable should be and how it should be\nachieved. We’re just pointing out the obvious flaw in having that be a blanket\napproach for all Mission Requests.\n\nAt a later date, we’ll follow up with some additional feedback, as well as with\nsome specific examples of the issue mentioned above, which we chose to not\npublish at this time to avoid influencing delegates’ decisions and the overall\nprocess, to illustrate our point.",
+      "created_at": "2024-02-06T18:26:40.415Z",
+      "trust_level": 2,
+      "username": "Sinkas",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    }
+  ],
+  "created_at": "2024-01-26T14:44:54.944Z"
+}

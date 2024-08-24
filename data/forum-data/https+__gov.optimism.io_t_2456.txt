@@ -1,0 +1,20 @@
+{
+  "title": "Unique custom smart contract Art project for Optimism",
+  "content": "Hi I am Bård Ionson an artist creating cryptoArt since 2018.\n\nIs OP interested in funding artists and art for the public as a public good?\n\nI was wondering if OP would help fund and promote an art installation smart\ncontract on chain art project I am building. Do I submit this as a proposal or\nis OP interested in this sort of thing at all?\n\nIt is a custom contract I wrote with some innovative interactive features. It is\nable to generate on chain NFT art pieces that are SVG files written to the\nblockchain. It has an allow list of people who are allowed to create their own\ncontent if they pay dues. The creators of the content will get 95% of the sales\nproceeds. The content is about 35 words.\n\nThe person purchasing the NFT will select the number of times they want the\nwords read aloud and pay a fee based on the number of times it will be read.\nThey will receive an on-chain NFT image of the words.\n\nThe words will be printed out on a strip of paper and then read by a computer\nout loud.\n\nI have documented more of the concept on my website\nhttps://collect.bardionson.com/soul-scroll-testing/\n[https://collect.bardionson.com/soul-scroll-testing/]\n\nIt is a prayer machine. I cannot decide if I want to create it on OP Poly or\nEthereum L1 at the moment.",
+  "views": 1799,
+  "like_count": 1,
+  "word_count": 280,
+  "answer": [
+    {
+      "content": "Please go through this\n[https://gov.optimism.io/t/governance-fund-phase-1-how-to-create-a-proposal/216]\n. Submit a first version of proposal on discord and depending the response,\ndecide the next step. Welcome to OP Ecosystem.",
+      "created_at": "2022-06-04T22:42:18.772Z",
+      "trust_level": 2,
+      "username": "OPUser",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2022-06-04T15:16:08.719Z"
+}

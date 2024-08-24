@@ -1,0 +1,40 @@
+{
+  "title": "Develop web3 curriculum to help grow crypto",
+  "content": "One of the big issues in the crypto space is the knowledge gap that separates\nactive users from the wider crypto community and non crypto users.\n\nPart of the reason for this is that there is too much information spread over a\nbunch of different mediums. The crypto curious and new users need to be good at\nresearching and understanding information without anyone to guide them. I have\nuniversity educated friends who are interested in crypto but don’t know where to\nstart.\n\nA clear path to understanding and using crypto is vital to mainstream adoption.\nWith OP fees being so low, it is viable to have a course that directly\nintroduces them to decentralised crypto from entry and removes the hurdle of\ngoing through an exchange.\n\nThis process could also incorporate proof of humanity and allow for poaps for\ncompleting stages of the course. Ideally it would include small airdrops so that\nanyone in the world could setup a wallet, learn the course, then claim funds\nwithout needing to risk any of their own money.\n\nIt could start simple and grow to include quite advanced levels of education in\nweb3. Higher educated users could be granted access to commenting on certain\nproposal’s or maybe higher voting weight, as they have a better understanding of\nthe tech. As long as all the education is free and with no barrier to access\nthen it should still remain fair and democratic.\n\nLessons could be something like:\n\n * Making a wallet (including security of seed phrase and different wallets)\n * Adding OP network\n * Funding the wallet (ideally some way to make an airdrop claim without risking\n   any user funds would precede this step)\n * Send funds to an address (including risk of wrong address)\n * Connect to an app (including security concerns)\n * Claim a POAP NFT\n\nOnce users complete some practical lessons like the above, then it would be good\nto introduce some theory lessons. The POAPs would be a psychological\nencouragement to continue learning and there could be bonus airdrops or\nsomething.\n\nUltimately this is all intended to introduce more people into the web3 space in\na positive and non degen way, which I think is ultimately what needs to happen\nto fulfil some of the altruistic aims of projects like OP.",
+  "views": 1924,
+  "like_count": 9,
+  "word_count": 547,
+  "answer": [
+    {
+      "content": "Yes along those lines. Focus on a hands on approach where people need to follow\nthe steps and once they have a bit of experience then start adding in the theory\nside of things. It is easier to learn something once you are familiar with using\nit.",
+      "created_at": "2022-06-06T20:03:25.968Z",
+      "trust_level": 1,
+      "username": "blackbus",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    },
+    {
+      "content": "Fantastic idea, the more we can upskill the community the stronger and more\nresistant to scams, misinformation etc it becomes.\n\nHave you seen Bankless Academy - maybe a collaborative effort with the Bankless\nDAO would save duplicating work (they’ve already covered Wallet security, basics\nof DeFi and claiming a POAP) as well as strengthening ties with the Bankless\nEcosystem:\n\n[https://europe1.discourse-cdn.com/bc41dd/original/1X/1c586b5b0723413a4cf6911ca7b2914f1e461f36.png]\napp.banklessacademy.com [https://app.banklessacademy.com/]\n[https://europe1.discourse-cdn.com/bc41dd/optimized/1X/82edb47da8d9f3e789dba27dd16e585f5596070b_2_690x361.jpeg]\n\n\nBANKLESS ACADEMY [https://app.banklessacademy.com/]\n\nLevel up your knowledge of Web3 and DeFi\n\n\n\n\nMaybe the OP community could offer to produce lessons on using an L2 through\nyour wallet (adding OP to MetaMask etc), how to understand security of\nOptimistic rollups, and possibly some OP specific applications - such as the\nSythetix/Lyra/Kwenta/Thales synth ecosytem?",
+      "created_at": "2022-06-06T07:32:21.897Z",
+      "trust_level": 2,
+      "username": "MinimalGravitas",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    },
+    {
+      "content": "Please engage on this topic on this post Optimism University? - #16 by eynno\n[https://gov.optimism.io/t/optimism-university/2487/16]",
+      "created_at": "2022-09-13T18:47:45.771Z",
+      "trust_level": 4,
+      "username": "lavande",
+      "admin": true,
+      "moderator": true,
+      "staff": true,
+      "like_count": 0
+    }
+  ],
+  "created_at": "2022-06-06T00:58:35.486Z"
+}

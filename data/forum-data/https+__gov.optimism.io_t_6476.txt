@@ -1,0 +1,30 @@
+{
+  "title": "25th OP Community Call **LAW OF CHAINS EDITION** will be [Tuesday August 1st @ 10am PT / 1pm ET / 7pm CET]",
+  "content": "Hey everyone!\n\nIt was an amazing call! Some great questions and discussion on Law of Chains\n(contribute to the discussion here)\n[https://optimism.mirror.xyz/JfVOJ1Ng2l5H6JbIAtfOcYBKa4i9DyRTUJUuOqDpjIs]!\n\nRecording is here: August 1st Community Call Recording.mp4 - Google Drive\n[https://drive.google.com/file/d/1g7fs8jzFj_CB-l2lrUuzoSS4M_YekL9j/view?usp=sharing]\n\nRecap:\n\n * The VAST MAJORITY of the call was spent discussing the newly published Law of\n   Chains [https://gov.optimism.io/t/law-of-chains-v0-1-full-draft/6514].\n   * @ben-chain [/u/ben-chain] was with us to discuss and to answer questions\n   * Law of Chains doesn’t include operationalization, but instead outlines the\n     stakeholders of the superchain and enumerates their rights\n     * For example, covers preventing censorship of users\n   * If ratified, it’s an addition to the working constitution of the collective\n   * We are moving from governing a single chain (OP mainnet) to governing a\n     standard (the OP stack) on which all of these chains in the “Superchain”\n     will follow\n   * This is a long term document meant to survive for many years\n * Q & A\n   * Why isn’t governance mentioned (token/citizen house)?\n     * The document defines the relationship between governance as a whole and\n       stakeholders\n   * Are existing partners (Base/Zora) bought in?\n     * yes and they are excited about it!\n   * Does this include chains that are forking current OP stack codebase?\n     * OP stack will still be open source and available to fork but this is\n       specifically a higher open standard for chains to be a part of the\n       Superchain\n       * This includes upgrades voted on by the OP Collective\n   * What upgrades/params will be chosen by governance vs by the chains\n     themselves?\n     * Specifics will continue to be fleshed out, but some settings (chain\n       profit margin, the specific sequencing seem) will be available to be\n       parameterized by chain governance.\n   * How will new chains be represented in governance?\n     * This is an ongoing discussion, however this happens will be transparent\n       and approved by governance\n   * The security model should be homogenous across all chains in the\n     Superchain. Users should be able to move from chain to chain without\n     worrying about changing security surfaces.\n   * Will we have a chain house?\n     * For now, probably not, it adds much more complexity. However token house\n       (economic) is a probably a good fit.\n   * Native bridges will be the same for all the chains\n   * What are the social contracts for delegates that need to be updated in\n     order to manage new chains?\n   * Very important that governance has the least complexity possible, and we\n     should do everything we can to shift governance into\n     programatic/algorithmic protections.\n * Next call we will be diving deeper into the future of governance as outlined\n   by this blog post! The Future of Optimism Governance — The Optimism\n   Collective\n   [https://optimism.mirror.xyz/PLrAQgE1EGRo7GRrFoztplFChnUZda4DFGW3dkQayxY]\n\nSlides Link:\n\ndocs.google.com\n[https://docs.google.com/presentation/d/1mgd7LxNT0qm_H4rV4hkvk-PhOen83-QOjBgHhZHSQrc/edit?usp=sharing]\nhttps://docs.google.com/presentation/d/1mgd7LxNT0qm_H4rV4hkvk-PhOen83-QOjBgHhZHSQrc/edit?usp=sharing\n\n\nAUGUST 1ST, 2023 COMMUNITY CALL SLIDES\n[https://docs.google.com/presentation/d/1mgd7LxNT0qm_H4rV4hkvk-PhOen83-QOjBgHhZHSQrc/edit?usp=sharing]\n\nOptimism Bi Weekly Governance Call August 1st, 2023\n\n\n\n\nMichael :red_circle:\n[https://emoji.discourse-cdn.com/twitter/red_circle.png?v=12] :sparkles:\n[https://emoji.discourse-cdn.com/twitter/sparkles.png?v=12]",
+  "views": 957,
+  "like_count": 16,
+  "word_count": 524,
+  "answer": [
+    {
+      "content": "Awesome :clap: [https://emoji.discourse-cdn.com/twitter/clap.png?v=12] call\n:iphone: [https://emoji.discourse-cdn.com/twitter/iphone.png?v=12]!!! So much to\ndigest.",
+      "created_at": "2023-08-01T18:06:13.565Z",
+      "trust_level": 2,
+      "username": "FractalVisions",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "great call that’s giving some good additional context to the Law of Chains.\nalso awesome that Base and Zora have committed to the Superchain.\n\nremark regarding the announced time of the call: I’m in Europe and made the mind\ngymnastics to add one hour to CET because we’re still in daylight saving time.\nso essentially, I was one hour late. but it might be just me :wink:\n[https://emoji.discourse-cdn.com/twitter/wink.png?v=12]",
+      "created_at": "2023-08-02T13:53:31.914Z",
+      "trust_level": 2,
+      "username": "cpoetter",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 2
+    }
+  ],
+  "created_at": "2023-07-20T05:18:44.438Z"
+}

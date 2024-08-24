@@ -1,0 +1,142 @@
+title: Network Upgrades
+lang: en-US
+description: Learn more about how network upgrades work and how to keep your nodes up to date.
+
+import Image from 'next/image'
+import { Steps, Callout } from 'nextra/components'
+
+Network Upgrade Overview
+
+This section has information on how to upgrade your Mainnet and Testnet nodes
+for new network upgrades. The network upgrade naming scheme after the Bedrock
+upgrade has a geology themed name based on the next letter in the english
+alphabet.
+
+Activations
+
+Network upgrades are activated by timestamps. Failing to upgrade your node
+before the timestamp will cause a chain divergence. You will need to resync
+your node to reconcile the chain. Optimistic activation times refer to times
+that are pending governance approval.
+
+Upgrade Governance Approval OP Mainnet Activations OP Sepolia Activations
+Fjord TBD Optimistically Wed Jul 10 16:00:01 UTC 2024 (1720627201) Wed May 29 16:00:00 UTC 2024 (1716998400)
+Ecotone approved Thu Mar 14 00:00:01 UTC 2024 (1710374401) Wed Feb 21 17:00:00 UTC 2024 (1708534800)
+Delta approved Thu Feb 22 00:00:00 UTC 2024 (1708560000) Fri Dec 22 00:00:00 UTC 2023 (1703203200)
+Canyon approved Thu Jan 11 17:00:01 UTC 2024 (1704992401) Tue Nov 14 17:00:00 UTC 2023 (1699981200)
+
+Summary of Changes
+
+These are the summary of each network upgrade changes order by the most recent
+activation. These are a reflection of the Superchain Upgrades Specifications
+
+Fjord
+
+The Fjord upgrade includes the RIP-7212 precompile, FastLZ gas pricing, Brotli channel compression, and several protocol parameter changes.
+
+RIP-7212: Precompile for secp256r1
+Brotli channel compression
+FastLZ gas pricingFastLZ L1 fee cost calculation
+Upgraded GasPriceOracle to compute FastLZ
+L1 gas cost changes
+
+
+Protocol parameter changesMax sequencer drift becomes constant
+Channel constant increases
+
+
+Fjord hardfork activation block
+
+Ecotone
+
+The Ecotone upgrade contains the Dencun upgrade from L1, and adopts EIP-4844 blobs for data-availability.
+
+Cancun (Execution Layer):
+
+EIP-1153: Transient storage opcodes
+EIP-4844: Shard Blob Transactions
+Blob transactions are disabled
+EIP-4788: Beacon block root in the EVM
+The L1 beacon block root is embedded into L2
+The Beacon roots contract deployment is automated
+EIP-5656: MCOPY - Memory copying instruction
+EIP-6780: SELFDESTRUCT only in same transaction
+EIP-7516: BLOBBASEFEE opcode
+BLOBBASEFEE always pushes 1 onto the stack
+
+Deneb (Consensus Layer): not applicable to L2
+
+EIP-7044: Perpetually Valid Signed Voluntary Exits
+EIP-7045: Increase Max Attestation Inclusion Slot
+EIP-7514: Add Max Epoch Churn Limit
+
+Data Availability (DA) upgrade:
+
+Blobs Data Availability: support blobs DA the L1 Data-retrieval stage.
+Rollup fee update: support blobs DA in L1 Data Fee computation
+Auto-upgrading and extension of the L1 Attributes Predeployed Contract
+(also known as L1Block predeploy)
+
+Delta
+
+The Delta upgrade consists of a single consensus-layer feature: Span Batches.
+
+The Delta upgrade uses a L2 block-timestamp activation-rule, and is specified only in the rollup-node (delta_time).
+
+Canyon
+
+The Canyon upgrade contains the Shapella upgrade from L1 and some minor protocol fixes.
+
+EIP-3651: Warm COINBASE
+EIP-3855: PUSH0 instruction
+EIP-3860: Limit and meter initcode
+EIP-4895: Beacon chain push withdrawals as operations
+Withdrawals are prohibited in P2P Blocks
+Withdrawals should be set to the empty array with Canyon
+EIP-6049: Deprecate SELFDESTRUCT
+Modifies the EIP-1559 Denominator
+Channel Ordering Fix
+Adds the deposit nonce & deposit nonce version to the deposit receipt hash
+Deploys the create2Deployer to 0x13b0D85CcB8bf860b6b79AF3029fCA081AE9beF2
+
+The Canyon upgrade uses a L2 block-timestamp activation-rule, and is specified in both the
+rollup-node (canyon_time) and execution engine (config.canyonTime). Shanghai time in the
+execution engine should be set to the same time as the Canyon time.
+
+Upgrade Process
+
+Network upgrades follow this general process in which the features included in
+the upgrade are put into a release version cut from the develop branch and
+then the software is deployed on production networks.
+
+<Image src="/img/builders/node-operators/network-upgrades/node-software-release-timeline.png" alt="Node Software Release Timeline" width={0} height={0} sizes="100vw" style={{ width: '100%', height: 'auto' }} quality={100} />
+
+Devnet Upgrade Notice Period is for core developers to upgrade the
+node software on an internal devnet prior to the activation timestamp.
+Upgrade Activates on Devnet
+Baking on Devnet
+
+Testnet
+
+Testnet Upgrade Notice Period is to allow testnet node operators to
+upgrade the node software on testnet prior to the activation timestamp.
+Upgrade Activates on Testnet
+Baking on Testnet
+
+Mainnet
+
+Governance Voting Review Period is when the Optimism Collective's
+governance system reviews proposals, including network upgrade proposals.
+Governance Voting Period is when the Optimism Collective's governance
+system votes on proposals.
+Veto Period is when the Citizens' House of the governance system can
+veto a protocol upgrade that has been approved by the Token House.
+Cut Mainnet Release
+Mainnet Upgrade Notice Period is to allow mainnet node operators to
+upgrade the node software on mainnet prior to the activation timestamp.
+Upgrade Activated
+
+More Information
+
+To check for the latest node software, see the Software Releases.
+For more information on the governance process see the governance documentation.

@@ -1,0 +1,20 @@
+{
+  "title": "How to Navigate the Forum",
+  "content": "HOW TO GET A GRANT [https://gov.optimism.io/t/how-to-get-a-grant/6119]\n\n--------------------------------------------------------------------------------\n\n\nHOW TO NAVIGATE THE FORUM\n\n * Updates and Announcements:\n   [https://gov.optimism.io/c/updates-and-announcements/48] Find information\n   about community calls, weekly governance summaries, and periodic updates from\n   the Foundation and other partners\n\n * Grants [https://gov.optimism.io/c/grants/69]: Key information about Mission\n   Grants.\n\n * Technical Proposals [https://gov.optimism.io/c/technical-proposals/47]: For\n   all non-grant proposals. The Standard Template for non-grant Proposals can be\n   found here\n   [https://gov.optimism.io/t/standard-proposal-template-optimism-token-house/5443].\n   The process for submitting a non-grant proposal is outlined in the Operating\n   Manual.\n   [https://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md]\n\n * Retro Funding [https://gov.optimism.io/c/retrofunding/46]: Citizen and\n   Badgeholder discussions relating to the allocation of Retro Funding via\n   specific rounds. Key info about rounds will also be found here.\n\n * Token House Governance [https://gov.optimism.io/c/delegates/]: General\n   governance information as it pertains to delegates, voting cycle round-ups,\n   and delegate communication threads.\n\n * Accountability [https://gov.optimism.io/c/accountability/62]: This category\n   is for posts that increase transparency and accountability around the usage\n   of Governance Fund grants or other topics relevant to members of the\n   Collective. Please keep the information provided here factual. All claims\n   should be supported by verifiable evidence (on-chain, whenever possible) and\n   data.\n\n * Elected Representatives [https://gov.optimism.io/c/elected-reps/83]: This\n   category is for any Elected Representative Structure (i.e., councils).These\n   are the boards, commissions, and councils within the Optimism Collective.\n\n * Collective Strategy [https://gov.optimism.io/c/collective-strategy/81]: This\n   category is for Collective Strategy relating to intents and roadmaps.\n\n * Citizens [https://gov.optimism.io/c/citizens/79]: This category is for all\n   things relating to Citizens!\n\n * General Discussions [https://gov.optimism.io/c/general/1]: General and public\n   discussions that don’t into other categories.\n\n * Feedback [https://gov.optimism.io/c/feedback/82]: This category is for\n   feedback of all kinds!\n\n * Governance Design [https://gov.optimism.io/c/gov-design/84]: This category is\n   for the Collective’s metagovernance strategy! Metagovernance is governance of\n   the governance system, so this category pertains to the design of how the\n   Collective governs the governance system.",
+  "views": 1569,
+  "like_count": 14,
+  "word_count": 415,
+  "answer": [
+    {
+      "content": "This is a good stating point for a newbie to explore the forum. I suggest\npinning this up somewhere prominent as a guide for a newbie like me to explore\nthe forum and gain max insights.",
+      "created_at": "2024-04-30T03:15:08.371Z",
+      "trust_level": 0,
+      "username": "sikkha84",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 1
+    }
+  ],
+  "created_at": "2023-06-16T10:29:31.408Z"
+}

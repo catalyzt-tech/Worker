@@ -1,0 +1,60 @@
+{
+  "title": "Scamming campaign for airdrop2 has started on twitter",
+  "content": "Heya Optimists,\n\nplease be carefull, I was just tagged in a tweet about airdrop 2.\nThere’s a scamming account named @optimismfnda pretending airdrop is live.\nThe link to the tweet :\nhttps://twitter.com/optimismfnda/status/1612743299667730432\n[https://twitter.com/optimismfnda/status/1612743299667730432]\n\nThere’s an url in the bottom claim.optimism.net [http://claim.optimism.net] but\nit redirects to http://claim.optimismě.net [http://claim.xn--optimism-dfb.net]\n\nEverybody involved in ecosystem knows it’s optimism.io [http://optimism.io] but\nmaybe some users could fall in the trap.\nWould you be kind to report this account.\n\nTake care.",
+  "views": 1697,
+  "like_count": 31,
+  "word_count": 221,
+  "answer": [
+    {
+      "content": "Just reports and block the accounts",
+      "created_at": "2023-01-11T05:15:05.961Z",
+      "trust_level": 2,
+      "username": "Sheikhrahyan",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Man, these scammers are awful. It is a shame it is so easy and effective. Always\nhelps to pay attention to URLs and take a look at what you’re clicking!",
+      "created_at": "2023-01-12T01:41:46.836Z",
+      "trust_level": 1,
+      "username": "LtSnakePlissken",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 4
+    },
+    {
+      "content": "Reported! I think there are so many fake accounts.",
+      "created_at": "2023-01-10T12:16:23.087Z",
+      "trust_level": 2,
+      "username": "hait",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "that’s fast - great\n\n\nCONVERSATION\n\nThis Tweet is from a suspended account. Learn more\n[https://help.twitter.com/rules-and-policies/notices-on-twitter]",
+      "created_at": "2023-01-15T07:31:51.845Z",
+      "trust_level": 1,
+      "username": "StoneColdSober",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    },
+    {
+      "content": "It is really unfortunate that this happens a lot in the Crypto world, people\nhave to triple check before confirming or signing any messages in the wallets",
+      "created_at": "2023-01-20T12:29:11.607Z",
+      "trust_level": 1,
+      "username": "John1989",
+      "admin": false,
+      "moderator": false,
+      "staff": false,
+      "like_count": 3
+    }
+  ],
+  "created_at": "2023-01-10T11:44:44.769Z"
+}
