@@ -1,8 +1,7 @@
 import { ApolloClient, gql, HttpLink, InMemoryCache } from "@apollo/client/core";
 import fetch from "cross-fetch";
 import axios from "axios";
-import * as fs from 'fs'
-import * as path from 'path'
+import { Savefile } from "../../../lib/save-file/save-file";
 const httpLink = new HttpLink({
     uri: "https://optimism.easscan.org/graphql",
     fetch: fetch,
@@ -80,7 +79,8 @@ async function fetchMetadataURL(refUid: string) {
 
 
 
-async function fetchAndProcessData() {
+export async function fetchAndProcessData() {
+    console.log("Fetching and processing data . . .");
     try {
         const data = await fetchMetadataSnapshot();
         const urlArrays = await Promise.all(data.map(async (d: string) => {
@@ -102,34 +102,28 @@ async function fetchAndProcessData() {
     }
 }
 
-const DATA_DIR = [ '..', '..', '..', 'data', 'retropgf5-live-data']
+const DATA_DIR = [ 'data', 'retropgf5-live-data']
 
 // Which evaluates to 'At 0 seconds, 0 minutes every 1st hour'.
-const cronTimer:string | undefined = "0 0 */1 * * *"
+const CRON_TIMER:string | undefined = "0 0 */1 * * *"
+// const CRON_TIMER:string | undefined = undefined
 
 async function Run() {
     console.log("RetroPGF5 Live Data is starting . . .");
+    const fileName= "retropgf5-live-data.json"
 
     try {
-        const folderName = path.join(__dirname, ...DATA_DIR)
-
-        // Ensure the folder exists
-        if (!fs.existsSync(folderName)) {
-            console.log("folderName don't exist, creating . . .")
-            fs.mkdirSync(folderName, { recursive: true })
-        }
 
         const dataArray = await fetchAndProcessData();
-        const fileName = "retropgf5-live-data.json"
-        const filePath = path.join(folderName, fileName)
-        await fs.promises.writeFile(filePath, JSON.stringify(dataArray), 'utf-8');
+        // const dataArray: any[] = []
+        await Savefile(JSON.stringify(dataArray), DATA_DIR, fileName)
 
     } catch (error) {
-        console.error("An error occurred during the RetroPGF5 Live Data     process:", error);
+        console.error("An error occurred during the RetroPGF5 Live Data process:", error);
         
     } finally {
         console.log("RetroPGF5 Live Data process finished.");
     }
 }
 
-export {Run, DATA_DIR, cronTimer}
+export {Run, DATA_DIR, CRON_TIMER}
