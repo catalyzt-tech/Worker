@@ -20,7 +20,7 @@ export async function Savefile(data: any, requiredPath: string[] = [], fileName:
         const filePath = path.join(folderName, fileName);
         
         // Use fs.writeFileSync for more robust file writing
-        fs.writeFile(filePath, data, {encoding:"utf8", flag:"w"}, () => {});
+        fs.writeFileSync(filePath, data, {encoding:"utf8", flag:"w"});
 
         console.log(`File successfully written to ${filePath}`);
     } catch (error) {
