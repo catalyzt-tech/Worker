@@ -1,5 +1,5 @@
-import fs from "fs";
-import path from "path";
+import * as fs from "fs";
+import * as path from "path";
 import { FastifyReply, FastifyRequest } from "fastify";
 
 export async function GetStaticData(request: FastifyRequest<{ Params: { '*': string } }>, reply: FastifyReply) {
@@ -17,7 +17,6 @@ export async function GetStaticData(request: FastifyRequest<{ Params: { '*': str
                 });
             } else {
                 // If it's a file read and send its contents
-                console.log("running in here as a file");
                 const data = await fs.promises.readFile(fullPath, 'utf8');
                 if (path.extname(fullPath) === '.json') {
                     const jsonData = JSON.parse(data);
