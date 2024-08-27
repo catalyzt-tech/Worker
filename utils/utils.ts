@@ -44,11 +44,17 @@ export function headerGithub() : (RawAxiosRequestHeaders) | AxiosHeaders| null  
 
 
 // scheduleCronJobs use to schedule the cron jobs
-export function scheduleCronJobs(cronJobsToSchedule:  { CRON_TIMER: string; run: () => void; dataDir: string }[]) {
-    cronJobsToSchedule.forEach(job => {
-        console.log(`Scheduling cron job for ${job.dataDir} ${job.CRON_TIMER}`);
-        cron.schedule(job.CRON_TIMER, job.run, {
-            timezone: "America/Los_Angeles",
+export function scheduleCronJobs(cronJobsToSchedule:  { CRON_TIMER: string; Run: any; DATA_DIR: string }[]) {
+    try {
+        cronJobsToSchedule.forEach(job => {
+            console.log(`Scheduling cron job for ${job.DATA_DIR} ${job.CRON_TIMER}`);
+            cron.schedule(job.CRON_TIMER, () => {
+                job.Run()
+            }, {
+                timezone: "America/Los_Angeles",
+            });
         });
-    });
+    } catch (error) {
+        console.log("error when schedule the cron job", error)
+    }
 }

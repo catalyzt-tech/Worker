@@ -2,7 +2,6 @@ import { FastifyReply, FastifyRequest } from "fastify";
 import { importedModules } from "..";
 
 
-
 export async function TriggerModule(request: FastifyRequest<{ Params: { scriptName: string } }>, reply: FastifyReply) {
     const { scriptName } = request.params;
 
@@ -20,7 +19,6 @@ export async function TriggerModule(request: FastifyRequest<{ Params: { scriptNa
         });
     }
     
-
     if (importedModules[scriptName] && typeof importedModules[scriptName].Run === 'function') {
         try {
             await importedModules[scriptName].Run();

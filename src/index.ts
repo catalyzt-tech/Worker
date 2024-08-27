@@ -24,7 +24,7 @@ const scriptsDir = path.resolve(__dirname, 'scripts');
 const fileNameAndApiPath: { [key: string]: string } = {}
 
 // cronJobsToSchedule use to store the cron jobs that need to be scheduled
-const cronJobsToSchedule: { CRON_TIMER: string; run: () => void; dataDir: string }[] = [];
+const cronJobsToSchedule: { CRON_TIMER: string; Run: any; DATA_DIR: string }[] = [];
 
 // Store imported modules
 // the key is the file name and the value is the module (function to run)
@@ -74,12 +74,13 @@ async function processScripts() {
 
                         // console.log("here is cron timer only file",module.DATA_DIR, " ", module.CRON_TIMER, module)
                         // if there is a cron timer, schedule the cron job
+                        // console.log(module)
                         if (typeof(module.CRON_TIMER) === "string" && module.CRON_TIMER.trim() !== "") {
                             console.log(`Scheduling cron job for ${file} with timer: ${module.CRON_TIMER}`);
                             cronJobsToSchedule.push({
                                 CRON_TIMER: module.CRON_TIMER,
-                                run: module.Run,
-                                dataDir: dataDir,
+                                Run: module.Run,
+                                DATA_DIR: dataDir,
                             });
                         } else {
                             console.log(`No valid cron timer for ${file}, skipping cron job scheduling.`);
@@ -112,7 +113,6 @@ async function startServer() {
 
     await processScripts();
 
-
     fastify.get('/api/modules', async (request: FastifyRequest, reply: FastifyReply) => {
         reply.status(200).send({
             msg: "ok",
@@ -120,7 +120,7 @@ async function startServer() {
         });
     });
 
-    fastify.post<{ Params: { scriptName: string } }>('/api/modules/run/:scriptName', TriggerModule);
+    fastify.post<{ Params: { scriptName: string } }>('/backoffice/modules/run/:scriptName', TriggerModule);
     
     fastify.get<{ Params: { '*': string } }>('/api/*', GetStaticData);
 

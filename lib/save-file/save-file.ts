@@ -16,7 +16,6 @@ export async function Savefile(data: any, requiredPath: string[] = [], fileName:
                 throw new Error("Failed to create directory. Check permissions and path.");
             }
         }
-    
         const filePath = path.join(folderName, fileName);
         
         // Use fs.writeFileSync for more robust file writing

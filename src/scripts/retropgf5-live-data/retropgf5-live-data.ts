@@ -2,6 +2,7 @@ import { ApolloClient, gql, HttpLink, InMemoryCache } from "@apollo/client/core"
 import fetch from "cross-fetch";
 import axios from "axios";
 import { Savefile } from "../../../lib/save-file/save-file";
+
 const httpLink = new HttpLink({
     uri: "https://optimism.easscan.org/graphql",
     fetch: fetch,
@@ -9,7 +10,17 @@ const httpLink = new HttpLink({
 
 const client = new ApolloClient({
     link: httpLink,
-    cache: new InMemoryCache(),
+    cache: new InMemoryCache({
+        resultCaching: false,
+    }),
+    defaultOptions: {
+        query: {
+            fetchPolicy: 'no-cache',
+        },
+        watchQuery: {
+            fetchPolicy: 'no-cache',
+        },
+    },
 })
 
 async function fetchMetadataSnapshot() {
@@ -105,6 +116,7 @@ export async function fetchAndProcessData() {
 const DATA_DIR = [ 'data', 'retropgf5-live-data']
 
 // Which evaluates to 'At 0 seconds, 0 minutes every 1st hour'.
+// const CRON_TIMER:string | undefined = "*/5 * * * *"
 const CRON_TIMER:string | undefined = "0 0 */1 * * *"
 // const CRON_TIMER:string | undefined = undefined
 
@@ -117,6 +129,7 @@ async function Run() {
         const dataArray = await fetchAndProcessData();
         // const dataArray: any[] = []
         await Savefile(JSON.stringify(dataArray), DATA_DIR, fileName)
+        // console.log("save retropgf5 \n", dataArray)
 
     } catch (error) {
         console.error("An error occurred during the RetroPGF5 Live Data process:", error);
