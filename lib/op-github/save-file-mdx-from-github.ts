@@ -1,23 +1,15 @@
 import axios from "axios";
-import { Buffer } from 'buffer';
-import * as fs from 'fs'
-import * as path from 'path'
+import  { Buffer } from 'buffer';
 import markdownToTxt from 'markdown-to-txt';
 import { FilePathAndUrl } from "../list-all-files-github-type";
 import { chunkArray, convertSpecialChar, headerGithub } from "../../utils/utils";
+import { Savefile } from "../save-file/save-file";
 
 
 export async function SaveFileMdxGithub(docs: FilePathAndUrl[], requiredPath: string[] = [], baseRefUrl:string) {
 
     try {
-        const folderName = path.join(__dirname, ...requiredPath)
-
-        // Ensure the folder exists
-        if (!fs.existsSync(folderName)) {
-            console.log("folderName don't exist, creating . . .")
-            fs.mkdirSync(folderName, { recursive: true })
-        }
-    
+     
         const headers = headerGithub()
         if (headers === null){
             console.error("failed to get github key, put it on .env")
@@ -48,15 +40,13 @@ export async function SaveFileMdxGithub(docs: FilePathAndUrl[], requiredPath: st
                     // doc.path will be something like pages/... so it using next router so the file name will be the route
                     const urlToSave = baseRefUrl + "/" + doc.path.replace("pages/", "").replace(".mdx", "")
                     const fileName = convertSpecialChar(urlToSave) + ".txt"
-                    const filePath = path.join(folderName, fileName)
-                    
-                    await fs.promises.writeFile(filePath, content, 'utf-8');
+                    await Savefile(content, requiredPath, fileName)
     
                 }
                 setTimeout(() => {}, 500)
         
             } catch (error) {
-                console.error('Fetch error:', error);
+                console.error('An error occured during process the data and saving the data:', error);
             }
         }
     } catch (error) {

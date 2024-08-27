@@ -7,19 +7,13 @@ import {
 } from './projectType'
 import { HTTPSTATUSOK } from '../../../../const'
 import { htmlToText } from 'html-to-text'
-import * as fs from 'fs'
-import * as path from 'path'
 import { convertSpecialChar } from '../../../../utils/utils'
+import { Savefile } from '../../../../lib/save-file/save-file'
 
 
 // SaveProjectData: Save all the project data into /data/forum-data using urls from GetAllProjectsUrl
 export async function SaveProjectData(urls: string[], requiredPath: string[] = []) {
-  const folderName = path.join(__dirname, ...requiredPath)
 
-  // Ensure the folder exists
-  if (!fs.existsSync(folderName)) {
-    fs.mkdirSync(folderName, { recursive: true })
-  }
 
   for (const url of urls) {
     try {
@@ -92,14 +86,7 @@ export async function SaveProjectData(urls: string[], requiredPath: string[] = [
         // remove unnecessary string
         let newUrl = url.replace('.json?forceLoad=true', '') + '.txt'
         const fileName = convertSpecialChar(newUrl)
-        const filePath = path.join(folderName, fileName)
-
-        // Write the project data to a JSON file
-        fs.writeFileSync(
-          filePath,
-          JSON.stringify(projectOwner, null, 2),
-          'utf-8'
-        )
+        await Savefile(JSON.stringify(projectOwner), requiredPath, fileName)
       }
     } catch (error) {
       console.error(`Error fetching data ${url}:`, error)

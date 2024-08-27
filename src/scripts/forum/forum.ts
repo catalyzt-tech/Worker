@@ -15,11 +15,11 @@ import { GetAllProjectsUrl } from "./sitemap/sitemap"
 // console.log("done: 'list all projects in each category' working-on: 'get each project detail' . . .")
 
 
-const DATA_DIR = ['..', '..', 'data', 'forum-data']
+const DATA_DIR = ['data', 'forum-data']
 
 // Which evaluates to 'At 0 seconds, 0 minutes every 1st hour'.
-const cronTimer:string | undefined = undefined
-// const cronTimer:string | undefined = "0 0 */1 * * *"
+const CRON_TIMER:string | undefined = undefined
+// const CRON_TIMER:string | undefined = "0 0 */1 * * *"
 
 async function Run() {
     
@@ -47,4 +47,4 @@ async function Run() {
 
 }
 
-export {DATA_DIR,  Run, cronTimer}
+export {DATA_DIR,  Run, CRON_TIMER}

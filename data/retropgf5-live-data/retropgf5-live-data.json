@@ -658,5 +658,621 @@
         "pricingModel": "free",
         "pricingModelDetails": "",
         "links": []
+    },
+    {
+        "name": "MATUBMA",
+        "description": "I just registered for the SUNNY Awards to be eligible for 540K OP!",
+        "projectAvatarUrl": "https://cdn.charmverse.io/user-content/9100e3fe-1f1e-47cd-a424-e67c1ac6d523/50f6c156-3fd6-4220-80d5-045ef1658f8d/wazowski-mike.gif",
+        "projectCoverImageUrl": "https://cdn.charmverse.io/user-content/9100e3fe-1f1e-47cd-a424-e67c1ac6d523/84aaead4-8b2c-4cc2-8f4e-9ea1d4579984/6181.jpg",
+        "category": "NFT",
+        "osoSlug": "MATUBMA",
+        "socialLinks": {
+            "website": [
+                "https://zora.co/@compile"
+            ],
+            "farcaster": [
+                "https://warpcast.com/matubma"
+            ],
+            "twitter": "https://x.com/extremelyluxury",
+            "mirror": null
+        },
+        "team": [
+            "590905"
+        ],
+        "github": [
+            {
+                "url": "https://github.com/tsvyntar",
+                "name": "",
+                "description": ""
+            }
+        ],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [],
+            "revenue": []
+        },
+        "pricingModel": "free",
+        "pricingModelDetails": "",
+        "links": [
+            {
+                "url": "https://zora.co/@compile",
+                "name": "MATUBMA",
+                "description": "I make a nice collection and photo and imagine"
+            }
+        ]
+    },
+    {
+        "name": "op-besu",
+        "description": "Op-besu is an OP Stack execution client written in Java 21. \n\nWe are OptimismJ who continue to build open source public goods to help the Ethereum and Optimism community get better and better. Our main work is on OP Stack core protocols and ecosystem tools and libraries. You can view more detailed information on our official website https://optimism-java.github.io .",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/cccbc3c2-e7e4-4f1f-9eb9-110b9d3006dd.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/11b27f90-aab4-4013-b554-1375533a88c5.png",
+        "category": "Utility",
+        "osoSlug": "",
+        "socialLinks": {
+            "website": [
+                "https://optimism-java.github.io/op-besu-docs"
+            ],
+            "farcaster": [],
+            "twitter": "https://x.com/optimism_java",
+            "mirror": null
+        },
+        "team": [
+            "193400"
+        ],
+        "github": [
+            {
+                "url": "https://github.com/optimism-java/op-besu",
+                "name": "",
+                "description": ""
+            }
+        ],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [
+                {
+                    "grant": "token-house-mission",
+                    "link": "https://app.charmverse.io/op-grants/op-besu-an-op-stack-execution-client-based-on-hyperledger-besu-2818630304747294",
+                    "amount": "50000",
+                    "date": "2024-05-09",
+                    "details": ""
+                }
+            ],
+            "revenue": []
+        },
+        "pricingModel": "free",
+        "pricingModelDetails": "",
+        "links": []
+    },
+    {
+        "name": "Ethereum POS Testnet",
+        "description": " Quick and Easy Way to Bootstrap your own Local Ethereum PoS Testnet. Great for testing consensus",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/337dbbb2-74f9-4eee-9685-95922c926e38.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/e76d2c47-741f-4277-9b6f-e2930a492b47.png",
+        "category": "Utility",
+        "osoSlug": "",
+        "socialLinks": {
+            "website": [],
+            "farcaster": [],
+            "twitter": null,
+            "mirror": null
+        },
+        "team": [
+            "542731"
+        ],
+        "github": [
+            {
+                "url": "https://github.com/rzmahmood/ethereum-pos-testnet",
+                "name": "Ethereum PoS Testnet",
+                "description": "This deployment process allows you to setup and deploy your own local ethereum PoS networks with multiple nodes. This repository is targeted to developers who want to quickly modify client source code and deploy a PoS network. This setup can is can serve as a reference for building your own production deployments."
+            }
+        ],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [],
+            "revenue": []
+        },
+        "pricingModel": "free",
+        "pricingModelDetails": "",
+        "links": []
+    },
+    {
+        "name": "op-besu",
+        "description": "Op-besu is an OP Stack execution client written in Java 21. \n\nWe are OptimismJ who continue to build open source public goods to help the Ethereum and Optimism community get better and better. Our main work is on OP Stack core protocols and ecosystem tools and libraries. You can view more detailed information on our official website https://optimism-java.github.io .",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/cccbc3c2-e7e4-4f1f-9eb9-110b9d3006dd.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/11b27f90-aab4-4013-b554-1375533a88c5.png",
+        "category": "Utility",
+        "osoSlug": "op-besu-optimism-java",
+        "socialLinks": {
+            "website": [
+                "https://optimism-java.github.io/op-besu-docs"
+            ],
+            "farcaster": [],
+            "twitter": "https://x.com/optimism_java",
+            "mirror": null
+        },
+        "team": [
+            "193400"
+        ],
+        "github": [
+            {
+                "url": "https://github.com/optimism-java/op-besu",
+                "name": "",
+                "description": ""
+            }
+        ],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [
+                {
+                    "grant": "token-house-mission",
+                    "link": "https://app.charmverse.io/op-grants/op-besu-an-op-stack-execution-client-based-on-hyperledger-besu-2818630304747294",
+                    "amount": "50000",
+                    "date": "2024-05-09",
+                    "details": ""
+                }
+            ],
+            "revenue": []
+        },
+        "pricingModel": "free",
+        "pricingModelDetails": "",
+        "links": []
+    },
+    {
+        "name": "hildr",
+        "description": "Hildr is an OP Stack consensus client written in Java 21. \n\nWe are OptimismJ who continue to build open source public goods to help the Ethereum and Optimism community get better and better. Our main work is on OP Stack core protocols and ecosystem tools and libraries. You can view more detailed information on our official website https://optimism-java.github.io .",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/d304db21-cc7e-4236-8a63-a2a5161c4aee.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/2d30ac8c-806b-4332-b596-c8b5faadc032.png",
+        "category": "Utility",
+        "osoSlug": "hildr-optimism-java",
+        "socialLinks": {
+            "website": [
+                "https://optimism-java.github.io/hildr-docs"
+            ],
+            "farcaster": [],
+            "twitter": "https://x.com/optimism_java",
+            "mirror": null
+        },
+        "team": [
+            "193400",
+            "754190"
+        ],
+        "github": [
+            {
+                "url": "https://github.com/optimism-java/hildr",
+                "name": "",
+                "description": ""
+            }
+        ],
+        "packages": [
+            {
+                "url": "https://github.com/optimism-java/hildr/pkgs/container/hildr",
+                "name": null,
+                "description": null
+            },
+            {
+                "url": "https://github.com/optimism-java/hildr/releases/tag/v0.4.4",
+                "name": null,
+                "description": null
+            }
+        ],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [
+                {
+                    "grant": null,
+                    "link": null,
+                    "amount": "62608.95",
+                    "date": "",
+                    "details": null
+                },
+                {
+                    "grant": "token-house-mission",
+                    "link": "https://app.charmverse.io/op-grants/page-4923039239406415",
+                    "amount": "25000",
+                    "date": "2023-07-05",
+                    "details": ""
+                }
+            ],
+            "revenue": []
+        },
+        "pricingModel": "free",
+        "pricingModelDetails": "",
+        "links": [
+            {
+                "url": "https://www.opensource.observer/project/hildr-optimism-java",
+                "name": "",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "name": "RPCHub",
+        "description": "RPCHub is an open source RPC aggregator allowing you to customize configurations and set own strategies, enabling the fastest and most robust RPC services.",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/db450965-ac30-4d2e-a635-39d40d1e4179.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/48fb767e-4b37-432b-91b6-be8671b99c45.png",
+        "category": "Utility",
+        "osoSlug": "",
+        "socialLinks": {
+            "website": [
+                "https://rpchub.io/"
+            ],
+            "farcaster": [],
+            "twitter": "https://x.com/RealRPCHub",
+            "mirror": null
+        },
+        "team": [
+            "568168"
+        ],
+        "github": [
+            {
+                "url": "https://github.com/BlockPILabs/aggregator",
+                "name": "",
+                "description": ""
+            }
+        ],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [],
+            "revenue": []
+        },
+        "pricingModel": "free",
+        "pricingModelDetails": "",
+        "links": [
+            {
+                "url": "https://discord.com/channels/900985418202365982/1083240109811445801",
+                "name": "RPChub discord channel",
+                "description": "Many developers have expressed that this tool is very useful."
+            },
+            {
+                "url": "https://github.com/ethereum-optimism/ecosystem-contributions/pull/193",
+                "name": "Builder Ideas PR",
+                "description": "The pull request we submitted and got approved and merged"
+            }
+        ]
+    },
+    {
+        "name": "Retro Funding Site Design",
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/86341a25-24ac-4e74-bd33-ebf7622e8863.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/2183cd4a-1222-48d8-9f15-09edcb6aaf39.png",
+        "category": "Governance",
+        "osoSlug": "",
+        "socialLinks": {
+            "website": [],
+            "farcaster": [],
+            "twitter": null,
+            "mirror": null
+        },
+        "team": [
+            "5779",
+            "844381"
+        ],
+        "github": [],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [],
+            "revenue": []
+        },
+        "pricingModel": "free",
+        "pricingModelDetails": "",
+        "links": []
+    },
+    {
+        "name": "Lodestar",
+        "description": "Lodestar is a Typescript ecosystem for Ethereum consensus, developed by ChainSafe Systems. Our flagship products are our production-capable beacon chain and validator client. In addition, we maintain public repositories of useful tools for public use. Some of these libraries include JS implementations for BLS, SSZ, Discv5, Gossipsub, Noise and Yamux. Our work contributes to the backbone infrastructure required to keep the Ethereum blockchain progressing within the rules as defined by the specification.\n\nLodestar’s niche is in its implementation language, TypeScript. Our software and tooling is uniquely situated as the go-to for researchers and developers for rapid prototyping such as our Prover, a verified web3 provider using light clients to increase decentralization and security of the JSON-RPC. Millions of developers around the world are familiar with Typescript, and Lodestar’s high-quality codebases are excellent introductions to the Ethereum protocol, with the goal of increasing client diversity and attracting new talent from one of the largest groups of developers in the world.",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/973ba7db-8101-405b-98a0-1f7d93a0f344.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/3bb2834a-dcfd-4a71-ae2f-1e4fbef4209c.png",
+        "category": "Utility",
+        "osoSlug": "",
+        "socialLinks": {
+            "website": [
+                "https://lodestar.chainsafe.io",
+                "https://github.com/ChainSafe/lodestar",
+                "https://chainsafe.github.io/lodestar/",
+                "https://chainsafe.io"
+            ],
+            "farcaster": [
+                "https://warpcast.com/lodestar"
+            ],
+            "twitter": "https://x.com/lodestar_eth",
+            "mirror": null
+        },
+        "team": [
+            "20822"
+        ],
+        "github": [
+            {
+                "url": "https://github.com/ChainSafe/lodestar",
+                "name": "Lodestar",
+                "description": "TypeScript Implementation of Ethereum Consensus"
+            }
+        ],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [
+                {
+                    "grant": null,
+                    "link": null,
+                    "amount": "248448.21",
+                    "date": "",
+                    "details": null
+                },
+                {
+                    "grant": null,
+                    "link": null,
+                    "amount": "79662.51",
+                    "date": "",
+                    "details": null
+                }
+            ],
+            "revenue": []
+        },
+        "pricingModel": "free",
+        "pricingModelDetails": "",
+        "links": [
+            {
+                "url": "https://explorer.rated.network/o/ChainSafe%20-%20Lido?network=mainnet&timeWindow=30d&idType=poolShare",
+                "name": "ChainSafe Validator Metrics",
+                "description": "This page shows the performance of Lodestar as a validator client, run by ChainSafe infrastructure to support client diversity on mainnet validators via Lido."
+            },
+            {
+                "url": "https://probelab.io/ethereum/discv5/2024-34/",
+                "name": "Probelab Discv5 Distribution",
+                "description": "This page represents the distribution of various user agents within the Ethereum discv5 DHT."
+            },
+            {
+                "url": "https://npm-stat.com/charts.html?package=%40chainsafe%2Flodestar&from=2021-06-26&to=2024-08-26",
+                "name": "NPM Download Stats",
+                "description": "This mono-repository contains a suite of Ethereum Consensus packages."
+            }
+        ]
+    },
+    {
+        "name": "Viem: TypeScript Tooling for OP Stack",
+        "description": "Viem is the most used TypeScript Interface for Ethereum and the OP Stack. Viem provides robust, performant, and type-safe modules to be the foundation for building Web Applications, TypeScript Libraries, Wallets, Backends, Indexers, Scripts, and more, on top of Ethereum (and the OP Stack). With over 2.5 million monthly downloads, Viem is used in production by most at-scale (and small scale!) OP Stack projects like Optimism, Uniswap, Zora, Coinbase, Opensea, WalletConnect, Friend.tech, Rainbow, and so much more.",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/171f60c2-1e3e-4b0a-998e-4015a7f468f7.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/64c06023-a910-4646-ba3e-81baa2d935dc.png",
+        "category": "Utility",
+        "osoSlug": "wevm",
+        "socialLinks": {
+            "website": [
+                "https://viem.sh"
+            ],
+            "farcaster": [
+                "https://warpcast.com/wevm"
+            ],
+            "twitter": "https://x.com/wevm_dev",
+            "mirror": null
+        },
+        "team": [
+            "6143"
+        ],
+        "github": [
+            {
+                "url": "https://github.com/wevm/viem",
+                "name": "Viem",
+                "description": "TypeScript Interface for the OP Stack and Ethereum"
+            }
+        ],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [
+                {
+                    "grant": null,
+                    "link": null,
+                    "amount": "156463.05",
+                    "date": "",
+                    "details": null
+                },
+                {
+                    "grant": null,
+                    "link": null,
+                    "amount": "198758.57",
+                    "date": "",
+                    "details": null
+                }
+            ],
+            "revenue": []
+        },
+        "pricingModel": "free",
+        "pricingModelDetails": "",
+        "links": [
+            {
+                "url": "https://npm.im/viem",
+                "name": "580k weekly downloads via NPM",
+                "description": "Downloads: 580,000 weekly downloads\nDependents: 1,365\n"
+            },
+            {
+                "url": "https://github.com/wevm/viem/graphs/contributors",
+                "name": "368 unique contributors",
+                "description": "368 unique contributors\n"
+            },
+            {
+                "url": "https://github.com/wevm/viem/network/dependents",
+                "name": "41.3k Open Source Projects using Viem",
+                "description": "41.3k open source projects are using Viem\n2.1k open source libraries are using Viem"
+            },
+            {
+                "url": "https://github.com/wevm/viem",
+                "name": "2.4k GitHub Stars",
+                "description": "2.4k GitHub Stars"
+            }
+        ]
+    },
+    {
+        "name": "hildr",
+        "description": "Hildr is an OP Stack consensus client written in Java 21. \n\nWe are OptimismJ who continue to build open source public goods to help the Ethereum and Optimism community get better and better. Our main work is on OP Stack core protocols and ecosystem tools and libraries. You can view more detailed information on our official [website](https://optimism-java.github.io) .",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/d304db21-cc7e-4236-8a63-a2a5161c4aee.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/2d30ac8c-806b-4332-b596-c8b5faadc032.png",
+        "category": "Utility",
+        "osoSlug": "hildr-optimism-java",
+        "socialLinks": {
+            "website": [
+                "https://optimism-java.github.io/hildr-docs"
+            ],
+            "farcaster": [],
+            "twitter": "https://x.com/optimism_java",
+            "mirror": null
+        },
+        "team": [
+            "193400",
+            "754190"
+        ],
+        "github": [
+            {
+                "url": "https://github.com/optimism-java/hildr",
+                "name": "",
+                "description": ""
+            }
+        ],
+        "packages": [
+            {
+                "url": "https://github.com/optimism-java/hildr/pkgs/container/hildr",
+                "name": null,
+                "description": null
+            },
+            {
+                "url": "https://github.com/optimism-java/hildr/releases/tag/v0.4.4",
+                "name": null,
+                "description": null
+            }
+        ],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [
+                {
+                    "grant": null,
+                    "link": null,
+                    "amount": "62608.95",
+                    "date": "",
+                    "details": null
+                },
+                {
+                    "grant": "token-house-mission",
+                    "link": "https://app.charmverse.io/op-grants/page-4923039239406415",
+                    "amount": "25000",
+                    "date": "2023-07-05",
+                    "details": ""
+                }
+            ],
+            "revenue": []
+        },
+        "pricingModel": "free",
+        "pricingModelDetails": "",
+        "links": [
+            {
+                "url": "https://www.opensource.observer/project/hildr-optimism-java",
+                "name": "",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "name": "op-besu",
+        "description": "Op-besu is an OP Stack execution client written in Java 21. \n\nWe are OptimismJ who continue to build open source public goods to help the Ethereum and Optimism community get better and better. Our main work is on OP Stack core protocols and ecosystem tools and libraries. You can view more detailed information on our official [website](https://optimism-java.github.io) .",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/cccbc3c2-e7e4-4f1f-9eb9-110b9d3006dd.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/11b27f90-aab4-4013-b554-1375533a88c5.png",
+        "category": "Utility",
+        "osoSlug": "op-besu-optimism-java",
+        "socialLinks": {
+            "website": [
+                "https://optimism-java.github.io/op-besu-docs"
+            ],
+            "farcaster": [],
+            "twitter": "https://x.com/optimism_java",
+            "mirror": null
+        },
+        "team": [
+            "193400"
+        ],
+        "github": [
+            {
+                "url": "https://github.com/optimism-java/op-besu",
+                "name": "",
+                "description": ""
+            }
+        ],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [
+                {
+                    "grant": "token-house-mission",
+                    "link": "https://app.charmverse.io/op-grants/op-besu-an-op-stack-execution-client-based-on-hyperledger-besu-2818630304747294",
+                    "amount": "50000",
+                    "date": "2024-05-09",
+                    "details": ""
+                }
+            ],
+            "revenue": []
+        },
+        "pricingModel": "free",
+        "pricingModelDetails": "",
+        "links": []
+    },
+    {
+        "name": "MetaCRM",
+        "description": "MetaCRM provides a suite of innovative software solutions empowering marketing efficiency & personalized customer service for Web3 businesses.",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/f3d4c02b-2511-4026-a886-1b74a7a4c206.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/1d6693d9-6b5e-489e-83dc-c4416f78ca93.png",
+        "category": "Utility",
+        "osoSlug": "",
+        "socialLinks": {
+            "website": [
+                "https://metacrm.inc/#/"
+            ],
+            "farcaster": [
+                "https://warpcast.com/metacrm"
+            ],
+            "twitter": "https://x.com/metacrm_inc",
+            "mirror": null
+        },
+        "team": [
+            "477715"
+        ],
+        "github": [],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [
+                {
+                    "grant": null,
+                    "link": null,
+                    "amount": "1m-5m",
+                    "date": "2023",
+                    "details": "Seed Round. Investors are Cherubic Ventures, Red Building Capital, Blockchain Founders Fund, and Ondine Capital"
+                }
+            ],
+            "revenue": []
+        },
+        "pricingModel": "freemium",
+        "pricingModelDetails": "https://metacrm.gitbook.io/metacrm/other-info/pricing",
+        "links": [
+            {
+                "url": "https://app.radiant.capital/#/markets",
+                "name": "Use case",
+                "description": "Examples - dApps installed our front-end widget"
+            }
+        ]
     }
 ]
