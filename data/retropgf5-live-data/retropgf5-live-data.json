@@ -1,225 +1,5 @@
 [
     {
-        "name": "Nfts ",
-        "description": "nft creation ",
-        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/39cfa64d-46e8-43a1-9bf8-baf6d41de613.png",
-        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/f43cc8a7-8575-45c8-843f-01f9830befd0.png",
-        "category": "NFT",
-        "osoSlug": "",
-        "socialLinks": {
-            "website": [],
-            "farcaster": [],
-            "twitter": null,
-            "mirror": null
-        },
-        "team": [
-            "427926"
-        ],
-        "github": [],
-        "packages": [],
-        "contracts": [],
-        "grantsAndFunding": {
-            "ventureFunding": [],
-            "grants": [],
-            "revenue": []
-        },
-        "pricingModel": "free",
-        "pricingModelDetails": "",
-        "links": []
-    },
-    {
-        "name": "Nfts ",
-        "description": "nft creation ",
-        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/39cfa64d-46e8-43a1-9bf8-baf6d41de613.png",
-        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/f43cc8a7-8575-45c8-843f-01f9830befd0.png",
-        "category": "NFT",
-        "osoSlug": "",
-        "socialLinks": {
-            "website": [],
-            "farcaster": [],
-            "twitter": null,
-            "mirror": null
-        },
-        "team": [
-            "427926"
-        ],
-        "github": [],
-        "packages": [],
-        "contracts": [],
-        "grantsAndFunding": {
-            "ventureFunding": [],
-            "grants": [],
-            "revenue": []
-        },
-        "pricingModel": "free",
-        "pricingModelDetails": "",
-        "links": []
-    },
-    {
-        "name": "Nfts ",
-        "description": "nft creation ",
-        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/39cfa64d-46e8-43a1-9bf8-baf6d41de613.png",
-        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/f43cc8a7-8575-45c8-843f-01f9830befd0.png",
-        "category": "NFT",
-        "osoSlug": "",
-        "socialLinks": {
-            "website": [],
-            "farcaster": [],
-            "twitter": null,
-            "mirror": null
-        },
-        "team": [
-            "427926"
-        ],
-        "github": [],
-        "packages": [],
-        "contracts": [],
-        "grantsAndFunding": {
-            "ventureFunding": [],
-            "grants": [],
-            "revenue": []
-        },
-        "pricingModel": "free",
-        "pricingModelDetails": "",
-        "links": []
-    },
-    {
-        "name": "Nfts ",
-        "description": "nft creation ",
-        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/39cfa64d-46e8-43a1-9bf8-baf6d41de613.png",
-        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/f43cc8a7-8575-45c8-843f-01f9830befd0.png",
-        "category": "NFT",
-        "osoSlug": "",
-        "socialLinks": {
-            "website": [],
-            "farcaster": [],
-            "twitter": null,
-            "mirror": null
-        },
-        "team": [
-            "427926"
-        ],
-        "github": [],
-        "packages": [],
-        "contracts": [],
-        "grantsAndFunding": {
-            "ventureFunding": [],
-            "grants": [],
-            "revenue": []
-        },
-        "pricingModel": "free",
-        "pricingModelDetails": "",
-        "links": []
-    },
-    {
-        "name": "MonstersOnBase",
-        "description": "Hello, I am a designer. I am an artificial intelligence designer. I am 25 years old. I'm from Turkey. I need some support. I want to do more for Optimisim. I don't know much about Github. But everything I did here is as you want. I increased the on-chain activity and interacted with 420 wallets.",
-        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/ef7bc6d3-c915-4390-9d7f-f781d6f7fea3.png",
-        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/6cf81b2e-43b7-4645-ab66-39f71cb1132b.png",
-        "category": "NFT",
-        "osoSlug": "MonstersOnBase",
-        "socialLinks": {
-            "website": [
-                "https://element.market/collections/monstersonbase"
-            ],
-            "farcaster": [],
-            "twitter": null,
-            "mirror": null
-        },
-        "team": [
-            "569945"
-        ],
-        "github": [
-            {
-                "url": "https://github.com/mali030303/MonstersOnBasee",
-                "name": null,
-                "description": null
-            }
-        ],
-        "packages": [],
-        "contracts": [],
-        "grantsAndFunding": {
-            "ventureFunding": [],
-            "grants": [],
-            "revenue": []
-        },
-        "pricingModel": "freemium",
-        "pricingModelDetails": "Our price is the lowest fee. Our goal is community before money. It is usually a fee like 0.00001 Eth that everyone can reach.",
-        "links": []
-    },
-    {
-        "name": "MonstersOnBase",
-        "description": "Hello, I am a designer. I am an artificial intelligence designer. I am 25 years old. I'm from Turkey. I need some support. I want to do more for Optimisim. I don't know much about Github. But everything I did here is as you want. I increased the on-chain activity and interacted with 420 wallets.",
-        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/ef7bc6d3-c915-4390-9d7f-f781d6f7fea3.png",
-        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/6cf81b2e-43b7-4645-ab66-39f71cb1132b.png",
-        "category": "NFT",
-        "osoSlug": "MonstersOnBase",
-        "socialLinks": {
-            "website": [
-                "https://element.market/collections/monstersonbase"
-            ],
-            "farcaster": [],
-            "twitter": null,
-            "mirror": null
-        },
-        "team": [
-            "569945"
-        ],
-        "github": [
-            {
-                "url": "https://github.com/mali030303/MonstersOnBasee",
-                "name": null,
-                "description": null
-            }
-        ],
-        "packages": [],
-        "contracts": [],
-        "grantsAndFunding": {
-            "ventureFunding": [],
-            "grants": [],
-            "revenue": []
-        },
-        "pricingModel": "freemium",
-        "pricingModelDetails": "Our price is the lowest fee. Our goal is community before money. It is usually a fee like 0.00001 Eth that everyone can reach.This is true for all the projects I do.",
-        "links": []
-    },
-    {
-        "name": "BASE BTC EARTH 🌍",
-        "description": "Hello, I am a designer. I am an artificial intelligence designer. I am 25 years old. I'm from Turkey. I need some support. I want to do more for Optimisim. I don't know much about Github. But everything I did here is as you want. I increased the on-chain activity and interacted with 420 wallets. https://element.market/collections/base-btc-earth",
-        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/f7b97236-dce1-4e44-873c-74bb5f31b49c.png",
-        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/963d18b8-32a1-4d7c-a09a-640cd20e4f22.png",
-        "category": "NFT",
-        "osoSlug": "BASE BTC EARTH 🌍",
-        "socialLinks": {
-            "website": [
-                "https://element.market/collections/base-btc-earth"
-            ],
-            "farcaster": [],
-            "twitter": null,
-            "mirror": null
-        },
-        "team": [
-            "569945"
-        ],
-        "github": [
-            {
-                "url": "https://github.com/mali030303/BASE-BTC-EARTH--",
-                "name": null,
-                "description": null
-            }
-        ],
-        "packages": [],
-        "contracts": [],
-        "grantsAndFunding": {
-            "ventureFunding": [],
-            "grants": [],
-            "revenue": []
-        },
-        "pricingModel": "pay_to_use",
-        "pricingModelDetails": "Our price is the lowest fee. Our goal is community before money. It is usually a fee like 0.00001 Eth that everyone can reach.This is true for all the projects I do.",
-        "links": []
-    },
-    {
         "name": "Dragons On Op Stack 🔴",
         "description": "Hello, I am a designer. I am an artificial intelligence designer. I am 25 years old. I'm from Turkey. I need some support. I want to do more for Optimisim. I don't know much about Github. But everything I did here is as you want. I increased the on-chain activity and interacted with 420 wallets.",
         "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/7d8db529-7225-43f2-bc2c-ade2f7aaf7af.png",
@@ -253,47 +33,8 @@
         },
         "pricingModel": "pay_to_use",
         "pricingModelDetails": "Our price is the lowest fee. Our goal is community before money. It is usually a fee like 0.00001 Eth that everyone can reach.This is true for all the projects I do.",
-        "links": []
-    },
-    {
-        "name": "FANBASE ✨",
-        "description": "This is a fanbase community that operates in the field of social engagement.",
-        "projectAvatarUrl": "https://cdn.charmverse.io/user-content/6020d938-f07e-4f95-a756-5562f175762e/f6550061-4756-49ac-b3da-6dc87fd589a9/76716e6b0c575e52832cf0f58cae6f2c.jpg",
-        "projectCoverImageUrl": "https://cdn.charmverse.io/user-content/6020d938-f07e-4f95-a756-5562f175762e/906bad2e-6a95-4bba-9261-aeaf88ff7afe/Screenshot_20240823-030141_1.jpg",
-        "category": "Social",
-        "osoSlug": "",
-        "socialLinks": {
-            "website": [
-                "https://www.fanbase.app/"
-            ],
-            "farcaster": [
-                "https://warpcast.com/denzooo",
-                "https://warpcast.com/phynn",
-                "https://warpcast.com/cepodr"
-            ],
-            "twitter": "",
-            "mirror": null
-        },
-        "team": [
-            "508591"
-        ],
-        "github": [],
-        "packages": [],
-        "contracts": [],
-        "grantsAndFunding": {
-            "ventureFunding": [],
-            "grants": [],
-            "revenue": []
-        },
-        "pricingModel": "free",
-        "pricingModelDetails": "",
-        "links": [
-            {
-                "url": "https://news.fanbase.app/",
-                "name": "Fanbase",
-                "description": "Fanbase is a FREE Next-Generation Social Media App that allows ANY user to earn money from day one.\nUnlike other social apps, Fanbase is the one place you can truly be you "
-            }
-        ]
+        "links": [],
+        "projectUid": "0x6ee546715053790bda72f913925b782461830ccdcc14ad12a2f288641510f448"
     },
     {
         "name": "Punk Shield",
@@ -339,86 +80,30 @@
                 "name": "Punk Shield",
                 "description": "Punkshield revolutionizes digital asset security by providing unmatched protection and peace of mind. With its multi-sig wallet, two-factor authentication, and seamless integration of advanced features like swapping and bridging, Punkshield empowers users to take control of their crypto assets confidently. It safeguards against potential threats, ensuring that users' investments remain secure and accessible, allowing them to focus on growth and innovation in the digital world. With Punkshield, your assets are not just protected—they're fortified for the future."
             }
-        ]
+        ],
+        "projectUid": "0x80a7a36ae190817283d49b64d9ce3ff729cf93a6f55135442162866c581cfa63"
     },
     {
-        "name": "Solady",
-        "description": "Solady is an open-source repository containing highly-optimized Solidity snippets. It offers efficient implementations of commonly-used libraries, such as MerkleProofLib, alongside cutting-edge features like LibZip.\n\nBy thoughtfully encapsulating low-level inline assembly within flexible APIs, Solady simplifies the process of writing clean and efficient Solidity code. More than just a library, Solady also serves as a learning resource and experimental laboratory for pioneering gas-optimization techniques.\n\nSolady is used in the codebases of Optimism and Coinbase.\n\nWith respect to the OP stack, Solady contributes in the following ways:\n- Provides a Solidity and JavaScript implementation of FastLZ compression algorithm, which is used for more accurate gas estimations in the Fjord upgrade. The JavaScript code is very minimal, allowing for it's easy translation into Go.\n- Various other utilities such as bytecode proxies and string operations.",
-        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/0e726459-df1e-4cea-bddb-25399f88acea.png",
-        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/0615ef25-edbb-4b19-934d-79614daf8040.png",
-        "category": "Utility",
-        "osoSlug": "",
+        "name": "MonstersOnBase",
+        "description": "Hello, I am a designer. I am an artificial intelligence designer. I am 25 years old. I'm from Turkey. I need some support. I want to do more for Optimisim. I don't know much about Github. But everything I did here is as you want. I increased the on-chain activity and interacted with 420 wallets.",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/ef7bc6d3-c915-4390-9d7f-f781d6f7fea3.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/6cf81b2e-43b7-4645-ab66-39f71cb1132b.png",
+        "category": "NFT",
+        "osoSlug": "MonstersOnBase",
         "socialLinks": {
             "website": [
-                "https://solady.org"
-            ],
-            "farcaster": [],
-            "twitter": "https://twitter.com/optimizoor",
-            "mirror": null
-        },
-        "team": [
-            "4686"
-        ],
-        "github": [
-            {
-                "url": "https://github.com/Vectorized/solady",
-                "name": "Solady",
-                "description": "Optimized Solidity snippets"
-            }
-        ],
-        "packages": [],
-        "contracts": [],
-        "grantsAndFunding": {
-            "ventureFunding": [],
-            "grants": [
-                {
-                    "grant": null,
-                    "link": null,
-                    "amount": "99379",
-                    "date": "",
-                    "details": null
-                },
-                {
-                    "grant": null,
-                    "link": null,
-                    "amount": "45018",
-                    "date": "",
-                    "details": null
-                }
-            ],
-            "revenue": []
-        },
-        "pricingModel": "free",
-        "pricingModelDetails": "",
-        "links": [
-            {
-                "url": "https://github.com/search?q=repo%3Aethereum-optimism%2Foptimism%20solady&type=code",
-                "name": "Solady usage in Optimism",
-                "description": "Solady usage in Optimism"
-            }
-        ]
-    },
-    {
-        "name": "xuwinnie.review",
-        "description": "Security Researcher.",
-        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/23976744-db3b-49b9-b5d4-3b629a28dd3a.png",
-        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/f7905adc-4525-4ea2-bc64-925690c7069c.png",
-        "category": "Utility",
-        "osoSlug": "",
-        "socialLinks": {
-            "website": [
-                "xuwinnie.review"
+                "https://element.market/collections/monstersonbase"
             ],
             "farcaster": [],
             "twitter": null,
             "mirror": null
         },
         "team": [
-            "462511"
+            "569945"
         ],
         "github": [
             {
-                "url": "https://github.com/xuwinnie/reports",
+                "url": "https://github.com/mali030303/MonstersOnBasee",
                 "name": null,
                 "description": null
             }
@@ -431,62 +116,27 @@
             "revenue": []
         },
         "pricingModel": "freemium",
-        "pricingModelDetails": "NA",
-        "links": []
+        "pricingModelDetails": "Our price is the lowest fee. Our goal is community before money. It is usually a fee like 0.00001 Eth that everyone can reach.",
+        "links": [],
+        "projectUid": "0x1480383a90f1ab95cfedee6ea130dca700e5236eceb7dcf3f08a0e96b43c90aa"
     },
     {
-        "name": "Builderism",
-        "description": "Make your op stack with just a few commands!",
-        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/e74ad0ba-d2bc-449d-9411-cbcad9bc8105.png",
-        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/c7c58454-c6b7-4ce0-8b5f-cd60576940f4.png",
+        "name": "Blocknative Blob Archive and Research",
+        "description": "Blocknative is dedicated to building developer-friendly tools that enhance user experience and ecosystem growth. We specialize in creating innovative solutions for gas fee estimation across various blockchains and have been building, running, and maintaining advanced gas estimation and optimization infrastructure since 2021. ",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/89b7357e-0cb5-45d1-8c20-b1c835ad584c.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/735c2a57-e42e-4b09-8f55-67e6bcdab127.png",
         "category": "Utility",
         "osoSlug": "",
         "socialLinks": {
             "website": [
-                "https://github.com/rabbitprincess/builderism"
+                "Blocknative.com"
             ],
             "farcaster": [],
-            "twitter": null,
+            "twitter": "x.com/blocknative",
             "mirror": null
         },
         "team": [
-            "841662"
-        ],
-        "github": [
-            {
-                "url": "https://github.com/rabbitprincess/builderism",
-                "name": "Builderism",
-                "description": "Make your mainnet using OP Stack!"
-            }
-        ],
-        "packages": [],
-        "contracts": [],
-        "grantsAndFunding": {
-            "ventureFunding": [],
-            "grants": [],
-            "revenue": []
-        },
-        "pricingModel": "free",
-        "pricingModelDetails": "",
-        "links": []
-    },
-    {
-        "name": "Moved Network",
-        "description": "We're building the next generation Ethereum L2 blockchain on Optimism OP Stack that supports the most secure Move smart contract language. Our goal is to help the security and parallel execution of Move meet Ethereum’s vast liquidity.",
-        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/4088a7f3-ba0f-4ec6-a6bc-ff4caaf666eb.png",
-        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/68088c9d-248f-4b4c-b8b7-1e8c52c5569a.png",
-        "category": "Cross Chain",
-        "osoSlug": "",
-        "socialLinks": {
-            "website": [
-                "https://moved.network"
-            ],
-            "farcaster": [],
-            "twitter": "https://x.com/MovedNetwork",
-            "mirror": null
-        },
-        "team": [
-            "831955"
+            "410300"
         ],
         "github": [],
         "packages": [],
@@ -497,389 +147,23 @@
                 {
                     "grant": null,
                     "link": null,
-                    "amount": "under-1m",
-                    "date": "2024",
-                    "details": "Received some of the pre-seed investment from 4 VCs and 2 angels. The rounds is still open for more investment."
-                }
-            ],
-            "revenue": []
-        },
-        "pricingModel": "pay_to_use",
-        "pricingModelDetails": "Users pay for transaction fees",
-        "links": [
-            {
-                "url": "https://www.crunchbase.com/organization/moved-network",
-                "name": "Crunchbase",
-                "description": "Company investor profile"
-            }
-        ]
-    },
-    {
-        "name": "xuwinnie.review",
-        "description": "Security Researcher.",
-        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/23976744-db3b-49b9-b5d4-3b629a28dd3a.png",
-        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/f7905adc-4525-4ea2-bc64-925690c7069c.png",
-        "category": "Utility",
-        "osoSlug": "",
-        "socialLinks": {
-            "website": [
-                "xuwinnie.review"
-            ],
-            "farcaster": [],
-            "twitter": "https://x.com/xuwinniexu",
-            "mirror": null
-        },
-        "team": [
-            "462511"
-        ],
-        "github": [
-            {
-                "url": "https://github.com/xuwinnie/reports",
-                "name": null,
-                "description": null
-            }
-        ],
-        "packages": [],
-        "contracts": [],
-        "grantsAndFunding": {
-            "ventureFunding": [],
-            "grants": [],
-            "revenue": []
-        },
-        "pricingModel": "freemium",
-        "pricingModelDetails": "Factors include sloc, complexity, postive impact...",
-        "links": []
-    },
-    {
-        "name": "hildr",
-        "description": "Hildr is an OP Stack rollup node client written in Java 21. \n\nWe are OptimismJ who continue to build open source public goods to help the Ethereum and Optimism community get better and better. Our main work is on OP Stack core protocols and ecosystem tools and libraries. You can view more detailed information on our official website https://optimism-java.github.io .",
-        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/d304db21-cc7e-4236-8a63-a2a5161c4aee.png",
-        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/2d30ac8c-806b-4332-b596-c8b5faadc032.png",
-        "category": "Utility",
-        "osoSlug": "hildr-optimism-java",
-        "socialLinks": {
-            "website": [
-                "https://optimism-java.github.io/hildr-docs"
-            ],
-            "farcaster": [],
-            "twitter": "https://x.com/optimism_java",
-            "mirror": null
-        },
-        "team": [
-            "193400",
-            "754190"
-        ],
-        "github": [
-            {
-                "url": "https://github.com/optimism-java/hildr",
-                "name": "",
-                "description": ""
-            }
-        ],
-        "packages": [
-            {
-                "url": "https://github.com/optimism-java/hildr/pkgs/container/hildr",
-                "name": null,
-                "description": null
-            },
-            {
-                "url": "https://github.com/optimism-java/hildr/releases/tag/v0.4.4",
-                "name": null,
-                "description": null
-            }
-        ],
-        "contracts": [],
-        "grantsAndFunding": {
-            "ventureFunding": [],
-            "grants": [
-                {
-                    "grant": null,
-                    "link": null,
-                    "amount": "62608.95",
+                    "amount": "29998",
                     "date": "",
                     "details": null
                 },
                 {
-                    "grant": "token-house-mission",
-                    "link": "https://app.charmverse.io/op-grants/page-4923039239406415",
-                    "amount": "25000",
-                    "date": "2023-07-05",
+                    "grant": "foundation-mission",
+                    "link": "https://app.charmverse.io/op-grants/batcher-gas-fee-optimization-research-and-implementation-419013603973726",
+                    "amount": "40000",
+                    "date": "2024-05-14",
                     "details": ""
-                }
-            ],
-            "revenue": []
-        },
-        "pricingModel": "free",
-        "pricingModelDetails": "",
-        "links": [
-            {
-                "url": "https://www.opensource.observer/project/hildr-optimism-java",
-                "name": "",
-                "description": ""
-            }
-        ]
-    },
-    {
-        "name": "op-besu",
-        "description": "Op-besu is an OP Stack execution client written in Java 21. We are OptimismJ who continue to build open source public goods to help the Ethereum and Optimism community get better and better. Our main work is on OP Stack core protocols and ecosystem tools and libraries. You can view more detailed information on our official website https://optimism-java.github.io .",
-        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/cccbc3c2-e7e4-4f1f-9eb9-110b9d3006dd.png",
-        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/11b27f90-aab4-4013-b554-1375533a88c5.png",
-        "category": "Utility",
-        "osoSlug": "",
-        "socialLinks": {
-            "website": [
-                "https://optimism-java.github.io/op-besu-docs"
-            ],
-            "farcaster": [],
-            "twitter": "https://x.com/optimism_java",
-            "mirror": null
-        },
-        "team": [
-            "193400"
-        ],
-        "github": [
-            "https://github.com/optimism-java/op-besu"
-        ],
-        "packages": [],
-        "contracts": [],
-        "grantsAndFunding": {
-            "ventureFunding": [],
-            "grants": [
-                {
-                    "grant": "token-house-mission",
-                    "link": "https://app.charmverse.io/op-grants/op-besu-an-op-stack-execution-client-based-on-hyperledger-besu-2818630304747294",
-                    "amount": "50000",
-                    "date": "2024-05-09",
-                    "details": ""
-                }
-            ],
-            "revenue": []
-        },
-        "pricingModel": "free",
-        "pricingModelDetails": "",
-        "links": []
-    },
-    {
-        "name": "MATUBMA",
-        "description": "I just registered for the SUNNY Awards to be eligible for 540K OP!",
-        "projectAvatarUrl": "https://cdn.charmverse.io/user-content/9100e3fe-1f1e-47cd-a424-e67c1ac6d523/50f6c156-3fd6-4220-80d5-045ef1658f8d/wazowski-mike.gif",
-        "projectCoverImageUrl": "https://cdn.charmverse.io/user-content/9100e3fe-1f1e-47cd-a424-e67c1ac6d523/84aaead4-8b2c-4cc2-8f4e-9ea1d4579984/6181.jpg",
-        "category": "NFT",
-        "osoSlug": "MATUBMA",
-        "socialLinks": {
-            "website": [
-                "https://zora.co/@compile"
-            ],
-            "farcaster": [
-                "https://warpcast.com/matubma"
-            ],
-            "twitter": "https://x.com/extremelyluxury",
-            "mirror": null
-        },
-        "team": [
-            "590905"
-        ],
-        "github": [
-            {
-                "url": "https://github.com/tsvyntar",
-                "name": "",
-                "description": ""
-            }
-        ],
-        "packages": [],
-        "contracts": [],
-        "grantsAndFunding": {
-            "ventureFunding": [],
-            "grants": [],
-            "revenue": []
-        },
-        "pricingModel": "free",
-        "pricingModelDetails": "",
-        "links": [
-            {
-                "url": "https://zora.co/@compile",
-                "name": "MATUBMA",
-                "description": "I make a nice collection and photo and imagine"
-            }
-        ]
-    },
-    {
-        "name": "op-besu",
-        "description": "Op-besu is an OP Stack execution client written in Java 21. \n\nWe are OptimismJ who continue to build open source public goods to help the Ethereum and Optimism community get better and better. Our main work is on OP Stack core protocols and ecosystem tools and libraries. You can view more detailed information on our official website https://optimism-java.github.io .",
-        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/cccbc3c2-e7e4-4f1f-9eb9-110b9d3006dd.png",
-        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/11b27f90-aab4-4013-b554-1375533a88c5.png",
-        "category": "Utility",
-        "osoSlug": "",
-        "socialLinks": {
-            "website": [
-                "https://optimism-java.github.io/op-besu-docs"
-            ],
-            "farcaster": [],
-            "twitter": "https://x.com/optimism_java",
-            "mirror": null
-        },
-        "team": [
-            "193400"
-        ],
-        "github": [
-            {
-                "url": "https://github.com/optimism-java/op-besu",
-                "name": "",
-                "description": ""
-            }
-        ],
-        "packages": [],
-        "contracts": [],
-        "grantsAndFunding": {
-            "ventureFunding": [],
-            "grants": [
-                {
-                    "grant": "token-house-mission",
-                    "link": "https://app.charmverse.io/op-grants/op-besu-an-op-stack-execution-client-based-on-hyperledger-besu-2818630304747294",
-                    "amount": "50000",
-                    "date": "2024-05-09",
-                    "details": ""
-                }
-            ],
-            "revenue": []
-        },
-        "pricingModel": "free",
-        "pricingModelDetails": "",
-        "links": []
-    },
-    {
-        "name": "Ethereum POS Testnet",
-        "description": " Quick and Easy Way to Bootstrap your own Local Ethereum PoS Testnet. Great for testing consensus",
-        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/337dbbb2-74f9-4eee-9685-95922c926e38.png",
-        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/e76d2c47-741f-4277-9b6f-e2930a492b47.png",
-        "category": "Utility",
-        "osoSlug": "",
-        "socialLinks": {
-            "website": [],
-            "farcaster": [],
-            "twitter": null,
-            "mirror": null
-        },
-        "team": [
-            "542731"
-        ],
-        "github": [
-            {
-                "url": "https://github.com/rzmahmood/ethereum-pos-testnet",
-                "name": "Ethereum PoS Testnet",
-                "description": "This deployment process allows you to setup and deploy your own local ethereum PoS networks with multiple nodes. This repository is targeted to developers who want to quickly modify client source code and deploy a PoS network. This setup can is can serve as a reference for building your own production deployments."
-            }
-        ],
-        "packages": [],
-        "contracts": [],
-        "grantsAndFunding": {
-            "ventureFunding": [],
-            "grants": [],
-            "revenue": []
-        },
-        "pricingModel": "free",
-        "pricingModelDetails": "",
-        "links": []
-    },
-    {
-        "name": "op-besu",
-        "description": "Op-besu is an OP Stack execution client written in Java 21. \n\nWe are OptimismJ who continue to build open source public goods to help the Ethereum and Optimism community get better and better. Our main work is on OP Stack core protocols and ecosystem tools and libraries. You can view more detailed information on our official website https://optimism-java.github.io .",
-        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/cccbc3c2-e7e4-4f1f-9eb9-110b9d3006dd.png",
-        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/11b27f90-aab4-4013-b554-1375533a88c5.png",
-        "category": "Utility",
-        "osoSlug": "op-besu-optimism-java",
-        "socialLinks": {
-            "website": [
-                "https://optimism-java.github.io/op-besu-docs"
-            ],
-            "farcaster": [],
-            "twitter": "https://x.com/optimism_java",
-            "mirror": null
-        },
-        "team": [
-            "193400"
-        ],
-        "github": [
-            {
-                "url": "https://github.com/optimism-java/op-besu",
-                "name": "",
-                "description": ""
-            }
-        ],
-        "packages": [],
-        "contracts": [],
-        "grantsAndFunding": {
-            "ventureFunding": [],
-            "grants": [
-                {
-                    "grant": "token-house-mission",
-                    "link": "https://app.charmverse.io/op-grants/op-besu-an-op-stack-execution-client-based-on-hyperledger-besu-2818630304747294",
-                    "amount": "50000",
-                    "date": "2024-05-09",
-                    "details": ""
-                }
-            ],
-            "revenue": []
-        },
-        "pricingModel": "free",
-        "pricingModelDetails": "",
-        "links": []
-    },
-    {
-        "name": "hildr",
-        "description": "Hildr is an OP Stack consensus client written in Java 21. \n\nWe are OptimismJ who continue to build open source public goods to help the Ethereum and Optimism community get better and better. Our main work is on OP Stack core protocols and ecosystem tools and libraries. You can view more detailed information on our official website https://optimism-java.github.io .",
-        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/d304db21-cc7e-4236-8a63-a2a5161c4aee.png",
-        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/2d30ac8c-806b-4332-b596-c8b5faadc032.png",
-        "category": "Utility",
-        "osoSlug": "hildr-optimism-java",
-        "socialLinks": {
-            "website": [
-                "https://optimism-java.github.io/hildr-docs"
-            ],
-            "farcaster": [],
-            "twitter": "https://x.com/optimism_java",
-            "mirror": null
-        },
-        "team": [
-            "193400",
-            "754190"
-        ],
-        "github": [
-            {
-                "url": "https://github.com/optimism-java/hildr",
-                "name": "",
-                "description": ""
-            }
-        ],
-        "packages": [
-            {
-                "url": "https://github.com/optimism-java/hildr/pkgs/container/hildr",
-                "name": null,
-                "description": null
-            },
-            {
-                "url": "https://github.com/optimism-java/hildr/releases/tag/v0.4.4",
-                "name": null,
-                "description": null
-            }
-        ],
-        "contracts": [],
-        "grantsAndFunding": {
-            "ventureFunding": [],
-            "grants": [
+                },
                 {
                     "grant": null,
                     "link": null,
-                    "amount": "62608.95",
-                    "date": "",
-                    "details": null
-                },
-                {
-                    "grant": "token-house-mission",
-                    "link": "https://app.charmverse.io/op-grants/page-4923039239406415",
-                    "amount": "25000",
-                    "date": "2023-07-05",
-                    "details": ""
+                    "amount": "10m-25m",
+                    "date": "2021",
+                    "details": "https://www.blocknative.com/blog/blocknative-raises-15m-for-block-building"
                 }
             ],
             "revenue": []
@@ -888,64 +172,33 @@
         "pricingModelDetails": "",
         "links": [
             {
-                "url": "https://www.opensource.observer/project/hildr-optimism-java",
-                "name": "",
-                "description": ""
-            }
-        ]
-    },
-    {
-        "name": "RPCHub",
-        "description": "RPCHub is an open source RPC aggregator allowing you to customize configurations and set own strategies, enabling the fastest and most robust RPC services.",
-        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/db450965-ac30-4d2e-a635-39d40d1e4179.png",
-        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/48fb767e-4b37-432b-91b6-be8671b99c45.png",
-        "category": "Utility",
-        "osoSlug": "",
-        "socialLinks": {
-            "website": [
-                "https://rpchub.io/"
-            ],
-            "farcaster": [],
-            "twitter": "https://x.com/RealRPCHub",
-            "mirror": null
-        },
-        "team": [
-            "568168"
-        ],
-        "github": [
-            {
-                "url": "https://github.com/BlockPILabs/aggregator",
-                "name": "",
-                "description": ""
-            }
-        ],
-        "packages": [],
-        "contracts": [],
-        "grantsAndFunding": {
-            "ventureFunding": [],
-            "grants": [],
-            "revenue": []
-        },
-        "pricingModel": "free",
-        "pricingModelDetails": "",
-        "links": [
-            {
-                "url": "https://discord.com/channels/900985418202365982/1083240109811445801",
-                "name": "RPChub discord channel",
-                "description": "Many developers have expressed that this tool is very useful."
+                "url": "https://www.blocknative.com/blog/how-self-built-blocks-unintentionally-introduce-base-fee-volatility ",
+                "name": "How Self-Built Blocks Unintentionally Introduce Base Fee Volatility",
+                "description": "analyzes how self-built blocks impact base fee volatility"
             },
             {
-                "url": "https://github.com/ethereum-optimism/ecosystem-contributions/pull/193",
-                "name": "Builder Ideas PR",
-                "description": "The pull request we submitted and got approved and merged"
+                "url": "https://www.blocknative.com/blog/june-20th-blob-contention-event-retrospective ",
+                "name": "Blob Inversion: An Investigation Into the June 20th 2024 Blob Spike",
+                "description": "investigates the June 20th blob contention event"
+            },
+            {
+                "url": "https://www.blocknative.com/blog/ethereums-eip-4844-dencun-upgrade-a-85-day-analysis",
+                "name": "Ethereum's EIP 4844 Dencun Upgrade: A 85-Day Analysis",
+                "description": "provides an 85-day analysis of the Dencun upgrade"
+            },
+            {
+                "url": "https://docs.blocknative.com/blocknative-data-archive",
+                "name": "Blocknative Mempool Archive (and Blob Archive)",
+                "description": "The Blob Archive complements our existing Mempool Archive, offering a comprehensive view of Ethereum network activity.\n"
             }
-        ]
+        ],
+        "projectUid": "0x7e4eb6294ad8e97eceb3bb6a39891eb386bfbaa5d4e8f16a9939d18ad79d789c"
     },
     {
         "name": "Retro Funding Site Design",
-        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
-        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/86341a25-24ac-4e74-bd33-ebf7622e8863.png",
-        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/2183cd4a-1222-48d8-9f15-09edcb6aaf39.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/729b2f2b-25ac-4668-a715-61b0471e025a.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/dfec054e-366f-4db0-8603-372f715d012f.png",
         "category": "Governance",
         "osoSlug": "",
         "socialLinks": {
@@ -968,7 +221,8 @@
         },
         "pricingModel": "free",
         "pricingModelDetails": "",
-        "links": []
+        "links": [],
+        "projectUid": "0x985a1ed485458d7c383c8b59a18856183197783883014c74b865468769436c52"
     },
     {
         "name": "Lodestar",
@@ -1040,7 +294,437 @@
                 "name": "NPM Download Stats",
                 "description": "This mono-repository contains a suite of Ethereum Consensus packages."
             }
-        ]
+        ],
+        "projectUid": "0x8ec88058175ef4c1c9b1f26910c4d4f2cfa733d6fcd1dbd9385476a313d9e12d"
+    },
+    {
+        "name": "RPCHub",
+        "description": "RPCHub is an open source RPC aggregator allowing you to customize configurations and set own strategies, enabling the fastest and most robust RPC services.",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/db450965-ac30-4d2e-a635-39d40d1e4179.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/48fb767e-4b37-432b-91b6-be8671b99c45.png",
+        "category": "Utility",
+        "osoSlug": "",
+        "socialLinks": {
+            "website": [
+                "https://op.rpchub.io"
+            ],
+            "farcaster": [],
+            "twitter": "https://x.com/RealRPCHub",
+            "mirror": null
+        },
+        "team": [
+            "568168"
+        ],
+        "github": [
+            {
+                "url": "https://github.com/BlockPILabs/aggregator",
+                "name": "",
+                "description": ""
+            }
+        ],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [],
+            "revenue": []
+        },
+        "pricingModel": "free",
+        "pricingModelDetails": "",
+        "links": [
+            {
+                "url": "https://discord.com/channels/900985418202365982/1083240109811445801",
+                "name": "RPChub discord channel",
+                "description": "Many developers have expressed that this tool is very useful."
+            },
+            {
+                "url": "https://github.com/ethereum-optimism/ecosystem-contributions/pull/193",
+                "name": "Builder Ideas PR",
+                "description": "The pull request we submitted and got approved and merged"
+            },
+            {
+                "url": "https://op-ag-cfg.rpchub.io/",
+                "name": "Local frontend",
+                "description": "Local frontend to configure the aggregator"
+            }
+        ],
+        "projectUid": "0xc8baf94c13404f1f5f1fb13de286c052bae58919ca80fd2be5d61312be096b35"
+    },
+    {
+        "name": "Blocknative Decoding API",
+        "description": "Blocknative is dedicated to building developer-friendly tools that enhance user experience and ecosystem growth. We specialize in creating innovative solutions for gas fee estimation across various blockchains and have been building, running, and maintaining advanced gas estimation and optimization infrastructure since 2021. ",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/6445d309-3c48-429b-85c7-46b3013baeb7.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/514008b5-80bb-4cf3-87e8-45b4ce67beb3.png",
+        "category": "Utility",
+        "osoSlug": "",
+        "socialLinks": {
+            "website": [
+                "Blocknative.com"
+            ],
+            "farcaster": [
+                "https://warpcast.com/blocknative"
+            ],
+            "twitter": "x.com/blocknative",
+            "mirror": null
+        },
+        "team": [
+            "410300"
+        ],
+        "github": [],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [
+                {
+                    "grant": null,
+                    "link": null,
+                    "amount": "99378",
+                    "date": "",
+                    "details": null
+                },
+                {
+                    "grant": "foundation-mission",
+                    "link": "https://app.charmverse.io/op-grants/batcher-gas-fee-optimization-research-and-implementation-419013603973726",
+                    "amount": "40000",
+                    "date": "2023-05-14",
+                    "details": ""
+                },
+                {
+                    "grant": null,
+                    "link": null,
+                    "amount": "10m-25m",
+                    "date": "2022",
+                    "details": "https://www.blocknative.com/blog/blocknative-raises-15m-for-block-building"
+                }
+            ],
+            "revenue": []
+        },
+        "pricingModel": "free",
+        "pricingModelDetails": "",
+        "links": [
+            {
+                "url": "https://docs.optimism.io/builders/tools/monitor/analytics-tools#blocknative",
+                "name": "Blocknative Decoding API ",
+                "description": "Decode Ethereum L2s batch transactions to its human-readable, JSON format."
+            }
+        ],
+        "projectUid": "0x039dd46c72b1c02723e8f81a08b606a54b5f413c6756e60ba9e3a467dbbcf38b"
+    },
+    {
+        "name": "Solady",
+        "description": "Solady is an open-source repository containing highly-optimized Solidity snippets. It offers efficient implementations of commonly-used libraries, such as MerkleProofLib, alongside cutting-edge features like LibZip.\n\nBy thoughtfully encapsulating low-level inline assembly within flexible APIs, Solady simplifies the process of writing clean and efficient Solidity code. More than just a library, Solady also serves as a learning resource and experimental laboratory for pioneering gas-optimization techniques.\n\nSolady is used in the codebases of Optimism and Coinbase.\n\nWith respect to the OP stack, Solady contributes in the following ways:\n- Provides a Solidity and JavaScript implementation of FastLZ compression algorithm, which is used for more accurate gas estimations in the Fjord upgrade. The JavaScript code is very minimal, allowing for it's easy translation into Go.\n- Various other utilities such as bytecode proxies and string operations.",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/0e726459-df1e-4cea-bddb-25399f88acea.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/0615ef25-edbb-4b19-934d-79614daf8040.png",
+        "category": "Utility",
+        "osoSlug": "",
+        "socialLinks": {
+            "website": [
+                "https://solady.org"
+            ],
+            "farcaster": [],
+            "twitter": "https://twitter.com/optimizoor",
+            "mirror": null
+        },
+        "team": [
+            "4686"
+        ],
+        "github": [
+            {
+                "url": "https://github.com/Vectorized/solady",
+                "name": "Solady",
+                "description": "Optimized Solidity snippets"
+            }
+        ],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [
+                {
+                    "grant": null,
+                    "link": null,
+                    "amount": "99379",
+                    "date": "",
+                    "details": null
+                },
+                {
+                    "grant": null,
+                    "link": null,
+                    "amount": "45018",
+                    "date": "",
+                    "details": null
+                }
+            ],
+            "revenue": []
+        },
+        "pricingModel": "free",
+        "pricingModelDetails": "",
+        "links": [
+            {
+                "url": "https://github.com/search?q=repo%3Aethereum-optimism%2Foptimism%20solady&type=code",
+                "name": "Solady usage in Optimism",
+                "description": "Solady usage in Optimism"
+            }
+        ],
+        "projectUid": "0x9151666888d0ca532a529be98a50d2eb992988117e202163f865fa9a27eb7149"
+    },
+    {
+        "name": "MonstersOnBase",
+        "description": "Hello, I am a designer. I am an artificial intelligence designer. I am 25 years old. I'm from Turkey. I need some support. I want to do more for Optimisim. I don't know much about Github. But everything I did here is as you want. I increased the on-chain activity and interacted with 420 wallets.",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/ef7bc6d3-c915-4390-9d7f-f781d6f7fea3.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/6cf81b2e-43b7-4645-ab66-39f71cb1132b.png",
+        "category": "NFT",
+        "osoSlug": "MonstersOnBase",
+        "socialLinks": {
+            "website": [
+                "https://element.market/collections/monstersonbase"
+            ],
+            "farcaster": [],
+            "twitter": null,
+            "mirror": null
+        },
+        "team": [
+            "569945"
+        ],
+        "github": [
+            {
+                "url": "https://github.com/mali030303/MonstersOnBasee",
+                "name": null,
+                "description": null
+            }
+        ],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [],
+            "revenue": []
+        },
+        "pricingModel": "freemium",
+        "pricingModelDetails": "Our price is the lowest fee. Our goal is community before money. It is usually a fee like 0.00001 Eth that everyone can reach.This is true for all the projects I do.",
+        "links": [],
+        "projectUid": "0x1480383a90f1ab95cfedee6ea130dca700e5236eceb7dcf3f08a0e96b43c90aa"
+    },
+    {
+        "name": "MATUBMA",
+        "description": "I just registered for the SUNNY Awards to be eligible for 540K OP!",
+        "projectAvatarUrl": "https://cdn.charmverse.io/user-content/9100e3fe-1f1e-47cd-a424-e67c1ac6d523/50f6c156-3fd6-4220-80d5-045ef1658f8d/wazowski-mike.gif",
+        "projectCoverImageUrl": "https://cdn.charmverse.io/user-content/9100e3fe-1f1e-47cd-a424-e67c1ac6d523/84aaead4-8b2c-4cc2-8f4e-9ea1d4579984/6181.jpg",
+        "category": "NFT",
+        "osoSlug": "MATUBMA",
+        "socialLinks": {
+            "website": [
+                "https://zora.co/@compile"
+            ],
+            "farcaster": [
+                "https://warpcast.com/matubma"
+            ],
+            "twitter": "https://x.com/extremelyluxury",
+            "mirror": null
+        },
+        "team": [
+            "590905"
+        ],
+        "github": [
+            {
+                "url": "https://github.com/tsvyntar",
+                "name": "",
+                "description": ""
+            }
+        ],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [],
+            "revenue": []
+        },
+        "pricingModel": "free",
+        "pricingModelDetails": "",
+        "links": [
+            {
+                "url": "https://zora.co/@compile",
+                "name": "MATUBMA",
+                "description": "I make a nice collection and photo and imagine"
+            }
+        ],
+        "projectUid": "0x6664074da8453628ebad1cf90ca0a6a313febf2e4909d3aba0c0360f41204c73"
+    },
+    {
+        "name": "OP STACK DEPLOYER",
+        "description": "OP Stack Deployer is a comprehensive tool designed to streamline the setup and deployment of an OP Stack chain. By automating complex tasks, it offers a seamless experience for developers. Whether you're an experienced blockchain developer or a newcomer, OP Stack Deployer provides the necessary resources to quickly get your OP Stack-based EVM Rollup operational.",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/2578a4d4-b88e-4461-aecf-2278e1fe9bdf.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/6e5a0785-93ce-438a-af3d-d81460919f57.png",
+        "category": "Utility",
+        "osoSlug": "",
+        "socialLinks": {
+            "website": [],
+            "farcaster": [],
+            "twitter": "",
+            "mirror": null
+        },
+        "team": [
+            "842980"
+        ],
+        "github": [
+            {
+                "url": "https://github.com/Aymen-Tirchi/op-stack-deployer",
+                "name": "op stack deployer",
+                "description": "OP Stack Deployer is a tool that simplifies setting up and deploying an OP Stack chain on the Ethereum Sepolia testnet. This guide will walk you through the steps required to spin up your OP Stack chain and perform tests or customize it for your specific needs."
+            }
+        ],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [],
+            "revenue": []
+        },
+        "pricingModel": "free",
+        "pricingModelDetails": "",
+        "links": [],
+        "projectUid": "0x7d3f1d8e9da32b6e81e791a440b28ce9fbd79a5396acc4039d1cdc44c609c6d3"
+    },
+    {
+        "name": "Nfts ",
+        "description": "nft creation ",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/39cfa64d-46e8-43a1-9bf8-baf6d41de613.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/f43cc8a7-8575-45c8-843f-01f9830befd0.png",
+        "category": "NFT",
+        "osoSlug": "",
+        "socialLinks": {
+            "website": [],
+            "farcaster": [],
+            "twitter": null,
+            "mirror": null
+        },
+        "team": [
+            "427926"
+        ],
+        "github": [],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [],
+            "revenue": []
+        },
+        "pricingModel": "free",
+        "pricingModelDetails": "",
+        "links": [],
+        "projectUid": "0x965d10dd8af44d0286af95744897ac7e066f92114c080c021e628f4af3eda298"
+    },
+    {
+        "name": "Builderism",
+        "description": "Make your op stack with just a few commands!",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/e74ad0ba-d2bc-449d-9411-cbcad9bc8105.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/c7c58454-c6b7-4ce0-8b5f-cd60576940f4.png",
+        "category": "Utility",
+        "osoSlug": "",
+        "socialLinks": {
+            "website": [
+                "https://github.com/rabbitprincess/builderism"
+            ],
+            "farcaster": [],
+            "twitter": null,
+            "mirror": null
+        },
+        "team": [
+            "841662"
+        ],
+        "github": [
+            {
+                "url": "https://github.com/rabbitprincess/builderism",
+                "name": "Builderism",
+                "description": "Make your mainnet using OP Stack!"
+            }
+        ],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [],
+            "revenue": []
+        },
+        "pricingModel": "free",
+        "pricingModelDetails": "",
+        "links": [],
+        "projectUid": "0xd9d3c625d5d821c6cea40f671dae15bc5ef9b9e159abcefe94864cddf11750a4"
+    },
+    {
+        "name": "op-besu",
+        "description": "Op-besu is an OP Stack execution client written in Java 21. \n\nWe are OptimismJ who continue to build open source public goods to help the Ethereum and Optimism community get better and better. Our main work is on OP Stack core protocols and ecosystem tools and libraries. You can view more detailed information on our official website https://optimism-java.github.io .",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/cccbc3c2-e7e4-4f1f-9eb9-110b9d3006dd.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/11b27f90-aab4-4013-b554-1375533a88c5.png",
+        "category": "Utility",
+        "osoSlug": "op-besu-optimism-java",
+        "socialLinks": {
+            "website": [
+                "https://optimism-java.github.io/op-besu-docs"
+            ],
+            "farcaster": [],
+            "twitter": "https://x.com/optimism_java",
+            "mirror": null
+        },
+        "team": [
+            "193400"
+        ],
+        "github": [
+            {
+                "url": "https://github.com/optimism-java/op-besu",
+                "name": "",
+                "description": ""
+            }
+        ],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [
+                {
+                    "grant": "token-house-mission",
+                    "link": "https://app.charmverse.io/op-grants/op-besu-an-op-stack-execution-client-based-on-hyperledger-besu-2818630304747294",
+                    "amount": "50000",
+                    "date": "2024-05-09",
+                    "details": ""
+                }
+            ],
+            "revenue": []
+        },
+        "pricingModel": "free",
+        "pricingModelDetails": "",
+        "links": [],
+        "projectUid": "0x7d69da70e6453a7abb641a770cad602c0a7893186cb20f990efe22c0cb248115"
+    },
+    {
+        "name": "Nfts ",
+        "description": "nft creation ",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/39cfa64d-46e8-43a1-9bf8-baf6d41de613.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/f43cc8a7-8575-45c8-843f-01f9830befd0.png",
+        "category": "NFT",
+        "osoSlug": "",
+        "socialLinks": {
+            "website": [],
+            "farcaster": [],
+            "twitter": null,
+            "mirror": null
+        },
+        "team": [
+            "427926"
+        ],
+        "github": [],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [],
+            "revenue": []
+        },
+        "pricingModel": "free",
+        "pricingModelDetails": "",
+        "links": [],
+        "projectUid": "0x965d10dd8af44d0286af95744897ac7e066f92114c080c021e628f4af3eda298"
     },
     {
         "name": "Viem: TypeScript Tooling for OP Stack",
@@ -1114,7 +798,811 @@
                 "name": "2.4k GitHub Stars",
                 "description": "2.4k GitHub Stars"
             }
-        ]
+        ],
+        "projectUid": "0x6bd057da522918a4675396313ae33a2f2788a1ceeb3bd7ae228015e3eb317a7d"
+    },
+    {
+        "name": "Nfts ",
+        "description": "nft creation ",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/39cfa64d-46e8-43a1-9bf8-baf6d41de613.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/f43cc8a7-8575-45c8-843f-01f9830befd0.png",
+        "category": "NFT",
+        "osoSlug": "",
+        "socialLinks": {
+            "website": [],
+            "farcaster": [],
+            "twitter": null,
+            "mirror": null
+        },
+        "team": [
+            "427926"
+        ],
+        "github": [],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [],
+            "revenue": []
+        },
+        "pricingModel": "free",
+        "pricingModelDetails": "",
+        "links": [],
+        "projectUid": "0x965d10dd8af44d0286af95744897ac7e066f92114c080c021e628f4af3eda298"
+    },
+    {
+        "name": "Retro Funding Site Design",
+        "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/86341a25-24ac-4e74-bd33-ebf7622e8863.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/2183cd4a-1222-48d8-9f15-09edcb6aaf39.png",
+        "category": "Governance",
+        "osoSlug": "",
+        "socialLinks": {
+            "website": [],
+            "farcaster": [],
+            "twitter": null,
+            "mirror": null
+        },
+        "team": [
+            "5779",
+            "844381"
+        ],
+        "github": [],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [],
+            "revenue": []
+        },
+        "pricingModel": "free",
+        "pricingModelDetails": "",
+        "links": [],
+        "projectUid": "0x0e87091523c98dd4e4a4e4e1b695bf67c3db239bba68e7e45e01932293936985"
+    },
+    {
+        "name": "Ethereum POS Testnet",
+        "description": " Quick and Easy Way to Bootstrap your own Local Ethereum PoS Testnet. Great for testing consensus",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/337dbbb2-74f9-4eee-9685-95922c926e38.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/e76d2c47-741f-4277-9b6f-e2930a492b47.png",
+        "category": "Utility",
+        "osoSlug": "",
+        "socialLinks": {
+            "website": [],
+            "farcaster": [],
+            "twitter": null,
+            "mirror": null
+        },
+        "team": [
+            "542731"
+        ],
+        "github": [
+            {
+                "url": "https://github.com/rzmahmood/ethereum-pos-testnet",
+                "name": "Ethereum PoS Testnet",
+                "description": "This deployment process allows you to setup and deploy your own local ethereum PoS networks with multiple nodes. This repository is targeted to developers who want to quickly modify client source code and deploy a PoS network. This setup can is can serve as a reference for building your own production deployments."
+            }
+        ],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [],
+            "revenue": []
+        },
+        "pricingModel": "free",
+        "pricingModelDetails": "",
+        "links": [],
+        "projectUid": "0x7ada1f0835c4c195d0dd8d9761b80f87dab88d21891b2a2e83220720560af7c1"
+    },
+    {
+        "name": "op-besu",
+        "description": "Op-besu is an OP Stack execution client written in Java 21. \n\nWe are OptimismJ who continue to build open source public goods to help the Ethereum and Optimism community get better and better. Our main work is on OP Stack core protocols and ecosystem tools and libraries. You can view more detailed information on our official website https://optimism-java.github.io .",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/cccbc3c2-e7e4-4f1f-9eb9-110b9d3006dd.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/11b27f90-aab4-4013-b554-1375533a88c5.png",
+        "category": "Utility",
+        "osoSlug": "",
+        "socialLinks": {
+            "website": [
+                "https://optimism-java.github.io/op-besu-docs"
+            ],
+            "farcaster": [],
+            "twitter": "https://x.com/optimism_java",
+            "mirror": null
+        },
+        "team": [
+            "193400"
+        ],
+        "github": [
+            {
+                "url": "https://github.com/optimism-java/op-besu",
+                "name": "",
+                "description": ""
+            }
+        ],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [
+                {
+                    "grant": "token-house-mission",
+                    "link": "https://app.charmverse.io/op-grants/op-besu-an-op-stack-execution-client-based-on-hyperledger-besu-2818630304747294",
+                    "amount": "50000",
+                    "date": "2024-05-09",
+                    "details": ""
+                }
+            ],
+            "revenue": []
+        },
+        "pricingModel": "free",
+        "pricingModelDetails": "",
+        "links": [],
+        "projectUid": "0x7d69da70e6453a7abb641a770cad602c0a7893186cb20f990efe22c0cb248115"
+    },
+    {
+        "name": "xuwinnie.review",
+        "description": "Security Researcher.",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/23976744-db3b-49b9-b5d4-3b629a28dd3a.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/f7905adc-4525-4ea2-bc64-925690c7069c.png",
+        "category": "Utility",
+        "osoSlug": "",
+        "socialLinks": {
+            "website": [
+                "xuwinnie.review"
+            ],
+            "farcaster": [],
+            "twitter": null,
+            "mirror": null
+        },
+        "team": [
+            "462511"
+        ],
+        "github": [
+            {
+                "url": "https://github.com/xuwinnie/reports",
+                "name": null,
+                "description": null
+            }
+        ],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [],
+            "revenue": []
+        },
+        "pricingModel": "freemium",
+        "pricingModelDetails": "NA",
+        "links": [],
+        "projectUid": "0x353abbe13c196db288730b62e7a6d8f2755ee968681a67bc7d5e381621ad211a"
+    },
+    {
+        "name": "B<>rder/ess OPstack Cipher Sessions",
+        "description": "Borderless holds Opstack Cipher Sessions in partnership with Superchains in the Optimism Ecosystem to provide education and inspiration resources aimed at producing developers every quarter who are competent in building solutions on the Superchain in a 4 Phase strategy:\n\nGoal 1: B<>rder/ess Web3 Tech Clubs and Integrations (Community & User Education Strategy on interacting with the Optimism Superchain ecosystem)\nGoal 2: OPstack Themed Developer Programme and Dev Bootcamp (Education)\nGoal 3: OPstack Themed Hackathons and Event (Deployment)\nGoal 4: Certification and Business Dev Mentorship (Go to Market strategies)\n\nThis strategy brought;\n\n- Builders\n- Users\n- Products\n- Marketing\n- Updates and contributions to OPstack deployment documentation and Repos.\n\n\nPlease read our latest impact report with OPstack in the Lisk Superchain here\nhttps://mirror.xyz/karlagod.eth/nVxg3z3Uk3N756UFdfydoyj21NCPBaZWpaHRuT9QTQI",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/6276bdf0-ffbc-407d-bb5f-5401600ada70.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/33a91e1b-2237-464a-bf5a-079f93889cf1.png",
+        "category": "Utility",
+        "osoSlug": "",
+        "socialLinks": {
+            "website": [
+                "https://borderless.cryptosmartnow.io/",
+                "https://www.notion.so/B-rder-ess-3-0-Byte-Onchain-dea61442c60243c4b1ba43f69009372f"
+            ],
+            "farcaster": [
+                "https://warpcast.com/karlagod"
+            ],
+            "twitter": "https://x.com/borderlessdev",
+            "mirror": "https://mirror.xyz/karlagod.eth/nVxg3z3Uk3N756UFdfydoyj21NCPBaZWpaHRuT9QTQI"
+        },
+        "team": [
+            "318515"
+        ],
+        "github": [],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [],
+            "revenue": []
+        },
+        "pricingModel": "free",
+        "pricingModelDetails": "",
+        "links": [
+            {
+                "url": "https://mirror.xyz/karlagod.eth/nVxg3z3Uk3N756UFdfydoyj21NCPBaZWpaHRuT9QTQI",
+                "name": "B<>rder/ess Impact Report with OPstack & Lisk Superchain",
+                "description": "We designed a Cipher Session that transitions web2 developers and business owners into the Optimism Superchain ecosystem.\n\nThis resulted in 22 Developers and 4 projects launching on the Optimism ecosystem between April 2024 and August 2024."
+            }
+        ],
+        "projectUid": "0xbcd609d06165ef58ca295b05c1c5a7bcbd500cc673f3fc4cbcb7b10774890b4a"
+    },
+    {
+        "name": "Moved Network",
+        "description": "We're building the next generation Ethereum L2 blockchain on Optimism OP Stack that supports the most secure Move smart contract language. Our goal is to help the security and parallel execution of Move meet Ethereum’s vast liquidity.",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/4088a7f3-ba0f-4ec6-a6bc-ff4caaf666eb.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/68088c9d-248f-4b4c-b8b7-1e8c52c5569a.png",
+        "category": "Cross Chain",
+        "osoSlug": "",
+        "socialLinks": {
+            "website": [
+                "https://moved.network"
+            ],
+            "farcaster": [],
+            "twitter": "https://x.com/MovedNetwork",
+            "mirror": null
+        },
+        "team": [
+            "831955"
+        ],
+        "github": [],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [
+                {
+                    "grant": null,
+                    "link": null,
+                    "amount": "under-1m",
+                    "date": "2024",
+                    "details": "Received some of the pre-seed investment from 4 VCs and 2 angels. The rounds is still open for more investment."
+                }
+            ],
+            "revenue": []
+        },
+        "pricingModel": "pay_to_use",
+        "pricingModelDetails": "Users pay for transaction fees",
+        "links": [
+            {
+                "url": "https://www.crunchbase.com/organization/moved-network",
+                "name": "Crunchbase",
+                "description": "Company investor profile"
+            }
+        ],
+        "projectUid": "0x5606763865e540ae9ff0c58f206a708f58ea117c08d8d8d1e74f768abeff084c"
+    },
+    {
+        "name": "op-besu",
+        "description": "Op-besu is an OP Stack execution client written in Java 21. \n\nWe are OptimismJ who continue to build open source public goods to help the Ethereum and Optimism community get better and better. Our main work is on OP Stack core protocols and ecosystem tools and libraries. You can view more detailed information on our official [website](https://optimism-java.github.io) .",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/cccbc3c2-e7e4-4f1f-9eb9-110b9d3006dd.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/11b27f90-aab4-4013-b554-1375533a88c5.png",
+        "category": "Utility",
+        "osoSlug": "op-besu-optimism-java",
+        "socialLinks": {
+            "website": [
+                "https://optimism-java.github.io/op-besu-docs"
+            ],
+            "farcaster": [],
+            "twitter": "https://x.com/optimism_java",
+            "mirror": null
+        },
+        "team": [
+            "193400"
+        ],
+        "github": [
+            {
+                "url": "https://github.com/optimism-java/op-besu",
+                "name": "",
+                "description": ""
+            }
+        ],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [
+                {
+                    "grant": "token-house-mission",
+                    "link": "https://app.charmverse.io/op-grants/op-besu-an-op-stack-execution-client-based-on-hyperledger-besu-2818630304747294",
+                    "amount": "50000",
+                    "date": "2024-05-09",
+                    "details": ""
+                }
+            ],
+            "revenue": []
+        },
+        "pricingModel": "free",
+        "pricingModelDetails": "",
+        "links": [],
+        "projectUid": "0x7d69da70e6453a7abb641a770cad602c0a7893186cb20f990efe22c0cb248115"
+    },
+    {
+        "name": "xuwinnie.review",
+        "description": "Security Researcher.",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/23976744-db3b-49b9-b5d4-3b629a28dd3a.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/f7905adc-4525-4ea2-bc64-925690c7069c.png",
+        "category": "Utility",
+        "osoSlug": "",
+        "socialLinks": {
+            "website": [
+                "xuwinnie.review"
+            ],
+            "farcaster": [],
+            "twitter": "https://x.com/xuwinniexu",
+            "mirror": null
+        },
+        "team": [
+            "462511"
+        ],
+        "github": [
+            {
+                "url": "https://github.com/xuwinnie/reports",
+                "name": null,
+                "description": null
+            }
+        ],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [],
+            "revenue": []
+        },
+        "pricingModel": "freemium",
+        "pricingModelDetails": "Factors include sloc, complexity, postive impact...",
+        "links": [],
+        "projectUid": "0x353abbe13c196db288730b62e7a6d8f2755ee968681a67bc7d5e381621ad211a"
+    },
+    {
+        "name": "hildr",
+        "description": "Hildr is an OP Stack rollup node client written in Java 21. \n\nWe are OptimismJ who continue to build open source public goods to help the Ethereum and Optimism community get better and better. Our main work is on OP Stack core protocols and ecosystem tools and libraries. You can view more detailed information on our official website https://optimism-java.github.io .",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/d304db21-cc7e-4236-8a63-a2a5161c4aee.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/2d30ac8c-806b-4332-b596-c8b5faadc032.png",
+        "category": "Utility",
+        "osoSlug": "hildr-optimism-java",
+        "socialLinks": {
+            "website": [
+                "https://optimism-java.github.io/hildr-docs"
+            ],
+            "farcaster": [],
+            "twitter": "https://x.com/optimism_java",
+            "mirror": null
+        },
+        "team": [
+            "193400",
+            "754190"
+        ],
+        "github": [
+            {
+                "url": "https://github.com/optimism-java/hildr",
+                "name": "",
+                "description": ""
+            }
+        ],
+        "packages": [
+            {
+                "url": "https://github.com/optimism-java/hildr/pkgs/container/hildr",
+                "name": null,
+                "description": null
+            },
+            {
+                "url": "https://github.com/optimism-java/hildr/releases/tag/v0.4.4",
+                "name": null,
+                "description": null
+            }
+        ],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [
+                {
+                    "grant": null,
+                    "link": null,
+                    "amount": "62608.95",
+                    "date": "",
+                    "details": null
+                },
+                {
+                    "grant": "token-house-mission",
+                    "link": "https://app.charmverse.io/op-grants/page-4923039239406415",
+                    "amount": "25000",
+                    "date": "2023-07-05",
+                    "details": ""
+                }
+            ],
+            "revenue": []
+        },
+        "pricingModel": "free",
+        "pricingModelDetails": "",
+        "links": [
+            {
+                "url": "https://www.opensource.observer/project/hildr-optimism-java",
+                "name": "",
+                "description": ""
+            }
+        ],
+        "projectUid": "0x7333cac46b20999de07f4d7be5146c10a30f19586907bd2ce986b81af340cb97"
+    },
+    {
+        "name": "op-besu",
+        "description": "Op-besu is an OP Stack execution client written in Java 21. We are OptimismJ who continue to build open source public goods to help the Ethereum and Optimism community get better and better. Our main work is on OP Stack core protocols and ecosystem tools and libraries. You can view more detailed information on our official website https://optimism-java.github.io .",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/cccbc3c2-e7e4-4f1f-9eb9-110b9d3006dd.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/11b27f90-aab4-4013-b554-1375533a88c5.png",
+        "category": "Utility",
+        "osoSlug": "",
+        "socialLinks": {
+            "website": [
+                "https://optimism-java.github.io/op-besu-docs"
+            ],
+            "farcaster": [],
+            "twitter": "https://x.com/optimism_java",
+            "mirror": null
+        },
+        "team": [
+            "193400"
+        ],
+        "github": [
+            "https://github.com/optimism-java/op-besu"
+        ],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [
+                {
+                    "grant": "token-house-mission",
+                    "link": "https://app.charmverse.io/op-grants/op-besu-an-op-stack-execution-client-based-on-hyperledger-besu-2818630304747294",
+                    "amount": "50000",
+                    "date": "2024-05-09",
+                    "details": ""
+                }
+            ],
+            "revenue": []
+        },
+        "pricingModel": "free",
+        "pricingModelDetails": "",
+        "links": [],
+        "projectUid": "0x7d69da70e6453a7abb641a770cad602c0a7893186cb20f990efe22c0cb248115"
+    },
+    {
+        "name": "MetaCRM",
+        "description": "MetaCRM provides a suite of innovative software solutions empowering marketing efficiency & personalized customer service for Web3 businesses.",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/f3d4c02b-2511-4026-a886-1b74a7a4c206.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/1d6693d9-6b5e-489e-83dc-c4416f78ca93.png",
+        "category": "Utility",
+        "osoSlug": "",
+        "socialLinks": {
+            "website": [
+                "https://metacrm.inc/#/"
+            ],
+            "farcaster": [
+                "https://warpcast.com/metacrm"
+            ],
+            "twitter": "https://x.com/metacrm_inc",
+            "mirror": null
+        },
+        "team": [
+            "477715"
+        ],
+        "github": [],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [
+                {
+                    "grant": null,
+                    "link": null,
+                    "amount": "1m-5m",
+                    "date": "2023",
+                    "details": "Seed Round. Investors are Cherubic Ventures, Red Building Capital, Blockchain Founders Fund, and Ondine Capital"
+                }
+            ],
+            "revenue": []
+        },
+        "pricingModel": "freemium",
+        "pricingModelDetails": "https://metacrm.gitbook.io/metacrm/other-info/pricing",
+        "links": [
+            {
+                "url": "https://app.radiant.capital/#/markets",
+                "name": "Use case",
+                "description": "Examples - dApps installed our front-end widget"
+            }
+        ],
+        "projectUid": "0x20b1e383963c6d8c3aad208dd5b90b27462a47f9835d567ed44137ade1b5cb45"
+    },
+    {
+        "name": "Nfts ",
+        "description": "nft creation ",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/39cfa64d-46e8-43a1-9bf8-baf6d41de613.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/f43cc8a7-8575-45c8-843f-01f9830befd0.png",
+        "category": "NFT",
+        "osoSlug": "",
+        "socialLinks": {
+            "website": [],
+            "farcaster": [],
+            "twitter": null,
+            "mirror": null
+        },
+        "team": [
+            "427926"
+        ],
+        "github": [],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [],
+            "revenue": []
+        },
+        "pricingModel": "free",
+        "pricingModelDetails": "",
+        "links": [],
+        "projectUid": "0x965d10dd8af44d0286af95744897ac7e066f92114c080c021e628f4af3eda298"
+    },
+    {
+        "name": "Retro Funding Site Design",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/0396a5dd-24c9-4cd1-87ea-8c93b74bb130.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/447dce96-b7cf-462b-ae97-06308f42c105.png",
+        "category": "Governance",
+        "osoSlug": "",
+        "socialLinks": {
+            "website": [],
+            "farcaster": [],
+            "twitter": null,
+            "mirror": null
+        },
+        "team": [
+            "5779",
+            "844381"
+        ],
+        "github": [],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [],
+            "revenue": []
+        },
+        "pricingModel": "free",
+        "pricingModelDetails": "",
+        "links": [],
+        "projectUid": "0xfb1bd0a94666151d58855ec6dd4f67c41ec5974085b571a8673c0ffba5d764e2"
+    },
+    {
+        "name": "FANBASE ✨",
+        "description": "This is a fanbase community that operates in the field of social engagement.",
+        "projectAvatarUrl": "https://cdn.charmverse.io/user-content/6020d938-f07e-4f95-a756-5562f175762e/f6550061-4756-49ac-b3da-6dc87fd589a9/76716e6b0c575e52832cf0f58cae6f2c.jpg",
+        "projectCoverImageUrl": "https://cdn.charmverse.io/user-content/6020d938-f07e-4f95-a756-5562f175762e/906bad2e-6a95-4bba-9261-aeaf88ff7afe/Screenshot_20240823-030141_1.jpg",
+        "category": "Social",
+        "osoSlug": "",
+        "socialLinks": {
+            "website": [
+                "https://www.fanbase.app/"
+            ],
+            "farcaster": [
+                "https://warpcast.com/denzooo",
+                "https://warpcast.com/phynn",
+                "https://warpcast.com/cepodr"
+            ],
+            "twitter": "",
+            "mirror": null
+        },
+        "team": [
+            "508591"
+        ],
+        "github": [],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [],
+            "revenue": []
+        },
+        "pricingModel": "free",
+        "pricingModelDetails": "",
+        "links": [
+            {
+                "url": "https://news.fanbase.app/",
+                "name": "Fanbase",
+                "description": "Fanbase is a FREE Next-Generation Social Media App that allows ANY user to earn money from day one.\nUnlike other social apps, Fanbase is the one place you can truly be you "
+            }
+        ],
+        "projectUid": "0xa7d3f54fe62bbff857bba25d18d385d943741e6d970e5491d1341218e54a6762"
+    },
+    {
+        "name": "Blocknative Blob Archive and Research",
+        "description": "Blocknative is dedicated to building developer-friendly tools that enhance user experience and ecosystem growth. We specialize in creating innovative solutions for gas fee estimation across various blockchains and have been building, running, and maintaining advanced gas estimation and optimization infrastructure since 2021. ",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/89b7357e-0cb5-45d1-8c20-b1c835ad584c.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/735c2a57-e42e-4b09-8f55-67e6bcdab127.png",
+        "category": "Utility",
+        "osoSlug": "",
+        "socialLinks": {
+            "website": [
+                "Blocknative.com"
+            ],
+            "farcaster": [],
+            "twitter": "x.com/blocknative",
+            "mirror": null
+        },
+        "team": [
+            "410300"
+        ],
+        "github": [],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [
+                {
+                    "grant": null,
+                    "link": null,
+                    "amount": "99378",
+                    "date": "",
+                    "details": null
+                },
+                {
+                    "grant": "foundation-mission",
+                    "link": "https://app.charmverse.io/op-grants/batcher-gas-fee-optimization-research-and-implementation-419013603973726",
+                    "amount": "40000",
+                    "date": "2024-05-14",
+                    "details": ""
+                },
+                {
+                    "grant": null,
+                    "link": null,
+                    "amount": "10m-25m",
+                    "date": "2021",
+                    "details": "https://www.blocknative.com/blog/blocknative-raises-15m-for-block-building"
+                }
+            ],
+            "revenue": []
+        },
+        "pricingModel": "free",
+        "pricingModelDetails": "",
+        "links": [
+            {
+                "url": "https://www.blocknative.com/blog/how-self-built-blocks-unintentionally-introduce-base-fee-volatility ",
+                "name": "How Self-Built Blocks Unintentionally Introduce Base Fee Volatility",
+                "description": "analyzes how self-built blocks impact base fee volatility"
+            },
+            {
+                "url": "https://www.blocknative.com/blog/june-20th-blob-contention-event-retrospective ",
+                "name": "Blob Inversion: An Investigation Into the June 20th 2024 Blob Spike",
+                "description": "investigates the June 20th blob contention event"
+            },
+            {
+                "url": "https://www.blocknative.com/blog/ethereums-eip-4844-dencun-upgrade-a-85-day-analysis",
+                "name": "Ethereum's EIP 4844 Dencun Upgrade: A 85-Day Analysis",
+                "description": "provides an 85-day analysis of the Dencun upgrade"
+            },
+            {
+                "url": "https://docs.blocknative.com/blocknative-data-archive",
+                "name": "Blocknative Mempool Archive (and Blob Archive)",
+                "description": "The Blob Archive complements our existing Mempool Archive, offering a comprehensive view of Ethereum network activity.\n"
+            }
+        ],
+        "projectUid": "0x7e4eb6294ad8e97eceb3bb6a39891eb386bfbaa5d4e8f16a9939d18ad79d789c"
+    },
+    {
+        "name": "xuwinnie.review",
+        "description": "Security Researcher.",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/23976744-db3b-49b9-b5d4-3b629a28dd3a.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/f7905adc-4525-4ea2-bc64-925690c7069c.png",
+        "category": "Utility",
+        "osoSlug": "",
+        "socialLinks": {
+            "website": [
+                "xuwinnie.review"
+            ],
+            "farcaster": [],
+            "twitter": "https://x.com/xuwinniexu",
+            "mirror": null
+        },
+        "team": [
+            "462511"
+        ],
+        "github": [
+            {
+                "url": "https://github.com/xuwinnie/reports",
+                "name": "",
+                "description": ""
+            }
+        ],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [],
+            "revenue": []
+        },
+        "pricingModel": "freemium",
+        "pricingModelDetails": "Factors include sloc, complexity, postive impact...",
+        "links": [
+            {
+                "url": "https://github.com/code-423n4/2024-07-optimism-findings/issues/36",
+                "name": "C4 H-01: Invalid DISPUTED_L2_BLOCK_NUMBER is passed to VM",
+                "description": "An attacker can counter a valid output claim by providing a trace containing one block after the original claim. To be fixed in the Granite Network Upgrade."
+            }
+        ],
+        "projectUid": "0x353abbe13c196db288730b62e7a6d8f2755ee968681a67bc7d5e381621ad211a"
+    },
+    {
+        "name": "RPCHub",
+        "description": "RPCHub is an open source RPC aggregator allowing you to customize configurations and set own strategies, enabling the fastest and most robust RPC services.",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/db450965-ac30-4d2e-a635-39d40d1e4179.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/48fb767e-4b37-432b-91b6-be8671b99c45.png",
+        "category": "Utility",
+        "osoSlug": "",
+        "socialLinks": {
+            "website": [
+                "https://rpchub.io/"
+            ],
+            "farcaster": [],
+            "twitter": "https://x.com/RealRPCHub",
+            "mirror": null
+        },
+        "team": [
+            "568168"
+        ],
+        "github": [
+            {
+                "url": "https://github.com/BlockPILabs/aggregator",
+                "name": "",
+                "description": ""
+            }
+        ],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [],
+            "revenue": []
+        },
+        "pricingModel": "free",
+        "pricingModelDetails": "",
+        "links": [
+            {
+                "url": "https://discord.com/channels/900985418202365982/1083240109811445801",
+                "name": "RPChub discord channel",
+                "description": "Many developers have expressed that this tool is very useful."
+            },
+            {
+                "url": "https://github.com/ethereum-optimism/ecosystem-contributions/pull/193",
+                "name": "Builder Ideas PR",
+                "description": "The pull request we submitted and got approved and merged"
+            }
+        ],
+        "projectUid": "0xc8baf94c13404f1f5f1fb13de286c052bae58919ca80fd2be5d61312be096b35"
+    },
+    {
+        "name": "BASE BTC EARTH 🌍",
+        "description": "Hello, I am a designer. I am an artificial intelligence designer. I am 25 years old. I'm from Turkey. I need some support. I want to do more for Optimisim. I don't know much about Github. But everything I did here is as you want. I increased the on-chain activity and interacted with 420 wallets. https://element.market/collections/base-btc-earth",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/f7b97236-dce1-4e44-873c-74bb5f31b49c.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/963d18b8-32a1-4d7c-a09a-640cd20e4f22.png",
+        "category": "NFT",
+        "osoSlug": "BASE BTC EARTH 🌍",
+        "socialLinks": {
+            "website": [
+                "https://element.market/collections/base-btc-earth"
+            ],
+            "farcaster": [],
+            "twitter": null,
+            "mirror": null
+        },
+        "team": [
+            "569945"
+        ],
+        "github": [
+            {
+                "url": "https://github.com/mali030303/BASE-BTC-EARTH--",
+                "name": null,
+                "description": null
+            }
+        ],
+        "packages": [],
+        "contracts": [],
+        "grantsAndFunding": {
+            "ventureFunding": [],
+            "grants": [],
+            "revenue": []
+        },
+        "pricingModel": "pay_to_use",
+        "pricingModelDetails": "Our price is the lowest fee. Our goal is community before money. It is usually a fee like 0.00001 Eth that everyone can reach.This is true for all the projects I do.",
+        "links": [],
+        "projectUid": "0xcb0434aaf86a5dca68f96edefc22bf04a16bbfaa48b0a4a40c844f1afb8d7b1e"
     },
     {
         "name": "hildr",
@@ -1183,74 +1671,47 @@
                 "name": "",
                 "description": ""
             }
-        ]
+        ],
+        "projectUid": "0x7333cac46b20999de07f4d7be5146c10a30f19586907bd2ce986b81af340cb97"
     },
     {
-        "name": "op-besu",
-        "description": "Op-besu is an OP Stack execution client written in Java 21. \n\nWe are OptimismJ who continue to build open source public goods to help the Ethereum and Optimism community get better and better. Our main work is on OP Stack core protocols and ecosystem tools and libraries. You can view more detailed information on our official [website](https://optimism-java.github.io) .",
-        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/cccbc3c2-e7e4-4f1f-9eb9-110b9d3006dd.png",
-        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/11b27f90-aab4-4013-b554-1375533a88c5.png",
+        "name": "hildr",
+        "description": "Hildr is an OP Stack consensus client written in Java 21. \n\nWe are OptimismJ who continue to build open source public goods to help the Ethereum and Optimism community get better and better. Our main work is on OP Stack core protocols and ecosystem tools and libraries. You can view more detailed information on our official website https://optimism-java.github.io .",
+        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/d304db21-cc7e-4236-8a63-a2a5161c4aee.png",
+        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/2d30ac8c-806b-4332-b596-c8b5faadc032.png",
         "category": "Utility",
-        "osoSlug": "op-besu-optimism-java",
+        "osoSlug": "hildr-optimism-java",
         "socialLinks": {
             "website": [
-                "https://optimism-java.github.io/op-besu-docs"
+                "https://optimism-java.github.io/hildr-docs"
             ],
             "farcaster": [],
             "twitter": "https://x.com/optimism_java",
             "mirror": null
         },
         "team": [
-            "193400"
+            "193400",
+            "754190"
         ],
         "github": [
             {
-                "url": "https://github.com/optimism-java/op-besu",
+                "url": "https://github.com/optimism-java/hildr",
                 "name": "",
                 "description": ""
             }
         ],
-        "packages": [],
-        "contracts": [],
-        "grantsAndFunding": {
-            "ventureFunding": [],
-            "grants": [
-                {
-                    "grant": "token-house-mission",
-                    "link": "https://app.charmverse.io/op-grants/op-besu-an-op-stack-execution-client-based-on-hyperledger-besu-2818630304747294",
-                    "amount": "50000",
-                    "date": "2024-05-09",
-                    "details": ""
-                }
-            ],
-            "revenue": []
-        },
-        "pricingModel": "free",
-        "pricingModelDetails": "",
-        "links": []
-    },
-    {
-        "name": "MetaCRM",
-        "description": "MetaCRM provides a suite of innovative software solutions empowering marketing efficiency & personalized customer service for Web3 businesses.",
-        "projectAvatarUrl": "https://storage.googleapis.com/op-atlas/f3d4c02b-2511-4026-a886-1b74a7a4c206.png",
-        "projectCoverImageUrl": "https://storage.googleapis.com/op-atlas/1d6693d9-6b5e-489e-83dc-c4416f78ca93.png",
-        "category": "Utility",
-        "osoSlug": "",
-        "socialLinks": {
-            "website": [
-                "https://metacrm.inc/#/"
-            ],
-            "farcaster": [
-                "https://warpcast.com/metacrm"
-            ],
-            "twitter": "https://x.com/metacrm_inc",
-            "mirror": null
-        },
-        "team": [
-            "477715"
+        "packages": [
+            {
+                "url": "https://github.com/optimism-java/hildr/pkgs/container/hildr",
+                "name": null,
+                "description": null
+            },
+            {
+                "url": "https://github.com/optimism-java/hildr/releases/tag/v0.4.4",
+                "name": null,
+                "description": null
+            }
         ],
-        "github": [],
-        "packages": [],
         "contracts": [],
         "grantsAndFunding": {
             "ventureFunding": [],
@@ -1258,21 +1719,29 @@
                 {
                     "grant": null,
                     "link": null,
-                    "amount": "1m-5m",
-                    "date": "2023",
-                    "details": "Seed Round. Investors are Cherubic Ventures, Red Building Capital, Blockchain Founders Fund, and Ondine Capital"
+                    "amount": "62608.95",
+                    "date": "",
+                    "details": null
+                },
+                {
+                    "grant": "token-house-mission",
+                    "link": "https://app.charmverse.io/op-grants/page-4923039239406415",
+                    "amount": "25000",
+                    "date": "2023-07-05",
+                    "details": ""
                 }
             ],
             "revenue": []
         },
-        "pricingModel": "freemium",
-        "pricingModelDetails": "https://metacrm.gitbook.io/metacrm/other-info/pricing",
+        "pricingModel": "free",
+        "pricingModelDetails": "",
         "links": [
             {
-                "url": "https://app.radiant.capital/#/markets",
-                "name": "Use case",
-                "description": "Examples - dApps installed our front-end widget"
+                "url": "https://www.opensource.observer/project/hildr-optimism-java",
+                "name": "",
+                "description": ""
             }
-        ]
+        ],
+        "projectUid": "0x7333cac46b20999de07f4d7be5146c10a30f19586907bd2ce986b81af340cb97"
     }
 ]
