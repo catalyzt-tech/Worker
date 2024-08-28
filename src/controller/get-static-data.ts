@@ -14,6 +14,7 @@ export async function GetStaticData(request: FastifyRequest<{ Params: { '*': str
                     msg: "ok",
                     type: "folder",
                     data: files,
+                    snapshotTime: stats.mtime,
                 });
             } else {
                 // If it's a file read and send its contents
