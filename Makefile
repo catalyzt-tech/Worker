@@ -1,5 +1,5 @@
 serve:
-	pnpm dev:Serve
+	pnpm dev
 
 
 build:
