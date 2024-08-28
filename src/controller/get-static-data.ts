@@ -25,12 +25,14 @@ export async function GetStaticData(request: FastifyRequest<{ Params: { '*': str
                         msg: "ok",
                         type: "file",
                         data: jsonData,
+                        snapshotTime: stats.mtime,
                     });
                 } else {
                     reply.status(200).send({
                         msg: "ok",
                         type: "file",
                         data: data,
+                        snapshotTime: stats.mtime,
                     });
                 }
             }
