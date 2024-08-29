@@ -14,6 +14,7 @@ export async function GetStaticData(request: FastifyRequest<{ Params: { '*': str
                     msg: "ok",
                     type: "folder",
                     data: files,
+                    snapshotTime: stats.mtime,
                 });
             } else {
                 // If it's a file read and send its contents
@@ -24,12 +25,14 @@ export async function GetStaticData(request: FastifyRequest<{ Params: { '*': str
                         msg: "ok",
                         type: "file",
                         data: jsonData,
+                        snapshotTime: stats.mtime,
                     });
                 } else {
                     reply.status(200).send({
                         msg: "ok",
                         type: "file",
                         data: data,
+                        snapshotTime: stats.mtime,
                     });
                 }
             }
