@@ -1,29 +1,32 @@
-import { ApolloClient, gql, HttpLink, InMemoryCache } from "@apollo/client/core";
+import { ApolloClient, gql, HttpLink, InMemoryCache, NormalizedCacheObject } from "@apollo/client/core";
 import fetch from "cross-fetch";
 import axios from "axios";
 import { Savefile } from "../../../lib/save-file/save-file";
 
-const httpLink = new HttpLink({
-    uri: "https://optimism.easscan.org/graphql",
-    fetch: fetch,
-});
+function createApolloClient() {
+    const httpLink = new HttpLink({
+        uri: "https://optimism.easscan.org/graphql",
+        fetch: fetch,
+    });
 
-const client = new ApolloClient({
-    link: httpLink,
-    cache: new InMemoryCache({
-        resultCaching: false,
-    }),
-    defaultOptions: {
-        query: {
-            fetchPolicy: 'no-cache',
+    return new ApolloClient({
+        link: httpLink,
+        cache: new InMemoryCache({
+            resultCaching: false,
+        }),
+        defaultOptions: {
+            query: {
+                fetchPolicy: 'network-only',
+            },
+            watchQuery: {
+                fetchPolicy: 'network-only',
+            },
         },
-        watchQuery: {
-            fetchPolicy: 'no-cache',
-        },
-    },
-})
+    });
+}
 
-async function fetchMetadataSnapshot() {
+async function fetchMetadataSnapshot(client: ApolloClient<NormalizedCacheObject>) {
+
     const query = gql`
 query {
   attestations(where: {
@@ -39,6 +42,7 @@ query {
 }
 `;
     try {
+
         const result = await client.query({
             query: query,
         });
@@ -56,7 +60,7 @@ query {
     }
 }
 
-async function fetchMetadataURL(refUid: string) {
+async function fetchMetadataURL(refUid: string, client: ApolloClient<NormalizedCacheObject>) {
     const query = gql`query {
   attestations(where: {
     schemaId: {
@@ -70,6 +74,8 @@ async function fetchMetadataURL(refUid: string) {
   }
 }`;
     try {
+        
+
         const result = await client.query({
             query: query,
         });
@@ -94,12 +100,12 @@ async function fetchMetadataURL(refUid: string) {
 
 
 
-export async function fetchAndProcessData() {
+export async function fetchAndProcessData(client: ApolloClient<NormalizedCacheObject>) {
     console.log("Fetching and processing data . . .");
     try {
-        const data = await fetchMetadataSnapshot();
+        const data = await fetchMetadataSnapshot(client);
         const urlArrays = await Promise.all(data.map(async (d: string) => {
-            const urls = await fetchMetadataURL(d);
+            const urls = await fetchMetadataURL(d, client);
             return urls;
         }));
         const concatenatedUrls = [].concat(...urlArrays);
@@ -116,7 +122,7 @@ export async function fetchAndProcessData() {
                     console.error("Error fetching project data from metadataURL:", error);
                 }
             }));
-            console.log(responses)
+            client.stop()
             return responses;
         } catch (error) {
             console.error("Error fetching project data:", error);
@@ -131,7 +137,7 @@ export async function fetchAndProcessData() {
 const DATA_DIR = ['data', 'retropgf5-live-data']
 
 // Which evaluates to 'At 0 seconds, 0 minutes every 1st hour'.
-// const CRON_TIMER:string | undefined = "*/5 * * * *"
+// const CRON_TIMER: string | undefined = "*/1 * * * *";
 const CRON_TIMER: string | undefined = "0 0 */1 * * *"
 // const CRON_TIMER:string | undefined = undefined
 
@@ -140,8 +146,8 @@ async function Run() {
     const fileName = "retropgf5-live-data.json"
 
     try {
-
-        const dataArray = await fetchAndProcessData();
+        const client = createApolloClient();
+        const dataArray = await fetchAndProcessData(client);
         // const dataArray: any[] = []
         await Savefile(JSON.stringify(dataArray), DATA_DIR, fileName)
         // console.log("save retropgf5 \n", dataArray)
