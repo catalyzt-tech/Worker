@@ -5,7 +5,7 @@ on:
     branches: ["main"]
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: "tgrziminiar/worker"
+  IMAGE_NAME: "catalyzt-tech/worker"
 
 jobs:
   build:
