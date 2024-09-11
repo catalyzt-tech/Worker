@@ -3,8 +3,14 @@ import * as path from "path";
 import { FastifyReply, FastifyRequest } from "fastify";
 
 export async function GetStaticData(request: FastifyRequest<{ Params: { '*': string } }>, reply: FastifyReply) {
-    const fullPath = path.resolve(process.cwd(), 'data', request.params['*']);
 
+    // Ensure the requested path is within the base path
+    if ((request.params['*'].match(/\//g) || []).length >= 1) {
+        reply.status(403).send('Access denied: Too many subdirectories');
+        return;
+    }
+
+    const fullPath = path.resolve(process.cwd(), 'data', request.params['*']);
         try {
             const stats = await fs.promises.stat(fullPath);
             if (stats.isDirectory()) {
