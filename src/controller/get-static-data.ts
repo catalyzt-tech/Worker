@@ -3,13 +3,15 @@ import * as path from "path";
 import { FastifyReply, FastifyRequest } from "fastify";
 
 export async function GetStaticData(request: FastifyRequest<{ Params: { '*': string } }>, reply: FastifyReply) {
+    
+    let paramPath = request.params['*'] || '';
 
     // Ensure the requested path is within the base path
-    if ((request.params['*'].match(/\//g) || []).length >= 1) {
-        reply.status(403).send('Access denied: Too many subdirectories');
+    if (paramPath.startsWith('/')) {
+        reply.status(403).send('Access denied: Outside of allowed directory');
         return;
     }
-
+    
     const fullPath = path.resolve(process.cwd(), 'data', request.params['*']);
         try {
             const stats = await fs.promises.stat(fullPath);
@@ -23,6 +25,13 @@ export async function GetStaticData(request: FastifyRequest<{ Params: { '*': str
                     snapshotTime: stats.mtime,
                 });
             } else {
+
+                const ext = path.extname(fullPath).toLowerCase();
+                if (ext !== '.json' && ext !== '.txt') {
+                    reply.status(403).send('Access denied: Only .json and .txt files are allowed');
+                    return;
+                }
+
                 // If it's a file read and send its contents
                 const data = await fs.promises.readFile(fullPath, 'utf8');
                 if (path.extname(fullPath) === '.json') {
