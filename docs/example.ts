@@ -3,8 +3,11 @@ const MODULE_NAME = "MODULE_NAME"
 const DATA_DIR = [ 'data', 'any-folder-name']
 
 // CRON_TIMER is the cron job timer for the module, it can be undefined if the module is not a cron job
+// Which evaluates to 'At 0 seconds, 0 minutes every 1st hour'.
+// const CRON_TIMER = "0 0 */1 * * *"
 // visit https://github.com/node-cron/node-cron to get the cron job timer
 const CRON_TIMER:string | undefined = undefined
+
 
 async function Run() {
 

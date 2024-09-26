@@ -5,7 +5,7 @@ import { FilePathAndUrl } from "../list-all-files-github-type";
 import { chunkArray, convertSpecialChar, headerGithub } from "../../utils/utils";
 import { Savefile } from "../save-file/save-file";
 
-
+// SaveFileMdxGithub: use to save a file that scrape from github
 export async function SaveFileMdxGithub(docs: FilePathAndUrl[], requiredPath: string[] = [], baseRefUrl:string) {
 
     try {
@@ -31,7 +31,7 @@ export async function SaveFileMdxGithub(docs: FilePathAndUrl[], requiredPath: st
                         headers: headers
                     });
             
-                    let content:string = "";
+                    let content:string = ""
     
                     // decode encrypt content from github
                     const decodedContent = Buffer.from(response.data.content, 'base64').toString('utf-8');
