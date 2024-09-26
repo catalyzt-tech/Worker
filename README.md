@@ -11,6 +11,7 @@ Worker dynamically imports and executes TypeScript files from the `src/scripts` 
     - It should export a `CRON_TIMER` variable that will be used to set the cronjob timer
         - CRON_TIMER is the cronjob timer for the module, it can be undefined if the module is not a cronjob
         - Visit https://github.com/node-cron/node-cron to learn the format of cronjob
+        - <a href="https://cloud.google.com/scheduler/docs/configuring/cron-job-schedules">https://cloud.google.com/scheduler/docs/configuring/cron-job-schedules</a>
 
 ## Api Route
 - Get /api/ will list all the static file that can be served
@@ -18,7 +19,7 @@ Worker dynamically imports and executes TypeScript files from the `src/scripts` 
 - Get /api/(any-folder-name) will list all the file in the folder
 - Get /api/(any-folder-name)/(any-file-name) will serve the file
 - Get /api/modules will list all the modules that can we run
-- Post /api/modules/run/(any-module-name) will run the module 
+- Post /backoffice/modules/run/(any-module-name) will run the module 
     - it required post body with a password
 
 
@@ -35,4 +36,3 @@ Worker dynamically imports and executes TypeScript files from the `src/scripts` 
     	pnpm run build
 	    node dist/src/index.js
     ```
-
