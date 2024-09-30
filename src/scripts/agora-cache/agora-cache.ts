@@ -4,8 +4,8 @@ import { GetAllProjects } from "./_helper/agora-api"
 const DATA_DIR = ["data", "agora-cache"]
 const FILENAME = "agora-cache.json"
 
-const CRON_TIMER: string | undefined = undefined
-
+// Schedule a task to run every 30 minutes
+const CRON_TIMER: string | undefined = "*/30 * * * *"
 
 async function Run() {
   console.log("Agora cache starting is starting . . .")
