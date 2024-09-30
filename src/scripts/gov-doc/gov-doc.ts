@@ -4,7 +4,6 @@ import { SaveFileMdxGithub } from "../../../lib/op-github/save-file-mdx-from-git
 
 const DATA_DIR = [ 'data', 'gov-doc-data']
 
-// Which evaluates to 'At 0 seconds, 0 minutes every 1st hour'.
 const CRON_TIMER:string | undefined = undefined
 
 async function Run() {

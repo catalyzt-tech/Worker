@@ -137,9 +137,7 @@ export async function fetchAndProcessData(client: ApolloClient<NormalizedCacheOb
 const DATA_DIR = ['data', 'retropgf5-live-data']
 
 // Which evaluates to 'At 0 seconds, 0 minutes every 1st hour'.
-// const CRON_TIMER: string | undefined = "*/1 * * * *";
 const CRON_TIMER: string | undefined = "0 0 */1 * * *"
-// const CRON_TIMER:string | undefined = undefined
 
 async function Run() {
     console.log("RetroPGF5 Live Data is starting . . .");

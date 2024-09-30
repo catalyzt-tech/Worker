@@ -17,9 +17,7 @@ import { GetAllProjectsUrl } from "./sitemap/sitemap"
 
 const DATA_DIR = ['data', 'forum-data']
 
-// Which evaluates to 'At 0 seconds, 0 minutes every 1st hour'.
 const CRON_TIMER:string | undefined = undefined
-// const CRON_TIMER:string | undefined = "0 0 */1 * * *"
 
 async function Run() {
     

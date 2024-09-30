@@ -24,6 +24,6 @@ export async function Savefile(data: any, requiredPath: string[] = [], fileName:
         console.log(`File successfully written to ${filePath}`);
     } catch (error) {
         console.error("An error occurred during the save file process:", error);
-        throw error; // Re-throw the error for proper handling upstream
+        throw new Error("An error occurred during the save file process");
     }
 }

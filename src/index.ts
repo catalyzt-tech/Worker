@@ -60,7 +60,7 @@ async function processScripts() {
                         const dataDir = module.DATA_DIR.join("").replace("data","");
 
                         // get the api path
-                        const apiPath = "/api/modules/run/" + file;
+                        const apiPath = "/backoffice/modules/run/" + file;
                         
                         // add to the res object
                         fileNameAndApiPath[file] = apiPath;
