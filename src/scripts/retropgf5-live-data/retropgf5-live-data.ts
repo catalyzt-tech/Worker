@@ -140,21 +140,21 @@ const DATA_DIR = ['data', 'retropgf5-live-data']
 const CRON_TIMER: string | undefined = "0 0 */1 * * *"
 
 async function Run() {
-    console.log("RetroPGF5 Live Data is starting . . .");
-    const fileName = "retropgf5-live-data.json"
+    // console.log("RetroPGF5 Live Data is starting . . .");
+    // const fileName = "retropgf5-live-data.json"
 
-    try {
-        const client = createApolloClient();
-        const dataArray = await fetchAndProcessData(client);
-        // const dataArray: any[] = []
-        await Savefile(JSON.stringify(dataArray), DATA_DIR, fileName)
-        // console.log("save retropgf5 \n", dataArray)
+    // try {
+    //     const client = createApolloClient();
+    //     const dataArray = await fetchAndProcessData(client);
+    //     // const dataArray: any[] = []
+    //     await Savefile(JSON.stringify(dataArray), DATA_DIR, fileName)
+    //     // console.log("save retropgf5 \n", dataArray)
 
-    } catch (error) {
-        console.error("An error occurred during the RetroPGF5 Live Data process:", error);
+    // } catch (error) {
+    //     console.error("An error occurred during the RetroPGF5 Live Data process:", error);
 
-    } finally {
-        console.log("RetroPGF5 Live Data process finished.");
-    }
+    // } finally {
+    //     console.log("RetroPGF5 Live Data process finished.");
+    // }
 }
 export {Run, DATA_DIR, CRON_TIMER}
