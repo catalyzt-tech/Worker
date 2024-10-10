@@ -87,25 +87,24 @@ async function fetchMetadataURL(refUid: string, client: ApolloClient<NormalizedC
     decodedDataJson
   }
 }`;
-    try {
-        const result = await client.query({
-            query: query,
-        });
-        return result.data.attestations
-            .map((attestation: any) => {
-                return JSON.parse(attestation.decodedDataJson)
-            })
-            .map((subArray: any) => {
-                const projectRefUid = subArray.find((item: any) => item.name === 'projectRefUID');
-                const metadataURL = subArray.find((item: any) => item.name === 'metadataUrl');
+try {
+    const result = await client.query({
+        query: query,
+    });
 
-                return {
-                    metadataURL: metadataURL.value.value,
-                    projectRefUid: projectRefUid.value.value
-                };
-            })
-    } catch (error) {
+    const attestation = result.data.attestations[0]; // Assuming you want the first attestation
+    const parsedData = JSON.parse(attestation.decodedDataJson);
+
+    const projectRefUid = parsedData.find((item: any) => item.name === 'projectRefUID');
+    const metadataURL = parsedData.find((item: any) => item.name === 'metadataUrl');
+
+    return {
+        metadataURL: metadataURL.value.value,
+        projectRefUid: projectRefUid.value.value
+    };
+} catch (error) {
         console.error("Error fetching data:", error);
+        return null;
     }
 }
 
@@ -115,9 +114,6 @@ export async function fetchAndProcessData(client: ApolloClient<NormalizedCacheOb
     console.log("Fetching and processing data . . .");
     try {
         const data = await fetchMetadataSnapshot(client);
-        
-        const uidArray = data.map((d: any) => d.projectRefUid);
-        
 
         const arrObjectSomething = await Promise.all(data.map(async (d: object) => {
             //@ts-ignore
@@ -131,14 +127,14 @@ export async function fetchAndProcessData(client: ApolloClient<NormalizedCacheOb
             };
         }));
 
-        // console.log("data", arrObjectSomething[0].ipfsUrl)   
+        console.log("data", arrObjectSomething)   
 
         try {
             const responses: any[] = [];
             await Promise.all(arrObjectSomething.map(async (url) => {
                 try {
-                    const response = await axios.get(url.ipfsUrl[0].metadataURL);
-                    let concatData = response.data;
+                    const response = await ipfsResolver(url.ipfsUrl.metadataURL);
+                    let concatData = response;
                     concatData["projectUid"] = url.projectRefUid;
                     concatData["impactIpfs"] = url.impactIpfs;
 
@@ -177,12 +173,12 @@ async function Run() {
         // console.log("save retropgf5 \n", dataArray)
 
     } catch (error) {
-        console.error("An error occurred during the RetroPGF5 Live Data process:", error);
+        console.error("An error occurred during the RetroPGF6 Live Data process:", error);
 
     } finally {
-        console.log("RetroPGF5 Live Data process finished.");
+        console.log("RetroPGF6 Live Data process finished.");
     }
 }
 
-export { Run, DATA_DIR, CRON_TIMER }
-// Run()
+// export { Run, DATA_DIR, CRON_TIMER }
+Run()
