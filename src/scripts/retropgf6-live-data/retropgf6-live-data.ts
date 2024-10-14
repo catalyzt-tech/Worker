@@ -45,6 +45,8 @@ query {
     }
   }) {
     decodedDataJson
+    refUID
+    time
   }
 }
 `;
@@ -53,7 +55,21 @@ query {
             query: query,
         });
 
-        const attestations = result.data.attestations.map((attestation: any) => {
+        // Create a copy of the array and sort it by "time" in descending order
+        const sortedAttestations = [...result.data.attestations].sort((a: any, b: any) => b.time - a.time);
+
+        // Filter to keep only the latest attestation for each "refUID"
+        const uniqueAttestations = new Map();
+        for (const attestation of sortedAttestations) {
+            if (!uniqueAttestations.has(attestation.refUID)) {
+                uniqueAttestations.set(attestation.refUID, attestation);
+            }
+        }
+
+        const filteredAttestations = Array.from(uniqueAttestations.values());
+
+        // Parse the decodedDataJson for each attestation
+        const attestations = filteredAttestations.map((attestation: any) => {
             return JSON.parse(attestation.decodedDataJson);
         });
 
@@ -87,22 +103,24 @@ async function fetchMetadataURL(refUid: string, client: ApolloClient<NormalizedC
     decodedDataJson
   }
 }`;
-try {
-    const result = await client.query({
-        query: query,
-    });
+    try {
+        const result = await client.query({
+            query: query,
+        });
 
-    const attestation = result.data.attestations[0]; // Assuming you want the first attestation
-    const parsedData = JSON.parse(attestation.decodedDataJson);
+        const sortedAttestations = [...result.data.attestations].sort((a: any, b: any) => b.time - a.time);
 
-    const projectRefUid = parsedData.find((item: any) => item.name === 'projectRefUID');
-    const metadataURL = parsedData.find((item: any) => item.name === 'metadataUrl');
+        const attestation = sortedAttestations[0]; // Assuming you want the first attestation
+        const parsedData = JSON.parse(attestation.decodedDataJson);
 
-    return {
-        metadataURL: metadataURL.value.value,
-        projectRefUid: projectRefUid.value.value
-    };
-} catch (error) {
+        const projectRefUid = parsedData.find((item: any) => item.name === 'projectRefUID');
+        const metadataURL = parsedData.find((item: any) => item.name === 'metadataUrl');
+
+        return {
+            metadataURL: metadataURL.value.value,
+            projectRefUid: projectRefUid.value.value
+        };
+    } catch (error) {
         console.error("Error fetching data:", error);
         return null;
     }
@@ -127,7 +145,7 @@ export async function fetchAndProcessData(client: ApolloClient<NormalizedCacheOb
             };
         }));
 
-        console.log("data", arrObjectSomething)   
+        console.log("data", arrObjectSomething)
 
         try {
             const responses: any[] = [];
