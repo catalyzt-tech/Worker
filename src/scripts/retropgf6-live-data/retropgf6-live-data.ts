@@ -180,5 +180,4 @@ async function Run() {
     }
 }
 
-// export { Run, DATA_DIR, CRON_TIMER }
-Run()
+export { Run, DATA_DIR, CRON_TIMER }
